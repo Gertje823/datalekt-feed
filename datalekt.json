@@ -1,5 +1,41 @@
 [
     {
+        "Date": 1678406400.0,
+        "Org": "Gemeente Eindhoven",
+        "Headline": "Brieven naar verkeerde adres: Eindhoven meldt datalek alsnog bij privacywaakhond",
+        "Source": "ED",
+        "URL": "https://www.ed.nl/eindhoven/brieven-naar-verkeerde-adres-eindhoven-meldt-datalek-alsnog-bij-privacywaakhond~ab3f629d/?cb=0db936d4cfe1868e3574b8326db9f5a1",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "339",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1678320000.0,
+        "Org": "Royal Dirkzwager",
+        "Headline": "Cyberaanval treft maritiem dienstverlener Royal Dirkzwager",
+        "Source": "Schuttevaer",
+        "URL": "https://www.schuttevaer.nl/nieuws/actueel/2023/03/09/cyberaanval-treft-maritiem-dienstverlener-royal-dirkzwager/",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "onbekend",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1678233600.0,
+        "Org": "WilgaerdenLeekerweideGroep (WLGroep)",
+        "Headline": "Hack legt groot deel systemen bij Westfriese zorgorganisatie Wilgaerden plat",
+        "Source": "NH Nieuws",
+        "URL": "https://www.nhnieuws.nl/nieuws/315856/hack-legt-groot-deel-systemen-bij-westfriese-zorgorganisatie-wilgaerden-plat",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "onbekend",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1678233600.0,
         "Org": "Attent Zorg en Behandeling",
         "Headline": "Zorginstelling Attent getroffen door datalek na ransomware",
