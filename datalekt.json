@@ -96,6 +96,18 @@
         "RansomAmount": ""
     },
     {
+        "Date": 1677110400.0,
+        "Org": "Royal Smilde",
+        "Headline": "Voedingsmiddelenbedrijf Royal Smilde betrapt hackers in 2022 op heterdaad",
+        "Source": "Digital Trust Center",
+        "URL": "https://www.digitaltrustcenter.nl/ondernemersverhalen/voedingsmiddelenbedrijf-royal-smilde-betrapt-hackers-op-heterdaad",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "nee",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1677024000.0,
         "Org": "Manpower Group",
         "Headline": "Vermeend datalek bij Manpower is Deloitte-accountants niet aan te rekenen",
