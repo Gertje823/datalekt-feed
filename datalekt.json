@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1678752000.0,
+        "Org": "Gemeente Krimpen aan den IJssel",
+        "Headline": "Krimpen aan den IJssel maakt 175.000 euro over naar criminelen",
+        "Source": "Telegraaf",
+        "URL": "https://www.telegraaf.nl/nieuws/990300517/krimpen-aan-den-i-jssel-maakt-175-000-euro-over-naar-criminelen",
+        "Event": "Business Email Compromise (BEC)",
+        "RecordsStolen": "",
+        "Damage": "175.000",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1678406400.0,
         "Org": "Gemeente Eindhoven",
         "Headline": "Brieven naar verkeerde adres: Eindhoven meldt datalek alsnog bij privacywaakhond",
