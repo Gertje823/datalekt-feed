@@ -2,5 +2,5 @@
 # Datalekt Feed
 Generates a JSON feed from [datalekt.nl](https://datalekt.nl)
 
-[JSON feed](https://raw.githubusercontent.com/Gertje823/datalekt-feed/main/datalekt.json)
+[JSON feed](https://raw.githubusercontent.com/Gertje823/datalekt-feed/main/datalekt.json)  
 [RSS feed](https://raw.githubusercontent.com/Gertje823/datalekt-feed/main/rss.xml)
