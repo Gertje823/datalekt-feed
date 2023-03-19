@@ -5,6 +5,7 @@ import requests
 import sqlite3
 from feedgen.feed import FeedGenerator
 import hashlib
+import xml.dom.minidom
 
 fg = FeedGenerator()
 
@@ -69,4 +70,7 @@ fg.docs("https://github.com/Gertje823/datalekt-feed")
 fg.description(f"RSS feed of datalekt.nl")
 fg.language("nl")
 
-fg.rss_file('rss.xml')
+fg.rss_file('rss.xml')    pretty_xml_as_string = dom.toprettyxml()
+    f = open("rss.xml", "w")
+    f.write(pretty_xml_as_string)
+    f.close()
