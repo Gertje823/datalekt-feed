@@ -54,23 +54,37 @@ for row in rows:
 
     except ValueError:
         continue
+try:
+    f = open("datalekt.json", "r")
+except FileNotFoundError:
+    f = open("datalekt.json", "w")
+    f.write(json.dumps(json_obj[::-1], indent=4))
+    f.close()
+    f = open("datalekt.json", "r")
 
-# Write Json
+if f.read() == json.dumps(json_obj[::-1], indent=4):
+    # No changes
+    print("No changes")
+    exit()
+else:
+    # Write Json
+    f = open("datalekt.json", "w")
+    f.write(json.dumps(json_obj[::-1], indent=4))
+    f.close()
 
-f = open("datalekt.json", "w")
-f.write(json.dumps(json_obj[::-1], indent=4))
-f.close()
+    # Write RSS
+    fg.id(f"12")
+    fg.title("DataLekt RSS feed")
+    fg.author({"name":"Gertje823"})
+    fg.link(href=f"https://datalekt.nl", rel="alternate")
+    fg.docs("https://github.com/Gertje823/datalekt-feed")
+    fg.description(f"RSS feed of datalekt.nl")
+    fg.language("nl")
+    fg.rss_file('rss.xml')
+    #fg.atom_file('atom.xml')
 
-# Write RSS
-fg.id(f"12")
-fg.title("DataLekt RSS feed")
-fg.author({"name":"Gertje823"})
-fg.link(href=f"https://datalekt.nl", rel="alternate")
-fg.docs("https://github.com/Gertje823/datalekt-feed")
-fg.description(f"RSS feed of datalekt.nl")
-fg.language("nl")
-
-fg.rss_file('rss.xml')    pretty_xml_as_string = dom.toprettyxml()
+    dom = xml.dom.minidom.parse('rss.xml')
+    pretty_xml_as_string = dom.toprettyxml()
     f = open("rss.xml", "w")
     f.write(pretty_xml_as_string)
     f.close()
