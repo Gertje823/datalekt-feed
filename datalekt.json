@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1679270400.0,
+        "Org": "Gemeente Stadskanaal",
+        "Headline": "Priv\u00e9gegevens van bezwaarmakende inwoners Stadskanaal op straat",
+        "Source": "Dagblad van het Noorden",
+        "URL": "https://dvhn.nl/groningen/Stadskanaal-gooit-priv%C3%A9gegevens-van-inwoners-op-straat-28308347.html",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "20",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1678924800.0,
         "Org": "Waternet (Waterleidingduinen)",
         "Headline": "Gegevens van tienduizenden bezoekers Amsterdamse Waterleidingduinen gelekt",

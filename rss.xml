@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 19 Mar 2023 18:14:08 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 22 Mar 2023 18:14:42 +0000</lastBuildDate>
+		<item>
+			<title>Privégegevens van bezwaarmakende inwoners Stadskanaal op straat</title>
+			<link>https://dvhn.nl/groningen/Stadskanaal-gooit-priv%C3%A9gegevens-van-inwoners-op-straat-28308347.html</link>
+			<description>Privégegevens van bezwaarmakende inwoners Stadskanaal op straat</description>
+			<guid isPermaLink="false">308268173105</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gegevens van tienduizenden bezoekers Amsterdamse Waterleidingduinen gelekt</title>
 			<link>https://www.nu.nl/tech/6255540/gegevens-van-tienduizenden-bezoekers-amsterdamse-waterleidingduinen-gelekt.html</link>
