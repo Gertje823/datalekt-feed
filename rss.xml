@@ -7,7 +7,39 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 27 Mar 2023 18:16:42 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 29 Mar 2023 12:25:50 +0000</lastBuildDate>
+		<item>
+			<title>Hacker (23) steelt voor 10.000 euro aan cadeaubonnen door in te breken bij een bedrijf in Monnickendam</title>
+			<link>https://www.noordhollandsdagblad.nl/cnt/dmf20230327_54122499</link>
+			<description>Hacker (23) steelt voor 10.000 euro aan cadeaubonnen door in te breken bij een bedrijf in Monnickendam</description>
+			<guid isPermaLink="false">837578826677</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>NS waarschuwt honderdduizenden klanten vanwege datalek via Blauw</title>
+			<link>https://nos.nl/artikel/2469236-ns-waarschuwt-honderdduizenden-klanten-vanwege-datalek</link>
+			<description>NS waarschuwt honderdduizenden klanten vanwege datalek via Blauw</description>
+			<guid isPermaLink="false">641284591683</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Twee aanhoudingen voor fraude met QR-codes van GGD Amsterdam</title>
+			<link>https://beveiligingnieuws.nl/twee-aanhoudingen-voor-fraude-met-qr-codes/</link>
+			<description>Twee aanhoudingen voor fraude met QR-codes van GGD Amsterdam</description>
+			<guid isPermaLink="false">679231982813</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Softwareleverancier van Blauw getroffen door datalek</title>
+			<link>https://nos.nl/artikel/2469236-ns-waarschuwt-honderdduizenden-klanten-vanwege-datalek</link>
+			<description>Softwareleverancier van Blauw getroffen door datalek</description>
+			<guid isPermaLink="false">641284591683</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Smoelenboek belandt in supermarkt na overlast, Maerlant-Lyceum meldt datalek</title>
 			<link>https://www.omroepwest.nl/nieuws/4695901/smoelenboek-belandt-in-supermarkt-na-overlast-school-meldt-datalek</link>
@@ -215,6 +247,14 @@
 			<guid isPermaLink="false">222312255257</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Samsung stelt klanten op de hoogte van datalek bij reparateur LetMeRepair in Benelux</title>
+			<link>https://tweakers.net/nieuws/205804/samsung-stelt-klanten-op-de-hoogte-van-datalek-bij-reparateur-in-benelux.html</link>
+			<description>Samsung stelt klanten op de hoogte van datalek bij reparateur LetMeRepair in Benelux</description>
+			<guid isPermaLink="false">293785215527</guid>
+			<category>Gijzelsoftware (ransomware)</category>
+			<pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Samsung stelt klanten op de hoogte van datalek bij reparateur LetMeRepair in Benelux</title>
@@ -4895,6 +4935,14 @@
 			<guid isPermaLink="false">152849898457</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Lek in site parkeerbedrijf bij Schiphol faciliteerde diefstal gegevens en auto's</title>
+			<link>https://tweakers.net/nieuws/120071/lek-in-site-parkeerbedrijf-bij-schiphol-faciliteerde-diefstal-gegevens-en-autos.html</link>
+			<description>Lek in site parkeerbedrijf bij Schiphol faciliteerde diefstal gegevens en auto's</description>
+			<guid isPermaLink="false">132132895965</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Lek in site parkeerbedrijf bij Schiphol faciliteerde diefstal gegevens en auto's</title>

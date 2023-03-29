@@ -1,5 +1,53 @@
 [
     {
+        "Date": 1679961600.0,
+        "Org": "Onbekende organisatie",
+        "Headline": "Hacker (23) steelt voor 10.000 euro aan cadeaubonnen door in te breken bij een bedrijf in Monnickendam",
+        "Source": "Noordhollands Dagblad",
+        "URL": "https://www.noordhollandsdagblad.nl/cnt/dmf20230327_54122499",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "10.000",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1679961600.0,
+        "Org": "Nederlandse Spoorwegen (NS)",
+        "Headline": "NS waarschuwt honderdduizenden klanten vanwege datalek via Blauw",
+        "Source": "NOS",
+        "URL": "https://nos.nl/artikel/2469236-ns-waarschuwt-honderdduizenden-klanten-vanwege-datalek",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "780.000",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1679961600.0,
+        "Org": "GGD Amsterdam",
+        "Headline": "Twee aanhoudingen voor fraude met QR-codes van GGD Amsterdam",
+        "Source": "Beveiling Nieuws",
+        "URL": "https://beveiligingnieuws.nl/twee-aanhoudingen-voor-fraude-met-qr-codes/",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1679961600.0,
+        "Org": "Blauw Research",
+        "Headline": "Softwareleverancier van Blauw getroffen door datalek",
+        "Source": "NOS",
+        "URL": "https://nos.nl/artikel/2469236-ns-waarschuwt-honderdduizenden-klanten-vanwege-datalek",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1679443200.0,
         "Org": "Maerlant-Lyceum",
         "Headline": "Smoelenboek belandt in supermarkt na overlast, Maerlant-Lyceum meldt datalek",
@@ -309,6 +357,18 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1674086400.0,
+        "Org": "Samsung Electronics Benelux",
+        "Headline": "Samsung stelt klanten op de hoogte van datalek bij reparateur LetMeRepair in Benelux",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/205804/samsung-stelt-klanten-op-de-hoogte-van-datalek-bij-reparateur-in-benelux.html",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "onbekend",
         "RansomAmount": ""
     },
     {
@@ -7325,6 +7385,18 @@
         "Headline": "Hacker kreeg e-mail voor politie binnen",
         "Source": "NOS",
         "URL": "https://nos.nl/artikel/2153947-hacker-kreeg-e-mail-voor-politie-binnen",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1484438400.0,
+        "Org": "VIP Parking",
+        "Headline": "Lek in site parkeerbedrijf bij Schiphol faciliteerde diefstal gegevens en auto's",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/120071/lek-in-site-parkeerbedrijf-bij-schiphol-faciliteerde-diefstal-gegevens-en-autos.html",
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
