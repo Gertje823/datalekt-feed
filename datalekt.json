@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1680048000.0,
+        "Org": "VodafoneZiggo",
+        "Headline": "Ook VodafoneZiggo getroffen door datalek bij marktonderzoeker Blauw",
+        "Source": "NU.nl",
+        "URL": "https://www.nu.nl/tech/6257296/ook-vodafoneziggo-getroffen-door-datalek-bij-marktonderzoeker.html",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1679961600.0,
         "Org": "Onbekende organisatie",
         "Headline": "Hacker (23) steelt voor 10.000 euro aan cadeaubonnen door in te breken bij een bedrijf in Monnickendam",
