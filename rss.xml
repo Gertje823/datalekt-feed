@@ -7,12 +7,36 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 29 Mar 2023 18:21:06 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 30 Mar 2023 12:24:05 +0000</lastBuildDate>
 		<item>
-			<title>Ook VodafoneZiggo getroffen door datalek bij marktonderzoeker Blauw</title>
-			<link>https://www.nu.nl/tech/6257296/ook-vodafoneziggo-getroffen-door-datalek-bij-marktonderzoeker.html</link>
-			<description>Ook VodafoneZiggo getroffen door datalek bij marktonderzoeker Blauw</description>
-			<guid isPermaLink="false">127678167225</guid>
+			<title>Gegevens duizenden bezoekers Vrienden van Amstel LIVE op straat door datalek via Blauw</title>
+			<link>https://www.nu.nl/tech/6257419/gegevens-duizenden-bezoekers-vrienden-van-amstel-live-op-straat-door-datalek.html</link>
+			<description>Gegevens duizenden bezoekers Vrienden van Amstel LIVE op straat door datalek via Blauw</description>
+			<guid isPermaLink="false">162716652130</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>VodafoneZiggo: Persoonsgegevens van ongeveer 700.000 klanten gelekt via Blauw</title>
+			<link>https://www.ad.nl/tech/vodafoneziggo-persoonsgegevens-van-ongeveer-700-000-klanten-gelekt~a4648bc1/</link>
+			<description>VodafoneZiggo: Persoonsgegevens van ongeveer 700.000 klanten gelekt via Blauw</description>
+			<guid isPermaLink="false">157369805850</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Huurcommissie informeert klanten uit voorzorg over datalek bij leverancier</title>
+			<link>https://www.huurcommissie.nl/actueel/nieuws/2023/03/29/huurcommissie-informeert-klanten-uit-voorzorg-over-datalek-bij-leverancier</link>
+			<description>Huurcommissie informeert klanten uit voorzorg over datalek bij leverancier</description>
+			<guid isPermaLink="false">174354342454</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>ArboNed informeert klanten uit voorzorg over datalek bij leverancier klanttevredenheidsonderzoek</title>
+			<link>https://www.arboned.nl/nieuws/arboned-informeert-klanten-uit-voorzorg-over-datalek-bij-leverancier</link>
+			<description>ArboNed informeert klanten uit voorzorg over datalek bij leverancier klanttevredenheidsonderzoek</description>
+			<guid isPermaLink="false">288007442824</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
