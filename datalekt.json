@@ -1,5 +1,29 @@
 [
     {
+        "Date": 1680048000.0,
+        "Org": "Nebu",
+        "Headline": "Datalek softwarebedrijf Nebu pijnigt marktonderzoekers Blauw en diens klanten",
+        "Source": "Computable",
+        "URL": "https://www.computable.nl/artikel/nieuws/security/7487605/250449/datalek-softwarebedrijf-nebu-pijnigt-marktonderzoekers.html",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1680134400.0,
+        "Org": "Koninklijke Nederlandse Golf Federatie (KNGF)",
+        "Headline": "Ook NGF getroffen door datalek via Blauw",
+        "Source": "NGF",
+        "URL": "https://www.ngf.nl/over-de-ngf/nieuws/2023/mrt/ngf-q-and-a",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "107.000",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1680134400.0,
         "Org": "Heineken",
         "Headline": "Gegevens duizenden bezoekers Vrienden van Amstel LIVE op straat door datalek via Blauw",

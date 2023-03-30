@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 30 Mar 2023 12:24:05 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 30 Mar 2023 18:13:29 +0000</lastBuildDate>
+		<item>
+			<title>Datalek softwarebedrijf Nebu pijnigt marktonderzoekers Blauw en diens klanten</title>
+			<link>https://www.computable.nl/artikel/nieuws/security/7487605/250449/datalek-softwarebedrijf-nebu-pijnigt-marktonderzoekers.html</link>
+			<description>Datalek softwarebedrijf Nebu pijnigt marktonderzoekers Blauw en diens klanten</description>
+			<guid isPermaLink="false">159682320390</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ook NGF getroffen door datalek via Blauw</title>
+			<link>https://www.ngf.nl/over-de-ngf/nieuws/2023/mrt/ngf-q-and-a</link>
+			<description>Ook NGF getroffen door datalek via Blauw</description>
+			<guid isPermaLink="false">260542257561</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gegevens duizenden bezoekers Vrienden van Amstel LIVE op straat door datalek via Blauw</title>
 			<link>https://www.nu.nl/tech/6257419/gegevens-duizenden-bezoekers-vrienden-van-amstel-live-op-straat-door-datalek.html</link>
