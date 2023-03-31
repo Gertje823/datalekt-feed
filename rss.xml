@@ -7,20 +7,36 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 30 Mar 2023 18:13:29 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 31 Mar 2023 01:01:55 +0000</lastBuildDate>
 		<item>
-			<title>Datalek softwarebedrijf Nebu pijnigt marktonderzoekers Blauw en diens klanten</title>
-			<link>https://www.computable.nl/artikel/nieuws/security/7487605/250449/datalek-softwarebedrijf-nebu-pijnigt-marktonderzoekers.html</link>
-			<description>Datalek softwarebedrijf Nebu pijnigt marktonderzoekers Blauw en diens klanten</description>
-			<guid isPermaLink="false">159682320390</guid>
+			<title>Trevvel getroffen door datalek via marketingbureau Blauw</title>
+			<link>https://nos.nl/artikel/2469510-datalek-nederlandse-bedrijven-steeds-groter-zeker-2-miljoen-klanten-getroffen</link>
+			<description>Trevvel getroffen door datalek via marketingbureau Blauw</description>
+			<guid isPermaLink="false">172841330894</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
-			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Ook NGF getroffen door datalek via Blauw</title>
-			<link>https://www.ngf.nl/over-de-ngf/nieuws/2023/mrt/ngf-q-and-a</link>
-			<description>Ook NGF getroffen door datalek via Blauw</description>
-			<guid isPermaLink="false">260542257561</guid>
+			<title>Stadgenoot getroffen door datalek via marketingbureau Blauw</title>
+			<link>https://nos.nl/artikel/2469510-datalek-nederlandse-bedrijven-steeds-groter-zeker-2-miljoen-klanten-getroffen</link>
+			<description>Stadgenoot getroffen door datalek via marketingbureau Blauw</description>
+			<guid isPermaLink="false">172841330894</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>RVO Nederland getroffen door datalek via marketingbureau Blauw</title>
+			<link>https://nos.nl/artikel/2469510-datalek-nederlandse-bedrijven-steeds-groter-zeker-2-miljoen-klanten-getroffen</link>
+			<description>RVO Nederland getroffen door datalek via marketingbureau Blauw</description>
+			<guid isPermaLink="false">172841330894</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>KNGF getroffen door datalek via marketingbureau Blauw</title>
+			<link>https://nos.nl/artikel/2469510-datalek-nederlandse-bedrijven-steeds-groter-zeker-2-miljoen-klanten-getroffen</link>
+			<description>KNGF getroffen door datalek via marketingbureau Blauw</description>
+			<guid isPermaLink="false">172841330894</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
@@ -33,10 +49,26 @@
 			<pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
+			<title>CZ getroffen door datalek via marketingbureau Blauw</title>
+			<link>https://nos.nl/artikel/2469510-datalek-nederlandse-bedrijven-steeds-groter-zeker-2-miljoen-klanten-getroffen</link>
+			<description>CZ getroffen door datalek via marketingbureau Blauw</description>
+			<guid isPermaLink="false">172841330894</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>VodafoneZiggo: Persoonsgegevens van ongeveer 700.000 klanten gelekt via Blauw</title>
 			<link>https://www.ad.nl/tech/vodafoneziggo-persoonsgegevens-van-ongeveer-700-000-klanten-gelekt~a4648bc1/</link>
 			<description>VodafoneZiggo: Persoonsgegevens van ongeveer 700.000 klanten gelekt via Blauw</description>
 			<guid isPermaLink="false">157369805850</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek softwarebedrijf Nebu pijnigt marktonderzoekers Blauw en diens klanten</title>
+			<link>https://www.computable.nl/artikel/nieuws/security/7487605/250449/datalek-softwarebedrijf-nebu-pijnigt-marktonderzoekers.html</link>
+			<description>Datalek softwarebedrijf Nebu pijnigt marktonderzoekers Blauw en diens klanten</description>
+			<guid isPermaLink="false">159682320390</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
@@ -49,10 +81,10 @@
 			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>ArboNed informeert klanten uit voorzorg over datalek bij leverancier klanttevredenheidsonderzoek</title>
-			<link>https://www.arboned.nl/nieuws/arboned-informeert-klanten-uit-voorzorg-over-datalek-bij-leverancier</link>
-			<description>ArboNed informeert klanten uit voorzorg over datalek bij leverancier klanttevredenheidsonderzoek</description>
-			<guid isPermaLink="false">288007442824</guid>
+			<title>ArboNed getroffen door datalek via marketingbureau Blauw</title>
+			<link>https://nos.nl/artikel/2469510-datalek-nederlandse-bedrijven-steeds-groter-zeker-2-miljoen-klanten-getroffen</link>
+			<description>ArboNed getroffen door datalek via marketingbureau Blauw</description>
+			<guid isPermaLink="false">172841330894</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
@@ -3201,18 +3233,18 @@
 			<pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Account Nuenen gehackt en misbruikt voor duizenden nepmails</title>
-			<link>https://www.ed.nl/geldrop-mierlo-nuenen/vist-gemeente-naar-bankgegevens-account-nuenen-gehackt-en-misbruikt-voor-duizenden-nepmails~a29f1973/</link>
-			<description>Account Nuenen gehackt en misbruikt voor duizenden nepmails</description>
-			<guid isPermaLink="false">242104880647</guid>
-			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
-			<pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Amsterdamse woningcorporatie Stadgenoot lekt data 30.000 mensen</title>
 			<link>https://www.security.nl/posting/691728/Amsterdamse+woningcorporatie+Stadgenoot+lekt+data+30_000+mensen</link>
 			<description>Amsterdamse woningcorporatie Stadgenoot lekt data 30.000 mensen</description>
 			<guid isPermaLink="false">486147604697</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Account Nuenen gehackt en misbruikt voor duizenden nepmails</title>
+			<link>https://www.ed.nl/geldrop-mierlo-nuenen/vist-gemeente-naar-bankgegevens-account-nuenen-gehackt-en-misbruikt-voor-duizenden-nepmails~a29f1973/</link>
+			<description>Account Nuenen gehackt en misbruikt voor duizenden nepmails</description>
+			<guid isPermaLink="false">242104880647</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
 		</item>
