@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 31 Mar 2023 18:13:27 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 03 Apr 2023 18:13:43 +0000</lastBuildDate>
+		<item>
+			<title>Maassluis lekte telefoonnummers inwoners die melding via Fixi-app maakten</title>
+			<link>https://www.security.nl/posting/791490/Maassluis+lekte+telefoonnummers+inwoners+die+melding+via+Fixi-app+maakten</link>
+			<description>Maassluis lekte telefoonnummers inwoners die melding via Fixi-app maakten</description>
+			<guid isPermaLink="false">320942895287</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Pensioenfonds PFZW ook getroffen door datalek bij marktonderzoeker Blauw</title>
+			<link>https://www.security.nl/posting/791516/Pensioenfondsen+PME+en+PFZW+ook+getroffen+door+datalek+bij+marktonderzoeker</link>
+			<description>Pensioenfonds PFZW ook getroffen door datalek bij marktonderzoeker Blauw</description>
+			<guid isPermaLink="false">244551396708</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>ProRail getroffen door datalek via marketingbureau Blauw</title>
 			<link>https://www.limburger.nl/cnt/dmf20230331_93665727</link>
@@ -17,10 +33,10 @@
 			<pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Datalek bij Blauw treft PME: data zowel werkenden als ouderen op straat</title>
-			<link>https://www.telegraaf.nl/financieel/773625688/datalek-treft-pensioenfondsen-data-zowel-werkenden-als-ouderen-op-straat</link>
-			<description>Datalek bij Blauw treft PME: data zowel werkenden als ouderen op straat</description>
-			<guid isPermaLink="false">245237438766</guid>
+			<title>Pensioenfonds PME ook getroffen door datalek bij marktonderzoeker Blauw</title>
+			<link>https://www.security.nl/posting/791516/Pensioenfondsen+PME+en+PFZW+ook+getroffen+door+datalek+bij+marktonderzoeker</link>
+			<description>Pensioenfonds PME ook getroffen door datalek bij marktonderzoeker Blauw</description>
+			<guid isPermaLink="false">244551396708</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
 		</item>

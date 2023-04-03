@@ -1,6 +1,30 @@
 [
     {
         "Date": 1680220800.0,
+        "Org": "Gemeente Maassluis",
+        "Headline": "Maassluis lekte telefoonnummers inwoners die melding via Fixi-app maakten",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/791490/Maassluis+lekte+telefoonnummers+inwoners+die+melding+via+Fixi-app+maakten",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "80",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1680220800.0,
+        "Org": "Stichting Pensioenfonds Zorg en Welzijn (PFZW)",
+        "Headline": "Pensioenfonds PFZW ook getroffen door datalek bij marktonderzoeker Blauw",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/791516/Pensioenfondsen+PME+en+PFZW+ook+getroffen+door+datalek+bij+marktonderzoeker",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1680220800.0,
         "Org": "ProRail",
         "Headline": "ProRail getroffen door datalek via marketingbureau Blauw",
         "Source": "Limburger",
@@ -14,9 +38,9 @@
     {
         "Date": 1680220800.0,
         "Org": "PME Pensioenfonds",
-        "Headline": "Datalek bij Blauw treft PME: data zowel werkenden als ouderen op straat",
-        "Source": "Telegraaf",
-        "URL": "https://www.telegraaf.nl/financieel/773625688/datalek-treft-pensioenfondsen-data-zowel-werkenden-als-ouderen-op-straat",
+        "Headline": "Pensioenfonds PME ook getroffen door datalek bij marktonderzoeker Blauw",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/791516/Pensioenfondsen+PME+en+PFZW+ook+getroffen+door+datalek+bij+marktonderzoeker",
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
