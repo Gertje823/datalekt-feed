@@ -1,5 +1,29 @@
 [
     {
+        "Date": 1680566400.0,
+        "Org": "Koninklijke Nederlandse Voetbalbond (KNVB)",
+        "Headline": "Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers",
+        "Source": "NU.nl",
+        "URL": "https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1680480000.0,
+        "Org": "Mobilisation for the Environment (MOB)",
+        "Headline": "Milieuactiegroep MOB meldt datalek met gegevens donateurs bij AP",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/791834/Milieuactiegroep+MOB+meldt+datalek+met+gegevens+donateurs+bij+AP",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "2.400",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1680220800.0,
         "Org": "Gemeente Maassluis",
         "Headline": "Maassluis lekte telefoonnummers inwoners die melding via Fixi-app maakten",

@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 03 Apr 2023 18:13:43 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 04 Apr 2023 18:12:38 +0000</lastBuildDate>
+		<item>
+			<title>Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers</title>
+			<link>https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html</link>
+			<description>Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers</description>
+			<guid isPermaLink="false">279502320768</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Milieuactiegroep MOB meldt datalek met gegevens donateurs bij AP</title>
+			<link>https://www.security.nl/posting/791834/Milieuactiegroep+MOB+meldt+datalek+met+gegevens+donateurs+bij+AP</link>
+			<description>Milieuactiegroep MOB meldt datalek met gegevens donateurs bij AP</description>
+			<guid isPermaLink="false">299847731011</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Maassluis lekte telefoonnummers inwoners die melding via Fixi-app maakten</title>
 			<link>https://www.security.nl/posting/791490/Maassluis+lekte+telefoonnummers+inwoners+die+melding+via+Fixi-app+maakten</link>
