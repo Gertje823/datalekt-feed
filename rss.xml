@@ -7,7 +7,55 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 05 Apr 2023 18:16:46 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 08 Apr 2023 12:19:42 +0000</lastBuildDate>
+		<item>
+			<title>Gegevens Panteia mogelijk onderdeel van datalek Nebu</title>
+			<link>https://www.anvr.nl/lists/anvrnieuws/artikel.aspx?ID=1882</link>
+			<description>Gegevens Panteia mogelijk onderdeel van datalek Nebu</description>
+			<guid isPermaLink="false">203451189890</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gegevens ANVR-leden mogelijk onderdeel van datalek via Panteia</title>
+			<link>https://www.anvr.nl/lists/anvrnieuws/artikel.aspx?ID=1882</link>
+			<description>Gegevens ANVR-leden mogelijk onderdeel van datalek via Panteia</description>
+			<guid isPermaLink="false">203451189890</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>HvA getroffen door datalek bij softwareleverancier via Etil</title>
+			<link>https://www.vpngids.nl/nieuws/hogeschool-van-amsterdam-waarschuwt-voor-datalek/</link>
+			<description>HvA getroffen door datalek bij softwareleverancier via Etil</description>
+			<guid isPermaLink="false">261564798417</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gegevens inwoners gemeente Woerden mogelijk onderdeel van datalek via Dimensus</title>
+			<link>https://www.ad.nl/woerden/gegevens-duizenden-woerdenaren-liggen-mogelijk-op-straat-door-datalek~a2e8b934/</link>
+			<description>Gegevens inwoners gemeente Woerden mogelijk onderdeel van datalek via Dimensus</description>
+			<guid isPermaLink="false">313672465709</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gegevens Dimensus mogelijk onderdeel van datalek Nebu</title>
+			<link>https://www.ad.nl/woerden/gegevens-duizenden-woerdenaren-liggen-mogelijk-op-straat-door-datalek~a2e8b934/</link>
+			<description>Gegevens Dimensus mogelijk onderdeel van datalek Nebu</description>
+			<guid isPermaLink="false">313672465709</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Al 139 organisaties melden dat ze getroffen zijn door datalek Nebu</title>
+			<link>https://www.nu.nl/tech/6258327/al-139-organisaties-melden-dat-ze-getroffen-zijn-door-datalek.html</link>
+			<description>Al 139 organisaties melden dat ze getroffen zijn door datalek Nebu</description>
+			<guid isPermaLink="false">233411384392</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers</title>
 			<link>https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html</link>
@@ -15,6 +63,22 @@
 			<guid isPermaLink="false">279502320768</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Etil getroffen door datalek bij softwareleverancier Nebu</title>
+			<link>https://www.vpngids.nl/nieuws/hogeschool-van-amsterdam-waarschuwt-voor-datalek/</link>
+			<description>Etil getroffen door datalek bij softwareleverancier Nebu</description>
+			<guid isPermaLink="false">261564798417</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek Nebu treft ook Right Marktonderzoek</title>
+			<link>https://nieuws.nl/algemeen/20230403/gemeenten-en-pensioenfonds-pfzw-ook-mogelijk-dupe-datalek/</link>
+			<description>Datalek Nebu treft ook Right Marktonderzoek</description>
+			<guid isPermaLink="false">139213484671</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Milieuactiegroep MOB meldt datalek met gegevens donateurs bij AP</title>
@@ -25,12 +89,36 @@
 			<pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Maassluis lekte telefoonnummers inwoners die melding via Fixi-app maakten</title>
-			<link>https://www.security.nl/posting/791490/Maassluis+lekte+telefoonnummers+inwoners+die+melding+via+Fixi-app+maakten</link>
-			<description>Maassluis lekte telefoonnummers inwoners die melding via Fixi-app maakten</description>
-			<guid isPermaLink="false">320942895287</guid>
+			<title>Datalek bij een van de externe partners gemeente Oegstgeest</title>
+			<link>https://www.nieuwsleiden.nl/leiden/datalek-bij-stads-en-wijkenquete-door-hack-bij-externe-partner/</link>
+			<description>Datalek bij een van de externe partners gemeente Oegstgeest</description>
+			<guid isPermaLink="false">307567147015</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
-			<pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij een van de externe partners gemeente Oegstgeest</title>
+			<link>https://www.nieuwsleiden.nl/leiden/datalek-bij-stads-en-wijkenquete-door-hack-bij-externe-partner/</link>
+			<description>Datalek bij een van de externe partners gemeente Oegstgeest</description>
+			<guid isPermaLink="false">307567147015</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij een van de externe partners gemeente Oegstgeest</title>
+			<link>https://www.nieuwsleiden.nl/leiden/datalek-bij-stads-en-wijkenquete-door-hack-bij-externe-partner/</link>
+			<description>Datalek bij een van de externe partners gemeente Oegstgeest</description>
+			<guid isPermaLink="false">307567147015</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek treft ook klant tevredenheidsonderzoek Circulus</title>
+			<link>https://nieuws.nl/algemeen/20230403/gemeenten-en-pensioenfonds-pfzw-ook-mogelijk-dupe-datalek/</link>
+			<description>Datalek treft ook klant tevredenheidsonderzoek Circulus</description>
+			<guid isPermaLink="false">139213484671</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Pensioenfonds PFZW ook getroffen door datalek bij marktonderzoeker Blauw</title>
@@ -57,12 +145,36 @@
 			<pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
+			<title>Datalek bij meldpunt overlast Tata Steel van Omgevingsdienst NZKG</title>
+			<link>https://www.noordhollandsdagblad.nl/cnt/dmf20230331_62167993</link>
+			<description>Datalek bij meldpunt overlast Tata Steel van Omgevingsdienst NZKG</description>
+			<guid isPermaLink="false">325123650992</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Nationale Postcode Loterij getroffen door datalek via marketingbureau Blauw</title>
 			<link>https://www.limburger.nl/cnt/dmf20230331_93665727</link>
 			<description>Nationale Postcode Loterij getroffen door datalek via marketingbureau Blauw</description>
 			<guid isPermaLink="false">394659345667</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Maassluis lekte telefoonnummers inwoners die melding via Fixi-app maakten</title>
+			<link>https://www.security.nl/posting/791490/Maassluis+lekte+telefoonnummers+inwoners+die+melding+via+Fixi-app+maakten</link>
+			<description>Maassluis lekte telefoonnummers inwoners die melding via Fixi-app maakten</description>
+			<guid isPermaLink="false">320942895287</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gegevens van duizenden huurders Volkshuisvesting Arnhem mogelijk op straat na datalek</title>
+			<link>https://www.gld.nl/nieuws/7912209/gegevens-van-duizenden-huurders-mogelijk-op-straat-na-datalek</link>
+			<description>Gegevens van duizenden huurders Volkshuisvesting Arnhem mogelijk op straat na datalek</description>
+			<guid isPermaLink="false">780475768808</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Vivare getroffen door datalek via marketingbureau Blauw</title>
@@ -153,6 +265,14 @@
 			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
+			<title>Persoonlijke data bezoekers Rotterdams filmfestival mogelijk gelekt</title>
+			<link>https://www.ad.nl/rotterdam/persoonlijke-data-bezoekers-rotterdams-filmfestival-mogelijk-gelekt~a62cd9b2/</link>
+			<description>Persoonlijke data bezoekers Rotterdams filmfestival mogelijk gelekt</description>
+			<guid isPermaLink="false">110622367080</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Huurcommissie informeert klanten uit voorzorg over datalek bij leverancier</title>
 			<link>https://www.huurcommissie.nl/actueel/nieuws/2023/03/29/huurcommissie-informeert-klanten-uit-voorzorg-over-datalek-bij-leverancier</link>
 			<description>Huurcommissie informeert klanten uit voorzorg over datalek bij leverancier</description>
@@ -190,6 +310,14 @@
 			<description>Twee aanhoudingen voor fraude met QR-codes van GGD Amsterdam</description>
 			<guid isPermaLink="false">679231982813</guid>
 			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Refter past bestelssyteem aan na privacyschending</title>
+			<link>https://ans-online.nl/artikelen/refter-past-bestelssyteem-aan-na-privacyschending/</link>
+			<description>Refter past bestelssyteem aan na privacyschending</description>
+			<guid isPermaLink="false">317211147038</guid>
+			<category>AVG compliance issue</category>
 			<pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
