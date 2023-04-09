@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 08 Apr 2023 12:19:42 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 09 Apr 2023 12:20:00 +0000</lastBuildDate>
 		<item>
 			<title>Gegevens Panteia mogelijk onderdeel van datalek Nebu</title>
 			<link>https://www.anvr.nl/lists/anvrnieuws/artikel.aspx?ID=1882</link>
@@ -21,6 +21,14 @@
 			<link>https://www.anvr.nl/lists/anvrnieuws/artikel.aspx?ID=1882</link>
 			<description>Gegevens ANVR-leden mogelijk onderdeel van datalek via Panteia</description>
 			<guid isPermaLink="false">203451189890</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek via Dimensus in Den Haag: gegevens van 36.000 inwoners mogelijk op straat</title>
+			<link>https://www.ad.nl/den-haag/datalek-in-den-haag-persoonsgegevens-van-36-000-inwoners-mogelijk-op-straat~a09a46f8/</link>
+			<description>Datalek via Dimensus in Den Haag: gegevens van 36.000 inwoners mogelijk op straat</description>
+			<guid isPermaLink="false">849640461685</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
 		</item>

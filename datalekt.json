@@ -24,6 +24,18 @@
         "RansomAmount": ""
     },
     {
+        "Date": 1680739200.0,
+        "Org": "Gemeente Den Haag",
+        "Headline": "Datalek via Dimensus in Den Haag: gegevens van 36.000 inwoners mogelijk op straat",
+        "Source": "AD",
+        "URL": "https://www.ad.nl/den-haag/datalek-in-den-haag-persoonsgegevens-van-36-000-inwoners-mogelijk-op-straat~a09a46f8/",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "36.000",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1680652800.0,
         "Org": "Hogeschool van Amsterdam (HvA)",
         "Headline": "HvA getroffen door datalek bij softwareleverancier via Etil",
@@ -61,7 +73,7 @@
     },
     {
         "Date": 1680652800.0,
-        "Org": "101 onbekende organisaties",
+        "Org": "100 onbekende organisaties",
         "Headline": "Al 139 organisaties melden dat ze getroffen zijn door datalek Nebu",
         "Source": "NU.nl",
         "URL": "https://www.nu.nl/tech/6258327/al-139-organisaties-melden-dat-ze-getroffen-zijn-door-datalek.html",
