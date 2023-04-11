@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1681171200.0,
+        "Org": "KIK Hypotheken",
+        "Headline": "KIK Hypotheken draaide ge\u00efnfecteerde software gericht op verkrijgen van passwords uit Chrome",
+        "Source": "LinkedIn",
+        "URL": "https://www.linkedin.com/posts/kik-hypotheken_beveiliging-integer-hypotheken-activity-7051461576163258368-x_ng",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1680739200.0,
         "Org": "Panteia",
         "Headline": "Gegevens Panteia mogelijk onderdeel van datalek Nebu",
