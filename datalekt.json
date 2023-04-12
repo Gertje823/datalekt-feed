@@ -1,6 +1,18 @@
 [
     {
         "Date": 1681171200.0,
+        "Org": "11 onbekende organisaties (exclusief eerdere tellingen)",
+        "Headline": "Aantal meldingen door datalek Nebu opgelopen tot 156 organisaties",
+        "Source": "Skipr",
+        "URL": "https://www.skipr.nl/nieuws/aantal-meldingen-datalek-opgelopen-tot-156/",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1681171200.0,
         "Org": "KIK Hypotheken",
         "Headline": "KIK Hypotheken draaide ge\u00efnfecteerde software gericht op verkrijgen van passwords uit Chrome",
         "Source": "LinkedIn",
@@ -85,7 +97,7 @@
     },
     {
         "Date": 1680652800.0,
-        "Org": "100 onbekende organisaties",
+        "Org": "112 onbekende organisaties (exclusief eerdere tellingen)",
         "Headline": "Al 139 organisaties melden dat ze getroffen zijn door datalek Nebu",
         "Source": "NU.nl",
         "URL": "https://www.nu.nl/tech/6258327/al-139-organisaties-melden-dat-ze-getroffen-zijn-door-datalek.html",
