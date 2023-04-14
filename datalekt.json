@@ -1,12 +1,36 @@
 [
     {
-        "Date": 1681171200.0,
-        "Org": "11 onbekende organisaties (exclusief eerdere tellingen)",
-        "Headline": "Aantal meldingen door datalek Nebu opgelopen tot 156 organisaties",
-        "Source": "Skipr",
-        "URL": "https://www.skipr.nl/nieuws/aantal-meldingen-datalek-opgelopen-tot-156/",
-        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
-        "RecordsStolen": "",
+        "Date": 1681344000.0,
+        "Org": "Vattenfall Nederland",
+        "Headline": "Vattenfall waarschuwt 30.000 klanten voor gevolgen van mogelijk datalek",
+        "Source": "NU.nl",
+        "URL": "https://www.nu.nl/tech/6259258/vattenfall-waarschuwt-30000-klanten-voor-gevolgen-van-mogelijk-datalek.html",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "30.000",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1681344000.0,
+        "Org": "Just4Care & Hospitality",
+        "Headline": "Medische gegevens honderden asielzoekers verdwenen via Just4Care",
+        "Source": "Trouw",
+        "URL": "https://www.trouw.nl/binnenland/medische-gegevens-honderden-asielzoekers-verdwenen-mogelijk-opzet-in-het-spel~be7c31b6/",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "100",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1681344000.0,
+        "Org": "Centraal Orgaan opvang asielzoekers (COA)",
+        "Headline": "Medische gegevens honderden asielzoekers verdwenen bij COA via Just4Care",
+        "Source": "Trouw",
+        "URL": "https://www.trouw.nl/binnenland/medische-gegevens-honderden-asielzoekers-verdwenen-mogelijk-opzet-in-het-spel~be7c31b6/",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "100",
         "Damage": "",
         "PaidRansom": "",
         "RansomAmount": ""
@@ -17,6 +41,18 @@
         "Headline": "KIK Hypotheken draaide ge\u00efnfecteerde software gericht op verkrijgen van passwords uit Chrome",
         "Source": "LinkedIn",
         "URL": "https://www.linkedin.com/posts/kik-hypotheken_beveiliging-integer-hypotheken-activity-7051461576163258368-x_ng",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1681171200.0,
+        "Org": "11 onbekende organisaties (exclusief eerdere tellingen)",
+        "Headline": "Aantal meldingen door datalek Nebu opgelopen tot 156 organisaties",
+        "Source": "Skipr",
+        "URL": "https://www.skipr.nl/nieuws/aantal-meldingen-datalek-opgelopen-tot-156/",
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
@@ -522,6 +558,30 @@
         "Source": "Omroep West",
         "URL": "https://www.omroepwest.nl/nieuws/4695901/smoelenboek-belandt-in-supermarkt-na-overlast-school-meldt-datalek",
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1679356800.0,
+        "Org": "Pit Strategie",
+        "Headline": "Pit Strategie getroffen door datalek i.v.m. verlies van data door OfficeGrip",
+        "Source": "Rechtspraak",
+        "URL": "https://uitspraken.rechtspraak.nl/#!/details?id=ECLI:NL:RBNHO:2023:2471",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1679356800.0,
+        "Org": "OfficeGrip",
+        "Headline": "OfficeGrip veroorzaakt data datalek i.v.m. verlies van data van OfficeGrip",
+        "Source": "Rechtspraak",
+        "URL": "https://uitspraken.rechtspraak.nl/#!/details?id=ECLI:NL:RBNHO:2023:2471",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "",
@@ -1400,7 +1460,7 @@
         "Event": "Gijzelsoftware (ransomware)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "nee",
         "RansomAmount": ""
     },
     {
@@ -5108,8 +5168,8 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "1.800.000",
         "Damage": "",
-        "PaidRansom": "",
-        "RansomAmount": ""
+        "PaidRansom": "nee",
+        "RansomAmount": "80.000"
     },
     {
         "Date": 1614556800.0,

@@ -7,20 +7,44 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 12 Apr 2023 18:14:02 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 14 Apr 2023 18:13:50 +0000</lastBuildDate>
 		<item>
-			<title>Aantal meldingen door datalek Nebu opgelopen tot 156 organisaties</title>
-			<link>https://www.skipr.nl/nieuws/aantal-meldingen-datalek-opgelopen-tot-156/</link>
-			<description>Aantal meldingen door datalek Nebu opgelopen tot 156 organisaties</description>
-			<guid isPermaLink="false">102459313451</guid>
-			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
-			<pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+			<title>Vattenfall waarschuwt 30.000 klanten voor gevolgen van mogelijk datalek</title>
+			<link>https://www.nu.nl/tech/6259258/vattenfall-waarschuwt-30000-klanten-voor-gevolgen-van-mogelijk-datalek.html</link>
+			<description>Vattenfall waarschuwt 30.000 klanten voor gevolgen van mogelijk datalek</description>
+			<guid isPermaLink="false">175138245493</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Medische gegevens honderden asielzoekers verdwenen via Just4Care</title>
+			<link>https://www.trouw.nl/binnenland/medische-gegevens-honderden-asielzoekers-verdwenen-mogelijk-opzet-in-het-spel~be7c31b6/</link>
+			<description>Medische gegevens honderden asielzoekers verdwenen via Just4Care</description>
+			<guid isPermaLink="false">168099299776</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Medische gegevens honderden asielzoekers verdwenen bij COA via Just4Care</title>
+			<link>https://www.trouw.nl/binnenland/medische-gegevens-honderden-asielzoekers-verdwenen-mogelijk-opzet-in-het-spel~be7c31b6/</link>
+			<description>Medische gegevens honderden asielzoekers verdwenen bij COA via Just4Care</description>
+			<guid isPermaLink="false">168099299776</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>KIK Hypotheken draaide geïnfecteerde software gericht op verkrijgen van passwords uit Chrome</title>
 			<link>https://www.linkedin.com/posts/kik-hypotheken_beveiliging-integer-hypotheken-activity-7051461576163258368-x_ng</link>
 			<description>KIK Hypotheken draaide geïnfecteerde software gericht op verkrijgen van passwords uit Chrome</description>
 			<guid isPermaLink="false">299388314478</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Aantal meldingen door datalek Nebu opgelopen tot 156 organisaties</title>
+			<link>https://www.skipr.nl/nieuws/aantal-meldingen-datalek-opgelopen-tot-156/</link>
+			<description>Aantal meldingen door datalek Nebu opgelopen tot 156 organisaties</description>
+			<guid isPermaLink="false">102459313451</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
 		</item>
@@ -359,6 +383,22 @@
 			<guid isPermaLink="false">169622542976</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Pit Strategie getroffen door datalek i.v.m. verlies van data door OfficeGrip</title>
+			<link>https://uitspraken.rechtspraak.nl/#!/details?id=ECLI:NL:RBNHO:2023:2471</link>
+			<description>Pit Strategie getroffen door datalek i.v.m. verlies van data door OfficeGrip</description>
+			<guid isPermaLink="false">265615384082</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>OfficeGrip veroorzaakt data datalek i.v.m. verlies van data van OfficeGrip</title>
+			<link>https://uitspraken.rechtspraak.nl/#!/details?id=ECLI:NL:RBNHO:2023:2471</link>
+			<description>OfficeGrip veroorzaakt data datalek i.v.m. verlies van data van OfficeGrip</description>
+			<guid isPermaLink="false">265615384082</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Privégegevens van bezwaarmakende inwoners Stadskanaal op straat</title>
