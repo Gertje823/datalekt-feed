@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 14 Apr 2023 18:13:50 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 16 Apr 2023 12:20:20 +0000</lastBuildDate>
+		<item>
+			<title>SVB krijgt AVG-boete van 150.000 euro voor slechte telefonische verificaties</title>
+			<link>https://tweakers.net/nieuws/208704/svb-krijgt-avg-boete-van-150000-euro-voor-slechte-telefonische-verificaties.html</link>
+			<description>SVB krijgt AVG-boete van 150.000 euro voor slechte telefonische verificaties</description>
+			<guid isPermaLink="false">232583196307</guid>
+			<category>AVG compliance issue</category>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Vattenfall waarschuwt 30.000 klanten voor gevolgen van mogelijk datalek</title>
 			<link>https://www.nu.nl/tech/6259258/vattenfall-waarschuwt-30000-klanten-voor-gevolgen-van-mogelijk-datalek.html</link>

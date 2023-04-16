@@ -1,6 +1,18 @@
 [
     {
         "Date": 1681344000.0,
+        "Org": "Sociale Verzekeringsbank (SVB)",
+        "Headline": "SVB krijgt AVG-boete van 150.000 euro voor slechte telefonische verificaties",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/208704/svb-krijgt-avg-boete-van-150000-euro-voor-slechte-telefonische-verificaties.html",
+        "Event": "AVG compliance issue",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1681344000.0,
         "Org": "Vattenfall Nederland",
         "Headline": "Vattenfall waarschuwt 30.000 klanten voor gevolgen van mogelijk datalek",
         "Source": "NU.nl",
