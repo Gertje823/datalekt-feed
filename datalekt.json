@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1681689600.0,
+        "Org": "Gemeente Vlieland",
+        "Headline": "Datalek bij gemeente Vlieland: 235 mailadressen liggen op straat",
+        "Source": "Leeuwarder Courant",
+        "URL": "https://lc.nl/friesland/vlieland/Datalek-bij-gemeente-Vlieland-235-mailadressen-liggen-op-straat-28369867.html",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "235",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1681344000.0,
         "Org": "Sociale Verzekeringsbank (SVB)",
         "Headline": "SVB krijgt AVG-boete van 150.000 euro voor slechte telefonische verificaties",
@@ -157,12 +169,36 @@
     },
     {
         "Date": 1680566400.0,
+        "Org": "Keuken Kampioen Divisie",
+        "Headline": "Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers",
+        "Source": "NU.nl",
+        "URL": "https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1680566400.0,
+        "Org": "Eredivisie",
+        "Headline": "Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers",
+        "Source": "NU.nl",
+        "URL": "https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1680566400.0,
         "Org": "Koninklijke Nederlandse Voetbalbond (KNVB)",
         "Headline": "Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers",
         "Source": "NU.nl",
         "URL": "https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html",
-        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
-        "RecordsStolen": "",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "250.000",
         "Damage": "",
         "PaidRansom": "",
         "RansomAmount": ""
@@ -7519,18 +7555,6 @@
         "URL": "https://tweakers.net/nieuws/129023/backdoor-gaf-toegang-tot-gegevens-van-forumleden-scholieren-punt-com.html",
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "150.000",
-        "Damage": "",
-        "PaidRansom": "",
-        "RansomAmount": ""
-    },
-    {
-        "Date": 1503446400.0,
-        "Org": "AutoCash",
-        "Headline": "Lek in website kredietverstrekker Autocash raakt 80 dealers en 20.000 klanten",
-        "Source": "Autointernationaal.nl",
-        "URL": "https://www.autointernationaal.nl/2017/08/lek-website-kredietverstrekker-autocash/",
-        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
-        "RecordsStolen": "20.000",
         "Damage": "",
         "PaidRansom": "",
         "RansomAmount": ""
