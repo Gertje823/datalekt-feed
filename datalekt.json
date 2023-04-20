@@ -1,5 +1,29 @@
 [
     {
+        "Date": 1681862400.0,
+        "Org": "Joris Zorg",
+        "Headline": "Hackers breken in bij Joris Zorg, gestolen gegevens liggen op straat",
+        "Source": "Omroep Brabant",
+        "URL": "https://www.omroepbrabant.nl/nieuws/4264299/hackers-breken-in-bij-zorgorganisatie-gestolen-gegevens-liggen-op-straat",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "onbekend",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1681776000.0,
+        "Org": "Gemeente Utrecht",
+        "Headline": "Gluren bij de buren van stadhuis had niet gemogen, Utrecht erkent fout",
+        "Source": "RTV Utrecht",
+        "URL": "https://www.rtvutrecht.nl/nieuws/3567972/gluren-bij-de-buren-van-stadhuis-had-niet-gemogen-utrecht-erkent-fout",
+        "Event": "AVG compliance issue",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1681689600.0,
         "Org": "Gemeente Vlieland",
         "Headline": "Datalek bij gemeente Vlieland: 235 mailadressen liggen op straat",
@@ -176,7 +200,7 @@
         "Event": "Gijzelsoftware (ransomware)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "",
+        "PaidRansom": "onbekend",
         "RansomAmount": ""
     },
     {
@@ -188,7 +212,7 @@
         "Event": "Gijzelsoftware (ransomware)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "",
+        "PaidRansom": "onbekend",
         "RansomAmount": ""
     },
     {
@@ -200,7 +224,7 @@
         "Event": "Gijzelsoftware (ransomware)",
         "RecordsStolen": "250.000",
         "Damage": "",
-        "PaidRansom": "",
+        "PaidRansom": "onbekend",
         "RansomAmount": ""
     },
     {

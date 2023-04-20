@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 18 Apr 2023 12:22:30 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 20 Apr 2023 18:14:01 +0000</lastBuildDate>
+		<item>
+			<title>Hackers breken in bij Joris Zorg, gestolen gegevens liggen op straat</title>
+			<link>https://www.omroepbrabant.nl/nieuws/4264299/hackers-breken-in-bij-zorgorganisatie-gestolen-gegevens-liggen-op-straat</link>
+			<description>Hackers breken in bij Joris Zorg, gestolen gegevens liggen op straat</description>
+			<guid isPermaLink="false">296721253433</guid>
+			<category>Gijzelsoftware (ransomware)</category>
+			<pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gluren bij de buren van stadhuis had niet gemogen, Utrecht erkent fout</title>
+			<link>https://www.rtvutrecht.nl/nieuws/3567972/gluren-bij-de-buren-van-stadhuis-had-niet-gemogen-utrecht-erkent-fout</link>
+			<description>Gluren bij de buren van stadhuis had niet gemogen, Utrecht erkent fout</description>
+			<guid isPermaLink="false">959709383935</guid>
+			<category>AVG compliance issue</category>
+			<pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij gemeente Vlieland: 235 mailadressen liggen op straat</title>
 			<link>https://lc.nl/friesland/vlieland/Datalek-bij-gemeente-Vlieland-235-mailadressen-liggen-op-straat-28369867.html</link>
