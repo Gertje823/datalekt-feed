@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 21 Apr 2023 18:13:55 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 22 Apr 2023 18:13:13 +0000</lastBuildDate>
+		<item>
+			<title>Ransomware-groepen melden hack bij tankopslagbedrijf Vopak</title>
+			<link>https://nieuws.nl/economie/20230421/ransomware-groepen-melden-hack-bij-tankopslagbedrijf-vopak/</link>
+			<description>Ransomware-groepen melden hack bij tankopslagbedrijf Vopak</description>
+			<guid isPermaLink="false">267591805851</guid>
+			<category>Gijzelsoftware (ransomware)</category>
+			<pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>UWV in 2022 meerdere keren aangevallen door hackers</title>
+			<link>https://www.vpngids.nl/nieuws/uwv-in-2022-meerdere-keren-aangevallen-door-hackers/</link>
+			<description>UWV in 2022 meerdere keren aangevallen door hackers</description>
+			<guid isPermaLink="false">335110909594</guid>
+			<category>Transparantie rapport</category>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Hackers breken in bij Joris Zorg, gestolen gegevens liggen op straat</title>
 			<link>https://www.omroepbrabant.nl/nieuws/4264299/hackers-breken-in-bij-zorgorganisatie-gestolen-gegevens-liggen-op-straat</link>

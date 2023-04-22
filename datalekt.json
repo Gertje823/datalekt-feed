@@ -1,5 +1,29 @@
 [
     {
+        "Date": 1682035200.0,
+        "Org": "Koninklijke Vopak",
+        "Headline": "Ransomware-groepen melden hack bij tankopslagbedrijf Vopak",
+        "Source": "Nieuws.nl",
+        "URL": "https://nieuws.nl/economie/20230421/ransomware-groepen-melden-hack-bij-tankopslagbedrijf-vopak/",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "onbekend",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1681948800.0,
+        "Org": "UWV",
+        "Headline": "UWV in 2022 meerdere keren aangevallen door hackers",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/uwv-in-2022-meerdere-keren-aangevallen-door-hackers/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1681862400.0,
         "Org": "Joris Zorg",
         "Headline": "Hackers breken in bij Joris Zorg, gestolen gegevens liggen op straat",
@@ -8,7 +32,7 @@
         "Event": "Gijzelsoftware (ransomware)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "nee",
         "RansomAmount": ""
     },
     {
