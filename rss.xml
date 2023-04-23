@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 22 Apr 2023 18:13:13 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 23 Apr 2023 18:13:01 +0000</lastBuildDate>
 		<item>
 			<title>Ransomware-groepen melden hack bij tankopslagbedrijf Vopak</title>
 			<link>https://nieuws.nl/economie/20230421/ransomware-groepen-melden-hack-bij-tankopslagbedrijf-vopak/</link>
@@ -49,19 +49,19 @@
 			<pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>SVB krijgt AVG-boete van 150.000 euro voor slechte telefonische verificaties</title>
-			<link>https://tweakers.net/nieuws/208704/svb-krijgt-avg-boete-van-150000-euro-voor-slechte-telefonische-verificaties.html</link>
-			<description>SVB krijgt AVG-boete van 150.000 euro voor slechte telefonische verificaties</description>
-			<guid isPermaLink="false">232583196307</guid>
-			<category>AVG compliance issue</category>
-			<pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Vattenfall waarschuwt 30.000 klanten voor gevolgen van mogelijk datalek</title>
 			<link>https://www.nu.nl/tech/6259258/vattenfall-waarschuwt-30000-klanten-voor-gevolgen-van-mogelijk-datalek.html</link>
 			<description>Vattenfall waarschuwt 30.000 klanten voor gevolgen van mogelijk datalek</description>
 			<guid isPermaLink="false">175138245493</guid>
 			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>SVB krijgt AVG-boete van 150.000 euro voor slechte telefonische verificaties</title>
+			<link>https://tweakers.net/nieuws/208704/svb-krijgt-avg-boete-van-150000-euro-voor-slechte-telefonische-verificaties.html</link>
+			<description>SVB krijgt AVG-boete van 150.000 euro voor slechte telefonische verificaties</description>
+			<guid isPermaLink="false">232583196307</guid>
+			<category>AVG compliance issue</category>
 			<pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -165,15 +165,7 @@
 			<link>https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html</link>
 			<description>Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers</description>
 			<guid isPermaLink="false">279502320768</guid>
-			<category>Gijzelsoftware (ransomware)</category>
-			<pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers</title>
-			<link>https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html</link>
-			<description>Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers</description>
-			<guid isPermaLink="false">279502320768</guid>
-			<category>Gijzelsoftware (ransomware)</category>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -181,6 +173,14 @@
 			<link>https://www.vpngids.nl/nieuws/hogeschool-van-amsterdam-waarschuwt-voor-datalek/</link>
 			<description>Etil getroffen door datalek bij softwareleverancier Nebu</description>
 			<guid isPermaLink="false">261564798417</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers</title>
+			<link>https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html</link>
+			<description>Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers</description>
+			<guid isPermaLink="false">279502320768</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
 		</item>
@@ -669,7 +669,7 @@
 			<link>https://tweakers.net/nieuws/205804/samsung-stelt-klanten-op-de-hoogte-van-datalek-bij-reparateur-in-benelux.html</link>
 			<description>Samsung stelt klanten op de hoogte van datalek bij reparateur LetMeRepair in Benelux</description>
 			<guid isPermaLink="false">293785215527</guid>
-			<category>Gijzelsoftware (ransomware)</category>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -2197,7 +2197,7 @@
 			<link>https://www.ad.nl/tech/cyberaanval-treft-datacenter-vastgoedbeheerders-gegevens-duizenden-huurders-op-straat~a22651b2/</link>
 			<description>Cyberaanval treft Syntus vastgoedbeheerders: gegevens duizenden huurders op straat</description>
 			<guid isPermaLink="false">900841941854</guid>
-			<category>Gijzelsoftware (ransomware)</category>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -2205,7 +2205,7 @@
 			<link>https://www.ad.nl/tech/cyberaanval-treft-datacenter-vastgoedbeheerders-gegevens-duizenden-huurders-op-straat~a22651b2/</link>
 			<description>Cyberaanval treft Achmea vastgoedbeheerders: gegevens duizenden huurders op straat</description>
 			<guid isPermaLink="false">900841941854</guid>
-			<category>Gijzelsoftware (ransomware)</category>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -2222,6 +2222,14 @@
 			<description>Zestien Nederlandse zorginstellingen hadden last van ransomware bij leverancier</description>
 			<guid isPermaLink="false">129559363062</guid>
 			<category>Gijzelsoftware (ransomware)</category>
+			<pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Zestien Nederlandse zorginstellingen hadden last van ransomware bij leverancier</title>
+			<link>https://www.security.nl/posting/742691/Zestien+Nederlandse+zorginstellingen+hadden+last+van+ransomware+bij+leverancier</link>
+			<description>Zestien Nederlandse zorginstellingen hadden last van ransomware bij leverancier</description>
+			<guid isPermaLink="false">129559363062</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -2477,7 +2485,7 @@
 			<link>https://www.volkskrant.nl/nieuws-achtergrond/technologieleverancier-van-defensie-en-politie-gehackt-losgeld-geeist-voor-vertrouwelijke-informatie~bcc2f42b/</link>
 			<description>Technologieleverancier van Defensie en politie gehackt, losgeld geëist voor vertrouwelijke informatie</description>
 			<guid isPermaLink="false">266726892706</guid>
-			<category>Gijzelsoftware (ransomware)</category>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -2485,7 +2493,7 @@
 			<link>https://www.volkskrant.nl/nieuws-achtergrond/technologieleverancier-van-defensie-en-politie-gehackt-losgeld-geeist-voor-vertrouwelijke-informatie~bcc2f42b/</link>
 			<description>Technologieleverancier van Defensie en politie gehackt, losgeld geëist voor vertrouwelijke informatie</description>
 			<guid isPermaLink="false">266726892706</guid>
-			<category>Gijzelsoftware (ransomware)</category>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -2749,7 +2757,7 @@
 			<link>https://www.security.nl/posting/722840/Systeem+130+Nederlandse+boekhandels+platgelegd+door+ransomware</link>
 			<description>Systeem Boekhandel Donner platgelegd door ransomware</description>
 			<guid isPermaLink="false">180712966289</guid>
-			<category>Gijzelsoftware (ransomware)</category>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -2757,7 +2765,7 @@
 			<link>https://www.security.nl/posting/722840/Systeem+130+Nederlandse+boekhandels+platgelegd+door+ransomware</link>
 			<description>Systeem 130 Nederlandse boekhandels platgelegd door ransomware</description>
 			<guid isPermaLink="false">180712966289</guid>
-			<category>Gijzelsoftware (ransomware)</category>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -2973,7 +2981,7 @@
 			<link>https://tweakers.net/nieuws/185540/ict-leverancier-accenture-is-hersteld-van-korte-lockbit-ransomwareaanval.html</link>
 			<description>Ict-leverancier Accenture is hersteld van korte Lockbit-ransomwareaanval</description>
 			<guid isPermaLink="false">403051883377</guid>
-			<category>Gijzelsoftware (ransomware)</category>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -3425,6 +3433,14 @@
 			<pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
+			<title>Hack bij transportbedrijf AH betrof ransomware, levering kaas weer op gang</title>
+			<link>https://tweakers.net/nieuws/180398/hack-bij-transportbedrijf-ah-betrof-ransomware-levering-kaas-weer-op-gang.html</link>
+			<description>Hack bij transportbedrijf AH betrof ransomware, levering kaas weer op gang</description>
+			<guid isPermaLink="false">687522492203</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Datalek in 2019 bij Booking.com waarbij 4000 klantgegevens gestolen waren</title>
 			<link>https://tweakers.net/nieuws/179954/booking-punt-com-krijgt-boete-van-475000-euro-voor-te-laat-melden-datalek.html</link>
 			<description>Datalek in 2019 bij Booking.com waarbij 4000 klantgegevens gestolen waren</description>
@@ -3733,7 +3749,7 @@
 			<link>https://tweakers.net/nieuws/176468/anwb-waarschuwt-debiteuren-voor-datalek-bij-incassobureau-tkb.html</link>
 			<description>ANWB waarschuwt debiteuren voor datalek bij incassobureau TKB</description>
 			<guid isPermaLink="false">676269195483</guid>
-			<category>Gijzelsoftware (ransomware)</category>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -5183,6 +5199,14 @@
 			<guid isPermaLink="false">197779337848</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ook Q-park krijgt te maken met aanval van ransomware</title>
+			<link>https://tweakers.net/nieuws/124649/ook-q-park-krijgt-te-maken-met-aanval-van-ransomware.html</link>
+			<description>Ook Q-park krijgt te maken met aanval van ransomware</description>
+			<guid isPermaLink="false">135680333462</guid>
+			<category>Gijzelsoftware (ransomware)</category>
+			<pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>NCSC haalt tool tijdelijk offline door aanwezigheid persoonsgegevens</title>

@@ -61,24 +61,24 @@
     },
     {
         "Date": 1681344000.0,
-        "Org": "Sociale Verzekeringsbank (SVB)",
-        "Headline": "SVB krijgt AVG-boete van 150.000 euro voor slechte telefonische verificaties",
-        "Source": "Tweakers.net",
-        "URL": "https://tweakers.net/nieuws/208704/svb-krijgt-avg-boete-van-150000-euro-voor-slechte-telefonische-verificaties.html",
-        "Event": "AVG compliance issue",
-        "RecordsStolen": "",
-        "Damage": "",
-        "PaidRansom": "",
-        "RansomAmount": ""
-    },
-    {
-        "Date": 1681344000.0,
         "Org": "Vattenfall Nederland",
         "Headline": "Vattenfall waarschuwt 30.000 klanten voor gevolgen van mogelijk datalek",
         "Source": "NU.nl",
         "URL": "https://www.nu.nl/tech/6259258/vattenfall-waarschuwt-30000-klanten-voor-gevolgen-van-mogelijk-datalek.html",
         "Event": "Datalek, verlies of misbruik (interne oorzaak)",
         "RecordsStolen": "30.000",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1681344000.0,
+        "Org": "Sociale Verzekeringsbank (SVB)",
+        "Headline": "SVB krijgt AVG-boete van 150.000 euro voor slechte telefonische verificaties",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/208704/svb-krijgt-avg-boete-van-150000-euro-voor-slechte-telefonische-verificaties.html",
+        "Event": "AVG compliance issue",
+        "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "",
         "RansomAmount": ""
@@ -217,30 +217,6 @@
     },
     {
         "Date": 1680566400.0,
-        "Org": "Keuken Kampioen Divisie",
-        "Headline": "Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers",
-        "Source": "NU.nl",
-        "URL": "https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html",
-        "Event": "Gijzelsoftware (ransomware)",
-        "RecordsStolen": "",
-        "Damage": "",
-        "PaidRansom": "onbekend",
-        "RansomAmount": ""
-    },
-    {
-        "Date": 1680566400.0,
-        "Org": "Eredivisie",
-        "Headline": "Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers",
-        "Source": "NU.nl",
-        "URL": "https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html",
-        "Event": "Gijzelsoftware (ransomware)",
-        "RecordsStolen": "",
-        "Damage": "",
-        "PaidRansom": "onbekend",
-        "RansomAmount": ""
-    },
-    {
-        "Date": 1680566400.0,
         "Org": "Koninklijke Nederlandse Voetbalbond (KNVB)",
         "Headline": "Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers",
         "Source": "NU.nl",
@@ -253,10 +229,34 @@
     },
     {
         "Date": 1680566400.0,
+        "Org": "Keuken Kampioen Divisie",
+        "Headline": "Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers",
+        "Source": "NU.nl",
+        "URL": "https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1680566400.0,
         "Org": "Etil",
         "Headline": "Etil getroffen door datalek bij softwareleverancier Nebu",
         "Source": "VPNgids",
         "URL": "https://www.vpngids.nl/nieuws/hogeschool-van-amsterdam-waarschuwt-voor-datalek/",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1680566400.0,
+        "Org": "Eredivisie",
+        "Headline": "Cybercriminelen krijgen toegang tot gegevens van KNVB-medewerkers",
+        "Source": "NU.nl",
+        "URL": "https://www.nu.nl/tech/6258085/cybercriminelen-krijgen-toegang-tot-gegevens-van-knvb-medewerkers.html",
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
@@ -989,10 +989,10 @@
         "Headline": "Samsung stelt klanten op de hoogte van datalek bij reparateur LetMeRepair in Benelux",
         "Source": "Tweakers.net",
         "URL": "https://tweakers.net/nieuws/205804/samsung-stelt-klanten-op-de-hoogte-van-datalek-bij-reparateur-in-benelux.html",
-        "Event": "Gijzelsoftware (ransomware)",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -1928,7 +1928,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "21.000",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -1976,7 +1976,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "2.000",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -2036,7 +2036,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "4.500",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -2048,7 +2048,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "6.500",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -2060,7 +2060,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "1.400",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -2072,7 +2072,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -2084,7 +2084,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -2096,7 +2096,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -2108,7 +2108,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -2120,7 +2120,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -2144,7 +2144,7 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "200",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -3281,10 +3281,10 @@
         "Headline": "Cyberaanval treft Syntus vastgoedbeheerders: gegevens duizenden huurders op straat",
         "Source": "AD",
         "URL": "https://www.ad.nl/tech/cyberaanval-treft-datacenter-vastgoedbeheerders-gegevens-duizenden-huurders-op-straat~a22651b2/",
-        "Event": "Gijzelsoftware (ransomware)",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -3293,10 +3293,10 @@
         "Headline": "Cyberaanval treft Achmea vastgoedbeheerders: gegevens duizenden huurders op straat",
         "Source": "AD",
         "URL": "https://www.ad.nl/tech/cyberaanval-treft-datacenter-vastgoedbeheerders-gegevens-duizenden-huurders-op-straat~a22651b2/",
-        "Event": "Gijzelsoftware (ransomware)",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -3313,14 +3313,26 @@
     },
     {
         "Date": 1644451200.0,
-        "Org": "16 onbekende zorginstellingen",
+        "Org": "Onbekende organisatie",
         "Headline": "Zestien Nederlandse zorginstellingen hadden last van ransomware bij leverancier",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/742691/Zestien+Nederlandse+zorginstellingen+hadden+last+van+ransomware+bij+leverancier",
         "Event": "Gijzelsoftware (ransomware)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1644451200.0,
+        "Org": "16 onbekende zorginstellingen",
+        "Headline": "Zestien Nederlandse zorginstellingen hadden last van ransomware bij leverancier",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/742691/Zestien+Nederlandse+zorginstellingen+hadden+last+van+ransomware+bij+leverancier",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -3701,10 +3713,10 @@
         "Headline": "Technologieleverancier van Defensie en politie gehackt, losgeld ge\u00ebist voor vertrouwelijke informatie",
         "Source": "Volkskrant",
         "URL": "https://www.volkskrant.nl/nieuws-achtergrond/technologieleverancier-van-defensie-en-politie-gehackt-losgeld-geeist-voor-vertrouwelijke-informatie~bcc2f42b/",
-        "Event": "Gijzelsoftware (ransomware)",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -3713,10 +3725,10 @@
         "Headline": "Technologieleverancier van Defensie en politie gehackt, losgeld ge\u00ebist voor vertrouwelijke informatie",
         "Source": "Volkskrant",
         "URL": "https://www.volkskrant.nl/nieuws-achtergrond/technologieleverancier-van-defensie-en-politie-gehackt-losgeld-geeist-voor-vertrouwelijke-informatie~bcc2f42b/",
-        "Event": "Gijzelsoftware (ransomware)",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -4109,10 +4121,10 @@
         "Headline": "Systeem Boekhandel Donner platgelegd door ransomware",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/722840/Systeem+130+Nederlandse+boekhandels+platgelegd+door+ransomware",
-        "Event": "Gijzelsoftware (ransomware)",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -4121,10 +4133,10 @@
         "Headline": "Systeem 130 Nederlandse boekhandels platgelegd door ransomware",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/722840/Systeem+130+Nederlandse+boekhandels+platgelegd+door+ransomware",
-        "Event": "Gijzelsoftware (ransomware)",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -4445,10 +4457,10 @@
         "Headline": "Ict-leverancier Accenture is hersteld van korte Lockbit-ransomwareaanval",
         "Source": "Tweakers.net",
         "URL": "https://tweakers.net/nieuws/185540/ict-leverancier-accenture-is-hersteld-van-korte-lockbit-ransomwareaanval.html",
-        "Event": "Gijzelsoftware (ransomware)",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -5124,6 +5136,18 @@
         "RansomAmount": ""
     },
     {
+        "Date": 1617926400.0,
+        "Org": "Albert Heijn (AH)",
+        "Headline": "Hack bij transportbedrijf AH betrof ransomware, levering kaas weer op gang",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/180398/hack-bij-transportbedrijf-ah-betrof-ransomware-levering-kaas-weer-op-gang.html",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1617148800.0,
         "Org": "Booking.com",
         "Headline": "Datalek in 2019 bij Booking.com waarbij 4000 klantgegevens gestolen waren",
@@ -5585,10 +5609,10 @@
         "Headline": "ANWB waarschuwt debiteuren voor datalek bij incassobureau TKB",
         "Source": "Tweakers.net",
         "URL": "https://tweakers.net/nieuws/176468/anwb-waarschuwt-debiteuren-voor-datalek-bij-incassobureau-tkb.html",
-        "Event": "Gijzelsoftware (ransomware)",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "",
         "RansomAmount": ""
     },
     {
@@ -7045,7 +7069,7 @@
     },
     {
         "Date": 1541721600.0,
-        "Org": "Albert Heijn",
+        "Org": "Albert Heijn (AH)",
         "Headline": "Ah.nl gaf per ongeluk inlog en wachtwoord van tienduizend accounts vrij",
         "Source": "Tweakers.net",
         "URL": "https://tweakers.net/nieuws/145551/ah-punt-nl-gaf-per-ongeluk-inlog-en-wachtwoord-van-tienduizend-accounts-vrij.html",
@@ -7761,6 +7785,18 @@
         "RecordsStolen": "2.000",
         "Damage": "",
         "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1494720000.0,
+        "Org": "Q-Park",
+        "Headline": "Ook Q-park krijgt te maken met aanval van ransomware",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/124649/ook-q-park-krijgt-te-maken-met-aanval-van-ransomware.html",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "onbekend",
         "RansomAmount": ""
     },
     {
