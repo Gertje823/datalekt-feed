@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 23 Apr 2023 18:13:01 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 25 Apr 2023 18:14:12 +0000</lastBuildDate>
+		<item>
+			<title>Hackers leggen Nederlandse tv- en internet provider SKP deels plat</title>
+			<link>https://www.totaaltv.nl/nieuws/hackers-leggen-nederlandse-tv-en-internet-provider-deels-plat/</link>
+			<description>Hackers leggen Nederlandse tv- en internet provider SKP deels plat</description>
+			<guid isPermaLink="false">114000003794</guid>
+			<category>Gijzelsoftware (ransomware)</category>
+			<pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ransomware-groepen melden hack bij tankopslagbedrijf Vopak</title>
 			<link>https://nieuws.nl/economie/20230421/ransomware-groepen-melden-hack-bij-tankopslagbedrijf-vopak/</link>

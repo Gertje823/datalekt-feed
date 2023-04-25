@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1682294400.0,
+        "Org": "Stichting Kabeltelevisie Pijnacker (SKP)",
+        "Headline": "Hackers leggen Nederlandse tv- en internet provider SKP deels plat",
+        "Source": "Totaal TV",
+        "URL": "https://www.totaaltv.nl/nieuws/hackers-leggen-nederlandse-tv-en-internet-provider-deels-plat/",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "onbekend",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1682035200.0,
         "Org": "Koninklijke Vopak",
         "Headline": "Ransomware-groepen melden hack bij tankopslagbedrijf Vopak",
