@@ -2,9 +2,9 @@
     {
         "Date": 1682294400.0,
         "Org": "Stichting Kabeltelevisie Pijnacker (SKP)",
-        "Headline": "Hackers leggen Nederlandse tv- en internet provider SKP deels plat",
-        "Source": "Totaal TV",
-        "URL": "https://www.totaaltv.nl/nieuws/hackers-leggen-nederlandse-tv-en-internet-provider-deels-plat/",
+        "Headline": "Zuid-Hollandse provider SKP kon door ransomware geen internet leveren aan klanten",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/209058/zuid-hollandse-provider-kon-door-ransomware-geen-internet-leveren-aan-klanten.html",
         "Event": "Gijzelsoftware (ransomware)",
         "RecordsStolen": "",
         "Damage": "",
@@ -3517,6 +3517,18 @@
     },
     {
         "Date": 1640995200.0,
+        "Org": "De Hall",
+        "Headline": "Horeca-ondernemer De Hall houdt na websitehack alles tegen het licht",
+        "Source": "Digital Trust Center",
+        "URL": "https://www.digitaltrustcenter.nl/ondernemersverhalen/horeca-ondernemer-websitehack",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1640995200.0,
         "Org": "Rico Moda",
         "Headline": "Online modewinkel Rico Moda betaalde losgeld na ransomware NAS",
         "Source": "Digital Trust Center",
@@ -3526,18 +3538,6 @@
         "Damage": "",
         "PaidRansom": "ja",
         "RansomAmount": "500"
-    },
-    {
-        "Date": 1640995200.0,
-        "Org": "Onbekende organisatie",
-        "Headline": "Logies-, maaltijd- en drankverstrekking-ondernemer houdt na websitehack alles tegen het licht",
-        "Source": "Digital Trust Center",
-        "URL": "https://www.digitaltrustcenter.nl/ondernemersverhalen/Logies-, maaltijd- en drankverstrekking-ondernemer-websitehack",
-        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
-        "RecordsStolen": "",
-        "Damage": "",
-        "PaidRansom": "",
-        "RansomAmount": ""
     },
     {
         "Date": 1640995200.0,

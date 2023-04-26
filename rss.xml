@@ -7,12 +7,12 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 25 Apr 2023 18:14:12 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 26 Apr 2023 18:14:14 +0000</lastBuildDate>
 		<item>
-			<title>Hackers leggen Nederlandse tv- en internet provider SKP deels plat</title>
-			<link>https://www.totaaltv.nl/nieuws/hackers-leggen-nederlandse-tv-en-internet-provider-deels-plat/</link>
-			<description>Hackers leggen Nederlandse tv- en internet provider SKP deels plat</description>
-			<guid isPermaLink="false">114000003794</guid>
+			<title>Zuid-Hollandse provider SKP kon door ransomware geen internet leveren aan klanten</title>
+			<link>https://tweakers.net/nieuws/209058/zuid-hollandse-provider-kon-door-ransomware-geen-internet-leveren-aan-klanten.html</link>
+			<description>Zuid-Hollandse provider SKP kon door ransomware geen internet leveren aan klanten</description>
+			<guid isPermaLink="false">234281858201</guid>
 			<category>Gijzelsoftware (ransomware)</category>
 			<pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
 		</item>
@@ -2353,19 +2353,19 @@
 			<pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
+			<title>Horeca-ondernemer De Hall houdt na websitehack alles tegen het licht</title>
+			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/horeca-ondernemer-websitehack</link>
+			<description>Horeca-ondernemer De Hall houdt na websitehack alles tegen het licht</description>
+			<guid isPermaLink="false">217077960533</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Online modewinkel Rico Moda betaalde losgeld na ransomware NAS</title>
 			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/online-modewinkel-betaalde-losgeld-tegen-beter-weten-in</link>
 			<description>Online modewinkel Rico Moda betaalde losgeld na ransomware NAS</description>
 			<guid isPermaLink="false">324455519605</guid>
 			<category>Gijzelsoftware (ransomware)</category>
-			<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Logies-, maaltijd- en drankverstrekking-ondernemer houdt na websitehack alles tegen het licht</title>
-			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/Logies-, maaltijd- en drankverstrekking-ondernemer-websitehack</link>
-			<description>Logies-, maaltijd- en drankverstrekking-ondernemer houdt na websitehack alles tegen het licht</description>
-			<guid isPermaLink="false">193302888612</guid>
-			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
