@@ -474,7 +474,7 @@
         "Source": "NOS",
         "URL": "https://nos.nl/artikel/2469510-datalek-nederlandse-bedrijven-steeds-groter-zeker-2-miljoen-klanten-getroffen",
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
-        "RecordsStolen": "",
+        "RecordsStolen": "15.000",
         "Damage": "",
         "PaidRansom": "",
         "RansomAmount": ""
