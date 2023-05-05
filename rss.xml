@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 28 Apr 2023 18:13:19 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 05 May 2023 18:13:31 +0000</lastBuildDate>
+		<item>
+			<title>Website Staten-Generaal plat door 'overbelasting'</title>
+			<link>https://www.agconnect.nl/artikel/website-staten-generaal-plat-door-overbelasting</link>
+			<description>Website Staten-Generaal plat door 'overbelasting'</description>
+			<guid isPermaLink="false">132549151311</guid>
+			<category>(D)DoS-aanval</category>
+			<pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ddos-aanval op site rechtspraak, onbekend wie daders zijn</title>
+			<link>https://www.trouw.nl/nieuws/ddos-aanval-op-site-rechtspraak-onbekend-wie-daders-zijn~bbf074eb/</link>
+			<description>Ddos-aanval op site rechtspraak, onbekend wie daders zijn</description>
+			<guid isPermaLink="false">156166668886</guid>
+			<category>(D)DoS-aanval</category>
+			<pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Zuid-Hollandse provider SKP kon door ransomware geen internet leveren aan klanten</title>
 			<link>https://tweakers.net/nieuws/209058/zuid-hollandse-provider-kon-door-ransomware-geen-internet-leveren-aan-klanten.html</link>

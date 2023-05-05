@@ -1,5 +1,29 @@
 [
     {
+        "Date": 1683158400.0,
+        "Org": "Tweede Kamer der Staten-Generaal",
+        "Headline": "Website Staten-Generaal plat door 'overbelasting'",
+        "Source": "AG Connect",
+        "URL": "https://www.agconnect.nl/artikel/website-staten-generaal-plat-door-overbelasting",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1683158400.0,
+        "Org": "Raad voor de rechtspraak",
+        "Headline": "Ddos-aanval op site rechtspraak, onbekend wie daders zijn",
+        "Source": "Trouw",
+        "URL": "https://www.trouw.nl/nieuws/ddos-aanval-op-site-rechtspraak-onbekend-wie-daders-zijn~bbf074eb/",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1682294400.0,
         "Org": "Stichting Kabeltelevisie Pijnacker (SKP)",
         "Headline": "Zuid-Hollandse provider SKP kon door ransomware geen internet leveren aan klanten",
