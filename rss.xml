@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 05 May 2023 18:13:31 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 08 May 2023 18:13:59 +0000</lastBuildDate>
+		<item>
+			<title>Man (25) uit Purmerend aangehouden voor hack van honderdduizenden klantgegevens bij bedrijf in Haarlem</title>
+			<link>https://www.noordhollandsdagblad.nl/cnt/dmf20230505_55345155</link>
+			<description>Man (25) uit Purmerend aangehouden voor hack van honderdduizenden klantgegevens bij bedrijf in Haarlem</description>
+			<guid isPermaLink="false">102523741341</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Website Staten-Generaal plat door 'overbelasting'</title>
 			<link>https://www.agconnect.nl/artikel/website-staten-generaal-plat-door-overbelasting</link>

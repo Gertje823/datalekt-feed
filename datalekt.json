@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1683244800.0,
+        "Org": "Onbekende organisatie",
+        "Headline": "Man (25) uit Purmerend aangehouden voor hack van honderdduizenden klantgegevens bij bedrijf in Haarlem",
+        "Source": "Noordhollands Dagblad",
+        "URL": "https://www.noordhollandsdagblad.nl/cnt/dmf20230505_55345155",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "nee",
+        "RansomAmount": "50.000"
+    },
+    {
         "Date": 1683158400.0,
         "Org": "Tweede Kamer der Staten-Generaal",
         "Headline": "Website Staten-Generaal plat door 'overbelasting'",
