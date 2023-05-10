@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1683590400.0,
+        "Org": "Woonkracht10",
+        "Headline": "Woningcorporatie Woonkracht10 betaalt losgeld na ransomware-aanval: 'Gaat om tonnen'",
+        "Source": "RTL Nieuws",
+        "URL": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5383064/woonkracht10-ransomware-losgeld-play-cybercriminelen",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "ja",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1683244800.0,
         "Org": "Onbekende organisatie",
         "Headline": "Man (25) uit Purmerend aangehouden voor hack van honderdduizenden klantgegevens bij bedrijf in Haarlem",
