@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1683676800.0,
+        "Org": "Gemeente Leiden",
+        "Headline": "Leiden lekt gegevens over schulden via foute brieven",
+        "Source": "Sleutelstad",
+        "URL": "https://sleutelstad.nl/2023/05/10/leiden-lekt-gegevens-over-schulden-via-foute-brieven/",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "92",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1683590400.0,
         "Org": "Woonkracht10",
         "Headline": "Woningcorporatie Woonkracht10 betaalt losgeld na ransomware-aanval: 'Gaat om tonnen'",
@@ -5755,7 +5767,7 @@
         "URL": "https://tweakers.net/nieuws/175440/volkskrant-ransomwarebende-eist-800000-euro-losgeld-van-hof-van-twente.html",
         "Event": "Gijzelsoftware (ransomware)",
         "RecordsStolen": "",
-        "Damage": "1.000.000",
+        "Damage": "4.200.000",
         "PaidRansom": "ja",
         "RansomAmount": "750.000"
     },

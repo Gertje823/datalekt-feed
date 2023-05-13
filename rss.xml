@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 10 May 2023 18:20:48 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 13 May 2023 12:19:33 +0000</lastBuildDate>
+		<item>
+			<title>Leiden lekt gegevens over schulden via foute brieven</title>
+			<link>https://sleutelstad.nl/2023/05/10/leiden-lekt-gegevens-over-schulden-via-foute-brieven/</link>
+			<description>Leiden lekt gegevens over schulden via foute brieven</description>
+			<guid isPermaLink="false">951348667772</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Woningcorporatie Woonkracht10 betaalt losgeld na ransomware-aanval: 'Gaat om tonnen'</title>
 			<link>https://www.rtlnieuws.nl/nieuws/nederland/artikel/5383064/woonkracht10-ransomware-losgeld-play-cybercriminelen</link>
