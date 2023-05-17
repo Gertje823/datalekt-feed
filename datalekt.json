@@ -1,6 +1,18 @@
 [
     {
         "Date": 1684108800.0,
+        "Org": "Gemeente Eindhoven",
+        "Headline": "Eindhovense stuurt boze brief aan gemeente over datalek en wordt nog een keer slachtoffer",
+        "Source": "ED",
+        "URL": "https://www.ed.nl/eindhoven/eindhovense-neeltje-71-stuurt-boze-brief-aan-gemeente-over-datalek-en-wordt-nog-een-keer-slachtoffer~a1804b1a/",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "1",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1684108800.0,
         "Org": "Holland Casino Online",
         "Headline": "Holland Casino Online kampte met storing na DDoS-aanval",
         "Source": "Online Casino Ground",
