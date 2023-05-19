@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 19 May 2023 07:09:44 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 19 May 2023 18:13:20 +0000</lastBuildDate>
+		<item>
+			<title>Autoriteit Persoonsgegevens vorig jaar slachtoffer social engineering-aanval</title>
+			<link>https://www.security.nl/posting/796706/Autoriteit+Persoonsgegevens+vorig+jaar+slachtoffer+social+engineering-aanval</link>
+			<description>Autoriteit Persoonsgegevens vorig jaar slachtoffer social engineering-aanval</description>
+			<guid isPermaLink="false">108035687888</guid>
+			<category>Business Email Compromise (BEC)</category>
+			<pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>OCW meldde 32 datalekken in 2022</title>
+			<link>https://www.vpngids.nl/nieuws/meer-datalekken-bij-het-ministerie-van-onderwijs/</link>
+			<description>OCW meldde 32 datalekken in 2022</description>
+			<guid isPermaLink="false">896832815507</guid>
+			<category>Transparantie rapport</category>
+			<pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek gemeente Venlo: documenten met privégegevens verenigingen online te vinden</title>
+			<link>https://www.limburger.nl/cnt/dmf20230517_93252970</link>
+			<description>Datalek gemeente Venlo: documenten met privégegevens verenigingen online te vinden</description>
+			<guid isPermaLink="false">238085838725</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Meierijstad slachtoffer van CEO-fraude</title>
 			<link>https://www.omroepmeierij.nl/omroepmeierij/gemeente-slachtoffer-van-ceo-fraude</link>
@@ -17,19 +41,20 @@
 			<pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Klein datalek bij ingekomen stukken in Sint-Michielsgestel</title>
-			<description>Klein datalek bij ingekomen stukken in Sint-Michielsgestel</description>
-			<guid isPermaLink="false">281949768489</guid>
-			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
-			<pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+			<title>DUO meldde 85 datalekken in 2022</title>
+			<link>https://www.vpngids.nl/nieuws/meer-datalekken-bij-het-ministerie-van-onderwijs/</link>
+			<description>DUO meldde 85 datalekken in 2022</description>
+			<guid isPermaLink="false">896832815507</guid>
+			<category>Transparantie rapport</category>
+			<pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Eindhovense stuurt boze brief aan gemeente over datalek en wordt nog een keer slachtoffer</title>
-			<link>https://www.ed.nl/eindhoven/eindhovense-neeltje-71-stuurt-boze-brief-aan-gemeente-over-datalek-en-wordt-nog-een-keer-slachtoffer~a1804b1a/</link>
-			<description>Eindhovense stuurt boze brief aan gemeente over datalek en wordt nog een keer slachtoffer</description>
-			<guid isPermaLink="false">142913637301</guid>
+			<title>Klein datalek bij ingekomen stukken in Sint-Michielsgestel</title>
+			<link>https://dtvnieuws.nl/nieuws/artikel/klein-datalek-bij-ingekomen-stukken-in-sint-michielsgestel</link>
+			<description>Klein datalek bij ingekomen stukken in Sint-Michielsgestel</description>
+			<guid isPermaLink="false">109425617750</guid>
 			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
-			<pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+			<pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Holland Casino Online kampte met storing na DDoS-aanval</title>
@@ -37,6 +62,14 @@
 			<description>Holland Casino Online kampte met storing na DDoS-aanval</description>
 			<guid isPermaLink="false">152024196698</guid>
 			<category>(D)DoS-aanval</category>
+			<pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Eindhovense stuurt boze brief aan gemeente over datalek en wordt nog een keer slachtoffer</title>
+			<link>https://www.ed.nl/eindhoven/eindhovense-neeltje-71-stuurt-boze-brief-aan-gemeente-over-datalek-en-wordt-nog-een-keer-slachtoffer~a1804b1a/</link>
+			<description>Eindhovense stuurt boze brief aan gemeente over datalek en wordt nog een keer slachtoffer</description>
+			<guid isPermaLink="false">142913637301</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
 			<pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -768,17 +801,17 @@
 			<pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>UWV had in eerste acht maanden vorig jaar 554 datalekken</title>
+			<title>UWV had in eerste acht maanden van 2022 al 554 datalekken</title>
 			<link>https://www.security.nl/posting/781922/UWV+en+SVB+hadden+in+eerste+acht+maanden+vorig+jaar+ruim+900+datalekken</link>
-			<description>UWV had in eerste acht maanden vorig jaar 554 datalekken</description>
+			<description>UWV had in eerste acht maanden van 2022 al 554 datalekken</description>
 			<guid isPermaLink="false">745521838805</guid>
 			<category>Transparantie rapport</category>
 			<pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>SVB had in eerste acht maanden vorig jaar 363 datalekken</title>
+			<title>SVB had in eerste acht maanden van 2022 al 363 datalekken</title>
 			<link>https://www.security.nl/posting/781922/UWV+en+SVB+hadden+in+eerste+acht+maanden+vorig+jaar+ruim+900+datalekken</link>
-			<description>SVB had in eerste acht maanden vorig jaar 363 datalekken</description>
+			<description>SVB had in eerste acht maanden van 2022 al 363 datalekken</description>
 			<guid isPermaLink="false">745521838805</guid>
 			<category>Transparantie rapport</category>
 			<pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
@@ -1912,12 +1945,68 @@
 			<pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>UWV meldde duizend datalekken bij Autoriteit Persoonsgegevens in 2021</title>
-			<link>https://www.security.nl/posting/753871/UWV+meldde+duizend+datalekken+bij+Autoriteit+Persoonsgegevens+in+2021</link>
-			<description>UWV meldde duizend datalekken bij Autoriteit Persoonsgegevens in 2021</description>
-			<guid isPermaLink="false">335998643207</guid>
+			<title>UWV meldde 1039 datalekken in 2021</title>
+			<link>https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/</link>
+			<description>UWV meldde 1039 datalekken in 2021</description>
+			<guid isPermaLink="false">265737272201</guid>
 			<category>Transparantie rapport</category>
-			<pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+			<pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>SVB meldde 691 datalekken in 2021</title>
+			<link>https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/</link>
+			<description>SVB meldde 691 datalekken in 2021</description>
+			<guid isPermaLink="false">265737272201</guid>
+			<category>Transparantie rapport</category>
+			<pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>OCW meldde 11 datalekken in 2021</title>
+			<link>https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/</link>
+			<description>OCW meldde 11 datalekken in 2021</description>
+			<guid isPermaLink="false">265737272201</guid>
+			<category>Transparantie rapport</category>
+			<pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>LNV meldde 67 datalekken in 2021</title>
+			<link>https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/</link>
+			<description>LNV meldde 67 datalekken in 2021</description>
+			<guid isPermaLink="false">265737272201</guid>
+			<category>Transparantie rapport</category>
+			<pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>J&amp;V meldde 1 datalekken in 2021</title>
+			<link>https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/</link>
+			<description>J&amp;V meldde 1 datalekken in 2021</description>
+			<guid isPermaLink="false">265737272201</guid>
+			<category>Transparantie rapport</category>
+			<pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>EZK meldde 125 datalekken in 2021</title>
+			<link>https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/</link>
+			<description>EZK meldde 125 datalekken in 2021</description>
+			<guid isPermaLink="false">265737272201</guid>
+			<category>Transparantie rapport</category>
+			<pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>DUO meldde 113 datalekken in 2021</title>
+			<link>https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/</link>
+			<description>DUO meldde 113 datalekken in 2021</description>
+			<guid isPermaLink="false">265737272201</guid>
+			<category>Transparantie rapport</category>
+			<pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>UWV meldde 1039 datalekken in 2021</title>
+			<link>https://www.vpngids.nl/nieuws/uwv-meldt-meer-dan-duizend-datalekken-bij-ap/</link>
+			<description>UWV meldde 1039 datalekken in 2021</description>
+			<guid isPermaLink="false">181685334867</guid>
+			<category>Transparantie rapport</category>
+			<pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Website Stadspas Apeldoorn offline na datalek</title>
@@ -2424,14 +2513,6 @@
 			<pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Horeca-ondernemer De Hall houdt na websitehack alles tegen het licht</title>
-			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/horeca-ondernemer-websitehack</link>
-			<description>Horeca-ondernemer De Hall houdt na websitehack alles tegen het licht</description>
-			<guid isPermaLink="false">217077960533</guid>
-			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
-			<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Online modewinkel Rico Moda betaalde losgeld na ransomware NAS</title>
 			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/online-modewinkel-betaalde-losgeld-tegen-beter-weten-in</link>
 			<description>Online modewinkel Rico Moda betaalde losgeld na ransomware NAS</description>
@@ -2445,6 +2526,14 @@
 			<description>E-mailaccount gemeente Nieuwegein misbruikt voor versturen spam</description>
 			<guid isPermaLink="false">282980587598</guid>
 			<category>Business Email Compromise (BEC)</category>
+			<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Horeca-ondernemer De Hall houdt na websitehack alles tegen het licht</title>
+			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/horeca-ondernemer-websitehack</link>
+			<description>Horeca-ondernemer De Hall houdt na websitehack alles tegen het licht</description>
+			<guid isPermaLink="false">217077960533</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -3360,17 +3449,17 @@
 			<pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Ministerie van Onderwijs meldde vorig jaar zeven datalekken</title>
+			<title>Ministerie van Onderwijs meldde zeven datalekken in 2020</title>
 			<link>https://www.security.nl/posting/704430/DUO+meldt+minder+datalekken+bij+Autoriteit+Persoonsgegevens</link>
-			<description>Ministerie van Onderwijs meldde vorig jaar zeven datalekken</description>
+			<description>Ministerie van Onderwijs meldde zeven datalekken in 2020</description>
 			<guid isPermaLink="false">310417498168</guid>
 			<category>Transparantie rapport</category>
 			<pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>DUO meldt minder datalekken (totaal 16) bij Autoriteit Persoonsgegevens</title>
+			<title>DUO meldt minder datalekken (totaal 16) in 2020 bij Autoriteit Persoonsgegevens</title>
 			<link>https://www.security.nl/posting/704430/DUO+meldt+minder+datalekken+bij+Autoriteit+Persoonsgegevens</link>
-			<description>DUO meldt minder datalekken (totaal 16) bij Autoriteit Persoonsgegevens</description>
+			<description>DUO meldt minder datalekken (totaal 16) in 2020 bij Autoriteit Persoonsgegevens</description>
 			<guid isPermaLink="false">310417498168</guid>
 			<category>Transparantie rapport</category>
 			<pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
@@ -4936,9 +5025,9 @@
 			<pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>UWV meldde 84 keer datalek bij Autoriteit Persoonsgegevens</title>
+			<title>UWV meldde 84 keer datalek in 2017 bij Autoriteit Persoonsgegevens</title>
 			<link>https://www.security.nl/posting/562056/UWV+meldde+84+keer+datalek+bij+Autoriteit+Persoonsgegevens</link>
-			<description>UWV meldde 84 keer datalek bij Autoriteit Persoonsgegevens</description>
+			<description>UWV meldde 84 keer datalek in 2017 bij Autoriteit Persoonsgegevens</description>
 			<guid isPermaLink="false">266034780451</guid>
 			<category>Transparantie rapport</category>
 			<pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>

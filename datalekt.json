@@ -1,5 +1,41 @@
 [
     {
+        "Date": 1684368000.0,
+        "Org": "Autoriteit Persoonsgegevens",
+        "Headline": "Autoriteit Persoonsgegevens vorig jaar slachtoffer social engineering-aanval",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/796706/Autoriteit+Persoonsgegevens+vorig+jaar+slachtoffer+social+engineering-aanval",
+        "Event": "Business Email Compromise (BEC)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1684281600.0,
+        "Org": "Ministerie van Onderwijs (OCW)",
+        "Headline": "OCW meldde 32 datalekken in 2022",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/meer-datalekken-bij-het-ministerie-van-onderwijs/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1684281600.0,
+        "Org": "Gemeente Venlo",
+        "Headline": "Datalek gemeente Venlo: documenten met priv\u00e9gegevens verenigingen online te vinden",
+        "Source": "Limburger",
+        "URL": "https://www.limburger.nl/cnt/dmf20230517_93252970",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1684281600.0,
         "Org": "Gemeente Meierijstad",
         "Headline": "Gemeente Meierijstad slachtoffer van CEO-fraude",
@@ -12,25 +48,25 @@
         "RansomAmount": ""
     },
     {
-        "Date": 1684195200.0,
-        "Org": "Gemeente Sint-Michielsgestel",
-        "Headline": "Klein datalek bij ingekomen stukken in Sint-Michielsgestel",
-        "Source": "",
-        "URL": "",
-        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
-        "RecordsStolen": "250",
+        "Date": 1684281600.0,
+        "Org": "Dienst Uitvoering Onderwijs (DUO)",
+        "Headline": "DUO meldde 85 datalekken in 2022",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/meer-datalekken-bij-het-ministerie-van-onderwijs/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "",
         "RansomAmount": ""
     },
     {
-        "Date": 1684108800.0,
-        "Org": "Gemeente Eindhoven",
-        "Headline": "Eindhovense stuurt boze brief aan gemeente over datalek en wordt nog een keer slachtoffer",
-        "Source": "ED",
-        "URL": "https://www.ed.nl/eindhoven/eindhovense-neeltje-71-stuurt-boze-brief-aan-gemeente-over-datalek-en-wordt-nog-een-keer-slachtoffer~a1804b1a/",
+        "Date": 1684195200.0,
+        "Org": "Gemeente Sint-Michielsgestel",
+        "Headline": "Klein datalek bij ingekomen stukken in Sint-Michielsgestel",
+        "Source": "DTV Nieuws",
+        "URL": "https://dtvnieuws.nl/nieuws/artikel/klein-datalek-bij-ingekomen-stukken-in-sint-michielsgestel",
         "Event": "Datalek, verlies of misbruik (interne oorzaak)",
-        "RecordsStolen": "1",
+        "RecordsStolen": "250",
         "Damage": "",
         "PaidRansom": "",
         "RansomAmount": ""
@@ -43,6 +79,18 @@
         "URL": "https://www.onlinecasinoground.nl/holland-casino-online-kampte-met-storing-na-ddos-aanval/",
         "Event": "(D)DoS-aanval",
         "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1684108800.0,
+        "Org": "Gemeente Eindhoven",
+        "Headline": "Eindhovense stuurt boze brief aan gemeente over datalek en wordt nog een keer slachtoffer",
+        "Source": "ED",
+        "URL": "https://www.ed.nl/eindhoven/eindhovense-neeltje-71-stuurt-boze-brief-aan-gemeente-over-datalek-en-wordt-nog-een-keer-slachtoffer~a1804b1a/",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "1",
         "Damage": "",
         "PaidRansom": "",
         "RansomAmount": ""
@@ -133,7 +181,7 @@
     },
     {
         "Date": 1681948800.0,
-        "Org": "UWV",
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
         "Headline": "UWV in 2022 meerdere keren aangevallen door hackers",
         "Source": "VPNgids",
         "URL": "https://www.vpngids.nl/nieuws/uwv-in-2022-meerdere-keren-aangevallen-door-hackers/",
@@ -265,7 +313,7 @@
     },
     {
         "Date": 1680739200.0,
-        "Org": "Ministerie van Economische Zaken",
+        "Org": "Ministerie van Economische Zaken en Klimaat (EZK)",
         "Headline": "Gegevens ANVR-leden mogelijk onderdeel van datalek via Panteia",
         "Source": "ANVR",
         "URL": "https://www.anvr.nl/lists/anvrnieuws/artikel.aspx?ID=1882",
@@ -973,7 +1021,7 @@
     },
     {
         "Date": 1676937600.0,
-        "Org": "Ministerie van Justitie en Veiligheid",
+        "Org": "Ministerie van Justitie en Veiligheid (J&V)",
         "Headline": "Overheid bewaart de gekste gegevens van vliegtuigpassagiers onnodig lang",
         "Source": "NU.nl",
         "URL": "https://www.nu.nl/tech/6252228/overheid-bewaart-de-gekste-gegevens-van-vliegtuigpassagiers-onnodig-lang.html",
@@ -1141,8 +1189,8 @@
     },
     {
         "Date": 1674000000.0,
-        "Org": "UWV",
-        "Headline": "UWV had in eerste acht maanden vorig jaar 554 datalekken",
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
+        "Headline": "UWV had in eerste acht maanden van 2022 al 554 datalekken",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/781922/UWV+en+SVB+hadden+in+eerste+acht+maanden+vorig+jaar+ruim+900+datalekken",
         "Event": "Transparantie rapport",
@@ -1154,7 +1202,7 @@
     {
         "Date": 1674000000.0,
         "Org": "Sociale Verzekeringsbank (SVB)",
-        "Headline": "SVB had in eerste acht maanden vorig jaar 363 datalekken",
+        "Headline": "SVB had in eerste acht maanden van 2022 al 363 datalekken",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/781922/UWV+en+SVB+hadden+in+eerste+acht+maanden+vorig+jaar+ruim+900+datalekken",
         "Event": "Transparantie rapport",
@@ -2197,7 +2245,7 @@
     },
     {
         "Date": 1665100800.0,
-        "Org": "Ministerie van Justitie en Veiligheid",
+        "Org": "Ministerie van Justitie en Veiligheid (J&V)",
         "Headline": "Data Ministerie van Justitie en Veiligheid gelekt door ransomware bij ID-Ware",
         "Source": "Beveiling Nieuws",
         "URL": "https://beveiligingnieuws.nl/gegevens-toegangspassen-tweede-kamer-gehackt/",
@@ -2856,11 +2904,95 @@
         "RansomAmount": ""
     },
     {
-        "Date": 1652745600.0,
-        "Org": "UWV",
-        "Headline": "UWV meldde duizend datalekken bij Autoriteit Persoonsgegevens in 2021",
-        "Source": "Security.nl",
-        "URL": "https://www.security.nl/posting/753871/UWV+meldde+duizend+datalekken+bij+Autoriteit+Persoonsgegevens+in+2021",
+        "Date": 1652918400.0,
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
+        "Headline": "UWV meldde 1039 datalekken in 2021",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1652918400.0,
+        "Org": "Sociale Verzekeringsbank (SVB)",
+        "Headline": "SVB meldde 691 datalekken in 2021",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1652918400.0,
+        "Org": "Ministerie van Onderwijs (OCW)",
+        "Headline": "OCW meldde 11 datalekken in 2021",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1652918400.0,
+        "Org": "Ministerie van Landbouw, Natuur en Voedselkwaliteit (LNV)",
+        "Headline": "LNV meldde 67 datalekken in 2021",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1652918400.0,
+        "Org": "Ministerie van Justitie en Veiligheid (J&V)",
+        "Headline": "J&V meldde 1 datalekken in 2021",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1652918400.0,
+        "Org": "Ministerie van Economische Zaken en Klimaat (EZK)",
+        "Headline": "EZK meldde 125 datalekken in 2021",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1652918400.0,
+        "Org": "Dienst Uitvoering Onderwijs (DUO)",
+        "Headline": "DUO meldde 113 datalekken in 2021",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1652832000.0,
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
+        "Headline": "UWV meldde 1039 datalekken in 2021",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/uwv-meldt-meer-dan-duizend-datalekken-bij-ap/",
         "Event": "Transparantie rapport",
         "RecordsStolen": "",
         "Damage": "",
@@ -3625,18 +3757,6 @@
     },
     {
         "Date": 1640995200.0,
-        "Org": "De Hall",
-        "Headline": "Horeca-ondernemer De Hall houdt na websitehack alles tegen het licht",
-        "Source": "Digital Trust Center",
-        "URL": "https://www.digitaltrustcenter.nl/ondernemersverhalen/horeca-ondernemer-websitehack",
-        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
-        "RecordsStolen": "",
-        "Damage": "",
-        "PaidRansom": "",
-        "RansomAmount": ""
-    },
-    {
-        "Date": 1640995200.0,
         "Org": "Rico Moda",
         "Headline": "Online modewinkel Rico Moda betaalde losgeld na ransomware NAS",
         "Source": "Digital Trust Center",
@@ -3655,6 +3775,18 @@
         "URL": "https://executive-people.nl/688807/e-mailaccount-gemeente-nieuwegein-misbruikt-voor-versturen-spam.html",
         "Event": "Business Email Compromise (BEC)",
         "RecordsStolen": "1",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1640995200.0,
+        "Org": "De Hall",
+        "Headline": "Horeca-ondernemer De Hall houdt na websitehack alles tegen het licht",
+        "Source": "Digital Trust Center",
+        "URL": "https://www.digitaltrustcenter.nl/ondernemersverhalen/horeca-ondernemer-websitehack",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "",
         "RansomAmount": ""
@@ -3985,7 +4117,7 @@
     },
     {
         "Date": 1637193600.0,
-        "Org": "Ministerie van Justitie en Veiligheid",
+        "Org": "Ministerie van Justitie en Veiligheid (J&V)",
         "Headline": "Ministerie van Justitie meldde 96 datalekken in 2018 bij de AP",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/730658/Ministerie+van+Justitie+meldde+afgelopen+vijf+jaar+455+datalekken+bij+AP",
@@ -3997,7 +4129,7 @@
     },
     {
         "Date": 1637193600.0,
-        "Org": "Ministerie van Justitie en Veiligheid",
+        "Org": "Ministerie van Justitie en Veiligheid (J&V)",
         "Headline": "Ministerie van Justitie meldde 41 datalekken in 2017 bij de AP",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/730658/Ministerie+van+Justitie+meldde+afgelopen+vijf+jaar+455+datalekken+bij+AP",
@@ -4009,7 +4141,7 @@
     },
     {
         "Date": 1637193600.0,
-        "Org": "Ministerie van Justitie en Veiligheid",
+        "Org": "Ministerie van Justitie en Veiligheid (J&V)",
         "Headline": "Ministerie van Justitie meldde 36 datalekken in 2016 bij de AP",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/730658/Ministerie+van+Justitie+meldde+afgelopen+vijf+jaar+455+datalekken+bij+AP",
@@ -4021,7 +4153,7 @@
     },
     {
         "Date": 1637193600.0,
-        "Org": "Ministerie van Justitie en Veiligheid",
+        "Org": "Ministerie van Justitie en Veiligheid (J&V)",
         "Headline": "Ministerie van Justitie meldde 143 datalekken in 2019 bij de AP",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/730658/Ministerie+van+Justitie+meldde+afgelopen+vijf+jaar+455+datalekken+bij+AP",
@@ -4033,7 +4165,7 @@
     },
     {
         "Date": 1637193600.0,
-        "Org": "Ministerie van Justitie en Veiligheid",
+        "Org": "Ministerie van Justitie en Veiligheid (J&V)",
         "Headline": "Ministerie van Justitie meldde 139 datalekken in 2020 bij de AP",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/730658/Ministerie+van+Justitie+meldde+afgelopen+vijf+jaar+455+datalekken+bij+AP",
@@ -4681,7 +4813,7 @@
     },
     {
         "Date": 1626393600.0,
-        "Org": "Ministerie van Justitie en Veiligheid",
+        "Org": "Ministerie van Justitie en Veiligheid (J&V)",
         "Headline": "Datalek op ministerie van Justitie, persoonsgegevens van 65.000 ambtenaren",
         "Source": "NOS",
         "URL": "https://nos.nl/artikel/2389647-datalek-op-ministerie-van-justitie-persoonsgegevens-van-65-000-ambtenaren",
@@ -5029,8 +5161,8 @@
     },
     {
         "Date": 1621555200.0,
-        "Org": "Ministerie van Onderwijs",
-        "Headline": "Ministerie van Onderwijs meldde vorig jaar zeven datalekken",
+        "Org": "Ministerie van Onderwijs (OCW)",
+        "Headline": "Ministerie van Onderwijs meldde zeven datalekken in 2020",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/704430/DUO+meldt+minder+datalekken+bij+Autoriteit+Persoonsgegevens",
         "Event": "Transparantie rapport",
@@ -5042,7 +5174,7 @@
     {
         "Date": 1621555200.0,
         "Org": "Dienst Uitvoering Onderwijs (DUO)",
-        "Headline": "DUO meldt minder datalekken (totaal 16) bij Autoriteit Persoonsgegevens",
+        "Headline": "DUO meldt minder datalekken (totaal 16) in 2020 bij Autoriteit Persoonsgegevens",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/704430/DUO+meldt+minder+datalekken+bij+Autoriteit+Persoonsgegevens",
         "Event": "Transparantie rapport",
@@ -5077,7 +5209,7 @@
     },
     {
         "Date": 1621382400.0,
-        "Org": "UWV",
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
         "Headline": "UWV meldde duizend datalekken aan Autoriteit Persoonsgegevens in 2020",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/704091/UWV+meldde+duizend+datalekken+aan+Autoriteit+Persoonsgegevens+in+2020",
@@ -6325,7 +6457,7 @@
     },
     {
         "Date": 1591228800.0,
-        "Org": "UWV",
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
         "Headline": "UWV verbetert beveiliging werkgeversportaal na onderzoek AP",
         "Source": "AP",
         "URL": "https://autoriteitpersoonsgegevens.nl/nl/nieuws/uwv-verbetert-beveiliging-werkgeversportaal-na-onderzoek-ap",
@@ -6361,7 +6493,7 @@
     },
     {
         "Date": 1590537600.0,
-        "Org": "UWV",
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
         "Headline": "UWV meldde 600 datalekken aan Autoriteit Persoonsgegevens in 2019",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/658674/UWV+meldde+600+datalekken+aan+Autoriteit+Persoonsgegevens+in+2019",
@@ -6937,7 +7069,7 @@
     },
     {
         "Date": 1557878400.0,
-        "Org": "Ministerie van Onderwijs",
+        "Org": "Ministerie van Onderwijs (OCW)",
         "Headline": "DUO en ministerie van Onderwijs meldden 85 datalekken in 2018",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/609141/DUO+en+ministerie+van+Onderwijs+meldden+85+datalekken+in+2018",
@@ -6961,7 +7093,7 @@
     },
     {
         "Date": 1556841600.0,
-        "Org": "UWV",
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
         "Headline": "Criminelen downloaden 117.000 cv's van UWV via werkgeversaccount",
         "Source": "Tweakers.net",
         "URL": "https://tweakers.net/nieuws/152404/criminelen-downloaden-117000-cvs-van-uwv-via-werkgeversaccount.html",
@@ -7273,7 +7405,7 @@
     },
     {
         "Date": 1534291200.0,
-        "Org": "UWV",
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
         "Headline": "UWV gaat verzenden van Excel-bestanden blokkeren in verband met datalek",
         "Source": "Tweakers.net",
         "URL": "https://tweakers.net/nieuws/143709/uwv-gaat-verzenden-van-excel-bestanden-blokkeren-in-verband-met-datalek.html",
@@ -7393,8 +7525,8 @@
     },
     {
         "Date": 1526256000.0,
-        "Org": "UWV",
-        "Headline": "UWV meldde 84 keer datalek bij Autoriteit Persoonsgegevens",
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
+        "Headline": "UWV meldde 84 keer datalek in 2017 bij Autoriteit Persoonsgegevens",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/562056/UWV+meldde+84+keer+datalek+bij+Autoriteit+Persoonsgegevens",
         "Event": "Transparantie rapport",
@@ -8341,7 +8473,7 @@
     },
     {
         "Date": 1474934400.0,
-        "Org": "UWV",
+        "Org": "Uitkeringsinstituut Werknemersverzekeringen (UWV)",
         "Headline": "UWV lekt data 11.000 werkzoekenden door blunder met bijlage",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/486878/UWV+lekt+data+11_000+werkzoekenden+door+blunder+met+bijlage",
