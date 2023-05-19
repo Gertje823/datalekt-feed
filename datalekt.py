@@ -28,7 +28,12 @@ for row in rows:
         #print(org)
         news_title = row[3].text
         source = row[4].text
-        url = re.findall("a href=\"(.*)\" rel=", str(row[4]))[0]
+        # print(row[4])
+        try:
+            url = re.findall("a href=\"(.*)\" rel=", str(row[4]))[0]
+        except IndexError:
+            # Url not found
+            url = ""
         event = row[5].text
         category = row[6].text
         records = row[7].text
