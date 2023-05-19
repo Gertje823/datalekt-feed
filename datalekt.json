@@ -1,5 +1,29 @@
 [
     {
+        "Date": 1684281600.0,
+        "Org": "Gemeente Meierijstad",
+        "Headline": "Gemeente Meierijstad slachtoffer van CEO-fraude",
+        "Source": "Omroep Meierij",
+        "URL": "https://www.omroepmeierij.nl/omroepmeierij/gemeente-slachtoffer-van-ceo-fraude",
+        "Event": "Business Email Compromise (BEC)",
+        "RecordsStolen": "",
+        "Damage": "37.200",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1684195200.0,
+        "Org": "Gemeente Sint-Michielsgestel",
+        "Headline": "Klein datalek bij ingekomen stukken in Sint-Michielsgestel",
+        "Source": "",
+        "URL": "",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "250",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1684108800.0,
         "Org": "Gemeente Eindhoven",
         "Headline": "Eindhovense stuurt boze brief aan gemeente over datalek en wordt nog een keer slachtoffer",

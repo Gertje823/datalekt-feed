@@ -7,7 +7,22 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 17 May 2023 18:13:25 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 19 May 2023 07:09:44 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Meierijstad slachtoffer van CEO-fraude</title>
+			<link>https://www.omroepmeierij.nl/omroepmeierij/gemeente-slachtoffer-van-ceo-fraude</link>
+			<description>Gemeente Meierijstad slachtoffer van CEO-fraude</description>
+			<guid isPermaLink="false">915549911989</guid>
+			<category>Business Email Compromise (BEC)</category>
+			<pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Klein datalek bij ingekomen stukken in Sint-Michielsgestel</title>
+			<description>Klein datalek bij ingekomen stukken in Sint-Michielsgestel</description>
+			<guid isPermaLink="false">281949768489</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Eindhovense stuurt boze brief aan gemeente over datalek en wordt nog een keer slachtoffer</title>
 			<link>https://www.ed.nl/eindhoven/eindhovense-neeltje-71-stuurt-boze-brief-aan-gemeente-over-datalek-en-wordt-nog-een-keer-slachtoffer~a1804b1a/</link>
