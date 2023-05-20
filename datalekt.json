@@ -1,7 +1,31 @@
 [
     {
+        "Date": 1684454400.0,
+        "Org": "Team Jumbo-Visma",
+        "Headline": "Twitteraccount Team Jumbo-Visma gehackt",
+        "Source": "Wielerflits",
+        "URL": "https://www.wielerflits.nl/update/twitter-van-jumbo-visma-gehackt/",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1684368000.0,
-        "Org": "Autoriteit Persoonsgegevens",
+        "Org": "Autoriteit Persoonsgegevens (AP)",
+        "Headline": "Autoriteit Persoonsgegevens meldde 50 datalekken in 2022",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/ap-meldde-50-beveiligingsincidenten-in-2022/",
+        "Event": "Transparantie rapport",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1684368000.0,
+        "Org": "Autoriteit Persoonsgegevens (AP)",
         "Headline": "Autoriteit Persoonsgegevens vorig jaar slachtoffer social engineering-aanval",
         "Source": "Security.nl",
         "URL": "https://www.security.nl/posting/796706/Autoriteit+Persoonsgegevens+vorig+jaar+slachtoffer+social+engineering-aanval",
@@ -3145,7 +3169,7 @@
     },
     {
         "Date": 1650412800.0,
-        "Org": "Autoriteit Persoonsgegevens",
+        "Org": "Autoriteit Persoonsgegevens (AP)",
         "Headline": "Datalek bij meldpunt voor datalekken",
         "Source": "Binnenlands Bestuur",
         "URL": "https://www.binnenlandsbestuur.nl/digitaal/datalek-bij-meldloket-voor-datalekken",
@@ -7573,7 +7597,7 @@
     },
     {
         "Date": 1521158400.0,
-        "Org": "Autoriteit Persoonsgegevens",
+        "Org": "Autoriteit Persoonsgegevens (AP)",
         "Headline": "Nederlandse privacywaakhond liet namen van personeel via documenten uitlekken",
         "Source": "Tweakers.net",
         "URL": "https://tweakers.net/nieuws/136359/nederlandse-privacywaakhond-liet-namen-van-personeel-via-documenten-uitlekken.html",
