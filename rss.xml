@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 20 May 2023 18:12:42 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 22 May 2023 18:13:40 +0000</lastBuildDate>
+		<item>
+			<title>Hack bij gemeente Asten: criminelen hadden toegang tot tienduizenden gegevens</title>
+			<link>https://www.omroepbrabant.nl/nieuws/4280276/hack-bij-gemeente-criminelen-hadden-toegang-tot-tienduizenden-gegevens</link>
+			<description>Hack bij gemeente Asten: criminelen hadden toegang tot tienduizenden gegevens</description>
+			<guid isPermaLink="false">322614131718</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Twitteraccount Team Jumbo-Visma gehackt</title>
 			<link>https://www.wielerflits.nl/update/twitter-van-jumbo-visma-gehackt/</link>

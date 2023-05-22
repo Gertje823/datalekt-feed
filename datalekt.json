@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1684713600.0,
+        "Org": "Gemeente Asten",
+        "Headline": "Hack bij gemeente Asten: criminelen hadden toegang tot tienduizenden gegevens",
+        "Source": "Omroep Brabant",
+        "URL": "https://www.omroepbrabant.nl/nieuws/4280276/hack-bij-gemeente-criminelen-hadden-toegang-tot-tienduizenden-gegevens",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "23.000",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1684454400.0,
         "Org": "Team Jumbo-Visma",
         "Headline": "Twitteraccount Team Jumbo-Visma gehackt",
