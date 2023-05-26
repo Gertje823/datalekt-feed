@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1684800000.0,
+        "Org": "Spaarne Gasthuis",
+        "Headline": "Website Spaarne Gasthuis lange tijd plat door DDoS-aanval. \u2019Pati\u00ebntenzorg niet in gevaar\u2019",
+        "Source": "IJmuider Courant",
+        "URL": "https://www.ijmuidercourant.nl/cnt/dmf20230523_67041925",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1684713600.0,
         "Org": "Gemeente Asten",
         "Headline": "Hack bij gemeente Asten: criminelen hadden toegang tot tienduizenden gegevens",

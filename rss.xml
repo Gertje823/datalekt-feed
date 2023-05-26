@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 22 May 2023 18:13:40 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 26 May 2023 18:13:23 +0000</lastBuildDate>
+		<item>
+			<title>Website Spaarne Gasthuis lange tijd plat door DDoS-aanval. ’Patiëntenzorg niet in gevaar’</title>
+			<link>https://www.ijmuidercourant.nl/cnt/dmf20230523_67041925</link>
+			<description>Website Spaarne Gasthuis lange tijd plat door DDoS-aanval. ’Patiëntenzorg niet in gevaar’</description>
+			<guid isPermaLink="false">294895708148</guid>
+			<category>(D)DoS-aanval</category>
+			<pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Hack bij gemeente Asten: criminelen hadden toegang tot tienduizenden gegevens</title>
 			<link>https://www.omroepbrabant.nl/nieuws/4280276/hack-bij-gemeente-criminelen-hadden-toegang-tot-tienduizenden-gegevens</link>
