@@ -1,5 +1,29 @@
 [
     {
+        "Date": 1685059200.0,
+        "Org": "Tesla Motors Netherlands",
+        "Headline": "Data van Tesla-klokkenluider vermeldt duizenden storingsgevallen Autopilot'",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/210124/data-van-tesla-klokkenluider-vermeldt-duizenden-storingsgevallen-autopilot.html",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1684972800.0,
+        "Org": "HVC",
+        "Headline": "Cyberaanval treft HVC. Waarschuwing aan klanten om extra alert te zijn op verdachte mailtjes en app-berichten",
+        "Source": "Noordhollands Dagblad",
+        "URL": "https://www.noordhollandsdagblad.nl/cnt/dmf20230525_59144648",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1684800000.0,
         "Org": "Spaarne Gasthuis",
         "Headline": "Website Spaarne Gasthuis lange tijd plat door DDoS-aanval. \u2019Pati\u00ebntenzorg niet in gevaar\u2019",

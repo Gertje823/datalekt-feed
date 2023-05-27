@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 26 May 2023 18:13:23 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 27 May 2023 18:12:49 +0000</lastBuildDate>
+		<item>
+			<title>Data van Tesla-klokkenluider vermeldt duizenden storingsgevallen Autopilot'</title>
+			<link>https://tweakers.net/nieuws/210124/data-van-tesla-klokkenluider-vermeldt-duizenden-storingsgevallen-autopilot.html</link>
+			<description>Data van Tesla-klokkenluider vermeldt duizenden storingsgevallen Autopilot'</description>
+			<guid isPermaLink="false">235097171840</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cyberaanval treft HVC. Waarschuwing aan klanten om extra alert te zijn op verdachte mailtjes en app-berichten</title>
+			<link>https://www.noordhollandsdagblad.nl/cnt/dmf20230525_59144648</link>
+			<description>Cyberaanval treft HVC. Waarschuwing aan klanten om extra alert te zijn op verdachte mailtjes en app-berichten</description>
+			<guid isPermaLink="false">271560678108</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Website Spaarne Gasthuis lange tijd plat door DDoS-aanval. ’Patiëntenzorg niet in gevaar’</title>
 			<link>https://www.ijmuidercourant.nl/cnt/dmf20230523_67041925</link>
