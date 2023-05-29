@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1685232000.0,
+        "Org": "VodafoneZiggo",
+        "Headline": "VodafoneZiggo waarschuwt klanten voor datalek na diefstal van gegevens",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/797683/VodafoneZiggo+waarschuwt+klanten+voor+datalek+na+diefstal+van+gegevens",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "20",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1685059200.0,
         "Org": "Tesla Motors Netherlands",
         "Headline": "Data van Tesla-klokkenluider vermeldt duizenden storingsgevallen Autopilot'",
