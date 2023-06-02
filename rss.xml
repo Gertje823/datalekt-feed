@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 31 May 2023 18:14:02 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 02 Jun 2023 12:22:45 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij waterschap: HHNK gaat in de fout bij versturen van uitnodiging voor afscheidsreceptie</title>
+			<link>https://www.noordhollandsdagblad.nl/cnt/dmf20230531_53943984</link>
+			<description>Datalek bij waterschap: HHNK gaat in de fout bij versturen van uitnodiging voor afscheidsreceptie</description>
+			<guid isPermaLink="false">249046614794</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Zestien organisaties, waaronder RvR, van Rijksoverheid getroffen door lek bij Nebu</title>
 			<link>https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu</link>
@@ -3215,14 +3223,6 @@
 			<guid isPermaLink="false">234465241358</guid>
 			<category>Gijzelsoftware (ransomware)</category>
 			<pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Centrale Bank van Curaçao en Sint Maarten meldt hack</title>
-			<link>https://tweakers.net/nieuws/186484/centrale-bank-van-curacao-en-sint-maarten-meldt-hack.html</link>
-			<description>Centrale Bank van Curaçao en Sint Maarten meldt hack</description>
-			<guid isPermaLink="false">137720650587</guid>
-			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
-			<pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Half miljoen gedupeerden bij hack Hogeschool Arnhem Nijmegen</title>
