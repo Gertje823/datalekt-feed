@@ -1,5 +1,29 @@
 [
     {
+        "Date": 1685750400.0,
+        "Org": "Stichting OSG Hengelo",
+        "Headline": "Hengelose scholengemeenschap OSG getroffen door ransomware-aanval",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/798354/Hengelose+scholengemeenschap+OSG+getroffen+door+ransomware-aanval",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "onbekend",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1685750400.0,
+        "Org": "Pensioenfonds ABP",
+        "Headline": "Vijfhonderd e-mailadressen gelekt bij pensioenfonds ABP",
+        "Source": "NU.nl",
+        "URL": "https://www.nu.nl/economie/6266421/vijfhonderd-e-mailadressen-gelekt-bij-pensioenfonds-abp.html",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "500",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1685491200.0,
         "Org": "Hoogheemraadschap Hollands Noorderkwartier (HHNK)",
         "Headline": "Datalek bij waterschap: HHNK gaat in de fout bij versturen van uitnodiging voor afscheidsreceptie",

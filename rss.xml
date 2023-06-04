@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 02 Jun 2023 12:22:45 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 04 Jun 2023 01:21:09 +0000</lastBuildDate>
+		<item>
+			<title>Hengelose scholengemeenschap OSG getroffen door ransomware-aanval</title>
+			<link>https://www.security.nl/posting/798354/Hengelose+scholengemeenschap+OSG+getroffen+door+ransomware-aanval</link>
+			<description>Hengelose scholengemeenschap OSG getroffen door ransomware-aanval</description>
+			<guid isPermaLink="false">194382178703</guid>
+			<category>Gijzelsoftware (ransomware)</category>
+			<pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Vijfhonderd e-mailadressen gelekt bij pensioenfonds ABP</title>
+			<link>https://www.nu.nl/economie/6266421/vijfhonderd-e-mailadressen-gelekt-bij-pensioenfonds-abp.html</link>
+			<description>Vijfhonderd e-mailadressen gelekt bij pensioenfonds ABP</description>
+			<guid isPermaLink="false">238524581790</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij waterschap: HHNK gaat in de fout bij versturen van uitnodiging voor afscheidsreceptie</title>
 			<link>https://www.noordhollandsdagblad.nl/cnt/dmf20230531_53943984</link>
