@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1686009600.0,
+        "Org": "Bibliotheek Gouda",
+        "Headline": "Bibliotheek Gouda getroffen door ransomware-aanval",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/798654/Bibliotheek+Gouda+getroffen+door+ransomware-aanval",
+        "Event": "Gijzelsoftware (ransomware)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "onbekend",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1685750400.0,
         "Org": "Stichting OSG Hengelo",
         "Headline": "Hengelose scholengemeenschap OSG getroffen door ransomware-aanval",
@@ -6908,6 +6920,18 @@
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1581638400.0,
+        "Org": "PHGR",
+        "Headline": "Ondernemer PHGR raakte alles kwijt door hack: \u2018Binnen twee jaar van zorgeloos naar dakloos\u2019",
+        "Source": "BN DeStem",
+        "URL": "https://www.bndestem.nl/werk/xander-koppelmans-uit-achtmaal-raakte-alles-kwijt-door-hack-binnen-twee-jaar-van-zorgeloos-naar-dakloos~afc07658/",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "519.000",
         "PaidRansom": "",
         "RansomAmount": ""
     },

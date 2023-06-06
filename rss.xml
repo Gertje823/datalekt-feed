@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 04 Jun 2023 01:21:09 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 06 Jun 2023 12:23:08 +0000</lastBuildDate>
+		<item>
+			<title>Bibliotheek Gouda getroffen door ransomware-aanval</title>
+			<link>https://www.security.nl/posting/798654/Bibliotheek+Gouda+getroffen+door+ransomware-aanval</link>
+			<description>Bibliotheek Gouda getroffen door ransomware-aanval</description>
+			<guid isPermaLink="false">338541101115</guid>
+			<category>Gijzelsoftware (ransomware)</category>
+			<pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Hengelose scholengemeenschap OSG getroffen door ransomware-aanval</title>
 			<link>https://www.security.nl/posting/798354/Hengelose+scholengemeenschap+OSG+getroffen+door+ransomware-aanval</link>
@@ -4615,6 +4623,14 @@
 			<guid isPermaLink="false">292573595758</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ondernemer PHGR raakte alles kwijt door hack: ‘Binnen twee jaar van zorgeloos naar dakloos’</title>
+			<link>https://www.bndestem.nl/werk/xander-koppelmans-uit-achtmaal-raakte-alles-kwijt-door-hack-binnen-twee-jaar-van-zorgeloos-naar-dakloos~afc07658/</link>
+			<description>Ondernemer PHGR raakte alles kwijt door hack: ‘Binnen twee jaar van zorgeloos naar dakloos’</description>
+			<guid isPermaLink="false">113066818514</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>AP legt zorgverzekeraar CZ last onder dwangsom op</title>
