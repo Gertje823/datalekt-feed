@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 06 Jun 2023 12:23:08 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 08 Jun 2023 18:13:34 +0000</lastBuildDate>
+		<item>
+			<title>NHL Stenden heeft een datalek gehad waardoor e-mailadressen van studenten op straat kwamen</title>
+			<link>https://www.omropfryslan.nl/nl/nieuws/1211019/hacks-en-digitale-aanvallen-nhl-stenden-heeft-er-steeds-vaker-mee-te-maken</link>
+			<description>NHL Stenden heeft een datalek gehad waardoor e-mailadressen van studenten op straat kwamen</description>
+			<guid isPermaLink="false">130810100606</guid>
+			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
+			<pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Bibliotheek Gouda getroffen door ransomware-aanval</title>
 			<link>https://www.security.nl/posting/798654/Bibliotheek+Gouda+getroffen+door+ransomware-aanval</link>

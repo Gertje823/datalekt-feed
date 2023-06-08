@@ -1,6 +1,18 @@
 [
     {
         "Date": 1686009600.0,
+        "Org": "NHL Stenden",
+        "Headline": "NHL Stenden heeft een datalek gehad waardoor e-mailadressen van studenten op straat kwamen",
+        "Source": "Omrop Frysl\u00e2n",
+        "URL": "https://www.omropfryslan.nl/nl/nieuws/1211019/hacks-en-digitale-aanvallen-nhl-stenden-heeft-er-steeds-vaker-mee-te-maken",
+        "Event": "Datalek, verlies of misbruik (interne oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1686009600.0,
         "Org": "Bibliotheek Gouda",
         "Headline": "Bibliotheek Gouda getroffen door ransomware-aanval",
         "Source": "Security.nl",
