@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 08 Jun 2023 18:13:34 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 09 Jun 2023 18:13:39 +0000</lastBuildDate>
+		<item>
+			<title>Landal GreenParks waarschuwt 12.000 gasten voor mogelijk datalek</title>
+			<link>https://www.security.nl/posting/798904/Landal+GreenParks+waarschuwt+12_000+gasten+voor+mogelijk+datalek</link>
+			<description>Landal GreenParks waarschuwt 12.000 gasten voor mogelijk datalek</description>
+			<guid isPermaLink="false">259954874797</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>NHL Stenden heeft een datalek gehad waardoor e-mailadressen van studenten op straat kwamen</title>
 			<link>https://www.omropfryslan.nl/nl/nieuws/1211019/hacks-en-digitale-aanvallen-nhl-stenden-heeft-er-steeds-vaker-mee-te-maken</link>

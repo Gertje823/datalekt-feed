@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1686182400.0,
+        "Org": "Landal Greenparks",
+        "Headline": "Landal GreenParks waarschuwt 12.000 gasten voor mogelijk datalek",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/798904/Landal+GreenParks+waarschuwt+12_000+gasten+voor+mogelijk+datalek",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "12.000",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1686009600.0,
         "Org": "NHL Stenden",
         "Headline": "NHL Stenden heeft een datalek gehad waardoor e-mailadressen van studenten op straat kwamen",
