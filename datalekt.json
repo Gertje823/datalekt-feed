@@ -1,5 +1,53 @@
 [
     {
+        "Date": 1686700800.0,
+        "Org": "Port of Den Helder",
+        "Headline": "Pro-Russische groep viel website Nederlandse haven Den Helder aan met ddos-aanvallen",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1686700800.0,
+        "Org": "Groningen Seaports",
+        "Headline": "Pro-Russische groep viel website Nederlandse haven Groningen aan met ddos-aanvallen",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1686700800.0,
+        "Org": "Port of Rotterdam",
+        "Headline": "Pro-Russische groep viel website Nederlandse haven Rotterdam aan met ddos-aanvallen",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1686700800.0,
+        "Org": "Port of Amsterdam",
+        "Headline": "Pro-Russische groep viel website Nederlandse haven Amsterdam aan met ddos-aanvallen",
+        "Source": "Tweakers.net",
+        "URL": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1686182400.0,
         "Org": "Landal Greenparks",
         "Headline": "Landal GreenParks waarschuwt 12.000 gasten voor mogelijk datalek",
@@ -44,7 +92,7 @@
         "Event": "Gijzelsoftware (ransomware)",
         "RecordsStolen": "",
         "Damage": "",
-        "PaidRansom": "onbekend",
+        "PaidRansom": "ja",
         "RansomAmount": ""
     },
     {
