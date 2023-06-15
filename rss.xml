@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 14 Jun 2023 12:23:10 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2023 12:23:00 +0000</lastBuildDate>
+		<item>
+			<title>Gegevens inwoners gemeente Montfoort mogelijk gelekt bij datalek via Dimensus</title>
+			<link>https://www.vpngids.nl/nieuws/gegevens-inwoners-gemeente-montfoort-mogelijk-gelekt/</link>
+			<description>Gegevens inwoners gemeente Montfoort mogelijk gelekt bij datalek via Dimensus</description>
+			<guid isPermaLink="false">771265117204</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Pro-Russische groep viel website Nederlandse haven Den Helder aan met ddos-aanvallen</title>
 			<link>https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html</link>
@@ -2162,9 +2170,9 @@
 		</item>
 		<item>
 			<title>Noord-Koreanen hacken defensiebedrijf in Nederland: ‘Dit is niet één-twee-drie te voorkomen’</title>
-			<link>https://www.ad.nl/tech/noord-koreanen-hacken-defensiebedrijf-in-nederland-dit-is-niet-een-twee-drie-te-voorkomen~a485c88f/?cb=9769200906f3008141f886f681ee5637&amp;amp;auth_rd=1</link>
+			<link>https://www.ad.nl/tech/noord-koreanen-hacken-defensiebedrijf-in-nederland-dit-is-niet-een-twee-drie-te-voorkomen~a485c88f/</link>
 			<description>Noord-Koreanen hacken defensiebedrijf in Nederland: ‘Dit is niet één-twee-drie te voorkomen’</description>
-			<guid isPermaLink="false">256397206738</guid>
+			<guid isPermaLink="false">229455119087</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
 		</item>

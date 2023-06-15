@@ -1,6 +1,18 @@
 [
     {
         "Date": 1686700800.0,
+        "Org": "Gemeente Montfoort",
+        "Headline": "Gegevens inwoners gemeente Montfoort mogelijk gelekt bij datalek via Dimensus",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/gegevens-inwoners-gemeente-montfoort-mogelijk-gelekt/",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1686700800.0,
         "Org": "Port of Den Helder",
         "Headline": "Pro-Russische groep viel website Nederlandse haven Den Helder aan met ddos-aanvallen",
         "Source": "Tweakers.net",
@@ -3232,7 +3244,7 @@
         "Org": "Onbekende organisatie",
         "Headline": "Noord-Koreanen hacken defensiebedrijf in Nederland: \u2018Dit is niet \u00e9\u00e9n-twee-drie te voorkomen\u2019",
         "Source": "AD",
-        "URL": "https://www.ad.nl/tech/noord-koreanen-hacken-defensiebedrijf-in-nederland-dit-is-niet-een-twee-drie-te-voorkomen~a485c88f/?cb=9769200906f3008141f886f681ee5637&amp;auth_rd=1",
+        "URL": "https://www.ad.nl/tech/noord-koreanen-hacken-defensiebedrijf-in-nederland-dit-is-niet-een-twee-drie-te-voorkomen~a485c88f/",
         "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
         "RecordsStolen": "",
         "Damage": "",
