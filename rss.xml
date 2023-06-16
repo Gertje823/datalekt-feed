@@ -7,7 +7,39 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 15 Jun 2023 12:23:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jun 2023 12:21:29 +0000</lastBuildDate>
+		<item>
+			<title>Examenuitslag Eijkhagen College uitgesteld door DDoS-aanval schoolsysteem bij Somtoday</title>
+			<link>https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/</link>
+			<description>Examenuitslag Eijkhagen College uitgesteld door DDoS-aanval schoolsysteem bij Somtoday</description>
+			<guid isPermaLink="false">222414807357</guid>
+			<category>(D)DoS-aanval</category>
+			<pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Examenuitslag Helen Parkhurst uitgesteld door DDoS-aanval schoolsysteem bij Somtoday</title>
+			<link>https://www.omroepflevoland.nl/nieuws/336995/examenfeest-helen-parkhurst-uitgesteld-door-ddos-aanval-schoolsysteem</link>
+			<description>Examenuitslag Helen Parkhurst uitgesteld door DDoS-aanval schoolsysteem bij Somtoday</description>
+			<guid isPermaLink="false">269808597339</guid>
+			<category>(D)DoS-aanval</category>
+			<pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Scholen ontvangen examenuitslagen vertraagd door DDoS-aanval bij Somtoday</title>
+			<link>https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/</link>
+			<description>Scholen ontvangen examenuitslagen vertraagd door DDoS-aanval bij Somtoday</description>
+			<guid isPermaLink="false">222414807357</guid>
+			<category>(D)DoS-aanval</category>
+			<pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Twintigtal scholen ontvangt examenuitslagen vertraagd door DDoS-aanval bij Somtoday</title>
+			<link>https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/</link>
+			<description>Twintigtal scholen ontvangt examenuitslagen vertraagd door DDoS-aanval bij Somtoday</description>
+			<guid isPermaLink="false">222414807357</guid>
+			<category>(D)DoS-aanval</category>
+			<pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gegevens inwoners gemeente Montfoort mogelijk gelekt bij datalek via Dimensus</title>
 			<link>https://www.vpngids.nl/nieuws/gegevens-inwoners-gemeente-montfoort-mogelijk-gelekt/</link>

@@ -1,6 +1,54 @@
 [
     {
         "Date": 1686700800.0,
+        "Org": "Eijkhagen College",
+        "Headline": "Examenuitslag Eijkhagen College uitgesteld door DDoS-aanval schoolsysteem bij Somtoday",
+        "Source": "AD",
+        "URL": "https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1686700800.0,
+        "Org": "Helen Parkhurst",
+        "Headline": "Examenuitslag Helen Parkhurst uitgesteld door DDoS-aanval schoolsysteem bij Somtoday",
+        "Source": "Omroep Flevoland",
+        "URL": "https://www.omroepflevoland.nl/nieuws/336995/examenfeest-helen-parkhurst-uitgesteld-door-ddos-aanval-schoolsysteem",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1686700800.0,
+        "Org": "18 onbekende scholen",
+        "Headline": "Scholen ontvangen examenuitslagen vertraagd door DDoS-aanval bij Somtoday",
+        "Source": "AD",
+        "URL": "https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1686700800.0,
+        "Org": "Somtoday",
+        "Headline": "Twintigtal scholen ontvangt examenuitslagen vertraagd door DDoS-aanval bij Somtoday",
+        "Source": "AD",
+        "URL": "https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/",
+        "Event": "(D)DoS-aanval",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1686700800.0,
         "Org": "Gemeente Montfoort",
         "Headline": "Gegevens inwoners gemeente Montfoort mogelijk gelekt bij datalek via Dimensus",
         "Source": "VPNgids",
