@@ -5493,7 +5493,7 @@
         "RecordsStolen": "",
         "Damage": "2.000.000",
         "PaidRansom": "onbekend",
-        "RansomAmount": "2.000.000"
+        "RansomAmount": ""
     },
     {
         "Date": 1633564800.0,
@@ -5558,7 +5558,7 @@
     {
         "Date": 1632700800.0,
         "Org": "Gemeente Dalfsen",
-        "Headline": "Gegevens van 150 inwoners van Dalfsen op straat na enqu\u00eate van gemeente",
+        "Headline": "Onzorgvuldige publicatie legt gegevens van Dalfsenaren bloot",
         "Source": "De Stentor",
         "URL": "https://www.destentor.nl/vechtdal/gegevens-van-150-inwoners-van-dalfsen-op-straat-na-enquete-van-gemeente~a14f2081/",
         "Event": "Datalek, verlies of misbruik (interne oorzaak)",
@@ -7737,7 +7737,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "ja",
-        "RansomAmount": "197.000"
+        "RansomAmount": ""
     },
     {
         "Date": 1588204800.0,
