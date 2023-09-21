@@ -20,27 +20,27 @@ for tr in soup.find_all('tr')[2:]:
 json_obj = []
 for row in rows:
     try:
-        original_date = row[0].text
+        original_date = row[1].text[0:10]
         date =datetime.datetime.strptime(original_date, "%d-%m-%Y")
         date = date.timetuple()
         date = time.mktime(date)
-        org = row[1].text
+        org = row[2].text
         #print(org)
-        news_title = row[3].text
-        source = row[4].text
+        news_title = row[4].text
+        source = row[6].text
         # print(row[4])
         try:
-            url = re.findall("a href=\"(.*)\" rel=", str(row[4]))[0]
+            url = re.findall("a href=\"(.*)\" rel=", str(row[6]))[0]
         except IndexError:
             # Url not found
             url = ""
-        event = row[5].text
-        category = row[6].text
-        records = row[7].text
-        damage = row[8].text
-        paid_ransom = row[9].text
-        ransom_amount = row[10].text
-        fine = row[11].text
+        event = row[7].text
+        category = row[8].text
+        records = row[9].text
+        damage = row[10].text
+        paid_ransom = row[11].text
+        ransom_amount = row[12].text
+        fine = row[13].text
 
         # Add to json
         json_obj.append({'Date':date,'Org':org,'Headline':news_title, 'Source':source, 'URL':url ,'Event':event, 'RecordsStolen':records, 'Damage':damage, 'PaidRansom':paid_ransom, "RansomAmount":ransom_amount})
@@ -59,6 +59,7 @@ for row in rows:
 
     except ValueError:
         continue
+
 try:
     f = open("datalekt.json", "r")
 except FileNotFoundError:
