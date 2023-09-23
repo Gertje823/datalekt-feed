@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 21 Sep 2023 18:19:03 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 23 Sep 2023 18:16:40 +0000</lastBuildDate>
+		<item>
+			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>
+			<link>https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954</link>
+			<description>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</description>
+			<guid isPermaLink="false">940536509036</guid>
+			<category>AVG compliance issue</category>
+			<pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Mogelijke datalek bij Yango onderzocht door Nederlandse Autoriteit Persoonsgegevens</title>
+			<link>https://www.bnr.nl/nieuws/technologie/10525954/nederlands-onderzoek-naar-bedrijf-dat-mogelijk-gegevens-deelt-met-russische-geheime-dienst</link>
+			<description>Mogelijke datalek bij Yango onderzocht door Nederlandse Autoriteit Persoonsgegevens</description>
+			<guid isPermaLink="false">183466523605</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Verplichte melding van cameratoezicht door politie na klacht uit Spijkenisse</title>
 			<link>https://www.ad.nl/nissewaard/autoriteit-persoonsgegevens-na-klacht-uit-spijkenisse-politie-moet-toezicht-met-camera-melden~ab7befef/</link>
@@ -3225,9 +3241,9 @@
 			<pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Dierenkliniek is al weken offline na hack, eigenaar gaat betalen</title>
+			<title>Dierenkliniek Dijkstra getroffen door langdurige hack</title>
 			<link>https://www.gelderlander.nl/arnhem/dierenkliniek-is-al-weken-offline-na-hack-eigenaar-gaat-betalen-druist-in-tegen-mijn-gevoel-maar-ik-kan-niet-anders~af7f970a/</link>
-			<description>Dierenkliniek is al weken offline na hack, eigenaar gaat betalen</description>
+			<description>Dierenkliniek Dijkstra getroffen door langdurige hack</description>
 			<guid isPermaLink="false">634216341656</guid>
 			<category>Gijzelsoftware (ransomware)</category>
 			<pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
@@ -3257,9 +3273,9 @@
 			<pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Gemeente Raalte blundert: geheime informatie in beladen dossier sociaal werkbedrijf openbaar gemaakt</title>
+			<title>Gemeente Raalte maakt gevoelige informatie openbaar</title>
 			<link>https://www.destentor.nl/raalte/gemeente-raalte-blundert-geheime-informatie-in-beladen-dossier-sociaal-werkbedrijf-openbaar-gemaakt~a6a0446b/</link>
-			<description>Gemeente Raalte blundert: geheime informatie in beladen dossier sociaal werkbedrijf openbaar gemaakt</description>
+			<description>Gemeente Raalte maakt gevoelige informatie openbaar</description>
 			<guid isPermaLink="false">108909824064</guid>
 			<category>Datalek, verlies of misbruik (interne oorzaak)</category>
 			<pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
@@ -3473,9 +3489,9 @@
 			<pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Gezin ontvangt doos vol gevoelige informatie van Nationale Belasting Adviseurs door verkeerde verzending</title>
+			<title>Verkeerde verzending door PostNL leidt tot datalek bij de Belastingdienst</title>
 			<link>https://www.destentor.nl/binnenland/gezin-ontvangt-doos-vol-gevoelige-informatie-door-verkeerde-verzending~a5ab947e/</link>
-			<description>Gezin ontvangt doos vol gevoelige informatie van Nationale Belasting Adviseurs door verkeerde verzending</description>
+			<description>Verkeerde verzending door PostNL leidt tot datalek bij de Belastingdienst</description>
 			<guid isPermaLink="false">326066451445</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
