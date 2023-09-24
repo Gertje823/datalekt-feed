@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 24 Sep 2023 12:25:30 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 24 Sep 2023 18:16:42 +0000</lastBuildDate>
 		<item>
 			<title>Eindhoven vervangt sportpassen na ontdekking kwetsbare QR-code</title>
 			<link>https://www.security.nl/posting/811439/Gemeente+Eindhoven+vervangt+sportpas+wegens+kwetsbare+QR-code</link>
@@ -25,20 +25,20 @@
 			<pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Beveiligingslek in Zeeuws Provinciehuis ontdekt door ethische Inbraak</title>
+			<title>RUD Zeeland kwetsbaar door zwakke wachtwoorden</title>
 			<link>https://nos.nl/artikel/2491429-ethische-inbraak-toont-zeeuws-provinciehuis-niet-goed-beveiligd</link>
-			<description>Beveiligingslek in Zeeuws Provinciehuis ontdekt door ethische Inbraak</description>
+			<description>RUD Zeeland kwetsbaar door zwakke wachtwoorden</description>
 			<guid isPermaLink="false">948777530107</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>
-			<link>https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954</link>
-			<description>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</description>
-			<guid isPermaLink="false">940536509036</guid>
-			<category>AVG compliance issue</category>
-			<pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+			<title>Ethische inbraak onthult beveiligingsproblemen bij Provincie Zeeland</title>
+			<link>https://nos.nl/artikel/2491429-ethische-inbraak-toont-zeeuws-provinciehuis-niet-goed-beveiligd</link>
+			<description>Ethische inbraak onthult beveiligingsproblemen bij Provincie Zeeland</description>
+			<guid isPermaLink="false">948777530107</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Mogelijke datalek bij Yango onderzocht door Nederlandse Autoriteit Persoonsgegevens</title>
@@ -47,6 +47,14 @@
 			<guid isPermaLink="false">183466523605</guid>
 			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
 			<pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>
+			<link>https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954</link>
+			<description>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</description>
+			<guid isPermaLink="false">940536509036</guid>
+			<category>AVG compliance issue</category>
+			<pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Verplichte melding van cameratoezicht door politie na klacht uit Spijkenisse</title>
