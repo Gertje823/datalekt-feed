@@ -1,5 +1,41 @@
 [
     {
+        "Date": 1695427200.0,
+        "Org": "Gemeente Eindhoven",
+        "Headline": "Eindhoven vervangt sportpassen na ontdekking kwetsbare QR-code",
+        "Source": "Security.nl",
+        "URL": "https://www.security.nl/posting/811439/Gemeente+Eindhoven+vervangt+sportpas+wegens+kwetsbare+QR-code",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1695340800.0,
+        "Org": "Onbekende gemeenten",
+        "Headline": "Toename van CEO-fraude meldingen bij VNG",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/vng-krijgt-tientallen-meldingen-van-ceo-fraude/",
+        "Event": "Business Email Compromise (BEC)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1695340800.0,
+        "Org": "Provincie Zeeland",
+        "Headline": "Beveiligingslek in Zeeuws Provinciehuis ontdekt door ethische Inbraak",
+        "Source": "NOS",
+        "URL": "https://nos.nl/artikel/2491429-ethische-inbraak-toont-zeeuws-provinciehuis-niet-goed-beveiligd",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1695168000.0,
         "Org": "Ministerie van Sociale Zaken en Werkgelegenheid (SZW)",
         "Headline": "Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap",
