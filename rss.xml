@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 24 Sep 2023 18:16:42 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 27 Sep 2023 18:18:56 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij Arriva door lek in contactformulier</title>
+			<link>https://www.vpngids.nl/nieuws/arriva-meldt-datalek-via-contactformulier/</link>
+			<description>Datalek bij Arriva door lek in contactformulier</description>
+			<guid isPermaLink="false">518083860700</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Eindhoven vervangt sportpassen na ontdekking kwetsbare QR-code</title>
 			<link>https://www.security.nl/posting/811439/Gemeente+Eindhoven+vervangt+sportpas+wegens+kwetsbare+QR-code</link>

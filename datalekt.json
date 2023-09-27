@@ -1,5 +1,17 @@
 [
     {
+        "Date": 1695772800.0,
+        "Org": "Arriva",
+        "Headline": "Datalek bij Arriva door lek in contactformulier",
+        "Source": "VPNgids",
+        "URL": "https://www.vpngids.nl/nieuws/arriva-meldt-datalek-via-contactformulier/",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "195.000",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
         "Date": 1695427200.0,
         "Org": "Gemeente Eindhoven",
         "Headline": "Eindhoven vervangt sportpassen na ontdekking kwetsbare QR-code",
@@ -1377,7 +1389,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "nee",
-        "RansomAmount": "50.000"
+        "RansomAmount": "50000"
     },
     {
         "Date": 1683158400.0,
@@ -1629,7 +1641,7 @@
         "RecordsStolen": "250.000",
         "Damage": "",
         "PaidRansom": "ja",
-        "RansomAmount": "1.000.000"
+        "RansomAmount": "1000000"
     },
     {
         "Date": 1680566400.0,
@@ -2229,7 +2241,7 @@
         "RecordsStolen": "",
         "Damage": "40.000",
         "PaidRansom": "ja",
-        "RansomAmount": "20.000"
+        "RansomAmount": "20000"
     },
     {
         "Date": 1677283200.0,
@@ -4029,7 +4041,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "ja",
-        "RansomAmount": "2.000.000"
+        "RansomAmount": "2000000"
     },
     {
         "Date": 1659052800.0,
@@ -4089,7 +4101,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "nee",
-        "RansomAmount": "1.000.000"
+        "RansomAmount": "1000000"
     },
     {
         "Date": 1656115200.0,
@@ -4497,7 +4509,7 @@
         "RecordsStolen": "200.000",
         "Damage": "",
         "PaidRansom": "nee",
-        "RansomAmount": "15.000.000"
+        "RansomAmount": "15000000"
     },
     {
         "Date": 1648684800.0,
@@ -4593,7 +4605,7 @@
         "RecordsStolen": "200.000",
         "Damage": "",
         "PaidRansom": "onbekend",
-        "RansomAmount": "1.500"
+        "RansomAmount": "1500"
     },
     {
         "Date": 1648080000.0,
@@ -4905,7 +4917,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "ja",
-        "RansomAmount": "10.000"
+        "RansomAmount": "10000"
     },
     {
         "Date": 1643673600.0,
@@ -5481,7 +5493,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "nee",
-        "RansomAmount": "6.000.000"
+        "RansomAmount": "6000000"
     },
     {
         "Date": 1636329600.0,
@@ -5757,7 +5769,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "ja",
-        "RansomAmount": "8.500"
+        "RansomAmount": "8500"
     },
     {
         "Date": 1631145600.0,
@@ -6777,7 +6789,7 @@
         "RecordsStolen": "1.800.000",
         "Damage": "",
         "PaidRansom": "nee",
-        "RansomAmount": "80.000"
+        "RansomAmount": "80000"
     },
     {
         "Date": 1614556800.0,
@@ -7197,7 +7209,7 @@
         "RecordsStolen": "",
         "Damage": "4.200.000",
         "PaidRansom": "ja",
-        "RansomAmount": "750.000"
+        "RansomAmount": "750000"
     },
     {
         "Date": 1606953600.0,
@@ -7449,7 +7461,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "nee",
-        "RansomAmount": "5.750"
+        "RansomAmount": "5750"
     },
     {
         "Date": 1598918400.0,
@@ -8001,7 +8013,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "ja",
-        "RansomAmount": "1.900.000"
+        "RansomAmount": "1900000"
     },
     {
         "Date": 1577145600.0,
@@ -8013,7 +8025,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "ja",
-        "RansomAmount": "197.000"
+        "RansomAmount": "197000"
     },
     {
         "Date": 1576454400.0,
@@ -8421,7 +8433,7 @@
         "RecordsStolen": "",
         "Damage": "",
         "PaidRansom": "nee",
-        "RansomAmount": "6.000"
+        "RansomAmount": "6000"
     },
     {
         "Date": 1554336000.0,
