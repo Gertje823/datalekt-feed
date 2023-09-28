@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 27 Sep 2023 18:18:56 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 28 Sep 2023 18:18:40 +0000</lastBuildDate>
+		<item>
+			<title>Belastingdienst overschrijdt termijnen voor AVG-inzageverzoeken</title>
+			<link>https://www.accountancyvanmorgen.nl/2023/09/27/avg-inzageverzoeken-belastingdienst-meestal-niet-op-tijd-afgehandeld/</link>
+			<description>Belastingdienst overschrijdt termijnen voor AVG-inzageverzoeken</description>
+			<guid isPermaLink="false">222136262398</guid>
+			<category>AVG compliance issue</category>
+			<pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Inloggegevens van hotels op Booking.com gestolen door hackers; vakantiegangers getroffen</title>
+			<link>https://www.bnr.nl/nieuws/technologie/10526380/hackers-stelen-inloggegevens-hotels-booking-com-vakantiegangers-de-dupe</link>
+			<description>Inloggegevens van hotels op Booking.com gestolen door hackers; vakantiegangers getroffen</description>
+			<guid isPermaLink="false">219581392684</guid>
+			<category>Datalek, inbraak of kwetsbaarheid (externe oorzaak)</category>
+			<pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij Arriva door lek in contactformulier</title>
 			<link>https://www.vpngids.nl/nieuws/arriva-meldt-datalek-via-contactformulier/</link>

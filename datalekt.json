@@ -1,6 +1,30 @@
 [
     {
         "Date": 1695772800.0,
+        "Org": "Belastingdienst",
+        "Headline": "Belastingdienst overschrijdt termijnen voor AVG-inzageverzoeken",
+        "Source": "Accountancy Vanmorgen",
+        "URL": "https://www.accountancyvanmorgen.nl/2023/09/27/avg-inzageverzoeken-belastingdienst-meestal-niet-op-tijd-afgehandeld/",
+        "Event": "AVG compliance issue",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1695686400.0,
+        "Org": "Booking.com",
+        "Headline": "Inloggegevens van hotels op Booking.com gestolen door hackers; vakantiegangers getroffen",
+        "Source": "BNR Nieuwsradio",
+        "URL": "https://www.bnr.nl/nieuws/technologie/10526380/hackers-stelen-inloggegevens-hotels-booking-com-vakantiegangers-de-dupe",
+        "Event": "Datalek, inbraak of kwetsbaarheid (externe oorzaak)",
+        "RecordsStolen": "",
+        "Damage": "",
+        "PaidRansom": "",
+        "RansomAmount": ""
+    },
+    {
+        "Date": 1695772800.0,
         "Org": "Arriva",
         "Headline": "Datalek bij Arriva door lek in contactformulier",
         "Source": "VPNgids",
