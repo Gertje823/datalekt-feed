@@ -8,74 +8,51 @@ import hashlib
 import xml.dom.minidom
 
 fg = FeedGenerator()
+json_data = requests.post('https://www.datalekt.nl/feeds/json.php').json()
 
-html = requests.post('https://www.datalekt.nl/home/overzicht-cyberincidenten/').text
-soup = BeautifulSoup(html, "html.parser")
-rows = []
+unsorted_json = json_data['items']
+sorted_json = sorted(unsorted_json, key=lambda x: x["date_published"])
 
-for tr in soup.find_all('tr')[2:]:
-    tds = tr.find_all('td')
-    rows.append(tds)
+for item in sorted_json:
+    original_date = item['date_published'][0:10]
+    date = datetime.datetime.strptime(original_date, "%Y-%m-%d")
+    date = date.timetuple()
+    date = time.mktime(date)
+    source = item['author']['name']
+    url = item['url']
+    title = item['title']
+    description = item['content_text']
+    id = item['id']
+    org = description.split("| ")[0]
+    category = description.split("| ")[1]
 
-json_obj = []
-for row in rows:
-    try:
-        original_date = row[1].text[0:10]
-        date =datetime.datetime.strptime(original_date, "%d-%m-%Y")
-        date = date.timetuple()
-        date = time.mktime(date)
-        org = row[2].text
-        #print(org)
-        news_title = row[4].text
-        source = row[6].text
-        # print(row[4])
-        try:
-            url = re.findall("a href=\"(.*)\" rel=", str(row[6]))[0]
-        except IndexError:
-            # Url not found
-            url = ""
-        event = row[7].text
-        category = row[8].text
-        records = row[9].text
-        damage = row[10].text
-        paid_ransom = row[11].text
-        ransom_amount = row[12].text
-        fine = row[13].text
-
-        # Add to json
-        json_obj.append({'Date':date,'Org':org,'Headline':news_title, 'Source':source, 'URL':url ,'Event':event, 'RecordsStolen':records, 'Damage':damage, 'PaidRansom':paid_ransom, "RansomAmount":ransom_amount})
-
-        # Add to RSS
-        m = hashlib.md5()
-        m.update(url.encode('utf-8'))
-        id = str(int(m.hexdigest(), 16))[0:12]
-        fe = fg.add_entry()
-        fe.id(id)
-        fe.title(news_title)
-        fe.description(news_title)
-        fe.link(href=url)
-        fe.category({'term': event})
-        fe.pubDate(datetime.datetime.strptime(original_date, "%d-%m-%Y").replace(tzinfo=datetime.timezone.utc))
-
-    except ValueError:
-        continue
+    m = hashlib.md5()
+    m.update(url.encode('utf-8'))
+    id = str(id)
+    fe = fg.add_entry()
+    fe.id(id)
+    fe.title(title)
+    fe.description(description)
+    fe.link(href=url)
+    fe.category({'term': category})
+    fe.pubDate(datetime.datetime.strptime(original_date, "%Y-%m-%d").replace(tzinfo=datetime.timezone.utc))
 
 try:
     f = open("datalekt.json", "r")
 except FileNotFoundError:
     f = open("datalekt.json", "w")
-    f.write(json.dumps(json_obj[::-1], indent=4))
+    f.write(json.dumps(json_data['items'], indent=4))
     f.close()
     f = open("datalekt.json", "r")
 
-if f.read() == json.dumps(json_obj[::-1], indent=4):
+if f.read() == json.dumps(json_data['items'], indent=4):
     # No changes
     print("No changes")
     exit()
 else:
     # Write Json
     f = open("datalekt.json", "w")
-    f.write(json.dumps(json_obj[::-1], indent=4))
+    f.write(json.dumps(json_data['items'], indent=4))
     f.close()
 
     # Write RSS
