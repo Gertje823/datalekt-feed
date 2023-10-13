@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://fd.nl/bedrijfsleven/1492402/groot-datalek-bij-nederlandse-vastgoedtak-bnp-paribas?datalekt=997e46d3ae1fc4b5a42b959321f0019f",
+        "url": "https://fd.nl/bedrijfsleven/1492402/groot-datalek-bij-nederlandse-vastgoedtak-bnp-paribas",
+        "title": "Datalek bij BNP Paribas raakt ook Ahold Delhaize",
+        "date_published": "2023-10-13T09:06:00Z",
+        "date_modified": "2023-10-13T09:06:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "fd.nl"
+        },
+        "content_html": "",
+        "content_text": "Ahold Delhaize | Groot- en detailhandel | 12-10-2023 | Ahold Delhaize is een van de getroffen bedrijven door een groot datalek bij de Nederlandse vastgoedtak van BNP Paribas. Vertrouwelijke gegevens van het bedrijf zijn, samen met die van vele anderen, in handen gekomen van een zelfbenoemde klokkenluider. Het FD, dat toegang kreeg tot de gelekte data, heeft onthullingen gedaan over de omvang en inhoud van het lek. BNP Paribas heeft in reactie hierop zijn klanten ge\u00efnformeerd en de Autoriteit Persoonsgegevens op de hoogte gesteld. (Bron: fd.nl)"
+    },
+    {
+        "id": "https://fd.nl/bedrijfsleven/1492402/groot-datalek-bij-nederlandse-vastgoedtak-bnp-paribas?datalekt=5db3d77da7d9a2358f0da6864c865b70",
+        "url": "https://fd.nl/bedrijfsleven/1492402/groot-datalek-bij-nederlandse-vastgoedtak-bnp-paribas",
+        "title": "Omvangrijk datalek treft BNP Paribas&#039; vastgoedafdeling in Nederland",
+        "date_published": "2023-10-13T09:04:00Z",
+        "date_modified": "2023-10-13T09:04:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "fd.nl"
+        },
+        "content_html": "",
+        "content_text": "BNP Paribas Real Estate | Financi\u00eble instellingen | 12-10-2023 | BNP Paribas&#039; Nederlandse vastgoedtak heeft te maken gehad met een groot datalek, waarbij gigabytes aan gevoelige persoonsdata en bedrijfsgeheimen zijn gelekt. Deze informatie, afkomstig van zowel de bank zelf als van honderden bedrijven, kwam in handen van een zelfbenoemde klokkenluider. Het FD kreeg toegang tot deze data en onthulde eerder vastgoedinvesteringen door directeuren van BNP Paribas Real Estate Netherlands. Het lek bevatte ook gevoelige gegevens van grote bedrijven zoals Ahold Delhaize en Lone Star. BNP Paribas heeft een onderzoek ingesteld en melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: fd.nl)"
+    },
+    {
         "id": "https://www.skipr.nl/nieuws/ziekenhuisapotheek-etz-misbruikt-voor-phishing/?datalekt=1f10c8e30ec6c272c1db2e5f46537089",
         "url": "https://www.skipr.nl/nieuws/ziekenhuisapotheek-etz-misbruikt-voor-phishing/",
         "title": "ETZ Ziekenhuisapotheek Deleij in Tilburg doelwit van phishingaanval",
