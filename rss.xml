@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 13 Oct 2023 12:28:59 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 15 Oct 2023 18:17:25 +0000</lastBuildDate>
 		<item>
 			<title>Datalek bij BNP Paribas raakt ook Ahold Delhaize</title>
 			<link>https://fd.nl/bedrijfsleven/1492402/groot-datalek-bij-nederlandse-vastgoedtak-bnp-paribas</link>
@@ -2841,14 +2841,6 @@
 			<pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>UWV meldt 1.039 datalekken aan Autoriteit Persoonsgegevens in 2021</title>
-			<link>https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/</link>
-			<description>Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 19-05-2022 | Het Uitkeringsinstituut Werknemersverzekeringen ontving in 2021 in totaal 3.027 signalen over mogelijke privacyinbreuken. Van deze signalen werden 1.039 daadwerkelijke datalekken gemeld bij de Autoriteit Persoonsgegevens. (Bron: vpngids.nl)</description>
-			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/?datalekt=116eec85296d207302f057ca4cf4c147</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>SVB ziet stijging in datalekken tot 691 in 2021</title>
 			<link>https://www.vpngids.nl/nieuws/ministeries-melden-honderden-datalekken-in-2021/</link>
 			<description>Sociale Verzekeringsbank (SVB) | Overheid: Zelfstandige bestuursorganen | 19-05-2022 | De Sociale Verzekeringsbank meldde in 2021 een totaal van 691 datalekken, een aanzienlijke stijging ten opzichte van het voorgaande jaar. De meeste lekken waren gerelateerd aan poststukken die verkeerd werden bezorgd. (Bron: vpngids.nl)</description>
@@ -2897,10 +2889,10 @@
 			<pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>UWV rapporteert duizenden mogelijke data-inbreuken in 2021</title>
+			<title>UWV meldt 1.039 datalekken aan Autoriteit Persoonsgegevens in 2021</title>
 			<link>https://www.vpngids.nl/nieuws/uwv-meldt-meer-dan-duizend-datalekken-bij-ap/</link>
 			<description>Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 18-05-2022 | Het Uitvoeringsinstituut Werknemersverzekeringen (UWV) heeft in 2021 3.027 signalen ontvangen over mogelijke data-inbreuken, waarvan 1.039 officieel als datalek zijn gemeld bij de Autoriteit Persoonsgegevens. Het merendeel van deze lekken betrof poststukken die door de verkeerde persoon werden geopend. Ondanks inspanningen om datalekken te verminderen, waren de cijfers vergelijkbaar met die van 2020. Er waren ook grotere incidenten, zoals het onterecht vernietigen van dossiers van 16.000 Wajong-uitkeringsgerechtigden. Bovendien kreeg het UWV een boete van 450.000 euro voor eerdere beveiligingsproblemen. (Bron: vpngids.nl)</description>
-			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/uwv-meldt-meer-dan-duizend-datalekken-bij-ap/?datalekt=88ad596dce4652d551569c88917c77d6</guid>
+			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/uwv-meldt-meer-dan-duizend-datalekken-bij-ap/?datalekt=7920cbd79d1eee6255aa3f01c3494895</guid>
 			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
 		</item>
