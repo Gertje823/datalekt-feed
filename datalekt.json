@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://fd.nl/bedrijfsleven/1492844/systeemfout-zette-deur-naar-bankrekening-ing-op-smartphone-wagenwijd-open?datalekt=7d83cf524f4c2da2145cc6b7448b8e4f",
+        "url": "https://fd.nl/bedrijfsleven/1492844/systeemfout-zette-deur-naar-bankrekening-ing-op-smartphone-wagenwijd-open",
+        "title": "Systeemfout bij ING geeft onbevoegden toegang tot bankrekeningen",
+        "date_published": "2023-10-16T15:02:00Z",
+        "date_modified": "2023-10-16T15:02:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "fd.nl"
+        },
+        "content_html": "",
+        "content_text": "ING | Financi\u00eble instellingen | 13-10-2023 | Een ernstige systeemfout bij ING stelde een klant in staat om via gezichtsherkenning op zijn iPhone toegang te krijgen tot de rekening van een andere klant. De klant kon alle financi\u00eble gegevens zien en zelfs wijzigingen aanbrengen in de rekening. ING heeft het incident bevestigd en toegeschreven aan een &#039;fout in het systeem&#039;, die inmiddels is gecorrigeerd. Het is onduidelijk of het incident als een &#039;datalek&#039; is gemeld bij de Autoriteit Persoonsgegevens en of er andere soortgelijke incidenten zijn geweest. (Bron: fd.nl)"
+    },
+    {
         "id": "https://fd.nl/bedrijfsleven/1492402/groot-datalek-bij-nederlandse-vastgoedtak-bnp-paribas?datalekt=997e46d3ae1fc4b5a42b959321f0019f",
         "url": "https://fd.nl/bedrijfsleven/1492402/groot-datalek-bij-nederlandse-vastgoedtak-bnp-paribas",
         "title": "Datalek bij BNP Paribas raakt ook Ahold Delhaize",

@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 15 Oct 2023 18:17:25 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 16 Oct 2023 18:20:03 +0000</lastBuildDate>
+		<item>
+			<title>Systeemfout bij ING geeft onbevoegden toegang tot bankrekeningen</title>
+			<link>https://fd.nl/bedrijfsleven/1492844/systeemfout-zette-deur-naar-bankrekening-ing-op-smartphone-wagenwijd-open</link>
+			<description>ING | Financiële instellingen | 13-10-2023 | Een ernstige systeemfout bij ING stelde een klant in staat om via gezichtsherkenning op zijn iPhone toegang te krijgen tot de rekening van een andere klant. De klant kon alle financiële gegevens zien en zelfs wijzigingen aanbrengen in de rekening. ING heeft het incident bevestigd en toegeschreven aan een &amp;#039;fout in het systeem&amp;#039;, die inmiddels is gecorrigeerd. Het is onduidelijk of het incident als een &amp;#039;datalek&amp;#039; is gemeld bij de Autoriteit Persoonsgegevens en of er andere soortgelijke incidenten zijn geweest. (Bron: fd.nl)</description>
+			<guid isPermaLink="false">https://fd.nl/bedrijfsleven/1492844/systeemfout-zette-deur-naar-bankrekening-ing-op-smartphone-wagenwijd-open?datalekt=7d83cf524f4c2da2145cc6b7448b8e4f</guid>
+			<category>Financiële instellingen </category>
+			<pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij BNP Paribas raakt ook Ahold Delhaize</title>
 			<link>https://fd.nl/bedrijfsleven/1492402/groot-datalek-bij-nederlandse-vastgoedtak-bnp-paribas</link>
