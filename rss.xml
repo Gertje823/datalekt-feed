@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 18 Oct 2023 12:29:12 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 24 Oct 2023 12:27:47 +0000</lastBuildDate>
+		<item>
+			<title>Extern bureau veroorzaakt herhaald Datalek bij gemeente Den Haag</title>
+			<link>https://www.agconnect.nl/maatschappij/privacy/haagse-herhaling-van-2021-privacyfout-ligt-aan-extern-bureau</link>
+			<description>Gemeente Den Haag | Overheid: Gemeenten | 10-10-2023 | Een herhaald datalek bij de gemeente Den Haag wordt toegeschreven aan een extern communicatiebureau dat verantwoordelijk was voor de website van de hackwedstrijd &amp;quot;Hâck The Hague 2023&amp;quot;. Het bureau voldeed niet aan de vereiste privacywetgeving, wat resulteerde in de ongeoorloofde doorgifte van persoonsgegevens aan derden zonder expliciete toestemming. Dit incident is vergelijkbaar met een privacyfout die in 2021 werd ontdekt. De gemeente heeft beloofd strenger toe te zien op de naleving van privacywetten in toekomstige edities van het evenement (Bron: agconnect.nl).</description>
+			<guid isPermaLink="false">https://www.agconnect.nl/maatschappij/privacy/haagse-herhaling-van-2021-privacyfout-ligt-aan-extern-bureau?datalekt=a8bf3d5068f7ed2d270217ce35ff5f5c</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Systeemfout bij ING geeft onbevoegden toegang tot bankrekeningen</title>
 			<link>https://fd.nl/bedrijfsleven/1492844/systeemfout-zette-deur-naar-bankrekening-ing-op-smartphone-wagenwijd-open</link>
@@ -743,14 +751,6 @@
 			<guid isPermaLink="false">https://www.nu.nl/economie/6266421/vijfhonderd-e-mailadressen-gelekt-bij-pensioenfonds-abp.html?datalekt=a6ab281ec30fa1cfd6aca32d8a870e88</guid>
 			<category>Financiële instellingen </category>
 			<pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rijksoverheid en Nebu: Datalek treft Ministerie van Onderwijs, Cultuur en Wetenschap (OCW)</title>
-			<link>https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu</link>
-			<description>Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) | Overheid: Rijksoverheid | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&amp;#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu?datalekt=e5f6fa93efe288451572369104fef96d</guid>
-			<category>Overheid: Rijksoverheid </category>
-			<pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Rijksoverheid en Nebu: Datalek treft Ministerie van Economische Zaken en Klimaat (EZK)</title>

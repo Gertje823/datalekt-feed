@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.agconnect.nl/maatschappij/privacy/haagse-herhaling-van-2021-privacyfout-ligt-aan-extern-bureau?datalekt=a8bf3d5068f7ed2d270217ce35ff5f5c",
+        "url": "https://www.agconnect.nl/maatschappij/privacy/haagse-herhaling-van-2021-privacyfout-ligt-aan-extern-bureau",
+        "title": "Extern bureau veroorzaakt herhaald Datalek bij gemeente Den Haag",
+        "date_published": "2023-10-24T11:23:00Z",
+        "date_modified": "2023-10-24T11:23:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "agconnect.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Den Haag | Overheid: Gemeenten | 10-10-2023 | Een herhaald datalek bij de gemeente Den Haag wordt toegeschreven aan een extern communicatiebureau dat verantwoordelijk was voor de website van de hackwedstrijd &quot;H\u00e2ck The Hague 2023&quot;. Het bureau voldeed niet aan de vereiste privacywetgeving, wat resulteerde in de ongeoorloofde doorgifte van persoonsgegevens aan derden zonder expliciete toestemming. Dit incident is vergelijkbaar met een privacyfout die in 2021 werd ontdekt. De gemeente heeft beloofd strenger toe te zien op de naleving van privacywetten in toekomstige edities van het evenement (Bron: agconnect.nl)."
+    },
+    {
         "id": "https://fd.nl/bedrijfsleven/1492844/systeemfout-zette-deur-naar-bankrekening-ing-op-smartphone-wagenwijd-open?datalekt=f7b3cba21cb94e07daef751a9c9d02e3",
         "url": "https://fd.nl/bedrijfsleven/1492844/systeemfout-zette-deur-naar-bankrekening-ing-op-smartphone-wagenwijd-open",
         "title": "Systeemfout bij ING geeft onbevoegden toegang tot bankrekeningen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ministerie van Economische Zaken en Klimaat (EZK) | Overheid: Rijksoverheid | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)"
-    },
-    {
-        "id": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu?datalekt=e5f6fa93efe288451572369104fef96d",
-        "url": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu",
-        "title": "Rijksoverheid en Nebu: Datalek treft Ministerie van Onderwijs, Cultuur en Wetenschap (OCW)",
-        "date_published": "2023-05-31T00:00:00Z",
-        "date_modified": "2023-05-31T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitleaders.nl"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) | Overheid: Rijksoverheid | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)"
     }
 ]
