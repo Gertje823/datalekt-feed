@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 25 Oct 2023 01:03:49 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 25 Oct 2023 12:28:07 +0000</lastBuildDate>
+		<item>
+			<title>Ex-ASML medewerker verduistert bedrijfsgeheimen en treedt in dienst bij Huawei</title>
+			<link>https://tweakers.net/nieuws/214860/nrc-ex-asml-medewerker-die-bedrijfsgeheimen-stal-ging-bij-huawei-werken.html</link>
+			<description>ASML | Industrie | 23-10-2023 | Een voormalige medewerker van ASML, die bedrijfsgeheimen had gestolen, is later bij Huawei in dienst getreden. ASML had al erkend dat de Chinese ex-medewerker geheimen had ontvreemd, maar had niets vermeld over zijn betrokkenheid bij Huawei na het incident. De exacte details over hoe de bedrijfsgeheimen werden gestolen, zijn niet vermeld, en ook de specifieke (financiële) schade die ASML heeft geleden, is niet bekendgemaakt in het beschikbare deel van het artikel. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/214860/nrc-ex-asml-medewerker-die-bedrijfsgeheimen-stal-ging-bij-huawei-werken.html?datalekt=b3dee1b12a68a1e96c97e91e9ae10078</guid>
+			<category>Industrie </category>
+			<pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Extern bureau veroorzaakt herhaald datalek bij gemeente Den Haag</title>
 			<link>https://www.agconnect.nl/maatschappij/privacy/haagse-herhaling-van-2021-privacyfout-ligt-aan-extern-bureau</link>
@@ -751,14 +759,6 @@
 			<guid isPermaLink="false">https://www.nu.nl/economie/6266421/vijfhonderd-e-mailadressen-gelekt-bij-pensioenfonds-abp.html?datalekt=a6ab281ec30fa1cfd6aca32d8a870e88</guid>
 			<category>Financiële instellingen </category>
 			<pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rijksoverheid en Nebu: Datalek treft Ministerie van Economische Zaken en Klimaat (EZK)</title>
-			<link>https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu</link>
-			<description>Ministerie van Economische Zaken en Klimaat (EZK) | Overheid: Rijksoverheid | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&amp;#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu?datalekt=238143d6c543b2097e1f8cb6f0511f16</guid>
-			<category>Overheid: Rijksoverheid </category>
-			<pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Rijksoverheid en Nebu: Datalek treft Koninklijke Bibliotheek</title>
