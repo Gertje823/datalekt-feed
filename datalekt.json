@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/815377/Criteo+mag+van+rechter+niet+zonder+toestemming+trackingcookies+plaatsen?datalekt=1fb510e9ab16a17e47decc3f33bf8687",
+        "url": "https://www.security.nl/posting/815377/Criteo+mag+van+rechter+niet+zonder+toestemming+trackingcookies+plaatsen",
+        "title": "Rechter verbiedt Criteo ongevraagd trackingcookies te plaatsen",
+        "date_published": "2023-10-27T12:27:00Z",
+        "date_modified": "2023-10-27T12:27:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Criteo | Informatie en communicatie | 23-10-2023 | De rechtbank in Amsterdam heeft besloten dat het advertentiebedrijf Criteo geen trackingcookies mag plaatsen zonder de expliciete toestemming van de gebruiker, aangezien dit in strijd is met de AVG. Criteo gebruikte deze cookies om het surfgedrag van gebruikers te analyseren voor commerci\u00eble doeleinden, zoals het tonen van gerichte advertenties. Eerder kreeg Criteo al een boete van veertig miljoen euro van de Franse privacytoezichthouder CNIL voor vergelijkbare praktijken. Als Criteo doorgaat met het plaatsen van cookies zonder toestemming, wordt een dwangsom opgelegd van 250 euro per dag, tot een maximum van 25.000 euro. (Bron: security.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/214860/nrc-ex-asml-medewerker-die-bedrijfsgeheimen-stal-ging-bij-huawei-werken.html?datalekt=b3dee1b12a68a1e96c97e91e9ae10078",
         "url": "https://tweakers.net/nieuws/214860/nrc-ex-asml-medewerker-die-bedrijfsgeheimen-stal-ging-bij-huawei-werken.html",
         "title": "Ex-ASML medewerker verduistert bedrijfsgeheimen en treedt in dienst bij Huawei",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Huurcommissie (DHC) | Overheid: Rijksoverheid | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)"
-    },
-    {
-        "id": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu?datalekt=2be25ccc3783c5b1b92980b6766ac537",
-        "url": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu",
-        "title": "Rijksoverheid en Nebu: Datalek treft Koninklijke Bibliotheek",
-        "date_published": "2023-05-31T00:00:00Z",
-        "date_modified": "2023-05-31T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitleaders.nl"
-        },
-        "content_html": "",
-        "content_text": "Koninklijke Bibliotheek | Overheid: Zelfstandige bestuursorganen | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)"
     }
 ]

@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 25 Oct 2023 12:28:07 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 27 Oct 2023 12:27:27 +0000</lastBuildDate>
+		<item>
+			<title>Rechter verbiedt Criteo ongevraagd trackingcookies te plaatsen</title>
+			<link>https://www.security.nl/posting/815377/Criteo+mag+van+rechter+niet+zonder+toestemming+trackingcookies+plaatsen</link>
+			<description>Criteo | Informatie en communicatie | 23-10-2023 | De rechtbank in Amsterdam heeft besloten dat het advertentiebedrijf Criteo geen trackingcookies mag plaatsen zonder de expliciete toestemming van de gebruiker, aangezien dit in strijd is met de AVG. Criteo gebruikte deze cookies om het surfgedrag van gebruikers te analyseren voor commerciële doeleinden, zoals het tonen van gerichte advertenties. Eerder kreeg Criteo al een boete van veertig miljoen euro van de Franse privacytoezichthouder CNIL voor vergelijkbare praktijken. Als Criteo doorgaat met het plaatsen van cookies zonder toestemming, wordt een dwangsom opgelegd van 250 euro per dag, tot een maximum van 25.000 euro. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/815377/Criteo+mag+van+rechter+niet+zonder+toestemming+trackingcookies+plaatsen?datalekt=1fb510e9ab16a17e47decc3f33bf8687</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ex-ASML medewerker verduistert bedrijfsgeheimen en treedt in dienst bij Huawei</title>
 			<link>https://tweakers.net/nieuws/214860/nrc-ex-asml-medewerker-die-bedrijfsgeheimen-stal-ging-bij-huawei-werken.html</link>
@@ -759,14 +767,6 @@
 			<guid isPermaLink="false">https://www.nu.nl/economie/6266421/vijfhonderd-e-mailadressen-gelekt-bij-pensioenfonds-abp.html?datalekt=a6ab281ec30fa1cfd6aca32d8a870e88</guid>
 			<category>Financiële instellingen </category>
 			<pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rijksoverheid en Nebu: Datalek treft Koninklijke Bibliotheek</title>
-			<link>https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu</link>
-			<description>Koninklijke Bibliotheek | Overheid: Zelfstandige bestuursorganen | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&amp;#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu?datalekt=2be25ccc3783c5b1b92980b6766ac537</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Rijksoverheid en Nebu: Datalek treft Huurcommissie (DHC)</title>
