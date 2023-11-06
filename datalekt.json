@@ -1,5 +1,70 @@
 [
     {
+        "id": "https://www.nu.nl/tech/6288271/website-ov-chipkaart-minder-bereikbaar-door-aanval-russische-hackers.html?datalekt=77e26278e6f20f0ff6af57f90280ec31",
+        "url": "https://www.nu.nl/tech/6288271/website-ov-chipkaart-minder-bereikbaar-door-aanval-russische-hackers.html",
+        "title": "DDoS-aanvallen door pro-Russische groep treffen OV-chipkaart website",
+        "date_published": "2023-11-06T15:49:00Z",
+        "date_modified": "2023-11-06T15:49:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Translink | Vervoer en opslag | 04-11-2023 | De OV-chipkaart website ondervond verminderde bereikbaarheid door meerdere DDoS-aanvallen, uitgevoerd door de pro-Russische hackersgroep NoName05716. Deze aanvallen, een reactie op Nederlandse steun aan Oekra\u00efne, overlaadden de systemen met verkeer om ze te overbelasten. Translink, het bedrijf achter de OV-chipkaart, heeft strenge maatregelen getroffen om de aanvallen het hoofd te bieden, wat soms resulteerde in verminderde toegankelijkheid van de website. Desondanks bleef het in- en uitchecken met de OV-chipkaart mogelijk voor reizigers. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.omroepwest.nl/nieuws/4774722/instagram-account-van-burgemeester-gehackt?datalekt=429eb7d948032f332fbb689ebc9f000f",
+        "url": "https://www.omroepwest.nl/nieuws/4774722/instagram-account-van-burgemeester-gehackt",
+        "title": "Instagram-account van Westlandse burgemeester gecompromitteerd voor Bitcoin-berichten",
+        "date_published": "2023-11-06T12:50:00Z",
+        "date_modified": "2023-11-06T12:50:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepwest.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Westland | Overheid: Gemeenten | 05-11-2023 | Het Instagram-account van Bouke Arends, de burgemeester van Westland, is gecompromitteerd door een onbekende hacker die berichten over bitcoins verspreidt. De gemeente heeft de inbreuk bevestigd en is bezig het account te herstellen, wat enkele dagen in beslag kan nemen. Totdat het account hersteld is, kan de burgemeester het niet gebruiken. De wijze waarop de hacker toegang heeft verkregen tot het account is nog niet duidelijk. Er is geen informatie vrijgegeven over eventuele financi\u00eble schade of het aantal getroffen volgers. De politie raadt aan om bij een hack op sociale media altijd aangifte te doen en voor elk account verschillende wachtwoorden te gebruiken. (Bron: omroepwest.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=15e7f36df9f06579e754021861c66942",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Global Value Web getroffen door ransomware aanval van de criminele organisatie LockBit",
+        "date_published": "2023-11-05T00:00:00Z",
+        "date_modified": "2023-11-05T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Global Value Web | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 05-11-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Global Value Web heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4d31df947bb5d14010bbba63198cf5d3",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "HAL Allergy Group getroffen door ransomware aanval van de criminele organisatie BlackCat (ALPHV)",
+        "date_published": "2023-11-02T00:00:00Z",
+        "date_modified": "2023-11-02T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "HAL Allergy Group | Industrie | 02-11-2023 | De criminele organisatie BlackCat (ALPHV) heeft op het darkweb aangekondigd dat zij HAL Allergy Group heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=75af6eb8e3fe4c2c789e68373c5da3e9",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Tanatex Chemicals getroffen door ransomware aanval van de criminele organisatie Metaencryptor",
+        "date_published": "2023-11-01T00:00:00Z",
+        "date_modified": "2023-11-01T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Tanatex Chemicals | Industrie | 01-11-2023 | De criminele organisatie Metaencryptor heeft op het darkweb aangekondigd dat zij Tanatex Chemicals heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/815377/Criteo+mag+van+rechter+niet+zonder+toestemming+trackingcookies+plaatsen?datalekt=1fb510e9ab16a17e47decc3f33bf8687",
         "url": "https://www.security.nl/posting/815377/Criteo+mag+van+rechter+niet+zonder+toestemming+trackingcookies+plaatsen",
         "title": "Rechter verbiedt Criteo ongevraagd trackingcookies te plaatsen",
@@ -37,6 +102,32 @@
         },
         "content_html": "",
         "content_text": "Gemeente Den Haag | Overheid: Gemeenten | 10-10-2023 | Een herhaald datalek bij de gemeente Den Haag wordt toegeschreven aan een extern communicatiebureau dat verantwoordelijk was voor de website van de hackwedstrijd &quot;H\u00e2ck The Hague 2023&quot;. Het bureau voldeed niet aan de vereiste privacywetgeving, wat resulteerde in de ongeoorloofde doorgifte van persoonsgegevens aan derden zonder expliciete toestemming. Dit incident is vergelijkbaar met een privacyfout die in 2021 werd ontdekt. De gemeente heeft beloofd strenger toe te zien op de naleving van privacywetten in toekomstige edities van het evenement (Bron: agconnect.nl)."
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=aec3ee13d80333ff749eb3d987c2a143",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "De Groot Installatiegroep getroffen door ransomware aanval van de criminele organisatie LockBit",
+        "date_published": "2023-10-20T00:00:00Z",
+        "date_modified": "2023-10-20T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "De Groot Installatiegroep | Bouwnijverheid | 20-10-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij De Groot Installatiegroep heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f8b7732e46e446a3698b5cc9a212d0f7",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "KBS Accountants getroffen door ransomware aanval van de criminele organisatie NoEscape",
+        "date_published": "2023-10-18T00:00:00Z",
+        "date_modified": "2023-10-18T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "KBS Accountants | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 18-10-2023 | De criminele organisatie NoEscape heeft op het darkweb aangekondigd dat zij KBS Accountants heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
         "id": "https://fd.nl/bedrijfsleven/1492844/systeemfout-zette-deur-naar-bankrekening-ing-op-smartphone-wagenwijd-open?datalekt=f7b3cba21cb94e07daef751a9c9d02e3",
@@ -91,6 +182,19 @@
         "content_text": "Apotheek ETZ | Gezondheids- en welzijnszorg | 10-10-2023 | Het ETZ ziekenhuis in Tilburg heeft gewaarschuwd voor een phishing e-mail die zich voordoet als een bericht van de ziekenhuisapotheek. De e-mail, verstuurd op 9 oktober rond 15.23 uur, had als onderwerp \u201cFactuur VRKF23105915\u201d en leek afkomstig van \u201cApotheek DeLEIJ\u201d. Het ziekenhuis heeft bevestigd dat deze e-mail vals is en heeft ontvangers geadviseerd deze direct te verwijderen. De e-mail is verdacht omdat de naam van de apotheek enige tijd geleden is gewijzigd en omdat de apotheek geen digitale facturen per e-mail verstuurt. Het ETZ heeft de phishing e-mail gemeld als datalek bij de Autoriteit Persoonsgegevens en er wordt verder onderzoek gedaan naar het incident. (Bron: skipr.nl)"
     },
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=365361ad77217833c967521a2634f8bc",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Kentie Systeemtechniek getroffen door ransomware aanval van de criminele organisatie NoEscape",
+        "date_published": "2023-10-08T00:00:00Z",
+        "date_modified": "2023-10-08T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Kentie Systeemtechniek | Industrie | 08-10-2023 | De criminele organisatie NoEscape heeft op het darkweb aangekondigd dat zij Kentie Systeemtechniek heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://studio040.nl/nieuws/artikel/tue-krijgt-dikke-onvoldoende-voor-omgang-met-privacy?datalekt=f536508cac48779fe347fafcaca5038f",
         "url": "https://studio040.nl/nieuws/artikel/tue-krijgt-dikke-onvoldoende-voor-omgang-met-privacy",
         "title": "TU/e voldoet onvoldoende aan de aan privacywetgeving",
@@ -130,6 +234,19 @@
         "content_text": "Booking.com | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 26-09-2023 | Hackers hebben inloggegevens van een onbekend aantal hotels op Booking.com buitgemaakt en verstuurden phishing-mails uit naam van deze hotels om gasten te bestelen. De aanvallers verleidden hotels om malware te downloaden, waarmee ze toegang kregen tot Booking-accounts van hotels en stuurden valse berichten naar toekomstige gasten over problemen met hun creditcard. Booking.com bevestigt het incident en heeft maatregelen genomen om getroffen partners en klanten te ondersteunen. Het exacte aantal getroffen hotels en gasten is onbekend, maar Booking.com benadrukt dat hun eigen systemen veilig zijn gebleven. (Bron: bnr.nl)"
     },
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c50299e78f4c04a439c81f0d7715bb88",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Van Eck Transport getroffen door ransomware aanval van de criminele organisatie PLAY",
+        "date_published": "2023-09-28T00:00:00Z",
+        "date_modified": "2023-09-28T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Van Eck Transport | Vervoer en opslag | 28-09-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Van Eck Transport heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.vpngids.nl/nieuws/arriva-meldt-datalek-via-contactformulier/?datalekt=ade12e7ea9a03ea4cde66626e333ac05",
         "url": "https://www.vpngids.nl/nieuws/arriva-meldt-datalek-via-contactformulier/",
         "title": "Datalek bij Arriva door lek in contactformulier",
@@ -141,6 +258,19 @@
         },
         "content_html": "",
         "content_text": "Arriva | Vervoer en opslag | 27-09-2023 | Arriva heeft een datalek gemeld veroorzaakt door een lek in hun digitale contactformulier, waardoor een ethische hacker toegang kreeg tot persoonsgegevens van 195.000 klanten, waaronder namen, telefoonnummers, geboortedata en e-mailadressen. De getroffenen en de Autoriteit Persoonsgegevens zijn ge\u00efnformeerd. Het is onduidelijk wat de hacker met de gegevens heeft gedaan. Het contactformulier is offline gehaald en er zijn maatregelen genomen om herhaling te voorkomen. Gedupeerden kunnen Arriva aansprakelijk stellen voor het datalek. (Bron: vpngids.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ec1c50617cf024aa39833998db07c5d5",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "ZZColdstores getroffen door ransomware aanval van de criminele organisatie BlackCat (ALPHV)",
+        "date_published": "2023-09-25T00:00:00Z",
+        "date_modified": "2023-09-25T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "ZZColdstores | Vervoer en opslag | 25-09-2023 | De criminele organisatie BlackCat (ALPHV) heeft op het darkweb aangekondigd dat zij ZZColdstores heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
         "id": "https://www.security.nl/posting/811439/Gemeente+Eindhoven+vervangt+sportpas+wegens+kwetsbare+QR-code?datalekt=4f8d46ca1eb74a86ca8990ef7829250b",
@@ -325,7 +455,7 @@
         "content_text": "Kiesraad | Overheid: Zelfstandige bestuursorganen | 12-09-2023 | De Kiesraad heeft kwetsbaarheden in de Ondersteunende Software Verkiezingen (OSV2020) hersteld na een tip van een ethische hacker van Zerocopter. Boone ontdekte dat hij binnen &#039;minder dan een uur&#039; toegang kon krijgen tot het programma en meldde dit bij de Kiesraad. De kwetsbaarheden maakten het mogelijk om de verkiezingsuitslag te manipuleren door een aangepaste versie van de software te verspreiden. De Kiesraad heeft de problemen verholpen voordat politieke partijen de software konden gebruiken voor de aankomende Tweede Kamerverkiezingen. Er zijn geen onregelmatigheden gevonden in de uitslagen. (Bron: volkskrant.nl)"
     },
     {
-        "id": "https://www.1limburg.nl/nieuws/2284404/cyberaanval-op-thermae-2000-klanten-gewaarschuwd?datalekt=ec37cb5ba3236a609cf8520e23475232",
+        "id": "https://www.1limburg.nl/nieuws/2284404/cyberaanval-op-thermae-2000-klanten-gewaarschuwd?datalekt=32b301fcd8d975e2e0a24943ce8f18b2",
         "url": "https://www.1limburg.nl/nieuws/2284404/cyberaanval-op-thermae-2000-klanten-gewaarschuwd",
         "title": "Ransomware-aanval treft Thermae 2000; klanten op de hoogte gebracht van mogelijk datalek",
         "date_published": "2023-09-12T12:00:00Z",
@@ -335,7 +465,7 @@
             "name": "1limburg.nl"
         },
         "content_html": "",
-        "content_text": "Thermae 2000 | Cultuur, sport en recreatie | 11-09-2023 | Thermae 2000 in Valkenburg heeft een melding gemaakt bij de Autoriteit Persoonsgegevens over een omvangrijke cyberaanval. Het is onduidelijk of de aanvallers toegang hebben gehad tot het klantenbestand, maar klanten zijn gewaarschuwd voor een potentieel datalek. Er zijn zorgen over mogelijke phishing-pogingen. De aanval betrof een ransomware die de gegevens van Thermae 2000 versleutelde, maar er is geen losgeld betaald. Het bedrijf heeft bevestigd dat er geen beelden van saunabezoekers of medische gegevens zijn gelekt. Alle systemen zijn nu weer operationeel. (Bron: 1limburg.nl)"
+        "content_text": "Thermae 2000 | Cultuur, sport en recreatie | 11-09-2023 | Thermae 2000 in Valkenburg heeft een melding gemaakt bij de Autoriteit Persoonsgegevens over een omvangrijke cyberaanval van de criminele groep LockBit. Het is onduidelijk of de aanvallers toegang hebben gehad tot het klantenbestand, maar klanten zijn gewaarschuwd voor een potentieel datalek. Er zijn zorgen over mogelijke phishing-pogingen. De aanval betrof een ransomware die de gegevens van Thermae 2000 versleutelde, maar er is geen losgeld betaald. Het bedrijf heeft bevestigd dat er geen beelden van saunabezoekers of medische gegevens zijn gelekt. Alle systemen zijn nu weer operationeel. (Bron: 1limburg.nl)"
     },
     {
         "id": "https://www.juridict.nl/juridict-nieuwsartikel/factuurfraude-voorkomen/?datalekt=4c90b81f369d6d7c0349d8d3e4a4d24c",
@@ -663,6 +793,32 @@
         "content_text": "Nationale Politie | Overheid: Rijksdiensten | 17-08-2023 | Een groot datalek bij de politie is ontstaan door de acties van drie mannen, waaronder een ex-agent die eerder was ontslagen wegens schending van zijn geheimhoudingsplicht. Deze ex-agent speelde een cruciale rol door herhaaldelijk het Real Time Intelligence Center (RTIC) van de politie in Apeldoorn te bellen, zich voor te doen als andere agenten en zo gevoelige informatie te verkrijgen. De informatie werd vervolgens verkocht aan criminelen. Het lekken van deze informatie heeft mogelijk geleid tot een liquidatiepoging. De ex-agent was eerder veroordeeld voor soortgelijke activiteiten en had al een gevangenisstraf van zes maanden uitgezeten. (Bron: agconnect.nl)"
     },
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=617c481f8b0aa860d4b831a08eba28ef",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Van der Ven Auto&#039;s getroffen door ransomware aanval van de criminele organisatie Black Basta",
+        "date_published": "2023-08-17T00:00:00Z",
+        "date_modified": "2023-08-17T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Van der Ven Auto&#039;s | Groot- en detailhandel | 17-08-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Van der Ven Auto&#039;s heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ffaea1c8d37d5f2a6cb5c824adb374a2",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Hemmink getroffen door ransomware aanval van de criminele organisatie INC Ransom",
+        "date_published": "2023-08-16T00:00:00Z",
+        "date_modified": "2023-08-16T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Hemmink | Bouwnijverheid | 16-08-2023 | De criminele organisatie INC Ransom heeft op het darkweb aangekondigd dat zij Hemmink heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.vpngids.nl/nieuws/mogelijke-slachtoffers-datalek-etten-leur-ontvangen-brief/?datalekt=da416ebfaa15ad72143536150490c335",
         "url": "https://www.vpngids.nl/nieuws/mogelijke-slachtoffers-datalek-etten-leur-ontvangen-brief/",
         "title": "Datalek bij Nebu B.V. treft gemeente Etten-Leur en vele anderen",
@@ -726,6 +882,19 @@
         },
         "content_html": "",
         "content_text": "Bank Nederlandse Gemeenten (BNG Bank) | Financi\u00eble instellingen | 08-08-2023 | De website van de Bank Nederlandse Gemeenten (BNG Bank) was tijdelijk onbereikbaar, mogelijk als gevolg van een DDoS-aanval. Hoewel de exacte oorzaak nog niet is bevestigd, hebben pro-Russische hackers de verantwoordelijkheid opge\u00ebist. Deze hackersgroep, genaamd NoName05716, beweert ook andere Nederlandse bankwebsites te hebben aangevallen als vergelding voor de Nederlandse steun aan Oekra\u00efne in het conflict met Rusland. Het Nationaal Cyber Security Centrum bevestigt dat er deze week DDoS-aanvallen op Nederlandse websites zijn geweest, maar benadrukt dat de gevolgen vaak beperkt en symbolisch zijn. (Bron: telegraaf.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a942f61c4b391cb2e991550e70ff97a5",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Meaf Machines getroffen door ransomware aanval van de criminele organisatie LockBit",
+        "date_published": "2023-08-13T00:00:00Z",
+        "date_modified": "2023-08-13T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Meaf Machines | Industrie | 13-08-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Meaf Machines heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
         "id": "https://www.ad.nl/maastricht/websites-vliegveld-maastricht-en-openbaar-vervoer-plat-pro-russische-hackersgroep-claimt-cyberaanval~a280182d/?datalekt=0c8f8c1584eb73b2349050b93bb5b76e",
@@ -819,6 +988,58 @@
         "content_text": "Hogeschool Saxion | Onderwijs | 26-07-2023 | Twee studenten van de Hogeschool Saxion hebben een e-mailbom verstuurd naar 13.577 Saxion-mailadressen via het offici\u00eble e-mailadres van de onderwijsinstelling. De e-mail, met de onderwerpregel &#039;Let This Summer Change Your Life&#039;, nodigde studenten uit om hun &#039;dromen waar te maken&#039;. Omdat de e-mailadressen te herleiden zijn naar individuele studenten, is er een datalek gemeld bij de Autoriteit Persoonsgegevens. De hogeschool heeft direct actie ondernomen om verdere verspreiding van de e-mail te voorkomen. De betrokken studenten hebben mogelijk disciplinaire maatregelen te wachten na de zomervakantie. (Bron: vpngids.nl)"
     },
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=047eac8a2808b4fc74f74c93a3019ef3",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "DataEngine getroffen door ransomware aanval van de criminele organisatie CL0P",
+        "date_published": "2023-07-27T00:00:00Z",
+        "date_modified": "2023-07-27T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "DataEngine | Informatie en communicatie | 27-07-2023 | De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij DataEngine heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=697b9429d04c21d03661164a11c05fb5",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "SoftTech Automatisering getroffen door ransomware aanval van de criminele organisatie CL0P",
+        "date_published": "2023-07-27T00:00:00Z",
+        "date_modified": "2023-07-27T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "SoftTech Automatisering | Informatie en communicatie | 27-07-2023 | De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij SoftTech Automatisering heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=79034753a4cee53a6d18c80890d00fce",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "SBM Offshore getroffen door ransomware aanval van de criminele organisatie CL0P",
+        "date_published": "2023-07-26T00:00:00Z",
+        "date_modified": "2023-07-26T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "SBM Offshore | Elektriciteit, aardgas, stoom en gekoelde lucht | 26-07-2023 | De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij SBM Offshore heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=18ff142811e9caa141224eaa143e8527",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Primoteq getroffen door ransomware aanval van de criminele organisatie PLAY",
+        "date_published": "2023-07-24T00:00:00Z",
+        "date_modified": "2023-07-24T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Primoteq | Industrie | 24-07-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Primoteq heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/211896/tomra-5-procent-van-statiegeldautomaten-is-binnen-enkele-dagen-buiten-gebruik.html?datalekt=cd2772356bf69e234a7cd67bebf89feb",
         "url": "https://tweakers.net/nieuws/211896/tomra-5-procent-van-statiegeldautomaten-is-binnen-enkele-dagen-buiten-gebruik.html",
         "title": "Cyberaanval treft Tomra&#039;s statiegeldautomaten",
@@ -882,6 +1103,19 @@
         },
         "content_html": "",
         "content_text": "Shell | Elektriciteit, aardgas, stoom en gekoelde lucht | 15-06-2023 | Shell is getroffen door een wereldwijde ransomware-aanval uitgevoerd via een zerodaylek in de tool MOVEit Transfer. De Clop-ransomwaregroep, verantwoordelijk voor de aanval, heeft via hun website namen van slachtoffers gepubliceerd, waaronder Shell. Hoewel Shell het incident bevestigt, melden ze dat hun kernsystemen niet zijn geraakt. MOVEit Transfer, een bestandsuitwisselingsapplicatie, had een kwetsbaarheid waarmee de Clop-groep sinds 2021 servers kon infecteren en data kon stelen. Andere organisaties zoals BBC, Boots, British Airways, Ofcom en Transport for London hebben ook melding gemaakt van datalekken door deze aanval. Landal GreenParks waarschuwde 12.000 gasten voor een mogelijk datalek. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f268b5fc1311b8c8a6cd8f9404824ed1",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Confido getroffen door ransomware aanval van de criminele organisatie STORMOUS",
+        "date_published": "2023-07-16T00:00:00Z",
+        "date_modified": "2023-07-16T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Confido | Informatie en communicatie | 16-07-2023 | De criminele organisatie STORMOUS heeft op het darkweb aangekondigd dat zij Confido heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
         "id": "https://www.vpngids.nl/nieuws/opnieuw-datalek-in-leiden-door-verkeerd-verstuurde-brieven/?datalekt=d97baaeb851791bad64d085fdd2c4b1f",
@@ -949,6 +1183,19 @@
         "content_text": "BiOns | Gezondheids- en welzijnszorg | 11-07-2023 | Het Twentse zorgbureau BiOns heeft door een menselijke fout bij het versturen van een e-mail de gegevens van 189 cli\u00ebnten onbedoeld gedeeld. Een stagiair maakte de fout door de e-mailadressen in het cc-veld te plaatsen in plaats van het bcc-veld, waardoor alle ontvangers de e-mailadressen konden zien. Dit leidde tot ongenoegen bij de cli\u00ebnten. BiOns heeft het incident gemeld bij de Autoriteit Persoonsgegevens en benadrukt dat er met alleen een e-mailadres weinig schade kan worden aangericht, hoewel de privacytoezichthouder dit anders ziet. Het zorgbureau heeft later een excuusmail gestuurd en cli\u00ebnten verzocht de oorspronkelijke e-mail te verwijderen. (Bron: security.nl)"
     },
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=9dd45751a2507b73ed6c67f3db21c2cb",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "BCD Travel getroffen door ransomware aanval van de criminele organisatie CL0P",
+        "date_published": "2023-07-10T00:00:00Z",
+        "date_modified": "2023-07-10T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "BCD Travel | Overige dienstverlening | 10-07-2023 | De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij BCD Travel heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://studio040.nl/nieuws/artikel/medewerkers-ggze-konden-vrijwel-onbeperkt-in-dossiers-clienten-kijken?datalekt=0d3b9cf3599c3c29a91057316f0049d7",
         "url": "https://studio040.nl/nieuws/artikel/medewerkers-ggze-konden-vrijwel-onbeperkt-in-dossiers-clienten-kijken",
         "title": "Onbeperkte toegang tot cli\u00ebntdossiers bij GGzE door medewerkers",
@@ -960,6 +1207,32 @@
         },
         "content_html": "",
         "content_text": "Geestelijke Gezondheidszorg in Eindhoven (GGzE) | Gezondheids- en welzijnszorg | 08-07-2023 | Medewerkers van de GGzE hadden de mogelijkheid om bijna onbeperkt de dossiers van cli\u00ebnten in te zien, wat in strijd is met de regels. Een specifieke cli\u00ebnte ontdekte dat 160 medewerkers haar persoonlijke dossier hadden bekeken via het computersysteem &#039;User&#039;. Hoewel de huidige raad van bestuur ontkent dat alle 2400 medewerkers toegang hadden tot alle dossiers, erkennen ze wel dat er in sommige gevallen fouten zijn gemaakt. Naar aanleiding hiervan zijn er maatregelen genomen door de psychiatrische zorginstelling. (Bron: studio040.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a7ae45995f91e5c00176651db5c2c5af",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Wolters Kluwer getroffen door ransomware aanval van de criminele organisatie CL0P",
+        "date_published": "2023-07-07T00:00:00Z",
+        "date_modified": "2023-07-07T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Wolters Kluwer | Informatie en communicatie | 07-07-2023 | De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Wolters Kluwer heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f0a43e6ff840ad5683326246a158a728",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Euro Support getroffen door ransomware aanval van de criminele organisatie LockBit",
+        "date_published": "2023-07-05T00:00:00Z",
+        "date_modified": "2023-07-05T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Euro Support | Industrie | 05-07-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Euro Support heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
         "id": "https://www.destentor.nl/apeldoorn/plots-zit-er-een-rare-knop-op-apeldoorn-nl-inwoners-zien-persoonlijke-gegevens-van-plaatsgenoten~a67b0525/?datalekt=e880b5a3a52b506272eff911ac85e179",
@@ -1014,289 +1287,16 @@
         "content_text": "Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie (KNMP) | Gezondheids- en welzijnszorg | 27-06-2023 | De beroepsvereniging voor apothekers KNMP is getroffen door een datalek waarbij persoonsgegevens van apothekers zijn buitgemaakt. Het betreft voornamelijk e-mailadressen en in enkele gevallen naam, adres en geslacht. Het lek ontstond bij een externe partij die de KNMP inschakelde voor het verzenden van nieuwsbrieven. Hoewel de exacte naam van de betrokken mailingdienst en de specifieke oorzaak van het lek niet zijn onthuld, heeft de KNMP het incident gemeld bij de Autoriteit Persoonsgegevens en belooft aanvullende maatregelen te nemen om toekomstige incidenten te voorkomen. (Bron: security.nl)"
     },
     {
-        "id": "https://www.metaalnieuws.nl/aangevallen-metalnet-adviseert-collega-maakbedrijven-investeer-in-cybersecurity/?datalekt=ef4e41be26ab5252048de73b186ce37c",
-        "url": "https://www.metaalnieuws.nl/aangevallen-metalnet-adviseert-collega-maakbedrijven-investeer-in-cybersecurity/",
-        "title": "Cyberaanval zet Metalnet tijdelijk buitenspel; nadruk op belang van cybersecurity",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4257ca9a3ed7db14b6099dda630c18b6",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Hi-Tec Sports International getroffen door ransomware aanval van de criminele organisatie PLAY",
         "date_published": "2023-06-21T00:00:00Z",
         "date_modified": "2023-06-21T00:00:00Z",
         "language": "nl-nl",
         "author": {
-            "name": "metaalnieuws.nl"
+            "name": "ccinfo.nl"
         },
         "content_html": "",
-        "content_text": "Metalnet | Industrie | 21-06-2023 | Metalnet werd begin mei getroffen door een cyberaanval met ransomware, waardoor alle computers en systemen onbruikbaar werden. Losgeldbrieven werden aangetroffen op de printers, waarin stond wat het bedrijf moest doen om de server weer beschikbaar te krijgen. Metalnet besloot geen contact op te nemen met de hackers en zette een crisisteam op. Dankzij vooraf genomen maatregelen in samenwerking met ICT-partner i-LEVEL ICT Solutions en een versleutelde cloud back-up was Metalnet binnen twee dagen weer operationeel. De financi\u00eble schade bleef beperkt doordat Metalnet tijdens de aanval in een verhuizing zat. Metalnet benadrukt het belang van investeren in goede cybersecurity en een solide back-up. (Bron: metaalnieuws.nl)"
-    },
-    {
-        "id": "https://www.omroepzeeland.nl/nieuws/15674368/ddos-aanval-legde-website-havenbedrijf-north-sea-port-plat?datalekt=c616a385664a3dcb9e378c9342f7c58f",
-        "url": "https://www.omroepzeeland.nl/nieuws/15674368/ddos-aanval-legde-website-havenbedrijf-north-sea-port-plat",
-        "title": "Website havenbedrijf North Sea Port getroffen door ddos-aanval",
-        "date_published": "2023-06-20T00:00:00Z",
-        "date_modified": "2023-06-20T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepzeeland.nl"
-        },
-        "content_html": "",
-        "content_text": "North Sea Port | Vervoer en opslag | 20-06-2023 | De website van havenbedrijf North Sea Port was tijdelijk onbereikbaar. Russische hackers claimen de verantwoordelijkheid voor deze verstoring. Ze hebben aangegeven dat ze een ddos-aanval hebben uitgevoerd. De aanval werd mogelijk uitgevoerd door NoName05716, een hackersgroep die regelmatig aanvallen uitvoert gericht tegen tegenstanders van Rusland. Ondanks de aanval op de website, bleef de bedrijfsvoering van North Sea Port onaangetast. Er is geen melding gemaakt van financi\u00eble schade of het aantal getroffen gebruikers. (Bron: omroepzeeland.nl)"
-    },
-    {
-        "id": "https://www.wooninvest.nl/nieuws/ransomware-aanval-bij-aannemer-coen-hagedoorn-bouwgroep?datalekt=d8a3093e71f2b9d6148423e5b76fa6fc",
-        "url": "https://www.wooninvest.nl/nieuws/ransomware-aanval-bij-aannemer-coen-hagedoorn-bouwgroep",
-        "title": "Ransomware-aanval treft Coen Hagedoorn Bouwgroep",
-        "date_published": "2023-06-16T00:00:00Z",
-        "date_modified": "2023-06-16T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "wooninvest.nl"
-        },
-        "content_html": "",
-        "content_text": "Coen Hagedoorn Bouwgroep | Bouwnijverheid | 16-06-2023 | Aannemer Coen Hagedoorn Bouwgroep is slachtoffer geworden van een ransomware-aanval, wat resulteerde in ongeautoriseerde toegang tot hun systemen. Hierdoor is de vertrouwelijkheid van de gegevens die zij beheren, inclusief hun klantenbestand, mogelijk in het geding. Het is onzeker of de gegevens van huurders van WoonInvest zijn gelekt. De aanvallers gebruiken de gestolen gegevens om e-mails te verzenden die mogelijk phishing-pogingen bevatten. WoonInvest heeft het mogelijke datalek van huurdersgegevens gemeld bij de Autoriteit Persoonsgegevens. (Bron: wooninvest.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/?datalekt=060f65c059f3b73f8299933f77ad571d",
-        "url": "https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/",
-        "title": "DDoS-aanval vertraagt examenuitslagen bij twintig scholen door problemen bij Somtoday",
-        "date_published": "2023-06-14T00:00:00Z",
-        "date_modified": "2023-06-14T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "20 onbekende scholen | Onderwijs | 14-06-2023 | Bijna twintig scholen ondervonden vertraging bij het vaststellen van de eindcijfers van examenleerlingen vanwege een cyberaanval op de software van Somtoday, een leverancier voor tweehonderd onderwijsinstellingen. Gedurende een software-update in de ochtend, plaatsten cybercriminelen een omvangrijke DDoS-aanval, waardoor de diensten tijdelijk onbereikbaar werden. Hoewel meer dan 85% van de uitslagen al verwerkt was, moesten achttien scholen nog een groot deel van hun taken voltooien. De aanval zorgde voor veel stress bij scholen, leerlingen en ouders. Sommige scholen, zoals het Eijkhagen College, gingen handmatig aan de slag om de uitslagen te berekenen. De problemen zijn inmiddels verholpen, maar de vertraging zorgde voor veel ongemak. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/?datalekt=4af812b89e904785411aff55fd27ebe8",
-        "url": "https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/",
-        "title": "DDoS-aanval vertraagt examenuitslagen bij Eijkhagen College door problemen bij Somtoday",
-        "date_published": "2023-06-14T00:00:00Z",
-        "date_modified": "2023-06-14T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Eijkhagen College | Onderwijs | 14-06-2023 | Eijkhagen College ondervindt vertraging bij het vaststellen van de eindcijfers van examenleerlingen vanwege een cyberaanval op de software van Somtoday, een leverancier voor tweehonderd onderwijsinstellingen. Gedurende een software-update in de ochtend, plaatsten cybercriminelen een omvangrijke DDoS-aanval, waardoor de diensten tijdelijk onbereikbaar werden. Hoewel meer dan 85% van de uitslagen al verwerkt was, moesten achttien scholen nog een groot deel van hun taken voltooien. De aanval zorgde voor veel stress bij scholen, leerlingen en ouders. Sommige scholen, zoals het Eijkhagen College, gingen handmatig aan de slag om de uitslagen te berekenen. De problemen zijn inmiddels verholpen, maar de vertraging zorgde voor veel ongemak. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/gegevens-inwoners-gemeente-montfoort-mogelijk-gelekt/?datalekt=50e41387e9513297367bea81642dd192",
-        "url": "https://www.vpngids.nl/nieuws/gegevens-inwoners-gemeente-montfoort-mogelijk-gelekt/",
-        "title": "Datalek bij gemeente Montfoort door beleidsonderzoeksbureau Dimensus",
-        "date_published": "2023-06-14T00:00:00Z",
-        "date_modified": "2023-06-14T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Montfoort | Overheid: Gemeenten | 14-06-2023 | Gegevens van inwoners van de gemeente Montfoort zijn mogelijk gelekt na een datalek betreffende deelnemers aan een beleidsonderzoek een half jaar geleden. Het onderzoek werd uitgevoerd door Dimensus, een beleidsonderzoeksbureau voor overheidsinstanties. De exacte oorzaak van het lek is onbekend, maar er zijn mogelijk namen, woonadressen en geslachtsinformatie gelekt. De gemeente Montfoort heeft contact met Dimensus voor meer duidelijkheid en waarschuwt inwoners voor mogelijke phishing-pogingen. Er is geen melding gemaakt bij de Autoriteit Persoonsgegevens of aangifte gedaan bij de politie. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html?datalekt=3121264477ef9dcb240e2a159840eb29",
-        "url": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html",
-        "title": "Pro-Russische cybercriminelen richten DDOS-aanvallen op Groningen Seaports",
-        "date_published": "2023-06-14T00:00:00Z",
-        "date_modified": "2023-06-14T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Groningen Seaports | Vervoer en opslag | 14-06-2023 | Een groep pro-Russische cybercriminelen heeft recentelijk de websites van diverse Nederlandse havens, waaronder de Groningse Zeehaven, Amsterdam, Rotterdam en Den Helder, onbereikbaar gemaakt met DDOS-aanvallen. De Groningse Zeehaven was het zwaarst getroffen, waarbij de website het hele weekend niet beschikbaar was. De overige havens ondervonden enkele uren overlast. De aanvallers, die zichzelf NoName057(16) noemen, hebben op Telegram opgeschept over hun acties. Ondanks de aanvallen was de impact op de dagelijkse operaties van de havens minimaal. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.omroepflevoland.nl/nieuws/336995/examenfeest-helen-parkhurst-uitgesteld-door-ddos-aanval-schoolsysteem?datalekt=9a61e3c34f13f3bdc4855a6664173316",
-        "url": "https://www.omroepflevoland.nl/nieuws/336995/examenfeest-helen-parkhurst-uitgesteld-door-ddos-aanval-schoolsysteem",
-        "title": "DDoS-aanval op Somtoday vertraagt examenuitslag Daltonschool Helen Parkhurst",
-        "date_published": "2023-06-14T00:00:00Z",
-        "date_modified": "2023-06-14T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepflevoland.nl"
-        },
-        "content_html": "",
-        "content_text": "Helen Parkhurst | Onderwijs | 14-06-2023 | Leerlingen van Daltonschool Helen Parkhurst in Almere Parkwijk ondervonden vertraging bij het ontvangen van hun examenuitslag vanwege een DDoS-aanval op het schoolsysteem Somtoday. Deze aanval zorgde ervoor dat alle examenberekeningen tijdelijk onbereikbaar waren, waardoor de uitslag-telefoontjes niet op tijd konden worden gevoerd. Een storing bij Somtoday trof 20 scholen, waaronder Helen Parkhurst. Hoewel leraren zelf de uitslagberekeningen uitvoerden, werden deze als minder nauwkeurig beschouwd en daarom als ongeldig bestempeld. De leerlingen moesten hierdoor minimaal een uur langer wachten op hun uitslag, wat ook de festiviteiten met een uur vertraagde. (Bron: omroepflevoland.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html?datalekt=62a63d0eacf951a58e399a5b6a0f0e45",
-        "url": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html",
-        "title": "Pro-Russische cybercriminelen richten DDOS-aanvallen op Port of Amsterdam",
-        "date_published": "2023-06-14T00:00:00Z",
-        "date_modified": "2023-06-14T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Port of Amsterdam | Vervoer en opslag | 14-06-2023 | Een groep pro-Russische cybercriminelen heeft recentelijk de websites van diverse Nederlandse havens, waaronder de Groningse Zeehaven, Amsterdam, Rotterdam en Den Helder, onbereikbaar gemaakt met DDOS-aanvallen. De Groningse Zeehaven was het zwaarst getroffen, waarbij de website het hele weekend niet beschikbaar was. De overige havens ondervonden enkele uren overlast. De aanvallers, die zichzelf NoName057(16) noemen, hebben op Telegram opgeschept over hun acties. Ondanks de aanvallen was de impact op de dagelijkse operaties van de havens minimaal. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html?datalekt=e730979a5e4a248d182d3cfaa7b830ef",
-        "url": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html",
-        "title": "Pro-Russische cybercriminelen richten DDOS-aanvallen op Port of Den Helder",
-        "date_published": "2023-06-14T00:00:00Z",
-        "date_modified": "2023-06-14T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Port of Den Helder | Vervoer en opslag | 14-06-2023 | Een groep pro-Russische cybercriminelen heeft recentelijk de websites van diverse Nederlandse havens, waaronder de Groningse Zeehaven, Amsterdam, Rotterdam en Den Helder, onbereikbaar gemaakt met DDOS-aanvallen. De Groningse Zeehaven was het zwaarst getroffen, waarbij de website het hele weekend niet beschikbaar was. De overige havens ondervonden enkele uren overlast. De aanvallers, die zichzelf NoName057(16) noemen, hebben op Telegram opgeschept over hun acties. Ondanks de aanvallen was de impact op de dagelijkse operaties van de havens minimaal. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html?datalekt=32bcae0b5a8e7daf80ccaa204a718e99",
-        "url": "https://tweakers.net/nieuws/210784/pro-russische-groep-viel-websites-nederlandse-havens-aan-met-ddos-aanvallen.html",
-        "title": "Pro-Russische cybercriminelen richten DDOS-aanvallen op Port of Rotterdam",
-        "date_published": "2023-06-14T00:00:00Z",
-        "date_modified": "2023-06-14T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Port of Rotterdam | Vervoer en opslag | 14-06-2023 | Een groep pro-Russische cybercriminelen heeft recentelijk de websites van diverse Nederlandse havens, waaronder de Groningse Zeehaven, Amsterdam, Rotterdam en Den Helder, onbereikbaar gemaakt met DDOS-aanvallen. De Groningse Zeehaven was het zwaarst getroffen, waarbij de website het hele weekend niet beschikbaar was. De overige havens ondervonden enkele uren overlast. De aanvallers, die zichzelf NoName057(16) noemen, hebben op Telegram opgeschept over hun acties. Ondanks de aanvallen was de impact op de dagelijkse operaties van de havens minimaal. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/?datalekt=0a26658a64e4eedbd8aadf4dcd8597b0",
-        "url": "https://www.ad.nl/binnenland/twintigtal-scholen-ontvangt-examenuitslagen-vertraagd-door-ddos-aanval-ontzettend-zuur~a4232cf9/",
-        "title": "DDoS-aanval op Somtoday vertraagt examenuitslagen bij twintig scholen",
-        "date_published": "2023-06-14T00:00:00Z",
-        "date_modified": "2023-06-14T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Somtoday | Informatie en communicatie | 14-06-2023 | Bijna twintig scholen hebben de eindcijfers van examenleerlingen later dan gepland kunnen vaststellen vanwege een DDoS-aanval op de software van Somtoday, een leverancier die voor tweehonderd onderwijsinstellingen (vierhonderd scholen) werkt. De aanval vond plaats tijdens software-updates in de ochtend. Hoewel meer dan 85% van de uitslagen al was verwerkt, moesten achttien scholen nog een groot deel verwerken. Sommige scholen, zoals het Eijkhagen College, begonnen handmatig met berekeningen. De problemen veroorzaakten veel stress onder leerlingen en ouders. Somtoday heeft maatregelen genomen om de aanval te stoppen en de resterende rapporten snel af te ronden. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/798904/Landal+GreenParks+waarschuwt+12_000+gasten+voor+mogelijk+datalek?datalekt=97c7c9ac0eab359e43aa15c40db64ee7",
-        "url": "https://www.security.nl/posting/798904/Landal+GreenParks+waarschuwt+12_000+gasten+voor+mogelijk+datalek",
-        "title": "Landal GreenParks getroffen door cyberaanval via MOVEit Transfer",
-        "date_published": "2023-06-08T00:00:00Z",
-        "date_modified": "2023-06-08T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Landal Greenparks | Cultuur, sport en recreatie | 08-06-2023 | Landal GreenParks heeft 12.000 gasten ge\u00efnformeerd over een potentieel datalek na een cyberaanval. Criminelen verkregen toegang tot het MOVEit Transfer-systeem dat het bedrijf inzet voor gegevensuitwisseling. Hierdoor zijn mogelijk gegevens zoals naam, geboortedatum, geslacht, adres en e-mailadres gecompromitteerd. De aanval werd uitgevoerd via een SQL Injection op MOVEit, waardoor ongeautoriseerde toegang tot de database mogelijk was. De aanvallers installeerden ook een webshell om toegang te behouden. De aanvallen op MOVEit-servers worden toegeschreven aan de criminelen achter de Clop-ransomware. Landal GreenParks heeft de aanval zelf ontdekt, de betreffende server uitgeschakeld en opnieuw opgebouwd. Het onderzoek naar het incident is nog gaande. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/798654/Bibliotheek+Gouda+getroffen+door+ransomware-aanval?datalekt=48721472619e8c5bc953fb3017d77757",
-        "url": "https://www.security.nl/posting/798654/Bibliotheek+Gouda+getroffen+door+ransomware-aanval",
-        "title": "Ransomware-aanval treft Bibliotheek Gouda; dreiging van data-publicatie",
-        "date_published": "2023-06-06T00:00:00Z",
-        "date_modified": "2023-06-06T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Bibliotheek Gouda | Cultuur, sport en recreatie | 06-06-2023 | Bibliotheek Gouda is het slachtoffer geworden van een ransomware-aanval, uitgevoerd door de criminelen achter de 8Base-ransomware. Deze aanvallers beweren dertig gigabyte aan data te hebben gestolen, waaronder persoonlijke gegevens van medewerkers en klanten zoals paspoortinformatie. Als gevolg van de aanval is de dienstverlening van de bibliotheek beperkt, met name bij het inleveren van boeken. Het is nog onduidelijk hoe de aanvallers toegang hebben gekregen tot de systemen. Ze dreigen de gestolen data op 11 juni te publiceren als er geen losgeld wordt betaald. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.omropfryslan.nl/nl/nieuws/1211019/hacks-en-digitale-aanvallen-nhl-stenden-heeft-er-steeds-vaker-mee-te-maken?datalekt=abfd77dc9cf58b7658979d5cd340578f",
-        "url": "https://www.omropfryslan.nl/nl/nieuws/1211019/hacks-en-digitale-aanvallen-nhl-stenden-heeft-er-steeds-vaker-mee-te-maken",
-        "title": "Digitale aanvallen op NHL Stenden: toenemende dreiging vanuit Rusland en China",
-        "date_published": "2023-06-06T00:00:00Z",
-        "date_modified": "2023-06-06T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omropfryslan.nl"
-        },
-        "content_html": "",
-        "content_text": "NHL Stenden | Onderwijs | 06-06-2023 | Hogeschool NHL Stenden in Leeuwarden ervaart een toenemende frequentie van digitale aanvallen. Deze instelling, een centrum van kennis en samenkomst, heeft met name te maken met hacks afkomstig uit Rusland en China. Om de gegevens van medewerkers en studenten te beschermen, is de school een campagne gestart om digitaal &#039;weerbaar&#039; te worden. Onlangs heeft NHL Stenden een datalek ervaren waarbij e-mailadressen van studenten openbaar werden gemaakt. Deze gegevens hebben waarde op het dark web, wat het belang van bescherming benadrukt. (Bron: omropfryslan.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/economie/6266421/vijfhonderd-e-mailadressen-gelekt-bij-pensioenfonds-abp.html?datalekt=a6ab281ec30fa1cfd6aca32d8a870e88",
-        "url": "https://www.nu.nl/economie/6266421/vijfhonderd-e-mailadressen-gelekt-bij-pensioenfonds-abp.html",
-        "title": "Menselijke fout leidt tot lek van e-mailadressen bij pensioenfonds ABP",
-        "date_published": "2023-06-03T00:00:00Z",
-        "date_modified": "2023-06-03T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Pensioenfonds ABP | Financi\u00eble instellingen | 03-06-2023 | Bij pensioenfonds ABP zijn vijfhonderd e-mailadressen van gepensioneerden gelekt door een menselijke fout tijdens het verzenden van een e-mail. De fout ontstond toen de e-mailadressen werden ingevoerd in het CC-veld in plaats van het BCC-veld, waardoor alle ontvangers de e-mailadressen van anderen konden zien. ABP, dat pensioenen beheert voor mensen in het onderwijs en de overheid, heeft het datalek gemeld bij de Autoriteit Persoonsgegevens en alle betrokkenen zijn ge\u00efnformeerd. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/798354/Hengelose+scholengemeenschap+OSG+getroffen+door+ransomware-aanval?datalekt=a3421c3d03b708d5da289462b3e1f7b4",
-        "url": "https://www.security.nl/posting/798354/Hengelose+scholengemeenschap+OSG+getroffen+door+ransomware-aanval",
-        "title": "Ransomware-aanval treft Hengelose scholengemeenschap OSG",
-        "date_published": "2023-06-03T00:00:00Z",
-        "date_modified": "2023-06-03T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Stichting OSG Hengelo | Onderwijs | 03-06-2023 | De Hengelose scholengemeenschap OSG is het slachtoffer geworden van een ransomware-aanval waarbij bestanden op hun servers werden versleuteld. Deze aanval, ontdekt op een dinsdag, heeft ervoor gezorgd dat de scholengemeenschap, bestaande uit vier scholen, telefonisch onbereikbaar is. Hoewel de lessen doorgaan, wordt nog onderzocht hoe de aanvallers toegang kregen en of er gegevens van leerlingen of medewerkers zijn gestolen. De exacte oorzaak van de aanval is nog onbekend, maar er zijn stappen gezet om de beveiliging te versterken. Ook is er een datalek gemeld bij de Autoriteit Persoonsgegevens en is er contact opgenomen met de politie. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu?datalekt=c3d14feb2a005013b187091ce51c2881",
-        "url": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu",
-        "title": "Rijksoverheid en Nebu: Datalek treft Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG)",
-        "date_published": "2023-05-31T00:00:00Z",
-        "date_modified": "2023-05-31T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitleaders.nl"
-        },
-        "content_html": "",
-        "content_text": "Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG) | Overheid: Rijksoverheid | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)"
-    },
-    {
-        "id": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu?datalekt=97d5554cecb0f8e97ba9dd42881b072d",
-        "url": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu",
-        "title": "Rijksoverheid en Nebu: Datalek treft College ter beoordeling van Geneesmiddelen (CBG)",
-        "date_published": "2023-05-31T00:00:00Z",
-        "date_modified": "2023-05-31T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitleaders.nl"
-        },
-        "content_html": "",
-        "content_text": "College ter beoordeling van Geneesmiddelen (CBG) | Overheid: Zelfstandige bestuursorganen | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)"
-    },
-    {
-        "id": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu?datalekt=38fecccb344b42c2d6bbc8f4eb59bf72",
-        "url": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu",
-        "title": "Rijksoverheid en Nebu: Datalek treft Dienst Publieke Communicatie (DPC)",
-        "date_published": "2023-05-31T00:00:00Z",
-        "date_modified": "2023-05-31T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitleaders.nl"
-        },
-        "content_html": "",
-        "content_text": "Dienst Publieke Communicatie (DPC) | Overheid: Rijksdiensten | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)"
-    },
-    {
-        "id": "https://www.noordhollandsdagblad.nl/cnt/dmf20230531_53943984?datalekt=2e59d56b0e90fe306b912f3e2e105d56",
-        "url": "https://www.noordhollandsdagblad.nl/cnt/dmf20230531_53943984",
-        "title": "Datalek bij Hoogheemraadschap Hollands Noorderkwartier door foutieve uitnodiging",
-        "date_published": "2023-05-31T00:00:00Z",
-        "date_modified": "2023-05-31T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "noordhollandsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 31-05-2023 | Het Hoogheemraadschap Hollands Noorderkwartier (HHNK) heeft een datalek veroorzaakt door een fout bij het versturen van een digitale uitnodiging voor een afscheidsreceptie. In de e-mail, die naar bijna 300 genodigden werd verzonden, waren alle gebruikte e-mailadressen zichtbaar voor de ontvangers. Ondanks een zorgvuldige voorbereiding is dit per ongeluk gebeurd. HHNK heeft zijn excuses aangeboden en benadrukt maatregelen te nemen om dergelijke fouten in de toekomst te voorkomen. Het incident is geregistreerd in het datalekregister van het waterschap. (Bron: noordhollandsdagblad.nl)"
-    },
-    {
-        "id": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu?datalekt=1cf28efe786459760564e6a37829530f",
-        "url": "https://www.dutchitleaders.nl/news/375637/zestien-organisaties-van-rijksoverheid-getroffen-door-lek-bij-nebu",
-        "title": "Rijksoverheid en Nebu: Datalek treft Huurcommissie (DHC)",
-        "date_published": "2023-05-31T00:00:00Z",
-        "date_modified": "2023-05-31T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitleaders.nl"
-        },
-        "content_html": "",
-        "content_text": "Huurcommissie (DHC) | Overheid: Rijksoverheid | 31-05-2023 | Zestien organisaties van de Rijksoverheid zijn getroffen door een datalek bij het softwarebedrijf Nebu. Staatssecretaris van Digitalisering meldde dat Nebu, een bedrijf dat software levert voor marktonderzoeken, eind maart werd aangevallen. Aanvallers verkregen toegang tot de systemen van Nebu, waarbij mogelijk ook klantgegevens van marktonderzoekers die Nebu&#039;s software gebruiken, zijn getroffen. De getroffen organisaties zijn: het ministerie van Economische Zaken en Klimaat, de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), de Rijksdienst voor Ondernemend Nederland (RVO), het College ter beoordeling van Geneesmiddelen (CBG), het Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM), het Sociaal en Cultureel Planbureau (SCP), het ministerie van Onderwijs, Cultuur en Wetenschap, de Koninklijke Bibliotheek, de Huurcommissie (DHC), de Dienst Publieke Communicatie (DPC) en de Raad voor Rechtsbijstand (RvR). (Bron: dutchitleaders.nl)"
+        "content_text": "Hi-Tec Sports International | Groot- en detailhandel | 21-06-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Hi-Tec Sports International heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
