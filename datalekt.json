@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://nl.joinhackshield.com/nl/competitie/datalekwebshop?datalekt=a0f1ab98aa27a1e625cf4d4eaf6bb1a0",
+        "url": "https://nl.joinhackshield.com/nl/competitie/datalekwebshop",
+        "title": "Datalek bij HackShield Webshop na ongeautoriseerde toegang",
+        "date_published": "2023-11-08T11:38:00Z",
+        "date_modified": "2023-11-08T11:38:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "joinhackshield.com"
+        },
+        "content_html": "",
+        "content_text": "Hackshield Future Cyber Heroes | Informatie en communicatie | 07-11-2023 | HackShield&#039;s webshop ervoer een datalek nadat externe assistentie voor software-installatie onbedoeld leidde tot ongeautoriseerde toegang. De externe medewerker, tijdelijk met beheerdersrechten, werd gehackt, waardoor inloggegevens van de webshop gecompromitteerd raakten. De webshop werd offline gehaald en hersteld naar een veilige staat, waarbij onnodige accounts verwijderd en wachtwoorden gewijzigd werden. Er is geen bewijs van data-exfiltratie, maar phishingrisico&#039;s voor betrokkenen blijven bestaan. De focus lag voorheen op de HackShield-game, wat een inschattingsfout bleek. Maatregelen zoals tweestapsverificatie en dataminimalisatie zijn ge\u00efmplementeerd om herhaling te voorkomen. (Bron: joinhackshield.com)"
+    },
+    {
         "id": "https://www.nu.nl/tech/6288271/website-ov-chipkaart-minder-bereikbaar-door-aanval-russische-hackers.html?datalekt=77e26278e6f20f0ff6af57f90280ec31",
         "url": "https://www.nu.nl/tech/6288271/website-ov-chipkaart-minder-bereikbaar-door-aanval-russische-hackers.html",
         "title": "DDoS-aanvallen door pro-Russische groep treffen OV-chipkaart website",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie (KNMP) | Gezondheids- en welzijnszorg | 27-06-2023 | De beroepsvereniging voor apothekers KNMP is getroffen door een datalek waarbij persoonsgegevens van apothekers zijn buitgemaakt. Het betreft voornamelijk e-mailadressen en in enkele gevallen naam, adres en geslacht. Het lek ontstond bij een externe partij die de KNMP inschakelde voor het verzenden van nieuwsbrieven. Hoewel de exacte naam van de betrokken mailingdienst en de specifieke oorzaak van het lek niet zijn onthuld, heeft de KNMP het incident gemeld bij de Autoriteit Persoonsgegevens en belooft aanvullende maatregelen te nemen om toekomstige incidenten te voorkomen. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4257ca9a3ed7db14b6099dda630c18b6",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Hi-Tec Sports International getroffen door ransomware aanval van de criminele organisatie PLAY",
-        "date_published": "2023-06-21T00:00:00Z",
-        "date_modified": "2023-06-21T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Hi-Tec Sports International | Groot- en detailhandel | 21-06-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Hi-Tec Sports International heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
