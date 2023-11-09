@@ -7,7 +7,39 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 08 Nov 2023 12:28:05 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 09 Nov 2023 12:28:01 +0000</lastBuildDate>
+		<item>
+			<title>Co Zwolle getroffen door ransomware aanval van de criminele organisatie Black Basta</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Co Zwolle | Verhuur van en handel in onroerend goed | 07-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Co Zwolle heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4af808b6cd0e37dae3d8afd312719ffb</guid>
+			<category>Verhuur van en handel in onroerend goed </category>
+			<pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>NiceCloud getroffen door ransomware aanval van de criminele organisatie Black Basta</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>NiceCloud | Informatie en communicatie | 07-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij NiceCloud heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=2d6b1f6530d6326552a206983a3e917a</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>TT-Engineering getroffen door ransomware aanval van de criminele organisatie Black Basta</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>TT-Engineering | Industrie | 07-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij TT-Engineering heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=e3f860703cbe285e7a277524ca108c43</guid>
+			<category>Industrie </category>
+			<pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Triflex getroffen door ransomware aanval van de criminele organisatie Black Basta</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Triflex | Bouwnijverheid | 07-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Triflex heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=58b6fd0d6bbe49967a614db673086b1d</guid>
+			<category>Bouwnijverheid </category>
+			<pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij HackShield Webshop na ongeautoriseerde toegang</title>
 			<link>https://nl.joinhackshield.com/nl/competitie/datalekwebshop</link>
@@ -775,38 +807,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f0a43e6ff840ad5683326246a158a728</guid>
 			<category>Industrie </category>
 			<pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij gemeente Apeldoorn door softwarefout</title>
-			<link>https://www.destentor.nl/apeldoorn/plots-zit-er-een-rare-knop-op-apeldoorn-nl-inwoners-zien-persoonlijke-gegevens-van-plaatsgenoten~a67b0525/</link>
-			<description>Gemeente Apeldoorn | Overheid: Gemeenten | 01-07-2023 | Bezoekers van de website van de gemeente Apeldoorn hebben tijdelijk persoonlijke gegevens van andere inwoners kunnen inzien. Dit incident is ontstaan door een softwarefout, zoals vermeld door de gemeente. Er is geen specifieke informatie verstrekt over de aanvaller, het exacte aantal getroffen burgers of de financiële schade die hierdoor is ontstaan. (Bron: destentor.nl)</description>
-			<guid isPermaLink="false">https://www.destentor.nl/apeldoorn/plots-zit-er-een-rare-knop-op-apeldoorn-nl-inwoners-zien-persoonlijke-gegevens-van-plaatsgenoten~a67b0525/?datalekt=e880b5a3a52b506272eff911ac85e179</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij softwareleverancier Nebu B.V. treft gemeente Altena en haar inwoners</title>
-			<link>https://www.vpngids.nl/nieuws/privegegevens-van-honderden-inwoners-altena-mogelijk-op-straat/</link>
-			<description>Gemeente Altena | Overheid: Gemeenten | 30-06-2023 | De persoonsgegevens van 571 inwoners van de gemeente Altena zijn mogelijk gestolen door hackers na een datalek bij softwareleverancier Nebu B.V. uit Wormerveer in maart. Deze aanval resulteerde in de diefstal van gegevens van ongeveer twee miljoen Nederlanders, waaronder grote organisaties zoals de Nederlandse Spoorwegen, VodafoneZiggo, Heineken en zorgverzekeraar CZ. De getroffen inwoners van Altena hadden deelgenomen aan enquêtes die werden beheerd met Nebu&amp;#039;s software. De gestolen gegevens omvatten namen, adressen, woonplaatsen, leeftijden en geslachten, maar geen financiële informatie of wachtwoorden. De gemeente heeft veiligheidsmaatregelen genomen en het incident gemeld bij de Autoriteit Persoonsgegevens. (Bron: vpngids.nl)</description>
-			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/privegegevens-van-honderden-inwoners-altena-mogelijk-op-straat/?datalekt=da165c175e53c3b75df0fc96315077f8</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij KNMP door externe nieuwsbriefdienst</title>
-			<link>https://www.security.nl/posting/800936/Beroepsvereniging+voor+apothekers+KNMP+getroffen+door+datalek</link>
-			<description>Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie (KNMP) | Gezondheids- en welzijnszorg | 27-06-2023 | De beroepsvereniging voor apothekers KNMP is getroffen door een datalek waarbij persoonsgegevens van apothekers zijn buitgemaakt. Het betreft voornamelijk e-mailadressen en in enkele gevallen naam, adres en geslacht. Het lek ontstond bij een externe partij die de KNMP inschakelde voor het verzenden van nieuwsbrieven. Hoewel de exacte naam van de betrokken mailingdienst en de specifieke oorzaak van het lek niet zijn onthuld, heeft de KNMP het incident gemeld bij de Autoriteit Persoonsgegevens en belooft aanvullende maatregelen te nemen om toekomstige incidenten te voorkomen. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/800936/Beroepsvereniging+voor+apothekers+KNMP+getroffen+door+datalek?datalekt=e638550746fe40b96c55effbed1319a6</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ransomware-aanval treft gemeente Haarlem</title>
-			<link>https://www.noordhollandsdagblad.nl/cnt/dmf20230627_49679629</link>
-			<description>Gemeente Haarlem | Overheid: Gemeenten | 27-06-2023 | Het afgelopen jaar heeft de gemeente Haarlem te maken gehad met een ransomware-aanval. IT-experts werden ingeschakeld om de situatie te verhelpen. Ransomware is een chantagemiddel dat door hackers wordt gebruikt om systemen te vergrendelen en losgeld te eisen voor het vrijgeven ervan. Verdere details over de aanvaller, de financiële schade of het aantal getroffen burgers zijn niet vermeld in het beschikbare fragment van het artikel. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/cnt/dmf20230627_49679629?datalekt=7b2677951851a66db5f926e779f34c8c</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
