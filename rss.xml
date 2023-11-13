@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 10 Nov 2023 12:27:52 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 13 Nov 2023 18:18:46 +0000</lastBuildDate>
+		<item>
+			<title>Cyberaanval op Henry Schein leidt tot diefstal van 35TB aan data</title>
+			<link>https://www.security.nl/posting/817385/BlackCat%3A+35TB+aan+data+van+medische+groothandel+Henry+Schein+gestolen</link>
+			<description>Henry Schein | Groot- en detailhandel | 06-11-2023 | Henry Schein, een wereldwijde medische groothandel, is het slachtoffer geworden van een cyberaanval door de ransomwaregroep BlackCat, die 35 terabyte aan data heeft gestolen. De buitgemaakte data omvat onder meer salarisinformatie en gegevens gerelateerd aan aandeelhouders. Na de ontdekking van de aanval heeft Henry Schein uit voorzorg diverse systemen offline gehaald, wat leidde tot verstoringen in de bedrijfsvoering. BlackCat beweert onderhandelingen met Henry Schein te hebben gevoerd, die vastliepen, waarna ze de systemen opnieuw versleutelden. De exacte omvang van de schade en het aantal getroffen individuen is niet gespecificeerd. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/817385/BlackCat%3A+35TB+aan+data+van+medische+groothandel+Henry+Schein+gestolen?datalekt=3465930f20fc4d0b4ccb2911c0adcbe8</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Global-Tickets speelt cruciale rol in snel dichten van datalek bij Toverland</title>
 			<link>https://www.looopings.nl/weblog/23911/Hacker-ontdekt-datalekken-in-ticketshops-Efteling--Toverland-en-Slagharen.html</link>
@@ -798,14 +806,6 @@
 			<description>Shell | Elektriciteit, aardgas, stoom en gekoelde lucht | 15-06-2023 | Shell is getroffen door een wereldwijde ransomware-aanval uitgevoerd via een zerodaylek in de tool MOVEit Transfer. De Clop-ransomwaregroep, verantwoordelijk voor de aanval, heeft via hun website namen van slachtoffers gepubliceerd, waaronder Shell. Hoewel Shell het incident bevestigt, melden ze dat hun kernsystemen niet zijn geraakt. MOVEit Transfer, een bestandsuitwisselingsapplicatie, had een kwetsbaarheid waarmee de Clop-groep sinds 2021 servers kon infecteren en data kon stelen. Andere organisaties zoals BBC, Boots, British Airways, Ofcom en Transport for London hebben ook melding gemaakt van datalekken door deze aanval. Landal GreenParks waarschuwde 12.000 gasten voor een mogelijk datalek. (Bron: security.nl)</description>
 			<guid isPermaLink="false">https://www.security.nl/posting/799858/Shell+bevestigt+ransomware-aanval+via+zerodaylek+in+MOVEit+Transfer?datalekt=6a3e69c6ab619e6560537ba84f50e5d4</guid>
 			<category>Elektriciteit, aardgas, stoom en gekoelde lucht </category>
-			<pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Confido getroffen door ransomware aanval van de criminele organisatie STORMOUS</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Confido | Informatie en communicatie | 16-07-2023 | De criminele organisatie STORMOUS heeft op het darkweb aangekondigd dat zij Confido heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f268b5fc1311b8c8a6cd8f9404824ed1</guid>
-			<category>Informatie en communicatie </category>
 			<pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
