@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes?datalekt=3f217d4b2219769973570b5a12ecbafa",
+        "url": "https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes",
+        "title": "Tunstall&#039;s alarmknoppensysteem getroffen door cyberaanval, impact op Treant Zorggroep",
+        "date_published": "2023-11-14T09:27:00Z",
+        "date_modified": "2023-11-14T09:27:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvdrenthe.nl"
+        },
+        "content_html": "",
+        "content_text": "Tunstall | Informatie en communicatie | 13-11-2023 | Tunstall, de leverancier van het alarmknoppensysteem, is recent het slachtoffer geworden van een cyberaanval. Deze aanval heeft geleid tot een landelijke storing in het systeem, waardoor gebruikers, waaronder cli\u00ebnten van Treant Zorggroep, hun alarmknop niet effectief kunnen gebruiken. Dit heeft ernstige gevolgen voor de veiligheid van voornamelijk ouderen en ernstig zieken die afhankelijk zijn van deze personenalarmering. Het aantal getroffen gebruikers is momenteel onbekend. Tunstall is actief bezig met herstelwerkzaamheden, maar een exacte tijdlijn voor de oplossing van het probleem is nog niet beschikbaar. De storing heeft een directe impact op de dienstverlening van Treant Zorggroep, die extra maatregelen neemt om de veiligheid van hun cli\u00ebnten te waarborgen. (Bron: rtvdrenthe.nl)"
+    },
+    {
+        "id": "https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes?datalekt=82860d0780b349cfc6ec726bbe63dce6",
+        "url": "https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes",
+        "title": "Cyberaanval treft alarmknoppensysteem van Treant Zorggroep",
+        "date_published": "2023-11-14T09:26:00Z",
+        "date_modified": "2023-11-14T09:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvdrenthe.nl"
+        },
+        "content_html": "",
+        "content_text": "Treant Zorggroep | Gezondheids- en welzijnszorg | 13-11-2023 | Treant Zorggroep ondervindt ernstige problemen met hun alarmknoppensysteem als gevolg van een cyberaanval op het systeem van leverancier Tunstall. Dit incident heeft vooral impact op ouderen en ernstig zieken die afhankelijk zijn van personenalarmering. Door de aanval komen meldingen niet binnen bij de meldkamer, waardoor de veiligheid van cli\u00ebnten in gevaar komt. Het exacte aantal getroffen personen is onbekend, maar het probleem speelt in meerdere locaties van Treant in Drenthe. Als tijdelijke oplossing loopt het zorgpersoneel extra rondes om de veiligheid te waarborgen. Er is nog geen duidelijkheid over wanneer het systeem weer volledig operationeel zal zijn. (Bron: rtvdrenthe.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/817385/BlackCat%3A+35TB+aan+data+van+medische+groothandel+Henry+Schein+gestolen?datalekt=3465930f20fc4d0b4ccb2911c0adcbe8",
         "url": "https://www.security.nl/posting/817385/BlackCat%3A+35TB+aan+data+van+medische+groothandel+Henry+Schein+gestolen",
         "title": "Cyberaanval op Henry Schein leidt tot diefstal van 35TB aan data",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "GLS Netherlands | Verhuur van roerende goederen en overige zakelijke dienstverlening | 18-07-2023 | Verschillende klanten van pakketbezorgdienst GLS hebben tientallen tot duizenden e-mails ontvangen met informatie over pakketten van anderen, inclusief klantengegevens en opties voor het wijzigen of weigeren van bezorgingen. Het exacte aantal getroffen personen is onbekend. GLS heeft bevestigd dat sommige gebruikers deze e-mails onbedoeld ontvangen, maar beweert dat ze geen &#039;hypergevoelige&#039; data bevatten. De oorzaak is nog niet officieel vastgesteld, maar GLS vermoedt dat de fout is ontstaan door de gebruikte e-mailprovider. Alle e-mailverkeer van GLS is tijdelijk stopgezet. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/uwv-schond-op-grote-schaal-privacywetgeving/?datalekt=8780a15b949d76230db716e75637e236",
-        "url": "https://www.vpngids.nl/nieuws/uwv-schond-op-grote-schaal-privacywetgeving/",
-        "title": "UWV overtrad privacywetgeving door illegale dataverzameling",
-        "date_published": "2023-07-16T14:22:00Z",
-        "date_modified": "2023-07-16T14:22:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 15-07-2023 | Het Uitvoeringsinstituut Werknemersverzekeringen (UWV) heeft jarenlang op onrechtmatige wijze gegevens van uitkeringsgerechtigden verzameld, waaronder IP-adressen, en heeft zonder toestemming cookies geplaatst om deze personen heimelijk te volgen. Het doel was om te controleren of mensen met een WW-uitkering in het buitenland verbleven. Deze praktijken werden toegepast in het fraude-algoritme &#039;Risicoscan Verblijf Buitenland&#039;, wat resulteerde in 3.600 onderzoeken en 460 aanpassingen van uitkeringen. Na twijfels over de juridische basis werd het systeem begin dit jaar stopgezet. De Autoriteit Persoonsgegevens heeft kritiek geuit op de werkwijze van het UWV en overweegt een boete die kan oplopen tot 20 miljoen euro. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/799858/Shell+bevestigt+ransomware-aanval+via+zerodaylek+in+MOVEit+Transfer?datalekt=6a3e69c6ab619e6560537ba84f50e5d4",
-        "url": "https://www.security.nl/posting/799858/Shell+bevestigt+ransomware-aanval+via+zerodaylek+in+MOVEit+Transfer",
-        "title": "Ransomware-aanval op Shell via zerodaylek in MOVEit Transfer",
-        "date_published": "2023-07-16T14:13:00Z",
-        "date_modified": "2023-07-16T14:13:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Shell | Elektriciteit, aardgas, stoom en gekoelde lucht | 15-06-2023 | Shell is getroffen door een wereldwijde ransomware-aanval uitgevoerd via een zerodaylek in de tool MOVEit Transfer. De Clop-ransomwaregroep, verantwoordelijk voor de aanval, heeft via hun website namen van slachtoffers gepubliceerd, waaronder Shell. Hoewel Shell het incident bevestigt, melden ze dat hun kernsystemen niet zijn geraakt. MOVEit Transfer, een bestandsuitwisselingsapplicatie, had een kwetsbaarheid waarmee de Clop-groep sinds 2021 servers kon infecteren en data kon stelen. Andere organisaties zoals BBC, Boots, British Airways, Ofcom en Transport for London hebben ook melding gemaakt van datalekken door deze aanval. Landal GreenParks waarschuwde 12.000 gasten voor een mogelijk datalek. (Bron: security.nl)"
     }
 ]
