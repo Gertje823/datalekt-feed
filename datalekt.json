@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b3b335cceb13a3f0f5124cb10f38bf2b",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Nomot getroffen door ransomware aanval van de criminele organisatie PLAY",
+        "date_published": "2023-11-15T12:26:00Z",
+        "date_modified": "2023-11-15T12:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Nomot | Bouwnijverheid | 14-11-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Nomot heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ba21b4a4d0090c864e930d2a88c60f19",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Bos Logistics getroffen door ransomware aanval van de criminele organisatie Black Basta",
+        "date_published": "2023-11-15T12:25:00Z",
+        "date_modified": "2023-11-15T12:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Bos Logistics | Vervoer en opslag | 10-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Bos Logistics heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes?datalekt=3f217d4b2219769973570b5a12ecbafa",
         "url": "https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes",
         "title": "Tunstall&#039;s alarmknoppensysteem getroffen door cyberaanval, impact op Treant Zorggroep",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Tomra Systems | Groot- en detailhandel | 19-07-2023 | Na een cyberaanval op Tomra, een bedrijf dat statiegeldautomaten levert, zijn 5% van alle Nederlandse Tomra-statiegeldautomaten binnen enkele dagen buiten gebruik geraakt. Dit betekent dat honderden statiegeldautomaten niet langer functioneren. Als gevolg van de aanval heeft Tomra besloten de servers offline te halen en werkt momenteel aan een oplossing. De financi\u00eble impact van deze uitval is aanzienlijk, gezien de grote geldstromen die gemoeid zijn met de dagelijkse inname van flessen. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.ad.nl/rotterdam/privacywaakhond-leest-rotterdam-de-les-over-manier-waarop-gemeente-fraude-opspoort-grote-zorgen~a0bf1ca2/?datalekt=293bcf51d4e6cb24ee3b7d95113f3f71",
-        "url": "https://www.ad.nl/rotterdam/privacywaakhond-leest-rotterdam-de-les-over-manier-waarop-gemeente-fraude-opspoort-grote-zorgen~a0bf1ca2/",
-        "title": "Autoriteit Persoonsgegevens bekritiseert Rotterdamse opsporingsmethode bijstandsfraude",
-        "date_published": "2023-07-19T09:48:00Z",
-        "date_modified": "2023-07-19T09:48:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Rotterdam | Overheid: Gemeenten | 18-07-2023 | De gemeente Rotterdam is bekritiseerd door de Autoriteit Persoonsgegevens vanwege het gebruik van algoritmes om bijstandsfraude op te sporen. Deze methoden richten zich voornamelijk op jonge moeders en mensen die de Nederlandse taal niet goed beheersen, waarbij kenmerken zoals taal, psychische problemen, geslacht en buurt worden meegenomen zonder directe aanwijzingen van fraude. Dit kan leiden tot discriminatie en schending van privacywetten. De gemeente heeft besloten te stoppen met deze methode na eerdere kritiek van de Rekenkamer en de rechter. Het systeem heeft duizenden mensen gescreend, maar het is onduidelijk hoeveel daarvan onterecht als verdacht zijn gemarkeerd. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/211856/gls-bevestigt-dat-klanten-e-mails-met-andermans-pakketinfo-krijgen.html?datalekt=c78cf17b0ba25195493ec0e6439a424a",
-        "url": "https://tweakers.net/nieuws/211856/gls-bevestigt-dat-klanten-e-mails-met-andermans-pakketinfo-krijgen.html",
-        "title": "GLS klanten ontvangen onbedoeld e-mails met pakketinfo van anderen door mogelijke e-mailprovider fout",
-        "date_published": "2023-07-19T09:46:00Z",
-        "date_modified": "2023-07-19T09:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "GLS Netherlands | Verhuur van roerende goederen en overige zakelijke dienstverlening | 18-07-2023 | Verschillende klanten van pakketbezorgdienst GLS hebben tientallen tot duizenden e-mails ontvangen met informatie over pakketten van anderen, inclusief klantengegevens en opties voor het wijzigen of weigeren van bezorgingen. Het exacte aantal getroffen personen is onbekend. GLS heeft bevestigd dat sommige gebruikers deze e-mails onbedoeld ontvangen, maar beweert dat ze geen &#039;hypergevoelige&#039; data bevatten. De oorzaak is nog niet officieel vastgesteld, maar GLS vermoedt dat de fout is ontstaan door de gebruikte e-mailprovider. Alle e-mailverkeer van GLS is tijdelijk stopgezet. (Bron: tweakers.net)"
     }
 ]

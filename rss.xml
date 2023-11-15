@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 14 Nov 2023 12:28:30 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 15 Nov 2023 12:29:18 +0000</lastBuildDate>
+		<item>
+			<title>Nomot getroffen door ransomware aanval van de criminele organisatie PLAY</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Nomot | Bouwnijverheid | 14-11-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Nomot heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b3b335cceb13a3f0f5124cb10f38bf2b</guid>
+			<category>Bouwnijverheid </category>
+			<pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bos Logistics getroffen door ransomware aanval van de criminele organisatie Black Basta</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Bos Logistics | Vervoer en opslag | 10-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Bos Logistics heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ba21b4a4d0090c864e930d2a88c60f19</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Tunstall&amp;#039;s alarmknoppensysteem getroffen door cyberaanval, impact op Treant Zorggroep</title>
 			<link>https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes</link>
@@ -791,22 +807,6 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/211896/tomra-5-procent-van-statiegeldautomaten-is-binnen-enkele-dagen-buiten-gebruik.html?datalekt=cd2772356bf69e234a7cd67bebf89feb</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Autoriteit Persoonsgegevens bekritiseert Rotterdamse opsporingsmethode bijstandsfraude</title>
-			<link>https://www.ad.nl/rotterdam/privacywaakhond-leest-rotterdam-de-les-over-manier-waarop-gemeente-fraude-opspoort-grote-zorgen~a0bf1ca2/</link>
-			<description>Gemeente Rotterdam | Overheid: Gemeenten | 18-07-2023 | De gemeente Rotterdam is bekritiseerd door de Autoriteit Persoonsgegevens vanwege het gebruik van algoritmes om bijstandsfraude op te sporen. Deze methoden richten zich voornamelijk op jonge moeders en mensen die de Nederlandse taal niet goed beheersen, waarbij kenmerken zoals taal, psychische problemen, geslacht en buurt worden meegenomen zonder directe aanwijzingen van fraude. Dit kan leiden tot discriminatie en schending van privacywetten. De gemeente heeft besloten te stoppen met deze methode na eerdere kritiek van de Rekenkamer en de rechter. Het systeem heeft duizenden mensen gescreend, maar het is onduidelijk hoeveel daarvan onterecht als verdacht zijn gemarkeerd. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/rotterdam/privacywaakhond-leest-rotterdam-de-les-over-manier-waarop-gemeente-fraude-opspoort-grote-zorgen~a0bf1ca2/?datalekt=293bcf51d4e6cb24ee3b7d95113f3f71</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>GLS klanten ontvangen onbedoeld e-mails met pakketinfo van anderen door mogelijke e-mailprovider fout</title>
-			<link>https://tweakers.net/nieuws/211856/gls-bevestigt-dat-klanten-e-mails-met-andermans-pakketinfo-krijgen.html</link>
-			<description>GLS Netherlands | Verhuur van roerende goederen en overige zakelijke dienstverlening | 18-07-2023 | Verschillende klanten van pakketbezorgdienst GLS hebben tientallen tot duizenden e-mails ontvangen met informatie over pakketten van anderen, inclusief klantengegevens en opties voor het wijzigen of weigeren van bezorgingen. Het exacte aantal getroffen personen is onbekend. GLS heeft bevestigd dat sommige gebruikers deze e-mails onbedoeld ontvangen, maar beweert dat ze geen &amp;#039;hypergevoelige&amp;#039; data bevatten. De oorzaak is nog niet officieel vastgesteld, maar GLS vermoedt dat de fout is ontstaan door de gebruikte e-mailprovider. Alle e-mailverkeer van GLS is tijdelijk stopgezet. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/211856/gls-bevestigt-dat-klanten-e-mails-met-andermans-pakketinfo-krijgen.html?datalekt=c78cf17b0ba25195493ec0e6439a424a</guid>
-			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
-			<pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
