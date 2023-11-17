@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.vpngids.nl/nieuws/uitgeverij-weet-cyberaanval-net-op-tijd-af-te-slaan/?datalekt=48a36cc40e1c5df90792fae04584a844",
+        "url": "https://www.vpngids.nl/nieuws/uitgeverij-weet-cyberaanval-net-op-tijd-af-te-slaan/",
+        "title": "Uitgeverij Em. de Jong voorkomt net op tijd ernstige cyberaanval",
+        "date_published": "2023-11-17T13:22:00Z",
+        "date_modified": "2023-11-17T13:22:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vpngids.nl"
+        },
+        "content_html": "",
+        "content_text": "Uitgeverij Em. de Jong | Informatie en communicatie | 16-11-2023 | Uitgeverij Em. de Jong heeft een cyberaanval tijdig ontdekt en afgeweerd, waardoor ernstige schade voorkomen werd. De aanval werd opgemerkt voordat malware het bedrijfsnetwerk kon infecteren of bestanden kon versleutelen, wat leidde tot het afsluiten van alle netwerken. Dit heeft geen directe impact op de distributie van hun weekbladen, maar zorgt wel voor operationele uitdagingen voor de werknemers. De duur van het herstel en de volledige impact van de aanval zijn nog onduidelijk. Er is geen informatie over eventuele datadiefstal of de identiteit van de aanvallers. De uitgeverij, bekend van zestien wekelijkse huis-aan-huisbladen en recente fusies voor innovatie in lokale media, werkt aan het herstel van hun systemen. (Bron: vpngids.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b3b335cceb13a3f0f5124cb10f38bf2b",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Nomot getroffen door ransomware aanval van de criminele organisatie PLAY",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Primoteq | Industrie | 24-07-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Primoteq heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/211896/tomra-5-procent-van-statiegeldautomaten-is-binnen-enkele-dagen-buiten-gebruik.html?datalekt=cd2772356bf69e234a7cd67bebf89feb",
-        "url": "https://tweakers.net/nieuws/211896/tomra-5-procent-van-statiegeldautomaten-is-binnen-enkele-dagen-buiten-gebruik.html",
-        "title": "Cyberaanval treft Tomra&#039;s statiegeldautomaten",
-        "date_published": "2023-07-22T21:40:00Z",
-        "date_modified": "2023-07-22T21:40:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Tomra Systems | Groot- en detailhandel | 19-07-2023 | Na een cyberaanval op Tomra, een bedrijf dat statiegeldautomaten levert, zijn 5% van alle Nederlandse Tomra-statiegeldautomaten binnen enkele dagen buiten gebruik geraakt. Dit betekent dat honderden statiegeldautomaten niet langer functioneren. Als gevolg van de aanval heeft Tomra besloten de servers offline te halen en werkt momenteel aan een oplossing. De financi\u00eble impact van deze uitval is aanzienlijk, gezien de grote geldstromen die gemoeid zijn met de dagelijkse inname van flessen. (Bron: tweakers.net)"
     }
 ]

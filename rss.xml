@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 15 Nov 2023 12:29:18 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 17 Nov 2023 18:19:28 +0000</lastBuildDate>
+		<item>
+			<title>Uitgeverij Em. de Jong voorkomt net op tijd ernstige cyberaanval</title>
+			<link>https://www.vpngids.nl/nieuws/uitgeverij-weet-cyberaanval-net-op-tijd-af-te-slaan/</link>
+			<description>Uitgeverij Em. de Jong | Informatie en communicatie | 16-11-2023 | Uitgeverij Em. de Jong heeft een cyberaanval tijdig ontdekt en afgeweerd, waardoor ernstige schade voorkomen werd. De aanval werd opgemerkt voordat malware het bedrijfsnetwerk kon infecteren of bestanden kon versleutelen, wat leidde tot het afsluiten van alle netwerken. Dit heeft geen directe impact op de distributie van hun weekbladen, maar zorgt wel voor operationele uitdagingen voor de werknemers. De duur van het herstel en de volledige impact van de aanval zijn nog onduidelijk. Er is geen informatie over eventuele datadiefstal of de identiteit van de aanvallers. De uitgeverij, bekend van zestien wekelijkse huis-aan-huisbladen en recente fusies voor innovatie in lokale media, werkt aan het herstel van hun systemen. (Bron: vpngids.nl)</description>
+			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/uitgeverij-weet-cyberaanval-net-op-tijd-af-te-slaan/?datalekt=48a36cc40e1c5df90792fae04584a844</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Nomot getroffen door ransomware aanval van de criminele organisatie PLAY</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=18ff142811e9caa141224eaa143e8527</guid>
 			<category>Industrie </category>
 			<pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval treft Tomra&amp;#039;s statiegeldautomaten</title>
-			<link>https://tweakers.net/nieuws/211896/tomra-5-procent-van-statiegeldautomaten-is-binnen-enkele-dagen-buiten-gebruik.html</link>
-			<description>Tomra Systems | Groot- en detailhandel | 19-07-2023 | Na een cyberaanval op Tomra, een bedrijf dat statiegeldautomaten levert, zijn 5% van alle Nederlandse Tomra-statiegeldautomaten binnen enkele dagen buiten gebruik geraakt. Dit betekent dat honderden statiegeldautomaten niet langer functioneren. Als gevolg van de aanval heeft Tomra besloten de servers offline te halen en werkt momenteel aan een oplossing. De financiële impact van deze uitval is aanzienlijk, gezien de grote geldstromen die gemoeid zijn met de dagelijkse inname van flessen. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/211896/tomra-5-procent-van-statiegeldautomaten-is-binnen-enkele-dagen-buiten-gebruik.html?datalekt=cd2772356bf69e234a7cd67bebf89feb</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
