@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 17 Nov 2023 18:19:28 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 18 Nov 2023 12:26:30 +0000</lastBuildDate>
+		<item>
+			<title>Privacyovertreding in Voorschoten door langdurige opslag van afvalgegevens</title>
+			<link>https://www.nu.nl/tech/6290179/gemeente-voorschoten-krijgt-boete-van-30000-euro-voor-bewaren-afvalgegevens.html</link>
+			<description>Gemeente Voorschoten | Overheid: Gemeenten | 17-11-2023 | De gemeente Voorschoten is beboet met 30.000 euro door de Autoriteit Persoonsgegevens (AP) wegens het te lang bewaren van afvalgegevens van huishoudens. Sinds 2018 en 2019 gebruikt Voorschoten chips in kliko&amp;#039;s en ondergrondse containers, gekoppeld aan huisadressen, om afvalinzameling te monitoren en te stimuleren. De AP stelde vast dat de gemeente deze gegevens vijf jaar bewaarde, aanzienlijk langer dan noodzakelijk voor het beoogde doel. Bovendien informeerde de gemeente inwoners onvoldoende over het gebruik van hun persoonsgegevens. De gemeente heeft de overtredingen inmiddels gecorrigeerd door de bewaartermijn te verkorten naar twee weken en inwoners te informeren. Voorschoten kan nog bezwaar maken tegen de boete. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/tech/6290179/gemeente-voorschoten-krijgt-boete-van-30000-euro-voor-bewaren-afvalgegevens.html?datalekt=27ba661e7fa382ef4a30b45cc4c3c530</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Uitgeverij Em. de Jong voorkomt net op tijd ernstige cyberaanval</title>
 			<link>https://www.vpngids.nl/nieuws/uitgeverij-weet-cyberaanval-net-op-tijd-af-te-slaan/</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=79034753a4cee53a6d18c80890d00fce</guid>
 			<category>Elektriciteit, aardgas, stoom en gekoelde lucht </category>
 			<pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Primoteq getroffen door ransomware aanval van de criminele organisatie PLAY</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Primoteq | Industrie | 24-07-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Primoteq heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=18ff142811e9caa141224eaa143e8527</guid>
-			<category>Industrie </category>
-			<pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
