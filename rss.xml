@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 18 Nov 2023 12:26:30 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 21 Nov 2023 12:30:00 +0000</lastBuildDate>
+		<item>
+			<title>Lokaal24&amp;#039;s websites getroffen door Russische DDoS-aanvallen</title>
+			<link>https://www.ad.nl/vlaardingen/russische-hacktivisten-slaan-opnieuw-toe-en-halen-lokale-nieuwssites-weer-uit-de-lucht~ac7b552e/</link>
+			<description>Lokaal24 | Informatie en communicatie | 21-08-2023 | De websites Vlaardingen24.nl, Schiedam24.nl en Maassluis24.nl, allen eigendom van de organisatie Lokaal24, zijn recentelijk het doelwit geworden van DDoS-aanvallen uitgevoerd door de Russische hacktivistengroep NoName057(16). Deze aanvallen, die een overbelasting van dataverkeer naar de websites veroorzaken, leiden tot volledige uitval. Eerder deze maand werden Vlaardingen24.nl en de gemeentelijke website van Vlaardingen op soortgelijke wijze aangevallen. De aanvallen hebben aanzienlijke gevolgen voor de burgers van Vlaardingen, die tijdelijk geen toegang hebben tot online burgerzaken. NoName057(16) richt zich op het verstoren van websites in landen die Oekraïne steunen in het conflict met Rusland. De specifieke reden voor het kiezen van de websites van Lokaal24 blijft onduidelijk. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/vlaardingen/russische-hacktivisten-slaan-opnieuw-toe-en-halen-lokale-nieuwssites-weer-uit-de-lucht~ac7b552e/?datalekt=d55d9c6733eba089692156ca880081da</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Privacyovertreding in Voorschoten door langdurige opslag van afvalgegevens</title>
 			<link>https://www.nu.nl/tech/6290179/gemeente-voorschoten-krijgt-boete-van-30000-euro-voor-bewaren-afvalgegevens.html</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=047eac8a2808b4fc74f74c93a3019ef3</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>SBM Offshore getroffen door ransomware aanval van de criminele organisatie CL0P</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>SBM Offshore | Elektriciteit, aardgas, stoom en gekoelde lucht | 26-07-2023 | De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij SBM Offshore heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=79034753a4cee53a6d18c80890d00fce</guid>
-			<category>Elektriciteit, aardgas, stoom en gekoelde lucht </category>
-			<pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
