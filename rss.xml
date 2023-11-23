@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 21 Nov 2023 12:30:00 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 23 Nov 2023 18:18:29 +0000</lastBuildDate>
+		<item>
+			<title>Blender getroffen door DDOS-aanval, diensten tijdelijk onbereikbaar</title>
+			<link>https://www.3dhype.com/index/nieuws/2959</link>
+			<description>Blender Foundation | Groot- en detailhandel | 20-11-2023 | Blender, een populaire software, werd onlangs het doelwit van een DDOS-aanval, wat resulteerde in de ontoegankelijkheid van hun diensten. Deze aanval verhinderde gebruikers om de site te bereiken, waardoor problemen ontstonden bij het downloaden en inloggen. Het Blender-team werkte actief aan het minimaliseren van de impact en het herstellen van de functionaliteit, maar kon geen geschatte tijd voor volledig herstel geven. DDOS-aanvallen overbelasten servers met een enorme hoeveelheid verkeer, waardoor legitieme gebruikers worden geblokkeerd. Gebruikers werden aangemoedigd om officiële kanalen te volgen voor updates. Er waren perioden waarin Blender.org weer bereikbaar leek, maar de aanval was nog steeds gaande, met enkele websites, waaronder de documentatie, die nog steeds onbereikbaar waren. (Bron: 3dhype.com)</description>
+			<guid isPermaLink="false">https://www.3dhype.com/index/nieuws/2959?datalekt=eaa4efe75971033c47bd5c0f35650e5f</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Aanhoudende cyberaanvallen op CIDI in Den Haag</title>
+			<link>https://voorburgsdagblad.nl/Den%20Haag%20&amp;amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen</link>
+			<description>Centrum Informatie en Documentatie Israël (CIDI) | Overige dienstverlening | 20-11-2023 | Het Centrum Informatie en Documentatie Israël (CIDI) in Den Haag is al enkele weken het doelwit van aanhoudende cyberaanvallen. Deze aanvallen begonnen na een terreuraanval van Hamas op 7 oktober. De aanvallen bestaan voornamelijk uit DDoS-aanvallen, waarbij de website van CIDI overbelast raakt door gelijktijdige toegang vanuit vele computers, waardoor de site onbereikbaar wordt. Er is geen duidelijkheid over wie achter deze aanvallen zit. Het CIDI heeft maatregelen genomen om hun digitale beveiliging te versterken en hun website operationeel te houden. Tot nu toe is het niet gelukt om gevoelige informatie, zoals persoonsgegevens van medewerkers, te bemachtigen. (Bron: voorburgsdagblad.nl)</description>
+			<guid isPermaLink="false">https://voorburgsdagblad.nl/Den%20Haag%20&amp;amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen?datalekt=764787c577f23d8d93da33fe0c2d3d4d</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Lokaal24&amp;#039;s websites getroffen door Russische DDoS-aanvallen</title>
 			<link>https://www.ad.nl/vlaardingen/russische-hacktivisten-slaan-opnieuw-toe-en-halen-lokale-nieuwssites-weer-uit-de-lucht~ac7b552e/</link>
@@ -791,22 +807,6 @@
 			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/hogeschool-saxion-meldt-datalek-bij-ap-na-e-mailbom/?datalekt=16591ca718a5cd40de1476a327f659a4</guid>
 			<category>Onderwijs </category>
 			<pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>SoftTech Automatisering getroffen door ransomware aanval van de criminele organisatie CL0P</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>SoftTech Automatisering | Informatie en communicatie | 27-07-2023 | De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij SoftTech Automatisering heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=697b9429d04c21d03661164a11c05fb5</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DataEngine getroffen door ransomware aanval van de criminele organisatie CL0P</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>DataEngine | Informatie en communicatie | 27-07-2023 | De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij DataEngine heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=047eac8a2808b4fc74f74c93a3019ef3</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
