@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://nos.nl/artikel/2499102-chinese-hackersgroep-had-2-5-jaar-toegang-tot-netwerk-van-chipfabrikant-nxp?datalekt=e6cd26a9e6d829fb86ca07263c81e17c",
+        "url": "https://nos.nl/artikel/2499102-chinese-hackersgroep-had-2-5-jaar-toegang-tot-netwerk-van-chipfabrikant-nxp",
+        "title": "Langdurige Infiltratie van NXP Netwerk door Chinese Hackersgroep &#039;Chimera&#039;",
+        "date_published": "2023-11-26T12:14:00Z",
+        "date_modified": "2023-11-26T12:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "NXP Semiconductors | Industrie | 24-11-2023 | Tussen eind 2017 en het voorjaar van 2020 had de Chinese hackersgroep &#039;Chimera&#039; onopgemerkt toegang tot het netwerk van de Nederlandse chipfabrikant NXP. Ze verkregen deze toegang door gebruikersnamen uit eerdere datalekken bij LinkedIn en Facebook te combineren met brute kracht aanvallen op wachtwoorden. Eenmaal binnen breidden ze hun toegangsrechten uit om gevoelige data, zoals chipontwerpen, te stelen. Deze bestanden werden via clouddiensten zoals OneDrive en Google Drive verkregen. Ondanks de diefstal van intellectueel eigendom, meldt NXP geen materi\u00eble schade te hebben geleden en heeft het zijn beveiliging verbeterd na deze ervaring. (Bron: nos.nl)"
+    },
+    {
         "id": "https://www.3dhype.com/index/nieuws/2959?datalekt=eaa4efe75971033c47bd5c0f35650e5f",
         "url": "https://www.3dhype.com/index/nieuws/2959",
         "title": "Blender getroffen door DDOS-aanval, diensten tijdelijk onbereikbaar",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Datalek in gemeente Emmen door foutieve postverwerking | Overheid: Gemeenten | 31-07-2023 | Door een machinale fout bij de postverwerking in de gemeenten Emmen, Borger-Odoorn en Coevorden is een datalek ontstaan. Uitkeringsgerechtigden kregen onbedoeld de brief van een ander in handen, waardoor privacygevoelige details zoals namen, adresgegevens en redenen voor uitkering bij verkeerde ontvangers belandden. In totaal zijn 273 brieven incorrect bezorgd, waarvan 33 in Borger-Odoorn. Na het ontdekken van de fout nam de gemeente Emmen direct maatregelen, zoals het vervangen van de machine en het opnieuw versturen van de juiste brieven. Het voorval is gerapporteerd aan de Autoriteit Persoonsgegevens. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/hogeschool-saxion-meldt-datalek-bij-ap-na-e-mailbom/?datalekt=16591ca718a5cd40de1476a327f659a4",
-        "url": "https://www.vpngids.nl/nieuws/hogeschool-saxion-meldt-datalek-bij-ap-na-e-mailbom/",
-        "title": "Hogeschool Saxion geconfronteerd met datalek door e-mailbom van studenten",
-        "date_published": "2023-07-29T10:15:00Z",
-        "date_modified": "2023-07-29T10:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Hogeschool Saxion | Onderwijs | 26-07-2023 | Twee studenten van de Hogeschool Saxion hebben een e-mailbom verstuurd naar 13.577 Saxion-mailadressen via het offici\u00eble e-mailadres van de onderwijsinstelling. De e-mail, met de onderwerpregel &#039;Let This Summer Change Your Life&#039;, nodigde studenten uit om hun &#039;dromen waar te maken&#039;. Omdat de e-mailadressen te herleiden zijn naar individuele studenten, is er een datalek gemeld bij de Autoriteit Persoonsgegevens. De hogeschool heeft direct actie ondernomen om verdere verspreiding van de e-mail te voorkomen. De betrokken studenten hebben mogelijk disciplinaire maatregelen te wachten na de zomervakantie. (Bron: vpngids.nl)"
     }
 ]

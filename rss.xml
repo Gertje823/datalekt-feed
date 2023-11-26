@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 23 Nov 2023 18:18:29 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 26 Nov 2023 12:26:26 +0000</lastBuildDate>
+		<item>
+			<title>Langdurige Infiltratie van NXP Netwerk door Chinese Hackersgroep &amp;#039;Chimera&amp;#039;</title>
+			<link>https://nos.nl/artikel/2499102-chinese-hackersgroep-had-2-5-jaar-toegang-tot-netwerk-van-chipfabrikant-nxp</link>
+			<description>NXP Semiconductors | Industrie | 24-11-2023 | Tussen eind 2017 en het voorjaar van 2020 had de Chinese hackersgroep &amp;#039;Chimera&amp;#039; onopgemerkt toegang tot het netwerk van de Nederlandse chipfabrikant NXP. Ze verkregen deze toegang door gebruikersnamen uit eerdere datalekken bij LinkedIn en Facebook te combineren met brute kracht aanvallen op wachtwoorden. Eenmaal binnen breidden ze hun toegangsrechten uit om gevoelige data, zoals chipontwerpen, te stelen. Deze bestanden werden via clouddiensten zoals OneDrive en Google Drive verkregen. Ondanks de diefstal van intellectueel eigendom, meldt NXP geen materiële schade te hebben geleden en heeft het zijn beveiliging verbeterd na deze ervaring. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2499102-chinese-hackersgroep-had-2-5-jaar-toegang-tot-netwerk-van-chipfabrikant-nxp?datalekt=e6cd26a9e6d829fb86ca07263c81e17c</guid>
+			<category>Industrie </category>
+			<pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Blender getroffen door DDOS-aanval, diensten tijdelijk onbereikbaar</title>
 			<link>https://www.3dhype.com/index/nieuws/2959</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/uitkeringsgerechtigden-in-emmen-ontvangen-verkeerde-brief/?datalekt=c11d1b8e989c9105cd723733b8598232</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hogeschool Saxion geconfronteerd met datalek door e-mailbom van studenten</title>
-			<link>https://www.vpngids.nl/nieuws/hogeschool-saxion-meldt-datalek-bij-ap-na-e-mailbom/</link>
-			<description>Hogeschool Saxion | Onderwijs | 26-07-2023 | Twee studenten van de Hogeschool Saxion hebben een e-mailbom verstuurd naar 13.577 Saxion-mailadressen via het officiële e-mailadres van de onderwijsinstelling. De e-mail, met de onderwerpregel &amp;#039;Let This Summer Change Your Life&amp;#039;, nodigde studenten uit om hun &amp;#039;dromen waar te maken&amp;#039;. Omdat de e-mailadressen te herleiden zijn naar individuele studenten, is er een datalek gemeld bij de Autoriteit Persoonsgegevens. De hogeschool heeft direct actie ondernomen om verdere verspreiding van de e-mail te voorkomen. De betrokken studenten hebben mogelijk disciplinaire maatregelen te wachten na de zomervakantie. (Bron: vpngids.nl)</description>
-			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/hogeschool-saxion-meldt-datalek-bij-ap-na-e-mailbom/?datalekt=16591ca718a5cd40de1476a327f659a4</guid>
-			<category>Onderwijs </category>
-			<pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
