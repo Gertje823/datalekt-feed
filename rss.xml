@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 26 Nov 2023 12:26:26 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 28 Nov 2023 18:19:13 +0000</lastBuildDate>
+		<item>
+			<title>Intratuin Duiven&amp;#039;s controversiële gebruik van foto&amp;#039;s van winkeldieven</title>
+			<link>https://www.gld.nl/nieuws/8047337/jouw-foto-op-het-dievenbord-van-intratuin-mag-dat-zomaar</link>
+			<description>Intratuin Duiven | Groot- en detailhandel | 25-11-2023 | Intratuin Duiven heeft een bord met foto&amp;#039;s van vermeende winkeldieven bij hun uitgang geplaatst, een reactie op de hoge incidentie van winkeldiefstallen in Nederland. Hoewel het plaatsen van deze foto&amp;#039;s niet direct strafbaar is, kan het leiden tot beschuldigingen van smaad of belediging. Deze actie is in strijd met de Algemene Verordening Gegevensbescherming (AVG) en het portretrecht, wat een inbreuk op privacy betekent. Advocaten adviseren tegen het openbaar maken van dergelijke foto&amp;#039;s, aangezien dit kan leiden tot juridische acties tegen de winkelier, waaronder aangiften voor smaad en laster, en mogelijk boetes van de Autoriteit Persoonsgegevens. Er zijn gevallen waarin onschuldige personen, zoals een dementerende vrouw, onterecht als winkeldief zijn afgebeeld, wat leidt tot reputatieschade. Ondernemers hebben een databank opgezet in samenwerking met de Autoriteit Persoonsgegevens om foto&amp;#039;s van winkeldieven te delen, waarbij de privacy van de betrokkenen wordt beschermd. (Bron: gld.nl)</description>
+			<guid isPermaLink="false">https://www.gld.nl/nieuws/8047337/jouw-foto-op-het-dievenbord-van-intratuin-mag-dat-zomaar?datalekt=59de57e0f469f27e7ba7173bef9b5b85</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Langdurige Infiltratie van NXP Netwerk door Chinese Hackersgroep &amp;#039;Chimera&amp;#039;</title>
 			<link>https://nos.nl/artikel/2499102-chinese-hackersgroep-had-2-5-jaar-toegang-tot-netwerk-van-chipfabrikant-nxp</link>
@@ -797,14 +805,6 @@
 			<link>https://www.vpngids.nl/nieuws/uitkeringsgerechtigden-in-emmen-ontvangen-verkeerde-brief/</link>
 			<description>Gemeente Borger-Odoorn | Overheid: Gemeenten | 31-07-2023 | Door een machinale fout bij de postverwerking in de gemeenten Emmen, Borger-Odoorn en Coevorden is een datalek ontstaan. Uitkeringsgerechtigden kregen onbedoeld de brief van een ander in handen, waardoor privacygevoelige details zoals namen, adresgegevens en redenen voor uitkering bij verkeerde ontvangers belandden. In totaal zijn 273 brieven incorrect bezorgd, waarvan 33 in Borger-Odoorn. Na het ontdekken van de fout nam de gemeente Emmen direct maatregelen, zoals het vervangen van de machine en het opnieuw versturen van de juiste brieven. Het voorval is gerapporteerd aan de Autoriteit Persoonsgegevens. (Bron: vpngids.nl)</description>
 			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/uitkeringsgerechtigden-in-emmen-ontvangen-verkeerde-brief/?datalekt=f9a22b616f1658e16c39c0e7327ae16c</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek in gemeente Emmen door foutieve postverwerking</title>
-			<link>https://www.vpngids.nl/nieuws/uitkeringsgerechtigden-in-emmen-ontvangen-verkeerde-brief/</link>
-			<description>Datalek in gemeente Emmen door foutieve postverwerking | Overheid: Gemeenten | 31-07-2023 | Door een machinale fout bij de postverwerking in de gemeenten Emmen, Borger-Odoorn en Coevorden is een datalek ontstaan. Uitkeringsgerechtigden kregen onbedoeld de brief van een ander in handen, waardoor privacygevoelige details zoals namen, adresgegevens en redenen voor uitkering bij verkeerde ontvangers belandden. In totaal zijn 273 brieven incorrect bezorgd, waarvan 33 in Borger-Odoorn. Na het ontdekken van de fout nam de gemeente Emmen direct maatregelen, zoals het vervangen van de machine en het opnieuw versturen van de juiste brieven. Het voorval is gerapporteerd aan de Autoriteit Persoonsgegevens. (Bron: vpngids.nl)</description>
-			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/uitkeringsgerechtigden-in-emmen-ontvangen-verkeerde-brief/?datalekt=c11d1b8e989c9105cd723733b8598232</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
