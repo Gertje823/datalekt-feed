@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=85a70b16c8f0175ce390654442fb2b7b",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Byfod getroffen door ransomware aanval van de criminele organisatie PLAY",
+        "date_published": "2023-11-29T16:44:00Z",
+        "date_modified": "2023-11-29T16:44:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Byfod | Groot- en detailhandel | 28-11-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Byfod heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.gld.nl/nieuws/8047337/jouw-foto-op-het-dievenbord-van-intratuin-mag-dat-zomaar?datalekt=59de57e0f469f27e7ba7173bef9b5b85",
         "url": "https://www.gld.nl/nieuws/8047337/jouw-foto-op-het-dievenbord-van-intratuin-mag-dat-zomaar",
         "title": "Intratuin Duiven&#039;s controversi\u00eble gebruik van foto&#039;s van winkeldieven",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Coevorden | Overheid: Gemeenten | 31-07-2023 | Door een machinale fout bij de postverwerking in de gemeenten Emmen, Borger-Odoorn en Coevorden is een datalek ontstaan. Uitkeringsgerechtigden kregen onbedoeld de brief van een ander in handen, waardoor privacygevoelige details zoals namen, adresgegevens en redenen voor uitkering bij verkeerde ontvangers belandden. In totaal zijn 273 brieven incorrect bezorgd, waarvan 33 in Borger-Odoorn. Na het ontdekken van de fout nam de gemeente Emmen direct maatregelen, zoals het vervangen van de machine en het opnieuw versturen van de juiste brieven. Het voorval is gerapporteerd aan de Autoriteit Persoonsgegevens. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/uitkeringsgerechtigden-in-emmen-ontvangen-verkeerde-brief/?datalekt=f9a22b616f1658e16c39c0e7327ae16c",
-        "url": "https://www.vpngids.nl/nieuws/uitkeringsgerechtigden-in-emmen-ontvangen-verkeerde-brief/",
-        "title": "Datalek in gemeente Borger-Odoorn door foutieve postverwerking",
-        "date_published": "2023-08-02T09:13:00Z",
-        "date_modified": "2023-08-02T09:13:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Borger-Odoorn | Overheid: Gemeenten | 31-07-2023 | Door een machinale fout bij de postverwerking in de gemeenten Emmen, Borger-Odoorn en Coevorden is een datalek ontstaan. Uitkeringsgerechtigden kregen onbedoeld de brief van een ander in handen, waardoor privacygevoelige details zoals namen, adresgegevens en redenen voor uitkering bij verkeerde ontvangers belandden. In totaal zijn 273 brieven incorrect bezorgd, waarvan 33 in Borger-Odoorn. Na het ontdekken van de fout nam de gemeente Emmen direct maatregelen, zoals het vervangen van de machine en het opnieuw versturen van de juiste brieven. Het voorval is gerapporteerd aan de Autoriteit Persoonsgegevens. (Bron: vpngids.nl)"
     }
 ]
