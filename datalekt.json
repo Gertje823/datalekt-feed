@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.ed.nl/eindhoven/eindhoven-informeert-slachtoffer-datalek-niet-of-onvolledig~ac34cf7e/?datalekt=d697506cb5f8c474ed22cf862e784eae",
+        "url": "https://www.ed.nl/eindhoven/eindhoven-informeert-slachtoffer-datalek-niet-of-onvolledig~ac34cf7e/",
+        "title": "Onvolledige informatieverstrekking bij datalekken in Eindhoven",
+        "date_published": "2023-11-30T13:33:00Z",
+        "date_modified": "2023-11-30T13:33:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ed.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 28-11-2023 | In Eindhoven worden inwoners die slachtoffer zijn van ernstige datalekken bij de gemeente vaak onvolledig, onduidelijk of zelfs helemaal niet ge\u00efnformeerd. Uit een intern onderzoek blijkt dat van de 241 geregistreerde datalekken in het afgelopen jaar, 70 onderzocht werden. Negentien hiervan waren zo ernstig dat ze gemeld werden aan de Autoriteit Persoonsgegevens, met risico&#039;s zoals identiteitsdiefstal en financi\u00eble schade. In acht gevallen werden slachtoffers niet ge\u00efnformeerd en in elf gevallen was de informatie onvolledig of tegenstrijdig. Het datalekkenregister van de gemeente bevat onnauwkeurigheden en registraties worden soms te laat of onvolledig bijgehouden. Dit heeft geleid tot verscherpt toezicht door de Autoriteit Persoonsgegevens en de noodzaak voor een verbeterplan. (Bron: ed.nl)"
+    },
+    {
+        "id": "https://www.automotive-online.nl/management/2023/11/28/smidts-autogroep-slachtoffer-van-een-cyberaanval/?datalekt=5a8e43b8729b41265b47ab9c9e786604",
+        "url": "https://www.automotive-online.nl/management/2023/11/28/smidts-autogroep-slachtoffer-van-een-cyberaanval/",
+        "title": "Cyberaanval treft Smidts Autogroep met mogelijke klantgegevensinbreuk",
+        "date_published": "2023-11-30T13:27:00Z",
+        "date_modified": "2023-11-30T13:27:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "automotive-online.nl"
+        },
+        "content_html": "",
+        "content_text": "Smidts Autogroep | Groot- en detailhandel | 28-11-2023 | Smidts Autogroep, een Forddealer, werd eind oktober getroffen door een cyberaanval. De directeur, Menno Smidts, uitte zijn bezorgdheid dat kwaadwillende cybercriminelen het familiebedrijf proberen te schaden. Er is een risico dat klantgegevens zijn ingezien of gekopieerd. Na de aanval nam het bedrijf onmiddellijk maatregelen om de impact te beperken. Klanten en oud-klanten zijn gewaarschuwd voor mogelijke phishing-pogingen via e-mail en telefoon. De aanval is gemeld bij de Autoriteit Persoonsgegevens. Smidts Autogroep heeft meerdere dealerschappen in Nederland en is een gevestigd familiebedrijf sinds 1867. (Bron: automotive-online.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=85a70b16c8f0175ce390654442fb2b7b",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Byfod getroffen door ransomware aanval van de criminele organisatie PLAY",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Maastricht Aachen Airport | Vervoer en opslag | 07-08-2023 | De websites van Maastricht Aachen Airport en OV-NL, de vereniging van openbaarvervoerbedrijven, waren tijdelijk onbereikbaar door een mogelijke ddos-aanval. Een pro-Russische hackersgroep genaamd NoName05716 heeft de verantwoordelijkheid voor de aanvallen opge\u00ebist als vergelding voor het Nederlandse besluit om marineschepen aan Oekra\u00efne te leveren. Deze groep heeft eerder ook aanvallen uitgevoerd op bondgenoten van Oekra\u00efne, zoals de Rechtspraak, de Eerste Kamer en diverse Nederlandse havens. Ondanks de aanvallen konden de dagelijkse activiteiten op het vliegveld en het openbaar vervoer doorgaan zonder operationele gevolgen. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/personeelgegevens-rijnwaal-zorggroep-op-straat-na-datalek/?datalekt=0395237cc0da9b3edf74d84ef192e851",
-        "url": "https://www.vpngids.nl/nieuws/personeelgegevens-rijnwaal-zorggroep-op-straat-na-datalek/",
-        "title": "Datalek bij RijnWaal Zorggroep door oud-werknemer",
-        "date_published": "2023-08-09T23:35:00Z",
-        "date_modified": "2023-08-09T23:35:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "RijnWaal Zorggroep | Gezondheids- en welzijnszorg | 07-08-2023 | Een voormalige medewerker van RijnWaal Zorggroep heeft een grote hoeveelheid persoonsgegevens van medewerkers doorgestuurd naar zijn priv\u00e9 e-mailadres. Deze gegevens omvatten onder andere persoonsgegevens, woonadressen en salarisinformatie. Het doorsturen van deze informatie naar een priv\u00e9 e-mailadres is onrechtmatig, aangezien de gegevens buiten de beveiligde omgeving van de zorginstelling komen. Een deel van de 650 medewerkers is getroffen door dit lek. Het is onduidelijk of de oud-werknemer de buitgemaakte gegevens heeft verwijderd. De zorggroep heeft het incident gemeld bij de Autoriteit Persoonsgegevens. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/uitkeringsgerechtigden-in-emmen-ontvangen-verkeerde-brief/?datalekt=919d9dcdc870001a84bdbe7d5f635fa3",
-        "url": "https://www.vpngids.nl/nieuws/uitkeringsgerechtigden-in-emmen-ontvangen-verkeerde-brief/",
-        "title": "Datalek in gemeente Coevorden door foutieve postverwerking",
-        "date_published": "2023-08-02T09:14:00Z",
-        "date_modified": "2023-08-02T09:14:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Coevorden | Overheid: Gemeenten | 31-07-2023 | Door een machinale fout bij de postverwerking in de gemeenten Emmen, Borger-Odoorn en Coevorden is een datalek ontstaan. Uitkeringsgerechtigden kregen onbedoeld de brief van een ander in handen, waardoor privacygevoelige details zoals namen, adresgegevens en redenen voor uitkering bij verkeerde ontvangers belandden. In totaal zijn 273 brieven incorrect bezorgd, waarvan 33 in Borger-Odoorn. Na het ontdekken van de fout nam de gemeente Emmen direct maatregelen, zoals het vervangen van de machine en het opnieuw versturen van de juiste brieven. Het voorval is gerapporteerd aan de Autoriteit Persoonsgegevens. (Bron: vpngids.nl)"
     }
 ]
