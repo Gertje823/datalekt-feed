@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 01 Dec 2023 12:29:15 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 01 Dec 2023 18:18:58 +0000</lastBuildDate>
+		<item>
+			<title>Skalar Analytical getroffen door ransomware aanval van de criminele organisatie Medusa Locker</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Skalar Analytical | Industrie | 29-11-2023 | De criminele organisatie Medusa Locker heeft op het darkweb aangekondigd dat zij Skalar Analytical heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8df1270dc96fcf2d988ed493a204696b</guid>
+			<category>Industrie </category>
+			<pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ransomware-aanval treft Sprinter Sports, voorheen Perry Sport</title>
 			<link>https://www.telegraaf.nl/financieel/1361403641/winkelketen-waarschuwt-na-ransomware-aanval-hou-je-bankrekening-in-de-gaten</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a942f61c4b391cb2e991550e70ff97a5</guid>
 			<category>Industrie </category>
 			<pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op OV-NL door Pro-Russische Hackers</title>
-			<link>https://www.ad.nl/maastricht/websites-vliegveld-maastricht-en-openbaar-vervoer-plat-pro-russische-hackersgroep-claimt-cyberaanval~a280182d/</link>
-			<description>Vereniging Openbaar Vervoer Nederland (OV-NL) | Vervoer en opslag | 07-08-2023 | De websites van Maastricht Aachen Airport en OV-NL, de vereniging van openbaarvervoerbedrijven, waren tijdelijk onbereikbaar door een mogelijke ddos-aanval. Een pro-Russische hackersgroep genaamd NoName05716 heeft de verantwoordelijkheid voor de aanvallen opgeëist als vergelding voor het Nederlandse besluit om marineschepen aan Oekraïne te leveren. Deze groep heeft eerder ook aanvallen uitgevoerd op bondgenoten van Oekraïne, zoals de Rechtspraak, de Eerste Kamer en diverse Nederlandse havens. Ondanks de aanvallen konden de dagelijkse activiteiten op het vliegveld en het openbaar vervoer doorgaan zonder operationele gevolgen. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/maastricht/websites-vliegveld-maastricht-en-openbaar-vervoer-plat-pro-russische-hackersgroep-claimt-cyberaanval~a280182d/?datalekt=0c8f8c1584eb73b2349050b93bb5b76e</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
