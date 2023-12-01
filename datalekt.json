@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.telegraaf.nl/financieel/1361403641/winkelketen-waarschuwt-na-ransomware-aanval-hou-je-bankrekening-in-de-gaten?datalekt=d86f39c545ad9e4d131e073773501144",
+        "url": "https://www.telegraaf.nl/financieel/1361403641/winkelketen-waarschuwt-na-ransomware-aanval-hou-je-bankrekening-in-de-gaten",
+        "title": "Ransomware-aanval treft Sprinter Sports, voorheen Perry Sport",
+        "date_published": "2023-12-01T09:08:00Z",
+        "date_modified": "2023-12-01T09:08:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "telegraaf.nl"
+        },
+        "content_html": "",
+        "content_text": "Sprinter Sports | Groot- en detailhandel | 30-11-2023 | Sprinter Sports, voorheen bekend als Perry Sport, is recent het slachtoffer geworden van een ransomware-aanval. De aanvallers hebben toegang gekregen tot klantorder- en accountgegevens. Hoewel Sprinter geen volledige betaalkaartinformatie opslaat, zijn klanten geadviseerd om alert te zijn op verdachte activiteiten op hun bankrekeningen. Cyberdeskundigen zijn ingeschakeld voor een grondig onderzoek. Er zijn aanwijzingen op sociale media dat de groep Metaencryptor verantwoordelijk zou zijn voor deze aanval. Sprinter maakt deel uit van de International Sports Retail Group (ISRG) en heeft meer dan vierhonderd winkels. De schade en het aantal getroffen klanten zijn nog onbekend. (Bron: telegraaf.nl)"
+    },
+    {
         "id": "https://www.ed.nl/eindhoven/eindhoven-informeert-slachtoffer-datalek-niet-of-onvolledig~ac34cf7e/?datalekt=d697506cb5f8c474ed22cf862e784eae",
         "url": "https://www.ed.nl/eindhoven/eindhoven-informeert-slachtoffer-datalek-niet-of-onvolledig~ac34cf7e/",
         "title": "Onvolledige informatieverstrekking bij datalekken in Eindhoven",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Vereniging Openbaar Vervoer Nederland (OV-NL) | Vervoer en opslag | 07-08-2023 | De websites van Maastricht Aachen Airport en OV-NL, de vereniging van openbaarvervoerbedrijven, waren tijdelijk onbereikbaar door een mogelijke ddos-aanval. Een pro-Russische hackersgroep genaamd NoName05716 heeft de verantwoordelijkheid voor de aanvallen opge\u00ebist als vergelding voor het Nederlandse besluit om marineschepen aan Oekra\u00efne te leveren. Deze groep heeft eerder ook aanvallen uitgevoerd op bondgenoten van Oekra\u00efne, zoals de Rechtspraak, de Eerste Kamer en diverse Nederlandse havens. Ondanks de aanvallen konden de dagelijkse activiteiten op het vliegveld en het openbaar vervoer doorgaan zonder operationele gevolgen. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/maastricht/websites-vliegveld-maastricht-en-openbaar-vervoer-plat-pro-russische-hackersgroep-claimt-cyberaanval~a280182d/?datalekt=9dedd30eeb273aae1ea82e9c04ebe242",
-        "url": "https://www.ad.nl/maastricht/websites-vliegveld-maastricht-en-openbaar-vervoer-plat-pro-russische-hackersgroep-claimt-cyberaanval~a280182d/",
-        "title": "Cyberaanval op Maastricht Aachen Airport door Pro-Russische Hackers",
-        "date_published": "2023-08-09T23:40:00Z",
-        "date_modified": "2023-08-09T23:40:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Maastricht Aachen Airport | Vervoer en opslag | 07-08-2023 | De websites van Maastricht Aachen Airport en OV-NL, de vereniging van openbaarvervoerbedrijven, waren tijdelijk onbereikbaar door een mogelijke ddos-aanval. Een pro-Russische hackersgroep genaamd NoName05716 heeft de verantwoordelijkheid voor de aanvallen opge\u00ebist als vergelding voor het Nederlandse besluit om marineschepen aan Oekra\u00efne te leveren. Deze groep heeft eerder ook aanvallen uitgevoerd op bondgenoten van Oekra\u00efne, zoals de Rechtspraak, de Eerste Kamer en diverse Nederlandse havens. Ondanks de aanvallen konden de dagelijkse activiteiten op het vliegveld en het openbaar vervoer doorgaan zonder operationele gevolgen. (Bron: ad.nl)"
     }
 ]
