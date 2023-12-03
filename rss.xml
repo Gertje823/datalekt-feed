@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 01 Dec 2023 18:18:58 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 03 Dec 2023 12:26:50 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij het Drachtster Lyceum leidt tot mogelijke reputatieschade</title>
+			<link>https://www.schoolbord.info/kennisgeving-datalek/</link>
+			<description>Drachtster Lyceum | Onderwijs | 03-02-2023 | Op 2 februari werd een datalek bij Het Drachtster Lyceum, onderdeel van OSG Singelland, geconstateerd. Dit lek maakte de PTA-informatie van leerlingen toegankelijk voor onbevoegden binnen de organisatie. Er is een risico op reputatieschade voor de betrokken leerlingen. Als reactie heeft de school de data verwijderd, de toegang aangepast, betrokkenen geïnformeerd en het lek gemeld bij de autoriteit persoonsgegevens. Voor verdere vragen is contact met de functionaris gegevensbescherming van OSG Singelland mogelijk. (Bron: schoolbord.info)</description>
+			<guid isPermaLink="false">https://www.schoolbord.info/kennisgeving-datalek/?datalekt=05012fe003208184bce724ebc1fe1422</guid>
+			<category>Onderwijs </category>
+			<pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Skalar Analytical getroffen door ransomware aanval van de criminele organisatie Medusa Locker</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.telegraaf.nl/financieel/271660553/site-bank-nederlandse-gemeenten-plat-door-vermeende-ddos-aanval?datalekt=ad0b54ffbe8522b782dd39416ea3f625</guid>
 			<category>Financiële instellingen </category>
 			<pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Meaf Machines getroffen door ransomware aanval van de criminele organisatie LockBit</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Meaf Machines | Industrie | 13-08-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Meaf Machines heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a942f61c4b391cb2e991550e70ff97a5</guid>
-			<category>Industrie </category>
-			<pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

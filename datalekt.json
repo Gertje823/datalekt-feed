@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.schoolbord.info/kennisgeving-datalek/?datalekt=05012fe003208184bce724ebc1fe1422",
+        "url": "https://www.schoolbord.info/kennisgeving-datalek/",
+        "title": "Datalek bij het Drachtster Lyceum leidt tot mogelijke reputatieschade",
+        "date_published": "2023-12-03T10:30:00Z",
+        "date_modified": "2023-12-03T10:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "schoolbord.info"
+        },
+        "content_html": "",
+        "content_text": "Drachtster Lyceum | Onderwijs | 03-02-2023 | Op 2 februari werd een datalek bij Het Drachtster Lyceum, onderdeel van OSG Singelland, geconstateerd. Dit lek maakte de PTA-informatie van leerlingen toegankelijk voor onbevoegden binnen de organisatie. Er is een risico op reputatieschade voor de betrokken leerlingen. Als reactie heeft de school de data verwijderd, de toegang aangepast, betrokkenen ge\u00efnformeerd en het lek gemeld bij de autoriteit persoonsgegevens. Voor verdere vragen is contact met de functionaris gegevensbescherming van OSG Singelland mogelijk. (Bron: schoolbord.info)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8df1270dc96fcf2d988ed493a204696b",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Skalar Analytical getroffen door ransomware aanval van de criminele organisatie Medusa Locker",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Bank Nederlandse Gemeenten (BNG Bank) | Financi\u00eble instellingen | 08-08-2023 | De website van de Bank Nederlandse Gemeenten (BNG Bank) was tijdelijk onbereikbaar, mogelijk als gevolg van een DDoS-aanval. Hoewel de exacte oorzaak nog niet is bevestigd, hebben pro-Russische hackers de verantwoordelijkheid opge\u00ebist. Deze hackersgroep, genaamd NoName05716, beweert ook andere Nederlandse bankwebsites te hebben aangevallen als vergelding voor de Nederlandse steun aan Oekra\u00efne in het conflict met Rusland. Het Nationaal Cyber Security Centrum bevestigt dat er deze week DDoS-aanvallen op Nederlandse websites zijn geweest, maar benadrukt dat de gevolgen vaak beperkt en symbolisch zijn. (Bron: telegraaf.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a942f61c4b391cb2e991550e70ff97a5",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Meaf Machines getroffen door ransomware aanval van de criminele organisatie LockBit",
-        "date_published": "2023-08-13T00:00:00Z",
-        "date_modified": "2023-08-13T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Meaf Machines | Industrie | 13-08-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Meaf Machines heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
