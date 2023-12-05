@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 03 Dec 2023 12:26:50 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 05 Dec 2023 12:29:16 +0000</lastBuildDate>
+		<item>
+			<title>FPS Flexible Packaging Solutions getroffen door ransomware aanval van de criminele organisatie BLACK SUIT</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>FPS Flexible Packaging Solutions | Industrie | 04-12-2023 | De criminele organisatie BLACK SUIT heeft op het darkweb aangekondigd dat zij FPS Flexible Packaging Solutions heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c73a59debb2091649d1ce322d1c6f00c</guid>
+			<category>Industrie </category>
+			<pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij het Drachtster Lyceum leidt tot mogelijke reputatieschade</title>
 			<link>https://www.schoolbord.info/kennisgeving-datalek/</link>
@@ -798,14 +806,6 @@
 			<description>Woonpartners Midden-Holland | Verhuur van en handel in onroerend goed | 09-08-2023 | In juni werd Coen Hagendoorn, een leverancier van Woonpartners Midden-Holland, getroffen door een cyberaanval. Uit extern onderzoek is gebleken dat er waarschijnlijk geen persoonsgegevens zijn gekopieerd. Desondanks zijn ongeveer 1000 huurders van Woonpartners Midden-Holland, voor wie Coen Hagendoorn reparaties of onderhoud heeft uitgevoerd, geïnformeerd over de aanval. Deze huurders worden geadviseerd alert te zijn op verdachte e-mails en bij twijfel geen links of bijlagen te openen. (Bron: woonpartners-mh.nl)</description>
 			<guid isPermaLink="false">https://www.woonpartners-mh.nl/over-ons/nieuws/nieuws/update-cyberaanval-coen-hagendoorn/?datalekt=3b26a03d9b8534b554c4e22f41b5a8cc</guid>
 			<category>Verhuur van en handel in onroerend goed </category>
-			<pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DDoS-aanval treft Bank Nederlandse Gemeenten; Pro-Russische hackers eisen verantwoordelijkheid op</title>
-			<link>https://www.telegraaf.nl/financieel/271660553/site-bank-nederlandse-gemeenten-plat-door-vermeende-ddos-aanval</link>
-			<description>Bank Nederlandse Gemeenten (BNG Bank) | Financiële instellingen | 08-08-2023 | De website van de Bank Nederlandse Gemeenten (BNG Bank) was tijdelijk onbereikbaar, mogelijk als gevolg van een DDoS-aanval. Hoewel de exacte oorzaak nog niet is bevestigd, hebben pro-Russische hackers de verantwoordelijkheid opgeëist. Deze hackersgroep, genaamd NoName05716, beweert ook andere Nederlandse bankwebsites te hebben aangevallen als vergelding voor de Nederlandse steun aan Oekraïne in het conflict met Rusland. Het Nationaal Cyber Security Centrum bevestigt dat er deze week DDoS-aanvallen op Nederlandse websites zijn geweest, maar benadrukt dat de gevolgen vaak beperkt en symbolisch zijn. (Bron: telegraaf.nl)</description>
-			<guid isPermaLink="false">https://www.telegraaf.nl/financieel/271660553/site-bank-nederlandse-gemeenten-plat-door-vermeende-ddos-aanval?datalekt=ad0b54ffbe8522b782dd39416ea3f625</guid>
-			<category>Financiële instellingen </category>
 			<pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
