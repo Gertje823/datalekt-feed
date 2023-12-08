@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.delta.tudelft.nl/article/studenten-ontdekken-achterdeur-tu-mailverkeer-stond-wagenwijd-open?datalekt=672a6c3fa98621d68a44839cd9fdcedb",
+        "url": "https://www.delta.tudelft.nl/article/studenten-ontdekken-achterdeur-tu-mailverkeer-stond-wagenwijd-open",
+        "title": "Beveiligingslek in TU Delft e-mailsysteem maakt misbruik mogelijk",
+        "date_published": "2023-12-08T11:48:00Z",
+        "date_modified": "2023-12-08T11:48:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tudelft.nl"
+        },
+        "content_html": "",
+        "content_text": "TU Delft | Onderwijs | 06-12-2023 | Studenten van de TU Delft ontdekten een beveiligingslek in het e-mailsysteem van de universiteit, waardoor het mogelijk was om e-mails te versturen vanuit elk @tudelft.nl-account zonder authenticatie. Dit lek stelde zowel interne als externe gebruikers in staat om e-mails te verzenden alsof ze van iemand anders afkomstig waren, wat de deur opende voor potenti\u00eble phishing en andere frauduleuze activiteiten. De studenten, die anoniem willen blijven, meldden hun bevindingen aan de ICT-directie van de universiteit. De directie erkende het probleem en benadrukte het belang van samenwerking om de digitale veiligheid te waarborgen. Er zijn maatregelen genomen om het risico te beperken en een aanstaande migratie naar Microsoft 365 zal het lek definitief oplossen. Er zijn geen aanwijzingen dat er misbruik is gemaakt van het lek. (Bron: delta.tudelft.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c73a59debb2091649d1ce322d1c6f00c",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "FPS Flexible Packaging Solutions getroffen door ransomware aanval van de criminele organisatie BLACK SUIT",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Kamer van Koophandel (KVK) | Overheid: Zelfstandige bestuursorganen | 10-08-2023 | De Kamer van Koophandel (KVK) is het doelwit geworden van een DDoS-aanval, wat gevolgen heeft voor de functionaliteit van hun website en de dienstverlening. De KVK heeft via hun eigen website en een onbekend platform aangegeven maatregelen te treffen tegen de aanval. Hierdoor kunnen gebruikers problemen ervaren bij het bezoeken van de website en bij het gebruik van hun diensten. De afgelopen dagen zijn ook andere Nederlandse websites, zoals Maastricht Aachen Airport, OV-NL en de Bank Nederlandse Gemeenten, getroffen door DDoS-aanvallen. Het Nationaal Cyber Security Centrum (NCSC) heeft aangegeven dat de impact van deze aanvallen vaak beperkt en symbolisch is. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.woonpartners-mh.nl/over-ons/nieuws/nieuws/update-cyberaanval-coen-hagendoorn/?datalekt=3b26a03d9b8534b554c4e22f41b5a8cc",
-        "url": "https://www.woonpartners-mh.nl/over-ons/nieuws/nieuws/update-cyberaanval-coen-hagendoorn/",
-        "title": "Cyberaanval op leverancier Coen Hagendoorn raakt Woonpartners Midden-Holland",
-        "date_published": "2023-08-14T11:40:00Z",
-        "date_modified": "2023-08-14T11:40:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "woonpartners-mh.nl"
-        },
-        "content_html": "",
-        "content_text": "Woonpartners Midden-Holland | Verhuur van en handel in onroerend goed | 09-08-2023 | In juni werd Coen Hagendoorn, een leverancier van Woonpartners Midden-Holland, getroffen door een cyberaanval. Uit extern onderzoek is gebleken dat er waarschijnlijk geen persoonsgegevens zijn gekopieerd. Desondanks zijn ongeveer 1000 huurders van Woonpartners Midden-Holland, voor wie Coen Hagendoorn reparaties of onderhoud heeft uitgevoerd, ge\u00efnformeerd over de aanval. Deze huurders worden geadviseerd alert te zijn op verdachte e-mails en bij twijfel geen links of bijlagen te openen. (Bron: woonpartners-mh.nl)"
     }
 ]

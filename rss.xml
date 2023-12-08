@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 05 Dec 2023 12:29:16 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 08 Dec 2023 12:28:39 +0000</lastBuildDate>
+		<item>
+			<title>Beveiligingslek in TU Delft e-mailsysteem maakt misbruik mogelijk</title>
+			<link>https://www.delta.tudelft.nl/article/studenten-ontdekken-achterdeur-tu-mailverkeer-stond-wagenwijd-open</link>
+			<description>TU Delft | Onderwijs | 06-12-2023 | Studenten van de TU Delft ontdekten een beveiligingslek in het e-mailsysteem van de universiteit, waardoor het mogelijk was om e-mails te versturen vanuit elk @tudelft.nl-account zonder authenticatie. Dit lek stelde zowel interne als externe gebruikers in staat om e-mails te verzenden alsof ze van iemand anders afkomstig waren, wat de deur opende voor potentiële phishing en andere frauduleuze activiteiten. De studenten, die anoniem willen blijven, meldden hun bevindingen aan de ICT-directie van de universiteit. De directie erkende het probleem en benadrukte het belang van samenwerking om de digitale veiligheid te waarborgen. Er zijn maatregelen genomen om het risico te beperken en een aanstaande migratie naar Microsoft 365 zal het lek definitief oplossen. Er zijn geen aanwijzingen dat er misbruik is gemaakt van het lek. (Bron: delta.tudelft.nl)</description>
+			<guid isPermaLink="false">https://www.delta.tudelft.nl/article/studenten-ontdekken-achterdeur-tu-mailverkeer-stond-wagenwijd-open?datalekt=672a6c3fa98621d68a44839cd9fdcedb</guid>
+			<category>Onderwijs </category>
+			<pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>FPS Flexible Packaging Solutions getroffen door ransomware aanval van de criminele organisatie BLACK SUIT</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -798,14 +806,6 @@
 			<description>Kamer van Koophandel (KVK) | Overheid: Zelfstandige bestuursorganen | 10-08-2023 | De Kamer van Koophandel (KVK) is het doelwit geworden van een DDoS-aanval, wat gevolgen heeft voor de functionaliteit van hun website en de dienstverlening. De KVK heeft via hun eigen website en een onbekend platform aangegeven maatregelen te treffen tegen de aanval. Hierdoor kunnen gebruikers problemen ervaren bij het bezoeken van de website en bij het gebruik van hun diensten. De afgelopen dagen zijn ook andere Nederlandse websites, zoals Maastricht Aachen Airport, OV-NL en de Bank Nederlandse Gemeenten, getroffen door DDoS-aanvallen. Het Nationaal Cyber Security Centrum (NCSC) heeft aangegeven dat de impact van deze aanvallen vaak beperkt en symbolisch is. (Bron: security.nl)</description>
 			<guid isPermaLink="false">https://www.security.nl/posting/806419/Website+Kamer+van+Koophandel+doelwit+van+ddos-aanval?datalekt=53f3dad9ff70bf4d06b3db85a58e6249</guid>
 			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op leverancier Coen Hagendoorn raakt Woonpartners Midden-Holland</title>
-			<link>https://www.woonpartners-mh.nl/over-ons/nieuws/nieuws/update-cyberaanval-coen-hagendoorn/</link>
-			<description>Woonpartners Midden-Holland | Verhuur van en handel in onroerend goed | 09-08-2023 | In juni werd Coen Hagendoorn, een leverancier van Woonpartners Midden-Holland, getroffen door een cyberaanval. Uit extern onderzoek is gebleken dat er waarschijnlijk geen persoonsgegevens zijn gekopieerd. Desondanks zijn ongeveer 1000 huurders van Woonpartners Midden-Holland, voor wie Coen Hagendoorn reparaties of onderhoud heeft uitgevoerd, geïnformeerd over de aanval. Deze huurders worden geadviseerd alert te zijn op verdachte e-mails en bij twijfel geen links of bijlagen te openen. (Bron: woonpartners-mh.nl)</description>
-			<guid isPermaLink="false">https://www.woonpartners-mh.nl/over-ons/nieuws/nieuws/update-cyberaanval-coen-hagendoorn/?datalekt=3b26a03d9b8534b554c4e22f41b5a8cc</guid>
-			<category>Verhuur van en handel in onroerend goed </category>
 			<pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
