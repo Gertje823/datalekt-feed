@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=08ca0e9b9eabf1370cb44286e231afa5",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Vitro Plus getroffen door ransomware aanval van de criminele organisatie PLAY",
+        "date_published": "2023-12-09T13:48:00Z",
+        "date_modified": "2023-12-09T13:48:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Vitro Plus | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 07-12-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Vitro Plus heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.delta.tudelft.nl/article/studenten-ontdekken-achterdeur-tu-mailverkeer-stond-wagenwijd-open?datalekt=672a6c3fa98621d68a44839cd9fdcedb",
         "url": "https://www.delta.tudelft.nl/article/studenten-ontdekken-achterdeur-tu-mailverkeer-stond-wagenwijd-open",
         "title": "Beveiligingslek in TU Delft e-mailsysteem maakt misbruik mogelijk",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Franciscus Gasthuis &amp; Vlietland | Gezondheids- en welzijnszorg | 10-08-2023 | Een medewerker van het Franciscus Gasthuis en Vlietland-ziekenhuis in Rotterdam is geschorst na het ongeoorloofd delen van informatie over de bevalling van een bekende influencer. Voordat de influencer de geboorte van haar dochter zelf bekendmaakte op Instagram, bevestigde de medewerker in een Facebookgroep met ruim 70.000 leden dat de influencer was bevallen. Het geslacht, de naam en de geboortetijd van het kind werden openbaar gemaakt. Het ziekenhuis heeft dit als een datalek erkend en de medewerker is geschorst. Ook is er een melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/806419/Website+Kamer+van+Koophandel+doelwit+van+ddos-aanval?datalekt=53f3dad9ff70bf4d06b3db85a58e6249",
-        "url": "https://www.security.nl/posting/806419/Website+Kamer+van+Koophandel+doelwit+van+ddos-aanval",
-        "title": "DDoS-aanval treft website Kamer van Koophandel",
-        "date_published": "2023-08-14T11:46:00Z",
-        "date_modified": "2023-08-14T11:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Kamer van Koophandel (KVK) | Overheid: Zelfstandige bestuursorganen | 10-08-2023 | De Kamer van Koophandel (KVK) is het doelwit geworden van een DDoS-aanval, wat gevolgen heeft voor de functionaliteit van hun website en de dienstverlening. De KVK heeft via hun eigen website en een onbekend platform aangegeven maatregelen te treffen tegen de aanval. Hierdoor kunnen gebruikers problemen ervaren bij het bezoeken van de website en bij het gebruik van hun diensten. De afgelopen dagen zijn ook andere Nederlandse websites, zoals Maastricht Aachen Airport, OV-NL en de Bank Nederlandse Gemeenten, getroffen door DDoS-aanvallen. Het Nationaal Cyber Security Centrum (NCSC) heeft aangegeven dat de impact van deze aanvallen vaak beperkt en symbolisch is. (Bron: security.nl)"
     }
 ]

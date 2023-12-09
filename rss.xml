@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 08 Dec 2023 12:28:39 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 09 Dec 2023 18:17:20 +0000</lastBuildDate>
+		<item>
+			<title>Vitro Plus getroffen door ransomware aanval van de criminele organisatie PLAY</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Vitro Plus | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 07-12-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Vitro Plus heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=08ca0e9b9eabf1370cb44286e231afa5</guid>
+			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Beveiligingslek in TU Delft e-mailsysteem maakt misbruik mogelijk</title>
 			<link>https://www.delta.tudelft.nl/article/studenten-ontdekken-achterdeur-tu-mailverkeer-stond-wagenwijd-open</link>
@@ -798,14 +806,6 @@
 			<description>Franciscus Gasthuis &amp;amp; Vlietland | Gezondheids- en welzijnszorg | 10-08-2023 | Een medewerker van het Franciscus Gasthuis en Vlietland-ziekenhuis in Rotterdam is geschorst na het ongeoorloofd delen van informatie over de bevalling van een bekende influencer. Voordat de influencer de geboorte van haar dochter zelf bekendmaakte op Instagram, bevestigde de medewerker in een Facebookgroep met ruim 70.000 leden dat de influencer was bevallen. Het geslacht, de naam en de geboortetijd van het kind werden openbaar gemaakt. Het ziekenhuis heeft dit als een datalek erkend en de medewerker is geschorst. Ook is er een melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: nos.nl)</description>
 			<guid isPermaLink="false">https://nos.nl/artikel/2486136-ziekenhuismedewerker-geschorst-na-lekken-gegevens-influencer-selma-omari?datalekt=a0a17518cf408e68aa4b6b39913baaa4</guid>
 			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DDoS-aanval treft website Kamer van Koophandel</title>
-			<link>https://www.security.nl/posting/806419/Website+Kamer+van+Koophandel+doelwit+van+ddos-aanval</link>
-			<description>Kamer van Koophandel (KVK) | Overheid: Zelfstandige bestuursorganen | 10-08-2023 | De Kamer van Koophandel (KVK) is het doelwit geworden van een DDoS-aanval, wat gevolgen heeft voor de functionaliteit van hun website en de dienstverlening. De KVK heeft via hun eigen website en een onbekend platform aangegeven maatregelen te treffen tegen de aanval. Hierdoor kunnen gebruikers problemen ervaren bij het bezoeken van de website en bij het gebruik van hun diensten. De afgelopen dagen zijn ook andere Nederlandse websites, zoals Maastricht Aachen Airport, OV-NL en de Bank Nederlandse Gemeenten, getroffen door DDoS-aanvallen. Het Nationaal Cyber Security Centrum (NCSC) heeft aangegeven dat de impact van deze aanvallen vaak beperkt en symbolisch is. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/806419/Website+Kamer+van+Koophandel+doelwit+van+ddos-aanval?datalekt=53f3dad9ff70bf4d06b3db85a58e6249</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
