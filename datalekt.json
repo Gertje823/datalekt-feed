@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7a4f95adf72e13b9d5b81a438d369bf2",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "IGT Testing Systems getroffen door ransomware aanval van de criminele organisatie LockBit",
+        "date_published": "2023-12-12T16:39:00Z",
+        "date_modified": "2023-12-12T16:39:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "IGT Testing Systems | Industrie | 11-12-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij IGT Testing Systems heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=08ca0e9b9eabf1370cb44286e231afa5",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Vitro Plus getroffen door ransomware aanval van de criminele organisatie PLAY",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Etten-Leur | Overheid: Gemeenten | 14-08-2023 | De gemeente Etten-Leur heeft 210 van haar inwoners ge\u00efnformeerd over een mogelijk datalek, ontstaan door een cyberaanval op softwareontwikkelaar Nebu B.V. in maart. Hackers wisten de systemen van Nebu B.V. te infiltreren, waardoor persoonlijke gegevens van ongeveer twee miljoen Nederlanders mogelijk zijn buitgemaakt. Naast Etten-Leur werden ook grote organisaties zoals de Nederlandse Spoorwegen, VodafoneZiggo, Heineken en zorgverzekeraar CZ getroffen. De gegevens die mogelijk zijn gelekt omvatten namen, woonadressen en e-mailadressen. De gemeente waarschuwt haar inwoners voor mogelijke phishing-aanvallen als gevolg van dit lek. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2486136-ziekenhuismedewerker-geschorst-na-lekken-gegevens-influencer-selma-omari?datalekt=a0a17518cf408e68aa4b6b39913baaa4",
-        "url": "https://nos.nl/artikel/2486136-ziekenhuismedewerker-geschorst-na-lekken-gegevens-influencer-selma-omari",
-        "title": "Datalek in Franciscus Gasthuis door medewerker over bevalling bekende influencer",
-        "date_published": "2023-08-14T11:52:00Z",
-        "date_modified": "2023-08-14T11:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Franciscus Gasthuis &amp; Vlietland | Gezondheids- en welzijnszorg | 10-08-2023 | Een medewerker van het Franciscus Gasthuis en Vlietland-ziekenhuis in Rotterdam is geschorst na het ongeoorloofd delen van informatie over de bevalling van een bekende influencer. Voordat de influencer de geboorte van haar dochter zelf bekendmaakte op Instagram, bevestigde de medewerker in een Facebookgroep met ruim 70.000 leden dat de influencer was bevallen. Het geslacht, de naam en de geboortetijd van het kind werden openbaar gemaakt. Het ziekenhuis heeft dit als een datalek erkend en de medewerker is geschorst. Ook is er een melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: nos.nl)"
     }
 ]
