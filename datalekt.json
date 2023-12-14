@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.vo-raad.nl/artikelen/veilig-e-mailen-hoe-een-klein-menselijk-foutje-tot-een-datalek-kan-leiden?datalekt=225e73d2c873551e964c8230910d66e1",
+        "url": "https://www.vo-raad.nl/artikelen/veilig-e-mailen-hoe-een-klein-menselijk-foutje-tot-een-datalek-kan-leiden",
+        "title": "Datalek door menselijke fout bij Stichting Comprix",
+        "date_published": "2023-12-13T19:04:00Z",
+        "date_modified": "2023-12-13T19:04:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vo-raad.nl"
+        },
+        "content_html": "",
+        "content_text": "Stichting Comprix | Onderwijs | 11-12-2023 | Een medewerker van Stichting Comprix, die 35 openbare basisscholen in Friesland vertegenwoordigt, veroorzaakte per ongeluk een datalek door vertrouwelijke informatie over een leerling naar de verkeerde ouders te sturen. Deze fout werd snel ontdekt toen de ontvangers de school informeerden. De school nam onmiddellijk actie door de ouders van de betrokken leerling te informeren en excuses aan te bieden. Er werd ook een melding gedaan bij de Autoriteit Persoonsgegevens. Gelukkig waren er geen verdere negatieve gevolgen. Stichting Comprix benadrukt het belang van bewustzijn en veiligheid in digitale communicatie en neemt maatregelen zoals trainingen en beveiligingstests om dergelijke incidenten te voorkomen. (Bron: vo-raad.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7a4f95adf72e13b9d5b81a438d369bf2",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "IGT Testing Systems getroffen door ransomware aanval van de criminele organisatie LockBit",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Hemmink | Bouwnijverheid | 16-08-2023 | De criminele organisatie INC Ransom heeft op het darkweb aangekondigd dat zij Hemmink heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/mogelijke-slachtoffers-datalek-etten-leur-ontvangen-brief/?datalekt=da416ebfaa15ad72143536150490c335",
-        "url": "https://www.vpngids.nl/nieuws/mogelijke-slachtoffers-datalek-etten-leur-ontvangen-brief/",
-        "title": "Datalek bij Nebu B.V. treft gemeente Etten-Leur en vele anderen",
-        "date_published": "2023-08-14T11:55:00Z",
-        "date_modified": "2023-08-14T11:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Etten-Leur | Overheid: Gemeenten | 14-08-2023 | De gemeente Etten-Leur heeft 210 van haar inwoners ge\u00efnformeerd over een mogelijk datalek, ontstaan door een cyberaanval op softwareontwikkelaar Nebu B.V. in maart. Hackers wisten de systemen van Nebu B.V. te infiltreren, waardoor persoonlijke gegevens van ongeveer twee miljoen Nederlanders mogelijk zijn buitgemaakt. Naast Etten-Leur werden ook grote organisaties zoals de Nederlandse Spoorwegen, VodafoneZiggo, Heineken en zorgverzekeraar CZ getroffen. De gegevens die mogelijk zijn gelekt omvatten namen, woonadressen en e-mailadressen. De gemeente waarschuwt haar inwoners voor mogelijke phishing-aanvallen als gevolg van dit lek. (Bron: vpngids.nl)"
     }
 ]
