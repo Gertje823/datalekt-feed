@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 14 Dec 2023 01:06:55 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 14 Dec 2023 12:29:08 +0000</lastBuildDate>
+		<item>
+			<title>Soethoudt Metaalbewerking getroffen door ransomware aanval van de criminele organisatie 8BASE</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Soethoudt Metaalbewerking | Industrie | 13-12-2023 | De criminele organisatie 8BASE heeft op het darkweb aangekondigd dat zij Soethoudt Metaalbewerking heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8f670960e01c3dd3d9b44d7134c5338a</guid>
+			<category>Industrie </category>
+			<pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek door menselijke fout bij Stichting Comprix</title>
 			<link>https://www.vo-raad.nl/artikelen/veilig-e-mailen-hoe-een-klein-menselijk-foutje-tot-een-datalek-kan-leiden</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=617c481f8b0aa860d4b831a08eba28ef</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hemmink getroffen door ransomware aanval van de criminele organisatie INC Ransom</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Hemmink | Bouwnijverheid | 16-08-2023 | De criminele organisatie INC Ransom heeft op het darkweb aangekondigd dat zij Hemmink heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ffaea1c8d37d5f2a6cb5c824adb374a2</guid>
-			<category>Bouwnijverheid </category>
-			<pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

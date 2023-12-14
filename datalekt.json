@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8f670960e01c3dd3d9b44d7134c5338a",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Soethoudt Metaalbewerking getroffen door ransomware aanval van de criminele organisatie 8BASE",
+        "date_published": "2023-12-14T12:25:00Z",
+        "date_modified": "2023-12-14T12:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Soethoudt Metaalbewerking | Industrie | 13-12-2023 | De criminele organisatie 8BASE heeft op het darkweb aangekondigd dat zij Soethoudt Metaalbewerking heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.vo-raad.nl/artikelen/veilig-e-mailen-hoe-een-klein-menselijk-foutje-tot-een-datalek-kan-leiden?datalekt=225e73d2c873551e964c8230910d66e1",
         "url": "https://www.vo-raad.nl/artikelen/veilig-e-mailen-hoe-een-klein-menselijk-foutje-tot-een-datalek-kan-leiden",
         "title": "Datalek door menselijke fout bij Stichting Comprix",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Van der Ven Auto&#039;s | Groot- en detailhandel | 17-08-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Van der Ven Auto&#039;s heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ffaea1c8d37d5f2a6cb5c824adb374a2",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Hemmink getroffen door ransomware aanval van de criminele organisatie INC Ransom",
-        "date_published": "2023-08-16T00:00:00Z",
-        "date_modified": "2023-08-16T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Hemmink | Bouwnijverheid | 16-08-2023 | De criminele organisatie INC Ransom heeft op het darkweb aangekondigd dat zij Hemmink heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
