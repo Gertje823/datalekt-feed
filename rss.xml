@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 14 Dec 2023 12:29:08 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2023 18:18:55 +0000</lastBuildDate>
+		<item>
+			<title>Cyberaanval op EasyPark leidt tot datalek van klantgegevens</title>
+			<link>https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html</link>
+			<description>EasyPark | Informatie en communicatie | 15-12-2023 | EasyPark, een prominente parkeerapp en voormalig Parkmobile, is recentelijk getroffen door een cyberaanval. Door deze aanval zijn klantgegevens zoals namen, telefoonnummers, adressen en gedeeltelijke IBAN- en creditcardnummers gelekt. Het exacte aantal getroffen klanten is niet bekendgemaakt, maar zij worden individueel geïnformeerd. EasyPark waarschuwt dat de gelekte gegevens mogelijk gebruikt kunnen worden voor phishing-aanvallen. Het bedrijf benadrukt het belang van privacybescherming en betuigt spijt over het incident. EasyPark, dat eerder dit jaar werd overgenomen en van naam veranderde, had ongeveer drie miljoen gebruikers in Nederland ten tijde van de naamswijziging. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html?datalekt=ced23c1a537710b644090568eba67340</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Soethoudt Metaalbewerking getroffen door ransomware aanval van de criminele organisatie 8BASE</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.agconnect.nl/carriere/security/datalek-bij-politie-ex-agent-belde-inlichtingencentrum?datalekt=1d6a910a1e5f6b436135b663f0c67785</guid>
 			<category>Overheid: Politie en brandweer </category>
 			<pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Van der Ven Auto&amp;#039;s getroffen door ransomware aanval van de criminele organisatie Black Basta</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Van der Ven Auto&amp;#039;s | Groot- en detailhandel | 17-08-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Van der Ven Auto&amp;#039;s heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=617c481f8b0aa860d4b831a08eba28ef</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

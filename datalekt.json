@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html?datalekt=ced23c1a537710b644090568eba67340",
+        "url": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html",
+        "title": "Cyberaanval op EasyPark leidt tot datalek van klantgegevens",
+        "date_published": "2023-12-15T18:16:00Z",
+        "date_modified": "2023-12-15T18:16:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "EasyPark | Informatie en communicatie | 15-12-2023 | EasyPark, een prominente parkeerapp en voormalig Parkmobile, is recentelijk getroffen door een cyberaanval. Door deze aanval zijn klantgegevens zoals namen, telefoonnummers, adressen en gedeeltelijke IBAN- en creditcardnummers gelekt. Het exacte aantal getroffen klanten is niet bekendgemaakt, maar zij worden individueel ge\u00efnformeerd. EasyPark waarschuwt dat de gelekte gegevens mogelijk gebruikt kunnen worden voor phishing-aanvallen. Het bedrijf benadrukt het belang van privacybescherming en betuigt spijt over het incident. EasyPark, dat eerder dit jaar werd overgenomen en van naam veranderde, had ongeveer drie miljoen gebruikers in Nederland ten tijde van de naamswijziging. (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8f670960e01c3dd3d9b44d7134c5338a",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Soethoudt Metaalbewerking getroffen door ransomware aanval van de criminele organisatie 8BASE",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Nationale Politie | Overheid: Politie en brandweer | 17-08-2023 | Een groot datalek bij de politie is ontstaan door de acties van drie mannen, waaronder een ex-agent die eerder was ontslagen wegens schending van zijn geheimhoudingsplicht. Deze ex-agent speelde een cruciale rol door herhaaldelijk het Real Time Intelligence Center (RTIC) van de politie in Apeldoorn te bellen, zich voor te doen als andere agenten en zo gevoelige informatie te verkrijgen. De informatie werd vervolgens verkocht aan criminelen. Het lekken van deze informatie heeft mogelijk geleid tot een liquidatiepoging. De ex-agent was eerder veroordeeld voor soortgelijke activiteiten en had al een gevangenisstraf van zes maanden uitgezeten. (Bron: agconnect.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=617c481f8b0aa860d4b831a08eba28ef",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Van der Ven Auto&#039;s getroffen door ransomware aanval van de criminele organisatie Black Basta",
-        "date_published": "2023-08-17T00:00:00Z",
-        "date_modified": "2023-08-17T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Van der Ven Auto&#039;s | Groot- en detailhandel | 17-08-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Van der Ven Auto&#039;s heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
