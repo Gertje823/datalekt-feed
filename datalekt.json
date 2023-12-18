@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://nos.nl/artikel/2501984-klm-lekte-data-klanten-privegegevens-eenvoudig-te-verzamelen?datalekt=65b23fc45711012bd639f690cef3a961",
+        "url": "https://nos.nl/artikel/2501984-klm-lekte-data-klanten-privegegevens-eenvoudig-te-verzamelen",
+        "title": "Datalek bij KLM maakt klantgegevens toegankelijk voor onbevoegden",
+        "date_published": "2023-12-18T10:14:00Z",
+        "date_modified": "2023-12-18T10:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "KLM | Vervoer en opslag | 18-12-2023 | Priv\u00e9gegevens van KLM-klanten, waaronder telefoonnummers, e-mailadressen en soms paspoortgegevens, waren eenvoudig te verzamelen door onbevoegden door een datalek. Dit lek ontstond door een fout in de hyperlink met vluchtinformatie die KLM-klanten via sms ontvingen. Deze links waren niet uniek genoeg, waardoor kwaadwillenden met geautomatiseerde scripts toegang konden krijgen. Ongeveer 0,5 tot 1,5 procent van de geprobeerde links bleek te werken, wat wijst op een aanzienlijk aantal toegankelijke klantgegevens. KLM heeft het probleem snel verholpen na melding door de NOS, maar de omvang van de schade en of het lek daadwerkelijk is misbruikt, blijft onbekend. (Bron: nos.nl)"
+    },
+    {
         "id": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html?datalekt=ced23c1a537710b644090568eba67340",
         "url": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html",
         "title": "Cyberaanval op EasyPark leidt tot datalek van klantgegevens",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Amsterdam UMC (VUmc) | Gezondheids- en welzijnszorg | 04-07-2023 | Een applicatie, genaamd #Zouikwatzeggen?, ontwikkeld door het Amsterdam UMC voor het melden van grensoverschrijdend gedrag in ziekenhuizen, had een beveiligingslek waardoor aanvallers toegang konden krijgen tot gevoelige meldingen en het wachtwoord van de beheerder. De kwetsbaarheid werd ontdekt door een huisarts en beveiligingsonderzoeker. Het lek ontstond door een actieve PHP debug bar, waardoor alle verzoeken van gebruikers naar de server zichtbaar waren, inclusief inloggegevens. Het beveiligingsprobleem is inmiddels verholpen. Er is geen specifieke informatie gegeven over de financi\u00eble schade of het exacte aantal getroffen personen. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.agconnect.nl/carriere/security/datalek-bij-politie-ex-agent-belde-inlichtingencentrum?datalekt=1d6a910a1e5f6b436135b663f0c67785",
-        "url": "https://www.agconnect.nl/carriere/security/datalek-bij-politie-ex-agent-belde-inlichtingencentrum",
-        "title": "Datalek bij politie door ex-agent die inlichtingencentrum belde",
-        "date_published": "2023-08-20T20:06:00Z",
-        "date_modified": "2023-08-20T20:06:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "agconnect.nl"
-        },
-        "content_html": "",
-        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 17-08-2023 | Een groot datalek bij de politie is ontstaan door de acties van drie mannen, waaronder een ex-agent die eerder was ontslagen wegens schending van zijn geheimhoudingsplicht. Deze ex-agent speelde een cruciale rol door herhaaldelijk het Real Time Intelligence Center (RTIC) van de politie in Apeldoorn te bellen, zich voor te doen als andere agenten en zo gevoelige informatie te verkrijgen. De informatie werd vervolgens verkocht aan criminelen. Het lekken van deze informatie heeft mogelijk geleid tot een liquidatiepoging. De ex-agent was eerder veroordeeld voor soortgelijke activiteiten en had al een gevangenisstraf van zes maanden uitgezeten. (Bron: agconnect.nl)"
     }
 ]
