@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 18 Dec 2023 12:29:48 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 19 Dec 2023 18:15:16 +0000</lastBuildDate>
+		<item>
+			<title>Succes Schoonmaak getroffen door ransomware aanval van de criminele organisatie PLAY</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Succes Schoonmaak | Verhuur van roerende goederen en overige zakelijke dienstverlening | 18-12-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Succes Schoonmaak heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1b407b18755401bdf94cef7f11be378e</guid>
+			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
+			<pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Timberland&amp;#039;s Moederbedrijf VF Corporation Slachtoffer van Datalek na Cyberaanval</title>
+			<link>https://tweakers.net/nieuws/216736/moederbedrijf-vans-the-north-face-en-timberland-meldt-datalek-na-cyberaanval.html</link>
+			<description>Timberland | Groot- en detailhandel | 18-12-2023 | Timberland, onderdeel van VF Corporation, is indirect getroffen door een cyberaanval op het moederbedrijf. Op 13 december detecteerde VF Corporation ongeoorloofde toegang tot hun IT-systemen. Deze aanval resulteerde in de versleuteling van systemen en diefstal van zowel bedrijfs- als persoonlijke gegevens. De specifieke details over de omvang van het datalek en de impact op Timberland&amp;#039;s klanten zijn nog onduidelijk. Er is geen informatie vrijgegeven over een eventueel losgeldverzoek door de aanvallers. De cyberaanval heeft geleid tot operationele verstoringen bij VF Corporation, wat invloed kan hebben op de verwerking van bestellingen, inclusief die van Timberland, tijdens de feestperiode. Hoewel de fysieke winkels operationeel blijven, is de hersteltijd van deze verstoringen nog onbekend. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/216736/moederbedrijf-vans-the-north-face-en-timberland-meldt-datalek-na-cyberaanval.html?datalekt=5e487d76e54e1206596d57fe7a038a1e</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij KLM maakt klantgegevens toegankelijk voor onbevoegden</title>
 			<link>https://nos.nl/artikel/2501984-klm-lekte-data-klanten-privegegevens-eenvoudig-te-verzamelen</link>
@@ -791,22 +807,6 @@
 			<guid isPermaLink="false">https://www.ad.nl/vijfheerenlanden/inwoners-vijfheerenlanden-die-meededen-met-online-onderzoek-mogelijk-dupe-van-datalek~a3c2bd5a/?datalekt=9d537f49b2fd0f154ed4697aa71386fd</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Arnhemmer veroordeeld voor datadiefstal bij tandartsenpraktijk</title>
-			<link>https://www.dutchitleaders.nl/news/399436/arnhemmer-veroordeeld-voor-overnemen-gegevens-uit-computer-tandartsenpraktijk</link>
-			<description>Onbekende tandartsenpraktijk | Gezondheids- en welzijnszorg | 22-08-2023 | Een 31-jarige man uit Arnhem is door de rechtbank veroordeeld voor het onrechtmatig overnemen van niet-openbare gegevens van een tandartsenpraktijk in Gendt, waar hij als mondhygiënist werkte. In augustus 2021, tijdens de vakantieperiode, bekeek en kopieerde hij bestanden waartoe hij geen toegang had, waaronder verslagen van functioneringsgesprekken, arbeidsovereenkomsten en een kopie van een paspoort. De man heeft geen verklaring gegeven voor zijn acties en moet een taakstraf van 120 uur uitvoeren. De rechtbank benadrukte de inbreuk op de privacy van de eigenaresse van de praktijk en haar werknemers. (Bron: dutchitleaders.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitleaders.nl/news/399436/arnhemmer-veroordeeld-voor-overnemen-gegevens-uit-computer-tandartsenpraktijk?datalekt=12439ece67196d87599d255d46d897eb</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Amsterdam UMC&amp;#039;s app voor melden grensoverschrijdend gedrag kent beveiligingslek</title>
-			<link>https://www.security.nl/posting/802043/App+voor+melden+grensoverschrijdend+gedrag+in+ziekenhuis+lekte+meldingen</link>
-			<description>Amsterdam UMC (VUmc) | Gezondheids- en welzijnszorg | 04-07-2023 | Een applicatie, genaamd #Zouikwatzeggen?, ontwikkeld door het Amsterdam UMC voor het melden van grensoverschrijdend gedrag in ziekenhuizen, had een beveiligingslek waardoor aanvallers toegang konden krijgen tot gevoelige meldingen en het wachtwoord van de beheerder. De kwetsbaarheid werd ontdekt door een huisarts en beveiligingsonderzoeker. Het lek ontstond door een actieve PHP debug bar, waardoor alle verzoeken van gebruikers naar de server zichtbaar waren, inclusief inloggegevens. Het beveiligingsprobleem is inmiddels verholpen. Er is geen specifieke informatie gegeven over de financiële schade of het exacte aantal getroffen personen. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/802043/App+voor+melden+grensoverschrijdend+gedrag+in+ziekenhuis+lekte+meldingen?datalekt=5e04bd791b207771ee2bcda1db74b647</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
