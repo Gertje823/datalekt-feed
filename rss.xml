@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 19 Dec 2023 18:15:16 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 21 Dec 2023 12:28:07 +0000</lastBuildDate>
+		<item>
+			<title>Grote hack treft Van der Knaap Groep met onbekende gevolgen</title>
+			<link>https://www.goedemorgengroente.nl/nieuws/digitalisering/grote-computerhack-treft-van-der-knaap-groep</link>
+			<description>Van der Knaap Groep | Groot- en detailhandel | 18-12-2023 | Van der Knaap Groep, een bedrijf actief in de tuinbouwsector, werd in de nacht van 15 op 16 december 2023 getroffen door een omvangrijke computerhack. De volledige gevolgen van deze cyberaanval zijn nog onduidelijk. Het bedrijf heeft zijn klanten en relaties gewaarschuwd voor potentieel frauduleuze e-mails die vanuit hun accounts verzonden lijken te zijn. Deze e-mails kunnen verzoeken om gevoelige informatie zoals bankgegevens en worden geadviseerd direct te verwijderen. Van der Knaap Groep benadrukt dat hun productie en leveringen niet zijn beïnvloed door de hack en normaal doorgaan. Voor vragen en updates verwijst het bedrijf naar hun socialmediakanalen en telefonisch contact. (Bron: goedemorgengroente.nl)</description>
+			<guid isPermaLink="false">https://www.goedemorgengroente.nl/nieuws/digitalisering/grote-computerhack-treft-van-der-knaap-groep?datalekt=33f24d160cd2ed363b734372e1fd21e0</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Succes Schoonmaak getroffen door ransomware aanval van de criminele organisatie PLAY</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -603,8 +611,8 @@
 		<item>
 			<title>Gemeente Alkmaar slachtoffer van internetfraude door valse factuur</title>
 			<link>https://www.nhnieuws.nl/nieuws/324685/oeps-gemeente-alkmaar-maakt-per-ongeluk-236000-euro-over-aan-nepdirecteur</link>
-			<description>Gemeente Alkmaar | Overheid: Gemeenten | 14-09-2023 | De gemeente Alkmaar is slachtoffer geworden van internetfraude nadat medewerkers een valse spoedfactuur betaalden die zogenaamd afkomstig was van de directeur van een organisatie. De factuur bedroeg 236.000 euro. Na de fraude heeft de gemeente een intern onderzoek ingesteld en geconcludeerd dat medewerkers onder druk te snel tot betaling zijn overgegaan. De Wethouder van Financiën benadrukt dat digitale criminaliteit een groeiend probleem is en dat de gemeente actief campagne voert om bewustzijn te vergroten. In december 2020 werd de gemeente ook getroffen door een phishing-aanval waarbij gegevens van Alkmaarders werden gelekt. (Bron: nhnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/324685/oeps-gemeente-alkmaar-maakt-per-ongeluk-236000-euro-over-aan-nepdirecteur?datalekt=083f3c5ae92c954386913b9f97b6c535</guid>
+			<description>Gemeente Alkmaar | Overheid: Gemeenten | 14-09-2023 | De gemeente Alkmaar is slachtoffer geworden van internetfraude nadat medewerkers een valse spoedfactuur betaalden die zogenaamd afkomstig was van de directeur van een organisatie. De factuur bedroeg 236.243 euro [Update: De gemeente heeft d.d. 18-12-2023 bevestigd dat 75.287 euro terugbetaald is]. Na de fraude heeft de gemeente een intern onderzoek ingesteld en geconcludeerd dat medewerkers onder druk te snel tot betaling zijn overgegaan. De Wethouder van Financiën benadrukt dat digitale criminaliteit een groeiend probleem is en dat de gemeente actief campagne voert om bewustzijn te vergroten. In december 2020 werd de gemeente ook getroffen door een phishing-aanval waarbij gegevens van Alkmaarders werden gelekt. (Bron: nhnieuws.nl)</description>
+			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/324685/oeps-gemeente-alkmaar-maakt-per-ongeluk-236000-euro-over-aan-nepdirecteur?datalekt=d68d5c7a203f988901ff1354137c7640</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.ad.nl/binnenland/bol-com-en-achmea-nemen-illegaal-gesprek-op-terwijl-je-in-de-wacht-staat~acc0e6b0/?datalekt=8fb59c481fb1dcc22cd9e788d9bf22b0</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek treft inwoners Vijfheerenlanden na deelname aan gemeentelijk onderzoek</title>
-			<link>https://www.ad.nl/vijfheerenlanden/inwoners-vijfheerenlanden-die-meededen-met-online-onderzoek-mogelijk-dupe-van-datalek~a3c2bd5a/</link>
-			<description>Gemeente Vijfheerenlanden | Overheid: Gemeenten | 22-08-2023 | Inwoners van Vijfheerenlanden die deelnamen aan een gemeentelijk onderzoek zijn mogelijk getroffen door een datalek. De gemeente en het onderzoeksbureau Dimensus kunnen de betrokkenen niet meer persoonlijk op de hoogte brengen. Het voor het onderzoek gebruikte adressenbestand is vanwege privacyredenen inmiddels verwijderd. Er is geen informatie gegeven over de exacte oorzaak van het lek of de omvang van de schade. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/vijfheerenlanden/inwoners-vijfheerenlanden-die-meededen-met-online-onderzoek-mogelijk-dupe-van-datalek~a3c2bd5a/?datalekt=9d537f49b2fd0f154ed4697aa71386fd</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
