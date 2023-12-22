@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.vpngids.nl/nieuws/ap-nationale-politie-overtrad-privacywetgeving-bij-het-sis/?datalekt=387188afc3d4ee9eb5667bf4bea8372b",
+        "url": "https://www.vpngids.nl/nieuws/ap-nationale-politie-overtrad-privacywetgeving-bij-het-sis/",
+        "title": "Privacyovertredingen door Nationale Politie in Schengen Informatiesysteem",
+        "date_published": "2023-12-22T11:43:00Z",
+        "date_modified": "2023-12-22T11:43:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vpngids.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 20-12-2023 | De Nationale Politie heeft de Europese privacywetgeving overtreden bij het gebruik van het Schengen Informatiesysteem (SIS). Onjuiste of incomplete informatie over personen werd in het systeem opgenomen, en signaleringen werden langer bewaard dan toegestaan. De Autoriteit Persoonsgegevens (AP) constateerde deze overtredingen na een geco\u00f6rdineerde inspectie met Europese privacywaakhonden. De politie nam aanvankelijk geen actie, maar na dreiging van een dwangsom door de AP zijn er maatregelen getroffen. AP-bestuurslid Katja Mur benadrukt de zware verantwoordelijkheid van SIS-gebruikers, gezien de grote impact van registratie op individuen. De AP blijft toezicht houden, vooral omdat de koppeling van Europese informatiesystemen extra privacyrisico&#039;s met zich meebrengt. (Bron: vpngids.nl)"
+    },
+    {
         "id": "https://www.goedemorgengroente.nl/nieuws/digitalisering/grote-computerhack-treft-van-der-knaap-groep?datalekt=33f24d160cd2ed363b734372e1fd21e0",
         "url": "https://www.goedemorgengroente.nl/nieuws/digitalisering/grote-computerhack-treft-van-der-knaap-groep",
         "title": "Grote hack treft Van der Knaap Groep met onbekende gevolgen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Achmea | Financi\u00eble instellingen | 25-08-2023 | Achmea en Bol.com hebben de gesprekken van hun klanten opgenomen terwijl deze in de wacht stonden. Hoewel de opnames bedoeld waren &quot;voor trainingsdoeleinden&quot;, bleven ze doorgaan tijdens de wachttijd. De Autoriteit Persoonsgegevens heeft aangegeven dat dit niet is toegestaan. Uit een onderzoek van het consumentenprogramma Radar bleek dat kwaliteitsmedewerkers de gesprekken konden terugluisteren en de kant van de klant konden horen tijdens de wachttijd. Bol.com gaf aan dat slechts een klein aantal bevoegde medewerkers een beperkt aantal gesprekken terugluistert. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/binnenland/bol-com-en-achmea-nemen-illegaal-gesprek-op-terwijl-je-in-de-wacht-staat~acc0e6b0/?datalekt=8fb59c481fb1dcc22cd9e788d9bf22b0",
-        "url": "https://www.ad.nl/binnenland/bol-com-en-achmea-nemen-illegaal-gesprek-op-terwijl-je-in-de-wacht-staat~acc0e6b0/",
-        "title": "Illegale opnames door Bol.com tijdens wachttijd van de klantenservice",
-        "date_published": "2023-08-25T13:55:00Z",
-        "date_modified": "2023-08-25T13:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Bol.com | Groot- en detailhandel | 25-08-2023 | Achmea en Bol.com hebben de gesprekken van hun klanten opgenomen terwijl deze in de wacht stonden. Hoewel de opnames bedoeld waren &quot;voor trainingsdoeleinden&quot;, bleven ze doorgaan tijdens de wachttijd. De Autoriteit Persoonsgegevens heeft aangegeven dat dit niet is toegestaan. Uit een onderzoek van het consumentenprogramma Radar bleek dat kwaliteitsmedewerkers de gesprekken konden terugluisteren en de kant van de klant konden horen tijdens de wachttijd. Bol.com gaf aan dat slechts een klein aantal bevoegde medewerkers een beperkt aantal gesprekken terugluistert. (Bron: ad.nl)"
     }
 ]
