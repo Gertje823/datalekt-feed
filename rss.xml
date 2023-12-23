@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 22 Dec 2023 12:27:13 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 23 Dec 2023 18:17:29 +0000</lastBuildDate>
+		<item>
+			<title>HV KRAS/Volendam getroffen door ransomwareaanval met mogelijke databuit</title>
+			<link>https://groot-waterland.nl/2023/12/22/hv-kras-volendam-is-geraakt-door-een-ransomwareaanval/</link>
+			<description>HV KRAS/Volendam | Cultuur, sport en recreatie | 22-12-2023 | HV KRAS/Volendam is het slachtoffer geworden van een ransomwareaanval. Hackers hebben toegang gekregen tot de online omgeving van de handbalvereniging, waarbij ze bestanden hebben gekopieerd en versleuteld. Deze bestanden bevatten persoonsgegevens. De vereniging werkt samen met externe experts om te bepalen of er daadwerkelijk persoonsgegevens zijn buitgemaakt, en de kans hierop wordt als groot ingeschat. Er zijn geen wachtwoorden van systemen betrokken bij de aanval. Er is een melding gedaan bij de Autoriteit Persoonsgegevens en alle wachtwoorden van e-mailaccounts eindigend op @handbalvolendam.nl worden gereset. De vereniging adviseert leden om alert te zijn op phishing en scam e-mails. (Bron: groot-waterland.nl)</description>
+			<guid isPermaLink="false">https://groot-waterland.nl/2023/12/22/hv-kras-volendam-is-geraakt-door-een-ransomwareaanval/?datalekt=64dd37d561a0b3f3840ca4067348d7dd</guid>
+			<category>Cultuur, sport en recreatie </category>
+			<pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Privacyovertredingen door Nationale Politie in Schengen Informatiesysteem</title>
 			<link>https://www.vpngids.nl/nieuws/ap-nationale-politie-overtrad-privacywetgeving-bij-het-sis/</link>
@@ -798,14 +806,6 @@
 			<description>Honders Alting | Verhuur van en handel in onroerend goed | 24-08-2023 | Makelaars, waaronder Honders/Alting en Christie’s International Real Estate, hebben aangegeven dat ze regelmatig te maken krijgen met potentiële kopers die niet daadwerkelijk het geld hebben voor de beoogde woningen. Om deze &amp;quot;spookkopers&amp;quot; te identificeren, hebben sommige makelaars lijsten bijgehouden met namen van deze personen. Echter, de Autoriteit Persoonsgegevens heeft aangegeven dat het bijhouden van dergelijke lijsten in strijd is met de privacywetgeving. Makelaars die de privacywetgeving overtreden door dergelijke lijsten op te stellen, kunnen sancties krijgen, waaronder boetes die kunnen oplopen tot maximaal 20 miljoen euro of 4% van de wereldwijde jaaromzet. De Nederlandse Vereniging van Makelaars (NVM) heeft eerder haar leden gewaarschuwd tegen het aanleggen van dergelijke lijsten. (Bron: quotenet.nl)</description>
 			<guid isPermaLink="false">https://www.quotenet.nl/vastgoed/a44875285/autoriteit-persoonsgegevens-mapje-gekken-makelaars-mag-niet/?datalekt=c042aa9f548599cda3e5e53b62872073</guid>
 			<category>Verhuur van en handel in onroerend goed </category>
-			<pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Illegale opnames door Achmea tijdens wachttijd van de klantenservice</title>
-			<link>https://www.ad.nl/binnenland/bol-com-en-achmea-nemen-illegaal-gesprek-op-terwijl-je-in-de-wacht-staat~acc0e6b0/</link>
-			<description>Achmea | Financiële instellingen | 25-08-2023 | Achmea en Bol.com hebben de gesprekken van hun klanten opgenomen terwijl deze in de wacht stonden. Hoewel de opnames bedoeld waren &amp;quot;voor trainingsdoeleinden&amp;quot;, bleven ze doorgaan tijdens de wachttijd. De Autoriteit Persoonsgegevens heeft aangegeven dat dit niet is toegestaan. Uit een onderzoek van het consumentenprogramma Radar bleek dat kwaliteitsmedewerkers de gesprekken konden terugluisteren en de kant van de klant konden horen tijdens de wachttijd. Bol.com gaf aan dat slechts een klein aantal bevoegde medewerkers een beperkt aantal gesprekken terugluistert. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/binnenland/bol-com-en-achmea-nemen-illegaal-gesprek-op-terwijl-je-in-de-wacht-staat~acc0e6b0/?datalekt=ec879c02782bbaadfcd6eb2e46560364</guid>
-			<category>Financiële instellingen </category>
 			<pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>

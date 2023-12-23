@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://groot-waterland.nl/2023/12/22/hv-kras-volendam-is-geraakt-door-een-ransomwareaanval/?datalekt=64dd37d561a0b3f3840ca4067348d7dd",
+        "url": "https://groot-waterland.nl/2023/12/22/hv-kras-volendam-is-geraakt-door-een-ransomwareaanval/",
+        "title": "HV KRAS/Volendam getroffen door ransomwareaanval met mogelijke databuit",
+        "date_published": "2023-12-23T12:42:00Z",
+        "date_modified": "2023-12-23T12:42:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "groot-waterland.nl"
+        },
+        "content_html": "",
+        "content_text": "HV KRAS/Volendam | Cultuur, sport en recreatie | 22-12-2023 | HV KRAS/Volendam is het slachtoffer geworden van een ransomwareaanval. Hackers hebben toegang gekregen tot de online omgeving van de handbalvereniging, waarbij ze bestanden hebben gekopieerd en versleuteld. Deze bestanden bevatten persoonsgegevens. De vereniging werkt samen met externe experts om te bepalen of er daadwerkelijk persoonsgegevens zijn buitgemaakt, en de kans hierop wordt als groot ingeschat. Er zijn geen wachtwoorden van systemen betrokken bij de aanval. Er is een melding gedaan bij de Autoriteit Persoonsgegevens en alle wachtwoorden van e-mailaccounts eindigend op @handbalvolendam.nl worden gereset. De vereniging adviseert leden om alert te zijn op phishing en scam e-mails. (Bron: groot-waterland.nl)"
+    },
+    {
         "id": "https://www.vpngids.nl/nieuws/ap-nationale-politie-overtrad-privacywetgeving-bij-het-sis/?datalekt=387188afc3d4ee9eb5667bf4bea8372b",
         "url": "https://www.vpngids.nl/nieuws/ap-nationale-politie-overtrad-privacywetgeving-bij-het-sis/",
         "title": "Privacyovertredingen door Nationale Politie in Schengen Informatiesysteem",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Honders Alting | Verhuur van en handel in onroerend goed | 24-08-2023 | Makelaars, waaronder Honders/Alting en Christie\u2019s International Real Estate, hebben aangegeven dat ze regelmatig te maken krijgen met potenti\u00eble kopers die niet daadwerkelijk het geld hebben voor de beoogde woningen. Om deze &quot;spookkopers&quot; te identificeren, hebben sommige makelaars lijsten bijgehouden met namen van deze personen. Echter, de Autoriteit Persoonsgegevens heeft aangegeven dat het bijhouden van dergelijke lijsten in strijd is met de privacywetgeving. Makelaars die de privacywetgeving overtreden door dergelijke lijsten op te stellen, kunnen sancties krijgen, waaronder boetes die kunnen oplopen tot maximaal 20 miljoen euro of 4% van de wereldwijde jaaromzet. De Nederlandse Vereniging van Makelaars (NVM) heeft eerder haar leden gewaarschuwd tegen het aanleggen van dergelijke lijsten. (Bron: quotenet.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/binnenland/bol-com-en-achmea-nemen-illegaal-gesprek-op-terwijl-je-in-de-wacht-staat~acc0e6b0/?datalekt=ec879c02782bbaadfcd6eb2e46560364",
-        "url": "https://www.ad.nl/binnenland/bol-com-en-achmea-nemen-illegaal-gesprek-op-terwijl-je-in-de-wacht-staat~acc0e6b0/",
-        "title": "Illegale opnames door Achmea tijdens wachttijd van de klantenservice",
-        "date_published": "2023-08-25T13:57:00Z",
-        "date_modified": "2023-08-25T13:57:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Achmea | Financi\u00eble instellingen | 25-08-2023 | Achmea en Bol.com hebben de gesprekken van hun klanten opgenomen terwijl deze in de wacht stonden. Hoewel de opnames bedoeld waren &quot;voor trainingsdoeleinden&quot;, bleven ze doorgaan tijdens de wachttijd. De Autoriteit Persoonsgegevens heeft aangegeven dat dit niet is toegestaan. Uit een onderzoek van het consumentenprogramma Radar bleek dat kwaliteitsmedewerkers de gesprekken konden terugluisteren en de kant van de klant konden horen tijdens de wachttijd. Bol.com gaf aan dat slechts een klein aantal bevoegde medewerkers een beperkt aantal gesprekken terugluistert. (Bron: ad.nl)"
     }
 ]
