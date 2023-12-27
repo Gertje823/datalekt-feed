@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 23 Dec 2023 18:17:29 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 27 Dec 2023 18:17:44 +0000</lastBuildDate>
+		<item>
+			<title>Walkro getroffen door ransomware aanval van de criminele organisatie LockBit</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Walkro | Vervoer en opslag | 25-12-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Walkro heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=48c148b2e1ed4717692a3f561b26ad2c</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>HV KRAS/Volendam getroffen door ransomwareaanval met mogelijke databuit</title>
 			<link>https://groot-waterland.nl/2023/12/22/hv-kras-volendam-is-geraakt-door-een-ransomwareaanval/</link>
@@ -797,14 +805,6 @@
 			<link>https://www.quotenet.nl/vastgoed/a44875285/autoriteit-persoonsgegevens-mapje-gekken-makelaars-mag-niet/</link>
 			<description>Christie’s International Real Estate | Verhuur van en handel in onroerend goed | 24-08-2023 | Makelaars, waaronder Honders/Alting en Christie’s International Real Estate, hebben aangegeven dat ze regelmatig te maken krijgen met potentiële kopers die niet daadwerkelijk het geld hebben voor de beoogde woningen. Om deze &amp;quot;spookkopers&amp;quot; te identificeren, hebben sommige makelaars lijsten bijgehouden met namen van deze personen. Echter, de Autoriteit Persoonsgegevens heeft aangegeven dat het bijhouden van dergelijke lijsten in strijd is met de privacywetgeving. Makelaars die de privacywetgeving overtreden door dergelijke lijsten op te stellen, kunnen sancties krijgen, waaronder boetes die kunnen oplopen tot maximaal 20 miljoen euro of 4% van de wereldwijde jaaromzet. De Nederlandse Vereniging van Makelaars (NVM) heeft eerder haar leden gewaarschuwd tegen het aanleggen van dergelijke lijsten. (Bron: quotenet.nl)</description>
 			<guid isPermaLink="false">https://www.quotenet.nl/vastgoed/a44875285/autoriteit-persoonsgegevens-mapje-gekken-makelaars-mag-niet/?datalekt=c76db82201bb597263f2fe19b6f8f0d7</guid>
-			<category>Verhuur van en handel in onroerend goed </category>
-			<pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Honders Alting en de Controverse Rondom de &amp;quot;Gekken&amp;quot; Lijst</title>
-			<link>https://www.quotenet.nl/vastgoed/a44875285/autoriteit-persoonsgegevens-mapje-gekken-makelaars-mag-niet/</link>
-			<description>Honders Alting | Verhuur van en handel in onroerend goed | 24-08-2023 | Makelaars, waaronder Honders/Alting en Christie’s International Real Estate, hebben aangegeven dat ze regelmatig te maken krijgen met potentiële kopers die niet daadwerkelijk het geld hebben voor de beoogde woningen. Om deze &amp;quot;spookkopers&amp;quot; te identificeren, hebben sommige makelaars lijsten bijgehouden met namen van deze personen. Echter, de Autoriteit Persoonsgegevens heeft aangegeven dat het bijhouden van dergelijke lijsten in strijd is met de privacywetgeving. Makelaars die de privacywetgeving overtreden door dergelijke lijsten op te stellen, kunnen sancties krijgen, waaronder boetes die kunnen oplopen tot maximaal 20 miljoen euro of 4% van de wereldwijde jaaromzet. De Nederlandse Vereniging van Makelaars (NVM) heeft eerder haar leden gewaarschuwd tegen het aanleggen van dergelijke lijsten. (Bron: quotenet.nl)</description>
-			<guid isPermaLink="false">https://www.quotenet.nl/vastgoed/a44875285/autoriteit-persoonsgegevens-mapje-gekken-makelaars-mag-niet/?datalekt=c042aa9f548599cda3e5e53b62872073</guid>
 			<category>Verhuur van en handel in onroerend goed </category>
 			<pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
