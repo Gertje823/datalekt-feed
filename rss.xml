@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 27 Dec 2023 18:17:44 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 28 Dec 2023 18:18:24 +0000</lastBuildDate>
+		<item>
+			<title>Beveiligingslekken bij gemeente Dongen onthuld door ethische hacker</title>
+			<link>https://www.bd.nl/dongen/gaten-in-beveiliging-gemeente-dongen-medische-gegevens-inwoners-niet-goed-afgeschermd~af8d2ced/</link>
+			<description>Gemeente Dongen | Overheid: Gemeenten | 25-12-2023 | De gemeente Dongen kampte met ernstige beveiligingsproblemen, zoals onthuld door een ethische hacker en een onderzoek van de Rekenkamer Midden-Brabant. Dit onderzoek, uitgevoerd van februari 2022 tot juli 2023, toonde aan dat zowel intern als extern toegang verkregen kon worden tot gevoelige informatie, waaronder e-mails, wachtwoorden, gedeelde bestanden, chatberichten en medische gegevens. In het gemeentehuis waren er ook tekortkomingen in de fysieke beveiliging. De gemeente Dongen, die IT-systemen deelt met de gemeente Tilburg, erkende de problemen en heeft maatregelen genomen, waaronder het verbeteren van wachtwoordvereisten en het invoeren van tweefactorauthenticatie. Ondanks deze verbeteringen blijft de balans tussen veiligheid en gebruiksgemak een uitdaging. Er is geen bewijs dat onbevoegden gevoelige gegevens hebben ingezien. (Bron: bd.nl)</description>
+			<guid isPermaLink="false">https://www.bd.nl/dongen/gaten-in-beveiliging-gemeente-dongen-medische-gegevens-inwoners-niet-goed-afgeschermd~af8d2ced/?datalekt=c912a18b23380173b8ea2a24c351b3f1</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Walkro getroffen door ransomware aanval van de criminele organisatie LockBit</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -798,14 +806,6 @@
 			<description>Leaseweb | Informatie en communicatie | 25-08-2023 | Leaseweb, een prominente hostingprovider, heeft te maken gehad met een security-incident dat een specifiek deel van hun cloudinfrastructuur beïnvloedde. Na detectie van ongebruikelijke activiteit in hun systemen, nam het bedrijf snel maatregelen om potentiële risico&amp;#039;s te beperken. Er wordt momenteel een forensisch onderzoek uitgevoerd naar de oorzaak en de gevolgen van het incident. Hoewel het onderzoek nog gaande is, heeft Leaseweb het incident ingedamd en hun beveiligingsmaatregelen versterkt. (Bron: dutchitchannel.nl)</description>
 			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/399733/mogelijke-cyberaanval-op-leaseweb?datalekt=e7ecc44ba256db8555db45b002881388</guid>
 			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Christie’s International Real Estate Geconfronteerd met Privacyzorgen over &amp;quot;Spookkopers&amp;quot; Lijst</title>
-			<link>https://www.quotenet.nl/vastgoed/a44875285/autoriteit-persoonsgegevens-mapje-gekken-makelaars-mag-niet/</link>
-			<description>Christie’s International Real Estate | Verhuur van en handel in onroerend goed | 24-08-2023 | Makelaars, waaronder Honders/Alting en Christie’s International Real Estate, hebben aangegeven dat ze regelmatig te maken krijgen met potentiële kopers die niet daadwerkelijk het geld hebben voor de beoogde woningen. Om deze &amp;quot;spookkopers&amp;quot; te identificeren, hebben sommige makelaars lijsten bijgehouden met namen van deze personen. Echter, de Autoriteit Persoonsgegevens heeft aangegeven dat het bijhouden van dergelijke lijsten in strijd is met de privacywetgeving. Makelaars die de privacywetgeving overtreden door dergelijke lijsten op te stellen, kunnen sancties krijgen, waaronder boetes die kunnen oplopen tot maximaal 20 miljoen euro of 4% van de wereldwijde jaaromzet. De Nederlandse Vereniging van Makelaars (NVM) heeft eerder haar leden gewaarschuwd tegen het aanleggen van dergelijke lijsten. (Bron: quotenet.nl)</description>
-			<guid isPermaLink="false">https://www.quotenet.nl/vastgoed/a44875285/autoriteit-persoonsgegevens-mapje-gekken-makelaars-mag-niet/?datalekt=c76db82201bb597263f2fe19b6f8f0d7</guid>
-			<category>Verhuur van en handel in onroerend goed </category>
 			<pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
