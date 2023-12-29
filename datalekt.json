@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/823372/Katvanger+moet+slachtoffer+ceo-fraude+tienduizend+euro+terugbetalen?datalekt=fe084d7f4a89cf387c3640ffa25fdbdc",
+        "url": "https://www.security.nl/posting/823372/Katvanger+moet+slachtoffer+ceo-fraude+tienduizend+euro+terugbetalen",
+        "title": "Bedrijf slachtoffer van CEO-fraude; Katvanger moet tienduizend euro terugbetalen",
+        "date_published": "2023-12-29T12:23:00Z",
+        "date_modified": "2023-12-29T12:23:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende organisatie | Overige dienstverlening | 27-12-2023 | Een bedrijf, slachtoffer van CEO-fraude, heeft van de rechtbank Amsterdam het recht gekregen om tienduizend euro terug te vorderen van een katvanger. De fraude begon toen het bedrijf een factuur van 30.000 euro ontving van een ander bedrijf voor geleverde diensten. Later kreeg het bedrijf een Engelstalige e-mail, zogenaamd van hetzelfde bedrijf, met het verzoek om het bedrag over te maken naar een nieuwe bankrekening. Deze rekening behoorde toe aan de katvanger, die 10.000 euro doorsluisde naar twee rekeningen in Belgi\u00eb. De resterende 20.000 euro kon niet worden overgemaakt omdat de rekening geblokkeerd was. De katvanger beweerde onwetend te zijn over de fraude en stelde dat hij zijn rekening ter beschikking had gesteld aan een vriend. De rechter oordeelde echter dat de katvanger verantwoordelijk is voor het terugbetalen van het geld, aangezien iedereen die geld ontvangt waarvan hij weet dat hij er geen recht op heeft, dit moet terugbetalen. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.bd.nl/dongen/gaten-in-beveiliging-gemeente-dongen-medische-gegevens-inwoners-niet-goed-afgeschermd~af8d2ced/?datalekt=c912a18b23380173b8ea2a24c351b3f1",
         "url": "https://www.bd.nl/dongen/gaten-in-beveiliging-gemeente-dongen-medische-gegevens-inwoners-niet-goed-afgeschermd~af8d2ced/",
         "title": "Beveiligingslekken bij gemeente Dongen onthuld door ethische hacker",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "ATPS Online | Informatie en communicatie | 25-08-2023 | ATPS Online, een bedrijf dat een SaaS-oplossing voor tijdregistratie levert, heeft hinder ondervonden van een security-incident bij hun hostingprovider, Leaseweb. Door de aanval ondervond ATPS Online problemen met hun dienstverlening. Het bedrijf heeft echter bevestigd dat er geen gegevensverlies lijkt te zijn en dat alle data tot het moment van de onderbreking bewaard is gebleven. ATPS Online wacht op een officieel statement van Leaseweb over het vermoedelijke cyber security incident en de mogelijke gevolgen ervan. (Bron: dutchitchannel.nl)"
-    },
-    {
-        "id": "https://www.dutchitchannel.nl/news/399733/mogelijke-cyberaanval-op-leaseweb?datalekt=e7ecc44ba256db8555db45b002881388",
-        "url": "https://www.dutchitchannel.nl/news/399733/mogelijke-cyberaanval-op-leaseweb",
-        "title": "Leaseweb getroffen door vermoedelijke cyberaanval",
-        "date_published": "2023-08-25T19:55:00Z",
-        "date_modified": "2023-08-25T19:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitchannel.nl"
-        },
-        "content_html": "",
-        "content_text": "Leaseweb | Informatie en communicatie | 25-08-2023 | Leaseweb, een prominente hostingprovider, heeft te maken gehad met een security-incident dat een specifiek deel van hun cloudinfrastructuur be\u00efnvloedde. Na detectie van ongebruikelijke activiteit in hun systemen, nam het bedrijf snel maatregelen om potenti\u00eble risico&#039;s te beperken. Er wordt momenteel een forensisch onderzoek uitgevoerd naar de oorzaak en de gevolgen van het incident. Hoewel het onderzoek nog gaande is, heeft Leaseweb het incident ingedamd en hun beveiligingsmaatregelen versterkt. (Bron: dutchitchannel.nl)"
     }
 ]
