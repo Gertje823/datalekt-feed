@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 29 Dec 2023 12:25:23 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2024 18:15:36 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij Zorginstelling Xonar door Cyberaanval</title>
+			<link>https://www.vpngids.nl/nieuws/cybercriminelen-stelen-data-van-zorginstelling-xonar/</link>
+			<description>Xonar | Gezondheids- en welzijnszorg | 09-01-2024 | Zorginstelling Xonar uit Zuid-Limburg is getroffen door een cyberaanval waarbij cybercriminelen toegang verkregen tot een deel van het bedrijfsnetwerk en data buitmaakten. De specifieke aard van de gestolen gegevens is nog onduidelijk, maar kan cliëntgegevens of vertrouwelijke bedrijfsinformatie omvatten. Xonar heeft externe beveiligingsexperts ingeschakeld en het incident gemeld bij de Autoriteit Persoonsgegevens en de politie. Er zijn geen aanwijzingen dat de gegevens openbaar zijn gemaakt. Xonar heeft alle betrokkenen geïnformeerd en roept op tot extra waakzaamheid voor mogelijke fraude. De bedrijfsvoering en zorgdienstverlening zijn niet in gevaar. (Bron: vpngids.nl)</description>
+			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/cybercriminelen-stelen-data-van-zorginstelling-xonar/?datalekt=80a8074551828e132c09c859155edf49</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Bedrijf slachtoffer van CEO-fraude; Katvanger moet tienduizend euro terugbetalen</title>
 			<link>https://www.security.nl/posting/823372/Katvanger+moet+slachtoffer+ceo-fraude+tienduizend+euro+terugbetalen</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.1limburg.nl/nieuws/2260297/heuschen-en-schrouff-platgelegd-door-cyberaanval?datalekt=fb915968376e92e72fdc2f9a3e6bb68e</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>ATPS Online ondervindt problemen door incident bij hostingprovider Leaseweb</title>
-			<link>https://www.dutchitchannel.nl/news/399733/mogelijke-cyberaanval-op-leaseweb</link>
-			<description>ATPS Online | Informatie en communicatie | 25-08-2023 | ATPS Online, een bedrijf dat een SaaS-oplossing voor tijdregistratie levert, heeft hinder ondervonden van een security-incident bij hun hostingprovider, Leaseweb. Door de aanval ondervond ATPS Online problemen met hun dienstverlening. Het bedrijf heeft echter bevestigd dat er geen gegevensverlies lijkt te zijn en dat alle data tot het moment van de onderbreking bewaard is gebleven. ATPS Online wacht op een officieel statement van Leaseweb over het vermoedelijke cyber security incident en de mogelijke gevolgen ervan. (Bron: dutchitchannel.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/399733/mogelijke-cyberaanval-op-leaseweb?datalekt=8a5b53ac014fab408eb58d7cde1e02fc</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
