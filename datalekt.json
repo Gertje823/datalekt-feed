@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.rijndam.nl/over-rijndam/nieuws/phishing-aanval-bij-rijndam-afgewend/?datalekt=cf76093adb1c061d868057c96963c2a6",
+        "url": "https://www.rijndam.nl/over-rijndam/nieuws/phishing-aanval-bij-rijndam-afgewend/",
+        "title": "Succesvolle afwending van phishing-aanval bij revalidatiecentrum Rijndam",
+        "date_published": "2024-01-14T12:09:00Z",
+        "date_modified": "2024-01-14T12:09:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rijndam.nl"
+        },
+        "content_html": "",
+        "content_text": "Rijndam | Gezondheids- en welzijnszorg | 12-01-2024 | In december 2023 werd Rijndam, een revalidatiecentrum, getroffen door een phishing-aanval gericht op de e-mailaccounts van medewerkers. Rijndam werkte samen met een cybersecurity-partner om de aanval af te wenden. Uit een grondige analyse bleek dat er geen toegang tot bestanden of pati\u00ebntendossiers was verkregen en er zijn geen ransomware-brieven ontvangen. De aanval leek gericht op verzonden e-mails, vermoedelijk met commerci\u00eble motieven. Rijndam heeft uit voorzorg een melding gemaakt bij de Autoriteit Persoonsgegevens en benadrukt het belang van gegevensbescherming en alertheid op verdachte e-mails. Er is geen financi\u00eble schade of schade aan burgers, klanten of pati\u00ebnten gemeld. (Bron: rijndam.nl)"
+    },
+    {
         "id": "https://www.vpngids.nl/nieuws/cybercriminelen-stelen-data-van-zorginstelling-xonar/?datalekt=80a8074551828e132c09c859155edf49",
         "url": "https://www.vpngids.nl/nieuws/cybercriminelen-stelen-data-van-zorginstelling-xonar/",
         "title": "Datalek bij Zorginstelling Xonar door Cyberaanval",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Vue Cinemas | Cultuur, sport en recreatie | 25-08-2023 | Door een fout bij bioscoopketen Vue waren de priv\u00e9gegevens en bankrekeningnummers van honderdduizenden bezoekers inzichtelijk voor iedereen. De sleutels tot deze gevoelige informatie stonden openbaar op de website van Vue. Het lek ontstond door een kwetsbaarheid in de functie die van grote afbeeldingen een kleinere versie maakt, waardoor onbevoegden toegang kregen tot de geheime sleutels van de database en de betalingsdienst. Hierdoor waren alle IBANs zichtbaar. Een tweede kwetsbaarheid betrof een SQL-injectie op de inlogpagina van de database. Het lek werd ontdekt door een programmeur en is inmiddels door Vue gedicht. (Bron: rtlnieuws.nl)"
-    },
-    {
-        "id": "https://www.1limburg.nl/nieuws/2260297/heuschen-en-schrouff-platgelegd-door-cyberaanval?datalekt=fb915968376e92e72fdc2f9a3e6bb68e",
-        "url": "https://www.1limburg.nl/nieuws/2260297/heuschen-en-schrouff-platgelegd-door-cyberaanval",
-        "title": "Cyberaanval treft Heuschen &amp; Schrouff",
-        "date_published": "2023-08-26T13:49:00Z",
-        "date_modified": "2023-08-26T13:49:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "1limburg.nl"
-        },
-        "content_html": "",
-        "content_text": "Heuschen &amp; Schrouff | Groot- en detailhandel | 24-08-2023 | Groothandel in Aziatische etenswaar Heuschen &amp; Schrouff, gevestigd in Landgraaf, is getroffen door een cyberaanval waardoor alle systemen binnen het bedrijf zijn uitgeschakeld. De directie was niet bereikbaar voor commentaar en zat in crisisoverleg vanwege de aanval. Volgens bronnen eisen de hackers losgeld in de vorm van een cryptobetaling om de toegang tot de systemen te herstellen. Eerder werden ook de Universiteit Maastricht, het MUMC+ en diverse gemeenten slachtoffer van soortgelijke aanvallen. (Bron: 1limburg.nl)"
     }
 ]
