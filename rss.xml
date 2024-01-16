@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 15 Jan 2024 12:29:42 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 12:29:32 +0000</lastBuildDate>
+		<item>
+			<title>Autoriteit Persoonsgegevens legt boete op aan ICS voor AVG-overtreding</title>
+			<link>https://www.security.nl/posting/825618/AP+beboet+creditcardbedrijf+ICS+voor+overtreden+AVG++bij+digitale+identificatie</link>
+			<description>International Card Services (ICS) | Financiële instellingen | 16-01-2024 | De Autoriteit Persoonsgegevens (AP) heeft creditcardmaatschappij ICS beboet met 150.000 euro voor het overtreden van de Algemene verordening gegevensbescherming (AVG) bij de digitale identificatie van klanten. ICS startte in 2019 met de digitale identificatie van ongeveer 1,5 miljoen klanten in Nederland, waarbij gevoelige informatie zoals foto&amp;#039;s werd gebruikt zonder de vereiste Data Protection Impact Assessment (DPIA). Deze nalatigheid leidde tot potentiële privacyrisico&amp;#039;s en de mogelijkheid van identiteitsfraude. De AP benadrukt het belang van zorgvuldige omgang met persoonsgegevens en het vooraf onderzoeken van privacyrisico&amp;#039;s. ICS heeft de optie om bezwaar te maken tegen de boete. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/825618/AP+beboet+creditcardbedrijf+ICS+voor+overtreden+AVG++bij+digitale+identificatie?datalekt=41a8e414a46495714792f1d80ce2d8bf</guid>
+			<category>Financiële instellingen </category>
+			<pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Succesvolle afwending van phishing-aanval bij revalidatiecentrum Rijndam</title>
 			<link>https://www.rijndam.nl/over-rijndam/nieuws/phishing-aanval-bij-rijndam-afgewend/</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.ed.nl/eindhoven/eindhoven-lekt-privacygevoelige-informatie-via-digipanel-br~a4bb030a/?datalekt=6fcb44e9c15b81b10712b23726070f1e</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Vue: Privégegevens en IBANs van bioscoopbezoekers blootgesteld</title>
-			<link>https://www.rtlnieuws.nl/nieuws/nederland/artikel/5403771/vue-datalek-privegegevens-ibans-bioscoop-bezoekers</link>
-			<description>Vue Cinemas | Cultuur, sport en recreatie | 25-08-2023 | Door een fout bij bioscoopketen Vue waren de privégegevens en bankrekeningnummers van honderdduizenden bezoekers inzichtelijk voor iedereen. De sleutels tot deze gevoelige informatie stonden openbaar op de website van Vue. Het lek ontstond door een kwetsbaarheid in de functie die van grote afbeeldingen een kleinere versie maakt, waardoor onbevoegden toegang kregen tot de geheime sleutels van de database en de betalingsdienst. Hierdoor waren alle IBANs zichtbaar. Een tweede kwetsbaarheid betrof een SQL-injectie op de inlogpagina van de database. Het lek werd ontdekt door een programmeur en is inmiddels door Vue gedicht. (Bron: rtlnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.rtlnieuws.nl/nieuws/nederland/artikel/5403771/vue-datalek-privegegevens-ibans-bioscoop-bezoekers?datalekt=1a035256933249024ace7146a2de0c86</guid>
-			<category>Cultuur, sport en recreatie </category>
-			<pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

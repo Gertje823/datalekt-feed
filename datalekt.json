@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/825618/AP+beboet+creditcardbedrijf+ICS+voor+overtreden+AVG++bij+digitale+identificatie?datalekt=41a8e414a46495714792f1d80ce2d8bf",
+        "url": "https://www.security.nl/posting/825618/AP+beboet+creditcardbedrijf+ICS+voor+overtreden+AVG++bij+digitale+identificatie",
+        "title": "Autoriteit Persoonsgegevens legt boete op aan ICS voor AVG-overtreding",
+        "date_published": "2024-01-16T12:11:00Z",
+        "date_modified": "2024-01-16T12:11:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "International Card Services (ICS) | Financi\u00eble instellingen | 16-01-2024 | De Autoriteit Persoonsgegevens (AP) heeft creditcardmaatschappij ICS beboet met 150.000 euro voor het overtreden van de Algemene verordening gegevensbescherming (AVG) bij de digitale identificatie van klanten. ICS startte in 2019 met de digitale identificatie van ongeveer 1,5 miljoen klanten in Nederland, waarbij gevoelige informatie zoals foto&#039;s werd gebruikt zonder de vereiste Data Protection Impact Assessment (DPIA). Deze nalatigheid leidde tot potenti\u00eble privacyrisico&#039;s en de mogelijkheid van identiteitsfraude. De AP benadrukt het belang van zorgvuldige omgang met persoonsgegevens en het vooraf onderzoeken van privacyrisico&#039;s. ICS heeft de optie om bezwaar te maken tegen de boete. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.rijndam.nl/over-rijndam/nieuws/phishing-aanval-bij-rijndam-afgewend/?datalekt=cf76093adb1c061d868057c96963c2a6",
         "url": "https://www.rijndam.nl/over-rijndam/nieuws/phishing-aanval-bij-rijndam-afgewend/",
         "title": "Succesvolle afwending van phishing-aanval bij revalidatiecentrum Rijndam",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 25-08-2023 | In een recent incident heeft de gemeente Eindhoven privacygevoelige informatie gelekt via het Digipanel, een online platform voor burgerparticipatie. Onbekende aanvallers wisten toegang te krijgen tot het systeem en hebben persoonlijke gegevens van burgers blootgesteld. Het lek heeft geleid tot ernstige schending van privacy en heeft mogelijk financi\u00eble en reputatieschade tot gevolg. Het exacte aantal getroffen burgers is nog onbekend. Het incident benadrukt de groeiende dreiging van cyberaanvallen op overheidsinstanties. (Bron: ed.nl)"
-    },
-    {
-        "id": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5403771/vue-datalek-privegegevens-ibans-bioscoop-bezoekers?datalekt=1a035256933249024ace7146a2de0c86",
-        "url": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5403771/vue-datalek-privegegevens-ibans-bioscoop-bezoekers",
-        "title": "Datalek bij Vue: Priv\u00e9gegevens en IBANs van bioscoopbezoekers blootgesteld",
-        "date_published": "2023-08-26T13:50:00Z",
-        "date_modified": "2023-08-26T13:50:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtlnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Vue Cinemas | Cultuur, sport en recreatie | 25-08-2023 | Door een fout bij bioscoopketen Vue waren de priv\u00e9gegevens en bankrekeningnummers van honderdduizenden bezoekers inzichtelijk voor iedereen. De sleutels tot deze gevoelige informatie stonden openbaar op de website van Vue. Het lek ontstond door een kwetsbaarheid in de functie die van grote afbeeldingen een kleinere versie maakt, waardoor onbevoegden toegang kregen tot de geheime sleutels van de database en de betalingsdienst. Hierdoor waren alle IBANs zichtbaar. Een tweede kwetsbaarheid betrof een SQL-injectie op de inlogpagina van de database. Het lek werd ontdekt door een programmeur en is inmiddels door Vue gedicht. (Bron: rtlnieuws.nl)"
     }
 ]
