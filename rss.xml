@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 16 Jan 2024 12:29:32 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 18:19:12 +0000</lastBuildDate>
+		<item>
+			<title>DENHAM The Jeanmaker getroffen door ransomware aanval van de criminele organisatie Akira</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>DENHAM The Jeanmaker | Groot- en detailhandel | 17-01-2024 | De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij DENHAM The Jeanmaker heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7e5ad60dd3998f4ae90a8289063ba43d</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Autoriteit Persoonsgegevens legt boete op aan ICS voor AVG-overtreding</title>
 			<link>https://www.security.nl/posting/825618/AP+beboet+creditcardbedrijf+ICS+voor+overtreden+AVG++bij+digitale+identificatie</link>
@@ -797,14 +805,6 @@
 			<link>https://www.1limburg.nl/nieuws/2261076/persoonsgegevens-kinderen-gelekt-door-gemeente-roermond</link>
 			<description>Gemeente Roermond | Overheid: Gemeenten | 25-08-2023 | Bij de Gemeente Roermond zijn persoonsgegevens van kinderen gelekt, wat resulteerde in een ernstig gegevenslek. Het incident vond plaats door een beveiligingsfout in het interne systeem van de gemeente. Onbekende aanvallers wisten toegang te krijgen tot de gevoelige informatie, waaronder namen, geboortedata en adressen van de getroffen kinderen. Het gelekte data omvat ook details over ouders en voogden. Het aantal betrokken burgers wordt nog geïdentificeerd. Het incident benadrukt de kwetsbaarheid van persoonlijke gegevens en de noodzaak van verbeterde beveiligingsmaatregelen. (Bron: 1limburg.nl)</description>
 			<guid isPermaLink="false">https://www.1limburg.nl/nieuws/2261076/persoonsgegevens-kinderen-gelekt-door-gemeente-roermond?datalekt=efd590a20aa756d9f461ef4b64d367f7</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Privacygevoelige informatie gelekt via Digipanel van gemeente Eindhoven</title>
-			<link>https://www.ed.nl/eindhoven/eindhoven-lekt-privacygevoelige-informatie-via-digipanel-br~a4bb030a/</link>
-			<description>Gemeente Eindhoven | Overheid: Gemeenten | 25-08-2023 | In een recent incident heeft de gemeente Eindhoven privacygevoelige informatie gelekt via het Digipanel, een online platform voor burgerparticipatie. Onbekende aanvallers wisten toegang te krijgen tot het systeem en hebben persoonlijke gegevens van burgers blootgesteld. Het lek heeft geleid tot ernstige schending van privacy en heeft mogelijk financiële en reputatieschade tot gevolg. Het exacte aantal getroffen burgers is nog onbekend. Het incident benadrukt de groeiende dreiging van cyberaanvallen op overheidsinstanties. (Bron: ed.nl)</description>
-			<guid isPermaLink="false">https://www.ed.nl/eindhoven/eindhoven-lekt-privacygevoelige-informatie-via-digipanel-br~a4bb030a/?datalekt=6fcb44e9c15b81b10712b23726070f1e</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
