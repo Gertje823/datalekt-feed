@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 18 Jan 2024 18:19:12 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 18:19:21 +0000</lastBuildDate>
 		<item>
 			<title>DENHAM The Jeanmaker getroffen door ransomware aanval van de criminele organisatie Akira</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -115,8 +115,8 @@
 		<item>
 			<title>Cyberaanval op EasyPark leidt tot datalek van klantgegevens</title>
 			<link>https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html</link>
-			<description>EasyPark | Informatie en communicatie | 15-12-2023 | EasyPark, een prominente parkeerapp en voormalig Parkmobile, is recentelijk getroffen door een cyberaanval. Door deze aanval zijn klantgegevens zoals namen, telefoonnummers, adressen en gedeeltelijke IBAN- en creditcardnummers gelekt. Het exacte aantal getroffen klanten is niet bekendgemaakt, maar zij worden individueel geïnformeerd. EasyPark waarschuwt dat de gelekte gegevens mogelijk gebruikt kunnen worden voor phishing-aanvallen. Het bedrijf benadrukt het belang van privacybescherming en betuigt spijt over het incident. EasyPark, dat eerder dit jaar werd overgenomen en van naam veranderde, had ongeveer drie miljoen gebruikers in Nederland ten tijde van de naamswijziging. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html?datalekt=ced23c1a537710b644090568eba67340</guid>
+			<description>EasyPark | Informatie en communicatie | 15-12-2023 | EasyPark, een prominente parkeerapp en voormalig Parkmobile, is recentelijk getroffen door een cyberaanval. Door deze aanval zijn klantgegevens zoals namen, telefoonnummers, adressen en gedeeltelijke IBAN- en creditcardnummers gelekt [Update: d.d. 19 januari 2024 is bekend geworden dat ook wachtwoorden zijn gelekt.] . Het exacte aantal getroffen klanten is niet bekendgemaakt, maar zij worden individueel geïnformeerd. EasyPark waarschuwt dat de gelekte gegevens mogelijk gebruikt kunnen worden voor phishing-aanvallen. Het bedrijf benadrukt het belang van privacybescherming en betuigt spijt over het incident. EasyPark, dat eerder dit jaar werd overgenomen en van naam veranderde, had ongeveer drie miljoen gebruikers in Nederland ten tijde van de naamswijziging. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html?datalekt=78cfcc3992ed46f1203a58ba858e16e3</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
 		</item>

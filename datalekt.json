@@ -169,7 +169,7 @@
         "content_text": "KLM | Vervoer en opslag | 18-12-2023 | Priv\u00e9gegevens van KLM-klanten, waaronder telefoonnummers, e-mailadressen en soms paspoortgegevens, waren eenvoudig te verzamelen door onbevoegden door een datalek. Dit lek ontstond door een fout in de hyperlink met vluchtinformatie die KLM-klanten via sms ontvingen. Deze links waren niet uniek genoeg, waardoor kwaadwillenden met geautomatiseerde scripts toegang konden krijgen. Ongeveer 0,5 tot 1,5 procent van de geprobeerde links bleek te werken, wat wijst op een aanzienlijk aantal toegankelijke klantgegevens. KLM heeft het probleem snel verholpen na melding door de NOS, maar de omvang van de schade en of het lek daadwerkelijk is misbruikt, blijft onbekend. (Bron: nos.nl)"
     },
     {
-        "id": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html?datalekt=ced23c1a537710b644090568eba67340",
+        "id": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html?datalekt=78cfcc3992ed46f1203a58ba858e16e3",
         "url": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html",
         "title": "Cyberaanval op EasyPark leidt tot datalek van klantgegevens",
         "date_published": "2023-12-15T18:16:00Z",
@@ -179,7 +179,7 @@
             "name": "nu.nl"
         },
         "content_html": "",
-        "content_text": "EasyPark | Informatie en communicatie | 15-12-2023 | EasyPark, een prominente parkeerapp en voormalig Parkmobile, is recentelijk getroffen door een cyberaanval. Door deze aanval zijn klantgegevens zoals namen, telefoonnummers, adressen en gedeeltelijke IBAN- en creditcardnummers gelekt. Het exacte aantal getroffen klanten is niet bekendgemaakt, maar zij worden individueel ge\u00efnformeerd. EasyPark waarschuwt dat de gelekte gegevens mogelijk gebruikt kunnen worden voor phishing-aanvallen. Het bedrijf benadrukt het belang van privacybescherming en betuigt spijt over het incident. EasyPark, dat eerder dit jaar werd overgenomen en van naam veranderde, had ongeveer drie miljoen gebruikers in Nederland ten tijde van de naamswijziging. (Bron: nu.nl)"
+        "content_text": "EasyPark | Informatie en communicatie | 15-12-2023 | EasyPark, een prominente parkeerapp en voormalig Parkmobile, is recentelijk getroffen door een cyberaanval. Door deze aanval zijn klantgegevens zoals namen, telefoonnummers, adressen en gedeeltelijke IBAN- en creditcardnummers gelekt [Update: d.d. 19 januari 2024 is bekend geworden dat ook wachtwoorden zijn gelekt.] . Het exacte aantal getroffen klanten is niet bekendgemaakt, maar zij worden individueel ge\u00efnformeerd. EasyPark waarschuwt dat de gelekte gegevens mogelijk gebruikt kunnen worden voor phishing-aanvallen. Het bedrijf benadrukt het belang van privacybescherming en betuigt spijt over het incident. EasyPark, dat eerder dit jaar werd overgenomen en van naam veranderde, had ongeveer drie miljoen gebruikers in Nederland ten tijde van de naamswijziging. (Bron: nu.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8f670960e01c3dd3d9b44d7134c5338a",
