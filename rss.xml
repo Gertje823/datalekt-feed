@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 19 Jan 2024 18:19:21 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 12:26:37 +0000</lastBuildDate>
+		<item>
+			<title>Snelle herstelactie van Trend Micro voor Banijay Benelux na ransomware-aanval</title>
+			<link>https://www.agconnect.nl/whitepapers/trend-micro-herstelt-aws-diensten-voor-banijay-benelux-na-ransomware-aanval</link>
+			<description>Banijay Benelux | Informatie en communicatie | 18-01-2024 | Contentproducent Banijay Benelux, bekend van shows zoals Big Brother, werd in 2020 getroffen door een ransomware-aanval. Trend Micro werd ingeschakeld en slaagde erin de schade te beperken en de bedrijfsactiviteiten snel te hervatten. Het precieze herstelproces en de genomen maatregelen zijn gedetailleerd beschreven in de whitepaper. (Bron: agconnect.nl)</description>
+			<guid isPermaLink="false">https://www.agconnect.nl/whitepapers/trend-micro-herstelt-aws-diensten-voor-banijay-benelux-na-ransomware-aanval?datalekt=25125ea8bbbd131c7d9be1902958120d</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>DENHAM The Jeanmaker getroffen door ransomware aanval van de criminele organisatie Akira</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -798,14 +806,6 @@
 			<description>Kadaster | Overheid: Zelfstandige bestuursorganen | 28-08-2023 | Het Kadaster had te maken met een ernstig beveiligingslek waardoor miljoenen woonadressen voor iedereen toegankelijk waren. Hoewel normaal gesproken enkel professionals zoals notarissen en gerechtsdeurwaarders toegang hebben tot deze gegevens, konden door het lek onbevoegden volledige namen en woonadressen opvragen. Dit vormde een significant risico, met name voor bedreigde groepen zoals journalisten en politici. Naar aanleiding van dit lek heeft de Autoriteit Persoonsgegevens het Kadaster opgedragen direct actie te ondernemen. De blootgestelde gegevens waren zeer waardevol voor criminelen, wat leidde tot potentiële bedreigingen en stalking. Ook was er sprake van illegale handel in deze informatie. (Bron: rtlnieuws.nl)</description>
 			<guid isPermaLink="false">https://www.rtlnieuws.nl/nieuws/nederland/artikel/5402140/kadaster-lek-opzoeken-woonadressen-miljoenen-nederlanders?datalekt=cbbb4cd846ba571915ab8e8d51440791</guid>
 			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Persoonsgegevens van kinderen gelekt door Gemeente Roermond</title>
-			<link>https://www.1limburg.nl/nieuws/2261076/persoonsgegevens-kinderen-gelekt-door-gemeente-roermond</link>
-			<description>Gemeente Roermond | Overheid: Gemeenten | 25-08-2023 | Bij de Gemeente Roermond zijn persoonsgegevens van kinderen gelekt, wat resulteerde in een ernstig gegevenslek. Het incident vond plaats door een beveiligingsfout in het interne systeem van de gemeente. Onbekende aanvallers wisten toegang te krijgen tot de gevoelige informatie, waaronder namen, geboortedata en adressen van de getroffen kinderen. Het gelekte data omvat ook details over ouders en voogden. Het aantal betrokken burgers wordt nog geïdentificeerd. Het incident benadrukt de kwetsbaarheid van persoonlijke gegevens en de noodzaak van verbeterde beveiligingsmaatregelen. (Bron: 1limburg.nl)</description>
-			<guid isPermaLink="false">https://www.1limburg.nl/nieuws/2261076/persoonsgegevens-kinderen-gelekt-door-gemeente-roermond?datalekt=efd590a20aa756d9f461ef4b64d367f7</guid>
-			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
