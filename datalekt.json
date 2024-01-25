@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.dutchitleaders.nl/news/419678/covid-19-testlab-lekt-1-3-miljoen-gegevens-van-voornamelijk-nederlanders?datalekt=fe6bf9d2fb81ab45e7b7d3c5b3974364",
+        "url": "https://www.dutchitleaders.nl/news/419678/covid-19-testlab-lekt-1-3-miljoen-gegevens-van-voornamelijk-nederlanders",
+        "title": "Datalek bij Coronalab.eu onthult miljoenen coronatestgegevens",
+        "date_published": "2024-01-25T15:39:00Z",
+        "date_modified": "2024-01-25T15:39:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitleaders.nl"
+        },
+        "content_html": "",
+        "content_text": "Coronalab.eu | Gezondheids- en welzijnszorg | 25-01-2024 | Coronalab.eu, een Nederlands testlaboratorium, heeft door een onbeveiligde database 1,3 miljoen records gelekt, inclusief 118.000 coronacertificaten, 507.000 afspraken, en 660.000 testmonsters. De gelekte informatie omvatte gevoelige data zoals namen, nationaliteiten, paspoortnummers en testresultaten. Ondanks pogingen van een beveiligingsonderzoeker om het laboratorium te waarschuwen, bleef de database bijna drie weken open. De totale omvang van de schade en het aantal getroffen personen is nog niet volledig bekend. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.agconnect.nl/whitepapers/trend-micro-herstelt-aws-diensten-voor-banijay-benelux-na-ransomware-aanval?datalekt=25125ea8bbbd131c7d9be1902958120d",
         "url": "https://www.agconnect.nl/whitepapers/trend-micro-herstelt-aws-diensten-voor-banijay-benelux-na-ransomware-aanval",
         "title": "Snelle herstelactie van Trend Micro voor Banijay Benelux na ransomware-aanval",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Groningen Airport Eelde | Vervoer en opslag | 27-08-2023 | De website van Groningen Airport Eelde werd tijdelijk onbereikbaar door een mogelijke ddos-aanval. Een pro-Russische hackersgroep, Net-Worker Alliance, heeft de aanval opge\u00ebist via hun kanaal op Telegram. Hoewel de website tijdelijk niet toegankelijk was, werden er geen kritieke systemen van het vliegveld aangevallen. Eerdere pogingen om de site aan te vallen waren niet succesvol. Andere Nederlandse luchthavens, zoals Maastricht Aachen Airport, hebben ook te maken gehad met ddos-aanvallen van pro-Russische groepen. (Bron: luchtvaartnieuws.nl)"
-    },
-    {
-        "id": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5402140/kadaster-lek-opzoeken-woonadressen-miljoenen-nederlanders?datalekt=cbbb4cd846ba571915ab8e8d51440791",
-        "url": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5402140/kadaster-lek-opzoeken-woonadressen-miljoenen-nederlanders",
-        "title": "Miljoenen woonadressen toegankelijk door ernstig lek bij Kadaster",
-        "date_published": "2023-08-28T19:46:00Z",
-        "date_modified": "2023-08-28T19:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtlnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Kadaster | Overheid: Zelfstandige bestuursorganen | 28-08-2023 | Het Kadaster had te maken met een ernstig beveiligingslek waardoor miljoenen woonadressen voor iedereen toegankelijk waren. Hoewel normaal gesproken enkel professionals zoals notarissen en gerechtsdeurwaarders toegang hebben tot deze gegevens, konden door het lek onbevoegden volledige namen en woonadressen opvragen. Dit vormde een significant risico, met name voor bedreigde groepen zoals journalisten en politici. Naar aanleiding van dit lek heeft de Autoriteit Persoonsgegevens het Kadaster opgedragen direct actie te ondernemen. De blootgestelde gegevens waren zeer waardevol voor criminelen, wat leidde tot potenti\u00eble bedreigingen en stalking. Ook was er sprake van illegale handel in deze informatie. (Bron: rtlnieuws.nl)"
     }
 ]

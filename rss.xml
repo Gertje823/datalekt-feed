@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 20 Jan 2024 12:26:37 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 18:19:51 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij Coronalab.eu onthult miljoenen coronatestgegevens</title>
+			<link>https://www.dutchitleaders.nl/news/419678/covid-19-testlab-lekt-1-3-miljoen-gegevens-van-voornamelijk-nederlanders</link>
+			<description>Coronalab.eu | Gezondheids- en welzijnszorg | 25-01-2024 | Coronalab.eu, een Nederlands testlaboratorium, heeft door een onbeveiligde database 1,3 miljoen records gelekt, inclusief 118.000 coronacertificaten, 507.000 afspraken, en 660.000 testmonsters. De gelekte informatie omvatte gevoelige data zoals namen, nationaliteiten, paspoortnummers en testresultaten. Ondanks pogingen van een beveiligingsonderzoeker om het laboratorium te waarschuwen, bleef de database bijna drie weken open. De totale omvang van de schade en het aantal getroffen personen is nog niet volledig bekend. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitleaders.nl/news/419678/covid-19-testlab-lekt-1-3-miljoen-gegevens-van-voornamelijk-nederlanders?datalekt=fe6bf9d2fb81ab45e7b7d3c5b3974364</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Snelle herstelactie van Trend Micro voor Banijay Benelux na ransomware-aanval</title>
 			<link>https://www.agconnect.nl/whitepapers/trend-micro-herstelt-aws-diensten-voor-banijay-benelux-na-ransomware-aanval</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.luchtvaartnieuws.nl/nieuws/categorie/3/airports/pro-russische-hackers-vallen-website-groningen-airport-eelde-aan-met-ddos-aanval?datalekt=aab8d5a57809023dd099ee8e37f38733</guid>
 			<category>Vervoer en opslag </category>
 			<pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Miljoenen woonadressen toegankelijk door ernstig lek bij Kadaster</title>
-			<link>https://www.rtlnieuws.nl/nieuws/nederland/artikel/5402140/kadaster-lek-opzoeken-woonadressen-miljoenen-nederlanders</link>
-			<description>Kadaster | Overheid: Zelfstandige bestuursorganen | 28-08-2023 | Het Kadaster had te maken met een ernstig beveiligingslek waardoor miljoenen woonadressen voor iedereen toegankelijk waren. Hoewel normaal gesproken enkel professionals zoals notarissen en gerechtsdeurwaarders toegang hebben tot deze gegevens, konden door het lek onbevoegden volledige namen en woonadressen opvragen. Dit vormde een significant risico, met name voor bedreigde groepen zoals journalisten en politici. Naar aanleiding van dit lek heeft de Autoriteit Persoonsgegevens het Kadaster opgedragen direct actie te ondernemen. De blootgestelde gegevens waren zeer waardevol voor criminelen, wat leidde tot potentiële bedreigingen en stalking. Ook was er sprake van illegale handel in deze informatie. (Bron: rtlnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.rtlnieuws.nl/nieuws/nederland/artikel/5402140/kadaster-lek-opzoeken-woonadressen-miljoenen-nederlanders?datalekt=cbbb4cd846ba571915ab8e8d51440791</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
