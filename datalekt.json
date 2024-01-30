@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=271dbd581db31514d753480ab622430a",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "ESE World getroffen door ransomware aanval van de criminele organisatie LockBit",
+        "date_published": "2024-01-30T13:25:00Z",
+        "date_modified": "2024-01-30T13:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "ESE World | Water, afval- en afvalwaterbeheer en sanering | 29-01-2024 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij ESE World heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.dutchitleaders.nl/news/419678/covid-19-testlab-lekt-1-3-miljoen-gegevens-van-voornamelijk-nederlanders?datalekt=fe6bf9d2fb81ab45e7b7d3c5b3974364",
         "url": "https://www.dutchitleaders.nl/news/419678/covid-19-testlab-lekt-1-3-miljoen-gegevens-van-voornamelijk-nederlanders",
         "title": "Datalek bij Coronalab.eu onthult miljoenen coronatestgegevens",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Eurocross | Financi\u00eble instellingen | 28-08-2023 | Circa 34.000 klanten van Eurocross, een dochteronderneming van Achmea, zijn mogelijk getroffen door een datalek veroorzaakt door een cyberaanval op een cloud-omgeving van een softwareleverancier. Onbevoegden konden hierdoor mogelijk toegang krijgen tot bankrekeningnummers, burgerservicenummers en adresgegevens van de klanten. Hoewel Eurocross benadrukt dat er geen medische informatie is gelekt, zijn vooral klanten van de afdeling personenalarmering getroffen. Het incident werd twee dagen na de aanval gemeld bij de Autoriteit Persoonsgegevens. Eurocross heeft maatregelen genomen, waaronder het inschakelen van cybersecurity-specialisten van Achmea, om toekomstige incidenten te voorkomen. (Bron: fd.nl)"
-    },
-    {
-        "id": "https://www.luchtvaartnieuws.nl/nieuws/categorie/3/airports/pro-russische-hackers-vallen-website-groningen-airport-eelde-aan-met-ddos-aanval?datalekt=aab8d5a57809023dd099ee8e37f38733",
-        "url": "https://www.luchtvaartnieuws.nl/nieuws/categorie/3/airports/pro-russische-hackers-vallen-website-groningen-airport-eelde-aan-met-ddos-aanval",
-        "title": "Pro-Russische hackers richten zich op Groningen Airport Eelde met ddos-aanval",
-        "date_published": "2023-08-29T14:51:00Z",
-        "date_modified": "2023-08-29T14:51:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "luchtvaartnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Groningen Airport Eelde | Vervoer en opslag | 27-08-2023 | De website van Groningen Airport Eelde werd tijdelijk onbereikbaar door een mogelijke ddos-aanval. Een pro-Russische hackersgroep, Net-Worker Alliance, heeft de aanval opge\u00ebist via hun kanaal op Telegram. Hoewel de website tijdelijk niet toegankelijk was, werden er geen kritieke systemen van het vliegveld aangevallen. Eerdere pogingen om de site aan te vallen waren niet succesvol. Andere Nederlandse luchthavens, zoals Maastricht Aachen Airport, hebben ook te maken gehad met ddos-aanvallen van pro-Russische groepen. (Bron: luchtvaartnieuws.nl)"
     }
 ]
