@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.vpngids.nl/nieuws/klantgegevens-op-straat-door-cyberaanval-op-horlogeverkoper/?datalekt=b62a492451ee2d134ddecd2abc95a3cd",
+        "url": "https://www.vpngids.nl/nieuws/klantgegevens-op-straat-door-cyberaanval-op-horlogeverkoper/",
+        "title": "Grootschalig datalek bij Horlogeband.com na cyberaanval",
+        "date_published": "2024-01-31T11:43:00Z",
+        "date_modified": "2024-01-31T11:43:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vpngids.nl"
+        },
+        "content_html": "",
+        "content_text": "Horlogeband.com | Groot- en detailhandel | 29-01-2024 | Horlogeband.com, een prominente verkoper van horlogebanden, werd getroffen door een cyberaanval waarbij persoonlijke gegevens van mogelijk tienduizenden klanten werden gestolen. Na ontdekking van het lek, dat namen, adressen, telefoonnummers en aankoopgeschiedenis omvatte, heeft de onderneming de betrokkenen en de Autoriteit Persoonsgegevens ge\u00efnformeerd. Klanten uitten forse kritiek op de beveiliging van het bedrijf, wat de reputatie van Horlogeband.com mogelijk schaadt. De exacte omvang en financi\u00eble impact van de inbreuk blijven onduidelijk. (Bron: vpngids.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=271dbd581db31514d753480ab622430a",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "ESE World getroffen door ransomware aanval van de criminele organisatie LockBit",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Kendrion | Industrie | 30-08-2023 | Machinefabrikant Kendrion ondervindt de gevolgen van een ransomware-aanval. Het bedrijf, gespecialiseerd in elektromagnetische actuatoren met een hoofdkantoor in Amsterdam, ontdekte dat de bekende hackersgroep LockBit hun systemen had ge\u00efnfiltreerd. Als reactie hierop heeft Kendrion besloten een deel van hun systemen offline te halen, waardoor een deel van de productie handmatig wordt voortgezet. Kendrion is slechts \u00e9\u00e9n van de vele slachtoffers van LockBit sinds 2019. Het bedrijf is momenteel bezig met het inschatten van de schade en het onderzoeken van de impact op hun productieprocessen. Verdere details over de eisen van de hackers of mogelijke gelekte bedrijfsinformatie zijn nog niet bekend. (Bron: computable.nl)"
-    },
-    {
-        "id": "https://fd.nl/samenleving/1487162/persoonsgegevens-34-000-eurocross-klanten-mogelijk-gelekt-na-cyberaanval?datalekt=1dd2db7cae99a7fba7812fd8b87a6f19",
-        "url": "https://fd.nl/samenleving/1487162/persoonsgegevens-34-000-eurocross-klanten-mogelijk-gelekt-na-cyberaanval",
-        "title": "Datalek bij Eurocross treft 34.000 klanten na cyberaanval op softwareleverancier",
-        "date_published": "2023-08-30T09:56:00Z",
-        "date_modified": "2023-08-30T09:56:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "fd.nl"
-        },
-        "content_html": "",
-        "content_text": "Eurocross | Financi\u00eble instellingen | 28-08-2023 | Circa 34.000 klanten van Eurocross, een dochteronderneming van Achmea, zijn mogelijk getroffen door een datalek veroorzaakt door een cyberaanval op een cloud-omgeving van een softwareleverancier. Onbevoegden konden hierdoor mogelijk toegang krijgen tot bankrekeningnummers, burgerservicenummers en adresgegevens van de klanten. Hoewel Eurocross benadrukt dat er geen medische informatie is gelekt, zijn vooral klanten van de afdeling personenalarmering getroffen. Het incident werd twee dagen na de aanval gemeld bij de Autoriteit Persoonsgegevens. Eurocross heeft maatregelen genomen, waaronder het inschakelen van cybersecurity-specialisten van Achmea, om toekomstige incidenten te voorkomen. (Bron: fd.nl)"
     }
 ]
