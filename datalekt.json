@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/218144/ap-geeft-uber-recordboete-van-10-miljoen-euro-voor-slechte-info-inzageverzoek.html?datalekt=5dd2402464c09432d4ea9788256d0a07",
+        "url": "https://tweakers.net/nieuws/218144/ap-geeft-uber-recordboete-van-10-miljoen-euro-voor-slechte-info-inzageverzoek.html",
+        "title": "Recordboete voor Uber door AP wegens privacytekortkomingen",
+        "date_published": "2024-01-31T21:11:00Z",
+        "date_modified": "2024-01-31T21:11:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Uber | Vervoer en opslag | 31-01-2024 | Uber BV ontvangt een boete van \u20ac10 miljoen van de Autoriteit Persoonsgegevens (AP) voor het inadequaat faciliteren van privacy-inzageverzoeken van chauffeurs. De boete, de grootste uitgegeven door de AP, is opgelegd wegens complexe procedures en onduidelijke informatievoorziening, voornamelijk via de chauffeursapp en onvolledige .csv-bestanden. Uber&#039;s weerlegging dat de AVG-richtlijnen vaag zijn, werd door de AP verworpen. De boete weerspiegelt ook de langdurige periode van overtredingen en het grote aantal betrokken chauffeurs in Europa (Bron: tweakers.net)."
+    },
+    {
         "id": "https://www.vpngids.nl/nieuws/klantgegevens-op-straat-door-cyberaanval-op-horlogeverkoper/?datalekt=b62a492451ee2d134ddecd2abc95a3cd",
         "url": "https://www.vpngids.nl/nieuws/klantgegevens-op-straat-door-cyberaanval-op-horlogeverkoper/",
         "title": "Grootschalig datalek bij Horlogeband.com na cyberaanval",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Woensdrecht | Overheid: Gemeenten | 29-08-2023 | De gemeente Woensdrecht heeft te maken gehad met een ernstig datalek. Door een fout in de software van SIMgroep, die diensten en software levert aan lokale en regionale overheden, zijn persoonlijke gegevens van burgers, bedrijven en organisaties online beschikbaar gekomen. Deze gegevens zijn voornamelijk gerelateerd aan de Wet open overheid (Woo) en bevatten correspondentie uit de jaren 2021, 2022 en 2023. Hoewel de gemeente stappen heeft ondernomen om de gelekte informatie te verwijderen en te anonimiseren, zijn er nog steeds documenten met priv\u00e9gegevens online te vinden. (Bron: zuidwestupdate.nl)"
-    },
-    {
-        "id": "https://www.computable.nl/artikel/nieuws/security/7550835/250449/fabrikant-kendrion-slachtoffer-van-lockbit.html?datalekt=5a04bf153e1e24022175d5de9d40044e",
-        "url": "https://www.computable.nl/artikel/nieuws/security/7550835/250449/fabrikant-kendrion-slachtoffer-van-lockbit.html",
-        "title": "Kendrion getroffen door ransomware-aanval van LockBit",
-        "date_published": "2023-08-30T10:06:00Z",
-        "date_modified": "2023-08-30T10:06:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "computable.nl"
-        },
-        "content_html": "",
-        "content_text": "Kendrion | Industrie | 30-08-2023 | Machinefabrikant Kendrion ondervindt de gevolgen van een ransomware-aanval. Het bedrijf, gespecialiseerd in elektromagnetische actuatoren met een hoofdkantoor in Amsterdam, ontdekte dat de bekende hackersgroep LockBit hun systemen had ge\u00efnfiltreerd. Als reactie hierop heeft Kendrion besloten een deel van hun systemen offline te halen, waardoor een deel van de productie handmatig wordt voortgezet. Kendrion is slechts \u00e9\u00e9n van de vele slachtoffers van LockBit sinds 2019. Het bedrijf is momenteel bezig met het inschatten van de schade en het onderzoeken van de impact op hun productieprocessen. Verdere details over de eisen van de hackers of mogelijke gelekte bedrijfsinformatie zijn nog niet bekend. (Bron: computable.nl)"
     }
 ]

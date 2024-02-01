@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 31 Jan 2024 12:26:12 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 01:07:00 +0000</lastBuildDate>
+		<item>
+			<title>Recordboete voor Uber door AP wegens privacytekortkomingen</title>
+			<link>https://tweakers.net/nieuws/218144/ap-geeft-uber-recordboete-van-10-miljoen-euro-voor-slechte-info-inzageverzoek.html</link>
+			<description>Uber | Vervoer en opslag | 31-01-2024 | Uber BV ontvangt een boete van €10 miljoen van de Autoriteit Persoonsgegevens (AP) voor het inadequaat faciliteren van privacy-inzageverzoeken van chauffeurs. De boete, de grootste uitgegeven door de AP, is opgelegd wegens complexe procedures en onduidelijke informatievoorziening, voornamelijk via de chauffeursapp en onvolledige .csv-bestanden. Uber&amp;#039;s weerlegging dat de AVG-richtlijnen vaag zijn, werd door de AP verworpen. De boete weerspiegelt ook de langdurige periode van overtredingen en het grote aantal betrokken chauffeurs in Europa (Bron: tweakers.net).</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/218144/ap-geeft-uber-recordboete-van-10-miljoen-euro-voor-slechte-info-inzageverzoek.html?datalekt=5dd2402464c09432d4ea9788256d0a07</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Grootschalig datalek bij Horlogeband.com na cyberaanval</title>
 			<link>https://www.vpngids.nl/nieuws/klantgegevens-op-straat-door-cyberaanval-op-horlogeverkoper/</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.zuidwestupdate.nl/nieuws/woensdrechts-datalek-persoonlijke-gegevens-uit-woo-verzoeken-online-beschikbaar/?datalekt=5ce5a171d5d566d2fe52974bd74c4c73</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Kendrion getroffen door ransomware-aanval van LockBit</title>
-			<link>https://www.computable.nl/artikel/nieuws/security/7550835/250449/fabrikant-kendrion-slachtoffer-van-lockbit.html</link>
-			<description>Kendrion | Industrie | 30-08-2023 | Machinefabrikant Kendrion ondervindt de gevolgen van een ransomware-aanval. Het bedrijf, gespecialiseerd in elektromagnetische actuatoren met een hoofdkantoor in Amsterdam, ontdekte dat de bekende hackersgroep LockBit hun systemen had geïnfiltreerd. Als reactie hierop heeft Kendrion besloten een deel van hun systemen offline te halen, waardoor een deel van de productie handmatig wordt voortgezet. Kendrion is slechts één van de vele slachtoffers van LockBit sinds 2019. Het bedrijf is momenteel bezig met het inschatten van de schade en het onderzoeken van de impact op hun productieprocessen. Verdere details over de eisen van de hackers of mogelijke gelekte bedrijfsinformatie zijn nog niet bekend. (Bron: computable.nl)</description>
-			<guid isPermaLink="false">https://www.computable.nl/artikel/nieuws/security/7550835/250449/fabrikant-kendrion-slachtoffer-van-lockbit.html?datalekt=5a04bf153e1e24022175d5de9d40044e</guid>
-			<category>Industrie </category>
-			<pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
