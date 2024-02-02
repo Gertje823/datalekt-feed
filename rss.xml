@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 02 Feb 2024 06:18:03 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 12:25:49 +0000</lastBuildDate>
+		<item>
+			<title>ABN Amro&amp;#039;s registratiebeleid aangepakt: Privacy boven automatisering</title>
+			<link>https://www.accountancyvanmorgen.nl/2024/01/31/banken-mogen-persoonsgegevens-fraudeur-niet-automatisch-acht-jaar-in-register-opnemen/</link>
+			<description>ABN Amro | Financiële instellingen | 31-01-2024 | De Commissie van Beroep van Kifid heeft geoordeeld dat banken, zoals ABN Amro, de persoonsgegevens van fraudeurs niet automatisch acht jaar in waarschuwingsregisters mogen opnemen. Dit besluit volgt na een zaak tegen ABN Amro, die de gegevens van een consument, ongeïnformeerd over andere financiële verplichtingen bij een hypotheekaanvraag, langdurig registreerde. De uitspraak benadrukt de noodzaak van een belangenafweging bij registratie, in lijn met de privacywetgeving, en weerlegt het gebruik van een standaardtermijn. (Bron: accountancyvanmorgen.nl)</description>
+			<guid isPermaLink="false">https://www.accountancyvanmorgen.nl/2024/01/31/banken-mogen-persoonsgegevens-fraudeur-niet-automatisch-acht-jaar-in-register-opnemen/?datalekt=21576b87db1d08ed70d4155efc26db08</guid>
+			<category>Financiële instellingen </category>
+			<pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Recordboete voor Uber door AP wegens privacytekortkomingen</title>
 			<link>https://tweakers.net/nieuws/218144/ap-geeft-uber-recordboete-van-10-miljoen-euro-voor-slechte-info-inzageverzoek.html</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.vpro.nl/argos/lees/onderwerpen/algoritme/2023/fouten-bij-totstandkoming-data-experiment-ggz.html?datalekt=e97d594456a200be452caa0dedcd586b</guid>
 			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij gemeente Woensdrecht door foutieve software</title>
-			<link>https://www.zuidwestupdate.nl/nieuws/woensdrechts-datalek-persoonlijke-gegevens-uit-woo-verzoeken-online-beschikbaar/</link>
-			<description>Gemeente Woensdrecht | Overheid: Gemeenten | 29-08-2023 | De gemeente Woensdrecht heeft te maken gehad met een ernstig datalek. Door een fout in de software van SIMgroep, die diensten en software levert aan lokale en regionale overheden, zijn persoonlijke gegevens van burgers, bedrijven en organisaties online beschikbaar gekomen. Deze gegevens zijn voornamelijk gerelateerd aan de Wet open overheid (Woo) en bevatten correspondentie uit de jaren 2021, 2022 en 2023. Hoewel de gemeente stappen heeft ondernomen om de gelekte informatie te verwijderen en te anonimiseren, zijn er nog steeds documenten met privégegevens online te vinden. (Bron: zuidwestupdate.nl)</description>
-			<guid isPermaLink="false">https://www.zuidwestupdate.nl/nieuws/woensdrechts-datalek-persoonlijke-gegevens-uit-woo-verzoeken-online-beschikbaar/?datalekt=5ce5a171d5d566d2fe52974bd74c4c73</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
