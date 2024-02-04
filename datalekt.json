@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.wonenbreburg.nl/over-ons/publicaties/nieuws/hack-in-mailbox-buurtbeheerder-tilburg-west/?datalekt=2ffb62cb623e0b2615aac05563b26f96",
+        "url": "https://www.wonenbreburg.nl/over-ons/publicaties/nieuws/hack-in-mailbox-buurtbeheerder-tilburg-west/",
+        "title": "Phishingaanval treft mailbox buurtbeheerder WonenBreburg in Tilburg West",
+        "date_published": "2024-02-04T13:23:00Z",
+        "date_modified": "2024-02-04T13:23:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "wonenbreburg.nl"
+        },
+        "content_html": "",
+        "content_text": "WonenBreburg | Verhuur van en handel in onroerend goed | 02-02-2024 | Door op een phishing-link te klikken, kreeg een hacker toegang tot de mailbox van een buurtbeheerder van WonenBreburg in Tilburg West. Hoewel er geen direct bewijs is van gegevensdiefstal, is er onzekerheid over mogelijke inzage door de hacker. Dit risico houdt potenti\u00eble identiteitsfraude en het verspreiden van phishingmails in. WonenBreburg adviseert waakzaamheid voor oplichtingspogingen en biedt ondersteuning via buurtbeheerders of woonconsulenten. (Bron: wonenbreburg.nl)"
+    },
+    {
+        "id": "https://www.techzine.nl/nieuws/security/538624/update-vpns-11-nederlandse-bedrijven-misbruikt/?datalekt=80d2becc7d59b62ff33ac710b29efaf3",
+        "url": "https://www.techzine.nl/nieuws/security/538624/update-vpns-11-nederlandse-bedrijven-misbruikt/",
+        "title": "VPN-kwetsbaarheid treft minstens 11 Nederlandse bedrijven",
+        "date_published": "2024-02-04T13:21:00Z",
+        "date_modified": "2024-02-04T13:21:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "techzine.nl"
+        },
+        "content_html": "",
+        "content_text": "11 onbekende organisaties | Overige dienstverlening | 02-02-2024 | Kwetsbaarheden in Ivanti VPN-appliances zijn wereldwijd uitgebuit, waarbij 11 Nederlandse bedrijven getroffen zijn. Securitybedrijf Censys onthult dat 1,5% van de Ivanti Connect Secure-hosts, wat neerkomt op 412 unieke hosts, een achterdeurtje hebben. Dit misbruik leidt tot volledige controle door hackers en verstoort bedrijfsactiviteiten. Bovendien zijn er aanwijzingen dat Chinese staatshackers betrokken zijn voor spionagedoeleinden. Ondanks de ernst is er nog geen offici\u00eble patch uitgebracht door Ivanti. (Bron: techzine.nl)"
+    },
+    {
         "id": "https://www.accountancyvanmorgen.nl/2024/01/31/banken-mogen-persoonsgegevens-fraudeur-niet-automatisch-acht-jaar-in-register-opnemen/?datalekt=21576b87db1d08ed70d4155efc26db08",
         "url": "https://www.accountancyvanmorgen.nl/2024/01/31/banken-mogen-persoonsgegevens-fraudeur-niet-automatisch-acht-jaar-in-register-opnemen/",
         "title": "ABN Amro&#039;s registratiebeleid aangepakt: Privacy boven automatisering",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "OBI4WAN  | Informatie en communicatie | 05-09-2023 | Bedrijven zoals OBI4WAN en Coosto verzamelen in opdracht van Nederlandse overheidsorganisaties tweets van bijna alle Nederlanders. Deze praktijk is al gaande sinds 2014 en de verzamelde informatie wordt niet alleen aan de overheid verkocht, maar ook aan financi\u00eble instellingen zoals banken. OBI4WAN benadrukt dat de meeste klanten hun diensten gebruiken voor digitaal klantcontact. De Autoriteit Persoonsgegevens eist echter transparantie van deze monitoringsbedrijven over welke informatie ze verzamelen en waarom. De onderzoeksjournalist verwacht dat er binnenkort een oplossing komt waarbij gebruikers een inzageverzoek kunnen indienen. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/overheden-bespioneren-massaal-nederlandse-gebruikers-op-x/?datalekt=2ce19edb7842676758f1924e04425675",
-        "url": "https://www.vpngids.nl/nieuws/overheden-bespioneren-massaal-nederlandse-gebruikers-op-x/",
-        "title": "Overheid en bedrijven monitoren massaal tweets van Nederlanders",
-        "date_published": "2023-09-05T12:06:00Z",
-        "date_modified": "2023-09-05T12:06:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Nederlandse gemeenten | Overheid: Gemeenten | 05-09-2023 | Bedrijven zoals OBI4WAN en Coosto verzamelen in opdracht van Nederlandse overheidsorganisaties tweets van bijna alle Nederlanders. Deze praktijk is al gaande sinds 2014 en de verzamelde informatie wordt niet alleen aan de overheid verkocht, maar ook aan financi\u00eble instellingen zoals banken. OBI4WAN benadrukt dat de meeste klanten hun diensten gebruiken voor digitaal klantcontact. De Autoriteit Persoonsgegevens eist echter transparantie van deze monitoringsbedrijven over welke informatie ze verzamelen en waarom. De onderzoeksjournalist verwacht dat er binnenkort een oplossing komt waarbij gebruikers een inzageverzoek kunnen indienen. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.vpro.nl/argos/lees/onderwerpen/algoritme/2023/fouten-bij-totstandkoming-data-experiment-ggz.html?datalekt=e97d594456a200be452caa0dedcd586b",
-        "url": "https://www.vpro.nl/argos/lees/onderwerpen/algoritme/2023/fouten-bij-totstandkoming-data-experiment-ggz.html",
-        "title": "Fouten in dataverzameling door Nederlandse Zorgautoriteit in GGZ-sector",
-        "date_published": "2023-09-01T09:52:00Z",
-        "date_modified": "2023-09-01T09:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpro.nl"
-        },
-        "content_html": "",
-        "content_text": "Nederlandse Zorgautoriteit (NZa) | Overheid: Zelfstandige bestuursorganen | 31-08-2023 | Sinds 1 juli verzamelt de Nederlandse Zorgautoriteit (NZa) persoonlijke gegevens van alle GGZ-pati\u00ebnten in Nederland via de HONOS+lijsten, vragenlijsten met gevoelige informatie. Deze data, afkomstig van circa 800 duizend pati\u00ebnten, dient voor de ontwikkeling van een nieuw algoritme ter verbetering van de zorg. Echter, er zijn fouten gemaakt bij het invoeren van deze lijsten. Uit mailwisselingen tussen de NZa en de Autoriteit Persoonsgegevens (AP) blijkt dat de NZa de AP onvoldoende heeft ge\u00efnformeerd over de privacyrisico&#039;s van deze maatregel. (Bron: vpro.nl)"
     }
 ]
