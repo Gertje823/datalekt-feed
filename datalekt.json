@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=123124f18167d5798f8ac0ca1608104a",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "VCS Observation getroffen door ransomware aanval van de criminele organisatie Akira",
+        "date_published": "2024-02-06T15:38:00Z",
+        "date_modified": "2024-02-06T15:38:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "VCS Observation | Groot- en detailhandel | 05-02-2024 | De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij VCS Observation heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.wonenbreburg.nl/over-ons/publicaties/nieuws/hack-in-mailbox-buurtbeheerder-tilburg-west/?datalekt=2ffb62cb623e0b2615aac05563b26f96",
         "url": "https://www.wonenbreburg.nl/over-ons/publicaties/nieuws/hack-in-mailbox-buurtbeheerder-tilburg-west/",
         "title": "Phishingaanval treft mailbox buurtbeheerder WonenBreburg in Tilburg West",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Coosto | Informatie en communicatie | 05-09-2023 | Bedrijven zoals OBI4WAN en Coosto verzamelen in opdracht van Nederlandse overheidsorganisaties tweets van bijna alle Nederlanders. Deze praktijk is al gaande sinds 2014 en de verzamelde informatie wordt niet alleen aan de overheid verkocht, maar ook aan financi\u00eble instellingen zoals banken. OBI4WAN benadrukt dat de meeste klanten hun diensten gebruiken voor digitaal klantcontact. De Autoriteit Persoonsgegevens eist echter transparantie van deze monitoringsbedrijven over welke informatie ze verzamelen en waarom. De onderzoeksjournalist verwacht dat er binnenkort een oplossing komt waarbij gebruikers een inzageverzoek kunnen indienen. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/overheden-bespioneren-massaal-nederlandse-gebruikers-op-x/?datalekt=580397755d4c4b56a9e595403cfbab62",
-        "url": "https://www.vpngids.nl/nieuws/overheden-bespioneren-massaal-nederlandse-gebruikers-op-x/",
-        "title": "OBI4WAN en andere bedrijven verzamelen tweets voor Nederlandse overheid",
-        "date_published": "2023-09-05T12:07:00Z",
-        "date_modified": "2023-09-05T12:07:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "OBI4WAN  | Informatie en communicatie | 05-09-2023 | Bedrijven zoals OBI4WAN en Coosto verzamelen in opdracht van Nederlandse overheidsorganisaties tweets van bijna alle Nederlanders. Deze praktijk is al gaande sinds 2014 en de verzamelde informatie wordt niet alleen aan de overheid verkocht, maar ook aan financi\u00eble instellingen zoals banken. OBI4WAN benadrukt dat de meeste klanten hun diensten gebruiken voor digitaal klantcontact. De Autoriteit Persoonsgegevens eist echter transparantie van deze monitoringsbedrijven over welke informatie ze verzamelen en waarom. De onderzoeksjournalist verwacht dat er binnenkort een oplossing komt waarbij gebruikers een inzageverzoek kunnen indienen. (Bron: vpngids.nl)"
     }
 ]
