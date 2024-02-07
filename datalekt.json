@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=af7b95bd2422844b8921b78e21dd151a",
+        "url": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html",
+        "title": "Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld",
+        "date_published": "2024-02-07T15:45:00Z",
+        "date_modified": "2024-02-07T15:45:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=8a6c8578260b960e3c7755c23a61030c",
         "url": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/",
         "title": "Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Kiesraad | Overheid: Zelfstandige bestuursorganen | 12-09-2023 | De Kiesraad heeft kwetsbaarheden in de Ondersteunende Software Verkiezingen (OSV2020) hersteld na een tip van een ethische hacker van Zerocopter. Boone ontdekte dat hij binnen &#039;minder dan een uur&#039; toegang kon krijgen tot het programma en meldde dit bij de Kiesraad. De kwetsbaarheden maakten het mogelijk om de verkiezingsuitslag te manipuleren door een aangepaste versie van de software te verspreiden. De Kiesraad heeft de problemen verholpen voordat politieke partijen de software konden gebruiken voor de aankomende Tweede Kamerverkiezingen. Er zijn geen onregelmatigheden gevonden in de uitslagen. (Bron: volkskrant.nl)"
-    },
-    {
-        "id": "https://www.1limburg.nl/nieuws/2284404/cyberaanval-op-thermae-2000-klanten-gewaarschuwd?datalekt=32b301fcd8d975e2e0a24943ce8f18b2",
-        "url": "https://www.1limburg.nl/nieuws/2284404/cyberaanval-op-thermae-2000-klanten-gewaarschuwd",
-        "title": "Ransomware-aanval treft Thermae 2000; klanten op de hoogte gebracht van mogelijk datalek",
-        "date_published": "2023-09-12T12:00:00Z",
-        "date_modified": "2023-09-12T12:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "1limburg.nl"
-        },
-        "content_html": "",
-        "content_text": "Thermae 2000 | Cultuur, sport en recreatie | 11-09-2023 | Thermae 2000 in Valkenburg heeft een melding gemaakt bij de Autoriteit Persoonsgegevens over een omvangrijke cyberaanval van de criminele groep LockBit. Het is onduidelijk of de aanvallers toegang hebben gehad tot het klantenbestand, maar klanten zijn gewaarschuwd voor een potentieel datalek. Er zijn zorgen over mogelijke phishing-pogingen. De aanval betrof een ransomware die de gegevens van Thermae 2000 versleutelde, maar er is geen losgeld betaald. Het bedrijf heeft bevestigd dat er geen beelden van saunabezoekers of medische gegevens zijn gelekt. Alle systemen zijn nu weer operationeel. (Bron: 1limburg.nl)"
     }
 ]

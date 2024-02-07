@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 07 Feb 2024 12:25:53 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2024 18:18:13 +0000</lastBuildDate>
+		<item>
+			<title>Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld</title>
+			<link>https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html</link>
+			<description>Nationaal Coördinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&amp;#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&amp;#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=af7b95bd2422844b8921b78e21dd151a</guid>
+			<category>Overheid: Organisatieonderdeel </category>
+			<pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware</title>
 			<link>https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.volkskrant.nl/nieuws-achtergrond/lek-in-stemmentelsoftware-verkiezingen-gedicht-na-tip-van-hacker~be70023c/?datalekt=ab1fc79013afe2cac289a544e41c77f8</guid>
 			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ransomware-aanval treft Thermae 2000; klanten op de hoogte gebracht van mogelijk datalek</title>
-			<link>https://www.1limburg.nl/nieuws/2284404/cyberaanval-op-thermae-2000-klanten-gewaarschuwd</link>
-			<description>Thermae 2000 | Cultuur, sport en recreatie | 11-09-2023 | Thermae 2000 in Valkenburg heeft een melding gemaakt bij de Autoriteit Persoonsgegevens over een omvangrijke cyberaanval van de criminele groep LockBit. Het is onduidelijk of de aanvallers toegang hebben gehad tot het klantenbestand, maar klanten zijn gewaarschuwd voor een potentieel datalek. Er zijn zorgen over mogelijke phishing-pogingen. De aanval betrof een ransomware die de gegevens van Thermae 2000 versleutelde, maar er is geen losgeld betaald. Het bedrijf heeft bevestigd dat er geen beelden van saunabezoekers of medische gegevens zijn gelekt. Alle systemen zijn nu weer operationeel. (Bron: 1limburg.nl)</description>
-			<guid isPermaLink="false">https://www.1limburg.nl/nieuws/2284404/cyberaanval-op-thermae-2000-klanten-gewaarschuwd?datalekt=32b301fcd8d975e2e0a24943ce8f18b2</guid>
-			<category>Cultuur, sport en recreatie </category>
-			<pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
