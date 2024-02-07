@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=8a6c8578260b960e3c7755c23a61030c",
+        "url": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/",
+        "title": "Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware",
+        "date_published": "2024-02-07T09:01:00Z",
+        "date_modified": "2024-02-07T09:01:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Defensie | Overheid: Ministeries | 06-02-2024 | Chinese hackers, gelieerd aan een staatsinstelling, hebben succesvol het Nederlandse leger gehackt door spionagesoftware te installeren op een R&amp;D-netwerk, waardoor ze toegang kregen tot circa vijftig computers. Deze aanval, die gebruikmaakte van een bekende kwetsbaarheid in FortiGate-apparatuur van Fortinet, resulteerde niet in het buitmaken van militaire geheimen. De Militaire Inlichtingen- en Veiligheidsdienst (MIVD) benadrukt dat ondanks goede digitale beveiliging, geen systeem volledig veilig is. De vondst onderstreept het belang van waakzaamheid tegen spionage, ongeacht de oorsprong van de apparatuur. (Bron: ad.nl)"
+    },
+    {
+        "id": "https://cpapinfo.nl/nieuws/datalek-bij-philips?datalekt=5a52335c7ec71a766f93c9c012384944",
+        "url": "https://cpapinfo.nl/nieuws/datalek-bij-philips",
+        "title": "Reactie van Westfalen Medical op Datalek bij Philips",
+        "date_published": "2024-02-07T08:56:00Z",
+        "date_modified": "2024-02-07T08:56:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "cpapinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Westfalen Medical | Gezondheids- en welzijnszorg | 05-02-2024 | Westfalen Medical informeert cli\u00ebnten over een datalek bij Philips, veroorzaakt door een kwetsbaarheid in de software van Progress Software. Dit incident betrof persoonsgegevens van gebruikers van PAP-apparaten. Westfalen Medical, als direct contact voor gebruikers, heeft proactief de Autoriteit Persoonsgegevens ge\u00efnformeerd en benadrukt dat hun eigen systemen veilig zijn. Klanten worden geadviseerd waakzaam te zijn voor phishing, maar er is geen directe actie nodig van hun kant."
+    },
+    {
+        "id": "https://cpapinfo.nl/nieuws/datalek-bij-philips?datalekt=02f5a90ce3e67ca603bedfb1ac82d606",
+        "url": "https://cpapinfo.nl/nieuws/datalek-bij-philips",
+        "title": "Datalek bij Philips door softwarekwetsbaarheid in MOVEit Transfer",
+        "date_published": "2024-02-07T08:55:00Z",
+        "date_modified": "2024-02-07T08:55:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "cpapinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Philips | Groot- en detailhandel | 05-02-2024 | Philips is getroffen door een datalek als gevolg van een kwetsbaarheid in de &quot;MOVEit Transfer&quot; software van Progress Software. Het lek stelde onbevoegden in staat om persoonsgegevens van PAP-apparaatgebruikers te raadplegen. Philips heeft snel gereageerd met de implementatie van beveiligingsmaatregelen aanbevolen door Progress Software. Het bedrijf werkt nauw samen met Westfalen Medical om betrokkenen te informeren en benadrukt de ernst waarmee het persoonsgegevens beschermt, waarbij gebruikers worden verzocht extra alert te zijn op phishing."
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=123124f18167d5798f8ac0ca1608104a",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "VCS Observation getroffen door ransomware aanval van de criminele organisatie Akira",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Thermae 2000 | Cultuur, sport en recreatie | 11-09-2023 | Thermae 2000 in Valkenburg heeft een melding gemaakt bij de Autoriteit Persoonsgegevens over een omvangrijke cyberaanval van de criminele groep LockBit. Het is onduidelijk of de aanvallers toegang hebben gehad tot het klantenbestand, maar klanten zijn gewaarschuwd voor een potentieel datalek. Er zijn zorgen over mogelijke phishing-pogingen. De aanval betrof een ransomware die de gegevens van Thermae 2000 versleutelde, maar er is geen losgeld betaald. Het bedrijf heeft bevestigd dat er geen beelden van saunabezoekers of medische gegevens zijn gelekt. Alle systemen zijn nu weer operationeel. (Bron: 1limburg.nl)"
-    },
-    {
-        "id": "https://www.juridict.nl/juridict-nieuwsartikel/factuurfraude-voorkomen/?datalekt=4c90b81f369d6d7c0349d8d3e4a4d24c",
-        "url": "https://www.juridict.nl/juridict-nieuwsartikel/factuurfraude-voorkomen/",
-        "title": "Factuurfraude bij aankoop van auto door valse betaalinstructies names autobedrijf",
-        "date_published": "2023-09-11T10:31:00Z",
-        "date_modified": "2023-09-11T10:31:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "juridict.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende autobedrijf | Groot- en detailhandel | 07-09-2023 | Een klant kocht een auto bij een autobedrijf en betaalde een deel vooruit. Het resterende bedrag werd overgemaakt naar een Duitse bankrekening zoals ge\u00efnstrueerd in een e-mail van het autobedrijf. Echter, deze instructie kwam van een hacker die toegang had tot het mailaccount van het garagebedrijf. De klant verloor \u20ac26.900 door deze factuurfraude. De rechtbank oordeelde dat de klant niet bevrijdend had betaald aan het autobedrijf. Er waren aanwijzingen dat de klant alert had moeten zijn, zoals de plotselinge wijziging van het bankrekeningnummer. (Bron: juridict.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/chipfabrikant-nxp-getroffen-door-datalek/?datalekt=397c5df0ae15a16a615c52db5da852f6",
-        "url": "https://www.vpngids.nl/nieuws/chipfabrikant-nxp-getroffen-door-datalek/",
-        "title": "Datalek bij NXP Semiconductors: Persoonlijke klantgegevens buitgemaakt",
-        "date_published": "2023-09-07T09:19:00Z",
-        "date_modified": "2023-09-07T09:19:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "NXP Semiconductors | Industrie | 06-09-2023 | De Nederlandse chipfabrikant NXP Semiconductors heeft een datalek gemeld waarbij persoonlijke gegevens van klanten zijn buitgemaakt. Het lek werd ontdekt op 14 juli en betrof toegang door een &#039;ongeautoriseerde partij&#039; tot het online portaal NXP.com. Hierbij zijn namen, woonadressen, e-mailadressen, telefoonnummers en andere klantinformatie buitgemaakt. Hoewel er geen aanwijzingen zijn dat de gegevens voor frauduleuze doeleinden zijn gebruikt, adviseert NXP klanten om alert te zijn op phishing en identiteitsfraude. Het is onduidelijk hoeveel mensen zijn getroffen en wie verantwoordelijk is voor het lek. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/overheden-bespioneren-massaal-nederlandse-gebruikers-op-x/?datalekt=b28b66cbacd24bdc7c7ecd6eca0ad924",
-        "url": "https://www.vpngids.nl/nieuws/overheden-bespioneren-massaal-nederlandse-gebruikers-op-x/",
-        "title": "Coosto en andere bedrijven verzamelen tweets voor Nederlandse overheid",
-        "date_published": "2023-09-05T12:08:00Z",
-        "date_modified": "2023-09-05T12:08:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Coosto | Informatie en communicatie | 05-09-2023 | Bedrijven zoals OBI4WAN en Coosto verzamelen in opdracht van Nederlandse overheidsorganisaties tweets van bijna alle Nederlanders. Deze praktijk is al gaande sinds 2014 en de verzamelde informatie wordt niet alleen aan de overheid verkocht, maar ook aan financi\u00eble instellingen zoals banken. OBI4WAN benadrukt dat de meeste klanten hun diensten gebruiken voor digitaal klantcontact. De Autoriteit Persoonsgegevens eist echter transparantie van deze monitoringsbedrijven over welke informatie ze verzamelen en waarom. De onderzoeksjournalist verwacht dat er binnenkort een oplossing komt waarbij gebruikers een inzageverzoek kunnen indienen. (Bron: vpngids.nl)"
     }
 ]
