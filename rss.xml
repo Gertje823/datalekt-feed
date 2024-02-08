@@ -7,20 +7,28 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 07 Feb 2024 18:18:13 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2024 12:26:27 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij jaaropgaven bijstandsuitkeringen in Roermond door menselijke fout</title>
+			<link>https://www.gelderlander.nl/venlo/roermond-meldt-datalek-bij-jaaropgaven-bijstandsuitkeringen~ab75cfb0/</link>
+			<description>Gemeente Roermond | Overheid: Gemeenten | 06-02-2024 | In Roermond is een datalek ontstaan toen door een menselijke fout het Burger Service Nummer (BSN) van één persoon op alle verzonden jaaropgaven van bijstandsuitkeringen terechtkwam. Hoewel er geen andere persoonlijke gegevens op de opgave stonden, werd het lek serieus genomen. De gemeente heeft direct actie ondernomen door de betrokken persoon te informeren, excuses aan te bieden, en alle ontvangers te verzoeken de foutieve opgaven te vernietigen. Nieuwe, correcte opgaven zijn verzonden en het lek is gemeld bij de Autoriteit Persoonsgegevens. De gemeente zet in op verbetering van werkprocessen om herhaling te voorkomen. (Bron: gelderlander.nl)</description>
+			<guid isPermaLink="false">https://www.gelderlander.nl/venlo/roermond-meldt-datalek-bij-jaaropgaven-bijstandsuitkeringen~ab75cfb0/?datalekt=4419c7c9a667be5ea70d8d930f16d3cc</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld</title>
 			<link>https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html</link>
-			<description>Nationaal Coördinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&amp;#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&amp;#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=af7b95bd2422844b8921b78e21dd151a</guid>
+			<description>Nationaal Coördinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&amp;#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&amp;#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=7ce0fed407359ad5c4a6e7fe0ec25c0e</guid>
 			<category>Overheid: Organisatieonderdeel </category>
 			<pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware</title>
 			<link>https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/</link>
-			<description>Ministerie van Defensie | Overheid: Ministeries | 06-02-2024 | Chinese hackers, gelieerd aan een staatsinstelling, hebben succesvol het Nederlandse leger gehackt door spionagesoftware te installeren op een R&amp;amp;D-netwerk, waardoor ze toegang kregen tot circa vijftig computers. Deze aanval, die gebruikmaakte van een bekende kwetsbaarheid in FortiGate-apparatuur van Fortinet, resulteerde niet in het buitmaken van militaire geheimen. De Militaire Inlichtingen- en Veiligheidsdienst (MIVD) benadrukt dat ondanks goede digitale beveiliging, geen systeem volledig veilig is. De vondst onderstreept het belang van waakzaamheid tegen spionage, ongeacht de oorsprong van de apparatuur. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=8a6c8578260b960e3c7755c23a61030c</guid>
+			<description>Ministerie van Defensie | Overheid: Ministeries | 06-02-2024 | Chinese hackers, gelieerd aan een staatsinstelling, hebben succesvol het Nederlandse leger gehackt door spionagesoftware genaamd COATHANGER te installeren op een R&amp;amp;D-netwerk, waardoor ze toegang kregen tot circa vijftig computers. Deze aanval, die gebruikmaakte van een bekende kwetsbaarheid in FortiGate-apparatuur van Fortinet, resulteerde niet in het buitmaken van militaire geheimen. De Militaire Inlichtingen- en Veiligheidsdienst (MIVD) benadrukt dat ondanks goede digitale beveiliging, geen systeem volledig veilig is. De vondst onderstreept het belang van waakzaamheid tegen spionage, ongeacht de oorsprong van de apparatuur. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=cc50ccd8c68a19e8e927b242440450d2</guid>
 			<category>Overheid: Ministeries </category>
 			<pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -798,14 +806,6 @@
 			<description>Belastingdienst | Overheid: Organisatieonderdeel | 14-09-2023 | De Belastingdienst heeft op grote schaal persoonlijke informatie van burgers verzameld, waaronder gegevens die zij online deelden. Deze verzamelde informatie werd opgeslagen in een database genaamd Risico Analyse Model (RAM). Deze database werd gebruikt voor &amp;#039;profiling&amp;#039; en het identificeren van mogelijke afwijkende gedragspatronen. De gegevens waren afkomstig uit diverse bronnen, zowel van binnen als buiten de overheid. Er zijn zorgen geuit over de wettelijke basis voor het scrapen van deze gegevens. In januari 2021 werd ontdekt dat sommige RAM-data nog toegankelijk was, ondanks dat het systeem in mei 2018 was uitgeschakeld. (Bron: security.nl)</description>
 			<guid isPermaLink="false">https://www.security.nl/posting/810213/NRC%3A+Belastingdienst+verzamelde+op+grote+schaal+persoonlijke+informatie+burgers?datalekt=a2ebd991b0e9bb0ce7995958e2dceca2</guid>
 			<category>Overheid: Organisatieonderdeel </category>
-			<pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Kwetsbaarheden in stemmentelsoftware OSV2020 ontdekt en verholpen na tip van ethische hacker</title>
-			<link>https://www.volkskrant.nl/nieuws-achtergrond/lek-in-stemmentelsoftware-verkiezingen-gedicht-na-tip-van-hacker~be70023c/</link>
-			<description>Kiesraad | Overheid: Zelfstandige bestuursorganen | 12-09-2023 | De Kiesraad heeft kwetsbaarheden in de Ondersteunende Software Verkiezingen (OSV2020) hersteld na een tip van een ethische hacker van Zerocopter. Boone ontdekte dat hij binnen &amp;#039;minder dan een uur&amp;#039; toegang kon krijgen tot het programma en meldde dit bij de Kiesraad. De kwetsbaarheden maakten het mogelijk om de verkiezingsuitslag te manipuleren door een aangepaste versie van de software te verspreiden. De Kiesraad heeft de problemen verholpen voordat politieke partijen de software konden gebruiken voor de aankomende Tweede Kamerverkiezingen. Er zijn geen onregelmatigheden gevonden in de uitslagen. (Bron: volkskrant.nl)</description>
-			<guid isPermaLink="false">https://www.volkskrant.nl/nieuws-achtergrond/lek-in-stemmentelsoftware-verkiezingen-gedicht-na-tip-van-hacker~be70023c/?datalekt=ab1fc79013afe2cac289a544e41c77f8</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
