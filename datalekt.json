@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ec9998f743fde91bb2f9c0c0817e3036",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Northsea Yacht Support getroffen door ransomware aanval van de criminele organisatie LockBit",
+        "date_published": "2024-02-10T13:50:00Z",
+        "date_modified": "2024-02-10T13:50:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Northsea Yacht Support | Industrie | 09-02-2024 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Northsea Yacht Support heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.gelderlander.nl/venlo/roermond-meldt-datalek-bij-jaaropgaven-bijstandsuitkeringen~ab75cfb0/?datalekt=4419c7c9a667be5ea70d8d930f16d3cc",
         "url": "https://www.gelderlander.nl/venlo/roermond-meldt-datalek-bij-jaaropgaven-bijstandsuitkeringen~ab75cfb0/",
         "title": "Datalek bij jaaropgaven bijstandsuitkeringen in Roermond door menselijke fout",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Alkmaar | Overheid: Gemeenten | 14-09-2023 | De gemeente Alkmaar is slachtoffer geworden van internetfraude nadat medewerkers een valse spoedfactuur betaalden die zogenaamd afkomstig was van de directeur van een organisatie. De factuur bedroeg 236.243 euro [Update: De gemeente heeft d.d. 18-12-2023 bevestigd dat 75.287 euro terugbetaald is]. Na de fraude heeft de gemeente een intern onderzoek ingesteld en geconcludeerd dat medewerkers onder druk te snel tot betaling zijn overgegaan. De Wethouder van Financi\u00ebn benadrukt dat digitale criminaliteit een groeiend probleem is en dat de gemeente actief campagne voert om bewustzijn te vergroten. In december 2020 werd de gemeente ook getroffen door een phishing-aanval waarbij gegevens van Alkmaarders werden gelekt. (Bron: nhnieuws.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/810213/NRC%3A+Belastingdienst+verzamelde+op+grote+schaal+persoonlijke+informatie+burgers?datalekt=a2ebd991b0e9bb0ce7995958e2dceca2",
-        "url": "https://www.security.nl/posting/810213/NRC%3A+Belastingdienst+verzamelde+op+grote+schaal+persoonlijke+informatie+burgers",
-        "title": "Belastingdienst verzamelde onrechtmatig persoonlijke gegevens van burgers",
-        "date_published": "2023-09-15T09:46:00Z",
-        "date_modified": "2023-09-15T09:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 14-09-2023 | De Belastingdienst heeft op grote schaal persoonlijke informatie van burgers verzameld, waaronder gegevens die zij online deelden. Deze verzamelde informatie werd opgeslagen in een database genaamd Risico Analyse Model (RAM). Deze database werd gebruikt voor &#039;profiling&#039; en het identificeren van mogelijke afwijkende gedragspatronen. De gegevens waren afkomstig uit diverse bronnen, zowel van binnen als buiten de overheid. Er zijn zorgen geuit over de wettelijke basis voor het scrapen van deze gegevens. In januari 2021 werd ontdekt dat sommige RAM-data nog toegankelijk was, ondanks dat het systeem in mei 2018 was uitgeschakeld. (Bron: security.nl)"
     }
 ]
