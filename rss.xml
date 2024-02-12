@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 10 Feb 2024 18:16:42 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 12:26:46 +0000</lastBuildDate>
+		<item>
+			<title>CZ vordert ten onrechte uitgekeerde vergoedingen terug door softwarefout</title>
+			<link>https://nos.nl/artikel/2507747-fout-in-software-cz-wil-miljoenen-van-klanten-terug</link>
+			<description>CZ | Financiële instellingen | 06-02-2024 | Zorgverzekeraar CZ is van plan miljoenen euro&amp;#039;s terug te vorderen van tienduizenden klanten na een softwarefout. Deze fout leidde ertoe dat klanten met een aanvullende verzekering vergoedingen voor tandartskosten ontvingen, ook als de behandelingen niet door hun polis werden gedekt. De fout werd over een periode van twee jaar gemaakt, waarbij verzekerden ten onrechte vergoedingen ontvingen voor niet-gedekte behandelingen. CZ heeft betrokken verzekerden geïnformeerd over de noodzaak tot terugbetaling, variërend van kleine tot grotere bedragen. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2507747-fout-in-software-cz-wil-miljoenen-van-klanten-terug?datalekt=3cfb3095ae138de407430c3cba9f726b</guid>
+			<category>Financiële instellingen </category>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Northsea Yacht Support getroffen door ransomware aanval van de criminele organisatie LockBit</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.limburger.nl/cnt/dmf20230914_94573381?datalekt=a8c0faa481331f593a640918cdd812aa</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Alkmaar slachtoffer van internetfraude door valse factuur</title>
-			<link>https://www.nhnieuws.nl/nieuws/324685/oeps-gemeente-alkmaar-maakt-per-ongeluk-236000-euro-over-aan-nepdirecteur</link>
-			<description>Gemeente Alkmaar | Overheid: Gemeenten | 14-09-2023 | De gemeente Alkmaar is slachtoffer geworden van internetfraude nadat medewerkers een valse spoedfactuur betaalden die zogenaamd afkomstig was van de directeur van een organisatie. De factuur bedroeg 236.243 euro [Update: De gemeente heeft d.d. 18-12-2023 bevestigd dat 75.287 euro terugbetaald is]. Na de fraude heeft de gemeente een intern onderzoek ingesteld en geconcludeerd dat medewerkers onder druk te snel tot betaling zijn overgegaan. De Wethouder van Financiën benadrukt dat digitale criminaliteit een groeiend probleem is en dat de gemeente actief campagne voert om bewustzijn te vergroten. In december 2020 werd de gemeente ook getroffen door een phishing-aanval waarbij gegevens van Alkmaarders werden gelekt. (Bron: nhnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/324685/oeps-gemeente-alkmaar-maakt-per-ongeluk-236000-euro-over-aan-nepdirecteur?datalekt=d68d5c7a203f988901ff1354137c7640</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
