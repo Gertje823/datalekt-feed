@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 12 Feb 2024 12:26:46 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 12:26:54 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij EuroParcs vergroot risico op misbruik van persoonsgegevens</title>
+			<link>https://www.rtlnieuws.nl/tech/artikel/5434706/datalek-bij-europarcs-risico-persoonsgegevens</link>
+			<description>EuroParcs | Cultuur, sport en recreatie | 13-02-2024 | EuroParcs heeft een datalek in hun digitale omgeving ontdekt, waarbij onduidelijk is welke en hoeveel persoonsgegevens zijn blootgesteld. Het bedrijf, dat vakantiewoningen verkoopt, waarschuwt gebruikers voor een verhoogd risico op spam en phishing. Onmiddellijk na ontdekking van het lek is het IT-systeem offline gehaald en met een beveiligde back-up hersteld. De Autoriteit Persoonsgegevens is geïnformeerd over het incident. Klanten van EuroParcs worden aangemoedigd extra waakzaam te zijn voor mogelijke frauduleuze berichten. (Bron: rtlnieuws.nl)</description>
+			<guid isPermaLink="false">https://www.rtlnieuws.nl/tech/artikel/5434706/datalek-bij-europarcs-risico-persoonsgegevens?datalekt=e577eb58575873b7fad973fb442cebae</guid>
+			<category>Cultuur, sport en recreatie </category>
+			<pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>CZ vordert ten onrechte uitgekeerde vergoedingen terug door softwarefout</title>
 			<link>https://nos.nl/artikel/2507747-fout-in-software-cz-wil-miljoenen-van-klanten-terug</link>
@@ -798,14 +806,6 @@
 			<description>Stichting H3O  | Onderwijs | 15-09-2023 | Een geschil tussen ouders en Stichting H3O ging over de zorg voor hun dyslectische zoon. De rechtbank wees de hoofdklacht van de ouders af, maar een AVG-aspect kwam naar voren. De ouders verweten Stichting H3O dat deze privé-informatie over hun situatie in het leerlingendossier had opgenomen zonder duidelijke reden. De school kon niet onderbouwen waarom deze gegevens in het dossier waren opgenomen, wat leidde tot een oordeel van onrechtmatige gegevensverwerking. Hoewel er geen schadevergoeding werd toegekend, kan de Autoriteit Persoonsgegevens potentieel hoge boetes opleggen voor dergelijke overtredingen. (Bron: dirkzwager.nl)</description>
 			<guid isPermaLink="false">https://www.dirkzwager.nl/kennis/artikelen/school-moet-kunnen-verantwoorden-waarom-gegevens-leerling-in-dossier-zijn-opgenomen/?datalekt=3cd3668e91cd0c38731b5570d03b4008</guid>
 			<category>Onderwijs </category>
-			<pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Weert schendt privacy burgers met bijlage brief over vestigen voorkeursrecht</title>
-			<link>https://www.limburger.nl/cnt/dmf20230914_94573381</link>
-			<description>Gemeente Weert | Overheid: Gemeenten | 14-09-2023 | Weert schendt privacy burgers met bijlage brief over vestigen voorkeursrecht. (Bron: limburger.nl)</description>
-			<guid isPermaLink="false">https://www.limburger.nl/cnt/dmf20230914_94573381?datalekt=a8c0faa481331f593a640918cdd812aa</guid>
-			<category>Overheid: Gemeenten </category>
 			<pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
