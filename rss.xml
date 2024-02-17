@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 14 Feb 2024 12:26:54 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 17 Feb 2024 12:24:16 +0000</lastBuildDate>
+		<item>
+			<title>Hack treft 600 Ziggomail accounts van VodafoneZiggo na exploitatie van gelekte inloggegevens</title>
+			<link>https://www.vpngids.nl/nieuws/600-ziggomail-accounts-gehackt/</link>
+			<description>VodafoneZiggo | Informatie en communicatie | 16-02-2024 | Na een technische storing ontdekte VodafoneZiggo dat ongeveer 600 Ziggo-klanten e-mailaccounts zijn gehackt, uitgebuit door aanvallers met toegang tot e-mail en wachtwoordlijsten. De exacte herkomst van deze gegevens blijft onbekend, maar vermoed wordt dat ze verband houden met een eerder datalek bij softwareontwikkelaar Nebu B.V., wat resulteerde in de diefstal van persoonlijke informatie van miljoenen Nederlanders. De getroffen accounts zijn geblokkeerd en Ziggo heeft de zaak gemeld bij de Autoriteit Persoonsgegevens, terwijl gedupeerden instructies hebben ontvangen om hun accounts te herstellen. (Bron: vpngids.nl)</description>
+			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/600-ziggomail-accounts-gehackt/?datalekt=bddc18030e9cfc7e0303f64ebd9a3c30</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>MeerServices getroffen door ransomware aanval van de criminele organisatie PLAY</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>MeerServices | Groot- en detailhandel | 15-02-2024 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij MeerServices heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8df5e193a81ac72dd45983e7d2653f84</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij EuroParcs vergroot risico op misbruik van persoonsgegevens</title>
 			<link>https://www.rtlnieuws.nl/tech/artikel/5434706/datalek-bij-europarcs-risico-persoonsgegevens</link>
@@ -791,22 +807,6 @@
 			<guid isPermaLink="false">https://nos.nl/artikel/2491054-computersystemen-van-internationaal-strafhof-aangevallen?datalekt=c36d8431d964584ab04dc4f0ecb6dfee</guid>
 			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op HZPC: Miljoen euro buitgemaakt</title>
-			<link>https://www.akkerwijzer.nl/artikel/828624-cybercriminelen-hacken-hpzc-zeker-miljoen-euro-gestolen/</link>
-			<description>HZPC | Groot- en detailhandel | 18-09-2023 | HZPC werd onlangs het slachtoffer van cybercriminaliteit, waarbij een aanzienlijk bedrag naar een criminele bankrekening werd overgemaakt. Het geschatte verlies bedraagt minimaal een miljoen euro. Hoewel er geen exacte uitspraken zijn gedaan over het exacte bedrag, wordt er samengewerkt met banken en de politie om de schade te beperken. Er is ook een extern forensisch onderzoek gestart. De directeur benadrukte dat de diefstal geen gevolgen heeft voor de aangesloten aardappeltelers, maar de certificaathouders kunnen hier mogelijk wel de gevolgen van ondervinden. (Bron: akkerwijzer.nl)</description>
-			<guid isPermaLink="false">https://www.akkerwijzer.nl/artikel/828624-cybercriminelen-hacken-hpzc-zeker-miljoen-euro-gestolen/?datalekt=58070bbfd80aa56d73bea630d7a0781d</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Stichting H3O schendt AVG door onduidelijke verwerking van leerlinggegevens</title>
-			<link>https://www.dirkzwager.nl/kennis/artikelen/school-moet-kunnen-verantwoorden-waarom-gegevens-leerling-in-dossier-zijn-opgenomen/</link>
-			<description>Stichting H3O  | Onderwijs | 15-09-2023 | Een geschil tussen ouders en Stichting H3O ging over de zorg voor hun dyslectische zoon. De rechtbank wees de hoofdklacht van de ouders af, maar een AVG-aspect kwam naar voren. De ouders verweten Stichting H3O dat deze privé-informatie over hun situatie in het leerlingendossier had opgenomen zonder duidelijke reden. De school kon niet onderbouwen waarom deze gegevens in het dossier waren opgenomen, wat leidde tot een oordeel van onrechtmatige gegevensverwerking. Hoewel er geen schadevergoeding werd toegekend, kan de Autoriteit Persoonsgegevens potentieel hoge boetes opleggen voor dergelijke overtredingen. (Bron: dirkzwager.nl)</description>
-			<guid isPermaLink="false">https://www.dirkzwager.nl/kennis/artikelen/school-moet-kunnen-verantwoorden-waarom-gegevens-leerling-in-dossier-zijn-opgenomen/?datalekt=3cd3668e91cd0c38731b5570d03b4008</guid>
-			<category>Onderwijs </category>
-			<pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

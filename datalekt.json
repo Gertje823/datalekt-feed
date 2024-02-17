@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.vpngids.nl/nieuws/600-ziggomail-accounts-gehackt/?datalekt=bddc18030e9cfc7e0303f64ebd9a3c30",
+        "url": "https://www.vpngids.nl/nieuws/600-ziggomail-accounts-gehackt/",
+        "title": "Hack treft 600 Ziggomail accounts van VodafoneZiggo na exploitatie van gelekte inloggegevens",
+        "date_published": "2024-02-17T09:10:00Z",
+        "date_modified": "2024-02-17T09:10:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vpngids.nl"
+        },
+        "content_html": "",
+        "content_text": "VodafoneZiggo | Informatie en communicatie | 16-02-2024 | Na een technische storing ontdekte VodafoneZiggo dat ongeveer 600 Ziggo-klanten e-mailaccounts zijn gehackt, uitgebuit door aanvallers met toegang tot e-mail en wachtwoordlijsten. De exacte herkomst van deze gegevens blijft onbekend, maar vermoed wordt dat ze verband houden met een eerder datalek bij softwareontwikkelaar Nebu B.V., wat resulteerde in de diefstal van persoonlijke informatie van miljoenen Nederlanders. De getroffen accounts zijn geblokkeerd en Ziggo heeft de zaak gemeld bij de Autoriteit Persoonsgegevens, terwijl gedupeerden instructies hebben ontvangen om hun accounts te herstellen. (Bron: vpngids.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8df5e193a81ac72dd45983e7d2653f84",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "MeerServices getroffen door ransomware aanval van de criminele organisatie PLAY",
+        "date_published": "2024-02-17T09:05:00Z",
+        "date_modified": "2024-02-17T09:05:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "MeerServices | Groot- en detailhandel | 15-02-2024 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij MeerServices heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.rtlnieuws.nl/tech/artikel/5434706/datalek-bij-europarcs-risico-persoonsgegevens?datalekt=e577eb58575873b7fad973fb442cebae",
         "url": "https://www.rtlnieuws.nl/tech/artikel/5434706/datalek-bij-europarcs-risico-persoonsgegevens",
         "title": "Datalek bij EuroParcs vergroot risico op misbruik van persoonsgegevens",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Internationaal Strafhof | Overheid: Zelfstandige bestuursorganen | 19-09-2023 | Het Internationaal Strafhof in Den Haag is recentelijk getroffen door een cyberaanval. De exacte omvang en het type aanval zijn door het Strafhof niet bekendgemaakt. Er zijn aanwijzingen dat een groot aantal gevoelige documenten mogelijk is buitgemaakt, maar dit is niet bevestigd door het Strafhof. Er loopt momenteel een onderzoek naar de aanval in samenwerking met de Nederlandse autoriteiten. Er wordt ook onderzocht of een buitenlandse overheid betrokken is bij de aanval. De informatie die het Strafhof bezit, is van groot belang, vooral voor verdachten die willen weten of er onderzoek naar hen wordt gedaan. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://www.akkerwijzer.nl/artikel/828624-cybercriminelen-hacken-hpzc-zeker-miljoen-euro-gestolen/?datalekt=58070bbfd80aa56d73bea630d7a0781d",
-        "url": "https://www.akkerwijzer.nl/artikel/828624-cybercriminelen-hacken-hpzc-zeker-miljoen-euro-gestolen/",
-        "title": "Cyberaanval op HZPC: Miljoen euro buitgemaakt",
-        "date_published": "2023-09-19T11:30:00Z",
-        "date_modified": "2023-09-19T11:30:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "akkerwijzer.nl"
-        },
-        "content_html": "",
-        "content_text": "HZPC | Groot- en detailhandel | 18-09-2023 | HZPC werd onlangs het slachtoffer van cybercriminaliteit, waarbij een aanzienlijk bedrag naar een criminele bankrekening werd overgemaakt. Het geschatte verlies bedraagt minimaal een miljoen euro. Hoewel er geen exacte uitspraken zijn gedaan over het exacte bedrag, wordt er samengewerkt met banken en de politie om de schade te beperken. Er is ook een extern forensisch onderzoek gestart. De directeur benadrukte dat de diefstal geen gevolgen heeft voor de aangesloten aardappeltelers, maar de certificaathouders kunnen hier mogelijk wel de gevolgen van ondervinden. (Bron: akkerwijzer.nl)"
-    },
-    {
-        "id": "https://www.dirkzwager.nl/kennis/artikelen/school-moet-kunnen-verantwoorden-waarom-gegevens-leerling-in-dossier-zijn-opgenomen/?datalekt=3cd3668e91cd0c38731b5570d03b4008",
-        "url": "https://www.dirkzwager.nl/kennis/artikelen/school-moet-kunnen-verantwoorden-waarom-gegevens-leerling-in-dossier-zijn-opgenomen/",
-        "title": "Stichting H3O schendt AVG door onduidelijke verwerking van leerlinggegevens",
-        "date_published": "2023-09-17T12:53:00Z",
-        "date_modified": "2023-09-17T12:53:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dirkzwager.nl"
-        },
-        "content_html": "",
-        "content_text": "Stichting H3O  | Onderwijs | 15-09-2023 | Een geschil tussen ouders en Stichting H3O ging over de zorg voor hun dyslectische zoon. De rechtbank wees de hoofdklacht van de ouders af, maar een AVG-aspect kwam naar voren. De ouders verweten Stichting H3O dat deze priv\u00e9-informatie over hun situatie in het leerlingendossier had opgenomen zonder duidelijke reden. De school kon niet onderbouwen waarom deze gegevens in het dossier waren opgenomen, wat leidde tot een oordeel van onrechtmatige gegevensverwerking. Hoewel er geen schadevergoeding werd toegekend, kan de Autoriteit Persoonsgegevens potentieel hoge boetes opleggen voor dergelijke overtredingen. (Bron: dirkzwager.nl)"
     }
 ]
