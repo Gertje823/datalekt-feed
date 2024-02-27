@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=95fc6f02e38f908c916d504232284335",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Remkes getroffen door ransomware aanval van de criminele organisatie Cactus",
+        "date_published": "2024-02-27T09:16:00Z",
+        "date_modified": "2024-02-27T09:16:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Remkes | Groot- en detailhandel | 24-02-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij Remkes heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://beveiligingnieuws.nl/ambtenaar-verkocht-telefoons-en-laptops-van-ministerie-door/?datalekt=83826f1cab8707fa16e586b5fa95bec3",
         "url": "https://beveiligingnieuws.nl/ambtenaar-verkocht-telefoons-en-laptops-van-ministerie-door/",
         "title": "Ambtenaar bij ministerie van Economische Zaken betrokken bij diefstal van elektronica",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "RUD Zeeland | Overheid: Gemeenschappelijke regelingen | 22-09-2023 | RUD Zeeland, de milieudienst van de provincie, bleek eveneens kwetsbaar te zijn, met name door het gebruik van zwakke wachtwoorden, waardoor een ethische hacker gemakkelijk kon inbreken. Dit incident benadrukt de noodzaak van verbeterde beveiligingsprotocollen om gevoelige informatie en systemen effectief te beschermen. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2491429-ethische-inbraak-toont-zeeuws-provinciehuis-niet-goed-beveiligd?datalekt=4b612e5e21fde1bee85cc08d10753694",
-        "url": "https://nos.nl/artikel/2491429-ethische-inbraak-toont-zeeuws-provinciehuis-niet-goed-beveiligd",
-        "title": "Ethische inbraak onthult beveiligingsproblemen bij Provincie Zeeland",
-        "date_published": "2023-09-24T09:48:00Z",
-        "date_modified": "2023-09-24T09:48:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Provincie Zeeland | Overheid: Provincies | 22-09-2023 | Het provinciehuis van Provincie Zeeland in Middelburg is onvoldoende beveiligd, zo blijkt uit een onderzoek van de Rekenkamer Zeeland. Een &#039;mystery guest&#039; kon zonder problemen binnenkomen en had urenlang toegang tot verschillende ruimten en een computer, waar hij ongestoord kon proberen het interne systeem te hacken. Ondanks pogingen om de cyberveiligheid te verbeteren, is de fysieke beveiliging nog steeds inadequaat. (Bron: nos.nl)"
     }
 ]
