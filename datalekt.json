@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=163110a118f439da2e7202ee781574c2",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "GCA Nederland getroffen door ransomware aanval van de criminele organisatie RansomHouse",
+        "date_published": "2024-02-28T13:14:00Z",
+        "date_modified": "2024-02-28T13:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "GCA Nederland | Vervoer en opslag | 26-02-2024 | De criminele organisatie RansomHouse heeft op het darkweb aangekondigd dat zij GCA Nederland heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.1limburg.nl/nieuws/2570043/site-echt-susteren-offline-na-ddos-aanval?datalekt=bcdbe41c784457a278bbd7ab15bf395e",
+        "url": "https://www.1limburg.nl/nieuws/2570043/site-echt-susteren-offline-na-ddos-aanval",
+        "title": "Gemeente Echt-Susteren getroffen door DDoS-aanval",
+        "date_published": "2024-02-28T13:09:00Z",
+        "date_modified": "2024-02-28T13:09:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "1limburg.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Echt-Susteren | Overheid: Gemeenten | 26-02-2024 | De website van de gemeente Echt-Susteren is tijdelijk onbereikbaar geworden door een DDoS-aanval, uitgevoerd door cybercriminelen. Hierdoor kunnen inwoners momenteel alleen telefonisch afspraken maken. De aanval heeft de systemen van de gemeente niet gecompromitteerd, dankzij effectieve beveiligingsmaatregelen. Er is geen losgeld ge\u00ebist door de aanvallers, en de gemeente heeft aangifte gedaan bij de politie. De duur van de storing is nog onbekend. (Bron: 1limburg.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=95fc6f02e38f908c916d504232284335",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Remkes getroffen door ransomware aanval van de criminele organisatie Cactus",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-09-2023 | De gemeente Eindhoven gaat sportpassen met een kwetsbare QR-code vervangen door passen met een chip, na een ontdekking van een ethische hacker. Deze QR-code gaf toegang tot lokale zwembaden en bleek minder veilig dan gedacht, waardoor onbevoegden toegang konden krijgen tot de zwembaden met het tegoed van een andere gebruiker. Er zijn maatregelen genomen zoals het sluiten van digitale toegangspoortjes en het melden van een datalek bij de Autoriteit Persoonsgegevens. Er zijn geen meldingen van misbruik door gebruikers. Alle betrokken klanten worden ge\u00efnformeerd over het omwisselen van hun pas. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/vng-krijgt-tientallen-meldingen-van-ceo-fraude/?datalekt=32b16be1ea60fe9700de4a8ca5b977b8",
-        "url": "https://www.vpngids.nl/nieuws/vng-krijgt-tientallen-meldingen-van-ceo-fraude/",
-        "title": "Toename van CEO-fraude meldingen bij VNG",
-        "date_published": "2023-09-24T09:50:00Z",
-        "date_modified": "2023-09-24T09:50:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende gemeenten | Overheid: Gemeenten | 22-09-2023 | De Vereniging van Nederlandse Gemeenten (VNG) heeft recentelijk opvallend veel meldingen ontvangen van CEO-fraude. In de afgelopen twaalf maanden zijn er ongeveer zestig meldingen gedaan. Bij CEO-fraude doet iemand zich voor als een hooggeplaatste medewerker en overtuigt het slachtoffer om een onbetaalde factuur te voldoen. Verschillende gemeenten, waaronder Meierijstad en Alkmaar, zijn slachtoffer geworden, met schades vari\u00ebrend van tienduizenden tot meer dan tweehonderdduizend euro. De exacte totaalschade is onbekend. De fraude is voornamelijk een gevolg van menselijk handelen en het niet volgen van bestaande procedures. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2491429-ethische-inbraak-toont-zeeuws-provinciehuis-niet-goed-beveiligd?datalekt=5a8e80898f91aa4ed0df69cee8588b2f",
-        "url": "https://nos.nl/artikel/2491429-ethische-inbraak-toont-zeeuws-provinciehuis-niet-goed-beveiligd",
-        "title": "RUD Zeeland kwetsbaar door zwakke wachtwoorden",
-        "date_published": "2023-09-24T09:49:00Z",
-        "date_modified": "2023-09-24T09:49:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "RUD Zeeland | Overheid: Gemeenschappelijke regelingen | 22-09-2023 | RUD Zeeland, de milieudienst van de provincie, bleek eveneens kwetsbaar te zijn, met name door het gebruik van zwakke wachtwoorden, waardoor een ethische hacker gemakkelijk kon inbreken. Dit incident benadrukt de noodzaak van verbeterde beveiligingsprotocollen om gevoelige informatie en systemen effectief te beschermen. (Bron: nos.nl)"
     }
 ]
