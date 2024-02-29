@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.almelo.nl/kennisgeving-datalek-gemeente-almelo?datalekt=98dda7222b8700a7a78d7cd17d6560aa",
+        "url": "https://www.almelo.nl/kennisgeving-datalek-gemeente-almelo",
+        "title": "Datalek bij gemeente Almelo door publicatie petitiegegevens",
+        "date_published": "2024-02-29T09:05:00Z",
+        "date_modified": "2024-02-29T09:05:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "almelo.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Almelo | Overheid: Gemeenten | 27-02-2024 | Op 6 februari 2024 publiceerde gemeente Almelo per ongeluk een lijst met gegevens van ondertekenaars van een petitie. Deze fout werd op 13 februari ontdekt en het bestand werd direct verwijderd. De gelekte informatie omvatte namen, woonplaatsen, en het tijdstip van ondertekening. Een externe privacy officer beoordeelde het lek en concludeerde dat er een zeer laag risico op schade voor de betrokkenen was, waardoor besloten werd het incident niet te melden bij de Autoriteit Persoonsgegevens. De gemeente informeert getroffenen via hun website en een gemeentelijke advertentie. (Bron: almelo.nl)"
+    },
+    {
+        "id": "https://www.haarlemsdagblad.nl/cnt/dmf20240226_51911160?datalekt=098663294dd4a1918cf834111c69a12b",
+        "url": "https://www.haarlemsdagblad.nl/cnt/dmf20240226_51911160",
+        "title": "Schoterbos Apotheek stuurt stemadvies over parkeerreferendum naar klanten",
+        "date_published": "2024-02-29T09:00:00Z",
+        "date_modified": "2024-02-29T09:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "haarlemsdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "Schoterbos Apotheek | Gezondheids- en welzijnszorg | 26-02-2024 | Een apotheker in Haarlem heeft zijn klantenbestand gebruikt om een e-mail te versturen waarin hij pleit tegen het invoeren van betaald parkeren. Dit incident heeft geleid tot onvrede onder de klanten van de Schoterbos Apotheek, die het beschouwen als misbruik van vertrouwelijke gegevens en een datalek. Klanten zijn ontstemd over de inbreuk op hun privacy en het ongepaste gebruik van hun persoonlijke gegevens voor politieke doeleinden. (Bron: haarlemsdagblad.nl)"
+    },
+    {
+        "id": "https://www.binnenlandsbestuur.nl/digitaal/breda-negeerde-toezichthouder-bij-data-gestuurde-aanpak?datalekt=ca76573ad98a57fc6cb839bf6995e007",
+        "url": "https://www.binnenlandsbestuur.nl/digitaal/breda-negeerde-toezichthouder-bij-data-gestuurde-aanpak",
+        "title": "Breda zet controversi\u00eble dataverzameling door ondanks juridische risico&#039;s",
+        "date_published": "2024-02-29T08:55:00Z",
+        "date_modified": "2024-02-29T08:55:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "binnenlandsbestuur.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Breda | Overheid: Gemeenten | 26-02-2024 | Gemeente Breda zet haar datagestuurde aanpak voor het bestrijden van criminaliteit en ondermijning voort, ondanks waarschuwingen van de toezichthouder over het niet voldoen aan privacywetgeving. De gemeente verzamelt data over bewoners en voert programma&#039;s uit die vooraf bepalen waar fraude of criminele activiteiten kunnen plaatsvinden. Deze aanpak, die diep ingrijpt in het leven van mensen, wordt voortgezet ondanks bekendheid met de juridische risico&#039;s en het ontbreken van een wettelijke grondslag. Experts uiten zorgen over de effectiviteit en legaliteit van deze methodes. (Bron: binnenlandsbestuur.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=163110a118f439da2e7202ee781574c2",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "GCA Nederland getroffen door ransomware aanval van de criminele organisatie RansomHouse",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Van Eck Transport | Vervoer en opslag | 28-09-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Van Eck Transport heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/arriva-meldt-datalek-via-contactformulier/?datalekt=ade12e7ea9a03ea4cde66626e333ac05",
-        "url": "https://www.vpngids.nl/nieuws/arriva-meldt-datalek-via-contactformulier/",
-        "title": "Datalek bij Arriva door lek in contactformulier",
-        "date_published": "2023-09-27T14:49:00Z",
-        "date_modified": "2023-09-27T14:49:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Arriva | Vervoer en opslag | 27-09-2023 | Arriva heeft een datalek gemeld veroorzaakt door een lek in hun digitale contactformulier, waardoor een ethische hacker toegang kreeg tot persoonsgegevens van 195.000 klanten, waaronder namen, telefoonnummers, geboortedata en e-mailadressen. De getroffenen en de Autoriteit Persoonsgegevens zijn ge\u00efnformeerd. Het is onduidelijk wat de hacker met de gegevens heeft gedaan. Het contactformulier is offline gehaald en er zijn maatregelen genomen om herhaling te voorkomen. Gedupeerden kunnen Arriva aansprakelijk stellen voor het datalek. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ec1c50617cf024aa39833998db07c5d5",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "ZZColdstores getroffen door ransomware aanval van de criminele organisatie BlackCat (ALPHV)",
-        "date_published": "2023-09-25T00:00:00Z",
-        "date_modified": "2023-09-25T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "ZZColdstores | Vervoer en opslag | 25-09-2023 | De criminele organisatie BlackCat (ALPHV) heeft op het darkweb aangekondigd dat zij ZZColdstores heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/811439/Gemeente+Eindhoven+vervangt+sportpas+wegens+kwetsbare+QR-code?datalekt=4f8d46ca1eb74a86ca8990ef7829250b",
-        "url": "https://www.security.nl/posting/811439/Gemeente+Eindhoven+vervangt+sportpas+wegens+kwetsbare+QR-code",
-        "title": "Eindhoven vervangt sportpassen na ontdekking kwetsbare QR-code",
-        "date_published": "2023-09-24T09:52:00Z",
-        "date_modified": "2023-09-24T09:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-09-2023 | De gemeente Eindhoven gaat sportpassen met een kwetsbare QR-code vervangen door passen met een chip, na een ontdekking van een ethische hacker. Deze QR-code gaf toegang tot lokale zwembaden en bleek minder veilig dan gedacht, waardoor onbevoegden toegang konden krijgen tot de zwembaden met het tegoed van een andere gebruiker. Er zijn maatregelen genomen zoals het sluiten van digitale toegangspoortjes en het melden van een datalek bij de Autoriteit Persoonsgegevens. Er zijn geen meldingen van misbruik door gebruikers. Alle betrokken klanten worden ge\u00efnformeerd over het omwisselen van hun pas. (Bron: security.nl)"
     }
 ]
