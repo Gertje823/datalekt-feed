@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f395b01d8d083de36afdf90a9d1a0950",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "AB Texel Group getroffen door ransomware aanval van de criminele organisatie Cactus",
+        "date_published": "2024-02-29T15:41:00Z",
+        "date_modified": "2024-02-29T15:41:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "AB Texel Group | Vervoer en opslag | 28-02-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij AB Texel Group heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=153fa5ede93039c126e5a6bafa9db34a",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "HAL Allergy Group getroffen door ransomware aanval van de criminele organisatie RansomHouse",
+        "date_published": "2024-02-29T15:39:00Z",
+        "date_modified": "2024-02-29T15:39:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "HAL Allergy Group | Industrie | 28-02-2024 | De criminele organisatie RansomHouse heeft op het darkweb aangekondigd dat zij HAL Allergy Group heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.almelo.nl/kennisgeving-datalek-gemeente-almelo?datalekt=98dda7222b8700a7a78d7cd17d6560aa",
         "url": "https://www.almelo.nl/kennisgeving-datalek-gemeente-almelo",
         "title": "Datalek bij gemeente Almelo door publicatie petitiegegevens",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 27-09-2023 | De Belastingdienst slaagt er vaak niet in om tijdig te beslissen op AVG-inzageverzoeken van belastingplichtigen, waarbij in 80% van de gevallen de wettelijke termijn wordt overschreden. Dit betreft zowel oude als nieuwe verzoeken. Belastingplichtigen hebben recht op inzage in hun persoonsgegevens die door de fiscus worden gebruikt, en de Belastingdienst moet binnen \u00e9\u00e9n maand op deze verzoeken reageren, met een mogelijke verlenging van twee maanden. Verbeteracties zijn ingezet om sneller op inzageverzoeken te reageren. (Bron: accountancyvanmorgen.nl)"
-    },
-    {
-        "id": "https://www.bnr.nl/nieuws/technologie/10526380/hackers-stelen-inloggegevens-hotels-booking-com-vakantiegangers-de-dupe?datalekt=fc051bde5618199c8d5be70b88908827",
-        "url": "https://www.bnr.nl/nieuws/technologie/10526380/hackers-stelen-inloggegevens-hotels-booking-com-vakantiegangers-de-dupe",
-        "title": "Inloggegevens van hotels op Booking.com gestolen door hackers; vakantiegangers getroffen",
-        "date_published": "2023-09-28T13:51:00Z",
-        "date_modified": "2023-09-28T13:51:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "bnr.nl"
-        },
-        "content_html": "",
-        "content_text": "Booking.com | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 26-09-2023 | Hackers hebben inloggegevens van een onbekend aantal hotels op Booking.com buitgemaakt en verstuurden phishing-mails uit naam van deze hotels om gasten te bestelen. De aanvallers verleidden hotels om malware te downloaden, waarmee ze toegang kregen tot Booking-accounts van hotels en stuurden valse berichten naar toekomstige gasten over problemen met hun creditcard. Booking.com bevestigt het incident en heeft maatregelen genomen om getroffen partners en klanten te ondersteunen. Het exacte aantal getroffen hotels en gasten is onbekend, maar Booking.com benadrukt dat hun eigen systemen veilig zijn gebleven. (Bron: bnr.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c50299e78f4c04a439c81f0d7715bb88",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Van Eck Transport getroffen door ransomware aanval van de criminele organisatie PLAY",
-        "date_published": "2023-09-28T00:00:00Z",
-        "date_modified": "2023-09-28T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Van Eck Transport | Vervoer en opslag | 28-09-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Van Eck Transport heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
