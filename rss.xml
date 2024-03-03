@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 01 Mar 2024 01:08:54 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 03 Mar 2024 01:06:24 +0000</lastBuildDate>
+		<item>
+			<title>FranekerActueel overwint DDOS-aanval en is weer online</title>
+			<link>https://franekeractueel.nl/update-ddos-aanval-legt-franekeractueel-plat-update/</link>
+			<description>FranekerActueel | Informatie en communicatie | 26-02-2024 | De website FranekerActueel.nl werd getroffen door een gerichte DDOS-aanval, waardoor deze volledig platlag. De aanval was zo intens dat de provider de website moest blokkeren om de overlast te beperken. Dankzij de inzet van hun technische expert, Theo Lodewijk, is de website nu weer online en functioneert stabiel na overgezet te zijn naar een veilige locatie met CloudFlare bescherming. Dit proces vereiste aanzienlijke tijd en inspanning. (Bron: franekeractueel.nl)</description>
+			<guid isPermaLink="false">https://franekeractueel.nl/update-ddos-aanval-legt-franekeractueel-plat-update/?datalekt=08c5cab35ca2104cd5176349fd156164</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>AB Texel Group getroffen door ransomware aanval van de criminele organisatie Cactus</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://studio040.nl/nieuws/artikel/tue-krijgt-dikke-onvoldoende-voor-omgang-met-privacy?datalekt=f536508cac48779fe347fafcaca5038f</guid>
 			<category>Onderwijs </category>
 			<pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Belastingdienst overschrijdt termijnen voor AVG-inzageverzoeken</title>
-			<link>https://www.accountancyvanmorgen.nl/2023/09/27/avg-inzageverzoeken-belastingdienst-meestal-niet-op-tijd-afgehandeld/</link>
-			<description>Belastingdienst | Overheid: Organisatieonderdeel | 27-09-2023 | De Belastingdienst slaagt er vaak niet in om tijdig te beslissen op AVG-inzageverzoeken van belastingplichtigen, waarbij in 80% van de gevallen de wettelijke termijn wordt overschreden. Dit betreft zowel oude als nieuwe verzoeken. Belastingplichtigen hebben recht op inzage in hun persoonsgegevens die door de fiscus worden gebruikt, en de Belastingdienst moet binnen één maand op deze verzoeken reageren, met een mogelijke verlenging van twee maanden. Verbeteracties zijn ingezet om sneller op inzageverzoeken te reageren. (Bron: accountancyvanmorgen.nl)</description>
-			<guid isPermaLink="false">https://www.accountancyvanmorgen.nl/2023/09/27/avg-inzageverzoeken-belastingdienst-meestal-niet-op-tijd-afgehandeld/?datalekt=e1518facb01a10864651f812052b2a00</guid>
-			<category>Overheid: Organisatieonderdeel </category>
-			<pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

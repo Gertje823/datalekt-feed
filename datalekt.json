@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://franekeractueel.nl/update-ddos-aanval-legt-franekeractueel-plat-update/?datalekt=08c5cab35ca2104cd5176349fd156164",
+        "url": "https://franekeractueel.nl/update-ddos-aanval-legt-franekeractueel-plat-update/",
+        "title": "FranekerActueel overwint DDOS-aanval en is weer online",
+        "date_published": "2024-03-02T19:20:00Z",
+        "date_modified": "2024-03-02T19:20:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "franekeractueel.nl"
+        },
+        "content_html": "",
+        "content_text": "FranekerActueel | Informatie en communicatie | 26-02-2024 | De website FranekerActueel.nl werd getroffen door een gerichte DDOS-aanval, waardoor deze volledig platlag. De aanval was zo intens dat de provider de website moest blokkeren om de overlast te beperken. Dankzij de inzet van hun technische expert, Theo Lodewijk, is de website nu weer online en functioneert stabiel na overgezet te zijn naar een veilige locatie met CloudFlare bescherming. Dit proces vereiste aanzienlijke tijd en inspanning. (Bron: franekeractueel.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f395b01d8d083de36afdf90a9d1a0950",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "AB Texel Group getroffen door ransomware aanval van de criminele organisatie Cactus",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Technische Universiteit Eindhoven (TU/e) | Onderwijs | 27-09-2023 | De Technische Universiteit Eindhoven (TU/e) heeft een score van 1,3 uit 5 gekregen voor haar omgang met privacyregels, volgens een rapport van de Functionaris Gegevensbescherming. Het rapport wijst op een gebrek aan volwassenheid in de omgang met data en een laag privacybewustzijn, vooral binnen de wetenschappelijke afdelingen. Er wordt ook gerefereerd aan een significant datalek van campuskaarten. De universiteit streeft ernaar om tegen eind 2025 verbeteringen aan te brengen en ten minste drie van de vijf punten te behalen. (Bron: studio040.nl)"
-    },
-    {
-        "id": "https://www.accountancyvanmorgen.nl/2023/09/27/avg-inzageverzoeken-belastingdienst-meestal-niet-op-tijd-afgehandeld/?datalekt=e1518facb01a10864651f812052b2a00",
-        "url": "https://www.accountancyvanmorgen.nl/2023/09/27/avg-inzageverzoeken-belastingdienst-meestal-niet-op-tijd-afgehandeld/",
-        "title": "Belastingdienst overschrijdt termijnen voor AVG-inzageverzoeken",
-        "date_published": "2023-09-28T13:56:00Z",
-        "date_modified": "2023-09-28T13:56:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "accountancyvanmorgen.nl"
-        },
-        "content_html": "",
-        "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 27-09-2023 | De Belastingdienst slaagt er vaak niet in om tijdig te beslissen op AVG-inzageverzoeken van belastingplichtigen, waarbij in 80% van de gevallen de wettelijke termijn wordt overschreden. Dit betreft zowel oude als nieuwe verzoeken. Belastingplichtigen hebben recht op inzage in hun persoonsgegevens die door de fiscus worden gebruikt, en de Belastingdienst moet binnen \u00e9\u00e9n maand op deze verzoeken reageren, met een mogelijke verlenging van twee maanden. Verbeteracties zijn ingezet om sneller op inzageverzoeken te reageren. (Bron: accountancyvanmorgen.nl)"
     }
 ]
