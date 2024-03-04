@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 04 Mar 2024 01:03:55 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 04 Mar 2024 18:17:36 +0000</lastBuildDate>
 		<item>
 			<title>Jumbo schrapt adresgegevens op bezorgkratten na datalek</title>
 			<link>https://www.distrifood.nl/175008/jumbo-haalt-na-datalek-adresgegevens-van-bezorgkratten</link>
@@ -175,14 +175,6 @@
 			<guid isPermaLink="false">https://www.gelderlander.nl/venlo/roermond-meldt-datalek-bij-jaaropgaven-bijstandsuitkeringen~ab75cfb0/?datalekt=4419c7c9a667be5ea70d8d930f16d3cc</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld</title>
-			<link>https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html</link>
-			<description>Nationaal Coördinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&amp;#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&amp;#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=7ce0fed407359ad5c4a6e7fe0ec25c0e</guid>
-			<category>Overheid: Organisatieonderdeel </category>
-			<pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware</title>
@@ -543,6 +535,14 @@
 			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/uitgeverij-weet-cyberaanval-net-op-tijd-af-te-slaan/?datalekt=48a36cc40e1c5df90792fae04584a844</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld</title>
+			<link>https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html</link>
+			<description>Nationaal Coördinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&amp;#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&amp;#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=26310ce1dfcec443fdc21b7c8f92bf04</guid>
+			<category>Overheid: Organisatieonderdeel </category>
+			<pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Nomot getroffen door ransomware aanval van de criminele organisatie PLAY</title>

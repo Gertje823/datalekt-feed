@@ -273,19 +273,6 @@
         "content_text": "Gemeente Roermond | Overheid: Gemeenten | 06-02-2024 | In Roermond is een datalek ontstaan toen door een menselijke fout het Burger Service Nummer (BSN) van \u00e9\u00e9n persoon op alle verzonden jaaropgaven van bijstandsuitkeringen terechtkwam. Hoewel er geen andere persoonlijke gegevens op de opgave stonden, werd het lek serieus genomen. De gemeente heeft direct actie ondernomen door de betrokken persoon te informeren, excuses aan te bieden, en alle ontvangers te verzoeken de foutieve opgaven te vernietigen. Nieuwe, correcte opgaven zijn verzonden en het lek is gemeld bij de Autoriteit Persoonsgegevens. De gemeente zet in op verbetering van werkprocessen om herhaling te voorkomen. (Bron: gelderlander.nl)"
     },
     {
-        "id": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=7ce0fed407359ad5c4a6e7fe0ec25c0e",
-        "url": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html",
-        "title": "Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld",
-        "date_published": "2024-02-07T15:45:00Z",
-        "date_modified": "2024-02-07T15:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)"
-    },
-    {
         "id": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=cc50ccd8c68a19e8e927b242440450d2",
         "url": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/",
         "title": "Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware",
@@ -869,6 +856,19 @@
         },
         "content_html": "",
         "content_text": "Uitgeverij Em. de Jong | Informatie en communicatie | 16-11-2023 | Uitgeverij Em. de Jong heeft een cyberaanval tijdig ontdekt en afgeweerd, waardoor ernstige schade voorkomen werd. De aanval werd opgemerkt voordat malware het bedrijfsnetwerk kon infecteren of bestanden kon versleutelen, wat leidde tot het afsluiten van alle netwerken. Dit heeft geen directe impact op de distributie van hun weekbladen, maar zorgt wel voor operationele uitdagingen voor de werknemers. De duur van het herstel en de volledige impact van de aanval zijn nog onduidelijk. Er is geen informatie over eventuele datadiefstal of de identiteit van de aanvallers. De uitgeverij, bekend van zestien wekelijkse huis-aan-huisbladen en recente fusies voor innovatie in lokale media, werkt aan het herstel van hun systemen. (Bron: vpngids.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=26310ce1dfcec443fdc21b7c8f92bf04",
+        "url": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html",
+        "title": "Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld",
+        "date_published": "2023-11-15T15:45:00Z",
+        "date_modified": "2023-11-15T15:45:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b3b335cceb13a3f0f5124cb10f38bf2b",
