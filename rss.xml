@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 03 Mar 2024 01:06:24 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 04 Mar 2024 01:03:55 +0000</lastBuildDate>
+		<item>
+			<title>Jumbo schrapt adresgegevens op bezorgkratten na datalek</title>
+			<link>https://www.distrifood.nl/175008/jumbo-haalt-na-datalek-adresgegevens-van-bezorgkratten</link>
+			<description>Jumbo | Groot- en detailhandel | 01-03-2024 | Jumbo heeft besloten te stoppen met het gebruik van adresstickers op bezorgkratten nadat bleek dat namen en adressen van klanten onbedoeld bij andere klanten terechtkwamen. Dit incident wordt door de Autoriteit Persoonsgegevens aangemerkt als een datalek. Door deze maatregel beoogt Jumbo de privacy van haar klanten beter te beschermen en herhaling van dergelijke incidenten te voorkomen. Het voorval onderstreept het belang van zorgvuldige omgang met persoonsgegevens binnen de distributiesector. (Bron: distrifood.nl)</description>
+			<guid isPermaLink="false">https://www.distrifood.nl/175008/jumbo-haalt-na-datalek-adresgegevens-van-bezorgkratten?datalekt=93d2202dad6911db46df49370aa2fc5b</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Carpetright getroffen door datalek, klantgegevens mogelijk in gevaar</title>
+			<link>https://tweakers.net/nieuws/219198/carpetright-waarschuwt-dat-gehashte-wachtwoorden-mogelijk-zijn-gestolen.html</link>
+			<description>Carpetright | Groot- en detailhandel | 29-02-2024 | Carpetright heeft een waarschuwing uitgegeven over een datalek ontdekt op 19 februari, waarbij gehashte wachtwoorden mogelijk zijn gestolen. De oorzaak is malware op de back-end van hun website, exclusief ransomware. Dit incident heeft mogelijk de persoonlijke gegevens van alle 30.000 accounthouders, inclusief Belgische gebruikers, blootgesteld, zoals namen, adressen, telefoonnummers, en e-mailadressen. Betaalgegevens waren niet betrokken. Als voorzorgsmaatregel heeft Carpetright alle wachtwoorden gereset en een forensisch onderzoek door NFIR laten uitvoeren. Zowel de Nederlandse als de Belgische autoriteiten zijn ingelicht. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/219198/carpetright-waarschuwt-dat-gehashte-wachtwoorden-mogelijk-zijn-gestolen.html?datalekt=90792f06b5c8526be3a6548695a48993</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>FranekerActueel overwint DDOS-aanval en is weer online</title>
 			<link>https://franekeractueel.nl/update-ddos-aanval-legt-franekeractueel-plat-update/</link>
@@ -791,22 +807,6 @@
 			<guid isPermaLink="false">https://www.skipr.nl/nieuws/ziekenhuisapotheek-etz-misbruikt-voor-phishing/?datalekt=1f10c8e30ec6c272c1db2e5f46537089</guid>
 			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Kentie Systeemtechniek getroffen door ransomware aanval van de criminele organisatie NoEscape</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Kentie Systeemtechniek | Industrie | 08-10-2023 | De criminele organisatie NoEscape heeft op het darkweb aangekondigd dat zij Kentie Systeemtechniek heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=365361ad77217833c967521a2634f8bc</guid>
-			<category>Industrie </category>
-			<pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>TU/e voldoet onvoldoende aan de aan privacywetgeving</title>
-			<link>https://studio040.nl/nieuws/artikel/tue-krijgt-dikke-onvoldoende-voor-omgang-met-privacy</link>
-			<description>Technische Universiteit Eindhoven (TU/e) | Onderwijs | 27-09-2023 | De Technische Universiteit Eindhoven (TU/e) heeft een score van 1,3 uit 5 gekregen voor haar omgang met privacyregels, volgens een rapport van de Functionaris Gegevensbescherming. Het rapport wijst op een gebrek aan volwassenheid in de omgang met data en een laag privacybewustzijn, vooral binnen de wetenschappelijke afdelingen. Er wordt ook gerefereerd aan een significant datalek van campuskaarten. De universiteit streeft ernaar om tegen eind 2025 verbeteringen aan te brengen en ten minste drie van de vijf punten te behalen. (Bron: studio040.nl)</description>
-			<guid isPermaLink="false">https://studio040.nl/nieuws/artikel/tue-krijgt-dikke-onvoldoende-voor-omgang-met-privacy?datalekt=f536508cac48779fe347fafcaca5038f</guid>
-			<category>Onderwijs </category>
-			<pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
