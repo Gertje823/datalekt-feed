@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 05 Mar 2024 18:17:43 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 06 Mar 2024 01:03:13 +0000</lastBuildDate>
+		<item>
+			<title>Gegevens van duizenden kinderen op zwemleswachtlijst per ongeluk gedeeld door gemeente Den Haag</title>
+			<link>https://www.omroepwest.nl/nieuws/4813654/gemeente-stuurt-per-ongeluk-gegevens-duizenden-kinderen-rond-menselijke-fout</link>
+			<description>Gemeente Den Haag | Overheid: Gemeenten | 05-03-2024 | De gemeente Den Haag heeft door een menselijke fout gevoelige informatie van kinderen op de zwemleswachtlijst per e-mail verspreid. De e-mail bevatte namen, adressen, telefoonnummers en andere persoonlijke gegevens van de kinderen. Hoewel geprobeerd werd de verzending ongedaan te maken, kon niet gegarandeerd worden dat dit bij iedereen gelukt is. Ontvangers zijn verzocht de e-mail te verwijderen. De gemeente zal het datalek melden bij de autoriteit persoonsgegevens. (Bron: omroepwest.nl)</description>
+			<guid isPermaLink="false">https://www.omroepwest.nl/nieuws/4813654/gemeente-stuurt-per-ongeluk-gegevens-duizenden-kinderen-rond-menselijke-fout?datalekt=ae0bd56f82a06de929f576bfaa67fd74</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Vereniging van Waterbouwers: Risico op malware door uploadmogelijkheid</title>
 			<link>https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=aec3ee13d80333ff749eb3d987c2a143</guid>
 			<category>Bouwnijverheid </category>
 			<pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>KBS Accountants getroffen door ransomware aanval van de criminele organisatie NoEscape</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>KBS Accountants | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 18-10-2023 | De criminele organisatie NoEscape heeft op het darkweb aangekondigd dat zij KBS Accountants heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f8b7732e46e446a3698b5cc9a212d0f7</guid>
-			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
-			<pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
