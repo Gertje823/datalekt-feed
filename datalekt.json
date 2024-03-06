@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=66b6142eefea144905b296b47554acdc",
+        "url": "https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat",
+        "title": "Groot aantal Nederlandse bedrijven kwetsbaar door open cloudservers",
+        "date_published": "2024-03-06T08:31:00Z",
+        "date_modified": "2024-03-06T08:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "bnr.nl"
+        },
+        "content_html": "",
+        "content_text": "46 onbekende organisaties | Overige dienstverlening | 03-03-2024 | Uit onderzoek blijkt dat bijna vijftig Nederlandse bedrijven en instellingen te maken hebben met onvoldoende beveiligde cloudomgevingen, waardoor gevoelige informatie openbaar toegankelijk is geworden. Dit probleem, veroorzaakt door een gebrek aan juiste beveiligingsinstellingen bij het gebruik van cloudopslagdiensten zoals Amazon, Azure, en Google, toont aan dat de verantwoordelijkheid voor data-beveiliging bij de data-eigenaren zelf ligt. De reactie op deze ontdekking varieert, met sommige organisaties die direct actie ondernemen en anderen die niet reageren. (Bron: bnr.nl)"
+    },
+    {
         "id": "https://www.omroepwest.nl/nieuws/4813654/gemeente-stuurt-per-ongeluk-gegevens-duizenden-kinderen-rond-menselijke-fout?datalekt=ae0bd56f82a06de929f576bfaa67fd74",
         "url": "https://www.omroepwest.nl/nieuws/4813654/gemeente-stuurt-per-ongeluk-gegevens-duizenden-kinderen-rond-menselijke-fout",
         "title": "Gegevens van duizenden kinderen op zwemleswachtlijst per ongeluk gedeeld door gemeente Den Haag",
@@ -338,6 +351,19 @@
         "content_text": "Gemeente Roermond | Overheid: Gemeenten | 06-02-2024 | In Roermond is een datalek ontstaan toen door een menselijke fout het Burger Service Nummer (BSN) van \u00e9\u00e9n persoon op alle verzonden jaaropgaven van bijstandsuitkeringen terechtkwam. Hoewel er geen andere persoonlijke gegevens op de opgave stonden, werd het lek serieus genomen. De gemeente heeft direct actie ondernomen door de betrokken persoon te informeren, excuses aan te bieden, en alle ontvangers te verzoeken de foutieve opgaven te vernietigen. Nieuwe, correcte opgaven zijn verzonden en het lek is gemeld bij de Autoriteit Persoonsgegevens. De gemeente zet in op verbetering van werkprocessen om herhaling te voorkomen. (Bron: gelderlander.nl)"
     },
     {
+        "id": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=2d6842ee063651eff3b49710e3ba21e5",
+        "url": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html",
+        "title": "Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld",
+        "date_published": "2023-11-15T15:45:00Z",
+        "date_modified": "2024-02-07T15:45:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=cc50ccd8c68a19e8e927b242440450d2",
         "url": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/",
         "title": "Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware",
@@ -429,6 +455,19 @@
         "content_text": "ABN Amro | Financi\u00eble instellingen | 31-01-2024 | De Commissie van Beroep van Kifid heeft geoordeeld dat banken, zoals ABN Amro, de persoonsgegevens van fraudeurs niet automatisch acht jaar in waarschuwingsregisters mogen opnemen. Dit besluit volgt na een zaak tegen ABN Amro, die de gegevens van een consument, onge\u00efnformeerd over andere financi\u00eble verplichtingen bij een hypotheekaanvraag, langdurig registreerde. De uitspraak benadrukt de noodzaak van een belangenafweging bij registratie, in lijn met de privacywetgeving, en weerlegt het gebruik van een standaardtermijn. (Bron: accountancyvanmorgen.nl)"
     },
     {
+        "id": "https://www.security.nl/posting/701247/Gemeente+Enschede+krijgt+600_000+euro+boete+wegens+wifi-tracking?datalekt=b60ca628683b8555109b9b589b5c81da",
+        "url": "https://www.security.nl/posting/701247/Gemeente+Enschede+krijgt+600_000+euro+boete+wegens+wifi-tracking",
+        "title": "Gemeente Enschede beboet voor ongeoorloofde wifi-tracking in binnenstad",
+        "date_published": "2021-10-01T00:00:00Z",
+        "date_modified": "2024-02-02T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Enschede | Overheid: Gemeenten | 29-04-2021 | De gemeente Enschede heeft een boete van 600.000 euro ontvangen van de Autoriteit Persoonsgegevens vanwege het gebruik van wifi-tracking in de binnenstad [Update: De Rechtbank heeft d.d. 2-2-2024 de boete ongegrond verklaard]. Vier jaar eerder had de gemeente besloten om met sensoren de drukte in de binnenstad te meten en huurde hiervoor een gespecialiseerd bedrijf in. Dit bedrijf plaatste meetkastjes die wifi-signalen van mobiele telefoons opvingen en elke telefoon via een unieke code registreerden. De Autoriteit Persoonsgegevens stelde dat dit neerkwam op het volgen van mensen, wat een ernstige overtreding van de AVG is. Er waren geen aanwijzingen dat bezoekers daadwerkelijk werden gevolgd, maar het potentieel om dit te doen was al een overtreding. De gemeente en twee andere bedrijven hadden toegang tot de wifi-data. De gemeente stopte met wifi-tracking in mei 2020 na interventie van de Autoriteit Persoonsgegevens. (Bron: security.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/218144/ap-geeft-uber-recordboete-van-10-miljoen-euro-voor-slechte-info-inzageverzoek.html?datalekt=5dd2402464c09432d4ea9788256d0a07",
         "url": "https://tweakers.net/nieuws/218144/ap-geeft-uber-recordboete-van-10-miljoen-euro-voor-slechte-info-inzageverzoek.html",
         "title": "Recordboete voor Uber door AP wegens privacytekortkomingen",
@@ -492,6 +531,19 @@
         },
         "content_html": "",
         "content_text": "Banijay Benelux | Informatie en communicatie | 18-01-2024 | Contentproducent Banijay Benelux, bekend van shows zoals Big Brother, werd in 2020 getroffen door een ransomware-aanval. Trend Micro werd ingeschakeld en slaagde erin de schade te beperken en de bedrijfsactiviteiten snel te hervatten. Het precieze herstelproces en de genomen maatregelen zijn gedetailleerd beschreven in de whitepaper. (Bron: agconnect.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html?datalekt=766a5a3bbe3e69d6d4c67536762f6a36",
+        "url": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html",
+        "title": "Cyberaanval op EasyPark leidt tot datalek van klantgegevens",
+        "date_published": "2023-12-15T18:16:00Z",
+        "date_modified": "2024-01-19T18:16:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "EasyPark | Informatie en communicatie | 15-12-2023 | EasyPark, een prominente parkeerapp en voormalig Parkmobile, is recentelijk getroffen door een cyberaanval. Door deze aanval zijn klantgegevens zoals namen, telefoonnummers, adressen en gedeeltelijke IBAN- en creditcardnummers gelekt [Update: d.d. 19 januari 2024 is bekend geworden dat ook wachtwoorden zijn gelekt.] . Het exacte aantal getroffen klanten is niet bekendgemaakt, maar zij worden individueel ge\u00efnformeerd. EasyPark waarschuwt dat de gelekte gegevens mogelijk gebruikt kunnen worden voor phishing-aanvallen. Het bedrijf benadrukt het belang van privacybescherming en betuigt spijt over het incident. EasyPark, dat eerder dit jaar werd overgenomen en van naam veranderde, had ongeveer drie miljoen gebruikers in Nederland ten tijde van de naamswijziging. (Bron: nu.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7e5ad60dd3998f4ae90a8289063ba43d",
@@ -663,17 +715,17 @@
         "content_text": "KLM | Vervoer en opslag | 18-12-2023 | Priv\u00e9gegevens van KLM-klanten, waaronder telefoonnummers, e-mailadressen en soms paspoortgegevens, waren eenvoudig te verzamelen door onbevoegden door een datalek. Dit lek ontstond door een fout in de hyperlink met vluchtinformatie die KLM-klanten via sms ontvingen. Deze links waren niet uniek genoeg, waardoor kwaadwillenden met geautomatiseerde scripts toegang konden krijgen. Ongeveer 0,5 tot 1,5 procent van de geprobeerde links bleek te werken, wat wijst op een aanzienlijk aantal toegankelijke klantgegevens. KLM heeft het probleem snel verholpen na melding door de NOS, maar de omvang van de schade en of het lek daadwerkelijk is misbruikt, blijft onbekend. (Bron: nos.nl)"
     },
     {
-        "id": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html?datalekt=78cfcc3992ed46f1203a58ba858e16e3",
-        "url": "https://www.nu.nl/tech/6294253/gegevens-van-klanten-parkeerapp-easypark-gelekt-na-cyberaanval.html",
-        "title": "Cyberaanval op EasyPark leidt tot datalek van klantgegevens",
-        "date_published": "2023-12-15T18:16:00Z",
-        "date_modified": "2023-12-15T18:16:00Z",
+        "id": "https://www.nhnieuws.nl/nieuws/324685/oeps-gemeente-alkmaar-maakt-per-ongeluk-236000-euro-over-aan-nepdirecteur?datalekt=4720754608e6bee91cb6169f34ee2867",
+        "url": "https://www.nhnieuws.nl/nieuws/324685/oeps-gemeente-alkmaar-maakt-per-ongeluk-236000-euro-over-aan-nepdirecteur",
+        "title": "Gemeente Alkmaar slachtoffer van internetfraude door valse factuur",
+        "date_published": "2023-09-15T09:49:00Z",
+        "date_modified": "2023-12-18T09:49:00Z",
         "language": "nl-nl",
         "author": {
-            "name": "nu.nl"
+            "name": "nhnieuws.nl"
         },
         "content_html": "",
-        "content_text": "EasyPark | Informatie en communicatie | 15-12-2023 | EasyPark, een prominente parkeerapp en voormalig Parkmobile, is recentelijk getroffen door een cyberaanval. Door deze aanval zijn klantgegevens zoals namen, telefoonnummers, adressen en gedeeltelijke IBAN- en creditcardnummers gelekt [Update: d.d. 19 januari 2024 is bekend geworden dat ook wachtwoorden zijn gelekt.] . Het exacte aantal getroffen klanten is niet bekendgemaakt, maar zij worden individueel ge\u00efnformeerd. EasyPark waarschuwt dat de gelekte gegevens mogelijk gebruikt kunnen worden voor phishing-aanvallen. Het bedrijf benadrukt het belang van privacybescherming en betuigt spijt over het incident. EasyPark, dat eerder dit jaar werd overgenomen en van naam veranderde, had ongeveer drie miljoen gebruikers in Nederland ten tijde van de naamswijziging. (Bron: nu.nl)"
+        "content_text": "Gemeente Alkmaar | Overheid: Gemeenten | 14-09-2023 | De gemeente Alkmaar is slachtoffer geworden van internetfraude nadat medewerkers een valse spoedfactuur betaalden die zogenaamd afkomstig was van de directeur van een organisatie. De factuur bedroeg 236.243 euro [Update: De gemeente heeft d.d. 18-12-2023 bevestigd dat 75.287 euro terugbetaald is]. Na de fraude heeft de gemeente een intern onderzoek ingesteld en geconcludeerd dat medewerkers onder druk te snel tot betaling zijn overgegaan. De Wethouder van Financi\u00ebn benadrukt dat digitale criminaliteit een groeiend probleem is en dat de gemeente actief campagne voert om bewustzijn te vergroten. In december 2020 werd de gemeente ook getroffen door een phishing-aanval waarbij gegevens van Alkmaarders werden gelekt. (Bron: nhnieuws.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8f670960e01c3dd3d9b44d7134c5338a",
@@ -858,6 +910,19 @@
         "content_text": "NXP Semiconductors | Industrie | 24-11-2023 | Tussen eind 2017 en het voorjaar van 2020 had de Chinese hackersgroep &#039;Chimera&#039; onopgemerkt toegang tot het netwerk van de Nederlandse chipfabrikant NXP. Ze verkregen deze toegang door gebruikersnamen uit eerdere datalekken bij LinkedIn en Facebook te combineren met brute kracht aanvallen op wachtwoorden. Eenmaal binnen breidden ze hun toegangsrechten uit om gevoelige data, zoals chipontwerpen, te stelen. Deze bestanden werden via clouddiensten zoals OneDrive en Google Drive verkregen. Ondanks de diefstal van intellectueel eigendom, meldt NXP geen materi\u00eble schade te hebben geleden en heeft het zijn beveiliging verbeterd na deze ervaring. (Bron: nos.nl)"
     },
     {
+        "id": "https://www.vpngids.nl/nieuws/uwv-schond-op-grote-schaal-privacywetgeving/?datalekt=65f662285df1a2231ea338c9441d52f8",
+        "url": "https://www.vpngids.nl/nieuws/uwv-schond-op-grote-schaal-privacywetgeving/",
+        "title": "UWV overtrad privacywetgeving door illegale dataverzameling",
+        "date_published": "2023-07-16T14:22:00Z",
+        "date_modified": "2023-11-24T14:22:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vpngids.nl"
+        },
+        "content_html": "",
+        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 15-07-2023 | Het Uitvoeringsinstituut Werknemersverzekeringen (UWV) heeft jarenlang op onrechtmatige wijze gegevens van uitkeringsgerechtigden verzameld, waaronder IP-adressen, en heeft zonder toestemming cookies geplaatst om deze personen heimelijk te volgen. Het doel was om te controleren of mensen met een WW-uitkering in het buitenland verbleven. Deze praktijken werden toegepast in het fraude-algoritme &#039;Risicoscan Verblijf Buitenland&#039;, wat resulteerde in 3.600 onderzoeken en 460 aanpassingen van uitkeringen. Na twijfels over de juridische basis werd het systeem begin dit jaar stopgezet. De Autoriteit Persoonsgegevens heeft kritiek geuit op de werkwijze van het UWV en overweegt een boete die kan oplopen tot 20 miljoen euro [Update: UWV heeft d.d. 24-11-2023 bekend gemaakt 703 boetes terug te gaan betalen]. (Bron: vpngids.nl)"
+    },
+    {
         "id": "https://www.3dhype.com/index/nieuws/2959?datalekt=eaa4efe75971033c47bd5c0f35650e5f",
         "url": "https://www.3dhype.com/index/nieuws/2959",
         "title": "Blender getroffen door DDOS-aanval, diensten tijdelijk onbereikbaar",
@@ -921,19 +986,6 @@
         },
         "content_html": "",
         "content_text": "Uitgeverij Em. de Jong | Informatie en communicatie | 16-11-2023 | Uitgeverij Em. de Jong heeft een cyberaanval tijdig ontdekt en afgeweerd, waardoor ernstige schade voorkomen werd. De aanval werd opgemerkt voordat malware het bedrijfsnetwerk kon infecteren of bestanden kon versleutelen, wat leidde tot het afsluiten van alle netwerken. Dit heeft geen directe impact op de distributie van hun weekbladen, maar zorgt wel voor operationele uitdagingen voor de werknemers. De duur van het herstel en de volledige impact van de aanval zijn nog onduidelijk. Er is geen informatie over eventuele datadiefstal of de identiteit van de aanvallers. De uitgeverij, bekend van zestien wekelijkse huis-aan-huisbladen en recente fusies voor innovatie in lokale media, werkt aan het herstel van hun systemen. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=26310ce1dfcec443fdc21b7c8f92bf04",
-        "url": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html",
-        "title": "Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld",
-        "date_published": "2023-11-15T15:45:00Z",
-        "date_modified": "2023-11-15T15:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b3b335cceb13a3f0f5124cb10f38bf2b",
@@ -1222,6 +1274,19 @@
         "content_text": "Global Value Web | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 05-11-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Global Value Web heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
+        "id": "https://www.omroepbrabant.nl/nieuws/4280276/hack-bij-gemeente-criminelen-hadden-toegang-tot-tienduizenden-gegevens?datalekt=5c353d89ba035d281a5d8a07cd561794",
+        "url": "https://www.omroepbrabant.nl/nieuws/4280276/hack-bij-gemeente-criminelen-hadden-toegang-tot-tienduizenden-gegevens",
+        "title": "Digitale inbraak bij gemeente Asten treft 23.000 persoonsgegevens",
+        "date_published": "2023-05-22T00:00:00Z",
+        "date_modified": "2023-11-02T00:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepbrabant.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Asten | Overheid: Gemeenten | 22-05-2023 | De gemeente Asten is eind vorig jaar getroffen door een digitale inbraak waarbij aanvankelijk gedacht werd aan factuurfraude. Het bleek later dat criminelen ongeoorloofde toegang hadden tot circa 23.000 persoonlijke gegevens en andere bestanden [Update: d.d. 02-11-2023 is bekend geworden dat de gemeente 612 inwoners een brief over dit incident heeft gestuurd]. De identiteit van de hackers is nog onbekend, evenals wat er met de gegevens is gebeurd. De gemeente heeft aangifte gedaan en de veiligheidsmaatregelen versterkt. Er is geen geld overgemaakt naar de aanvallers. De criminelen hadden toegang tot namen, financi\u00eble gegevens en kopie\u00ebn van identiteitsdocumenten. De exacte omvang van de gelekte gegevens wordt nog onderzocht. (Bron: omroepbrabant.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4d31df947bb5d14010bbba63198cf5d3",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "HAL Allergy Group getroffen door ransomware aanval van de criminele organisatie BlackCat (ALPHV)",
@@ -1233,70 +1298,5 @@
         },
         "content_html": "",
         "content_text": "HAL Allergy Group | Industrie | 02-11-2023 | De criminele organisatie BlackCat (ALPHV) heeft op het darkweb aangekondigd dat zij HAL Allergy Group heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=75af6eb8e3fe4c2c789e68373c5da3e9",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Tanatex Chemicals getroffen door ransomware aanval van de criminele organisatie Metaencryptor",
-        "date_published": "2023-11-01T00:00:00Z",
-        "date_modified": "2023-11-01T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Tanatex Chemicals | Industrie | 01-11-2023 | De criminele organisatie Metaencryptor heeft op het darkweb aangekondigd dat zij Tanatex Chemicals heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/815377/Criteo+mag+van+rechter+niet+zonder+toestemming+trackingcookies+plaatsen?datalekt=1fb510e9ab16a17e47decc3f33bf8687",
-        "url": "https://www.security.nl/posting/815377/Criteo+mag+van+rechter+niet+zonder+toestemming+trackingcookies+plaatsen",
-        "title": "Rechter verbiedt Criteo ongevraagd trackingcookies te plaatsen",
-        "date_published": "2023-10-27T12:27:00Z",
-        "date_modified": "2023-10-27T12:27:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Criteo | Informatie en communicatie | 23-10-2023 | De rechtbank in Amsterdam heeft besloten dat het advertentiebedrijf Criteo geen trackingcookies mag plaatsen zonder de expliciete toestemming van de gebruiker, aangezien dit in strijd is met de AVG. Criteo gebruikte deze cookies om het surfgedrag van gebruikers te analyseren voor commerci\u00eble doeleinden, zoals het tonen van gerichte advertenties. Eerder kreeg Criteo al een boete van veertig miljoen euro van de Franse privacytoezichthouder CNIL voor vergelijkbare praktijken. Als Criteo doorgaat met het plaatsen van cookies zonder toestemming, wordt een dwangsom opgelegd van 250 euro per dag, tot een maximum van 25.000 euro. (Bron: security.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/214860/nrc-ex-asml-medewerker-die-bedrijfsgeheimen-stal-ging-bij-huawei-werken.html?datalekt=b3dee1b12a68a1e96c97e91e9ae10078",
-        "url": "https://tweakers.net/nieuws/214860/nrc-ex-asml-medewerker-die-bedrijfsgeheimen-stal-ging-bij-huawei-werken.html",
-        "title": "Ex-ASML medewerker verduistert bedrijfsgeheimen en treedt in dienst bij Huawei",
-        "date_published": "2023-10-25T10:38:00Z",
-        "date_modified": "2023-10-25T10:38:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "ASML | Industrie | 23-10-2023 | Een voormalige medewerker van ASML, die bedrijfsgeheimen had gestolen, is later bij Huawei in dienst getreden. ASML had al erkend dat de Chinese ex-medewerker geheimen had ontvreemd, maar had niets vermeld over zijn betrokkenheid bij Huawei na het incident. De exacte details over hoe de bedrijfsgeheimen werden gestolen, zijn niet vermeld, en ook de specifieke (financi\u00eble) schade die ASML heeft geleden, is niet bekendgemaakt in het beschikbare deel van het artikel. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.agconnect.nl/maatschappij/privacy/haagse-herhaling-van-2021-privacyfout-ligt-aan-extern-bureau?datalekt=7072f78c78c3322e9f7b55719510d89e",
-        "url": "https://www.agconnect.nl/maatschappij/privacy/haagse-herhaling-van-2021-privacyfout-ligt-aan-extern-bureau",
-        "title": "Extern bureau veroorzaakt herhaald datalek bij gemeente Den Haag",
-        "date_published": "2023-10-24T11:23:00Z",
-        "date_modified": "2023-10-24T11:23:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "agconnect.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Den Haag | Overheid: Gemeenten | 10-10-2023 | Een herhaald datalek bij de gemeente Den Haag wordt toegeschreven aan een extern communicatiebureau dat verantwoordelijk was voor de website van de hackwedstrijd &quot;H\u00e2ck The Hague 2023&quot;. Het bureau voldeed niet aan de vereiste privacywetgeving, wat resulteerde in de ongeoorloofde doorgifte van persoonsgegevens aan derden zonder expliciete toestemming. Dit incident is vergelijkbaar met een privacyfout die in 2021 werd ontdekt. De gemeente heeft beloofd strenger toe te zien op de naleving van privacywetten in toekomstige edities van het evenement (Bron: agconnect.nl)."
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=aec3ee13d80333ff749eb3d987c2a143",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "De Groot Installatiegroep getroffen door ransomware aanval van de criminele organisatie LockBit",
-        "date_published": "2023-10-20T00:00:00Z",
-        "date_modified": "2023-10-20T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "De Groot Installatiegroep | Bouwnijverheid | 20-10-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij De Groot Installatiegroep heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
