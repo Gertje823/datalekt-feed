@@ -1,5 +1,57 @@
 [
     {
+        "id": "https://www.leidschdagblad.nl/cnt/dmf20240307_53950069?datalekt=0f36bb7462a4e91b3c47e079c84b66af",
+        "url": "https://www.leidschdagblad.nl/cnt/dmf20240307_53950069",
+        "title": "Lisse betrokken bij regionaal datalek door verstuurde energiebonnen",
+        "date_published": "2024-03-09T10:03:00Z",
+        "date_modified": "2024-03-09T10:03:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "leidschdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Lisse | Overheid: Gemeenten | 07-03-2024 | Ook de gemeente Lisse is betrokken bij het datalek veroorzaakt door de foutieve verzending van energiebonnen, waarbij persoonsgegevens van de inwoners zijn gelekt. Dit incident maakt deel uit van een breder probleem dat 262 inwoners treft verspreid over drie gemeenten. De gemeente Lisse heeft, net als de andere gemeenten, haar excuses aangeboden aan de getroffen inwoners en werkt aan maatregelen om de privacy van haar inwoners beter te beschermen. (Bron: leidschdagblad.nl)"
+    },
+    {
+        "id": "https://www.leidschdagblad.nl/cnt/dmf20240307_53950069?datalekt=18c94fa293c6e060ee6694a959107e3d",
+        "url": "https://www.leidschdagblad.nl/cnt/dmf20240307_53950069",
+        "title": "Datalek raakt inwoners van Hillegom door fout in verzending energiebonnen",
+        "date_published": "2024-03-09T10:02:00Z",
+        "date_modified": "2024-03-09T10:02:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "leidschdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Hillegom | Overheid: Gemeenten | 07-03-2024 | In Hillegom heeft een vergelijkbaar datalek plaatsgevonden als in Teylingen, waarbij persoonsgegevens van inwoners door een fout in de verzending van energiebonnen zijn gelekt. Dit lek treft een deel van de 262 in totaal getroffen inwoners over drie gemeenten. Specifieke maatregelen of het exacte aantal getroffen inwoners in Hillegom zijn niet vermeld, maar de gemeente heeft excuses aangeboden en benadrukt het belang van zorgvuldigheid met persoonsgegevens. (Bron: leidschdagblad.nl)"
+    },
+    {
+        "id": "https://www.bollenstreekomroep.nl/tientallen-gegevens-van-inwoners-uit-teylingen-verkeerd-verstuurd-met-energiebonnen/?datalekt=b60922285dec481adbc5563fc7803ef4",
+        "url": "https://www.bollenstreekomroep.nl/tientallen-gegevens-van-inwoners-uit-teylingen-verkeerd-verstuurd-met-energiebonnen/",
+        "title": "Datalek in Teylingen door fout met energiebonnen",
+        "date_published": "2024-03-09T09:53:00Z",
+        "date_modified": "2024-03-09T09:53:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "bollenstreekomroep.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Teylingen | Overheid: Gemeenten | 07-03-2024 | In de gemeente Teylingen is door een menselijke fout een datalek ontstaan bij het versturen van brieven voor energiebonnen. Hierdoor zijn de persoonlijke gegevens van 87 inwoners, verdeeld over Voorhout, Sassenheim en Warmond, onbedoeld verstrekt aan 19 andere inwoners. De fout ontstond tijdens het e-mailen van etiket-teksten voor de enveloppen. Getroffen inwoners zijn ge\u00efnformeerd met het verzoek de ontvangen e-mail te verwijderen. De gemeente heeft maatregelen genomen om de betrokkenen te beschermen en hen gevraagd waakzaam te zijn voor mogelijke gevolgen van dit datalek. (Bron: bollenstreekomroep.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=199913f8a4743278873a4b3eac8cbc5a",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "VanderHelm Bedrijven getroffen door ransomware aanval van de criminele organisatie Donex",
+        "date_published": "2024-03-09T09:46:00Z",
+        "date_modified": "2024-03-09T09:46:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "VanderHelm Bedrijven | Bouwnijverheid | 07-03-2024 | De criminele organisatie Donex heeft op het darkweb aangekondigd dat zij VanderHelm Bedrijven heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=66b6142eefea144905b296b47554acdc",
         "url": "https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat",
         "title": "Groot aantal Nederlandse bedrijven kwetsbaar door open cloudservers",
@@ -1246,57 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Translink | Vervoer en opslag | 04-11-2023 | De OV-chipkaart website ondervond verminderde bereikbaarheid door meerdere DDoS-aanvallen, uitgevoerd door de pro-Russische hackersgroep NoName05716. Deze aanvallen, een reactie op Nederlandse steun aan Oekra\u00efne, overlaadden de systemen met verkeer om ze te overbelasten. Translink, het bedrijf achter de OV-chipkaart, heeft strenge maatregelen getroffen om de aanvallen het hoofd te bieden, wat soms resulteerde in verminderde toegankelijkheid van de website. Desondanks bleef het in- en uitchecken met de OV-chipkaart mogelijk voor reizigers. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.omroepwest.nl/nieuws/4774722/instagram-account-van-burgemeester-gehackt?datalekt=429eb7d948032f332fbb689ebc9f000f",
-        "url": "https://www.omroepwest.nl/nieuws/4774722/instagram-account-van-burgemeester-gehackt",
-        "title": "Instagram-account van Westlandse burgemeester gecompromitteerd voor Bitcoin-berichten",
-        "date_published": "2023-11-06T12:50:00Z",
-        "date_modified": "2023-11-06T12:50:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepwest.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Westland | Overheid: Gemeenten | 05-11-2023 | Het Instagram-account van Bouke Arends, de burgemeester van Westland, is gecompromitteerd door een onbekende hacker die berichten over bitcoins verspreidt. De gemeente heeft de inbreuk bevestigd en is bezig het account te herstellen, wat enkele dagen in beslag kan nemen. Totdat het account hersteld is, kan de burgemeester het niet gebruiken. De wijze waarop de hacker toegang heeft verkregen tot het account is nog niet duidelijk. Er is geen informatie vrijgegeven over eventuele financi\u00eble schade of het aantal getroffen volgers. De politie raadt aan om bij een hack op sociale media altijd aangifte te doen en voor elk account verschillende wachtwoorden te gebruiken. (Bron: omroepwest.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=15e7f36df9f06579e754021861c66942",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Global Value Web getroffen door ransomware aanval van de criminele organisatie LockBit",
-        "date_published": "2023-11-05T00:00:00Z",
-        "date_modified": "2023-11-05T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Global Value Web | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 05-11-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Global Value Web heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.omroepbrabant.nl/nieuws/4280276/hack-bij-gemeente-criminelen-hadden-toegang-tot-tienduizenden-gegevens?datalekt=5c353d89ba035d281a5d8a07cd561794",
-        "url": "https://www.omroepbrabant.nl/nieuws/4280276/hack-bij-gemeente-criminelen-hadden-toegang-tot-tienduizenden-gegevens",
-        "title": "Digitale inbraak bij gemeente Asten treft 23.000 persoonsgegevens",
-        "date_published": "2023-05-22T00:00:00Z",
-        "date_modified": "2023-11-02T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepbrabant.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Asten | Overheid: Gemeenten | 22-05-2023 | De gemeente Asten is eind vorig jaar getroffen door een digitale inbraak waarbij aanvankelijk gedacht werd aan factuurfraude. Het bleek later dat criminelen ongeoorloofde toegang hadden tot circa 23.000 persoonlijke gegevens en andere bestanden [Update: d.d. 02-11-2023 is bekend geworden dat de gemeente 612 inwoners een brief over dit incident heeft gestuurd]. De identiteit van de hackers is nog onbekend, evenals wat er met de gegevens is gebeurd. De gemeente heeft aangifte gedaan en de veiligheidsmaatregelen versterkt. Er is geen geld overgemaakt naar de aanvallers. De criminelen hadden toegang tot namen, financi\u00eble gegevens en kopie\u00ebn van identiteitsdocumenten. De exacte omvang van de gelekte gegevens wordt nog onderzocht. (Bron: omroepbrabant.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4d31df947bb5d14010bbba63198cf5d3",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "HAL Allergy Group getroffen door ransomware aanval van de criminele organisatie BlackCat (ALPHV)",
-        "date_published": "2023-11-02T00:00:00Z",
-        "date_modified": "2023-11-02T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "HAL Allergy Group | Industrie | 02-11-2023 | De criminele organisatie BlackCat (ALPHV) heeft op het darkweb aangekondigd dat zij HAL Allergy Group heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
