@@ -91,9 +91,9 @@
         "content_text": "Vereniging van Waterbouwers | Verhuur van roerende goederen en overige zakelijke dienstverlening | 03-03-2024 | De Vereniging van Waterbouwers had een server waarop het mogelijk was om data te uploaden, wat een aanzienlijk beveiligingsrisico vormt. Na identificatie van dit probleem door BNR, heeft de vereniging hun systemen aangepast om te voorkomen dat kwaadwillenden malware konden uploaden. (Bron: bnr.nl)"
     },
     {
-        "id": "https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=5cae49b11a161734a34d5b17513d4d89",
+        "id": "https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=dcc97e60051a6d85e6289247c7a68787",
         "url": "https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat",
-        "title": "B&amp;F Casting: Lek legt scripts en persoonlijke documenten bloot",
+        "title": "B&amp;amp;F Casting: Lek legt scripts en persoonlijke documenten bloot",
         "date_published": "2024-03-05T09:22:00Z",
         "date_modified": "2024-03-05T09:22:00Z",
         "language": "nl-nl",
@@ -101,7 +101,7 @@
             "name": "bnr.nl"
         },
         "content_html": "",
-        "content_text": "B&amp;F Casting | Verhuur van roerende goederen en overige zakelijke dienstverlening | 03-03-2024 | B&amp;F Casting had te maken met een datalek waarbij honderden scripts, briefings, cv&#039;s en ondertekende contracten online beschikbaar waren. Dit kwam door gebrekkig beveiligde cloudopslag. Na de waarschuwing van BNR heeft het castingbureau actie ondernomen om hun digitale beveiliging te versterken. (Bron: bnr.nl)"
+        "content_text": "B&amp;amp;F Casting | Verhuur van roerende goederen en overige zakelijke dienstverlening | 03-03-2024 | B&amp;amp;F Casting had te maken met een datalek waarbij honderden scripts, briefings, cv&#039;s en ondertekende contracten online beschikbaar waren. Dit kwam door gebrekkig beveiligde cloudopslag. Na de waarschuwing van BNR heeft het castingbureau actie ondernomen om hun digitale beveiliging te versterken. (Bron: bnr.nl)"
     },
     {
         "id": "https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=36dc9e4c2dcceb6dc5c4925d3dce77f9",
@@ -416,7 +416,7 @@
         "content_text": "Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)"
     },
     {
-        "id": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=cc50ccd8c68a19e8e927b242440450d2",
+        "id": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=f07b7c200253acd0a91e9615bedcbcdc",
         "url": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/",
         "title": "Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware",
         "date_published": "2024-02-07T09:01:00Z",
@@ -426,7 +426,7 @@
             "name": "ad.nl"
         },
         "content_html": "",
-        "content_text": "Ministerie van Defensie | Overheid: Ministeries | 06-02-2024 | Chinese hackers, gelieerd aan een staatsinstelling, hebben succesvol het Nederlandse leger gehackt door spionagesoftware genaamd COATHANGER te installeren op een R&amp;D-netwerk, waardoor ze toegang kregen tot circa vijftig computers. Deze aanval, die gebruikmaakte van een bekende kwetsbaarheid in FortiGate-apparatuur van Fortinet, resulteerde niet in het buitmaken van militaire geheimen. De Militaire Inlichtingen- en Veiligheidsdienst (MIVD) benadrukt dat ondanks goede digitale beveiliging, geen systeem volledig veilig is. De vondst onderstreept het belang van waakzaamheid tegen spionage, ongeacht de oorsprong van de apparatuur. (Bron: ad.nl)"
+        "content_text": "Ministerie van Defensie | Overheid: Ministeries | 06-02-2024 | Chinese hackers, gelieerd aan een staatsinstelling, hebben succesvol het Nederlandse leger gehackt door spionagesoftware genaamd COATHANGER te installeren op een R&amp;amp;D-netwerk, waardoor ze toegang kregen tot circa vijftig computers. Deze aanval, die gebruikmaakte van een bekende kwetsbaarheid in FortiGate-apparatuur van Fortinet, resulteerde niet in het buitmaken van militaire geheimen. De Militaire Inlichtingen- en Veiligheidsdienst (MIVD) benadrukt dat ondanks goede digitale beveiliging, geen systeem volledig veilig is. De vondst onderstreept het belang van waakzaamheid tegen spionage, ongeacht de oorsprong van de apparatuur. (Bron: ad.nl)"
     },
     {
         "id": "https://cpapinfo.nl/nieuws/datalek-bij-philips?datalekt=5a52335c7ec71a766f93c9c012384944",
@@ -988,8 +988,8 @@
         "content_text": "Blender Foundation | Groot- en detailhandel | 20-11-2023 | Blender, een populaire software, werd onlangs het doelwit van een DDOS-aanval, wat resulteerde in de ontoegankelijkheid van hun diensten. Deze aanval verhinderde gebruikers om de site te bereiken, waardoor problemen ontstonden bij het downloaden en inloggen. Het Blender-team werkte actief aan het minimaliseren van de impact en het herstellen van de functionaliteit, maar kon geen geschatte tijd voor volledig herstel geven. DDOS-aanvallen overbelasten servers met een enorme hoeveelheid verkeer, waardoor legitieme gebruikers worden geblokkeerd. Gebruikers werden aangemoedigd om offici\u00eble kanalen te volgen voor updates. Er waren perioden waarin Blender.org weer bereikbaar leek, maar de aanval was nog steeds gaande, met enkele websites, waaronder de documentatie, die nog steeds onbereikbaar waren. (Bron: 3dhype.com)"
     },
     {
-        "id": "https://voorburgsdagblad.nl/Den%20Haag%20&amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen?datalekt=764787c577f23d8d93da33fe0c2d3d4d",
-        "url": "https://voorburgsdagblad.nl/Den%20Haag%20&amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen",
+        "id": "https://voorburgsdagblad.nl/Den%20Haag%20&amp;amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen?datalekt=de0eab77d47b11ad6d80dd8bbdc8e37c",
+        "url": "https://voorburgsdagblad.nl/Den%20Haag%20&amp;amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen",
         "title": "Aanhoudende cyberaanvallen op CIDI in Den Haag",
         "date_published": "2023-11-23T13:38:00Z",
         "date_modified": "2023-11-23T13:38:00Z",

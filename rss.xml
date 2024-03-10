@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 09 Mar 2024 12:23:37 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 10 Mar 2024 18:16:05 +0000</lastBuildDate>
 		<item>
 			<title>Lisse betrokken bij regionaal datalek door verstuurde energiebonnen</title>
 			<link>https://www.leidschdagblad.nl/cnt/dmf20240307_53950069</link>
@@ -65,10 +65,10 @@
 			<pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>B&amp;amp;F Casting: Lek legt scripts en persoonlijke documenten bloot</title>
+			<title>B&amp;amp;amp;F Casting: Lek legt scripts en persoonlijke documenten bloot</title>
 			<link>https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat</link>
-			<description>B&amp;amp;F Casting | Verhuur van roerende goederen en overige zakelijke dienstverlening | 03-03-2024 | B&amp;amp;F Casting had te maken met een datalek waarbij honderden scripts, briefings, cv&amp;#039;s en ondertekende contracten online beschikbaar waren. Dit kwam door gebrekkig beveiligde cloudopslag. Na de waarschuwing van BNR heeft het castingbureau actie ondernomen om hun digitale beveiliging te versterken. (Bron: bnr.nl)</description>
-			<guid isPermaLink="false">https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=5cae49b11a161734a34d5b17513d4d89</guid>
+			<description>B&amp;amp;amp;F Casting | Verhuur van roerende goederen en overige zakelijke dienstverlening | 03-03-2024 | B&amp;amp;amp;F Casting had te maken met een datalek waarbij honderden scripts, briefings, cv&amp;#039;s en ondertekende contracten online beschikbaar waren. Dit kwam door gebrekkig beveiligde cloudopslag. Na de waarschuwing van BNR heeft het castingbureau actie ondernomen om hun digitale beveiliging te versterken. (Bron: bnr.nl)</description>
+			<guid isPermaLink="false">https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=dcc97e60051a6d85e6289247c7a68787</guid>
 			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
 			<pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -259,8 +259,8 @@
 		<item>
 			<title>Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware</title>
 			<link>https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/</link>
-			<description>Ministerie van Defensie | Overheid: Ministeries | 06-02-2024 | Chinese hackers, gelieerd aan een staatsinstelling, hebben succesvol het Nederlandse leger gehackt door spionagesoftware genaamd COATHANGER te installeren op een R&amp;amp;D-netwerk, waardoor ze toegang kregen tot circa vijftig computers. Deze aanval, die gebruikmaakte van een bekende kwetsbaarheid in FortiGate-apparatuur van Fortinet, resulteerde niet in het buitmaken van militaire geheimen. De Militaire Inlichtingen- en Veiligheidsdienst (MIVD) benadrukt dat ondanks goede digitale beveiliging, geen systeem volledig veilig is. De vondst onderstreept het belang van waakzaamheid tegen spionage, ongeacht de oorsprong van de apparatuur. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=cc50ccd8c68a19e8e927b242440450d2</guid>
+			<description>Ministerie van Defensie | Overheid: Ministeries | 06-02-2024 | Chinese hackers, gelieerd aan een staatsinstelling, hebben succesvol het Nederlandse leger gehackt door spionagesoftware genaamd COATHANGER te installeren op een R&amp;amp;amp;D-netwerk, waardoor ze toegang kregen tot circa vijftig computers. Deze aanval, die gebruikmaakte van een bekende kwetsbaarheid in FortiGate-apparatuur van Fortinet, resulteerde niet in het buitmaken van militaire geheimen. De Militaire Inlichtingen- en Veiligheidsdienst (MIVD) benadrukt dat ondanks goede digitale beveiliging, geen systeem volledig veilig is. De vondst onderstreept het belang van waakzaamheid tegen spionage, ongeacht de oorsprong van de apparatuur. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=f07b7c200253acd0a91e9615bedcbcdc</guid>
 			<category>Overheid: Ministeries </category>
 			<pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -586,9 +586,9 @@
 		</item>
 		<item>
 			<title>Aanhoudende cyberaanvallen op CIDI in Den Haag</title>
-			<link>https://voorburgsdagblad.nl/Den%20Haag%20&amp;amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen</link>
+			<link>https://voorburgsdagblad.nl/Den%20Haag%20&amp;amp;amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen</link>
 			<description>Centrum Informatie en Documentatie Israël (CIDI) | Overige dienstverlening | 20-11-2023 | Het Centrum Informatie en Documentatie Israël (CIDI) in Den Haag is al enkele weken het doelwit van aanhoudende cyberaanvallen. Deze aanvallen begonnen na een terreuraanval van Hamas op 7 oktober. De aanvallen bestaan voornamelijk uit DDoS-aanvallen, waarbij de website van CIDI overbelast raakt door gelijktijdige toegang vanuit vele computers, waardoor de site onbereikbaar wordt. Er is geen duidelijkheid over wie achter deze aanvallen zit. Het CIDI heeft maatregelen genomen om hun digitale beveiliging te versterken en hun website operationeel te houden. Tot nu toe is het niet gelukt om gevoelige informatie, zoals persoonsgegevens van medewerkers, te bemachtigen. (Bron: voorburgsdagblad.nl)</description>
-			<guid isPermaLink="false">https://voorburgsdagblad.nl/Den%20Haag%20&amp;amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen?datalekt=764787c577f23d8d93da33fe0c2d3d4d</guid>
+			<guid isPermaLink="false">https://voorburgsdagblad.nl/Den%20Haag%20&amp;amp;amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen?datalekt=de0eab77d47b11ad6d80dd8bbdc8e37c</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
 		</item>
