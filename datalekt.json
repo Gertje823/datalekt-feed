@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7ef8b07b314dce011d423aecfe93579b",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Ammega Group getroffen door ransomware aanval van de criminele organisatie Cactus",
+        "date_published": "2024-03-12T14:44:00Z",
+        "date_modified": "2024-03-12T14:44:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Ammega Group | Industrie | 11-03-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij Ammega Group heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.leidschdagblad.nl/cnt/dmf20240307_53950069?datalekt=0f36bb7462a4e91b3c47e079c84b66af",
         "url": "https://www.leidschdagblad.nl/cnt/dmf20240307_53950069",
         "title": "Lisse betrokken bij regionaal datalek door verstuurde energiebonnen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Hackshield Future Cyber Heroes | Informatie en communicatie | 07-11-2023 | HackShield&#039;s webshop ervoer een datalek nadat externe assistentie voor software-installatie onbedoeld leidde tot ongeautoriseerde toegang. De externe medewerker, tijdelijk met beheerdersrechten, werd gehackt, waardoor inloggegevens van de webshop gecompromitteerd raakten. De webshop werd offline gehaald en hersteld naar een veilige staat, waarbij onnodige accounts verwijderd en wachtwoorden gewijzigd werden. Er is geen bewijs van data-exfiltratie, maar phishingrisico&#039;s voor betrokkenen blijven bestaan. De focus lag voorheen op de HackShield-game, wat een inschattingsfout bleek. Maatregelen zoals tweestapsverificatie en dataminimalisatie zijn ge\u00efmplementeerd om herhaling te voorkomen. (Bron: joinhackshield.com)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6288271/website-ov-chipkaart-minder-bereikbaar-door-aanval-russische-hackers.html?datalekt=77e26278e6f20f0ff6af57f90280ec31",
-        "url": "https://www.nu.nl/tech/6288271/website-ov-chipkaart-minder-bereikbaar-door-aanval-russische-hackers.html",
-        "title": "DDoS-aanvallen door pro-Russische groep treffen OV-chipkaart website",
-        "date_published": "2023-11-06T15:49:00Z",
-        "date_modified": "2023-11-06T15:49:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Translink | Vervoer en opslag | 04-11-2023 | De OV-chipkaart website ondervond verminderde bereikbaarheid door meerdere DDoS-aanvallen, uitgevoerd door de pro-Russische hackersgroep NoName05716. Deze aanvallen, een reactie op Nederlandse steun aan Oekra\u00efne, overlaadden de systemen met verkeer om ze te overbelasten. Translink, het bedrijf achter de OV-chipkaart, heeft strenge maatregelen getroffen om de aanvallen het hoofd te bieden, wat soms resulteerde in verminderde toegankelijkheid van de website. Desondanks bleef het in- en uitchecken met de OV-chipkaart mogelijk voor reizigers. (Bron: nu.nl)"
     }
 ]

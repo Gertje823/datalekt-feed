@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 10 Mar 2024 18:16:05 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 12 Mar 2024 18:17:56 +0000</lastBuildDate>
+		<item>
+			<title>Ammega Group getroffen door ransomware aanval van de criminele organisatie Cactus</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Ammega Group | Industrie | 11-03-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij Ammega Group heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7ef8b07b314dce011d423aecfe93579b</guid>
+			<category>Industrie </category>
+			<pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Lisse betrokken bij regionaal datalek door verstuurde energiebonnen</title>
 			<link>https://www.leidschdagblad.nl/cnt/dmf20240307_53950069</link>
@@ -775,14 +783,6 @@
 			<guid isPermaLink="false">https://nl.joinhackshield.com/nl/competitie/datalekwebshop?datalekt=a0f1ab98aa27a1e625cf4d4eaf6bb1a0</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DDoS-aanvallen door pro-Russische groep treffen OV-chipkaart website</title>
-			<link>https://www.nu.nl/tech/6288271/website-ov-chipkaart-minder-bereikbaar-door-aanval-russische-hackers.html</link>
-			<description>Translink | Vervoer en opslag | 04-11-2023 | De OV-chipkaart website ondervond verminderde bereikbaarheid door meerdere DDoS-aanvallen, uitgevoerd door de pro-Russische hackersgroep NoName05716. Deze aanvallen, een reactie op Nederlandse steun aan Oekraïne, overlaadden de systemen met verkeer om ze te overbelasten. Translink, het bedrijf achter de OV-chipkaart, heeft strenge maatregelen getroffen om de aanvallen het hoofd te bieden, wat soms resulteerde in verminderde toegankelijkheid van de website. Desondanks bleef het in- en uitchecken met de OV-chipkaart mogelijk voor reizigers. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6288271/website-ov-chipkaart-minder-bereikbaar-door-aanval-russische-hackers.html?datalekt=77e26278e6f20f0ff6af57f90280ec31</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Gemeente Alkmaar slachtoffer van internetfraude door valse factuur</title>
