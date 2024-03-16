@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.rijnmondnieuws.com/d66-wethouder-russen-hebben-site-aangevallen-gemeente-vlaardingen/?datalekt=e08c23673cc9782ea3048d5c280ad63676809a851b4bdf1d6055ca70d88a97a6",
+        "url": "https://www.rijnmondnieuws.com/d66-wethouder-russen-hebben-site-aangevallen-gemeente-vlaardingen/",
+        "title": "Cyberaanval treft gemeente Vlaardingen: Russische daders verdacht",
+        "date_published": "2024-03-16T14:04:00Z",
+        "date_modified": "2024-03-16T14:04:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rijnmondnieuws.com"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Vlaardingen | Overheid: Gemeenten | 14-03-2024 | De website van de gemeente Vlaardingen was recentelijk het doelwit van een DDoS-aanval, waardoor de toegang voor burgers tijdelijk geblokkeerd werd. Wethouder Koen Kegel suggereert dat Russische cybercriminelen achter deze aanval zitten, mogelijk als reactie op het lokale beleid omtrent het asielzoekerscentrum voor Oekra\u00efners. Er is geen concreet bewijs geleverd voor deze claim. DDoS-aanvallen vormen een toenemend probleem op wereldwijde schaal, met frequent vermoedens van Russische betrokkenheid, al kunnen dergelijke aanvallen via Russische servers wereldwijd ge\u00efnitieerd worden. (Bron: rijnmondnieuws.com)"
+    },
+    {
+        "id": "https://helpcenter.mett.nl/performance/performance+-+opgeloste+issues/2621503.aspx?datalekt=7396dbf7d4342257d5de1f26b5de91c1b72ef9df1516baec81913e0ece4e3ebb",
+        "url": "https://helpcenter.mett.nl/performance/performance+-+opgeloste+issues/2621503.aspx",
+        "title": "Mett platform korte tijd onbereikbaar door DDoS-aanval",
+        "date_published": "2024-03-16T14:01:00Z",
+        "date_modified": "2024-03-16T14:01:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "mett.nl"
+        },
+        "content_html": "",
+        "content_text": "Mett | Informatie en communicatie | 18-12-2023 | Een aantal platformen van Mett was vanmiddag voor ongeveer 10 minuten niet bereikbaar vanwege een DDoS-aanval. De organisatie heeft snel maatregelen getroffen om de aanval te stoppen, waardoor alle platformen weer toegankelijk zijn. Mett blijft de situatie nauwlettend volgen om dergelijke incidenten in de toekomst te voorkomen. Er is geen informatie verstrekt over de aanvaller of over eventuele (financi\u00eble) schade en getroffen gebruikers. (Bron: mett.nl)"
+    },
+    {
+        "id": "https://www.nhnieuws.nl/nieuws/280272/gemeente-sluit-onderzoek-naar-phishing-mail-af-misbruik-gegevens-niet-te-achterhalen?datalekt=9673d4100e0db6595a4d2b4920f2600b040cf6cec9a01e1adc5554d45c8e618f",
+        "url": "https://www.nhnieuws.nl/nieuws/280272/gemeente-sluit-onderzoek-naar-phishing-mail-af-misbruik-gegevens-niet-te-achterhalen",
+        "title": "Phishing-aanval legt gegevens van honderden Alkmaarders bloot",
+        "date_published": "2024-03-16T13:56:00Z",
+        "date_modified": "2024-03-16T13:56:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nhnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Alkmaar | Overheid: Gemeenten | 03-02-2021 | Een phishing-mail heeft de gevoelige informatie van honderden inwoners van Alkmaar blootgesteld. Het incident kwam aan het licht nadat een medewerker op een nep-link klikte, waardoor de mailbox tijdelijk toegankelijk was voor onbevoegden. Ondanks een onderzoek is onduidelijk gebleven wat er met de gegevens is gebeurd. De gemeente heeft de betrokkenen ge\u00efnformeerd, extra veiligheidsmaatregelen getroffen, en melding gemaakt bij de Autoriteit Persoonsgegevens en de politie. (Bron: nhnieuws.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6e034fca580cd7f6e69394efb34a6d09c30c7e7b1d127ba15846df51c7403927",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Ammega Group getroffen door ransomware aanval van de criminele organisatie Cactus",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "NiceCloud | Informatie en communicatie | 07-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij NiceCloud heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ac15cc05b282b228d83f5d9bebecd17424d7ed546f7dc5c67959ea6ea2274b79",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "TT-Engineering getroffen door ransomware aanval van de criminele organisatie Black Basta",
-        "date_published": "2023-11-09T09:41:00Z",
-        "date_modified": "2023-11-09T09:41:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "TT-Engineering | Industrie | 07-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij TT-Engineering heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=621d4e694ea4923a3c07406296db65253211e0318358a9080cba17c4c470d885",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Triflex getroffen door ransomware aanval van de criminele organisatie Black Basta",
-        "date_published": "2023-11-09T09:39:00Z",
-        "date_modified": "2023-11-09T09:39:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Triflex | Bouwnijverheid | 07-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Triflex heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://nl.joinhackshield.com/nl/competitie/datalekwebshop?datalekt=76cbfaa73d541d1e725dd61d636ba837f3a98440b307f9205d08cda5c8bd6227",
-        "url": "https://nl.joinhackshield.com/nl/competitie/datalekwebshop",
-        "title": "Datalek bij HackShield Webshop na ongeautoriseerde toegang",
-        "date_published": "2023-11-08T11:38:00Z",
-        "date_modified": "2023-11-08T11:38:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "joinhackshield.com"
-        },
-        "content_html": "",
-        "content_text": "Hackshield Future Cyber Heroes | Informatie en communicatie | 07-11-2023 | HackShield&#039;s webshop ervoer een datalek nadat externe assistentie voor software-installatie onbedoeld leidde tot ongeautoriseerde toegang. De externe medewerker, tijdelijk met beheerdersrechten, werd gehackt, waardoor inloggegevens van de webshop gecompromitteerd raakten. De webshop werd offline gehaald en hersteld naar een veilige staat, waarbij onnodige accounts verwijderd en wachtwoorden gewijzigd werden. Er is geen bewijs van data-exfiltratie, maar phishingrisico&#039;s voor betrokkenen blijven bestaan. De focus lag voorheen op de HackShield-game, wat een inschattingsfout bleek. Maatregelen zoals tweestapsverificatie en dataminimalisatie zijn ge\u00efmplementeerd om herhaling te voorkomen. (Bron: joinhackshield.com)"
     }
 ]

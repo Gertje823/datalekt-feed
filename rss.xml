@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 13 Mar 2024 01:04:31 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 16 Mar 2024 18:18:27 +0000</lastBuildDate>
+		<item>
+			<title>Cyberaanval treft gemeente Vlaardingen: Russische daders verdacht</title>
+			<link>https://www.rijnmondnieuws.com/d66-wethouder-russen-hebben-site-aangevallen-gemeente-vlaardingen/</link>
+			<description>Gemeente Vlaardingen | Overheid: Gemeenten | 14-03-2024 | De website van de gemeente Vlaardingen was recentelijk het doelwit van een DDoS-aanval, waardoor de toegang voor burgers tijdelijk geblokkeerd werd. Wethouder Koen Kegel suggereert dat Russische cybercriminelen achter deze aanval zitten, mogelijk als reactie op het lokale beleid omtrent het asielzoekerscentrum voor Oekraïners. Er is geen concreet bewijs geleverd voor deze claim. DDoS-aanvallen vormen een toenemend probleem op wereldwijde schaal, met frequent vermoedens van Russische betrokkenheid, al kunnen dergelijke aanvallen via Russische servers wereldwijd geïnitieerd worden. (Bron: rijnmondnieuws.com)</description>
+			<guid isPermaLink="false">https://www.rijnmondnieuws.com/d66-wethouder-russen-hebben-site-aangevallen-gemeente-vlaardingen/?datalekt=e08c23673cc9782ea3048d5c280ad63676809a851b4bdf1d6055ca70d88a97a6</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Mett platform korte tijd onbereikbaar door DDoS-aanval</title>
+			<link>https://helpcenter.mett.nl/performance/performance+-+opgeloste+issues/2621503.aspx</link>
+			<description>Mett | Informatie en communicatie | 18-12-2023 | Een aantal platformen van Mett was vanmiddag voor ongeveer 10 minuten niet bereikbaar vanwege een DDoS-aanval. De organisatie heeft snel maatregelen getroffen om de aanval te stoppen, waardoor alle platformen weer toegankelijk zijn. Mett blijft de situatie nauwlettend volgen om dergelijke incidenten in de toekomst te voorkomen. Er is geen informatie verstrekt over de aanvaller of over eventuele (financiële) schade en getroffen gebruikers. (Bron: mett.nl)</description>
+			<guid isPermaLink="false">https://helpcenter.mett.nl/performance/performance+-+opgeloste+issues/2621503.aspx?datalekt=7396dbf7d4342257d5de1f26b5de91c1b72ef9df1516baec81913e0ece4e3ebb</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Phishing-aanval legt gegevens van honderden Alkmaarders bloot</title>
+			<link>https://www.nhnieuws.nl/nieuws/280272/gemeente-sluit-onderzoek-naar-phishing-mail-af-misbruik-gegevens-niet-te-achterhalen</link>
+			<description>Gemeente Alkmaar | Overheid: Gemeenten | 03-02-2021 | Een phishing-mail heeft de gevoelige informatie van honderden inwoners van Alkmaar blootgesteld. Het incident kwam aan het licht nadat een medewerker op een nep-link klikte, waardoor de mailbox tijdelijk toegankelijk was voor onbevoegden. Ondanks een onderzoek is onduidelijk gebleven wat er met de gegevens is gebeurd. De gemeente heeft de betrokkenen geïnformeerd, extra veiligheidsmaatregelen getroffen, en melding gemaakt bij de Autoriteit Persoonsgegevens en de politie. (Bron: nhnieuws.nl)</description>
+			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/280272/gemeente-sluit-onderzoek-naar-phishing-mail-af-misbruik-gegevens-niet-te-achterhalen?datalekt=9673d4100e0db6595a4d2b4920f2600b040cf6cec9a01e1adc5554d45c8e618f</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ammega Group getroffen door ransomware aanval van de criminele organisatie Cactus</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -759,30 +783,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=9d4e30949b03487c2f76465331577757d6b9773b49a679beb09bb3ca85105450</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>TT-Engineering getroffen door ransomware aanval van de criminele organisatie Black Basta</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>TT-Engineering | Industrie | 07-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij TT-Engineering heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ac15cc05b282b228d83f5d9bebecd17424d7ed546f7dc5c67959ea6ea2274b79</guid>
-			<category>Industrie </category>
-			<pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Triflex getroffen door ransomware aanval van de criminele organisatie Black Basta</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Triflex | Bouwnijverheid | 07-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Triflex heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=621d4e694ea4923a3c07406296db65253211e0318358a9080cba17c4c470d885</guid>
-			<category>Bouwnijverheid </category>
-			<pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij HackShield Webshop na ongeautoriseerde toegang</title>
-			<link>https://nl.joinhackshield.com/nl/competitie/datalekwebshop</link>
-			<description>Hackshield Future Cyber Heroes | Informatie en communicatie | 07-11-2023 | HackShield&amp;#039;s webshop ervoer een datalek nadat externe assistentie voor software-installatie onbedoeld leidde tot ongeautoriseerde toegang. De externe medewerker, tijdelijk met beheerdersrechten, werd gehackt, waardoor inloggegevens van de webshop gecompromitteerd raakten. De webshop werd offline gehaald en hersteld naar een veilige staat, waarbij onnodige accounts verwijderd en wachtwoorden gewijzigd werden. Er is geen bewijs van data-exfiltratie, maar phishingrisico&amp;#039;s voor betrokkenen blijven bestaan. De focus lag voorheen op de HackShield-game, wat een inschattingsfout bleek. Maatregelen zoals tweestapsverificatie en dataminimalisatie zijn geïmplementeerd om herhaling te voorkomen. (Bron: joinhackshield.com)</description>
-			<guid isPermaLink="false">https://nl.joinhackshield.com/nl/competitie/datalekwebshop?datalekt=76cbfaa73d541d1e725dd61d636ba837f3a98440b307f9205d08cda5c8bd6227</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Gemeente Alkmaar slachtoffer van internetfraude door valse factuur</title>
