@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954?datalekt=35edaac3b81c7834dbd941837ace9c481370db19ac99ca03f41237f32689617b",
+        "url": "https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954",
+        "title": "Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap",
+        "date_published": "2023-09-23T14:00:00Z",
+        "date_modified": "2024-03-20T12:47:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nrc.nl"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Sociale Zaken en Werkgelegenheid (SZW) | Overheid: Ministeries | 20-09-2023 | De Autoriteit Persoonsgegevens (AP) onderzoekt het Ministerie van Sociale Zaken wegens onrechtmatige en geheime onderzoeken naar Nederlandse moslims, voornamelijk salafisten. Het ministerie wordt bekritiseerd voor het niet actief informeren van de getroffen burgers over schendingen van hun grondrechten. Ondanks aandringen van de AP, is het ministerie niet van plan om de getroffen burgers te informeren [Update: d.d. 19 maart 2024 is bekend geworden dat 12 mensen een excuusbrief hebben ontvangen]. Deze praktijken worden omschreven als een &quot;zorgelijke ontwikkeling&quot;, en er zijn zorgen over mogelijke schadeclaims van de getroffen burgers. (Bron: nrc.nl)"
+    },
+    {
         "id": "https://www.nrc.nl/nieuws/2024/03/18/odido-krijgt-boete-vanwege-schending-privacy-van-miljoenen-klanten-a4193372?datalekt=359e4067d28ec423f7e92bb2a42ce1f969d327381eedef5f630b78e069b55a42",
         "url": "https://www.nrc.nl/nieuws/2024/03/18/odido-krijgt-boete-vanwege-schending-privacy-van-miljoenen-klanten-a4193372",
         "title": "Odido ontvangt boete voor misbruik locatiegegevens klanten",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Reclassering Nederland | Overheid: Organisatie met overheidsbemoeienis | 08-11-2023 | Reclassering Nederland heeft aangifte gedaan tegen een voormalige medewerker die in het bezit is van persoonsgegevens en weigert deze terug te geven, wat resulteert in een datalek. De oud-medewerker had eerder toegang tot een laptop en telefoon van Reclassering Nederland met privacygevoelige informatie. Ondanks inbeslagname van deze apparaten, is het slechts gedeeltelijk gelukt de informatie veilig te stellen. Er zijn gegevens van meer dan twintig contacten in de regio Zuid aangetroffen. Reclassering Nederland is bezig deze personen te informeren over het datalek. (Bron: nieuws.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=65e5df78e9afb7207f23eb06ccfcfaefe849db70ec0060eac2dcd2e9c6ecce6c",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Co Zwolle getroffen door ransomware aanval van de criminele organisatie Black Basta",
-        "date_published": "2023-11-09T09:45:00Z",
-        "date_modified": "2023-11-09T09:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Co Zwolle | Verhuur van en handel in onroerend goed | 07-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Co Zwolle heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
