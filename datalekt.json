@@ -624,6 +624,19 @@
         "content_text": "11 onbekende organisaties | Overige dienstverlening | 02-02-2024 | Kwetsbaarheden in Ivanti VPN-appliances zijn wereldwijd uitgebuit, waarbij 11 Nederlandse bedrijven getroffen zijn. Securitybedrijf Censys onthult dat 1,5% van de Ivanti Connect Secure-hosts, wat neerkomt op 412 unieke hosts, een achterdeurtje hebben. Dit misbruik leidt tot volledige controle door hackers en verstoort bedrijfsactiviteiten. Bovendien zijn er aanwijzingen dat Chinese staatshackers betrokken zijn voor spionagedoeleinden. Ondanks de ernst is er nog geen offici\u00eble patch uitgebracht door Ivanti. (Bron: techzine.nl)"
     },
     {
+        "id": "https://www.security.nl/posting/701247/Gemeente+Enschede+krijgt+600_000+euro+boete+wegens+wifi-tracking?datalekt=8580f1ccac237b9173fdaa2be263c508c7a8d74fff10989f7b45a45051a7099e",
+        "url": "https://www.security.nl/posting/701247/Gemeente+Enschede+krijgt+600_000+euro+boete+wegens+wifi-tracking",
+        "title": "Gemeente Enschede beboet voor ongeoorloofde wifi-tracking in binnenstad",
+        "date_published": "2021-10-01T00:00:00Z",
+        "date_modified": "2024-02-02T12:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Enschede | Overheid: Gemeenten | 29-04-2021 | De gemeente Enschede heeft een boete van 600.000 euro ontvangen van de Autoriteit Persoonsgegevens vanwege het gebruik van wifi-tracking in de binnenstad [Update: De Rechtbank heeft d.d. 2-2-2024 de boete ongegrond verklaard]. Vier jaar eerder had de gemeente besloten om met sensoren de drukte in de binnenstad te meten en huurde hiervoor een gespecialiseerd bedrijf in. Dit bedrijf plaatste meetkastjes die wifi-signalen van mobiele telefoons opvingen en elke telefoon via een unieke code registreerden. De Autoriteit Persoonsgegevens stelde dat dit neerkwam op het volgen van mensen, wat een ernstige overtreding van de AVG is. Er waren geen aanwijzingen dat bezoekers daadwerkelijk werden gevolgd, maar het potentieel om dit te doen was al een overtreding. De gemeente en twee andere bedrijven hadden toegang tot de wifi-data. De gemeente stopte met wifi-tracking in mei 2020 na interventie van de Autoriteit Persoonsgegevens. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.accountancyvanmorgen.nl/2024/01/31/banken-mogen-persoonsgegevens-fraudeur-niet-automatisch-acht-jaar-in-register-opnemen/?datalekt=bad7dc48c58e4ef4644eeb1673d219ec74bc29a8d01649e480f8e1e47afdacec",
         "url": "https://www.accountancyvanmorgen.nl/2024/01/31/banken-mogen-persoonsgegevens-fraudeur-niet-automatisch-acht-jaar-in-register-opnemen/",
         "title": "ABN Amro&#039;s registratiebeleid aangepakt: Privacy boven automatisering",
@@ -635,19 +648,6 @@
         },
         "content_html": "",
         "content_text": "ABN Amro | Financi\u00eble instellingen | 31-01-2024 | De Commissie van Beroep van Kifid heeft geoordeeld dat banken, zoals ABN Amro, de persoonsgegevens van fraudeurs niet automatisch acht jaar in waarschuwingsregisters mogen opnemen. Dit besluit volgt na een zaak tegen ABN Amro, die de gegevens van een consument, onge\u00efnformeerd over andere financi\u00eble verplichtingen bij een hypotheekaanvraag, langdurig registreerde. De uitspraak benadrukt de noodzaak van een belangenafweging bij registratie, in lijn met de privacywetgeving, en weerlegt het gebruik van een standaardtermijn. (Bron: accountancyvanmorgen.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/701247/Gemeente+Enschede+krijgt+600_000+euro+boete+wegens+wifi-tracking?datalekt=6bf3d64572b8866e2fcdd322e098fdfa46aa19cd8227c8776cd183716fd2702c",
-        "url": "https://www.security.nl/posting/701247/Gemeente+Enschede+krijgt+600_000+euro+boete+wegens+wifi-tracking",
-        "title": "Gemeente Enschede beboet voor ongeoorloofde wifi-tracking in binnenstad",
-        "date_published": "2021-10-01T00:00:00Z",
-        "date_modified": "2024-02-02T00:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Enschede | Overheid: Gemeenten | 29-04-2021 | De gemeente Enschede heeft een boete van 600.000 euro ontvangen van de Autoriteit Persoonsgegevens vanwege het gebruik van wifi-tracking in de binnenstad [Update: De Rechtbank heeft d.d. 2-2-2024 de boete ongegrond verklaard]. Vier jaar eerder had de gemeente besloten om met sensoren de drukte in de binnenstad te meten en huurde hiervoor een gespecialiseerd bedrijf in. Dit bedrijf plaatste meetkastjes die wifi-signalen van mobiele telefoons opvingen en elke telefoon via een unieke code registreerden. De Autoriteit Persoonsgegevens stelde dat dit neerkwam op het volgen van mensen, wat een ernstige overtreding van de AVG is. Er waren geen aanwijzingen dat bezoekers daadwerkelijk werden gevolgd, maar het potentieel om dit te doen was al een overtreding. De gemeente en twee andere bedrijven hadden toegang tot de wifi-data. De gemeente stopte met wifi-tracking in mei 2020 na interventie van de Autoriteit Persoonsgegevens. (Bron: security.nl)"
     },
     {
         "id": "https://tweakers.net/nieuws/218144/ap-geeft-uber-recordboete-van-10-miljoen-euro-voor-slechte-info-inzageverzoek.html?datalekt=f1eb9c9533a1e12bc6b8be43c1c276bdc4584c3034d1cb2087584b83453cdc1f",
