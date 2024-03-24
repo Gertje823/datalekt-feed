@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.distrifood.nl/175795/privacywaakhond-berispt-nettorama-na-tonen-fotos-met-winkeldieven?datalekt=1434bfcbda2faa8a70de3972adf9ac61fb5526fd6e23199892999ecc86aa3350",
+        "url": "https://www.distrifood.nl/175795/privacywaakhond-berispt-nettorama-na-tonen-fotos-met-winkeldieven",
+        "title": "Nettorama Utrecht berispt voor schenden privacy door tonen foto&#039;s winkeldieven",
+        "date_published": "2024-03-24T17:45:00Z",
+        "date_modified": "2024-03-24T17:45:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "distrifood.nl"
+        },
+        "content_html": "",
+        "content_text": "Nettorama | Groot- en detailhandel | 22-03-2024 | Nettorama Utrecht heeft kritiek gekregen van de Autoriteit Persoonsgegevens voor het openbaar tonen van foto&#039;s van vermoedelijke winkeldieven, wat een inbreuk maakt op de AVG. Het beleid, waarbij foto&#039;s vanuit bewakingsbeelden in de winkel worden getoond, wordt gezien als een premature veroordeling. Maatregelen tegen winkeldiefstal, zoals tassencontroles en het blokkeren van lijnkassa&#039;s, worden ook toegepast. De Autoriteit benadrukt dat het delen van dergelijke foto&#039;s met personeel wel is toegestaan, mits deze niet zichtbaar zijn voor klanten. (Bron: distrifood.nl)"
+    },
+    {
         "id": "https://www.rtvutrecht.nl/nieuws/3710332/leden-utrechtsch-studenten-corps-geschorst-na-delen-bangalijst-weerzinwekkende-actie?datalekt=697ff5bc0dda04588fba2db6d35fcbe68c8110dcf42880232b0916dff6fefc50",
         "url": "https://www.rtvutrecht.nl/nieuws/3710332/leden-utrechtsch-studenten-corps-geschorst-na-delen-bangalijst-weerzinwekkende-actie",
         "title": "Utrechts Studenten Corps schorst leden na delen kwetsende PowerPoint",
@@ -260,7 +273,7 @@
         "content_text": "Sunweb | Verhuur van roerende goederen en overige zakelijke dienstverlening | 03-03-2024 | Bij Sunweb waren meer dan tweeduizend cv&#039;s en sollicitatiebrieven door een beveiligingslek in de cloud publiek toegankelijk. Dit probleem ontstond ongeveer drie jaar geleden toen wervingssoftware naar de cloud werd verplaatst. Na melding door BNR heeft Sunweb onmiddellijk een crisismanagementplan geactiveerd en de gegevens verwijderd. (Bron: bnr.nl)"
     },
     {
-        "id": "https://www.distrifood.nl/175008/jumbo-haalt-na-datalek-adresgegevens-van-bezorgkratten?datalekt=ef244e46571c5d4fa34efd51f3cc6cc8f2284412c9b2ae63b305c2055476134e",
+        "id": "https://www.distrifood.nl/175008/jumbo-haalt-na-datalek-adresgegevens-van-bezorgkratten?datalekt=3da643b97d38f259585098ca40b12b77d0bb021d79e226c96df1de41cd212d38",
         "url": "https://www.distrifood.nl/175008/jumbo-haalt-na-datalek-adresgegevens-van-bezorgkratten",
         "title": "Jumbo schrapt adresgegevens op bezorgkratten na datalek",
         "date_published": "2024-03-03T16:35:00Z",
@@ -270,7 +283,7 @@
             "name": "distrifood.nl"
         },
         "content_html": "",
-        "content_text": "Jumbo | Groot- en detailhandel | 01-03-2024 | Jumbo heeft besloten te stoppen met het gebruik van adresstickers op bezorgkratten nadat bleek dat namen en adressen van klanten onbedoeld bij andere klanten terechtkwamen. Dit incident wordt door de Autoriteit Persoonsgegevens aangemerkt als een datalek. Door deze maatregel beoogt Jumbo de privacy van haar klanten beter te beschermen en herhaling van dergelijke incidenten te voorkomen. Het voorval onderstreept het belang van zorgvuldige omgang met persoonsgegevens binnen de distributiesector. (Bron: distrifood.nl)"
+        "content_text": "Jumbo | Groot- en detailhandel | 01-03-2024 | Jumbo heeft besloten om te stoppen met het plaatsen van adresstickers op hun bezorgkratten na een datalek, waarbij adresgegevens onbedoeld bij andere klanten terechtkwamen. Dit incident wordt door de Autoriteit Persoonsgegevens als een datalek beschouwd. In reactie hierop heeft Jumbo een nieuwe methode ingevoerd die het vermelden van adresgegevens op stickers overbodig maakt. Deze verandering volgt na klachten van klanten over het delen van hun persoonlijke gegevens. Het aantal klachten of een eventuele melding bij de Autoriteit Persoonsgevens is door Jumbo niet bekendgemaakt. (Bron: distrifood.nl)"
     },
     {
         "id": "https://tweakers.net/nieuws/219198/carpetright-waarschuwt-dat-gehashte-wachtwoorden-mogelijk-zijn-gestolen.html?datalekt=2777e1f4f7086f926379690d3c005554ea9baa81617547e120ef8576861590d6",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Efteling | Cultuur, sport en recreatie | 07-11-2023 | Een ethische hacker heeft een significant datalek in de ticketshop van de Efteling aan het licht gebracht. Dit lek stelde hem in staat om gedetailleerde verkoopgegevens van tickets in te zien. Ondanks de ernst van deze ontdekking, heeft de Efteling slechts met een standaard bedankmail gereageerd en tot op heden geen verdere actie ondernomen om het lek te dichten. Deze passieve reactie staat in schril contrast met de actieve benadering van andere parken zoals Toverland, die snel maatregelen troffen na soortgelijke bevindingen. (Bron: looopings.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/215396/nos-sites-van-4-politieke-partijen-plaatsen-zonder-toestemming-trackingcookies.html?datalekt=da54694d1ba57d4cbe21b02fc61980a8fd6432e84ce09b7324ac288a911ef6ef",
-        "url": "https://tweakers.net/nieuws/215396/nos-sites-van-4-politieke-partijen-plaatsen-zonder-toestemming-trackingcookies.html",
-        "title": "Volt erkent fout in cookiebeleid op hun website",
-        "date_published": "2023-11-10T11:05:00Z",
-        "date_modified": "2023-11-10T11:05:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Volt | Overheid: Organisatieonderdeel | 08-11-2023 | Volt, betrokken bij het ongeoorloofd plaatsen van trackingcookies op hun website volgens een NOS-onderzoek, heeft de fout erkend. De partij wijt dit aan een fout van hun Europese tak, voornamelijk in hun webshop. Dit incident toont aan hoe belangrijk het is voor politieke partijen om de privacywetgeving te respecteren en transparant te zijn over hun online praktijken. (Bron: tweakers.net)"
     }
 ]
