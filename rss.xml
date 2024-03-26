@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 25 Mar 2024 18:19:07 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 26 Mar 2024 18:18:16 +0000</lastBuildDate>
+		<item>
+			<title>SVB registreert talrijke datalekken tot augustus 2023</title>
+			<link>https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023</link>
+			<description>Sociale Verzekeringsbank (SVB) | Overheid: Zelfstandige bestuursorganen | 26-03-2024 | De Sociale Verzekeringsbank (SVB) heeft in de loop van 2023 honderden datalekken ervaren (samen met UWV meer dan 1000). Volgens het ministerie van Sociale Zaken en Werkgelegenheid waren deze incidenten overwegend van beperkte omvang, zoals het verzenden van een brief naar een verkeerd adres. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023?datalekt=804d8f5b0709b88c0ea72d3a684277f954a3c58cf15de139a8dddb5b1aca0030</guid>
+			<category>Overheid: Zelfstandige bestuursorganen </category>
+			<pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>UWV kampt met honderden datalekken in 2023</title>
+			<link>https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023</link>
+			<description>Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 26-03-2024 | Het Uitkeringsinstituut Werknemersverzekeringen (UWV) heeft in 2023 honderden datalekken ervaren (samen met SVB meer dan 1000). Deze omvatten specifieke incidenten zoals onjuiste toegang tot persoonsgegevens, het per ongeluk versturen van gevoelige informatie, en onder andere fouten in de beveiliging van digitale systemen. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023?datalekt=ce5b261326640650dab5dc5add4d4eea668194e24942d0f7f5799555eb2388fc</guid>
+			<category>Overheid: Zelfstandige bestuursorganen </category>
+			<pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Website provincie Noord-Brabant slachtoffer van cyberaanval</title>
 			<link>https://www.nu.nl/tech/6306531/cyberaanval-legt-websites-van-meerdere-provincies-plat.html</link>
@@ -759,22 +775,6 @@
 			<guid isPermaLink="false">https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes?datalekt=5e6a865b3472cedc32b1a919091ce73b6ec4d39bafd606db4c67c5a2662b7fdf</guid>
 			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op Henry Schein leidt tot diefstal van 35TB aan data</title>
-			<link>https://www.security.nl/posting/817385/BlackCat%3A+35TB+aan+data+van+medische+groothandel+Henry+Schein+gestolen</link>
-			<description>Henry Schein | Groot- en detailhandel | 06-11-2023 | Henry Schein, een wereldwijde medische groothandel, is het slachtoffer geworden van een cyberaanval door de ransomwaregroep BlackCat, die 35 terabyte aan data heeft gestolen. De buitgemaakte data omvat onder meer salarisinformatie en gegevens gerelateerd aan aandeelhouders. Na de ontdekking van de aanval heeft Henry Schein uit voorzorg diverse systemen offline gehaald, wat leidde tot verstoringen in de bedrijfsvoering. BlackCat beweert onderhandelingen met Henry Schein te hebben gevoerd, die vastliepen, waarna ze de systemen opnieuw versleutelden. De exacte omvang van de schade en het aantal getroffen individuen is niet gespecificeerd. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/817385/BlackCat%3A+35TB+aan+data+van+medische+groothandel+Henry+Schein+gestolen?datalekt=ac7b94eed93b7c52f3975bc3e63e0df9cb5ae99f8434e9085cc1424a8d61ad9f</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Global-Tickets speelt cruciale rol in snel dichten van datalek bij Toverland</title>
-			<link>https://www.looopings.nl/weblog/23911/Hacker-ontdekt-datalekken-in-ticketshops-Efteling--Toverland-en-Slagharen.html</link>
-			<description>Global-Tickets | Informatie en communicatie | 07-11-2023 | Global-Tickets, de ticketpartner van Toverland, speelde een essentiële rol in het snel en effectief aanpakken van een datalek in de ticketshop van Toverland. Het lek, ontdekt door ethische hacker, onthulde gevoelige verkoopgegevens. Na de ontdekking schakelde Toverland onmiddellijk Global-Tickets in, die binnen een week het probleem wist op te lossen. Deze snelle respons benadrukt de efficiëntie en het belang van Global-Tickets in het waarborgen van de digitale veiligheid en integriteit van Toverland&amp;#039;s ticketverkoopsysteem. (Bron: looopings.nl)</description>
-			<guid isPermaLink="false">https://www.looopings.nl/weblog/23911/Hacker-ontdekt-datalekken-in-ticketshops-Efteling--Toverland-en-Slagharen.html?datalekt=66d1fae7148211f12216dc92b0f3f0693a55ba1e4bf642a1f8a3ffd33e407394</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>

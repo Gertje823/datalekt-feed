@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023?datalekt=804d8f5b0709b88c0ea72d3a684277f954a3c58cf15de139a8dddb5b1aca0030",
+        "url": "https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023",
+        "title": "SVB registreert talrijke datalekken tot augustus 2023",
+        "date_published": "2024-03-26T16:31:00Z",
+        "date_modified": "2024-03-26T16:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Sociale Verzekeringsbank (SVB) | Overheid: Zelfstandige bestuursorganen | 26-03-2024 | De Sociale Verzekeringsbank (SVB) heeft in de loop van 2023 honderden datalekken ervaren (samen met UWV meer dan 1000). Volgens het ministerie van Sociale Zaken en Werkgelegenheid waren deze incidenten overwegend van beperkte omvang, zoals het verzenden van een brief naar een verkeerd adres. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023?datalekt=ce5b261326640650dab5dc5add4d4eea668194e24942d0f7f5799555eb2388fc",
+        "url": "https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023",
+        "title": "UWV kampt met honderden datalekken in 2023",
+        "date_published": "2024-03-26T16:30:00Z",
+        "date_modified": "2024-03-26T16:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 26-03-2024 | Het Uitkeringsinstituut Werknemersverzekeringen (UWV) heeft in 2023 honderden datalekken ervaren (samen met SVB meer dan 1000). Deze omvatten specifieke incidenten zoals onjuiste toegang tot persoonsgegevens, het per ongeluk versturen van gevoelige informatie, en onder andere fouten in de beveiliging van digitale systemen. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.nu.nl/tech/6306531/cyberaanval-legt-websites-van-meerdere-provincies-plat.html?datalekt=1a60cbad10f3fb6ce9c26072a8757012a74903dadfa93da9b31145c762bbae25",
         "url": "https://www.nu.nl/tech/6306531/cyberaanval-legt-websites-van-meerdere-provincies-plat.html",
         "title": "Website provincie Noord-Brabant slachtoffer van cyberaanval",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Treant Zorggroep | Gezondheids- en welzijnszorg | 13-11-2023 | Treant Zorggroep ondervindt ernstige problemen met hun alarmknoppensysteem als gevolg van een cyberaanval op het systeem van leverancier Tunstall. Dit incident heeft vooral impact op ouderen en ernstig zieken die afhankelijk zijn van personenalarmering. Door de aanval komen meldingen niet binnen bij de meldkamer, waardoor de veiligheid van cli\u00ebnten in gevaar komt. Het exacte aantal getroffen personen is onbekend, maar het probleem speelt in meerdere locaties van Treant in Drenthe. Als tijdelijke oplossing loopt het zorgpersoneel extra rondes om de veiligheid te waarborgen. Er is nog geen duidelijkheid over wanneer het systeem weer volledig operationeel zal zijn. (Bron: rtvdrenthe.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/817385/BlackCat%3A+35TB+aan+data+van+medische+groothandel+Henry+Schein+gestolen?datalekt=ac7b94eed93b7c52f3975bc3e63e0df9cb5ae99f8434e9085cc1424a8d61ad9f",
-        "url": "https://www.security.nl/posting/817385/BlackCat%3A+35TB+aan+data+van+medische+groothandel+Henry+Schein+gestolen",
-        "title": "Cyberaanval op Henry Schein leidt tot diefstal van 35TB aan data",
-        "date_published": "2023-11-13T14:44:00Z",
-        "date_modified": "2023-11-13T14:44:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Henry Schein | Groot- en detailhandel | 06-11-2023 | Henry Schein, een wereldwijde medische groothandel, is het slachtoffer geworden van een cyberaanval door de ransomwaregroep BlackCat, die 35 terabyte aan data heeft gestolen. De buitgemaakte data omvat onder meer salarisinformatie en gegevens gerelateerd aan aandeelhouders. Na de ontdekking van de aanval heeft Henry Schein uit voorzorg diverse systemen offline gehaald, wat leidde tot verstoringen in de bedrijfsvoering. BlackCat beweert onderhandelingen met Henry Schein te hebben gevoerd, die vastliepen, waarna ze de systemen opnieuw versleutelden. De exacte omvang van de schade en het aantal getroffen individuen is niet gespecificeerd. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.looopings.nl/weblog/23911/Hacker-ontdekt-datalekken-in-ticketshops-Efteling--Toverland-en-Slagharen.html?datalekt=66d1fae7148211f12216dc92b0f3f0693a55ba1e4bf642a1f8a3ffd33e407394",
-        "url": "https://www.looopings.nl/weblog/23911/Hacker-ontdekt-datalekken-in-ticketshops-Efteling--Toverland-en-Slagharen.html",
-        "title": "Global-Tickets speelt cruciale rol in snel dichten van datalek bij Toverland",
-        "date_published": "2023-11-10T11:43:00Z",
-        "date_modified": "2023-11-10T11:43:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "looopings.nl"
-        },
-        "content_html": "",
-        "content_text": "Global-Tickets | Informatie en communicatie | 07-11-2023 | Global-Tickets, de ticketpartner van Toverland, speelde een essenti\u00eble rol in het snel en effectief aanpakken van een datalek in de ticketshop van Toverland. Het lek, ontdekt door ethische hacker, onthulde gevoelige verkoopgegevens. Na de ontdekking schakelde Toverland onmiddellijk Global-Tickets in, die binnen een week het probleem wist op te lossen. Deze snelle respons benadrukt de effici\u00ebntie en het belang van Global-Tickets in het waarborgen van de digitale veiligheid en integriteit van Toverland&#039;s ticketverkoopsysteem. (Bron: looopings.nl)"
     }
 ]
