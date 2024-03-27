@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.omroepbrabant.nl/nieuws/4441152/datalek-bij-fontys-studenten-konden-gevoelige-bestanden-inzien?datalekt=3493cfa9b5da69dce40b2227ec5761b85368dd2af8efe6d4306ea4e65405c168",
+        "url": "https://www.omroepbrabant.nl/nieuws/4441152/datalek-bij-fontys-studenten-konden-gevoelige-bestanden-inzien",
+        "title": "Datalek bij Fontys Hogeschool door onjuist gedeelde bestanden",
+        "date_published": "2024-03-26T20:55:00Z",
+        "date_modified": "2024-03-26T20:55:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepbrabant.nl"
+        },
+        "content_html": "",
+        "content_text": "Fontys Hogeschool | Onderwijs | 26-03-2024 | Bij Fontys Hogeschool konden studenten en medewerkers gevoelige gegevens inzien door een datalek in OneDrive, waarbij documenten zoals tentamens, inloggegevens, en contracten toegankelijk waren. Het lek ontstond doordat ten minste \u00e9\u00e9n medewerker documenten deelde met de hele organisatie, wat niet de bedoeling was. De exacte omvang van het lek is nog onbekend. Fontys onderzoekt de zaak en voert campagnes voor informatieveiligheid uit. (Bron: omroepbrabant.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023?datalekt=804d8f5b0709b88c0ea72d3a684277f954a3c58cf15de139a8dddb5b1aca0030",
         "url": "https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023",
         "title": "SVB registreert talrijke datalekken tot augustus 2023",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Tunstall | Informatie en communicatie | 13-11-2023 | Tunstall, de leverancier van het alarmknoppensysteem, is recent het slachtoffer geworden van een cyberaanval. Deze aanval heeft geleid tot een landelijke storing in het systeem, waardoor gebruikers, waaronder cli\u00ebnten van Treant Zorggroep, hun alarmknop niet effectief kunnen gebruiken. Dit heeft ernstige gevolgen voor de veiligheid van voornamelijk ouderen en ernstig zieken die afhankelijk zijn van deze personenalarmering. Het aantal getroffen gebruikers is momenteel onbekend. Tunstall is actief bezig met herstelwerkzaamheden, maar een exacte tijdlijn voor de oplossing van het probleem is nog niet beschikbaar. De storing heeft een directe impact op de dienstverlening van Treant Zorggroep, die extra maatregelen neemt om de veiligheid van hun cli\u00ebnten te waarborgen. (Bron: rtvdrenthe.nl)"
-    },
-    {
-        "id": "https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes?datalekt=5e6a865b3472cedc32b1a919091ce73b6ec4d39bafd606db4c67c5a2662b7fdf",
-        "url": "https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes",
-        "title": "Cyberaanval treft alarmknoppensysteem van Treant Zorggroep",
-        "date_published": "2023-11-14T09:26:00Z",
-        "date_modified": "2023-11-14T09:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtvdrenthe.nl"
-        },
-        "content_html": "",
-        "content_text": "Treant Zorggroep | Gezondheids- en welzijnszorg | 13-11-2023 | Treant Zorggroep ondervindt ernstige problemen met hun alarmknoppensysteem als gevolg van een cyberaanval op het systeem van leverancier Tunstall. Dit incident heeft vooral impact op ouderen en ernstig zieken die afhankelijk zijn van personenalarmering. Door de aanval komen meldingen niet binnen bij de meldkamer, waardoor de veiligheid van cli\u00ebnten in gevaar komt. Het exacte aantal getroffen personen is onbekend, maar het probleem speelt in meerdere locaties van Treant in Drenthe. Als tijdelijke oplossing loopt het zorgpersoneel extra rondes om de veiligheid te waarborgen. Er is nog geen duidelijkheid over wanneer het systeem weer volledig operationeel zal zijn. (Bron: rtvdrenthe.nl)"
     }
 ]
