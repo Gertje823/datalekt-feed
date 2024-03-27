@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.rtvoost.nl/nieuws/2326483/website-provincie-overijssel-doelwit-van-ddos-aanval?datalekt=08cd70a6b77932aca9372c6fb87d1ee08b5864373b0b93cbf41575fb6b4f0359",
+        "url": "https://www.rtvoost.nl/nieuws/2326483/website-provincie-overijssel-doelwit-van-ddos-aanval",
+        "title": "Website provincie Overijssel getroffen door DDoS-aanval",
+        "date_published": "2024-03-27T08:46:00Z",
+        "date_modified": "2024-03-27T08:46:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvoost.nl"
+        },
+        "content_html": "",
+        "content_text": "Provincie Overijssel | Overheid: Provincies | 25-03-2024 | De website van de provincie Overijssel was korte tijd moeilijk bereikbaar door een DDoS-aanval. De aanval, waarvan de daders onbekend zijn, beperkte zich tot deze site, terwijl andere provinciale websites volledig onbereikbaar waren. Er is geen toegang verkregen tot de systemen van de provincie. Er wordt gespeculeerd dat pro-Russische hackers, bekend van aanvallen op Europese overheidswebsites, mogelijk achter deze actie zitten. De aanval maakt deel uit van een groter patroon van digitale verstoringen gericht tegen Nederlandse infrastructuur. (Bron: rtvoost.nl)"
+    },
+    {
         "id": "https://www.omroepbrabant.nl/nieuws/4441152/datalek-bij-fontys-studenten-konden-gevoelige-bestanden-inzien?datalekt=3493cfa9b5da69dce40b2227ec5761b85368dd2af8efe6d4306ea4e65405c168",
         "url": "https://www.omroepbrabant.nl/nieuws/4441152/datalek-bij-fontys-studenten-konden-gevoelige-bestanden-inzien",
         "title": "Datalek bij Fontys Hogeschool door onjuist gedeelde bestanden",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Bos Logistics | Vervoer en opslag | 10-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Bos Logistics heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes?datalekt=487b92c6ccea469342041256a2687f7772f09a77050ccea32be36e24642df98a",
-        "url": "https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes",
-        "title": "Tunstall&#039;s alarmknoppensysteem getroffen door cyberaanval, impact op Treant Zorggroep",
-        "date_published": "2023-11-14T09:27:00Z",
-        "date_modified": "2023-11-14T09:27:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtvdrenthe.nl"
-        },
-        "content_html": "",
-        "content_text": "Tunstall | Informatie en communicatie | 13-11-2023 | Tunstall, de leverancier van het alarmknoppensysteem, is recent het slachtoffer geworden van een cyberaanval. Deze aanval heeft geleid tot een landelijke storing in het systeem, waardoor gebruikers, waaronder cli\u00ebnten van Treant Zorggroep, hun alarmknop niet effectief kunnen gebruiken. Dit heeft ernstige gevolgen voor de veiligheid van voornamelijk ouderen en ernstig zieken die afhankelijk zijn van deze personenalarmering. Het aantal getroffen gebruikers is momenteel onbekend. Tunstall is actief bezig met herstelwerkzaamheden, maar een exacte tijdlijn voor de oplossing van het probleem is nog niet beschikbaar. De storing heeft een directe impact op de dienstverlening van Treant Zorggroep, die extra maatregelen neemt om de veiligheid van hun cli\u00ebnten te waarborgen. (Bron: rtvdrenthe.nl)"
     }
 ]

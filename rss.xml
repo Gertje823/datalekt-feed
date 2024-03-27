@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 27 Mar 2024 01:03:32 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 27 Mar 2024 12:27:32 +0000</lastBuildDate>
+		<item>
+			<title>Website provincie Overijssel getroffen door DDoS-aanval</title>
+			<link>https://www.rtvoost.nl/nieuws/2326483/website-provincie-overijssel-doelwit-van-ddos-aanval</link>
+			<description>Provincie Overijssel | Overheid: Provincies | 25-03-2024 | De website van de provincie Overijssel was korte tijd moeilijk bereikbaar door een DDoS-aanval. De aanval, waarvan de daders onbekend zijn, beperkte zich tot deze site, terwijl andere provinciale websites volledig onbereikbaar waren. Er is geen toegang verkregen tot de systemen van de provincie. Er wordt gespeculeerd dat pro-Russische hackers, bekend van aanvallen op Europese overheidswebsites, mogelijk achter deze actie zitten. De aanval maakt deel uit van een groter patroon van digitale verstoringen gericht tegen Nederlandse infrastructuur. (Bron: rtvoost.nl)</description>
+			<guid isPermaLink="false">https://www.rtvoost.nl/nieuws/2326483/website-provincie-overijssel-doelwit-van-ddos-aanval?datalekt=08cd70a6b77932aca9372c6fb87d1ee08b5864373b0b93cbf41575fb6b4f0359</guid>
+			<category>Overheid: Provincies </category>
+			<pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij Fontys Hogeschool door onjuist gedeelde bestanden</title>
 			<link>https://www.omroepbrabant.nl/nieuws/4441152/datalek-bij-fontys-studenten-konden-gevoelige-bestanden-inzien</link>
@@ -767,14 +775,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=185d8df13de1a5a590b28bfb9f7f856b6f62ace72ba3a50ba955be2ecab15c4e</guid>
 			<category>Vervoer en opslag </category>
 			<pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Tunstall&amp;#039;s alarmknoppensysteem getroffen door cyberaanval, impact op Treant Zorggroep</title>
-			<link>https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes</link>
-			<description>Tunstall | Informatie en communicatie | 13-11-2023 | Tunstall, de leverancier van het alarmknoppensysteem, is recent het slachtoffer geworden van een cyberaanval. Deze aanval heeft geleid tot een landelijke storing in het systeem, waardoor gebruikers, waaronder cliënten van Treant Zorggroep, hun alarmknop niet effectief kunnen gebruiken. Dit heeft ernstige gevolgen voor de veiligheid van voornamelijk ouderen en ernstig zieken die afhankelijk zijn van deze personenalarmering. Het aantal getroffen gebruikers is momenteel onbekend. Tunstall is actief bezig met herstelwerkzaamheden, maar een exacte tijdlijn voor de oplossing van het probleem is nog niet beschikbaar. De storing heeft een directe impact op de dienstverlening van Treant Zorggroep, die extra maatregelen neemt om de veiligheid van hun cliënten te waarborgen. (Bron: rtvdrenthe.nl)</description>
-			<guid isPermaLink="false">https://www.rtvdrenthe.nl/nieuws/16037152/alarmknoppensysteem-werkt-niet-na-cyberaanval-treant-loopt-extra-rondes?datalekt=487b92c6ccea469342041256a2687f7772f09a77050ccea32be36e24642df98a</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>
