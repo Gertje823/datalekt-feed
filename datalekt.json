@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.oogtv.nl/2024/03/na-provincie-ook-gemeente-groningen-doelwit-van-cyberaanval/?datalekt=e74263459da4538b177d5c330f30f7d151fa46d5d7d3b5c05840d5de64460efb",
+        "url": "https://www.oogtv.nl/2024/03/na-provincie-ook-gemeente-groningen-doelwit-van-cyberaanval/",
+        "title": "Gemeente Groningen getroffen door DDoS-aanval",
+        "date_published": "2024-03-29T14:15:00Z",
+        "date_modified": "2024-03-29T14:15:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "oogtv.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Groningen | Overheid: Gemeenten | 27-03-2024 | De gemeente Groningen werd kort na een aanval op de provincie zelf slachtoffer van een DDoS-aanval, waarbij de website tijdelijk onbereikbaar was door een overvloed aan verzoeken via VPN-servers uit Nederland en Roemeni\u00eb. De aanval werd gestopt door de betreffende IP-adressen te blokkeren en er zijn plannen om de websitebeveiliging te versterken met een extra firewall. De daders zijn onbekend, in tegenstelling tot de aanval op de provincie die werd opge\u00ebist door een pro-Russische groep. Er is geen informatie over financi\u00eble schade of het aantal getroffen gebruikers gedeeld. (Bron: oogtv.nl)"
+    },
+    {
+        "id": "https://nos.nl/regio/limburg/artikel/503322-datalek-zuyderland-persoonsgegevens-medewerkers-op-straat?datalekt=e59bcbf253c6ab5a7659fcd2e45557293015f55fd6d9391c3cce1fdfa5852c2b",
+        "url": "https://nos.nl/regio/limburg/artikel/503322-datalek-zuyderland-persoonsgegevens-medewerkers-op-straat",
+        "title": "Omvangrijk datalek bij Zuyderland treft persoonsgegevens van medewerkers",
+        "date_published": "2024-03-29T14:10:00Z",
+        "date_modified": "2024-03-29T14:10:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "Zuyderland | Gezondheids- en welzijnszorg | 27-03-2024 | Persoonsgegevens van (oud-)medewerkers van Zuyderland Thuishulp en Zuyderland Thuiszorg zijn blootgesteld door een datalek, veroorzaakt door een fout bij een leverancier. Gedurende een jaar konden onbevoegden gevoelige informatie zoals BSN-nummers, bankgegevens en contactinformatie inzien. Het incident, dat geen cli\u00ebntgegevens betreft, heeft geleid tot excuses van Zuyderland en maatregelen om herhaling te voorkomen. Getroffen medewerkers worden aangeraden hun wachtwoorden te wijzigen en waakzaam te zijn voor oplichting. De exacte omvang van het lek is nog onbekend. (Bron: nos.nl)"
+    },
+    {
         "id": "https://www.rtvoost.nl/nieuws/2326483/website-provincie-overijssel-doelwit-van-ddos-aanval?datalekt=08cd70a6b77932aca9372c6fb87d1ee08b5864373b0b93cbf41575fb6b4f0359",
         "url": "https://www.rtvoost.nl/nieuws/2326483/website-provincie-overijssel-doelwit-van-ddos-aanval",
         "title": "Website provincie Overijssel getroffen door DDoS-aanval",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Uitgeverij Em. de Jong | Informatie en communicatie | 16-11-2023 | Uitgeverij Em. de Jong heeft een cyberaanval tijdig ontdekt en afgeweerd, waardoor ernstige schade voorkomen werd. De aanval werd opgemerkt voordat malware het bedrijfsnetwerk kon infecteren of bestanden kon versleutelen, wat leidde tot het afsluiten van alle netwerken. Dit heeft geen directe impact op de distributie van hun weekbladen, maar zorgt wel voor operationele uitdagingen voor de werknemers. De duur van het herstel en de volledige impact van de aanval zijn nog onduidelijk. Er is geen informatie over eventuele datadiefstal of de identiteit van de aanvallers. De uitgeverij, bekend van zestien wekelijkse huis-aan-huisbladen en recente fusies voor innovatie in lokale media, werkt aan het herstel van hun systemen. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4c43c2dbaea03444526ce0c816acdf0e437e6514f80fc32253daa5992e0f2f13",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Nomot getroffen door ransomware aanval van de criminele organisatie PLAY",
-        "date_published": "2023-11-15T12:26:00Z",
-        "date_modified": "2023-11-15T12:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Nomot | Bouwnijverheid | 14-11-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Nomot heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=185d8df13de1a5a590b28bfb9f7f856b6f62ace72ba3a50ba955be2ecab15c4e",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Bos Logistics getroffen door ransomware aanval van de criminele organisatie Black Basta",
-        "date_published": "2023-11-15T12:25:00Z",
-        "date_modified": "2023-11-15T12:25:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Bos Logistics | Vervoer en opslag | 10-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Bos Logistics heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]

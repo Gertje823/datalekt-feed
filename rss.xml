@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 27 Mar 2024 12:27:32 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 29 Mar 2024 18:17:52 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Groningen getroffen door DDoS-aanval</title>
+			<link>https://www.oogtv.nl/2024/03/na-provincie-ook-gemeente-groningen-doelwit-van-cyberaanval/</link>
+			<description>Gemeente Groningen | Overheid: Gemeenten | 27-03-2024 | De gemeente Groningen werd kort na een aanval op de provincie zelf slachtoffer van een DDoS-aanval, waarbij de website tijdelijk onbereikbaar was door een overvloed aan verzoeken via VPN-servers uit Nederland en Roemenië. De aanval werd gestopt door de betreffende IP-adressen te blokkeren en er zijn plannen om de websitebeveiliging te versterken met een extra firewall. De daders zijn onbekend, in tegenstelling tot de aanval op de provincie die werd opgeëist door een pro-Russische groep. Er is geen informatie over financiële schade of het aantal getroffen gebruikers gedeeld. (Bron: oogtv.nl)</description>
+			<guid isPermaLink="false">https://www.oogtv.nl/2024/03/na-provincie-ook-gemeente-groningen-doelwit-van-cyberaanval/?datalekt=e74263459da4538b177d5c330f30f7d151fa46d5d7d3b5c05840d5de64460efb</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Omvangrijk datalek bij Zuyderland treft persoonsgegevens van medewerkers</title>
+			<link>https://nos.nl/regio/limburg/artikel/503322-datalek-zuyderland-persoonsgegevens-medewerkers-op-straat</link>
+			<description>Zuyderland | Gezondheids- en welzijnszorg | 27-03-2024 | Persoonsgegevens van (oud-)medewerkers van Zuyderland Thuishulp en Zuyderland Thuiszorg zijn blootgesteld door een datalek, veroorzaakt door een fout bij een leverancier. Gedurende een jaar konden onbevoegden gevoelige informatie zoals BSN-nummers, bankgegevens en contactinformatie inzien. Het incident, dat geen cliëntgegevens betreft, heeft geleid tot excuses van Zuyderland en maatregelen om herhaling te voorkomen. Getroffen medewerkers worden aangeraden hun wachtwoorden te wijzigen en waakzaam te zijn voor oplichting. De exacte omvang van het lek is nog onbekend. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/regio/limburg/artikel/503322-datalek-zuyderland-persoonsgegevens-medewerkers-op-straat?datalekt=e59bcbf253c6ab5a7659fcd2e45557293015f55fd6d9391c3cce1fdfa5852c2b</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Website provincie Overijssel getroffen door DDoS-aanval</title>
 			<link>https://www.rtvoost.nl/nieuws/2326483/website-provincie-overijssel-doelwit-van-ddos-aanval</link>
@@ -758,22 +774,6 @@
 			<description>Nationaal Coördinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&amp;#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&amp;#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)</description>
 			<guid isPermaLink="false">https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=af338f32eb3a4b9dcfdf13539a81158f870ae60652784b37eb7dab138557b8e1</guid>
 			<category>Overheid: Organisatieonderdeel </category>
-			<pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Nomot getroffen door ransomware aanval van de criminele organisatie PLAY</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Nomot | Bouwnijverheid | 14-11-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Nomot heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4c43c2dbaea03444526ce0c816acdf0e437e6514f80fc32253daa5992e0f2f13</guid>
-			<category>Bouwnijverheid </category>
-			<pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Bos Logistics getroffen door ransomware aanval van de criminele organisatie Black Basta</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Bos Logistics | Vervoer en opslag | 10-11-2023 | De criminele organisatie Black Basta heeft op het darkweb aangekondigd dat zij Bos Logistics heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=185d8df13de1a5a590b28bfb9f7f856b6f62ace72ba3a50ba955be2ecab15c4e</guid>
-			<category>Vervoer en opslag </category>
 			<pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
