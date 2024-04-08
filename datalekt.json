@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=918bc2321787e85f793178444b6156c71092efae5024722c787121232117be0b",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "EAS Change Systems getroffen door ransomware aanval van de criminele organisatie Qilin",
+        "date_published": "2024-04-08T15:27:00Z",
+        "date_modified": "2024-04-08T15:27:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "EAS Change Systems | Industrie | 06-04-2024 | De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij EAS Change Systems heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.oogtv.nl/2024/03/na-provincie-ook-gemeente-groningen-doelwit-van-cyberaanval/?datalekt=e74263459da4538b177d5c330f30f7d151fa46d5d7d3b5c05840d5de64460efb",
         "url": "https://www.oogtv.nl/2024/03/na-provincie-ook-gemeente-groningen-doelwit-van-cyberaanval/",
         "title": "Gemeente Groningen getroffen door DDoS-aanval",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Voorschoten | Overheid: Gemeenten | 17-11-2023 | De gemeente Voorschoten is beboet met 30.000 euro door de Autoriteit Persoonsgegevens (AP) wegens het te lang bewaren van afvalgegevens van huishoudens. Sinds 2018 en 2019 gebruikt Voorschoten chips in kliko&#039;s en ondergrondse containers, gekoppeld aan huisadressen, om afvalinzameling te monitoren en te stimuleren. De AP stelde vast dat de gemeente deze gegevens vijf jaar bewaarde, aanzienlijk langer dan noodzakelijk voor het beoogde doel. Bovendien informeerde de gemeente inwoners onvoldoende over het gebruik van hun persoonsgegevens. De gemeente heeft de overtredingen inmiddels gecorrigeerd door de bewaartermijn te verkorten naar twee weken en inwoners te informeren. Voorschoten kan nog bezwaar maken tegen de boete. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/uitgeverij-weet-cyberaanval-net-op-tijd-af-te-slaan/?datalekt=ca26d3a93333ed8387fa8a10bc23993b76d7e67b0f0e29018ddc1f14bac1cb71",
-        "url": "https://www.vpngids.nl/nieuws/uitgeverij-weet-cyberaanval-net-op-tijd-af-te-slaan/",
-        "title": "Uitgeverij Em. de Jong voorkomt net op tijd ernstige cyberaanval",
-        "date_published": "2023-11-17T13:22:00Z",
-        "date_modified": "2023-11-17T13:22:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Uitgeverij Em. de Jong | Informatie en communicatie | 16-11-2023 | Uitgeverij Em. de Jong heeft een cyberaanval tijdig ontdekt en afgeweerd, waardoor ernstige schade voorkomen werd. De aanval werd opgemerkt voordat malware het bedrijfsnetwerk kon infecteren of bestanden kon versleutelen, wat leidde tot het afsluiten van alle netwerken. Dit heeft geen directe impact op de distributie van hun weekbladen, maar zorgt wel voor operationele uitdagingen voor de werknemers. De duur van het herstel en de volledige impact van de aanval zijn nog onduidelijk. Er is geen informatie over eventuele datadiefstal of de identiteit van de aanvallers. De uitgeverij, bekend van zestien wekelijkse huis-aan-huisbladen en recente fusies voor innovatie in lokale media, werkt aan het herstel van hun systemen. (Bron: vpngids.nl)"
     }
 ]

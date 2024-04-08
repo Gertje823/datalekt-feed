@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 29 Mar 2024 18:17:52 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 08 Apr 2024 18:20:28 +0000</lastBuildDate>
+		<item>
+			<title>EAS Change Systems getroffen door ransomware aanval van de criminele organisatie Qilin</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>EAS Change Systems | Industrie | 06-04-2024 | De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij EAS Change Systems heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=918bc2321787e85f793178444b6156c71092efae5024722c787121232117be0b</guid>
+			<category>Industrie </category>
+			<pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Groningen getroffen door DDoS-aanval</title>
 			<link>https://www.oogtv.nl/2024/03/na-provincie-ook-gemeente-groningen-doelwit-van-cyberaanval/</link>
@@ -759,14 +767,6 @@
 			<guid isPermaLink="false">https://www.nu.nl/tech/6290179/gemeente-voorschoten-krijgt-boete-van-30000-euro-voor-bewaren-afvalgegevens.html?datalekt=4fe28179a4d57b85f642fdb880f4da65e4da361f23d00272950d5522e31e4cfb</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Uitgeverij Em. de Jong voorkomt net op tijd ernstige cyberaanval</title>
-			<link>https://www.vpngids.nl/nieuws/uitgeverij-weet-cyberaanval-net-op-tijd-af-te-slaan/</link>
-			<description>Uitgeverij Em. de Jong | Informatie en communicatie | 16-11-2023 | Uitgeverij Em. de Jong heeft een cyberaanval tijdig ontdekt en afgeweerd, waardoor ernstige schade voorkomen werd. De aanval werd opgemerkt voordat malware het bedrijfsnetwerk kon infecteren of bestanden kon versleutelen, wat leidde tot het afsluiten van alle netwerken. Dit heeft geen directe impact op de distributie van hun weekbladen, maar zorgt wel voor operationele uitdagingen voor de werknemers. De duur van het herstel en de volledige impact van de aanval zijn nog onduidelijk. Er is geen informatie over eventuele datadiefstal of de identiteit van de aanvallers. De uitgeverij, bekend van zestien wekelijkse huis-aan-huisbladen en recente fusies voor innovatie in lokale media, werkt aan het herstel van hun systemen. (Bron: vpngids.nl)</description>
-			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/uitgeverij-weet-cyberaanval-net-op-tijd-af-te-slaan/?datalekt=ca26d3a93333ed8387fa8a10bc23993b76d7e67b0f0e29018ddc1f14bac1cb71</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld</title>
