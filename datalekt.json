@@ -1,5 +1,57 @@
 [
     {
+        "id": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html?datalekt=3721a3c4665a5355dd4f5c8e226e07eb76926fac9b605a086c0d613baf86765f",
+        "url": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html",
+        "title": "SMC Nederland neemt maatregelen na blootstelling door lek",
+        "date_published": "2024-04-11T11:27:00Z",
+        "date_modified": "2024-04-11T11:27:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "SMC Nederland | Industrie | 11-04-2024 | SMC Nederland kwam in de spotlight na een lek in de software van Carrier Global, waardoor afmeldcodes van duizenden alarmsystemen openbaar werden. Het bedrijf ondernam actie door alle afmeldcodes te resetten en extra authenticatiestappen in te voeren als reactie op het incident. Dit onderstreept het belang van snelle respons en transparantie bij cybersecurity incidenten binnen de alarmcentralebranche. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html?datalekt=9c9d52cae2c7619298df051725b0d8dd199820cf3ef88453397bc9d8b8678084",
+        "url": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html",
+        "title": "Securitas reageert op beveiligingslek in gebruikte systemen",
+        "date_published": "2024-04-11T11:26:00Z",
+        "date_modified": "2024-04-11T11:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Securitas | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 11-04-2024 | Securitas, een beveiligingsbedrijf, werd getroffen door een lek in systemen van Carrier Global, waarbij persoonsgegevens van klanten onbedoeld online beschikbaar kwamen. Het bedrijf sloot snel het kwetsbare systeem nadat het lek bekend werd. Securitas benadrukt de ernst waarmee zij de veiligheid van klantgegevens behandelen en heeft de nodige stappen ondernomen om herhaling te voorkomen. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html?datalekt=1d9f986c332bf0327f77245f216441fa64f8c1a9660084c81588f9735be4ebe2",
+        "url": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html",
+        "title": "Beveiligingslek treft Fox-IT, bewaker van staatsgeheimen",
+        "date_published": "2024-04-11T11:25:00Z",
+        "date_modified": "2024-04-11T11:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Fox-IT | Informatie en communicatie | 11-04-2024 | Een significant beveiligingslek bij Carrier Global heeft ervoor gezorgd dat afmeldcodes van alarmsystemen, waaronder die van Fox-IT, online toegankelijk waren. Fox-IT, bekend om het bewaren van staatsgeheimen, behoorde tot de minstens 26.000 Nederlandse systemen waarvan de beveiliging op het spel stond. Dit incident legt nadruk op het belang van strenge cybersecurity maatregelen binnen organisaties die met gevoelige informatie werken. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html?datalekt=dc3602bb74c4c9a9fee3d2c2e62691bb29077895f862f415578cf8f85ccc70ed",
+        "url": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html",
+        "title": "Groot beveiligingslek treft duizenden Nederlandse alarmsystemen",
+        "date_published": "2024-04-11T11:24:00Z",
+        "date_modified": "2024-04-11T11:24:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende aantal onbekende organisaties | Overige dienstverlening | 11-04-2024 | Een beveiligingslek bij het Amerikaanse bedrijf Carrier Global heeft ervoor gezorgd dat afmeldcodes van minstens 26.000 Nederlandse alarmsystemen meer dan een jaar online toegankelijk waren. Deze codes, cruciaal voor het uitschakelen van alarms bij onjuiste activatie, waren door een fout in een app van Carrier Global, gebruikt door alarmcentrale SMC, onbeschermd op internet beland. Ondanks waarschuwingen door een klokkenluider duurde het ruim een jaar voordat het lek werd gedicht, waarbij zowel SMC als Securitas, een ander getroffen bedrijf, pas actie ondernamen na externe aandacht. Het incident benadrukt ernstige zorgen over cybersecurity binnen de sector. (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=918bc2321787e85f793178444b6156c71092efae5024722c787121232117be0b",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "EAS Change Systems getroffen door ransomware aanval van de criminele organisatie Qilin",
@@ -1246,57 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 15-07-2023 | Het Uitvoeringsinstituut Werknemersverzekeringen (UWV) heeft jarenlang op onrechtmatige wijze gegevens van uitkeringsgerechtigden verzameld, waaronder IP-adressen, en heeft zonder toestemming cookies geplaatst om deze personen heimelijk te volgen. Het doel was om te controleren of mensen met een WW-uitkering in het buitenland verbleven. Deze praktijken werden toegepast in het fraude-algoritme &#039;Risicoscan Verblijf Buitenland&#039;, wat resulteerde in 3.600 onderzoeken en 460 aanpassingen van uitkeringen. Na twijfels over de juridische basis werd het systeem begin dit jaar stopgezet. De Autoriteit Persoonsgegevens heeft kritiek geuit op de werkwijze van het UWV en overweegt een boete die kan oplopen tot 20 miljoen euro [Update: UWV heeft d.d. 24-11-2023 bekend gemaakt 703 boetes terug te gaan betalen]. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.3dhype.com/index/nieuws/2959?datalekt=e3601b2628a583a111d6ccb968c030889d55989a79a706957aff3ee294bebd43",
-        "url": "https://www.3dhype.com/index/nieuws/2959",
-        "title": "Blender getroffen door DDOS-aanval, diensten tijdelijk onbereikbaar",
-        "date_published": "2023-11-23T13:44:00Z",
-        "date_modified": "2023-11-23T13:44:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "3dhype.com"
-        },
-        "content_html": "",
-        "content_text": "Blender Foundation | Groot- en detailhandel | 20-11-2023 | Blender, een populaire software, werd onlangs het doelwit van een DDOS-aanval, wat resulteerde in de ontoegankelijkheid van hun diensten. Deze aanval verhinderde gebruikers om de site te bereiken, waardoor problemen ontstonden bij het downloaden en inloggen. Het Blender-team werkte actief aan het minimaliseren van de impact en het herstellen van de functionaliteit, maar kon geen geschatte tijd voor volledig herstel geven. DDOS-aanvallen overbelasten servers met een enorme hoeveelheid verkeer, waardoor legitieme gebruikers worden geblokkeerd. Gebruikers werden aangemoedigd om offici\u00eble kanalen te volgen voor updates. Er waren perioden waarin Blender.org weer bereikbaar leek, maar de aanval was nog steeds gaande, met enkele websites, waaronder de documentatie, die nog steeds onbereikbaar waren. (Bron: 3dhype.com)"
-    },
-    {
-        "id": "https://voorburgsdagblad.nl/Den%20Haag%20&amp;amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen?datalekt=0d3cb2b60a9b0491aa76ccb98e6a743038eead692b33a7b994873452147d82e7",
-        "url": "https://voorburgsdagblad.nl/Den%20Haag%20&amp;amp;%20Regio/cidi-in-den-haag-al-wekenlang-mikpunt-van-cyberaanvallen",
-        "title": "Aanhoudende cyberaanvallen op CIDI in Den Haag",
-        "date_published": "2023-11-23T13:38:00Z",
-        "date_modified": "2023-11-23T13:38:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "voorburgsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "Centrum Informatie en Documentatie Isra\u00ebl (CIDI) | Overige dienstverlening | 20-11-2023 | Het Centrum Informatie en Documentatie Isra\u00ebl (CIDI) in Den Haag is al enkele weken het doelwit van aanhoudende cyberaanvallen. Deze aanvallen begonnen na een terreuraanval van Hamas op 7 oktober. De aanvallen bestaan voornamelijk uit DDoS-aanvallen, waarbij de website van CIDI overbelast raakt door gelijktijdige toegang vanuit vele computers, waardoor de site onbereikbaar wordt. Er is geen duidelijkheid over wie achter deze aanvallen zit. Het CIDI heeft maatregelen genomen om hun digitale beveiliging te versterken en hun website operationeel te houden. Tot nu toe is het niet gelukt om gevoelige informatie, zoals persoonsgegevens van medewerkers, te bemachtigen. (Bron: voorburgsdagblad.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/vlaardingen/russische-hacktivisten-slaan-opnieuw-toe-en-halen-lokale-nieuwssites-weer-uit-de-lucht~ac7b552e/?datalekt=8203ebe65a1b81640f095acef19a05655824b3d2cbd3759179f2d104f9d371be",
-        "url": "https://www.ad.nl/vlaardingen/russische-hacktivisten-slaan-opnieuw-toe-en-halen-lokale-nieuwssites-weer-uit-de-lucht~ac7b552e/",
-        "title": "Lokaal24&#039;s websites getroffen door Russische DDoS-aanvallen",
-        "date_published": "2023-11-21T10:43:00Z",
-        "date_modified": "2023-11-21T10:43:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Lokaal24 | Informatie en communicatie | 21-08-2023 | De websites Vlaardingen24.nl, Schiedam24.nl en Maassluis24.nl, allen eigendom van de organisatie Lokaal24, zijn recentelijk het doelwit geworden van DDoS-aanvallen uitgevoerd door de Russische hacktivistengroep NoName057(16). Deze aanvallen, die een overbelasting van dataverkeer naar de websites veroorzaken, leiden tot volledige uitval. Eerder deze maand werden Vlaardingen24.nl en de gemeentelijke website van Vlaardingen op soortgelijke wijze aangevallen. De aanvallen hebben aanzienlijke gevolgen voor de burgers van Vlaardingen, die tijdelijk geen toegang hebben tot online burgerzaken. NoName057(16) richt zich op het verstoren van websites in landen die Oekra\u00efne steunen in het conflict met Rusland. De specifieke reden voor het kiezen van de websites van Lokaal24 blijft onduidelijk. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6290179/gemeente-voorschoten-krijgt-boete-van-30000-euro-voor-bewaren-afvalgegevens.html?datalekt=4fe28179a4d57b85f642fdb880f4da65e4da361f23d00272950d5522e31e4cfb",
-        "url": "https://www.nu.nl/tech/6290179/gemeente-voorschoten-krijgt-boete-van-30000-euro-voor-bewaren-afvalgegevens.html",
-        "title": "Privacyovertreding in Voorschoten door langdurige opslag van afvalgegevens",
-        "date_published": "2023-11-18T10:57:00Z",
-        "date_modified": "2023-11-18T10:57:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Voorschoten | Overheid: Gemeenten | 17-11-2023 | De gemeente Voorschoten is beboet met 30.000 euro door de Autoriteit Persoonsgegevens (AP) wegens het te lang bewaren van afvalgegevens van huishoudens. Sinds 2018 en 2019 gebruikt Voorschoten chips in kliko&#039;s en ondergrondse containers, gekoppeld aan huisadressen, om afvalinzameling te monitoren en te stimuleren. De AP stelde vast dat de gemeente deze gegevens vijf jaar bewaarde, aanzienlijk langer dan noodzakelijk voor het beoogde doel. Bovendien informeerde de gemeente inwoners onvoldoende over het gebruik van hun persoonsgegevens. De gemeente heeft de overtredingen inmiddels gecorrigeerd door de bewaartermijn te verkorten naar twee weken en inwoners te informeren. Voorschoten kan nog bezwaar maken tegen de boete. (Bron: nu.nl)"
     }
 ]
