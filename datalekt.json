@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web?datalekt=d52a611c30f875331dc98259138c78ef2c5a5ffd07832f11ec7bd6766e8fad19",
+        "url": "https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web",
+        "title": "Cybercriminelen bedreigen Nexperia met lekken van gevoelige informatie",
+        "date_published": "2024-04-12T15:56:00Z",
+        "date_modified": "2024-04-12T15:56:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtl.nl"
+        },
+        "content_html": "",
+        "content_text": "Nexperia | Industrie | 12-04-2024 | De Nijmeegse chipfabrikant Nexperia is getroffen door een cyberaanval door de groep Dunghill, die dreigt honderden gigabytes aan bedrijfsgevoelige informatie te publiceren tenzij er losgeld betaald wordt. Deze informatie omvat onder andere handelsgeheimen en klantgegevens van grote bedrijven als SpaceX, Apple en Huawei. Nexperia, een sleutelspeler in de wereldwijde chipproductie, heeft de aanval bevestigd en werkt samen met cybersecurity-experts en autoriteiten om de schade te beperken. De aanval onderstreept de kwetsbaarheid van de chipindustrie voor cybercriminaliteit. (Bron: rtl.nl)"
+    },
+    {
         "id": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html?datalekt=3721a3c4665a5355dd4f5c8e226e07eb76926fac9b605a086c0d613baf86765f",
         "url": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html",
         "title": "SMC Nederland neemt maatregelen na blootstelling door lek",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "NXP Semiconductors | Industrie | 24-11-2023 | Tussen eind 2017 en het voorjaar van 2020 had de Chinese hackersgroep &#039;Chimera&#039; onopgemerkt toegang tot het netwerk van de Nederlandse chipfabrikant NXP. Ze verkregen deze toegang door gebruikersnamen uit eerdere datalekken bij LinkedIn en Facebook te combineren met brute kracht aanvallen op wachtwoorden. Eenmaal binnen breidden ze hun toegangsrechten uit om gevoelige data, zoals chipontwerpen, te stelen. Deze bestanden werden via clouddiensten zoals OneDrive en Google Drive verkregen. Ondanks de diefstal van intellectueel eigendom, meldt NXP geen materi\u00eble schade te hebben geleden en heeft het zijn beveiliging verbeterd na deze ervaring. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/uwv-schond-op-grote-schaal-privacywetgeving/?datalekt=7e075bb10e8511c8e0709d0c91cd57f2fbbf41d1904fd592fe6dfd8622debafc",
-        "url": "https://www.vpngids.nl/nieuws/uwv-schond-op-grote-schaal-privacywetgeving/",
-        "title": "UWV overtrad privacywetgeving door illegale dataverzameling",
-        "date_published": "2023-07-16T14:22:00Z",
-        "date_modified": "2023-11-24T14:22:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 15-07-2023 | Het Uitvoeringsinstituut Werknemersverzekeringen (UWV) heeft jarenlang op onrechtmatige wijze gegevens van uitkeringsgerechtigden verzameld, waaronder IP-adressen, en heeft zonder toestemming cookies geplaatst om deze personen heimelijk te volgen. Het doel was om te controleren of mensen met een WW-uitkering in het buitenland verbleven. Deze praktijken werden toegepast in het fraude-algoritme &#039;Risicoscan Verblijf Buitenland&#039;, wat resulteerde in 3.600 onderzoeken en 460 aanpassingen van uitkeringen. Na twijfels over de juridische basis werd het systeem begin dit jaar stopgezet. De Autoriteit Persoonsgegevens heeft kritiek geuit op de werkwijze van het UWV en overweegt een boete die kan oplopen tot 20 miljoen euro [Update: UWV heeft d.d. 24-11-2023 bekend gemaakt 703 boetes terug te gaan betalen]. (Bron: vpngids.nl)"
     }
 ]
