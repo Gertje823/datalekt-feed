@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://sivon.nl/2024/04/iddink-learning-materials-aangevallen-door-cybercriminelen/?datalekt=17491d2e6751385f41f7fa1ff2bcd5ad69752aed6381588a52999124801d778a",
+        "url": "https://sivon.nl/2024/04/iddink-learning-materials-aangevallen-door-cybercriminelen/",
+        "title": "Cyberaanval op Iddink leidt tot datalek bij SIVON",
+        "date_published": "2024-04-13T16:30:00Z",
+        "date_modified": "2024-04-13T16:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "sivon.nl"
+        },
+        "content_html": "",
+        "content_text": "SIVON | Informatie en communicatie | 13-04-2024 | Iddink werd op 12 april 2024 getroffen door een ransomware-aanval, waardoor toegang tot hun systemen en de data van klanten werd versleuteld. De aanval heeft mogelijk geleid tot het lekken van persoons- en bankgegevens van leerlingen, ouders en scholen. Iddink onderzoekt de volledige omvang van de schade en heeft betrokken partijen ge\u00efnformeerd. Verdere stappen omvatten een melding bij de Autoriteit Persoonsgegevens en het organiseren van een webinar voor scholen om de situatie toe te lichten. (Bron: sivon.nl)"
+    },
+    {
+        "id": "https://nos.nl/artikel/2516597-schoolboekenleverancier-iddink-gehackt-mogelijk-klantengegevens-gelekt?datalekt=a5926eec9fb01ee1f5c44467586575c980f5a04240fae65ffe0c745ac4c5acfb",
+        "url": "https://nos.nl/artikel/2516597-schoolboekenleverancier-iddink-gehackt-mogelijk-klantengegevens-gelekt",
+        "title": "Onderwijsinstellingen potentieel getroffen door datalek bij Iddink na ransomware-aanval",
+        "date_published": "2024-04-13T16:29:00Z",
+        "date_modified": "2024-04-13T16:29:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekend aantal organisaties | Onderwijs | 13-04-2024 | Na een ransomware-aanval op Iddink, waarbij persoonlijke gegevens van leerlingen, ouders en scholen mogelijk zijn gelekt, staan diverse onderwijsinstellingen voor uitdagingen. Deze scholen, die afhankelijk zijn van Iddink voor schoolboeken en digitaal lesmateriaal, hebben geen directe toegang tot sommige systemen verloren, maar educatieve diensten zoals lesmateriaal en leerlingvolgsystemen blijven functioneren. Onderwijsinstellingen zijn ge\u00efnformeerd en maatregelen worden getroffen om de impact van het lek te beoordelen. (Bron: nos.nl)"
+    },
+    {
+        "id": "https://nos.nl/artikel/2516597-schoolboekenleverancier-iddink-gehackt-mogelijk-klantengegevens-gelekt?datalekt=df1b9001f0695a980ce23c49e96bb1464edfaca196a869e960918f2262089940",
+        "url": "https://nos.nl/artikel/2516597-schoolboekenleverancier-iddink-gehackt-mogelijk-klantengegevens-gelekt",
+        "title": "Gijzelsoftware-aanval op Iddink legt klantgegevens mogelijk bloot",
+        "date_published": "2024-04-13T16:28:00Z",
+        "date_modified": "2024-04-13T16:28:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "Iddink | Groot- en detailhandel | 13-04-2024 | Iddink, een prominente leverancier van schoolboeken en digitaal lesmateriaal, heeft een cyberaanval ondergaan die resulteerde in de diefstal van persoonlijke klantgegevens zoals namen, e-mailadressen en bankinformatie. De aanval, uitgevoerd door de criminele groep Cactus, heeft ertoe geleid dat Iddink geen toegang meer heeft tot eigen systemen, hoewel lesmateriaal en het leerlingvolgsysteem beschikbaar blijven. Iddink heeft klanten ge\u00efnformeerd en autoriteiten zoals de politie en de Autoriteit Persoonsgegevens ingelicht. Het bedrijf weigert losgeld te betalen. (Bron: nos.nl)"
+    },
+    {
         "id": "https://www.gld.nl/nieuws/8130878/porno-in-plaats-van-vertrektijden-niet-veel-moeite-ingestopt?datalekt=c59035a6bf28ebc72aa5abeda10746d03e666c95be31bb2f845bdbc96dd1acfd",
         "url": "https://www.gld.nl/nieuws/8130878/porno-in-plaats-van-vertrektijden-niet-veel-moeite-ingestopt",
         "title": "Incident met ongepaste inhoud op scherm Arnhem Centraal",
@@ -26,7 +65,7 @@
         "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&#039;s en paspoortkopie\u00ebn toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en de beveiliging van het systeem verbeterd. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. (Bron: binnenlandsbestuur.nl)"
     },
     {
-        "id": "https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web?datalekt=d52a611c30f875331dc98259138c78ef2c5a5ffd07832f11ec7bd6766e8fad19",
+        "id": "https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web?datalekt=70fede1716528f392651cef23977bcf910601afd8ca6456381c424beea81b6cf",
         "url": "https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web",
         "title": "Cybercriminelen bedreigen Nexperia met lekken van gevoelige informatie",
         "date_published": "2024-04-12T15:56:00Z",
@@ -36,7 +75,7 @@
             "name": "rtl.nl"
         },
         "content_html": "",
-        "content_text": "Nexperia | Industrie | 12-04-2024 | De Nijmeegse chipfabrikant Nexperia is getroffen door een cyberaanval door de groep Dunghill, die dreigt honderden gigabytes aan bedrijfsgevoelige informatie te publiceren tenzij er losgeld betaald wordt. Deze informatie omvat onder andere handelsgeheimen en klantgegevens van grote bedrijven als SpaceX, Apple en Huawei. Nexperia, een sleutelspeler in de wereldwijde chipproductie, heeft de aanval bevestigd en werkt samen met cybersecurity-experts en autoriteiten om de schade te beperken. De aanval onderstreept de kwetsbaarheid van de chipindustrie voor cybercriminaliteit. (Bron: rtl.nl)"
+        "content_text": "Nexperia | Industrie | 12-04-2024 | De Nijmeegse chipfabrikant Nexperia is getroffen door een cyberaanval door de groep Dunghill, die dreigt honderden gigabytes aan bedrijfsgevoelige informatie te publiceren tenzij er losgeld betaald wordt. Deze informatie omvat onder andere handelsgeheimen en klantgegevens van grote bedrijven als SpaceX, Apple en Huawei. Nexperia, een sleutelspeler in de wereldwijde chipproductie, heeft de aanval bevestigd en werkt samen met cybersecurity-experts en autoriteiten om de schade te beperken. (Bron: rtl.nl)"
     },
     {
         "id": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html?datalekt=3721a3c4665a5355dd4f5c8e226e07eb76926fac9b605a086c0d613baf86765f",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Sprinter Sports | Groot- en detailhandel | 30-11-2023 | Sprinter Sports, voorheen bekend als Perry Sport, is recent het slachtoffer geworden van een ransomware-aanval. De aanvallers hebben toegang gekregen tot klantorder- en accountgegevens. Hoewel Sprinter geen volledige betaalkaartinformatie opslaat, zijn klanten geadviseerd om alert te zijn op verdachte activiteiten op hun bankrekeningen. Cyberdeskundigen zijn ingeschakeld voor een grondig onderzoek. Er zijn aanwijzingen op sociale media dat de groep Metaencryptor verantwoordelijk zou zijn voor deze aanval. Sprinter maakt deel uit van de International Sports Retail Group (ISRG) en heeft meer dan vierhonderd winkels. De schade en het aantal getroffen klanten zijn nog onbekend. (Bron: telegraaf.nl)"
-    },
-    {
-        "id": "https://www.ed.nl/eindhoven/eindhoven-informeert-slachtoffer-datalek-niet-of-onvolledig~ac34cf7e/?datalekt=98827558347fb63e4f6fb2cfab14ec2aaa1da9de2becd5bdf5e3704ddb27ad4b",
-        "url": "https://www.ed.nl/eindhoven/eindhoven-informeert-slachtoffer-datalek-niet-of-onvolledig~ac34cf7e/",
-        "title": "Onvolledige informatieverstrekking bij datalekken in Eindhoven",
-        "date_published": "2023-11-30T13:33:00Z",
-        "date_modified": "2023-11-30T13:33:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ed.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 28-11-2023 | In Eindhoven worden inwoners die slachtoffer zijn van ernstige datalekken bij de gemeente vaak onvolledig, onduidelijk of zelfs helemaal niet ge\u00efnformeerd. Uit een intern onderzoek blijkt dat van de 241 geregistreerde datalekken in het afgelopen jaar, 70 onderzocht werden. Negentien hiervan waren zo ernstig dat ze gemeld werden aan de Autoriteit Persoonsgegevens, met risico&#039;s zoals identiteitsdiefstal en financi\u00eble schade. In acht gevallen werden slachtoffers niet ge\u00efnformeerd en in elf gevallen was de informatie onvolledig of tegenstrijdig. Het datalekkenregister van de gemeente bevat onnauwkeurigheden en registraties worden soms te laat of onvolledig bijgehouden. Dit heeft geleid tot verscherpt toezicht door de Autoriteit Persoonsgegevens en de noodzaak voor een verbeterplan. (Bron: ed.nl)"
-    },
-    {
-        "id": "https://www.automotive-online.nl/management/2023/11/28/smidts-autogroep-slachtoffer-van-een-cyberaanval/?datalekt=55d89d50ab3ad87e31d691ba245a042038bb795755f6d1e936fd22ae803f6b0f",
-        "url": "https://www.automotive-online.nl/management/2023/11/28/smidts-autogroep-slachtoffer-van-een-cyberaanval/",
-        "title": "Cyberaanval treft Smidts Autogroep met mogelijke klantgegevensinbreuk",
-        "date_published": "2023-11-30T13:27:00Z",
-        "date_modified": "2023-11-30T13:27:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "automotive-online.nl"
-        },
-        "content_html": "",
-        "content_text": "Smidts Autogroep | Groot- en detailhandel | 28-11-2023 | Smidts Autogroep, een Forddealer, werd eind oktober getroffen door een cyberaanval. De directeur, Menno Smidts, uitte zijn bezorgdheid dat kwaadwillende cybercriminelen het familiebedrijf proberen te schaden. Er is een risico dat klantgegevens zijn ingezien of gekopieerd. Na de aanval nam het bedrijf onmiddellijk maatregelen om de impact te beperken. Klanten en oud-klanten zijn gewaarschuwd voor mogelijke phishing-pogingen via e-mail en telefoon. De aanval is gemeld bij de Autoriteit Persoonsgegevens. Smidts Autogroep heeft meerdere dealerschappen in Nederland en is een gevestigd familiebedrijf sinds 1867. (Bron: automotive-online.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ff30dd77c31d5d3a30d47a3dc44755846e0ea2fa0f0306d574af20449b7a4a46",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Byfod getroffen door ransomware aanval van de criminele organisatie PLAY",
-        "date_published": "2023-11-29T16:44:00Z",
-        "date_modified": "2023-11-29T16:44:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Byfod | Groot- en detailhandel | 28-11-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Byfod heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
