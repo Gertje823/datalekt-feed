@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 12 Apr 2024 18:15:25 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 13 Apr 2024 12:22:45 +0000</lastBuildDate>
+		<item>
+			<title>Incident met ongepaste inhoud op scherm Arnhem Centraal</title>
+			<link>https://www.gld.nl/nieuws/8130878/porno-in-plaats-van-vertrektijden-niet-veel-moeite-ingestopt</link>
+			<description>Gemeente Arnhem | Overheid: Gemeenten | 11-04-2024 | Op een informatiescherm op Arnhem Centraal verscheen woensdagavond onverwacht pornografische inhoud. De gemeente Arnhem, die de schermen beheert, overweegt de mogelijkheid van een hack, hoewel het incident beperkt bleef tot één scherm. Deskundigen suggereren dat het systeem mogelijk lokaal is gecompromitteerd, aangezien het slechts op één scherm gebeurde, wat wijst op een minder geavanceerde aanval. Onderzoekers bekijken nu hoe de beelden konden verschijnen, terwijl de impact op reizigers nog onduidelijk is. (Bron: gld.nl)</description>
+			<guid isPermaLink="false">https://www.gld.nl/nieuws/8130878/porno-in-plaats-van-vertrektijden-niet-veel-moeite-ingestopt?datalekt=c59035a6bf28ebc72aa5abeda10746d03e666c95be31bb2f845bdbc96dd1acfd</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek</title>
+			<link>https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht</link>
+			<description>Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&amp;#039;s en paspoortkopieën toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en de beveiliging van het systeem verbeterd. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. (Bron: binnenlandsbestuur.nl)</description>
+			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e19a49355c395e5c8435513fdcb23edee0cbfc3f58e8397a8c79e3435fb13d03</guid>
+			<category>Overheid: Provincies </category>
+			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cybercriminelen bedreigen Nexperia met lekken van gevoelige informatie</title>
 			<link>https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web</link>
@@ -759,22 +775,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ff30dd77c31d5d3a30d47a3dc44755846e0ea2fa0f0306d574af20449b7a4a46</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Intratuin Duiven&amp;#039;s controversiële gebruik van foto&amp;#039;s van winkeldieven</title>
-			<link>https://www.gld.nl/nieuws/8047337/jouw-foto-op-het-dievenbord-van-intratuin-mag-dat-zomaar</link>
-			<description>Intratuin Duiven | Groot- en detailhandel | 25-11-2023 | Intratuin Duiven heeft een bord met foto&amp;#039;s van vermeende winkeldieven bij hun uitgang geplaatst, een reactie op de hoge incidentie van winkeldiefstallen in Nederland. Hoewel het plaatsen van deze foto&amp;#039;s niet direct strafbaar is, kan het leiden tot beschuldigingen van smaad of belediging. Deze actie is in strijd met de Algemene Verordening Gegevensbescherming (AVG) en het portretrecht, wat een inbreuk op privacy betekent. Advocaten adviseren tegen het openbaar maken van dergelijke foto&amp;#039;s, aangezien dit kan leiden tot juridische acties tegen de winkelier, waaronder aangiften voor smaad en laster, en mogelijk boetes van de Autoriteit Persoonsgegevens. Er zijn gevallen waarin onschuldige personen, zoals een dementerende vrouw, onterecht als winkeldief zijn afgebeeld, wat leidt tot reputatieschade. Ondernemers hebben een databank opgezet in samenwerking met de Autoriteit Persoonsgegevens om foto&amp;#039;s van winkeldieven te delen, waarbij de privacy van de betrokkenen wordt beschermd. (Bron: gld.nl)</description>
-			<guid isPermaLink="false">https://www.gld.nl/nieuws/8047337/jouw-foto-op-het-dievenbord-van-intratuin-mag-dat-zomaar?datalekt=46e8553fab568e4e723746862ae83638dc6504136ecbf41e245893d0310f29e7</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Langdurige Infiltratie van NXP Netwerk door Chinese Hackersgroep &amp;#039;Chimera&amp;#039;</title>
-			<link>https://nos.nl/artikel/2499102-chinese-hackersgroep-had-2-5-jaar-toegang-tot-netwerk-van-chipfabrikant-nxp</link>
-			<description>NXP Semiconductors | Industrie | 24-11-2023 | Tussen eind 2017 en het voorjaar van 2020 had de Chinese hackersgroep &amp;#039;Chimera&amp;#039; onopgemerkt toegang tot het netwerk van de Nederlandse chipfabrikant NXP. Ze verkregen deze toegang door gebruikersnamen uit eerdere datalekken bij LinkedIn en Facebook te combineren met brute kracht aanvallen op wachtwoorden. Eenmaal binnen breidden ze hun toegangsrechten uit om gevoelige data, zoals chipontwerpen, te stelen. Deze bestanden werden via clouddiensten zoals OneDrive en Google Drive verkregen. Ondanks de diefstal van intellectueel eigendom, meldt NXP geen materiële schade te hebben geleden en heeft het zijn beveiliging verbeterd na deze ervaring. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2499102-chinese-hackersgroep-had-2-5-jaar-toegang-tot-netwerk-van-chipfabrikant-nxp?datalekt=d9dffd3489d73dc1a6f810ac4cc4b87e2c3c94ae4000f1fb0dd9750ccf481fbc</guid>
-			<category>Industrie </category>
-			<pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld</title>

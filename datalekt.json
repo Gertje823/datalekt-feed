@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.gld.nl/nieuws/8130878/porno-in-plaats-van-vertrektijden-niet-veel-moeite-ingestopt?datalekt=c59035a6bf28ebc72aa5abeda10746d03e666c95be31bb2f845bdbc96dd1acfd",
+        "url": "https://www.gld.nl/nieuws/8130878/porno-in-plaats-van-vertrektijden-niet-veel-moeite-ingestopt",
+        "title": "Incident met ongepaste inhoud op scherm Arnhem Centraal",
+        "date_published": "2024-04-13T12:05:00Z",
+        "date_modified": "2024-04-13T12:05:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "gld.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Arnhem | Overheid: Gemeenten | 11-04-2024 | Op een informatiescherm op Arnhem Centraal verscheen woensdagavond onverwacht pornografische inhoud. De gemeente Arnhem, die de schermen beheert, overweegt de mogelijkheid van een hack, hoewel het incident beperkt bleef tot \u00e9\u00e9n scherm. Deskundigen suggereren dat het systeem mogelijk lokaal is gecompromitteerd, aangezien het slechts op \u00e9\u00e9n scherm gebeurde, wat wijst op een minder geavanceerde aanval. Onderzoekers bekijken nu hoe de beelden konden verschijnen, terwijl de impact op reizigers nog onduidelijk is. (Bron: gld.nl)"
+    },
+    {
+        "id": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e19a49355c395e5c8435513fdcb23edee0cbfc3f58e8397a8c79e3435fb13d03",
+        "url": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht",
+        "title": "Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek",
+        "date_published": "2024-04-13T12:01:00Z",
+        "date_modified": "2024-04-13T12:01:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "binnenlandsbestuur.nl"
+        },
+        "content_html": "",
+        "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&#039;s en paspoortkopie\u00ebn toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en de beveiliging van het systeem verbeterd. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. (Bron: binnenlandsbestuur.nl)"
+    },
+    {
         "id": "https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web?datalekt=d52a611c30f875331dc98259138c78ef2c5a5ffd07832f11ec7bd6766e8fad19",
         "url": "https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web",
         "title": "Cybercriminelen bedreigen Nexperia met lekken van gevoelige informatie",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Byfod | Groot- en detailhandel | 28-11-2023 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Byfod heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.gld.nl/nieuws/8047337/jouw-foto-op-het-dievenbord-van-intratuin-mag-dat-zomaar?datalekt=46e8553fab568e4e723746862ae83638dc6504136ecbf41e245893d0310f29e7",
-        "url": "https://www.gld.nl/nieuws/8047337/jouw-foto-op-het-dievenbord-van-intratuin-mag-dat-zomaar",
-        "title": "Intratuin Duiven&#039;s controversi\u00eble gebruik van foto&#039;s van winkeldieven",
-        "date_published": "2023-11-28T12:44:00Z",
-        "date_modified": "2023-11-28T12:44:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gld.nl"
-        },
-        "content_html": "",
-        "content_text": "Intratuin Duiven | Groot- en detailhandel | 25-11-2023 | Intratuin Duiven heeft een bord met foto&#039;s van vermeende winkeldieven bij hun uitgang geplaatst, een reactie op de hoge incidentie van winkeldiefstallen in Nederland. Hoewel het plaatsen van deze foto&#039;s niet direct strafbaar is, kan het leiden tot beschuldigingen van smaad of belediging. Deze actie is in strijd met de Algemene Verordening Gegevensbescherming (AVG) en het portretrecht, wat een inbreuk op privacy betekent. Advocaten adviseren tegen het openbaar maken van dergelijke foto&#039;s, aangezien dit kan leiden tot juridische acties tegen de winkelier, waaronder aangiften voor smaad en laster, en mogelijk boetes van de Autoriteit Persoonsgegevens. Er zijn gevallen waarin onschuldige personen, zoals een dementerende vrouw, onterecht als winkeldief zijn afgebeeld, wat leidt tot reputatieschade. Ondernemers hebben een databank opgezet in samenwerking met de Autoriteit Persoonsgegevens om foto&#039;s van winkeldieven te delen, waarbij de privacy van de betrokkenen wordt beschermd. (Bron: gld.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2499102-chinese-hackersgroep-had-2-5-jaar-toegang-tot-netwerk-van-chipfabrikant-nxp?datalekt=d9dffd3489d73dc1a6f810ac4cc4b87e2c3c94ae4000f1fb0dd9750ccf481fbc",
-        "url": "https://nos.nl/artikel/2499102-chinese-hackersgroep-had-2-5-jaar-toegang-tot-netwerk-van-chipfabrikant-nxp",
-        "title": "Langdurige Infiltratie van NXP Netwerk door Chinese Hackersgroep &#039;Chimera&#039;",
-        "date_published": "2023-11-26T12:14:00Z",
-        "date_modified": "2023-11-26T12:14:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "NXP Semiconductors | Industrie | 24-11-2023 | Tussen eind 2017 en het voorjaar van 2020 had de Chinese hackersgroep &#039;Chimera&#039; onopgemerkt toegang tot het netwerk van de Nederlandse chipfabrikant NXP. Ze verkregen deze toegang door gebruikersnamen uit eerdere datalekken bij LinkedIn en Facebook te combineren met brute kracht aanvallen op wachtwoorden. Eenmaal binnen breidden ze hun toegangsrechten uit om gevoelige data, zoals chipontwerpen, te stelen. Deze bestanden werden via clouddiensten zoals OneDrive en Google Drive verkregen. Ondanks de diefstal van intellectueel eigendom, meldt NXP geen materi\u00eble schade te hebben geleden en heeft het zijn beveiliging verbeterd na deze ervaring. (Bron: nos.nl)"
     }
 ]
