@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 13 Apr 2024 18:14:39 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 14 Apr 2024 14:44:37 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij Ermelo door doorgeven van e-mailadressen aan extern bureau</title>
+			<link>https://www.destentor.nl/ermelo/datalek-in-hoofdpijndossier-rond-eendenslachterij-in-ermelo-dit-schaadt-onze-privacy~af296385/</link>
+			<description>Gemeente Ermelo | Overheid: Gemeenten | 14-04-2024 | In Ermelo is ophef ontstaan door een datalek waarbij de gemeente persoonlijke e-mailadressen van burgers doorspeelde naar Tertium, een bureau voor inwonersparticipatie. Dit lek kwam aan het licht nadat Tertium inwoners benaderde voor een interview over de problematiek rond de eendenslachterij Tomassen Duck-To. De betrokkenen beklaagden zich over deze privacyinbreuk, wat leidde tot excuses van de gemeente en registratie van het incident als datalek. Dit heeft zorgen gewekt over naleving van de privacywetgeving en de effectiviteit van participatieprocessen. (Bron: destentor.nl)</description>
+			<guid isPermaLink="false">https://www.destentor.nl/ermelo/datalek-in-hoofdpijndossier-rond-eendenslachterij-in-ermelo-dit-schaadt-onze-privacy~af296385/?datalekt=3b4a53269db32f6e7d57e832f2791e26f80abe49aa41d759b6420bc96823fa45</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval op Iddink leidt tot datalek bij SIVON</title>
 			<link>https://sivon.nl/2024/04/iddink-learning-materials-aangevallen-door-cybercriminelen/</link>
@@ -766,14 +774,6 @@
 			<description>Skalar Analytical | Industrie | 29-11-2023 | De criminele organisatie Medusa Locker heeft op het darkweb aangekondigd dat zij Skalar Analytical heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d5738a14784fa26be3666817fe7fea476043a530b6b60a8e3bb2d0072cf65272</guid>
 			<category>Industrie </category>
-			<pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ransomware-aanval treft Sprinter Sports, voorheen Perry Sport</title>
-			<link>https://www.telegraaf.nl/financieel/1361403641/winkelketen-waarschuwt-na-ransomware-aanval-hou-je-bankrekening-in-de-gaten</link>
-			<description>Sprinter Sports | Groot- en detailhandel | 30-11-2023 | Sprinter Sports, voorheen bekend als Perry Sport, is recent het slachtoffer geworden van een ransomware-aanval. De aanvallers hebben toegang gekregen tot klantorder- en accountgegevens. Hoewel Sprinter geen volledige betaalkaartinformatie opslaat, zijn klanten geadviseerd om alert te zijn op verdachte activiteiten op hun bankrekeningen. Cyberdeskundigen zijn ingeschakeld voor een grondig onderzoek. Er zijn aanwijzingen op sociale media dat de groep Metaencryptor verantwoordelijk zou zijn voor deze aanval. Sprinter maakt deel uit van de International Sports Retail Group (ISRG) en heeft meer dan vierhonderd winkels. De schade en het aantal getroffen klanten zijn nog onbekend. (Bron: telegraaf.nl)</description>
-			<guid isPermaLink="false">https://www.telegraaf.nl/financieel/1361403641/winkelketen-waarschuwt-na-ransomware-aanval-hou-je-bankrekening-in-de-gaten?datalekt=cbc63099bc7ba1b005be8f97e456056bd0b646b8fc7d33bcbbca6128cd210a6d</guid>
-			<category>Groot- en detailhandel </category>
 			<pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
