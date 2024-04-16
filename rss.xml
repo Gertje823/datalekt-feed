@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 15 Apr 2024 12:27:18 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 16 Apr 2024 18:17:27 +0000</lastBuildDate>
+		<item>
+			<title>Cyberaanval op schoolboekenleverancier Iddink treft Quadraam</title>
+			<link>https://www.quadraam.nl/nieuws/328/cyberaanval-uitgeverij-iddink</link>
+			<description>Stichting Quadraam | Onderwijs | 14-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Quadraam. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)</description>
+			<guid isPermaLink="false">https://www.quadraam.nl/nieuws/328/cyberaanval-uitgeverij-iddink?datalekt=9321807c9a95fe324353ebca1db4e67542775d6321f296b90d15ad8e8c62dfd1</guid>
+			<category>Onderwijs </category>
+			<pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cyberaanval op schoolboekenleverancier Iddink treft Vechtstede College</title>
+			<link>https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder</link>
+			<description>2College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vechtstede College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)</description>
+			<guid isPermaLink="false">https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=3d02cb396b7735626d68f8e82ca0dab211adef0d01bcd59aba6ce1b965acbca8</guid>
+			<category>Onderwijs </category>
+			<pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cyberaanval op schoolboekenleverancier Iddink treft Casparaus College</title>
+			<link>https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder</link>
+			<description>Casparaus College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Casparaus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: canisius.nl)</description>
+			<guid isPermaLink="false">https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=001055d4c968d628a0603b435445b6b6bbefdb989b12381f353c55e9a0d9ce28</guid>
+			<category>Onderwijs </category>
+			<pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval op schoolboekenleverancier Iddink treft 2College</title>
 			<link>https://www.2college.nl/durendael/school/nieuws/cyberaanval-iddink-1/</link>
@@ -751,30 +775,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/823372/Katvanger+moet+slachtoffer+ceo-fraude+tienduizend+euro+terugbetalen?datalekt=7e1ac1d075993ff73bbb33dcee84611c73d602aa83e11546dc176c368ac120d8</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Beveiligingslekken bij gemeente Dongen onthuld door ethische hacker</title>
-			<link>https://www.bd.nl/dongen/gaten-in-beveiliging-gemeente-dongen-medische-gegevens-inwoners-niet-goed-afgeschermd~af8d2ced/</link>
-			<description>Gemeente Dongen | Overheid: Gemeenten | 25-12-2023 | De gemeente Dongen kampte met ernstige beveiligingsproblemen, zoals onthuld door een ethische hacker en een onderzoek van de Rekenkamer Midden-Brabant. Dit onderzoek, uitgevoerd van februari 2022 tot juli 2023, toonde aan dat zowel intern als extern toegang verkregen kon worden tot gevoelige informatie, waaronder e-mails, wachtwoorden, gedeelde bestanden, chatberichten en medische gegevens. In het gemeentehuis waren er ook tekortkomingen in de fysieke beveiliging. De gemeente Dongen, die IT-systemen deelt met de gemeente Tilburg, erkende de problemen en heeft maatregelen genomen, waaronder het verbeteren van wachtwoordvereisten en het invoeren van tweefactorauthenticatie. Ondanks deze verbeteringen blijft de balans tussen veiligheid en gebruiksgemak een uitdaging. Er is geen bewijs dat onbevoegden gevoelige gegevens hebben ingezien. (Bron: bd.nl)</description>
-			<guid isPermaLink="false">https://www.bd.nl/dongen/gaten-in-beveiliging-gemeente-dongen-medische-gegevens-inwoners-niet-goed-afgeschermd~af8d2ced/?datalekt=e0b58f5fe2e81754424215a23fb598634c272e503c0ad4c3f2f9d61f3985c7fd</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Walkro getroffen door ransomware aanval van de criminele organisatie LockBit</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Walkro | Vervoer en opslag | 25-12-2023 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Walkro heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ff31844572e213c01a669a37e747bf527264c108dd3bac996efc7f6667ac0f42</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>HV KRAS/Volendam getroffen door ransomwareaanval met mogelijke databuit</title>
-			<link>https://groot-waterland.nl/2023/12/22/hv-kras-volendam-is-geraakt-door-een-ransomwareaanval/</link>
-			<description>HV KRAS/Volendam | Cultuur, sport en recreatie | 22-12-2023 | HV KRAS/Volendam is het slachtoffer geworden van een ransomwareaanval. Hackers hebben toegang gekregen tot de online omgeving van de handbalvereniging, waarbij ze bestanden hebben gekopieerd en versleuteld. Deze bestanden bevatten persoonsgegevens. De vereniging werkt samen met externe experts om te bepalen of er daadwerkelijk persoonsgegevens zijn buitgemaakt, en de kans hierop wordt als groot ingeschat. Er zijn geen wachtwoorden van systemen betrokken bij de aanval. Er is een melding gedaan bij de Autoriteit Persoonsgegevens en alle wachtwoorden van e-mailaccounts eindigend op @handbalvolendam.nl worden gereset. De vereniging adviseert leden om alert te zijn op phishing en scam e-mails. (Bron: groot-waterland.nl)</description>
-			<guid isPermaLink="false">https://groot-waterland.nl/2023/12/22/hv-kras-volendam-is-geraakt-door-een-ransomwareaanval/?datalekt=7f60ecf2ddb5193211bed0d7e08ab0527b4c0c92f2edac05dd9eddee65cbeb74</guid>
-			<category>Cultuur, sport en recreatie </category>
-			<pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval op EasyPark leidt tot datalek van klantgegevens</title>
