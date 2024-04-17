@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 17 Apr 2024 12:28:02 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 17 Apr 2024 18:20:00 +0000</lastBuildDate>
+		<item>
+			<title>Ranzijn getroffen door ransomware aanval van de criminele organisatie RA World</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Ranzijn | Groot- en detailhandel | 18-03-2024 | De criminele organisatie RA World heeft op het darkweb aangekondigd dat zij Ranzijn heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a511011287e5805c1db9ea31eaf542d08c66fd452865d122f6c555ebd0934e9e</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval op schoolboekenleverancier Iddink treft Stedelijk College</title>
 			<link>https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024</link>
@@ -774,14 +782,6 @@
 			<description>Uber | Vervoer en opslag | 31-01-2024 | Uber BV ontvangt een boete van €10 miljoen van de Autoriteit Persoonsgegevens (AP) voor het inadequaat faciliteren van privacy-inzageverzoeken van chauffeurs. De boete, de grootste uitgegeven door de AP, is opgelegd wegens complexe procedures en onduidelijke informatievoorziening, voornamelijk via de chauffeursapp en onvolledige .csv-bestanden. Uber&amp;#039;s weerlegging dat de AVG-richtlijnen vaag zijn, werd door de AP verworpen. De boete weerspiegelt ook de langdurige periode van overtredingen en het grote aantal betrokken chauffeurs in Europa (Bron: tweakers.net).</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/218144/ap-geeft-uber-recordboete-van-10-miljoen-euro-voor-slechte-info-inzageverzoek.html?datalekt=f1eb9c9533a1e12bc6b8be43c1c276bdc4584c3034d1cb2087584b83453cdc1f</guid>
 			<category>Vervoer en opslag </category>
-			<pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Grootschalig datalek bij Horlogeband.com na cyberaanval</title>
-			<link>https://www.vpngids.nl/nieuws/klantgegevens-op-straat-door-cyberaanval-op-horlogeverkoper/</link>
-			<description>Horlogeband.com | Groot- en detailhandel | 29-01-2024 | Horlogeband.com, een prominente verkoper van horlogebanden, werd getroffen door een cyberaanval waarbij persoonlijke gegevens van mogelijk tienduizenden klanten werden gestolen. Na ontdekking van het lek, dat namen, adressen, telefoonnummers en aankoopgeschiedenis omvatte, heeft de onderneming de betrokkenen en de Autoriteit Persoonsgegevens geïnformeerd. Klanten uitten forse kritiek op de beveiliging van het bedrijf, wat de reputatie van Horlogeband.com mogelijk schaadt. De exacte omvang en financiële impact van de inbreuk blijven onduidelijk. (Bron: vpngids.nl)</description>
-			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/klantgegevens-op-straat-door-cyberaanval-op-horlogeverkoper/?datalekt=7cc98ec8074d6ae330b5f0f828de0f13a56dd955da7fda8fc2dbb35bed3f111b</guid>
-			<category>Groot- en detailhandel </category>
 			<pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>

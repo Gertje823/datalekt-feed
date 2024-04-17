@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a511011287e5805c1db9ea31eaf542d08c66fd452865d122f6c555ebd0934e9e",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Ranzijn getroffen door ransomware aanval van de criminele organisatie RA World",
+        "date_published": "2024-04-17T16:31:00Z",
+        "date_modified": "2024-04-17T16:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Ranzijn | Groot- en detailhandel | 18-03-2024 | De criminele organisatie RA World heeft op het darkweb aangekondigd dat zij Ranzijn heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024?datalekt=6eda3f0d99cde78b3d4f0d6c84ee64cb1a742b09ac14d836bba9287b7a6bd568",
         "url": "https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Stedelijk College",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Uber | Vervoer en opslag | 31-01-2024 | Uber BV ontvangt een boete van \u20ac10 miljoen van de Autoriteit Persoonsgegevens (AP) voor het inadequaat faciliteren van privacy-inzageverzoeken van chauffeurs. De boete, de grootste uitgegeven door de AP, is opgelegd wegens complexe procedures en onduidelijke informatievoorziening, voornamelijk via de chauffeursapp en onvolledige .csv-bestanden. Uber&#039;s weerlegging dat de AVG-richtlijnen vaag zijn, werd door de AP verworpen. De boete weerspiegelt ook de langdurige periode van overtredingen en het grote aantal betrokken chauffeurs in Europa (Bron: tweakers.net)."
-    },
-    {
-        "id": "https://www.vpngids.nl/nieuws/klantgegevens-op-straat-door-cyberaanval-op-horlogeverkoper/?datalekt=7cc98ec8074d6ae330b5f0f828de0f13a56dd955da7fda8fc2dbb35bed3f111b",
-        "url": "https://www.vpngids.nl/nieuws/klantgegevens-op-straat-door-cyberaanval-op-horlogeverkoper/",
-        "title": "Grootschalig datalek bij Horlogeband.com na cyberaanval",
-        "date_published": "2024-01-31T11:43:00Z",
-        "date_modified": "2024-01-31T11:43:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpngids.nl"
-        },
-        "content_html": "",
-        "content_text": "Horlogeband.com | Groot- en detailhandel | 29-01-2024 | Horlogeband.com, een prominente verkoper van horlogebanden, werd getroffen door een cyberaanval waarbij persoonlijke gegevens van mogelijk tienduizenden klanten werden gestolen. Na ontdekking van het lek, dat namen, adressen, telefoonnummers en aankoopgeschiedenis omvatte, heeft de onderneming de betrokkenen en de Autoriteit Persoonsgegevens ge\u00efnformeerd. Klanten uitten forse kritiek op de beveiliging van het bedrijf, wat de reputatie van Horlogeband.com mogelijk schaadt. De exacte omvang en financi\u00eble impact van de inbreuk blijven onduidelijk. (Bron: vpngids.nl)"
     }
 ]
