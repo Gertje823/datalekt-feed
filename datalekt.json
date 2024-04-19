@@ -1,6 +1,32 @@
 [
     {
-        "id": "https://www.vonknh.nl/nieuws/2024-04-15/cyberaanval-bij-iddink-learning-materials-bv?datalekt=38fceab3844404a2e9ab9d25a34cbeb2f77ea5b0bfd4e8def06c4a631c6dd8b2",
+        "id": "https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749?datalekt=67967f69ae21d749b3041aeaa4de3988bf8362f4a337ea860809a0e371b67e30",
+        "url": "https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749",
+        "title": "Datalek bij gemeente Haarlem door onvoldoende lakken van documenten",
+        "date_published": "2024-04-19T16:46:00Z",
+        "date_modified": "2024-04-19T16:46:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "haarlemsdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Haarlem | Overheid: Gemeenten | 18-04-2024 | De gemeente Haarlem heeft een datalek veroorzaakt door niet genoeg informatie zwart te lakken in de documenten die werden vrijgegeven na verzoeken op basis van de Wet open overheid (Woo). Hierdoor zijn persoonsgegevens van 44 ambtenaren openbaar geworden. Dit incident heeft zich zowel in 2021 als in 2022 voorgedaan en heeft mogelijk geleid tot misbruik van deze gegevens door derden. Het betreft een ernstige schending van de privacywetgeving. (Bron: haarlemsdagblad.nl)"
+    },
+    {
+        "id": "https://www.molenkruier.nl/nieuws/nieuws/385223/cals-college-nieuwegein-geraakt-door-cyberaanval-gegevens-lee?datalekt=eb7a4fdc75e2506ab88d378c888791104ee634c4b6e6a2a32e8a10b52ff3f2b3",
+        "url": "https://www.molenkruier.nl/nieuws/nieuws/385223/cals-college-nieuwegein-geraakt-door-cyberaanval-gegevens-lee",
+        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Cals College",
+        "date_published": "2024-04-19T16:45:00Z",
+        "date_modified": "2024-04-19T16:45:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "molenkruier.nl"
+        },
+        "content_html": "",
+        "content_text": "Cals College | Onderwijs | 17-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Cals College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: molenkruier.nl)"
+    },
+    {
+        "id": "https://www.vonknh.nl/nieuws/2024-04-15/cyberaanval-bij-iddink-learning-materials-bv?datalekt=eca6af14148e2d5e8c69dc8495a58ad6e0a20a83a758f8994d04ef9328a10cc8",
         "url": "https://www.vonknh.nl/nieuws/2024-04-15/cyberaanval-bij-iddink-learning-materials-bv",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Vonk",
         "date_published": "2024-04-18T08:43:00Z",
@@ -10,10 +36,10 @@
             "name": "vonknh.nl"
         },
         "content_html": "",
-        "content_text": "Vonk | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vonk. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Vonk | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vonk. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: vonknh.nl)"
     },
     {
-        "id": "https://scholengroepspinoza.nl/nieuws-cyberaanval-bij-iddink?datalekt=61f808b99dbcb494528afb0c1f99b33d50358f822f0fa286f53df5031b9480b8",
+        "id": "https://scholengroepspinoza.nl/nieuws-cyberaanval-bij-iddink?datalekt=60b7301887fcdb0171f4de530731c4cedfa7d41904c20d56de2b92de1d5e102a",
         "url": "https://scholengroepspinoza.nl/nieuws-cyberaanval-bij-iddink",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Scholengroep Spinoza",
         "date_published": "2024-04-18T08:42:00Z",
@@ -23,10 +49,10 @@
             "name": "scholengroepspinoza.nl"
         },
         "content_html": "",
-        "content_text": "Stichting Scholengroep Spinoza | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Scholengroep Spinoza. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Stichting Scholengroep Spinoza | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Scholengroep Spinoza. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: scholengroepspinoza.nl)"
     },
     {
-        "id": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/?datalekt=2b14ba88e70f206ee57c0f5964553271490bfaaf8af3ec613bb655da7c979472",
+        "id": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/?datalekt=e02c36cdbdfe20d7ccf42fed868ae68fc432d10182cfdf93d25b57c065e8c3b0",
         "url": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Assink Lyceum",
         "date_published": "2024-04-18T08:41:00Z",
@@ -36,10 +62,10 @@
             "name": "gelderlander.nl"
         },
         "content_html": "",
-        "content_text": "Assink Lyceum | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Assink Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Assink Lyceum | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Assink Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: gelderlander.nl)"
     },
     {
-        "id": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/?datalekt=fc8fdc584164095cb979541e11762391d7a20f0d910fc8be2db1eca7c6e865ff",
+        "id": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/?datalekt=0212bbbe41a12b5835c136b08e7ba7f97c689b2823567857fec62af1ea1db550",
         "url": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Het Stedelijk Lyceum",
         "date_published": "2024-04-18T08:40:00Z",
@@ -49,7 +75,7 @@
             "name": "gelderlander.nl"
         },
         "content_html": "",
-        "content_text": "Het Stedelijk Lyceum | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Het Stedelijk Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Het Stedelijk Lyceum | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Het Stedelijk Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: gelderlander.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a511011287e5805c1db9ea31eaf542d08c66fd452865d122f6c555ebd0934e9e",
@@ -65,7 +91,7 @@
         "content_text": "Ranzijn | Groot- en detailhandel | 18-03-2024 | De criminele organisatie RA World heeft op het darkweb aangekondigd dat zij Ranzijn heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024?datalekt=6eda3f0d99cde78b3d4f0d6c84ee64cb1a742b09ac14d836bba9287b7a6bd568",
+        "id": "https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024?datalekt=edd471668ecb128e4cdbb25c0c049a4823e43ffd861d1b9e846603e6e662e727",
         "url": "https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Stedelijk College",
         "date_published": "2024-04-17T08:51:00Z",
@@ -75,10 +101,10 @@
             "name": "stedelijkcollege.nl"
         },
         "content_html": "",
-        "content_text": "Stedelijk College | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Stedelijk College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Stedelijk College | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Stedelijk College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: stedelijkcollege.nl)"
     },
     {
-        "id": "https://lyceumdegrundel.nl/nieuws/iddink-aangevallen-door-cybercriminelen?datalekt=ba44059aeb192a5b524b7056702d2dd2b3215ec5b902468b66321bac95e5ce23",
+        "id": "https://lyceumdegrundel.nl/nieuws/iddink-aangevallen-door-cybercriminelen?datalekt=9d3c3f7e468366789a98a32bddcba60f6da46a587493ef74c77741ccbdcdc178",
         "url": "https://lyceumdegrundel.nl/nieuws/iddink-aangevallen-door-cybercriminelen",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Lyceum de Grundel",
         "date_published": "2024-04-17T08:50:00Z",
@@ -88,10 +114,10 @@
             "name": "lyceumdegrundel.nl"
         },
         "content_html": "",
-        "content_text": "Lyceum de Grundel | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Lyceum de Grundel. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Lyceum de Grundel | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Lyceum de Grundel. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: lyceumdegrundel.nl)"
     },
     {
-        "id": "https://www.nuovo.nl/nieuws/persbericht-over-iddink?datalekt=1b590b553368a6cf9c0e1be2c908ac44e5d2bc4b8912caa3588819e087bcb4d5",
+        "id": "https://www.nuovo.nl/nieuws/persbericht-over-iddink?datalekt=a15d3f4058061bb3c23aa33a507284f736a3c41d5ffabab4b081af2fae7d3c35",
         "url": "https://www.nuovo.nl/nieuws/persbericht-over-iddink",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft NUOVO Scholen",
         "date_published": "2024-04-17T08:49:00Z",
@@ -101,10 +127,10 @@
             "name": "nuovo.nl"
         },
         "content_html": "",
-        "content_text": "NUOVO Scholen | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook NUOVO Scholen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "NUOVO Scholen | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook NUOVO Scholen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: nuovo.nl)"
     },
     {
-        "id": "https://www.varendonck.nl/nieuws/767/Cyberaanval-Iddink?datalekt=3387930c7eb9aa99e03e9d28ffa3b33bca4778de653227c853a01523a2a657e4",
+        "id": "https://www.varendonck.nl/nieuws/767/Cyberaanval-Iddink?datalekt=6a4c3cf91cc5da749b796207b36ea3d822790e0640b02b9232be5974ddf35bd6",
         "url": "https://www.varendonck.nl/nieuws/767/Cyberaanval-Iddink",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Varendonck College",
         "date_published": "2024-04-17T08:48:00Z",
@@ -114,10 +140,10 @@
             "name": "varendonck.nl"
         },
         "content_html": "",
-        "content_text": "Varendonck College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Varendonck College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Varendonck College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Varendonck College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: varendonck.nl)"
     },
     {
-        "id": "https://www.griftland.nl/informatie-over-cyberaanval-bij-iddink-learning-materials-bv/?datalekt=f841b72a8bfc25705bc630eae24cad8892ecb61a603fc871f91736fee6604475",
+        "id": "https://www.griftland.nl/informatie-over-cyberaanval-bij-iddink-learning-materials-bv/?datalekt=cf19690490b00722f6fd950128adff2cce4dc596f78358eb4385f3e0cfac3843",
         "url": "https://www.griftland.nl/informatie-over-cyberaanval-bij-iddink-learning-materials-bv/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Griftland College",
         "date_published": "2024-04-17T08:47:00Z",
@@ -127,10 +153,10 @@
             "name": "griftland.nl"
         },
         "content_html": "",
-        "content_text": "Griftland College | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Griftland College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Griftland College | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Griftland College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: griftland.nl)"
     },
     {
-        "id": "https://www.curio.nl/nieuws/cyberaanval-bij-iddink-leverancier-van-schoolboeken/?datalekt=81bf3cc732cd2baeca433e93c6194ea2e78bdd8d3a851d1f725e05814a1008b7",
+        "id": "https://www.curio.nl/nieuws/cyberaanval-bij-iddink-leverancier-van-schoolboeken/?datalekt=21106e2817b33cc680483db0517543988c3c66611d993f5a78f0c00fac58be3f",
         "url": "https://www.curio.nl/nieuws/cyberaanval-bij-iddink-leverancier-van-schoolboeken/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Curio",
         "date_published": "2024-04-17T08:46:00Z",
@@ -140,10 +166,10 @@
             "name": "curio.nl"
         },
         "content_html": "",
-        "content_text": "Curio | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Curio. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Curio | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Curio. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: curio.nl)"
     },
     {
-        "id": "https://emmen.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie?datalekt=f992cf4b462fbc09f1ed43b58b304e8256b3728f85fa9e84e215b61de3b68306",
+        "id": "https://emmen.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie?datalekt=88f66b99127d98901b7327cb097d05eba74ff8ed3958411fe7fa3191c5e17287",
         "url": "https://emmen.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Terra Emmen",
         "date_published": "2024-04-17T08:45:00Z",
@@ -153,10 +179,10 @@
             "name": "voterra.nl"
         },
         "content_html": "",
-        "content_text": "Terra Emmen | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Terra Emmen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Terra Emmen | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Terra Emmen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: voterra.nl)"
     },
     {
-        "id": "https://www.eldecollege.nl/datalek-bij-iddink-learning-materials-bv/?datalekt=6591f25712207d2e3a8f11d9c19771ef05e43fbe407660409ac971dd7cbd7cb3",
+        "id": "https://www.eldecollege.nl/datalek-bij-iddink-learning-materials-bv/?datalekt=8a8e227950b5f06fa4b37aac4d035eb99419c354e7b1e7ff5a06919126746694",
         "url": "https://www.eldecollege.nl/datalek-bij-iddink-learning-materials-bv/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Elde College",
         "date_published": "2024-04-17T08:44:00Z",
@@ -166,10 +192,10 @@
             "name": "eldecollege.nl"
         },
         "content_html": "",
-        "content_text": "Elde College | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Elde College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Elde College | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Elde College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: eldecollege.nl)"
     },
     {
-        "id": "https://www.omroepbrabant.nl/nieuws/4451957/schoolboekenleverancier-gehackt-gegevens-brabantse-leerlingen-op-straat?datalekt=ade9b0f63ee24de84621d0c8efe820db09a0c4e87e1adaac56a554d14b6900e9",
+        "id": "https://www.omroepbrabant.nl/nieuws/4451957/schoolboekenleverancier-gehackt-gegevens-brabantse-leerlingen-op-straat?datalekt=6b3d4b6d63d6b0602cfd2fb51327c6979cafa350ce49a912436b5009da4f653d",
         "url": "https://www.omroepbrabant.nl/nieuws/4451957/schoolboekenleverancier-gehackt-gegevens-brabantse-leerlingen-op-straat",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Ons Middelbaar Onderwijs",
         "date_published": "2024-04-17T08:43:00Z",
@@ -179,10 +205,10 @@
             "name": "omroepbrabant.nl"
         },
         "content_html": "",
-        "content_text": "Ons Middelbaar Onderwijs (OMO) | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ons Middelbaar Onderwijs. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Ons Middelbaar Onderwijs (OMO) | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ons Middelbaar Onderwijs. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: omroepbrabant.nl)"
     },
     {
-        "id": "https://www.quadraam.nl/nieuws/328/cyberaanval-uitgeverij-iddink?datalekt=9321807c9a95fe324353ebca1db4e67542775d6321f296b90d15ad8e8c62dfd1",
+        "id": "https://www.quadraam.nl/nieuws/328/cyberaanval-uitgeverij-iddink?datalekt=72737b4557a83a2e76b379a889f951cbe9a1c6b0d45cee355cf8bf61175b4f48",
         "url": "https://www.quadraam.nl/nieuws/328/cyberaanval-uitgeverij-iddink",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Quadraam",
         "date_published": "2024-04-16T13:56:00Z",
@@ -192,10 +218,10 @@
             "name": "quadraam.nl"
         },
         "content_html": "",
-        "content_text": "Stichting Quadraam | Onderwijs | 14-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Quadraam. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Stichting Quadraam | Onderwijs | 14-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Quadraam. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: quadraam.nl)"
     },
     {
-        "id": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=87a9148a5286ba86ac60a6ccea2d2fd2d214c79ac2e3fb1cd4a0c525668d8e7d",
+        "id": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=bbc532390a9619278eb5ce5334822641f940a5234b8e1f7c432593051b8e2e8b",
         "url": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Vechtstede College",
         "date_published": "2024-04-16T13:55:00Z",
@@ -205,10 +231,10 @@
             "name": "weespernieuws.nl"
         },
         "content_html": "",
-        "content_text": "Vechtstede College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vechtstede College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "Vechtstede College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vechtstede College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: weespernieuws.nl)"
     },
     {
-        "id": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=001055d4c968d628a0603b435445b6b6bbefdb989b12381f353c55e9a0d9ce28",
+        "id": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=e70a614e859f0f3e2f9ad85d688a96a0d4cf0ad0bd730321414aaaa58b343b08",
         "url": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Casparaus College",
         "date_published": "2024-04-16T13:54:00Z",
@@ -218,7 +244,7 @@
             "name": "weespernieuws.nl"
         },
         "content_html": "",
-        "content_text": "Casparaus College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Casparaus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: canisius.nl)"
+        "content_text": "Casparaus College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Casparaus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: weespernieuws.nl)"
     },
     {
         "id": "https://www.2college.nl/durendael/school/nieuws/cyberaanval-iddink-1/?datalekt=3ddecdaf633d4c0d86bc40bd0f1a2ce33675e80178e1bcdf667c9c569ef5bf21",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Philips | Groot- en detailhandel | 05-02-2024 | Philips is getroffen door een datalek als gevolg van een kwetsbaarheid in de &quot;MOVEit Transfer&quot; software van Progress Software. Het lek stelde onbevoegden in staat om persoonsgegevens van PAP-apparaatgebruikers te raadplegen. Philips heeft snel gereageerd met de implementatie van beveiligingsmaatregelen aanbevolen door Progress Software. Het bedrijf werkt nauw samen met Westfalen Medical om betrokkenen te informeren en benadrukt de ernst waarmee het persoonsgegevens beschermt, waarbij gebruikers worden verzocht extra alert te zijn op phishing."
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8f26704ebd6d7241c4afd08e9317106cb8ba7d8fd7050057b5af88f95f6cf306",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "VCS Observation getroffen door ransomware aanval van de criminele organisatie Akira",
-        "date_published": "2024-02-06T15:38:00Z",
-        "date_modified": "2024-02-06T15:38:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "VCS Observation | Groot- en detailhandel | 05-02-2024 | De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij VCS Observation heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.wonenbreburg.nl/over-ons/publicaties/nieuws/hack-in-mailbox-buurtbeheerder-tilburg-west/?datalekt=66c3fbf8caffbbb9e175881e4d18a13ea8da229223c02103b8f4453df234460a",
-        "url": "https://www.wonenbreburg.nl/over-ons/publicaties/nieuws/hack-in-mailbox-buurtbeheerder-tilburg-west/",
-        "title": "Phishingaanval treft mailbox buurtbeheerder WonenBreburg in Tilburg West",
-        "date_published": "2024-02-04T13:23:00Z",
-        "date_modified": "2024-02-04T13:23:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "wonenbreburg.nl"
-        },
-        "content_html": "",
-        "content_text": "WonenBreburg | Verhuur van en handel in onroerend goed | 02-02-2024 | Door op een phishing-link te klikken, kreeg een hacker toegang tot de mailbox van een buurtbeheerder van WonenBreburg in Tilburg West. Hoewel er geen direct bewijs is van gegevensdiefstal, is er onzekerheid over mogelijke inzage door de hacker. Dit risico houdt potenti\u00eble identiteitsfraude en het verspreiden van phishingmails in. WonenBreburg adviseert waakzaamheid voor oplichtingspogingen en biedt ondersteuning via buurtbeheerders of woonconsulenten. (Bron: wonenbreburg.nl)"
     }
 ]
