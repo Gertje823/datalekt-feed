@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ogvo.nl/valuascollege/cyberaanval-iddink/?datalekt=b98b07d138dbb5e3b51142b2e0ed674e49fd8be6d303e695f74b38f24e66ccb4",
+        "url": "https://www.ogvo.nl/valuascollege/cyberaanval-iddink/",
+        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Valuascollega",
+        "date_published": "2024-04-22T09:54:00Z",
+        "date_modified": "2024-04-22T09:54:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ogvo.nl"
+        },
+        "content_html": "",
+        "content_text": "Valuascollega | Onderwijs | 18-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Valuascollega. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: ogvo.nl)"
+    },
+    {
         "id": "https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749?datalekt=67967f69ae21d749b3041aeaa4de3988bf8362f4a337ea860809a0e371b67e30",
         "url": "https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749",
         "title": "Datalek bij gemeente Haarlem door onvoldoende lakken van documenten",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Westfalen Medical | Gezondheids- en welzijnszorg | 05-02-2024 | Westfalen Medical informeert cli\u00ebnten over een datalek bij Philips, veroorzaakt door een kwetsbaarheid in de software van Progress Software. Dit incident betrof persoonsgegevens van gebruikers van PAP-apparaten. Westfalen Medical, als direct contact voor gebruikers, heeft proactief de Autoriteit Persoonsgegevens ge\u00efnformeerd en benadrukt dat hun eigen systemen veilig zijn. Klanten worden geadviseerd waakzaam te zijn voor phishing, maar er is geen directe actie nodig van hun kant."
-    },
-    {
-        "id": "https://cpapinfo.nl/nieuws/datalek-bij-philips?datalekt=169ec7f501e0d7048f31ac7cdeef028f6d1eee066931107b321574bc23a3fb9d",
-        "url": "https://cpapinfo.nl/nieuws/datalek-bij-philips",
-        "title": "Datalek bij Philips door softwarekwetsbaarheid in MOVEit Transfer",
-        "date_published": "2024-02-07T08:55:00Z",
-        "date_modified": "2024-02-07T08:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "cpapinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Philips | Groot- en detailhandel | 05-02-2024 | Philips is getroffen door een datalek als gevolg van een kwetsbaarheid in de &quot;MOVEit Transfer&quot; software van Progress Software. Het lek stelde onbevoegden in staat om persoonsgegevens van PAP-apparaatgebruikers te raadplegen. Philips heeft snel gereageerd met de implementatie van beveiligingsmaatregelen aanbevolen door Progress Software. Het bedrijf werkt nauw samen met Westfalen Medical om betrokkenen te informeren en benadrukt de ernst waarmee het persoonsgegevens beschermt, waarbij gebruikers worden verzocht extra alert te zijn op phishing."
     }
 ]
