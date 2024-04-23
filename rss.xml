@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 22 Apr 2024 12:29:14 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 23 Apr 2024 12:28:52 +0000</lastBuildDate>
+		<item>
+			<title>Cyberaanval legt pinterminals Carpetright plat</title>
+			<link>https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware?redirect=rtlnieuws</link>
+			<description>Carpetright | Groot- en detailhandel | 22-04-2024 | Carpetright, een bekende vloerenwinkel, heeft te kampen met een cyberaanval die vooral de Nederlandse vestigingen treft, waar pinnen momenteel onmogelijk is. De pinterminals zijn uitgeschakeld als preventieve maatregel tegen verdere digitale risico&amp;#039;s. Het Britse moederbedrijf meldt dat het onderzoek naar de aanval loopt, waarbij niet bevestigd kan worden of het om ransomware gaat. Een soortgelijke aanval in februari resulteerde in een datalek met klantgegevens. Er is nog geen bewijs van een verband tussen beide incidenten. (Bron: rtl.nl)</description>
+			<guid isPermaLink="false">https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware?redirect=rtlnieuws&amp;amp;datalekt=0eedb7b02762e7051e8e765f86143ccf02e85264b188974073c8d742d7dec037</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>SIS Automatisering getroffen door ransomware aanval van de criminele organisatie PLAY</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>SIS Automatisering | Informatie en communicatie | 19-04-2024 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij SIS Automatisering heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b4252c62cce444f91e462275090473b0c5841b8d428550a3bf3ce2eca517e50d</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>XD Connects getroffen door ransomware aanval van de criminele organisatie Cactus</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>XD Connects | Groot- en detailhandel | 18-04-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij XD Connects heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=3e837c7991787f064fe2a0079bc8dc3ebaf8a8c88d20a79a9e111e687bdc3bc2</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval op schoolboekenleverancier Iddink treft Valuascollega</title>
 			<link>https://www.ogvo.nl/valuascollege/cyberaanval-iddink/</link>
@@ -775,30 +799,6 @@
 			<guid isPermaLink="false">https://www.gelderlander.nl/venlo/roermond-meldt-datalek-bij-jaaropgaven-bijstandsuitkeringen~ab75cfb0/?datalekt=f1ee6caf642a0130477b0790642b495b4f2a5b03a330ea0cb9499c4699771aaf</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware</title>
-			<link>https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/</link>
-			<description>Ministerie van Defensie | Overheid: Ministeries | 06-02-2024 | Chinese hackers, gelieerd aan een staatsinstelling, hebben succesvol het Nederlandse leger gehackt door spionagesoftware genaamd COATHANGER te installeren op een R&amp;amp;amp;D-netwerk, waardoor ze toegang kregen tot circa vijftig computers. Deze aanval, die gebruikmaakte van een bekende kwetsbaarheid in FortiGate-apparatuur van Fortinet, resulteerde niet in het buitmaken van militaire geheimen. De Militaire Inlichtingen- en Veiligheidsdienst (MIVD) benadrukt dat ondanks goede digitale beveiliging, geen systeem volledig veilig is. De vondst onderstreept het belang van waakzaamheid tegen spionage, ongeacht de oorsprong van de apparatuur. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=32f16d6648fcc9ea268101f81dada2ad984d58a199a1add3ac6386928c5d749c</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Reactie van Westfalen Medical op Datalek bij Philips</title>
-			<link>https://cpapinfo.nl/nieuws/datalek-bij-philips</link>
-			<description>Westfalen Medical | Gezondheids- en welzijnszorg | 05-02-2024 | Westfalen Medical informeert cliënten over een datalek bij Philips, veroorzaakt door een kwetsbaarheid in de software van Progress Software. Dit incident betrof persoonsgegevens van gebruikers van PAP-apparaten. Westfalen Medical, als direct contact voor gebruikers, heeft proactief de Autoriteit Persoonsgegevens geïnformeerd en benadrukt dat hun eigen systemen veilig zijn. Klanten worden geadviseerd waakzaam te zijn voor phishing, maar er is geen directe actie nodig van hun kant.</description>
-			<guid isPermaLink="false">https://cpapinfo.nl/nieuws/datalek-bij-philips?datalekt=be2c68be95c333f229825158ad7a13933306c141603b9f0a2a5a6f227b50d89a</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld</title>
-			<link>https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html</link>
-			<description>Nationaal Coördinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&amp;#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&amp;#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=af338f32eb3a4b9dcfdf13539a81158f870ae60652784b37eb7dab138557b8e1</guid>
-			<category>Overheid: Organisatieonderdeel </category>
-			<pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>

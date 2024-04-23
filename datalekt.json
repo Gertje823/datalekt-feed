@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware?redirect=rtlnieuws&amp;datalekt=0eedb7b02762e7051e8e765f86143ccf02e85264b188974073c8d742d7dec037",
+        "url": "https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware?redirect=rtlnieuws",
+        "title": "Cyberaanval legt pinterminals Carpetright plat",
+        "date_published": "2024-04-23T10:37:00Z",
+        "date_modified": "2024-04-23T10:37:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtl.nl"
+        },
+        "content_html": "",
+        "content_text": "Carpetright | Groot- en detailhandel | 22-04-2024 | Carpetright, een bekende vloerenwinkel, heeft te kampen met een cyberaanval die vooral de Nederlandse vestigingen treft, waar pinnen momenteel onmogelijk is. De pinterminals zijn uitgeschakeld als preventieve maatregel tegen verdere digitale risico&#039;s. Het Britse moederbedrijf meldt dat het onderzoek naar de aanval loopt, waarbij niet bevestigd kan worden of het om ransomware gaat. Een soortgelijke aanval in februari resulteerde in een datalek met klantgegevens. Er is nog geen bewijs van een verband tussen beide incidenten. (Bron: rtl.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b4252c62cce444f91e462275090473b0c5841b8d428550a3bf3ce2eca517e50d",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "SIS Automatisering getroffen door ransomware aanval van de criminele organisatie PLAY",
+        "date_published": "2024-04-23T10:36:00Z",
+        "date_modified": "2024-04-23T10:36:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "SIS Automatisering | Informatie en communicatie | 19-04-2024 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij SIS Automatisering heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=3e837c7991787f064fe2a0079bc8dc3ebaf8a8c88d20a79a9e111e687bdc3bc2",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "XD Connects getroffen door ransomware aanval van de criminele organisatie Cactus",
+        "date_published": "2024-04-23T10:35:00Z",
+        "date_modified": "2024-04-23T10:35:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "XD Connects | Groot- en detailhandel | 18-04-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij XD Connects heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.ogvo.nl/valuascollege/cyberaanval-iddink/?datalekt=b98b07d138dbb5e3b51142b2e0ed674e49fd8be6d303e695f74b38f24e66ccb4",
         "url": "https://www.ogvo.nl/valuascollege/cyberaanval-iddink/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Valuascollega",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Roermond | Overheid: Gemeenten | 06-02-2024 | In Roermond is een datalek ontstaan toen door een menselijke fout het Burger Service Nummer (BSN) van \u00e9\u00e9n persoon op alle verzonden jaaropgaven van bijstandsuitkeringen terechtkwam. Hoewel er geen andere persoonlijke gegevens op de opgave stonden, werd het lek serieus genomen. De gemeente heeft direct actie ondernomen door de betrokken persoon te informeren, excuses aan te bieden, en alle ontvangers te verzoeken de foutieve opgaven te vernietigen. Nieuwe, correcte opgaven zijn verzonden en het lek is gemeld bij de Autoriteit Persoonsgegevens. De gemeente zet in op verbetering van werkprocessen om herhaling te voorkomen. (Bron: gelderlander.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=af338f32eb3a4b9dcfdf13539a81158f870ae60652784b37eb7dab138557b8e1",
-        "url": "https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html",
-        "title": "Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld",
-        "date_published": "2023-11-15T15:45:00Z",
-        "date_modified": "2024-02-07T15:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NTCV) | Overheid: Organisatieonderdeel | 01-11-2023 | Een medewerker van de Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NCTV) en een politieagente zijn aangehouden wegens het lekken van staatsgeheimen [Update: d.d. 7 februari 2024 is bekend geworden dat 46 terabyte aan gegevens, gelijk aan 11,5 miljard A4&#039;tjes, in beslag is genomen]. De hoofdverdachte, een lange tijd dienende NCTV&#039;er, wordt ervan verdacht staatsgeheimen te hebben geprint en ingescand om deze aan buitenlandse inlichtingendiensten te leveren. Deze onthulling volgt na een ambtsbericht van de AIVD en een omvangrijk onderzoek, waarbij de verdachte op Schiphol werd aangehouden met het doel naar Marokko te reizen. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/?datalekt=32f16d6648fcc9ea268101f81dada2ad984d58a199a1add3ac6386928c5d749c",
-        "url": "https://www.ad.nl/binnenland/chinezen-hackten-nederlandse-leger-en-hadden-toegang-tot-vijftig-computers~a9d2031a/",
-        "title": "Chinese staatsinstelling hackt Nederlands leger met geavanceerde malware",
-        "date_published": "2024-02-07T09:01:00Z",
-        "date_modified": "2024-02-07T09:01:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Defensie | Overheid: Ministeries | 06-02-2024 | Chinese hackers, gelieerd aan een staatsinstelling, hebben succesvol het Nederlandse leger gehackt door spionagesoftware genaamd COATHANGER te installeren op een R&amp;amp;D-netwerk, waardoor ze toegang kregen tot circa vijftig computers. Deze aanval, die gebruikmaakte van een bekende kwetsbaarheid in FortiGate-apparatuur van Fortinet, resulteerde niet in het buitmaken van militaire geheimen. De Militaire Inlichtingen- en Veiligheidsdienst (MIVD) benadrukt dat ondanks goede digitale beveiliging, geen systeem volledig veilig is. De vondst onderstreept het belang van waakzaamheid tegen spionage, ongeacht de oorsprong van de apparatuur. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://cpapinfo.nl/nieuws/datalek-bij-philips?datalekt=be2c68be95c333f229825158ad7a13933306c141603b9f0a2a5a6f227b50d89a",
-        "url": "https://cpapinfo.nl/nieuws/datalek-bij-philips",
-        "title": "Reactie van Westfalen Medical op Datalek bij Philips",
-        "date_published": "2024-02-07T08:56:00Z",
-        "date_modified": "2024-02-07T08:56:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "cpapinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Westfalen Medical | Gezondheids- en welzijnszorg | 05-02-2024 | Westfalen Medical informeert cli\u00ebnten over een datalek bij Philips, veroorzaakt door een kwetsbaarheid in de software van Progress Software. Dit incident betrof persoonsgegevens van gebruikers van PAP-apparaten. Westfalen Medical, als direct contact voor gebruikers, heeft proactief de Autoriteit Persoonsgegevens ge\u00efnformeerd en benadrukt dat hun eigen systemen veilig zijn. Klanten worden geadviseerd waakzaam te zijn voor phishing, maar er is geen directe actie nodig van hun kant."
     }
 ]
