@@ -1,7 +1,46 @@
 [
     {
-        "id": "https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware?redirect=rtlnieuws&amp;datalekt=0eedb7b02762e7051e8e765f86143ccf02e85264b188974073c8d742d7dec037",
-        "url": "https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware?redirect=rtlnieuws",
+        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=b9fc3b71733e602e66fb84ec054d3f562073e82b874c39a79872ed282df53e5f",
+        "url": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek",
+        "title": "Aanzienlijke hack bij ID&amp;amp;T leidt tot eis van celstraf",
+        "date_published": "2024-04-25T11:59:00Z",
+        "date_modified": "2024-04-25T11:59:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "ID&amp;amp;T | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem van ID&amp;amp;T, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een schadeclaim van \u20ac97.000 van ID&amp;amp;T. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. (Bron: nos.nl)"
+    },
+    {
+        "id": "https://www.dedrontenaar.nl/nieuws/algemeen/306571/persoonsgegevens-oud-leerlingen-ichthus-college-liggen-mogeli?datalekt=214a72f85c67bd0d3809c4190af2df41ceab8c150bfd442fbf83969f81735d87",
+        "url": "https://www.dedrontenaar.nl/nieuws/algemeen/306571/persoonsgegevens-oud-leerlingen-ichthus-college-liggen-mogeli",
+        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Ichthus College",
+        "date_published": "2024-04-25T11:58:00Z",
+        "date_modified": "2024-04-25T11:58:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dedrontenaar.nl"
+        },
+        "content_html": "",
+        "content_text": "Ichthus College | Onderwijs | 23-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ichthus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dedrontenaar.nl)"
+    },
+    {
+        "id": "https://www.zo-nws.nl/verdachten-opgepakt-voor-ddos-aanvallen?datalekt=8c4ab1bb422453ed3e7f293f45ce4970d1fb636e84aae5dd4161d96352c01c13",
+        "url": "https://www.zo-nws.nl/verdachten-opgepakt-voor-ddos-aanvallen",
+        "title": "DDoS-aanval veroorzaakt grote schade aan Sittards bedrijf",
+        "date_published": "2024-04-25T11:57:00Z",
+        "date_modified": "2024-04-25T11:57:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "zo-nws.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende organisatie | Overige dienstverlening | 23-04-2024 | In november vorig jaar en januari dit jaar heeft een bedrijf in Sittard aanzienlijke financi\u00eble schade geleden door DDoS-aanvallen, uitgevoerd door twee mannen uit Heerlen en Sittard. De politie heeft deze verdachten gearresteerd. De aanvallen, die de toegang tot het bedrijfssysteem blokkeerden, resulteerden in een schade van circa 150.000 euro. Bij een DDoS-aanval worden talrijke verzoeken naar een website gestuurd waardoor deze onbereikbaar wordt voor gebruikers. Deze aanvallen zijn een vorm van cybercriminaliteit waarbij ge\u00efnfecteerde computers worden ingezet. (Bron: zo-nws.nl)"
+    },
+    {
+        "id": "https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware?datalekt=87faa03d1cb56f7b99f4937359b4ada16e0888573f01cea94fff035f7635ce40",
+        "url": "https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware",
         "title": "Cyberaanval legt pinterminals Carpetright plat",
         "date_published": "2024-04-23T10:37:00Z",
         "date_modified": "2024-04-23T10:37:00Z",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "EuroParcs | Cultuur, sport en recreatie | 13-02-2024 | EuroParcs heeft een datalek in hun digitale omgeving ontdekt, waarbij onduidelijk is welke en hoeveel persoonsgegevens zijn blootgesteld. Het bedrijf, dat vakantiewoningen verkoopt, waarschuwt gebruikers voor een verhoogd risico op spam en phishing. Onmiddellijk na ontdekking van het lek is het IT-systeem offline gehaald en met een beveiligde back-up hersteld. De Autoriteit Persoonsgegevens is ge\u00efnformeerd over het incident. Klanten van EuroParcs worden aangemoedigd extra waakzaam te zijn voor mogelijke frauduleuze berichten. (Bron: rtlnieuws.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2507747-fout-in-software-cz-wil-miljoenen-van-klanten-terug?datalekt=e64cec065540a28d642edaac706fb1373e5d23ea35c24f73ba52be9de26ee99c",
-        "url": "https://nos.nl/artikel/2507747-fout-in-software-cz-wil-miljoenen-van-klanten-terug",
-        "title": "CZ vordert ten onrechte uitgekeerde vergoedingen terug door softwarefout",
-        "date_published": "2024-02-12T12:26:00Z",
-        "date_modified": "2024-02-12T12:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "CZ | Financi\u00eble instellingen | 06-02-2024 | Zorgverzekeraar CZ is van plan miljoenen euro&#039;s terug te vorderen van tienduizenden klanten na een softwarefout. Deze fout leidde ertoe dat klanten met een aanvullende verzekering vergoedingen voor tandartskosten ontvingen, ook als de behandelingen niet door hun polis werden gedekt. De fout werd over een periode van twee jaar gemaakt, waarbij verzekerden ten onrechte vergoedingen ontvingen voor niet-gedekte behandelingen. CZ heeft betrokken verzekerden ge\u00efnformeerd over de noodzaak tot terugbetaling, vari\u00ebrend van kleine tot grotere bedragen. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6c257444310b88599208197ba846bfa7adc37f6c60439c40d3731abc357de0e9",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Northsea Yacht Support getroffen door ransomware aanval van de criminele organisatie LockBit",
-        "date_published": "2024-02-10T13:50:00Z",
-        "date_modified": "2024-02-10T13:50:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Northsea Yacht Support | Industrie | 09-02-2024 | De criminele organisatie LockBit heeft op het darkweb aangekondigd dat zij Northsea Yacht Support heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.gelderlander.nl/venlo/roermond-meldt-datalek-bij-jaaropgaven-bijstandsuitkeringen~ab75cfb0/?datalekt=f1ee6caf642a0130477b0790642b495b4f2a5b03a330ea0cb9499c4699771aaf",
-        "url": "https://www.gelderlander.nl/venlo/roermond-meldt-datalek-bij-jaaropgaven-bijstandsuitkeringen~ab75cfb0/",
-        "title": "Datalek bij jaaropgaven bijstandsuitkeringen in Roermond door menselijke fout",
-        "date_published": "2024-02-08T09:45:00Z",
-        "date_modified": "2024-02-08T09:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gelderlander.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Roermond | Overheid: Gemeenten | 06-02-2024 | In Roermond is een datalek ontstaan toen door een menselijke fout het Burger Service Nummer (BSN) van \u00e9\u00e9n persoon op alle verzonden jaaropgaven van bijstandsuitkeringen terechtkwam. Hoewel er geen andere persoonlijke gegevens op de opgave stonden, werd het lek serieus genomen. De gemeente heeft direct actie ondernomen door de betrokken persoon te informeren, excuses aan te bieden, en alle ontvangers te verzoeken de foutieve opgaven te vernietigen. Nieuwe, correcte opgaven zijn verzonden en het lek is gemeld bij de Autoriteit Persoonsgegevens. De gemeente zet in op verbetering van werkprocessen om herhaling te voorkomen. (Bron: gelderlander.nl)"
     }
 ]
