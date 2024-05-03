@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 25 Apr 2024 12:23:34 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 03 May 2024 12:27:11 +0000</lastBuildDate>
+		<item>
+			<title>Phishingaanvallen via het berichtensysteem van Booking.com</title>
+			<link>https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom</link>
+			<description>Booking.com | Informatie en communicatie | 29-04-2024 | Criminelen maken misbruik van het berichtensysteem van Booking.com om persoonlijke en financiële gegevens van gebruikers te stelen. Ze sturen nepberichten die afkomstig lijken te zijn van hotels, waarin gevraagd wordt om gevoelige informatie of extra betalingen onder dreiging van annulering van de reservering. Dit leidt vaak tot financieel verlies voor nietsvermoedende vakantiegangers. Gebruikers worden aangemoedigd om alert te blijven en verdachte berichten te verifiëren bij Booking.com of de betreffende accommodatie. (Bron: seniorweb.nl)</description>
+			<guid isPermaLink="false">https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom?datalekt=d1cc8b9eded320cb048d8761d10e43ac889db94a36c0719620b7107e8484bd3e</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Aanzienlijke hack bij ID&amp;amp;amp;T leidt tot eis van celstraf</title>
 			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
@@ -791,14 +799,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=37e8b000fe23ccfc8cdd4a20cd93571929c8ae844c63bf1866f9673dfe138f72</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij EuroParcs vergroot risico op misbruik van persoonsgegevens</title>
-			<link>https://www.rtlnieuws.nl/tech/artikel/5434706/datalek-bij-europarcs-risico-persoonsgegevens</link>
-			<description>EuroParcs | Cultuur, sport en recreatie | 13-02-2024 | EuroParcs heeft een datalek in hun digitale omgeving ontdekt, waarbij onduidelijk is welke en hoeveel persoonsgegevens zijn blootgesteld. Het bedrijf, dat vakantiewoningen verkoopt, waarschuwt gebruikers voor een verhoogd risico op spam en phishing. Onmiddellijk na ontdekking van het lek is het IT-systeem offline gehaald en met een beveiligde back-up hersteld. De Autoriteit Persoonsgegevens is geïnformeerd over het incident. Klanten van EuroParcs worden aangemoedigd extra waakzaam te zijn voor mogelijke frauduleuze berichten. (Bron: rtlnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.rtlnieuws.nl/tech/artikel/5434706/datalek-bij-europarcs-risico-persoonsgegevens?datalekt=217c3532fb3fe85efef37e457e68fdc1fc05f6c820bcdb5fc111100666501561</guid>
-			<category>Cultuur, sport en recreatie </category>
-			<pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>

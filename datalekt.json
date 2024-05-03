@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom?datalekt=d1cc8b9eded320cb048d8761d10e43ac889db94a36c0719620b7107e8484bd3e",
+        "url": "https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom",
+        "title": "Phishingaanvallen via het berichtensysteem van Booking.com",
+        "date_published": "2024-05-03T11:19:00Z",
+        "date_modified": "2024-05-03T11:19:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "seniorweb.nl"
+        },
+        "content_html": "",
+        "content_text": "Booking.com | Informatie en communicatie | 29-04-2024 | Criminelen maken misbruik van het berichtensysteem van Booking.com om persoonlijke en financi\u00eble gegevens van gebruikers te stelen. Ze sturen nepberichten die afkomstig lijken te zijn van hotels, waarin gevraagd wordt om gevoelige informatie of extra betalingen onder dreiging van annulering van de reservering. Dit leidt vaak tot financieel verlies voor nietsvermoedende vakantiegangers. Gebruikers worden aangemoedigd om alert te blijven en verdachte berichten te verifi\u00ebren bij Booking.com of de betreffende accommodatie. (Bron: seniorweb.nl)"
+    },
+    {
         "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=b9fc3b71733e602e66fb84ec054d3f562073e82b874c39a79872ed282df53e5f",
         "url": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek",
         "title": "Aanzienlijke hack bij ID&amp;amp;T leidt tot eis van celstraf",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "MeerServices | Groot- en detailhandel | 15-02-2024 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij MeerServices heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.rtlnieuws.nl/tech/artikel/5434706/datalek-bij-europarcs-risico-persoonsgegevens?datalekt=217c3532fb3fe85efef37e457e68fdc1fc05f6c820bcdb5fc111100666501561",
-        "url": "https://www.rtlnieuws.nl/tech/artikel/5434706/datalek-bij-europarcs-risico-persoonsgegevens",
-        "title": "Datalek bij EuroParcs vergroot risico op misbruik van persoonsgegevens",
-        "date_published": "2024-02-14T08:50:00Z",
-        "date_modified": "2024-02-14T08:50:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtlnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "EuroParcs | Cultuur, sport en recreatie | 13-02-2024 | EuroParcs heeft een datalek in hun digitale omgeving ontdekt, waarbij onduidelijk is welke en hoeveel persoonsgegevens zijn blootgesteld. Het bedrijf, dat vakantiewoningen verkoopt, waarschuwt gebruikers voor een verhoogd risico op spam en phishing. Onmiddellijk na ontdekking van het lek is het IT-systeem offline gehaald en met een beveiligde back-up hersteld. De Autoriteit Persoonsgegevens is ge\u00efnformeerd over het incident. Klanten van EuroParcs worden aangemoedigd extra waakzaam te zijn voor mogelijke frauduleuze berichten. (Bron: rtlnieuws.nl)"
     }
 ]
