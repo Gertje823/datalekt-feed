@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ad.nl/roosendaal/michel-uit-heerle-krijgt-brief-over-inval-in-zijn-woning-maar-weet-van-niets-van-schrik-kukelde-ik-zowat-van-mijn-stoel~ae6fd2aa/?datalekt=56f25d3dca24415228428dfdcf22f558f6127ba2a5e21c4719374786f094e9b4",
+        "url": "https://www.ad.nl/roosendaal/michel-uit-heerle-krijgt-brief-over-inval-in-zijn-woning-maar-weet-van-niets-van-schrik-kukelde-ik-zowat-van-mijn-stoel~ae6fd2aa/",
+        "title": "Brief rechtbank over politie-inval bezorgd bij buren leidt tot datalek",
+        "date_published": "2024-05-04T14:59:00Z",
+        "date_modified": "2024-05-04T14:59:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Rechtbank Limburg | Overheid: Rechtspraak | 03-05-2024 | Een inwoner van Heerle kreeg een brief van de rechtbank over een politie-inval, die bedoeld was voor zijn buurman. Bij de inval werd de buurman verdacht van ladingdiefstallen en hennepkweek. Door een fout stond in de brief het verkeerde adres, wat de inwoner deed schrikken. De rechtbank erkende de fout, wat leidde tot een datalek, en beloofde maatregelen te nemen om dergelijke fouten te voorkomen. De inwoner maakt zich zorgen over de privacy van burgers en vraagt zich af of men nog vertrouwen kan hebben in de justiti\u00eble procedures. (Bron: ad.nl)"
+    },
+    {
         "id": "https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom?datalekt=d1cc8b9eded320cb048d8761d10e43ac889db94a36c0719620b7107e8484bd3e",
         "url": "https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom",
         "title": "Phishingaanvallen via het berichtensysteem van Booking.com",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "VodafoneZiggo | Informatie en communicatie | 16-02-2024 | Na een technische storing ontdekte VodafoneZiggo dat ongeveer 600 Ziggo-klanten e-mailaccounts zijn gehackt, uitgebuit door aanvallers met toegang tot e-mail en wachtwoordlijsten. De exacte herkomst van deze gegevens blijft onbekend, maar vermoed wordt dat ze verband houden met een eerder datalek bij softwareontwikkelaar Nebu B.V., wat resulteerde in de diefstal van persoonlijke informatie van miljoenen Nederlanders. De getroffen accounts zijn geblokkeerd en Ziggo heeft de zaak gemeld bij de Autoriteit Persoonsgegevens, terwijl gedupeerden instructies hebben ontvangen om hun accounts te herstellen. (Bron: vpngids.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=37e8b000fe23ccfc8cdd4a20cd93571929c8ae844c63bf1866f9673dfe138f72",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "MeerServices getroffen door ransomware aanval van de criminele organisatie PLAY",
-        "date_published": "2024-02-17T09:05:00Z",
-        "date_modified": "2024-02-17T09:05:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "MeerServices | Groot- en detailhandel | 15-02-2024 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij MeerServices heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]

@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 03 May 2024 12:27:11 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 04 May 2024 18:17:47 +0000</lastBuildDate>
+		<item>
+			<title>Brief rechtbank over politie-inval bezorgd bij buren leidt tot datalek</title>
+			<link>https://www.ad.nl/roosendaal/michel-uit-heerle-krijgt-brief-over-inval-in-zijn-woning-maar-weet-van-niets-van-schrik-kukelde-ik-zowat-van-mijn-stoel~ae6fd2aa/</link>
+			<description>Rechtbank Limburg | Overheid: Rechtspraak | 03-05-2024 | Een inwoner van Heerle kreeg een brief van de rechtbank over een politie-inval, die bedoeld was voor zijn buurman. Bij de inval werd de buurman verdacht van ladingdiefstallen en hennepkweek. Door een fout stond in de brief het verkeerde adres, wat de inwoner deed schrikken. De rechtbank erkende de fout, wat leidde tot een datalek, en beloofde maatregelen te nemen om dergelijke fouten te voorkomen. De inwoner maakt zich zorgen over de privacy van burgers en vraagt zich af of men nog vertrouwen kan hebben in de justitiële procedures. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/roosendaal/michel-uit-heerle-krijgt-brief-over-inval-in-zijn-woning-maar-weet-van-niets-van-schrik-kukelde-ik-zowat-van-mijn-stoel~ae6fd2aa/?datalekt=56f25d3dca24415228428dfdcf22f558f6127ba2a5e21c4719374786f094e9b4</guid>
+			<category>Overheid: Rechtspraak </category>
+			<pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Phishingaanvallen via het berichtensysteem van Booking.com</title>
 			<link>https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom</link>
@@ -790,14 +798,6 @@
 			<description>VodafoneZiggo | Informatie en communicatie | 16-02-2024 | Na een technische storing ontdekte VodafoneZiggo dat ongeveer 600 Ziggo-klanten e-mailaccounts zijn gehackt, uitgebuit door aanvallers met toegang tot e-mail en wachtwoordlijsten. De exacte herkomst van deze gegevens blijft onbekend, maar vermoed wordt dat ze verband houden met een eerder datalek bij softwareontwikkelaar Nebu B.V., wat resulteerde in de diefstal van persoonlijke informatie van miljoenen Nederlanders. De getroffen accounts zijn geblokkeerd en Ziggo heeft de zaak gemeld bij de Autoriteit Persoonsgegevens, terwijl gedupeerden instructies hebben ontvangen om hun accounts te herstellen. (Bron: vpngids.nl)</description>
 			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/600-ziggomail-accounts-gehackt/?datalekt=29a74f19f088c9f908478451602f585bc9a2c89805c3088b4ab84931ae93bf22</guid>
 			<category>Informatie en communicatie </category>
-			<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>MeerServices getroffen door ransomware aanval van de criminele organisatie PLAY</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>MeerServices | Groot- en detailhandel | 15-02-2024 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij MeerServices heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=37e8b000fe23ccfc8cdd4a20cd93571929c8ae844c63bf1866f9673dfe138f72</guid>
-			<category>Groot- en detailhandel </category>
 			<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
