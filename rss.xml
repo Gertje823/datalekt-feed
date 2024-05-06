@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 04 May 2024 18:17:47 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 06 May 2024 12:29:00 +0000</lastBuildDate>
+		<item>
+			<title>Omwonenden Wijkersloot doen aangifte tegen stichting vanwege privacy-inbreuk enquête Populytics</title>
+			<link>https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet</link>
+			<description>Populytics | Informatie en communicatie | 03-05-2024 | De Stichting Belangen Wijkersloot en omgeving, met als leverancier Populytics, wordt beschuldigd van privacy-inbreuk bij een enquête over windturbines in Wijk bij Duurstede. Omwonenden hebben aangifte gedaan bij de Autoriteit Persoonsgegevens omdat er geen toestemming werd gevraagd voor het gebruik van cookies, gegevens van respondenten werden opgeslagen, en ruim 500 respondenten werden gefilterd op basis van hun adres. De omwonenden zijn bezorgd over de integriteit van het onderzoek en de mogelijke manipulatie van de uitkomsten. (Bron: wijksnieuws.nl)</description>
+			<guid isPermaLink="false">https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=7b0886ade6c463a17b8275182b09ff154e4e3cdc7af4f3c36518b0eaab62a903</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Omwonenden Wijkersloot melden privacy-inbreuk enquête duurzame energie</title>
+			<link>https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet</link>
+			<description>Stichting Belangen Wijkersloot en omstreken | Overige dienstverlening | 03-05-2024 | De Stichting Belangen Wijkersloot en omgeving heeft aangifte gedaan bij de Autoriteit Persoonsgegevens vanwege vermeende schending van privacyregels bij een enquête over windturbines in Wijk bij Duurstede. De stichting meldt dat er gesjoemeld is met uitkomsten en dat de privacyrichtlijnen niet zijn nageleefd. Zo werd geen toestemming gevraagd voor het gebruik van cookies, werden gegevens van respondenten opgeslagen, en werden gegevens van ruim 500 respondenten gefilterd op basis van hun adres. Dit heeft geleid tot zorgen over de integriteit van het onderzoek. (Bron: wijksnieuws.nl)</description>
+			<guid isPermaLink="false">https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=5b5a70bee373845c76f0cd71ea1aaeed0aac9b57ccad3854457cd3a72497a6d6</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Brief rechtbank over politie-inval bezorgd bij buren leidt tot datalek</title>
 			<link>https://www.ad.nl/roosendaal/michel-uit-heerle-krijgt-brief-over-inval-in-zijn-woning-maar-weet-van-niets-van-schrik-kukelde-ik-zowat-van-mijn-stoel~ae6fd2aa/</link>
@@ -783,22 +799,6 @@
 			<guid isPermaLink="false">https://www.nu.nl/tech/6302263/gegevens-van-385-gedetineerden-in-gevangenis-van-nieuwegein-uitgelekt.html?datalekt=40186f2498c53189bd8348523d07448fc4382efc01cd48aed4ce36b855b84475</guid>
 			<category>Overheid: Agentschappen </category>
 			<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Brandfield legt klantgegevens bloot</title>
-			<link>https://www.bnr.nl/nieuws/binnenland/10540897/groot-datalek-bij-juweliersketen-brandfield-een-goudmijn-voor-criminelen</link>
-			<description>Brandfield | Groot- en detailhandel | 19-02-2024 | Bij juweliersketen Brandfield werd een datalek ontdekt waarbij persoonsgegevens van 60.000 klanten online toegankelijk waren door een slecht beveiligde cloudomgeving. Meer dan honderdduizend bestellingen tussen 2018 en 2020 waren op een publiek toegankelijke Google Cloudserver geplaatst. Het lek, veroorzaakt door onvoldoende beveiligingsmaatregelen, stelde gevoelige informatie beschikbaar voor criminele activiteiten zoals phishing-aanvallen. De blootstelling onderstreept de noodzaak van strikte beveiliging van cloudopslag. Brandfield heeft de lek gedicht en een onderzoek gestart, terwijl het ook andere bedrijven waarschuwt voor vergelijkbare risico&amp;#039;s. (Bron: bnr.nl)</description>
-			<guid isPermaLink="false">https://www.bnr.nl/nieuws/binnenland/10540897/groot-datalek-bij-juweliersketen-brandfield-een-goudmijn-voor-criminelen?datalekt=a26f255f16ac5ba17e7d77e55ce1ae0d4d2044277f1cc8b7069638a18cdb56a4</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hack treft 600 Ziggomail accounts van VodafoneZiggo na exploitatie van gelekte inloggegevens</title>
-			<link>https://www.vpngids.nl/nieuws/600-ziggomail-accounts-gehackt/</link>
-			<description>VodafoneZiggo | Informatie en communicatie | 16-02-2024 | Na een technische storing ontdekte VodafoneZiggo dat ongeveer 600 Ziggo-klanten e-mailaccounts zijn gehackt, uitgebuit door aanvallers met toegang tot e-mail en wachtwoordlijsten. De exacte herkomst van deze gegevens blijft onbekend, maar vermoed wordt dat ze verband houden met een eerder datalek bij softwareontwikkelaar Nebu B.V., wat resulteerde in de diefstal van persoonlijke informatie van miljoenen Nederlanders. De getroffen accounts zijn geblokkeerd en Ziggo heeft de zaak gemeld bij de Autoriteit Persoonsgegevens, terwijl gedupeerden instructies hebben ontvangen om hun accounts te herstellen. (Bron: vpngids.nl)</description>
-			<guid isPermaLink="false">https://www.vpngids.nl/nieuws/600-ziggomail-accounts-gehackt/?datalekt=29a74f19f088c9f908478451602f585bc9a2c89805c3088b4ab84931ae93bf22</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>
