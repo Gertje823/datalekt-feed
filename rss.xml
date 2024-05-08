@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 06 May 2024 12:29:00 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 08 May 2024 18:20:11 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij Gemeente Alphen door fout in dubbelzijdig printen</title>
+			<link>https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven</link>
+			<description>Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 08-05-2024 | De Gemeente Alphen aan den Rijn heeft onlangs een datalek ervaren doordat brieven naar schuldenaren per ongeluk dubbelzijdig geprint werden, wat resulteerde in het uitlekken van persoonsgegevens. Hierdoor ontvingen ontvangers informatie van andere inwoners met schulden. Het lek is direct gemeld bij de Autoriteit Persoonsgegevens en betrokkenen hebben instructies gekregen om de ontvangen documenten te vernietigen. Dit incident benadrukt de kwetsbaarheid van fysieke dataverwerking en de noodzaak voor strikte controlemechanismen. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven?datalekt=be652c708a5768ae675019ed777d74c45d83471827ae41871ccde0b64d787fe2</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Omwonenden Wijkersloot doen aangifte tegen stichting vanwege privacy-inbreuk enquête Populytics</title>
 			<link>https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet</link>
@@ -791,14 +799,6 @@
 			<guid isPermaLink="false">https://www.gelderlander.nl/land-van-cuijk/gerommel-met-bsn-door-de-belastingdienst-ambtenaren-kopieren-en-plakken-terwijl-dat-niet-mag~a9145e34/?datalekt=9756c77f318602a491cb7eb52b1d325fb33080ba53b79648de3f1fc426650a08</guid>
 			<category>Overheid: Organisatieonderdeel </category>
 			<pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij penitentiaire inrichting Nieuwegein treft honderden gedetineerden</title>
-			<link>https://www.nu.nl/tech/6302263/gegevens-van-385-gedetineerden-in-gevangenis-van-nieuwegein-uitgelekt.html</link>
-			<description>Dienst Justitiële Inrichtingen (DJI) | Overheid: Agentschappen | 20-02-2024 | Een menselijke fout heeft geleid tot een datalek bij de penitentiaire inrichting in Nieuwegein, waarbij gegevens van 385 gedetineerden zijn uitgelekt. De gelekte informatie omvat namen, celnummers en strafrechtketennummers, essentieel voor de identificatie van gevangenen. De Dienst Justitiële Inrichtingen (DJI) heeft dit incident bevestigd en werkt aan maatregelen om herhaling te voorkomen. De betrokken gedetineerden en een externe contactpersoon zijn gevraagd de data te verwijderen, en de zaak is gemeld bij de Autoriteit Persoonsgegevens. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6302263/gegevens-van-385-gedetineerden-in-gevangenis-van-nieuwegein-uitgelekt.html?datalekt=40186f2498c53189bd8348523d07448fc4382efc01cd48aed4ce36b855b84475</guid>
-			<category>Overheid: Agentschappen </category>
-			<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>

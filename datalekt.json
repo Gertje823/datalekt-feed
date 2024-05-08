@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven?datalekt=be652c708a5768ae675019ed777d74c45d83471827ae41871ccde0b64d787fe2",
+        "url": "https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven",
+        "title": "Datalek bij Gemeente Alphen door fout in dubbelzijdig printen",
+        "date_published": "2024-05-08T15:01:00Z",
+        "date_modified": "2024-05-08T15:01:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 08-05-2024 | De Gemeente Alphen aan den Rijn heeft onlangs een datalek ervaren doordat brieven naar schuldenaren per ongeluk dubbelzijdig geprint werden, wat resulteerde in het uitlekken van persoonsgegevens. Hierdoor ontvingen ontvangers informatie van andere inwoners met schulden. Het lek is direct gemeld bij de Autoriteit Persoonsgegevens en betrokkenen hebben instructies gekregen om de ontvangen documenten te vernietigen. Dit incident benadrukt de kwetsbaarheid van fysieke dataverwerking en de noodzaak voor strikte controlemechanismen. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=7b0886ade6c463a17b8275182b09ff154e4e3cdc7af4f3c36518b0eaab62a903",
         "url": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet",
         "title": "Omwonenden Wijkersloot doen aangifte tegen stichting vanwege privacy-inbreuk enqu\u00eate Populytics",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 22-02-2024 | De Belastingdienst heeft een datalek gemeld nadat bleek dat ambtenaren burgerservicenummers (BSN) onjuist hebben gehanteerd door ze te kopi\u00ebren en plakken, ondanks instructies dit niet te doen. Deze handelswijze heeft geleid tot fouten, zoals het versturen van onjuiste aangifteverzoeken. De exacte omvang van het probleem en het aantal gerelateerde datalekken is onbekend, aangezien deze niet systematisch worden bijgehouden. Verbetermaatregelen zijn getroffen, maar de effectiviteit ervan wordt herzien om beter toezicht te houden op de naleving van de voorschriften. (Bron: gelderlander.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6302263/gegevens-van-385-gedetineerden-in-gevangenis-van-nieuwegein-uitgelekt.html?datalekt=40186f2498c53189bd8348523d07448fc4382efc01cd48aed4ce36b855b84475",
-        "url": "https://www.nu.nl/tech/6302263/gegevens-van-385-gedetineerden-in-gevangenis-van-nieuwegein-uitgelekt.html",
-        "title": "Datalek bij penitentiaire inrichting Nieuwegein treft honderden gedetineerden",
-        "date_published": "2024-02-20T17:12:00Z",
-        "date_modified": "2024-02-20T17:12:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Dienst Justiti\u00eble Inrichtingen (DJI) | Overheid: Agentschappen | 20-02-2024 | Een menselijke fout heeft geleid tot een datalek bij de penitentiaire inrichting in Nieuwegein, waarbij gegevens van 385 gedetineerden zijn uitgelekt. De gelekte informatie omvat namen, celnummers en strafrechtketennummers, essentieel voor de identificatie van gevangenen. De Dienst Justiti\u00eble Inrichtingen (DJI) heeft dit incident bevestigd en werkt aan maatregelen om herhaling te voorkomen. De betrokken gedetineerden en een externe contactpersoon zijn gevraagd de data te verwijderen, en de zaak is gemeld bij de Autoriteit Persoonsgegevens. (Bron: nu.nl)"
     }
 ]
