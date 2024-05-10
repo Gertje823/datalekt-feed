@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 08 May 2024 18:20:11 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 10 May 2024 12:28:11 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij Radboud Universiteit door fout in reissysteem</title>
+			<link>https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem</link>
+			<description>Radboud Universiteit | Onderwijs | 08-05-2024 | Bij de Radboud Universiteit ontstond een datalek door een administratieve fout in het nieuwe reisaanvraagsysteem, waardoor ongeveer 650 medewerkers toegang hadden tot reisgegevens van collega&amp;#039;s. Deze medewerkers konden reisinformatie, zoals vluchtnummers en hotelgegevens, inzien en wijzigen. De universiteit meldde dit incident niet aan de Autoriteit Persoonsgegevens, omdat ze het classificeerden als een laag-risico datalek. De betrokkenheid van reisbureau VCK Travel, de leverancier van het boekingssysteem, werd benadrukt. Hoogleraar Gerrit-Jan Zwenne adviseerde desondanks melding te maken vanwege mogelijke onderschatting van de risico&amp;#039;s. (Bron: voxweb.nl)</description>
+			<guid isPermaLink="false">https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=bd720880eb536e82fb854c90ecb61fd4b79ef32bf1058933d6daeaab06052a53</guid>
+			<category>Onderwijs </category>
+			<pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij Gemeente Alphen door fout in dubbelzijdig printen</title>
 			<link>https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven</link>
@@ -49,10 +57,10 @@
 			<pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Aanzienlijke hack bij ID&amp;amp;amp;T leidt tot eis van celstraf</title>
+			<title>Aanzienlijke hack bij ID&amp;amp;amp;T leidt tot taakstraf en schadevergoeding</title>
 			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
-			<description>ID&amp;amp;amp;T | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem van ID&amp;amp;amp;T, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een schadeclaim van €97.000 van ID&amp;amp;amp;T. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=b9fc3b71733e602e66fb84ec054d3f562073e82b874c39a79872ed282df53e5f</guid>
+			<description>ID&amp;amp;amp;T | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem van ID&amp;amp;amp;T, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een schadeclaim van €97.000 van ID&amp;amp;amp;T. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 35.000 schadevergoeding en 240 uur werkstraf). (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=05fe937c52c650f60806852f05cd9982280d81b6da65d7473bef03f5a7bc1878</guid>
 			<category>Cultuur, sport en recreatie </category>
 			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -790,14 +798,6 @@
 			<description>Ministerie van Economische Zaken en Klimaat (EZK) | Overheid: Ministeries | 22-02-2024 | Een ICT-medewerker van het ministerie van Economische Zaken heeft over een periode van anderhalf jaar voor meer dan 100.000 euro aan telefoons, tablets en laptops gestolen. De diefstal kwam aan het licht na meerdere aangiftes en een grondig onderzoek door een bedrijfsrecherchebureau. De 42-jarige man uit Zoetermeer, verantwoordelijk voor de uitgifte en het onderhoud van deze apparaten, maakte misbruik van zijn toegang tot de voorraad. Het Openbaar Ministerie heeft een gevangenisstraf van 24 maanden geëist, waarvan 6 voorwaardelijk. De rechtbank doet over twee weken uitspraak. (Bron: beveiligingnieuws.nl)</description>
 			<guid isPermaLink="false">https://beveiligingnieuws.nl/ambtenaar-verkocht-telefoons-en-laptops-van-ministerie-door/?datalekt=ac08c62be8484bef1773789e173b456c7f6725e15c87089dbd25a6087340ed7c</guid>
 			<category>Overheid: Ministeries </category>
-			<pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Belastingdienst meldt datalek door onjuist gebruik BSN</title>
-			<link>https://www.gelderlander.nl/land-van-cuijk/gerommel-met-bsn-door-de-belastingdienst-ambtenaren-kopieren-en-plakken-terwijl-dat-niet-mag~a9145e34/</link>
-			<description>Belastingdienst | Overheid: Organisatieonderdeel | 22-02-2024 | De Belastingdienst heeft een datalek gemeld nadat bleek dat ambtenaren burgerservicenummers (BSN) onjuist hebben gehanteerd door ze te kopiëren en plakken, ondanks instructies dit niet te doen. Deze handelswijze heeft geleid tot fouten, zoals het versturen van onjuiste aangifteverzoeken. De exacte omvang van het probleem en het aantal gerelateerde datalekken is onbekend, aangezien deze niet systematisch worden bijgehouden. Verbetermaatregelen zijn getroffen, maar de effectiviteit ervan wordt herzien om beter toezicht te houden op de naleving van de voorschriften. (Bron: gelderlander.nl)</description>
-			<guid isPermaLink="false">https://www.gelderlander.nl/land-van-cuijk/gerommel-met-bsn-door-de-belastingdienst-ambtenaren-kopieren-en-plakken-terwijl-dat-niet-mag~a9145e34/?datalekt=9756c77f318602a491cb7eb52b1d325fb33080ba53b79648de3f1fc426650a08</guid>
-			<category>Overheid: Organisatieonderdeel </category>
 			<pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
