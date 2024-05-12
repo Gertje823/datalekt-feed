@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 10 May 2024 12:28:11 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 12 May 2024 12:28:21 +0000</lastBuildDate>
+		<item>
+			<title>Fraude via gestolen klantgegevens bij Amsterdamse klantenservice</title>
+			<link>https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken</link>
+			<description>Onbekende organisatie | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 08-05-2024 | Een 21-jarige klantenservicemedewerker uit Amsterdam is gearresteerd wegens zijn rol in een grootschalige helpdeskfraude, waarbij persoonsgegevens van ouderen werden ontvreemd. Deze gegevensroof betrof het klantenbestand van zijn werkgever, waarna de medewerker deze gegevens deelde met medeplichtigen. Deze criminelen deden zich vervolgens voor als medewerkers van een telecombedrijf of politie om de slachtoffers te bedriegen, wat resulteerde in de diefstal van geld en waardevolle voorwerpen. Het bedrijf heeft aangifte gedaan van computervredebreuk. (Bron: om.nl)</description>
+			<guid isPermaLink="false">https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken?datalekt=3dc03f3d6eb21fa48ae7b3cb765fbbbd049197f82f3f288bdc20265cf2e2e92b</guid>
+			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Massale inzage van cv&amp;#039;s bij UWV wijst op datalek</title>
+			<link>https://www.bndestem.nl/economie/uwv-doet-mogelijk-aangifte-150-000-cvs-illegaal-op-de-site-bekeken~a7e9dd25/</link>
+			<description>Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 10-05-2024 | Bij het UWV is een ernstig incident ontstaan toen een gebruiker op 4 mei illegaal toegang kreeg tot en mogelijk 150.000 cv&amp;#039;s downloadde van de website werk.nl. Deze cv&amp;#039;s bevatten persoonlijke gegevens van werkzoekenden. Het UWV, dat deze inzage als oneigenlijk beschouwt, heeft al stappen ondernomen door het account van de betrokken gebruiker te blokkeren en de Autoriteit Persoonsgegevens in te lichten. De getroffen personen worden geïnformeerd over de inzage en mogelijke downloads, evenals maatregelen om de impact te minimaliseren. (Bron: bndestem.nl)</description>
+			<guid isPermaLink="false">https://www.bndestem.nl/economie/uwv-doet-mogelijk-aangifte-150-000-cvs-illegaal-op-de-site-bekeken~a7e9dd25/?datalekt=09a3c32272440500ddad2b61f6cf401afaeb47269e1a71d2a223e76755f8022e</guid>
+			<category>Overheid: Zelfstandige bestuursorganen </category>
+			<pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij Radboud Universiteit door fout in reissysteem</title>
 			<link>https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem</link>
@@ -783,22 +799,6 @@
 			<guid isPermaLink="false">https://www.1limburg.nl/nieuws/2570043/site-echt-susteren-offline-na-ddos-aanval?datalekt=f222e0a4516d55dc91f42fabd455ea8c0006f043547968800be83d822d04e7d5</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Remkes getroffen door ransomware aanval van de criminele organisatie Cactus</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Remkes | Groot- en detailhandel | 24-02-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij Remkes heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=80fb585d01af48373a1dcb69e98a2eede13a65a168c2cdf0748d0df9fc4dbc3a</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ambtenaar bij ministerie van Economische Zaken betrokken bij diefstal van elektronica</title>
-			<link>https://beveiligingnieuws.nl/ambtenaar-verkocht-telefoons-en-laptops-van-ministerie-door/</link>
-			<description>Ministerie van Economische Zaken en Klimaat (EZK) | Overheid: Ministeries | 22-02-2024 | Een ICT-medewerker van het ministerie van Economische Zaken heeft over een periode van anderhalf jaar voor meer dan 100.000 euro aan telefoons, tablets en laptops gestolen. De diefstal kwam aan het licht na meerdere aangiftes en een grondig onderzoek door een bedrijfsrecherchebureau. De 42-jarige man uit Zoetermeer, verantwoordelijk voor de uitgifte en het onderhoud van deze apparaten, maakte misbruik van zijn toegang tot de voorraad. Het Openbaar Ministerie heeft een gevangenisstraf van 24 maanden geëist, waarvan 6 voorwaardelijk. De rechtbank doet over twee weken uitspraak. (Bron: beveiligingnieuws.nl)</description>
-			<guid isPermaLink="false">https://beveiligingnieuws.nl/ambtenaar-verkocht-telefoons-en-laptops-van-ministerie-door/?datalekt=ac08c62be8484bef1773789e173b456c7f6725e15c87089dbd25a6087340ed7c</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>

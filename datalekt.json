@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken?datalekt=3dc03f3d6eb21fa48ae7b3cb765fbbbd049197f82f3f288bdc20265cf2e2e92b",
+        "url": "https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken",
+        "title": "Fraude via gestolen klantgegevens bij Amsterdamse klantenservice",
+        "date_published": "2024-05-12T11:11:00Z",
+        "date_modified": "2024-05-12T11:11:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "om.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende organisatie | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 08-05-2024 | Een 21-jarige klantenservicemedewerker uit Amsterdam is gearresteerd wegens zijn rol in een grootschalige helpdeskfraude, waarbij persoonsgegevens van ouderen werden ontvreemd. Deze gegevensroof betrof het klantenbestand van zijn werkgever, waarna de medewerker deze gegevens deelde met medeplichtigen. Deze criminelen deden zich vervolgens voor als medewerkers van een telecombedrijf of politie om de slachtoffers te bedriegen, wat resulteerde in de diefstal van geld en waardevolle voorwerpen. Het bedrijf heeft aangifte gedaan van computervredebreuk. (Bron: om.nl)"
+    },
+    {
+        "id": "https://www.bndestem.nl/economie/uwv-doet-mogelijk-aangifte-150-000-cvs-illegaal-op-de-site-bekeken~a7e9dd25/?datalekt=09a3c32272440500ddad2b61f6cf401afaeb47269e1a71d2a223e76755f8022e",
+        "url": "https://www.bndestem.nl/economie/uwv-doet-mogelijk-aangifte-150-000-cvs-illegaal-op-de-site-bekeken~a7e9dd25/",
+        "title": "Massale inzage van cv&#039;s bij UWV wijst op datalek",
+        "date_published": "2024-05-12T11:08:00Z",
+        "date_modified": "2024-05-12T11:08:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "bndestem.nl"
+        },
+        "content_html": "",
+        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 10-05-2024 | Bij het UWV is een ernstig incident ontstaan toen een gebruiker op 4 mei illegaal toegang kreeg tot en mogelijk 150.000 cv&#039;s downloadde van de website werk.nl. Deze cv&#039;s bevatten persoonlijke gegevens van werkzoekenden. Het UWV, dat deze inzage als oneigenlijk beschouwt, heeft al stappen ondernomen door het account van de betrokken gebruiker te blokkeren en de Autoriteit Persoonsgegevens in te lichten. De getroffen personen worden ge\u00efnformeerd over de inzage en mogelijke downloads, evenals maatregelen om de impact te minimaliseren. (Bron: bndestem.nl)"
+    },
+    {
         "id": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=bd720880eb536e82fb854c90ecb61fd4b79ef32bf1058933d6daeaab06052a53",
         "url": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem",
         "title": "Datalek bij Radboud Universiteit door fout in reissysteem",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Echt-Susteren | Overheid: Gemeenten | 26-02-2024 | De website van de gemeente Echt-Susteren is tijdelijk onbereikbaar geworden door een DDoS-aanval, uitgevoerd door cybercriminelen. Hierdoor kunnen inwoners momenteel alleen telefonisch afspraken maken. De aanval heeft de systemen van de gemeente niet gecompromitteerd, dankzij effectieve beveiligingsmaatregelen. Er is geen losgeld ge\u00ebist door de aanvallers, en de gemeente heeft aangifte gedaan bij de politie. De duur van de storing is nog onbekend. (Bron: 1limburg.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=80fb585d01af48373a1dcb69e98a2eede13a65a168c2cdf0748d0df9fc4dbc3a",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Remkes getroffen door ransomware aanval van de criminele organisatie Cactus",
-        "date_published": "2024-02-27T09:16:00Z",
-        "date_modified": "2024-02-27T09:16:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Remkes | Groot- en detailhandel | 24-02-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij Remkes heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://beveiligingnieuws.nl/ambtenaar-verkocht-telefoons-en-laptops-van-ministerie-door/?datalekt=ac08c62be8484bef1773789e173b456c7f6725e15c87089dbd25a6087340ed7c",
-        "url": "https://beveiligingnieuws.nl/ambtenaar-verkocht-telefoons-en-laptops-van-ministerie-door/",
-        "title": "Ambtenaar bij ministerie van Economische Zaken betrokken bij diefstal van elektronica",
-        "date_published": "2024-02-23T18:55:00Z",
-        "date_modified": "2024-02-23T18:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "beveiligingnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Economische Zaken en Klimaat (EZK) | Overheid: Ministeries | 22-02-2024 | Een ICT-medewerker van het ministerie van Economische Zaken heeft over een periode van anderhalf jaar voor meer dan 100.000 euro aan telefoons, tablets en laptops gestolen. De diefstal kwam aan het licht na meerdere aangiftes en een grondig onderzoek door een bedrijfsrecherchebureau. De 42-jarige man uit Zoetermeer, verantwoordelijk voor de uitgifte en het onderhoud van deze apparaten, maakte misbruik van zijn toegang tot de voorraad. Het Openbaar Ministerie heeft een gevangenisstraf van 24 maanden ge\u00ebist, waarvan 6 voorwaardelijk. De rechtbank doet over twee weken uitspraak. (Bron: beveiligingnieuws.nl)"
     }
 ]
