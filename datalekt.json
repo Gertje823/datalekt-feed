@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=78016fac31621296d9798523376d9c7858900742ef47208d14d65aeac65eabae",
+        "url": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem",
+        "title": "VCK Travel betrokken bij datalek Radboud Universiteit",
+        "date_published": "2024-05-14T16:23:00Z",
+        "date_modified": "2024-05-14T16:23:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "voxweb.nl"
+        },
+        "content_html": "",
+        "content_text": "VCK Travel | Informatie en communicatie | 08-05-2024 | Bij een recente fout in het nieuwe reissysteem van de Radboud Universiteit, uitgevoerd door VCK Travel, hadden 650 medewerkers onrechtmatig toegang tot gevoelige gegevens. Het betrof informatie zoals vlucht- en hotelgegevens van collega&#039;s, wat door VCK Travel en de universiteit als een risico met lage impact werd beschouwd. De kwestie werd snel opgelost en er is geen melding gedaan bij de Autoriteit Persoonsgegevens, ondanks tegenadvies van privacydeskundigen. (Bron: voxweb.nl)"
+    },
+    {
         "id": "https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken?datalekt=3dc03f3d6eb21fa48ae7b3cb765fbbbd049197f82f3f288bdc20265cf2e2e92b",
         "url": "https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken",
         "title": "Fraude via gestolen klantgegevens bij Amsterdamse klantenservice",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "GCA Nederland | Vervoer en opslag | 26-02-2024 | De criminele organisatie RansomHouse heeft op het darkweb aangekondigd dat zij GCA Nederland heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.1limburg.nl/nieuws/2570043/site-echt-susteren-offline-na-ddos-aanval?datalekt=f222e0a4516d55dc91f42fabd455ea8c0006f043547968800be83d822d04e7d5",
-        "url": "https://www.1limburg.nl/nieuws/2570043/site-echt-susteren-offline-na-ddos-aanval",
-        "title": "Gemeente Echt-Susteren getroffen door DDoS-aanval",
-        "date_published": "2024-02-28T13:09:00Z",
-        "date_modified": "2024-02-28T13:09:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "1limburg.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Echt-Susteren | Overheid: Gemeenten | 26-02-2024 | De website van de gemeente Echt-Susteren is tijdelijk onbereikbaar geworden door een DDoS-aanval, uitgevoerd door cybercriminelen. Hierdoor kunnen inwoners momenteel alleen telefonisch afspraken maken. De aanval heeft de systemen van de gemeente niet gecompromitteerd, dankzij effectieve beveiligingsmaatregelen. Er is geen losgeld ge\u00ebist door de aanvallers, en de gemeente heeft aangifte gedaan bij de politie. De duur van de storing is nog onbekend. (Bron: 1limburg.nl)"
     }
 ]

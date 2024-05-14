@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 12 May 2024 12:28:21 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 14 May 2024 18:19:49 +0000</lastBuildDate>
+		<item>
+			<title>VCK Travel betrokken bij datalek Radboud Universiteit</title>
+			<link>https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem</link>
+			<description>VCK Travel | Informatie en communicatie | 08-05-2024 | Bij een recente fout in het nieuwe reissysteem van de Radboud Universiteit, uitgevoerd door VCK Travel, hadden 650 medewerkers onrechtmatig toegang tot gevoelige gegevens. Het betrof informatie zoals vlucht- en hotelgegevens van collega&amp;#039;s, wat door VCK Travel en de universiteit als een risico met lage impact werd beschouwd. De kwestie werd snel opgelost en er is geen melding gedaan bij de Autoriteit Persoonsgegevens, ondanks tegenadvies van privacydeskundigen. (Bron: voxweb.nl)</description>
+			<guid isPermaLink="false">https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=78016fac31621296d9798523376d9c7858900742ef47208d14d65aeac65eabae</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Fraude via gestolen klantgegevens bij Amsterdamse klantenservice</title>
 			<link>https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken</link>
@@ -790,14 +798,6 @@
 			<description>GCA Nederland | Vervoer en opslag | 26-02-2024 | De criminele organisatie RansomHouse heeft op het darkweb aangekondigd dat zij GCA Nederland heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=197617de0ce456f8c80c9c453997402cc1fdafb868547ab0d385da635ebba45a</guid>
 			<category>Vervoer en opslag </category>
-			<pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Echt-Susteren getroffen door DDoS-aanval</title>
-			<link>https://www.1limburg.nl/nieuws/2570043/site-echt-susteren-offline-na-ddos-aanval</link>
-			<description>Gemeente Echt-Susteren | Overheid: Gemeenten | 26-02-2024 | De website van de gemeente Echt-Susteren is tijdelijk onbereikbaar geworden door een DDoS-aanval, uitgevoerd door cybercriminelen. Hierdoor kunnen inwoners momenteel alleen telefonisch afspraken maken. De aanval heeft de systemen van de gemeente niet gecompromitteerd, dankzij effectieve beveiligingsmaatregelen. Er is geen losgeld geëist door de aanvallers, en de gemeente heeft aangifte gedaan bij de politie. De duur van de storing is nog onbekend. (Bron: 1limburg.nl)</description>
-			<guid isPermaLink="false">https://www.1limburg.nl/nieuws/2570043/site-echt-susteren-offline-na-ddos-aanval?datalekt=f222e0a4516d55dc91f42fabd455ea8c0006f043547968800be83d822d04e7d5</guid>
-			<category>Overheid: Gemeenten </category>
 			<pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
