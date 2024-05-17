@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.security.nl/posting/841570/SVB+meldde+vorig+jaar+bijna+700+datalekken+bij+Autoriteit+Persoonsgegevens?datalekt=c66a4fbe6b7f8f285d0eb9ea0ba80c327b7f7c091b49644852c9b301b90c62df",
+        "url": "https://www.security.nl/posting/841570/SVB+meldde+vorig+jaar+bijna+700+datalekken+bij+Autoriteit+Persoonsgegevens",
+        "title": "Zorgelijke toename van datalekken bij de SVB in 2023",
+        "date_published": "2024-05-17T09:55:00Z",
+        "date_modified": "2024-05-17T09:55:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Sociale Verzekeringsbank (SVB) | Overheid: Zelfstandige bestuursorganen | 15-05-2024 | In 2023 meldde de Sociale Verzekeringsbank (SVB) een stijging in het aantal datalekken tot 669 incidenten, een toename vergeleken met het jaar ervoor. Deze lekken, voornamelijk veroorzaakt door verkeerd geadresseerde correspondentie, hadden meestal beperkte impact op de betrokken personen. Desondanks werd de SVB beboet voor een specifiek incident uit 2019, waarbij de privacywaarborgen onvoldoende bleken. Dit heeft geleid tot verhoogde aandacht en preventieve maatregelen door de SVB om dergelijke incidenten in de toekomst te voorkomen. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570?datalekt=b818fe5d9f04921795f06d08bbf49c004b65b6122c5ba28e32e302f88c3a5792",
+        "url": "https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570",
+        "title": "Datalek bij Geoinformatieportaal HHNK met risico op lek van persoonlijke en kadastrale gegevens",
+        "date_published": "2024-05-17T09:52:00Z",
+        "date_modified": "2024-05-17T09:52:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "noordhollandsdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 14-05-2024 | Begin mei werd een datalek ontdekt in het Geoinformatieportaal van HHNK, waarbij persoonsgegevens zoals BSN en adresgegevens mogelijk gelekt zijn. De gelekte informatie omvat gegevens over kadastrale objecten en eigendommen. Door onjuiste verwerking waren deze gegevens toegankelijk voor onbevoegden. Maatregelen, zoals het uitzetten van de gegevensverwerking en het melden bij de Autoriteit Persoonsgegevens, zijn getroffen om de toegang te blokkeren. Dit heeft mogelijk vertragingen in vergunningsaanvragen en grondtransacties tot gevolg. (Bron: noordhollandsdagblad.nl)"
+    },
+    {
         "id": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=78016fac31621296d9798523376d9c7858900742ef47208d14d65aeac65eabae",
         "url": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem",
         "title": "VCK Travel betrokken bij datalek Radboud Universiteit",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Schoterbos Apotheek | Gezondheids- en welzijnszorg | 26-02-2024 | Een apotheker in Haarlem heeft zijn klantenbestand gebruikt om een e-mail te versturen waarin hij pleit tegen het invoeren van betaald parkeren. Dit incident heeft geleid tot onvrede onder de klanten van de Schoterbos Apotheek, die het beschouwen als misbruik van vertrouwelijke gegevens en een datalek. Klanten zijn ontstemd over de inbreuk op hun privacy en het ongepaste gebruik van hun persoonlijke gegevens voor politieke doeleinden. (Bron: haarlemsdagblad.nl)"
-    },
-    {
-        "id": "https://www.binnenlandsbestuur.nl/digitaal/breda-negeerde-toezichthouder-bij-data-gestuurde-aanpak?datalekt=f96420d486e1518c38b98f90b4b09ec41d8c6785a49455e093d0a5d0be9a5fef",
-        "url": "https://www.binnenlandsbestuur.nl/digitaal/breda-negeerde-toezichthouder-bij-data-gestuurde-aanpak",
-        "title": "Breda zet controversi\u00eble dataverzameling door ondanks juridische risico&#039;s",
-        "date_published": "2024-02-29T08:55:00Z",
-        "date_modified": "2024-02-29T08:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "binnenlandsbestuur.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Breda | Overheid: Gemeenten | 26-02-2024 | Gemeente Breda zet haar datagestuurde aanpak voor het bestrijden van criminaliteit en ondermijning voort, ondanks waarschuwingen van de toezichthouder over het niet voldoen aan privacywetgeving. De gemeente verzamelt data over bewoners en voert programma&#039;s uit die vooraf bepalen waar fraude of criminele activiteiten kunnen plaatsvinden. Deze aanpak, die diep ingrijpt in het leven van mensen, wordt voortgezet ondanks bekendheid met de juridische risico&#039;s en het ontbreken van een wettelijke grondslag. Experts uiten zorgen over de effectiviteit en legaliteit van deze methodes. (Bron: binnenlandsbestuur.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=197617de0ce456f8c80c9c453997402cc1fdafb868547ab0d385da635ebba45a",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "GCA Nederland getroffen door ransomware aanval van de criminele organisatie RansomHouse",
-        "date_published": "2024-02-28T13:14:00Z",
-        "date_modified": "2024-02-28T13:14:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "GCA Nederland | Vervoer en opslag | 26-02-2024 | De criminele organisatie RansomHouse heeft op het darkweb aangekondigd dat zij GCA Nederland heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     }
 ]
