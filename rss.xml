@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 17 May 2024 12:28:36 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 18 May 2024 18:19:31 +0000</lastBuildDate>
+		<item>
+			<title>Cyberaanval treft Lemken, beïnvloedt wereldwijde locaties</title>
+			<link>https://www.mechaman.nl/artikel/20240517/lemken-getroffen-door-cyberaanval/</link>
+			<description>Lemken | Groot- en detailhandel | 17-05-2024 | Op 11 mei werd machinefabrikant Lemken getroffen door een cyberaanval die al hun wereldwijde locaties raakte. De firma moest hierdoor alle IT-systemen en de productie stilleggen. De medewerkers van Lemken moesten vanuit huis werken terwijl het bedrijf, met assistentie van specialisten, de schade analyseerde en werkte aan een nieuwe IT-infrastructuur. Onderdelen bleven beschikbaar via Agroparts, ondanks de hinder in dagelijkse werkzaamheden. De financiële en operationele impact van deze gebeurtenis is significant, maar specifieke details over de omvang van de schade of het aantal direct getroffen klanten zijn niet vermeld. (Bron: mechaman.nl)</description>
+			<guid isPermaLink="false">https://www.mechaman.nl/artikel/20240517/lemken-getroffen-door-cyberaanval/?datalekt=4814ff6e929df75847eb4c56e784132527fc6061e6453badf57a2b352ffea526</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij Ranzijn Dierenarts na cyberaanval door criminele groep</title>
+			<link>https://tweakers.net/nieuws/222036/ranzijn-dierenarts-meldt-datalek-persoons-en-dierengegevens-na-cyberaanval.html</link>
+			<description>Ranzijn Dierenarts | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 16-05-2024 | Ranzijn Dierenarts heeft bekendgemaakt dat persoons- en dierengegevens zijn gelekt als gevolg van een cyberaanval door een criminele groepering. De aanvallers hebben toegang gekregen tot interne systemen, waarbij persoonlijke details zoals namen, adressen en e-mailadressen zijn ontvreemd. Belangrijk is dat er geen financiële data is gelekt. Ranzijn heeft de getroffen klanten ingelicht en maatregelen getroffen door externe experts in te schakelen en de Autoriteit Persoonsgegevens op de hoogte te stellen. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/222036/ranzijn-dierenarts-meldt-datalek-persoons-en-dierengegevens-na-cyberaanval.html?datalekt=79a42b2e0fd1a9e01e183a92ee17211e9389b3c56a16fae9f163f393e1f76ba0</guid>
+			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Zorgelijke toename van datalekken bij de SVB in 2023</title>
 			<link>https://www.security.nl/posting/841570/SVB+meldde+vorig+jaar+bijna+700+datalekken+bij+Autoriteit+Persoonsgegevens</link>
@@ -782,22 +798,6 @@
 			<description>HAL Allergy Group | Industrie | 28-02-2024 | De criminele organisatie RansomHouse heeft op het darkweb aangekondigd dat zij HAL Allergy Group heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d497747eab7ca0f9701f1576d9f1c21409e9b5418872ae50ab750af139e0d885</guid>
 			<category>Industrie </category>
-			<pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij gemeente Almelo door publicatie petitiegegevens</title>
-			<link>https://www.almelo.nl/kennisgeving-datalek-gemeente-almelo</link>
-			<description>Gemeente Almelo | Overheid: Gemeenten | 27-02-2024 | Op 6 februari 2024 publiceerde gemeente Almelo per ongeluk een lijst met gegevens van ondertekenaars van een petitie. Deze fout werd op 13 februari ontdekt en het bestand werd direct verwijderd. De gelekte informatie omvatte namen, woonplaatsen, en het tijdstip van ondertekening. Een externe privacy officer beoordeelde het lek en concludeerde dat er een zeer laag risico op schade voor de betrokkenen was, waardoor besloten werd het incident niet te melden bij de Autoriteit Persoonsgegevens. De gemeente informeert getroffenen via hun website en een gemeentelijke advertentie. (Bron: almelo.nl)</description>
-			<guid isPermaLink="false">https://www.almelo.nl/kennisgeving-datalek-gemeente-almelo?datalekt=e8da2ceb96fbedfa62d19b10cd92496f46b85bb17da45950d4c20b110958f24b</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Schoterbos Apotheek stuurt stemadvies over parkeerreferendum naar klanten</title>
-			<link>https://www.haarlemsdagblad.nl/cnt/dmf20240226_51911160</link>
-			<description>Schoterbos Apotheek | Gezondheids- en welzijnszorg | 26-02-2024 | Een apotheker in Haarlem heeft zijn klantenbestand gebruikt om een e-mail te versturen waarin hij pleit tegen het invoeren van betaald parkeren. Dit incident heeft geleid tot onvrede onder de klanten van de Schoterbos Apotheek, die het beschouwen als misbruik van vertrouwelijke gegevens en een datalek. Klanten zijn ontstemd over de inbreuk op hun privacy en het ongepaste gebruik van hun persoonlijke gegevens voor politieke doeleinden. (Bron: haarlemsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.haarlemsdagblad.nl/cnt/dmf20240226_51911160?datalekt=17efbccbfd7a39e8a73bd8032033ab27155371d3f3aa421646e84a97e49d75b2</guid>
-			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
