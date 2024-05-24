@@ -7,7 +7,47 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 18 May 2024 18:19:31 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 24 May 2024 12:29:23 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij Portaal&amp;#039;s communicatieleverancier treft huurdersgegevens</title>
+			<link>https://www.portaal.nl/over-ons/actueel/nieuws/update-23-mei-datalek-bij-een-van-onze-leveranciers/</link>
+			<description>Portaal | Verhuur van en handel in onroerend goed | 22-05-2024 | Op 17 mei werd bekend dat een leverancier van Portaal, verantwoordelijk voor het versturen van digitale berichten, slachtoffer is geworden van een datalek. Dit lek zou persoonsgegevens van huurders zoals namen, adressen, en bankrekeningnummers kunnen betreffen. Er zijn geen wachtwoorden of andere gevoelige informatie gelekt. Portaal heeft de Autoriteit Persoonsgegevens ingelicht en onderzoekt samen met de leverancier de omvang van het lek. Bewoners worden gewaarschuwd voor mogelijke phishing-pogingen die hun persoonsgegevens misbruiken. (Bron: portaal.nl)</description>
+			<guid isPermaLink="false">https://www.portaal.nl/over-ons/actueel/nieuws/update-23-mei-datalek-bij-een-van-onze-leveranciers/?datalekt=b618f1618cd2b358565a4c129c153f3254613576be04d7e9dc7d661633ec37bb</guid>
+			<category>Verhuur van en handel in onroerend goed </category>
+			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Onbekende klanten van AddComm vrezen gevolgen van ransomware-inbraak</title>
+			<link>https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt</link>
+			<description>60 onbekende organisaties | Overige dienstverlening | 23-05-2024 | Ongeveer zestig organisaties, klanten van AddComm, zijn indirect getroffen door een recente ransomware-aanval op dit bedrijf. Zij staan nu voor de uitdaging om de mogelijke impact te beoordelen, aangezien het nog onduidelijk is welke specifieke gegevens zijn gestolen. Deze organisaties, variërend van gemeenten tot commerciële partijen, vrezen voor de veiligheid van persoonlijke en zakelijke informatie van hun burgers en klanten, en bereiden zich voor op mogelijke gevolgen van de datalek. (Bron: telegraaf.nl)</description>
+			<guid isPermaLink="false">https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=b5246e2abad74988fe77211be43a0f478c5328d8f6555b51b562db4cd61c7bf4</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
+			<link>https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt</link>
+			<description>AddComm | Informatie en communicatie | 23-05-2024 | AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. (Bron: telegraaf.nl)</description>
+			<guid isPermaLink="false">https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=a81d1eb8f4b8b6e912677041696b7d27fbc19689a3ec875963d71fb553d3b660</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Jaaroverzicht 2023 onthult toename in datalekken bij gemeente Eindhoven</title>
+			<link>https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/</link>
+			<description>Gemeente Eindhoven | Overheid: Gemeenten | 23-05-2024 | Het jaaroverzicht van 2023 van de gemeente Eindhoven toont een stijging in het aantal datalekken tot 266 incidenten, variërend van verkeerd verstuurde communicatie tot het verlies van apparatuur. De Autoriteit Persoonsgegevens houdt de gemeente onder verscherpt toezicht vanwege zorgen over de omgang met persoonsgegevens. Bij 28 ernstige lekken is er melding gemaakt bij de AP. Het rapport onderstreept de noodzaak van verbeteringen om mogelijke boetes te vermijden. (Bron: ed.nl)</description>
+			<guid isPermaLink="false">https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=ea25c1074654aca3bbbf4274b1baf906054d64b0d75df8297728504c222838ea</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij gemeente Eindhoven: BSN-gegevens van meer dan 220.000 inwoners tijdelijk toegankelijk</title>
+			<link>https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/</link>
+			<description>Gemeente Eindhoven | Overheid: Gemeenten | 23-05-2024 | In Eindhoven waren burgerservicenummers van 221.511 inwoners kortstondig toegankelijk voor gemeenteambtenaren door een intern datalek, ontdekt door een ICT-medewerker. Het lek, dat enkele uren duurde, werd snel na ontdekking gemeld bij de Autoriteit Persoonsgegevens. De gemeente nam onmiddellijk maatregelen, maar heeft de inwoners niet geïnformeerd, omdat het risico op misbruik onwaarschijnlijk werd geacht. Details over de genomen beveiligingsmaatregelen zijn niet openbaar gemaakt. (Bron: ed.nl)</description>
+			<guid isPermaLink="false">https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=b9ef6dfa1ded3b3a3d19ccf87524a3097c4faebb42680cd6652421516c75595e</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval treft Lemken, beïnvloedt wereldwijde locaties</title>
 			<link>https://www.mechaman.nl/artikel/20240517/lemken-getroffen-door-cyberaanval/</link>
@@ -35,8 +75,8 @@
 		<item>
 			<title>Datalek bij Geoinformatieportaal HHNK met risico op lek van persoonlijke en kadastrale gegevens</title>
 			<link>https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570</link>
-			<description>Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 14-05-2024 | Begin mei werd een datalek ontdekt in het Geoinformatieportaal van HHNK, waarbij persoonsgegevens zoals BSN en adresgegevens mogelijk gelekt zijn. De gelekte informatie omvat gegevens over kadastrale objecten en eigendommen. Door onjuiste verwerking waren deze gegevens toegankelijk voor onbevoegden. Maatregelen, zoals het uitzetten van de gegevensverwerking en het melden bij de Autoriteit Persoonsgegevens, zijn getroffen om de toegang te blokkeren. Dit heeft mogelijk vertragingen in vergunningsaanvragen en grondtransacties tot gevolg. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570?datalekt=b818fe5d9f04921795f06d08bbf49c004b65b6122c5ba28e32e302f88c3a5792</guid>
+			<description>Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 14-05-2024 | Begin mei werd een datalek ontdekt in het Geoinformatieportaal van HHNK, waarbij persoonsgegevens zoals BSN en adresgegevens mogelijk gelekt zijn [Update: d.d. 23 mei 2024 is bekend geworden dat de leverancier AddComm betreft en het incident op 5 mei 2024 plaatsvond). De gelekte informatie omvat gegevens over kadastrale objecten en eigendommen. Door onjuiste verwerking waren deze gegevens toegankelijk voor onbevoegden. Maatregelen, zoals het uitzetten van de gegevensverwerking en het melden bij de Autoriteit Persoonsgegevens, zijn getroffen om de toegang te blokkeren. Dit heeft mogelijk vertragingen in vergunningsaanvragen en grondtransacties tot gevolg. (Bron: noordhollandsdagblad.nl)</description>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570?datalekt=f0276df7b35f47d7b9b50e92a60263d3bc9abcdb7a3f8570866e8ffcb16c8459</guid>
 			<category>Overheid: Waterschappen </category>
 			<pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -759,46 +799,6 @@
 			<guid isPermaLink="false">https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=4e8244bd041d5580ccd640bbcccdebfad7f383c53cc11a215a364a0edfac6860</guid>
 			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
 			<pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Jumbo schrapt adresgegevens op bezorgkratten na datalek</title>
-			<link>https://www.distrifood.nl/175008/jumbo-haalt-na-datalek-adresgegevens-van-bezorgkratten</link>
-			<description>Jumbo | Groot- en detailhandel | 01-03-2024 | Jumbo heeft besloten om te stoppen met het plaatsen van adresstickers op hun bezorgkratten na een datalek, waarbij adresgegevens onbedoeld bij andere klanten terechtkwamen. Dit incident wordt door de Autoriteit Persoonsgegevens als een datalek beschouwd. In reactie hierop heeft Jumbo een nieuwe methode ingevoerd die het vermelden van adresgegevens op stickers overbodig maakt. Deze verandering volgt na klachten van klanten over het delen van hun persoonlijke gegevens. Het aantal klachten of een eventuele melding bij de Autoriteit Persoonsgevens is door Jumbo niet bekendgemaakt. (Bron: distrifood.nl)</description>
-			<guid isPermaLink="false">https://www.distrifood.nl/175008/jumbo-haalt-na-datalek-adresgegevens-van-bezorgkratten?datalekt=3da643b97d38f259585098ca40b12b77d0bb021d79e226c96df1de41cd212d38</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Carpetright getroffen door datalek, klantgegevens mogelijk in gevaar</title>
-			<link>https://tweakers.net/nieuws/219198/carpetright-waarschuwt-dat-gehashte-wachtwoorden-mogelijk-zijn-gestolen.html</link>
-			<description>Carpetright | Groot- en detailhandel | 29-02-2024 | Carpetright heeft een waarschuwing uitgegeven over een datalek ontdekt op 19 februari, waarbij gehashte wachtwoorden mogelijk zijn gestolen. De oorzaak is malware op de back-end van hun website, exclusief ransomware. Dit incident heeft mogelijk de persoonlijke gegevens van alle 30.000 accounthouders, inclusief Belgische gebruikers, blootgesteld, zoals namen, adressen, telefoonnummers, en e-mailadressen. Betaalgegevens waren niet betrokken. Als voorzorgsmaatregel heeft Carpetright alle wachtwoorden gereset en een forensisch onderzoek door NFIR laten uitvoeren. Zowel de Nederlandse als de Belgische autoriteiten zijn ingelicht. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/219198/carpetright-waarschuwt-dat-gehashte-wachtwoorden-mogelijk-zijn-gestolen.html?datalekt=2777e1f4f7086f926379690d3c005554ea9baa81617547e120ef8576861590d6</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>FranekerActueel overwint DDOS-aanval en is weer online</title>
-			<link>https://franekeractueel.nl/update-ddos-aanval-legt-franekeractueel-plat-update/</link>
-			<description>FranekerActueel | Informatie en communicatie | 26-02-2024 | De website FranekerActueel.nl werd getroffen door een gerichte DDOS-aanval, waardoor deze volledig platlag. De aanval was zo intens dat de provider de website moest blokkeren om de overlast te beperken. Dankzij de inzet van hun technische expert, Theo Lodewijk, is de website nu weer online en functioneert stabiel na overgezet te zijn naar een veilige locatie met CloudFlare bescherming. Dit proces vereiste aanzienlijke tijd en inspanning. (Bron: franekeractueel.nl)</description>
-			<guid isPermaLink="false">https://franekeractueel.nl/update-ddos-aanval-legt-franekeractueel-plat-update/?datalekt=6e074c53bfc3846e2151fed164d30b770320f4882a14edd1a434b71421252ea9</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>AB Texel Group getroffen door ransomware aanval van de criminele organisatie Cactus</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>AB Texel Group | Vervoer en opslag | 28-02-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij AB Texel Group heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ae34c05ec6b49aaf6551b809d8e95e14d02dec1c95349cc3e79b03faaef6b183</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>HAL Allergy Group getroffen door ransomware aanval van de criminele organisatie RansomHouse</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>HAL Allergy Group | Industrie | 28-02-2024 | De criminele organisatie RansomHouse heeft op het darkweb aangekondigd dat zij HAL Allergy Group heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d497747eab7ca0f9701f1576d9f1c21409e9b5418872ae50ab750af139e0d885</guid>
-			<category>Industrie </category>
-			<pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>
