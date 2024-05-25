@@ -7,7 +7,39 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 24 May 2024 12:29:23 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 25 May 2024 12:28:04 +0000</lastBuildDate>
+		<item>
+			<title>Heras getroffen door ransomware aanval van de criminele organisatie Medusa</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Heras | Groot- en detailhandel | 21-05-2024 | De criminele organisatie Medusa heeft op het darkweb aangekondigd dat zij Heras heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d20a5f4480130821c200a7f6f285d757224fe607153251746a63b291304c7429</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij Staedion&amp;#039;s digitale berichtendienst AddComm</title>
+			<link>https://www.staedion.nl/over-staedion/nieuws/datalek-bij-leverancier-addcomm</link>
+			<description>Staedion | Verhuur van en handel in onroerend goed | 23-05-2024 | Staedion, een verhuurder van woningen, heeft een datalek ondervonden bij hun leverancier AddComm. Dit datalek, ontdekt op 17 mei, kwam aan het licht toen cybercriminelen toegang verkregen tot persoonsgegevens van Staedion&amp;#039;s huurders. Hoewel nog onbekend is welke specifieke gegevens gelekt zijn, zijn er geen wachtwoorden betrokken. Er wordt onderzoek gedaan naar de aard en omvang van de gestolen gegevens. Staedion en AddComm hebben direct maatregelen genomen om verdere schade te voorkomen en autoriteiten ingelicht. (Bron: staedion.nl)</description>
+			<guid isPermaLink="false">https://www.staedion.nl/over-staedion/nieuws/datalek-bij-leverancier-addcomm?datalekt=7d6f43f4bb19d9b5acd687d7f1b99bce50f027e97cf13af102cd96bb87ec1110</guid>
+			<category>Verhuur van en handel in onroerend goed </category>
+			<pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cyberaanval treft verzendingsdienst Addcomm en mogelijk klantgegevens van Eigen Haard</title>
+			<link>https://www.eigenhaard.nl/eigen-haard/nieuws/2024/hack-bij-leverancier-pas-op-je-e-mail/</link>
+			<description>Eigen Haard | Verhuur van en handel in onroerend goed | 22-05-2024 | Addcomm, de leverancier van verzendingsdiensten voor Eigen Haard, werd het doelwit van een cyberaanval op 22 mei 2024. Het is nog onduidelijk of er huurdersgegevens van Eigen Haard zijn gestolen. Als voorzorgsmaatregel heeft Eigen Haard haar eigen beveiligingsmaatregelen versterkt en samen met Addcomm een melding gedaan bij de Autoriteit Persoonsgegevens. Huurders worden geadviseerd extra alert te zijn op verdachte e-mails en contact op te nemen bij zorgen over hun privacy. (Bron: eigenhaard.nl)</description>
+			<guid isPermaLink="false">https://www.eigenhaard.nl/eigen-haard/nieuws/2024/hack-bij-leverancier-pas-op-je-e-mail/?datalekt=0e73ca83b55af987126e3b8e2add3f95eb8e2da3f3b813d20d06f3224d459627</guid>
+			<category>Verhuur van en handel in onroerend goed </category>
+			<pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ransomware-aanval bij AddComm leidt mogelijk tot datadiefstal bij GBTwente</title>
+			<link>https://gbtwente.nl/nieuws/mogelijk-data-ontvreemd-door-ransomware-aanval-bij-leverancier</link>
+			<description>GBTwente | Overheid: Regionale samenwerkingsorganen | 23-05-2024 | De leverancier AddComm van GBTwente werd onlangs getroffen door een ransomware-aanval waarbij mogelijk data is ontvreemd. Op dit moment is nog niet duidelijk welke specifieke gegevens zijn gestolen. GBTwente heeft onmiddellijk maatregelen getroffen om verdere schade te voorkomen, waaronder het melden bij de Autoriteit Persoonsgegevens. De leverancier werkt samen met experts aan een onderzoek naar de volledige omvang van de inbreuk. Er wordt gewaarschuwd extra voorzichtig te zijn met verdachte communicatie. (Bron: gbtwente.nl)</description>
+			<guid isPermaLink="false">https://gbtwente.nl/nieuws/mogelijk-data-ontvreemd-door-ransomware-aanval-bij-leverancier?datalekt=09fede5bf5e576452240849885863594c47ced5dc639032a5eeef03aac11a87f</guid>
+			<category>Overheid: Regionale samenwerkingsorganen </category>
+			<pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij Portaal&amp;#039;s communicatieleverancier treft huurdersgegevens</title>
 			<link>https://www.portaal.nl/over-ons/actueel/nieuws/update-23-mei-datalek-bij-een-van-onze-leveranciers/</link>
@@ -766,38 +798,6 @@
 			<description>Gemeente Den Haag | Overheid: Gemeenten | 05-03-2024 | De gemeente Den Haag heeft door een menselijke fout gevoelige informatie van kinderen op de zwemleswachtlijst per e-mail verspreid. De e-mail bevatte namen, adressen, telefoonnummers en andere persoonlijke gegevens van de kinderen. Hoewel geprobeerd werd de verzending ongedaan te maken, kon niet gegarandeerd worden dat dit bij iedereen gelukt is. Ontvangers zijn verzocht de e-mail te verwijderen. De gemeente zal het datalek melden bij de autoriteit persoonsgegevens. (Bron: omroepwest.nl)</description>
 			<guid isPermaLink="false">https://www.omroepwest.nl/nieuws/4813654/gemeente-stuurt-per-ongeluk-gegevens-duizenden-kinderen-rond-menselijke-fout?datalekt=283189216893324d15706015282f4bdc528e7cac074d77ca3d031f15f4bb1b95</guid>
 			<category>Overheid: Gemeenten </category>
-			<pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Vereniging van Waterbouwers: Risico op malware door uploadmogelijkheid</title>
-			<link>https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat</link>
-			<description>Vereniging van Waterbouwers | Verhuur van roerende goederen en overige zakelijke dienstverlening | 03-03-2024 | De Vereniging van Waterbouwers had een server waarop het mogelijk was om data te uploaden, wat een aanzienlijk beveiligingsrisico vormt. Na identificatie van dit probleem door BNR, heeft de vereniging hun systemen aangepast om te voorkomen dat kwaadwillenden malware konden uploaden. (Bron: bnr.nl)</description>
-			<guid isPermaLink="false">https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=f510d3d4d33f938b859c8d3d5200e7945e3d7e2dd2953ab23b879a90632fb145</guid>
-			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
-			<pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>B&amp;amp;amp;F Casting: Lek legt scripts en persoonlijke documenten bloot</title>
-			<link>https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat</link>
-			<description>B&amp;amp;amp;F Casting | Verhuur van roerende goederen en overige zakelijke dienstverlening | 03-03-2024 | B&amp;amp;amp;F Casting had te maken met een datalek waarbij honderden scripts, briefings, cv&amp;#039;s en ondertekende contracten online beschikbaar waren. Dit kwam door gebrekkig beveiligde cloudopslag. Na de waarschuwing van BNR heeft het castingbureau actie ondernomen om hun digitale beveiliging te versterken. (Bron: bnr.nl)</description>
-			<guid isPermaLink="false">https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=b76218054fd8f245bb68ac5a8e375ff0c3e0fa4e2e1850394bc481d186939592</guid>
-			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
-			<pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Thermen Resorts: Cv&amp;#039;s en sollicitatiebrieven per ongeluk openbaar</title>
-			<link>https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat</link>
-			<description>Thermen Resorts | Overige dienstverlening | 03-03-2024 | Ook Thermen Resorts werd geconfronteerd met een vergelijkbaar beveiligingsprobleem waarbij cv&amp;#039;s en sollicitatiebrieven publiekelijk toegankelijk waren door onvoldoende beveiligde cloudopslag. Naar aanleiding van de bevindingen heeft de organisatie passende maatregelen genomen om de gegevens te beveiligen. (Bron: bnr.nl)</description>
-			<guid isPermaLink="false">https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=f9054463c05104079a454e45b1e025d55940a2c7ac391a5004a06f50b5a0ee8a</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Sunweb: Onbedoelde online blootstelling van persoonlijke sollicitatiegegevens</title>
-			<link>https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat</link>
-			<description>Sunweb | Verhuur van roerende goederen en overige zakelijke dienstverlening | 03-03-2024 | Bij Sunweb waren meer dan tweeduizend cv&amp;#039;s en sollicitatiebrieven door een beveiligingslek in de cloud publiek toegankelijk. Dit probleem ontstond ongeveer drie jaar geleden toen wervingssoftware naar de cloud werd verplaatst. Na melding door BNR heeft Sunweb onmiddellijk een crisismanagementplan geactiveerd en de gegevens verwijderd. (Bron: bnr.nl)</description>
-			<guid isPermaLink="false">https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=4e8244bd041d5580ccd640bbcccdebfad7f383c53cc11a215a364a0edfac6860</guid>
-			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
 			<pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
