@@ -7,7 +7,71 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 25 May 2024 12:28:04 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 26 May 2024 12:27:25 +0000</lastBuildDate>
+		<item>
+			<title>Mogelijke datalek bij Waterbedrijf Groningen door ransomwareaanval op AddComm</title>
+			<link>https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html</link>
+			<description>Waterbedrijf Groningen | Water, afval- en afvalwaterbeheer en sanering | 25-05-2024 | Waterbedrijf Groningen heeft gemeld dat klantgegevens mogelijk gelekt zijn tijdens een ransomwareaanval op AddComm, een bedrijf dat klantcommunicatie verzorgt. De aanval, die tussen 5 en 17 mei plaatsvond, resulteerde in versleutelde systemen en gestolen data. Het is nog onbekend welke specifieke gegevens zijn buitgemaakt en wie verantwoordelijk is voor de aanval. AddComm heeft cyberbeveiligingsexperts ingeschakeld en werkt aan het herstellen van de systemen. Klanten van Waterbedrijf Groningen zijn geadviseerd om alert te zijn op verdachte e-mails. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html?datalekt=281a6d503f7b57a921322dd47aa0b408ca089162dc84c804626983c4b0db7f1f</guid>
+			<category>Water, afval- en afvalwaterbeheer en sanering </category>
+			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Krimpenerwaard getroffen door datalek na cyberaanval</title>
+			<link>https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/</link>
+			<description>Gemeente Krimpenerwaard | Overheid: Gemeenten | 24-05-2024 | Addcomm, werkzaam voor de RBG, heeft een cyberaanval ondergaan die persoonsgegevens van inwoners van Krimpenerwaard in gevaar kan brengen. Er is onzekerheid over welke data precies gelekt is, maar inwoners dienen extra voorzichtig te zijn met hun digitale communicatie. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=a0c6e6da4242322d25e41fbae2f2329f8d06fd161aae1728e05f4c2636db9ede</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bedreigt privacy van Rotterdamse belastingbetalers</title>
+			<link>https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/</link>
+			<description>Gemeente Rotterdam | Overheid: Gemeenten | 24-05-2024 | In Rotterdam kunnen persoonsgegevens blootgesteld zijn door een cyberaanval op Addcomm, leverancier van de RBG. Details over de omvang van het datalek zijn nog niet vrijgegeven, maar de dreiging omvat mogelijk gevoelige informatie. Maatregelen en waarschuwingen zijn afgegeven om verdere schade te beperken. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=f1b1797ac6722861200f2390db6867385b4a5ad6569fa8a896cea5df9671b6b4</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Schiedamse inwonersdata mogelijk gestolen na cyberincident bij Addcomm</title>
+			<link>https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/</link>
+			<description>Gemeente Schiedam | Overheid: Gemeenten | 24-05-2024 | De recente cyberaanval op Addcomm heeft potentieel geleid tot het lekken van persoonlijke data van inwoners van Schiedam. De RBG, die gebruikmaakt van Addcomm voor belastingverwerking, onderzoekt welke gegevens zijn betrokken. Burgers worden aangemoedigd alert te zijn op phishingpogingen. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=38ae5ee9fc6c140da37a41251ed5e9c06ea8fbddd980ba2d59b9cfca67c0f9d6</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cyberaanval treft persoonsgegevens via belastingdienstleverancier in Vlaardingen</title>
+			<link>https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/</link>
+			<description>Gemeente Vlaardingen | Overheid: Gemeenten | 24-05-2024 | Na een cyberaanval op Addcomm, de ICT-leverancier van de Regionale Belasting Groep (RBG), staan persoonsgegevens van inwoners van Vlaardingen mogelijk op straat. Onbekend is nog welke informatie exact is buitgemaakt. Er is een advies uitgegaan om waakzaam te zijn bij het openen van e-mails. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=9ffad59ed5ed3ad083a1e63b8e4f966b2b8d3ef7780daa87df2d8f51f8b07512</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Regionale Belasting Groep geconfronteerd met ernstig datalek via Addcomm</title>
+			<link>https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/</link>
+			<description>Regionale Belasting Groep | Overheid: Regionale samenwerkingsorganen | 24-05-2024 | De RBG heeft een kritieke situatie door een cyberaanval op hun leverancier Addcomm, met mogelijke diefstal van uitgebreide klantgegevens als gevolg. Dit incident benadrukt de noodzaak van verscherpte digitale beveiliging en voorlichting over cyberveiligheid aan klanten. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=ed784b7e068cda010c7ff703ecbff2c1139a4342cb8addd561ef23f54048b9be</guid>
+			<category>Overheid: Regionale samenwerkingsorganen </category>
+			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cyberaanval op leverancier leidt tot mogelijk datalek bij ABN Amro klanten</title>
+			<link>https://www.bnr.nl/nieuws/tech-innovatie/10547811/mogelijk-gegevens-van-klanten-abnamro-gelekt-bij-cyberaanval</link>
+			<description>ABN Amro | Financiële instellingen | 24-05-2024 | Bij een cyberaanval op AddComm, een leverancier gespecialiseerd in klantcommunicatie, zijn mogelijk klantgegevens van ABN Amro buitgemaakt. Hoewel er geen directe aanwijzingen zijn dat deze gegevens misbruikt zijn en de systemen van de bank zelf niet getroffen zijn, heeft ABN Amro uit voorzorg de samenwerking met AddComm gestaakt. Klanten wiens gegevens mogelijk gecompromitteerd waren, zijn ingelicht en het incident is gemeld bij de toezichthouders. De hack vond plaats tussen 5 en 17 mei. (Bron: bnr.nl)</description>
+			<guid isPermaLink="false">https://www.bnr.nl/nieuws/tech-innovatie/10547811/mogelijk-gegevens-van-klanten-abnamro-gelekt-bij-cyberaanval?datalekt=1180e0e201a7c2418cd27a56d26e9a9ffedd8b3c45d5b9981ea34acad235fd27</guid>
+			<category>Financiële instellingen </category>
+			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij WDO Delta door openbaar geo-informatieportaal</title>
+			<link>https://www.rtvdrenthe.nl/nieuws/16538055/mogelijk-datalek-bij-waterschap-drents-overijsselse-delta</link>
+			<description>Waterschap Drents Overijsselse Delta (WDO Delta) | Overheid: Waterschappen | 23-05-2024 | Waterschap Drents Overijsselse Delta (WDO Delta) meldde een mogelijk datalek waarbij een online portaal dat persoonsgegevens bevatte tijdelijk toegankelijk was. Adresgegevens en burgerservicenummers van perceeleigenaren waren zichtbaar. Het lek, veroorzaakt door een configuratiefout in het geo-informatieportaal, werd snel gedicht na ontdekking, en zowel de Autoriteit Persoonsgegevens als het Kadaster zijn geïnformeerd. Het is onbekend of onbevoegden de gegevens hebben ingezien. (Bron: rtvdrenthe.nl)</description>
+			<guid isPermaLink="false">https://www.rtvdrenthe.nl/nieuws/16538055/mogelijk-datalek-bij-waterschap-drents-overijsselse-delta?datalekt=e54caa1a90d8c0705494bfe45529c4f24184562a900ba573c6562957dd7b85c4</guid>
+			<category>Overheid: Waterschappen </category>
+			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Heras getroffen door ransomware aanval van de criminele organisatie Medusa</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -735,70 +799,6 @@
 			<guid isPermaLink="false">https://helpcenter.mett.nl/performance/performance+-+opgeloste+issues/2621503.aspx?datalekt=7396dbf7d4342257d5de1f26b5de91c1b72ef9df1516baec81913e0ece4e3ebb</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Phishing-aanval legt gegevens van honderden Alkmaarders bloot</title>
-			<link>https://www.nhnieuws.nl/nieuws/280272/gemeente-sluit-onderzoek-naar-phishing-mail-af-misbruik-gegevens-niet-te-achterhalen</link>
-			<description>Gemeente Alkmaar | Overheid: Gemeenten | 03-02-2021 | Een phishing-mail heeft de gevoelige informatie van honderden inwoners van Alkmaar blootgesteld. Het incident kwam aan het licht nadat een medewerker op een nep-link klikte, waardoor de mailbox tijdelijk toegankelijk was voor onbevoegden. Ondanks een onderzoek is onduidelijk gebleven wat er met de gegevens is gebeurd. De gemeente heeft de betrokkenen geïnformeerd, extra veiligheidsmaatregelen getroffen, en melding gemaakt bij de Autoriteit Persoonsgegevens en de politie. (Bron: nhnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/280272/gemeente-sluit-onderzoek-naar-phishing-mail-af-misbruik-gegevens-niet-te-achterhalen?datalekt=9673d4100e0db6595a4d2b4920f2600b040cf6cec9a01e1adc5554d45c8e618f</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ammega Group getroffen door ransomware aanval van de criminele organisatie Cactus</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Ammega Group | Industrie | 11-03-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij Ammega Group heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6e034fca580cd7f6e69394efb34a6d09c30c7e7b1d127ba15846df51c7403927</guid>
-			<category>Industrie </category>
-			<pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Lisse betrokken bij regionaal datalek door verstuurde energiebonnen</title>
-			<link>https://www.leidschdagblad.nl/cnt/dmf20240307_53950069</link>
-			<description>Gemeente Lisse | Overheid: Gemeenten | 07-03-2024 | Ook de gemeente Lisse is betrokken bij het datalek veroorzaakt door de foutieve verzending van energiebonnen, waarbij persoonsgegevens van de inwoners zijn gelekt. Dit incident maakt deel uit van een breder probleem dat 262 inwoners treft verspreid over drie gemeenten. De gemeente Lisse heeft, net als de andere gemeenten, haar excuses aangeboden aan de getroffen inwoners en werkt aan maatregelen om de privacy van haar inwoners beter te beschermen. (Bron: leidschdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.leidschdagblad.nl/cnt/dmf20240307_53950069?datalekt=12ae16b587144be449adc7de2ab65df458f00d6eeeddc0c7978efa20f7038c64</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek raakt inwoners van Hillegom door fout in verzending energiebonnen</title>
-			<link>https://www.leidschdagblad.nl/cnt/dmf20240307_53950069</link>
-			<description>Gemeente Hillegom | Overheid: Gemeenten | 07-03-2024 | In Hillegom heeft een vergelijkbaar datalek plaatsgevonden als in Teylingen, waarbij persoonsgegevens van inwoners door een fout in de verzending van energiebonnen zijn gelekt. Dit lek treft een deel van de 262 in totaal getroffen inwoners over drie gemeenten. Specifieke maatregelen of het exacte aantal getroffen inwoners in Hillegom zijn niet vermeld, maar de gemeente heeft excuses aangeboden en benadrukt het belang van zorgvuldigheid met persoonsgegevens. (Bron: leidschdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.leidschdagblad.nl/cnt/dmf20240307_53950069?datalekt=940812f88f77389c991aee1888faeac6d2c1318ad51e98a95b6da0b21560a1c0</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek in Teylingen door fout met energiebonnen</title>
-			<link>https://www.bollenstreekomroep.nl/tientallen-gegevens-van-inwoners-uit-teylingen-verkeerd-verstuurd-met-energiebonnen/</link>
-			<description>Gemeente Teylingen | Overheid: Gemeenten | 07-03-2024 | In de gemeente Teylingen is door een menselijke fout een datalek ontstaan bij het versturen van brieven voor energiebonnen. Hierdoor zijn de persoonlijke gegevens van 87 inwoners, verdeeld over Voorhout, Sassenheim en Warmond, onbedoeld verstrekt aan 19 andere inwoners. De fout ontstond tijdens het e-mailen van etiket-teksten voor de enveloppen. Getroffen inwoners zijn geïnformeerd met het verzoek de ontvangen e-mail te verwijderen. De gemeente heeft maatregelen genomen om de betrokkenen te beschermen en hen gevraagd waakzaam te zijn voor mogelijke gevolgen van dit datalek. (Bron: bollenstreekomroep.nl)</description>
-			<guid isPermaLink="false">https://www.bollenstreekomroep.nl/tientallen-gegevens-van-inwoners-uit-teylingen-verkeerd-verstuurd-met-energiebonnen/?datalekt=d96ef977c0962268c44933801a322b19dd4c47c37a9fd8d08e2b0ca15a855bdc</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>VanderHelm Bedrijven getroffen door ransomware aanval van de criminele organisatie Donex</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>VanderHelm Bedrijven | Bouwnijverheid | 07-03-2024 | De criminele organisatie Donex heeft op het darkweb aangekondigd dat zij VanderHelm Bedrijven heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7aa2bdaae1c97b88915ca1c27bf80ae2533dccd0b162ce11049ea85719ec9cd0</guid>
-			<category>Bouwnijverheid </category>
-			<pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Groot aantal Nederlandse bedrijven kwetsbaar door open cloudservers</title>
-			<link>https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat</link>
-			<description>46 onbekende organisaties | Overige dienstverlening | 03-03-2024 | Uit onderzoek blijkt dat bijna vijftig Nederlandse bedrijven en instellingen te maken hebben met onvoldoende beveiligde cloudomgevingen, waardoor gevoelige informatie openbaar toegankelijk is geworden. Dit probleem, veroorzaakt door een gebrek aan juiste beveiligingsinstellingen bij het gebruik van cloudopslagdiensten zoals Amazon, Azure, en Google, toont aan dat de verantwoordelijkheid voor data-beveiliging bij de data-eigenaren zelf ligt. De reactie op deze ontdekking varieert, met sommige organisaties die direct actie ondernemen en anderen die niet reageren. (Bron: bnr.nl)</description>
-			<guid isPermaLink="false">https://www.bnr.nl/nieuws/technologie/10541786/tientallen-open-servers-bij-nederlandse-bedrijven-gegevens-op-straat?datalekt=167dc3f2e02f6a9b0ce6cad335b63866ffddbcc2224d48a38b242b608ab0ef8a</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gegevens van duizenden kinderen op zwemleswachtlijst per ongeluk gedeeld door gemeente Den Haag</title>
-			<link>https://www.omroepwest.nl/nieuws/4813654/gemeente-stuurt-per-ongeluk-gegevens-duizenden-kinderen-rond-menselijke-fout</link>
-			<description>Gemeente Den Haag | Overheid: Gemeenten | 05-03-2024 | De gemeente Den Haag heeft door een menselijke fout gevoelige informatie van kinderen op de zwemleswachtlijst per e-mail verspreid. De e-mail bevatte namen, adressen, telefoonnummers en andere persoonlijke gegevens van de kinderen. Hoewel geprobeerd werd de verzending ongedaan te maken, kon niet gegarandeerd worden dat dit bij iedereen gelukt is. Ontvangers zijn verzocht de e-mail te verwijderen. De gemeente zal het datalek melden bij de autoriteit persoonsgegevens. (Bron: omroepwest.nl)</description>
-			<guid isPermaLink="false">https://www.omroepwest.nl/nieuws/4813654/gemeente-stuurt-per-ongeluk-gegevens-duizenden-kinderen-rond-menselijke-fout?datalekt=283189216893324d15706015282f4bdc528e7cac074d77ca3d031f15f4bb1b95</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>
