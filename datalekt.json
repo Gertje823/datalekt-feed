@@ -1,5 +1,70 @@
 [
     {
+        "id": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=968da812dc582bbdc00c4229588f7d4ffb4db021726122a90a8aa4688ca0778e",
+        "url": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm",
+        "title": "Essent klanten mogelijk getroffen door datalek bij AddComm",
+        "date_published": "2024-05-27T13:46:00Z",
+        "date_modified": "2024-05-27T13:46:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Essent | Elektriciteit, aardgas, stoom en gekoelde lucht | 27-05-2024 | Essent heeft zijn klanten ge\u00efnformeerd over een datalek bij AddComm na een ransomware-aanval op 17 mei. De leverancier, die zorgt voor de verzending van facturen en communicatie, onderzoekt nog welke gegevens zijn gelekt. Essent heeft direct alle dataverbindingen met AddComm onderbroken en relevante autoriteiten ingelicht. Getroffen klanten zullen persoonlijk worden benaderd om hen te informeren over de situatie. Er zijn nog geen aanwijzingen van misbruik van de data. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=139c6bbce320b9611a2c06edbd21be5c3fe176add50de7eb51aaaaaa5e73f4d6",
+        "url": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm",
+        "title": "Vattenfall klanten getroffen door datalek bij dienstverlener AddComm",
+        "date_published": "2024-05-27T13:45:00Z",
+        "date_modified": "2024-05-27T13:45:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Vattenfall | Elektriciteit, aardgas, stoom en gekoelde lucht | 27-05-2024 | Vattenfall heeft een waarschuwing uitgegeven aan zijn klanten na een datalek bij AddComm, die de papieren communicatie verzorgt. Dit incident, veroorzaakt door een ransomware-aanval op 17 mei, heeft mogelijk klantgegevens blootgesteld. Vattenfall is bezig met het informeren van getroffen klanten en heeft maatregelen genomen om verdere schade te voorkomen. Het bedrijf benadrukt dat er tot op heden geen misbruik van de data is gemeld. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/842885/ABN+Amro%2C+Staedion%2C+Waterbedrijf+Groningen%2C+RBG+en+WMD+melden+mogelijk+datalek?datalekt=85930bd992be07d18b42d695331e08fd692824ef9db9d0f050d9e90177b7b7ad",
+        "url": "https://www.security.nl/posting/842885/ABN+Amro%2C+Staedion%2C+Waterbedrijf+Groningen%2C+RBG+en+WMD+melden+mogelijk+datalek",
+        "title": "WMD rapporteert potentieel datalek door cyberaanval op AddComm",
+        "date_published": "2024-05-27T13:44:00Z",
+        "date_modified": "2024-05-27T13:44:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Waterleidingmaatschappij Drenthe (WMD) | Water, afval- en afvalwaterbeheer en sanering | 26-05-2024 | Waterbedrijf Drenthe (WMD) heeft een datalek gemeld na een ransomware-aanval op hun dienstverlener AddComm. Deze aanval heeft mogelijk geleid tot de ongeautoriseerde toegang tot persoonsgegevens van klanten, waaronder namen, adressen en contactinformatie. WMD werkt nauw samen met autoriteiten om de impact te beoordelen en heeft maatregelen getroffen om verdere schade te voorkomen. Het aantal getroffen klanten is nog in onderzoek. (Bron: security.nl)"
+    },
+    {
+        "id": "https://warmtestad.nl/nieuws/hack-bij-leverancier-van-warmtestad?datalekt=889d677f9528a18d2faf8626b337fdf921121709dc4d41f4e767bdc35a49f718",
+        "url": "https://warmtestad.nl/nieuws/hack-bij-leverancier-van-warmtestad",
+        "title": "Cyberaanval treft leverancier van WarmteStad",
+        "date_published": "2024-05-27T10:25:00Z",
+        "date_modified": "2024-05-27T10:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "warmtestad.nl"
+        },
+        "content_html": "",
+        "content_text": "WarmteStad | Elektriciteit, aardgas, stoom en gekoelde lucht | 24-05-2024 | Addcomm, een leverancier van WarmteStad, is onlangs gehackt. Het bedrijf onderzoekt of klantgegevens mogelijk zijn gelekt. Als voorzorgsmaatregel is het klantportaal van WarmteStad tijdelijk offline gehaald, waardoor klanten niet online kunnen inloggen of betalingen verrichten. Klanten worden geadviseerd voorzichtig te zijn met e-mails van onbekende afzenders en contact op te nemen bij twijfels over de authenticiteit van communicatie van WarmteStad. (Bron: warmtestad.nl)"
+    },
+    {
+        "id": "https://www.onshuisapeldoorn.nl/over-ons/datalek-bij-een-van-onze-leveranciers/?datalekt=4fd9615ccde0b21973f04aea75878878cc2c484f787abe15e04d2f4d29b767d4",
+        "url": "https://www.onshuisapeldoorn.nl/over-ons/datalek-bij-een-van-onze-leveranciers/",
+        "title": "Datalek bij leverancier treft huurders van Ons Huis Apeldoorn",
+        "date_published": "2024-05-27T10:24:00Z",
+        "date_modified": "2024-05-27T10:24:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "onshuisapeldoorn.nl"
+        },
+        "content_html": "",
+        "content_text": "Ons Huis Apeldoorn | Verhuur van en handel in onroerend goed | 24-05-2024 | Op 17 mei werd Ons Huis Apeldoorn ge\u00efnformeerd over een datalek bij de leverancier AddComm die ondersteuning biedt bij het versturen van post. Dit lek resulteerde in de mogelijke blootstelling van persoonlijke gegevens van huurders. Er is een onderzoek gestart en maatregelen zijn getroffen om verdere schade te voorkomen. Het exacte aantal betrokken gegevens en huurders is nog onbekend. Huurders ontvangen een brief met informatie en worden op de hoogte gehouden via de website van Ons Huis. (Bron: onshuisapeldoorn.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html?datalekt=281a6d503f7b57a921322dd47aa0b408ca089162dc84c804626983c4b0db7f1f",
         "url": "https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html",
         "title": "Mogelijke datalek bij Waterbedrijf Groningen door ransomwareaanval op AddComm",
@@ -156,20 +221,20 @@
         "content_text": "GBTwente | Overheid: Regionale samenwerkingsorganen | 23-05-2024 | De leverancier AddComm van GBTwente werd onlangs getroffen door een ransomware-aanval waarbij mogelijk data is ontvreemd. Op dit moment is nog niet duidelijk welke specifieke gegevens zijn gestolen. GBTwente heeft onmiddellijk maatregelen getroffen om verdere schade te voorkomen, waaronder het melden bij de Autoriteit Persoonsgegevens. De leverancier werkt samen met experts aan een onderzoek naar de volledige omvang van de inbreuk. Er wordt gewaarschuwd extra voorzichtig te zijn met verdachte communicatie. (Bron: gbtwente.nl)"
     },
     {
-        "id": "https://www.portaal.nl/over-ons/actueel/nieuws/update-23-mei-datalek-bij-een-van-onze-leveranciers/?datalekt=b618f1618cd2b358565a4c129c153f3254613576be04d7e9dc7d661633ec37bb",
-        "url": "https://www.portaal.nl/over-ons/actueel/nieuws/update-23-mei-datalek-bij-een-van-onze-leveranciers/",
+        "id": "https://www.ad.nl/amersfoort/huurders-van-portaal-mogelijk-slachtoffer-van-grote-cyberaanval-bij-amersfoorts-bedrijf-losgeld-geeist~a3d6fa2b/?datalekt=7abf42f9ebfc4e2fa22eca4f54442fbe5598dd281b8e5911d8f25a970f256888",
+        "url": "https://www.ad.nl/amersfoort/huurders-van-portaal-mogelijk-slachtoffer-van-grote-cyberaanval-bij-amersfoorts-bedrijf-losgeld-geeist~a3d6fa2b/",
         "title": "Datalek bij Portaal&#039;s communicatieleverancier treft huurdersgegevens",
         "date_published": "2024-05-24T10:15:00Z",
         "date_modified": "2024-05-24T10:15:00Z",
         "language": "nl-nl",
         "author": {
-            "name": "portaal.nl"
+            "name": "ad.nl"
         },
         "content_html": "",
-        "content_text": "Portaal | Verhuur van en handel in onroerend goed | 22-05-2024 | Op 17 mei werd bekend dat een leverancier van Portaal, verantwoordelijk voor het versturen van digitale berichten, slachtoffer is geworden van een datalek. Dit lek zou persoonsgegevens van huurders zoals namen, adressen, en bankrekeningnummers kunnen betreffen. Er zijn geen wachtwoorden of andere gevoelige informatie gelekt. Portaal heeft de Autoriteit Persoonsgegevens ingelicht en onderzoekt samen met de leverancier de omvang van het lek. Bewoners worden gewaarschuwd voor mogelijke phishing-pogingen die hun persoonsgegevens misbruiken. (Bron: portaal.nl)"
+        "content_text": "Portaal | Verhuur van en handel in onroerend goed | 22-05-2024 | Op 17 mei werd bekend dat de leverancier AddComm van Portaal, verantwoordelijk voor het versturen van digitale berichten, slachtoffer is geworden van een datalek. Dit lek zou persoonsgegevens van huurders zoals namen, adressen, en bankrekeningnummers kunnen betreffen. Er zijn geen wachtwoorden of andere gevoelige informatie gelekt. Portaal heeft de Autoriteit Persoonsgegevens ingelicht en onderzoekt samen met de leverancier de omvang van het lek. Bewoners worden gewaarschuwd voor mogelijke phishing-pogingen die hun persoonsgegevens misbruiken. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570?datalekt=f0276df7b35f47d7b9b50e92a60263d3bc9abcdb7a3f8570866e8ffcb16c8459",
+        "id": "https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570?datalekt=03752f4713754050d8a417663ed849e55c02a94790e7decbc428261e6f4f4bc3",
         "url": "https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570",
         "title": "Datalek bij Geoinformatieportaal HHNK met risico op lek van persoonlijke en kadastrale gegevens",
         "date_published": "2024-05-17T09:52:00Z",
@@ -179,7 +244,7 @@
             "name": "noordhollandsdagblad.nl"
         },
         "content_html": "",
-        "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 14-05-2024 | Begin mei werd een datalek ontdekt in het Geoinformatieportaal van HHNK, waarbij persoonsgegevens zoals BSN en adresgegevens mogelijk gelekt zijn [Update: d.d. 23 mei 2024 is bekend geworden dat de leverancier AddComm betreft en het incident op 5 mei 2024 plaatsvond). De gelekte informatie omvat gegevens over kadastrale objecten en eigendommen. Door onjuiste verwerking waren deze gegevens toegankelijk voor onbevoegden. Maatregelen, zoals het uitzetten van de gegevensverwerking en het melden bij de Autoriteit Persoonsgegevens, zijn getroffen om de toegang te blokkeren. Dit heeft mogelijk vertragingen in vergunningsaanvragen en grondtransacties tot gevolg. (Bron: noordhollandsdagblad.nl)"
+        "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 14-05-2024 | Begin mei werd een datalek ontdekt in het Geoinformatieportaal van HHNK, waarbij persoonsgegevens zoals BSN en adresgegevens mogelijk gelekt zijn. De gelekte informatie omvat gegevens over kadastrale objecten en eigendommen. Door onjuiste verwerking waren deze gegevens toegankelijk voor onbevoegden. Maatregelen, zoals het uitzetten van de gegevensverwerking en het melden bij de Autoriteit Persoonsgegevens, zijn getroffen om de toegang te blokkeren. Dit heeft mogelijk vertragingen in vergunningsaanvragen en grondtransacties tot gevolg. (Bron: noordhollandsdagblad.nl)"
     },
     {
         "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=b5246e2abad74988fe77211be43a0f478c5328d8f6555b51b562db4cd61c7bf4",
@@ -1233,70 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Vindicat atque Polit | Overige dienstverlening | 22-09-2016 | Een zogenaamde &#039;bangalijst&#039; verspreid door leden van de Groningse studentenvereniging Vindicat, met daarop foto&#039;s, namen en telefoonnummers van 22 vrouwelijke studenten, leidt tot ernstige privacy- en veiligheidszorgen. De lijst, bedoeld als grap, resulteert in ongewenste aandacht en intimidatie voor de genoemde studentes. De vereniging heeft inmiddels dertien mannelijke leden geschorst en neemt maatregelen om dergelijke incidenten in de toekomst te voorkomen. De betrokken vrouwen hebben gekozen tegen aangifte, prioriterend hun privacy boven publieke aandacht. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/220056/flevoziekenhuis-laat-e-mailadressen-van-800-patienten-uitlekken.html?datalekt=f2d5989c92b7a6031e36de6908fd3e17cfb5a6ff0191e3f427186d915b84d8f1",
-        "url": "https://tweakers.net/nieuws/220056/flevoziekenhuis-laat-e-mailadressen-van-800-patienten-uitlekken.html",
-        "title": "Datalek bij Flevoziekenhuis: 800 e-mailadressen onbedoeld gedeeld",
-        "date_published": "2024-03-23T11:28:00Z",
-        "date_modified": "2024-03-23T11:28:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Flevoziekenhuis | Gezondheids- en welzijnszorg | 22-03-2024 | Het Flevoziekenhuis heeft door een fout de e-mailadressen van 800 pati\u00ebnten blootgesteld. Deze situatie vond plaats tijdens het versturen van informatie over een nieuwe app, waarbij de BCC-functie niet gebruikt werd, waardoor e-mailadressen voor alle ontvangers zichtbaar waren. De betrokken pati\u00ebnten behoorden voornamelijk tot de afdeling maag-, darm- en leverziekten. Het ziekenhuis heeft een onderzoek ingesteld en het incident gemeld bij de Autoriteit Persoonsgegevens, in lijn met de AVG-richtlijnen. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954?datalekt=35edaac3b81c7834dbd941837ace9c481370db19ac99ca03f41237f32689617b",
-        "url": "https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954",
-        "title": "Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap",
-        "date_published": "2023-09-23T14:00:00Z",
-        "date_modified": "2024-03-20T12:47:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nrc.nl"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Sociale Zaken en Werkgelegenheid (SZW) | Overheid: Ministeries | 20-09-2023 | De Autoriteit Persoonsgegevens (AP) onderzoekt het Ministerie van Sociale Zaken wegens onrechtmatige en geheime onderzoeken naar Nederlandse moslims, voornamelijk salafisten. Het ministerie wordt bekritiseerd voor het niet actief informeren van de getroffen burgers over schendingen van hun grondrechten. Ondanks aandringen van de AP, is het ministerie niet van plan om de getroffen burgers te informeren [Update: d.d. 19 maart 2024 is bekend geworden dat 12 mensen een excuusbrief hebben ontvangen]. Deze praktijken worden omschreven als een &quot;zorgelijke ontwikkeling&quot;, en er zijn zorgen over mogelijke schadeclaims van de getroffen burgers. (Bron: nrc.nl)"
-    },
-    {
-        "id": "https://www.nrc.nl/nieuws/2024/03/18/odido-krijgt-boete-vanwege-schending-privacy-van-miljoenen-klanten-a4193372?datalekt=359e4067d28ec423f7e92bb2a42ce1f969d327381eedef5f630b78e069b55a42",
-        "url": "https://www.nrc.nl/nieuws/2024/03/18/odido-krijgt-boete-vanwege-schending-privacy-van-miljoenen-klanten-a4193372",
-        "title": "Odido ontvangt boete voor misbruik locatiegegevens klanten",
-        "date_published": "2024-03-18T19:39:00Z",
-        "date_modified": "2024-03-18T19:39:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nrc.nl"
-        },
-        "content_html": "",
-        "content_text": "Odido | Informatie en communicatie | 18-03-2024 | Telecomprovider Odido, voorheen bekend als T-Mobile, heeft een boete van 175.000 euro ontvangen van de Rijksinspectie Digitale Infrastructuur (RDI) wegens het schenden van de privacy van miljoenen abonnees. Dit gebeurde door een samenwerking met het Centraal Bureau voor de Statistiek (CBS) tussen 2018 en 2020, waarbij locatiegegevens van 2,5 tot 4,5 miljoen abonnees werden gebruikt om een algoritme te ontwikkelen. Deze gegevens, hoewel gepseudonimiseerd, konden potentieel worden herleid tot individuele personen. Odido en CBS hebben maatregelen getroffen na de onthulling van deze praktijken. (Bron: nrc.nl)"
-    },
-    {
-        "id": "https://www.rijnmondnieuws.com/d66-wethouder-russen-hebben-site-aangevallen-gemeente-vlaardingen/?datalekt=e08c23673cc9782ea3048d5c280ad63676809a851b4bdf1d6055ca70d88a97a6",
-        "url": "https://www.rijnmondnieuws.com/d66-wethouder-russen-hebben-site-aangevallen-gemeente-vlaardingen/",
-        "title": "Cyberaanval treft gemeente Vlaardingen: Russische daders verdacht",
-        "date_published": "2024-03-16T14:04:00Z",
-        "date_modified": "2024-03-16T14:04:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rijnmondnieuws.com"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Vlaardingen | Overheid: Gemeenten | 14-03-2024 | De website van de gemeente Vlaardingen was recentelijk het doelwit van een DDoS-aanval, waardoor de toegang voor burgers tijdelijk geblokkeerd werd. Wethouder Koen Kegel suggereert dat Russische cybercriminelen achter deze aanval zitten, mogelijk als reactie op het lokale beleid omtrent het asielzoekerscentrum voor Oekra\u00efners. Er is geen concreet bewijs geleverd voor deze claim. DDoS-aanvallen vormen een toenemend probleem op wereldwijde schaal, met frequent vermoedens van Russische betrokkenheid, al kunnen dergelijke aanvallen via Russische servers wereldwijd ge\u00efnitieerd worden. (Bron: rijnmondnieuws.com)"
-    },
-    {
-        "id": "https://helpcenter.mett.nl/performance/performance+-+opgeloste+issues/2621503.aspx?datalekt=7396dbf7d4342257d5de1f26b5de91c1b72ef9df1516baec81913e0ece4e3ebb",
-        "url": "https://helpcenter.mett.nl/performance/performance+-+opgeloste+issues/2621503.aspx",
-        "title": "Mett platform korte tijd onbereikbaar door DDoS-aanval",
-        "date_published": "2024-03-16T14:01:00Z",
-        "date_modified": "2024-03-16T14:01:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "mett.nl"
-        },
-        "content_html": "",
-        "content_text": "Mett | Informatie en communicatie | 18-12-2023 | Een aantal platformen van Mett was vanmiddag voor ongeveer 10 minuten niet bereikbaar vanwege een DDoS-aanval. De organisatie heeft snel maatregelen getroffen om de aanval te stoppen, waardoor alle platformen weer toegankelijk zijn. Mett blijft de situatie nauwlettend volgen om dergelijke incidenten in de toekomst te voorkomen. Er is geen informatie verstrekt over de aanvaller of over eventuele (financi\u00eble) schade en getroffen gebruikers. (Bron: mett.nl)"
     }
 ]
