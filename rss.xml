@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 27 May 2024 12:30:04 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 28 May 2024 01:09:14 +0000</lastBuildDate>
 		<item>
 			<title>Essent klanten mogelijk getroffen door datalek bij AddComm</title>
 			<link>https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm</link>
@@ -289,10 +289,18 @@
 			<pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
+			<title>Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding</title>
+			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
+			<description>Support Group | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf]. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=85611fd962b65ab17b8e534fee2d80b8d8fea2c8756ef7941b4963cde0ac21b7</guid>
+			<category>Cultuur, sport en recreatie </category>
+			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Aanzienlijke hack bij ID&amp;amp;amp;T leidt tot taakstraf en schadevergoeding</title>
 			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
-			<description>ID&amp;amp;amp;T | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem van ID&amp;amp;amp;T, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een schadeclaim van €97.000 van ID&amp;amp;amp;T. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 35.000 schadevergoeding en 240 uur werkstraf). (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=05fe937c52c650f60806852f05cd9982280d81b6da65d7473bef03f5a7bc1878</guid>
+			<description>ID&amp;amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf]. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=ad5c9685afb5c9791c8a3bd66585013c281c19c12f0bbd1f8b5beeda395665f2</guid>
 			<category>Cultuur, sport en recreatie </category>
 			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -797,14 +805,6 @@
 			<link>https://www.rtlnieuws.nl/nieuws/nederland/artikel/5238525/studentenvereniging-vindicat-banga-lijst-vrouwen-schorsing</link>
 			<description>Vindicat atque Polit | Overige dienstverlening | 26-06-2021 | Bij studentenvereniging Vindicat in Groningen is een ongepaste lijst met namen en opmerkingen over circa 100 vrouwelijke leden opgedoken. De lijst verscheen in een groepsapp en leidde tot de onbepaalde schorsing van het verantwoordelijke lid. Dit incident is niet het eerste in zijn soort bij Vindicat, dat eerder negatief in het nieuws kwam, onder meer vanwege het negeren van coronamaatregelen. Het snelle ingrijpen van de vereniging na het opduiken van de lijst wordt door externe partijen gewaardeerd. (Bron: rtlnieuws.nl)</description>
 			<guid isPermaLink="false">https://www.rtlnieuws.nl/nieuws/nederland/artikel/5238525/studentenvereniging-vindicat-banga-lijst-vrouwen-schorsing?datalekt=ffaa02fa1b2e23b4088cd6de1d13b7e6fb9ed3ba99a3fe2fd91002cc626c1694</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ongepaste studentengrap bij Vindicat heeft serieuze gevolgen</title>
-			<link>https://nos.nl/op3/artikel/2134010-rector-vindicat-bangalijst-is-slechte-studentengrap-met-nare-gevolgen</link>
-			<description>Vindicat atque Polit | Overige dienstverlening | 22-09-2016 | Een zogenaamde &amp;#039;bangalijst&amp;#039; verspreid door leden van de Groningse studentenvereniging Vindicat, met daarop foto&amp;#039;s, namen en telefoonnummers van 22 vrouwelijke studenten, leidt tot ernstige privacy- en veiligheidszorgen. De lijst, bedoeld als grap, resulteert in ongewenste aandacht en intimidatie voor de genoemde studentes. De vereniging heeft inmiddels dertien mannelijke leden geschorst en neemt maatregelen om dergelijke incidenten in de toekomst te voorkomen. De betrokken vrouwen hebben gekozen tegen aangifte, prioriterend hun privacy boven publieke aandacht. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/op3/artikel/2134010-rector-vindicat-bangalijst-is-slechte-studentengrap-met-nare-gevolgen?datalekt=6892af559af9979c81e41488c21fd4b76749dfc5ef1c4a68c952ed168d89b28a</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
 		</item>
