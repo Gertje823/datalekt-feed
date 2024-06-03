@@ -1,5 +1,96 @@
 [
     {
+        "id": "https://www.dutchitchannel.nl/news/456591/belastingdienst-komt-vijf-jaar-onder-toezicht-van-autoriteit-persoonsgegevens-te-staan?datalekt=e574d5d307073711eebd5096815577f6c1b57d7f791a675ef5fd93b2450af1ef",
+        "url": "https://www.dutchitchannel.nl/news/456591/belastingdienst-komt-vijf-jaar-onder-toezicht-van-autoriteit-persoonsgegevens-te-staan",
+        "title": "Belastingdienst vijf jaar onder intensief toezicht door Autoriteit Persoonsgegevens",
+        "date_published": "2024-06-03T12:38:00Z",
+        "date_modified": "2024-06-03T12:38:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitchannel.nl"
+        },
+        "content_html": "",
+        "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 29-05-2024 | De Autoriteit Persoonsgegevens (AP) zal vijf jaar toezicht houden op de Belastingdienst vanwege bezorgdheid over het Risico Analyse Model dat gebruikt werd voor toezicht en fraudebestrijding. Er waren twijfels over de rechtmatigheid en juistheid van de opgeslagen data. Dit toezichtsarrangement beoogt een duurzame verbetering van de bescherming van persoonsgegevens. Jaarlijkse evaluaties zullen plaatsvinden om de vorderingen te beoordelen en verdere acties te bepalen. (Bron: dutchitchannel.nl)"
+    },
+    {
+        "id": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=656aa5cb04631a2bae55770ab92bfd869af60757e1d79c50eedcb9aea96a9279",
+        "url": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/",
+        "title": "Ransomware-aanval treft gemeente Groningen",
+        "date_published": "2024-06-03T12:30:00Z",
+        "date_modified": "2024-06-03T12:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "oogtv.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. (Bron: oogtv.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm?datalekt=9ec6643bd2f0ab5102b28b8187e8f9dab37cce0a3438bb336003b0f5f8f411ec",
+        "url": "https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm",
+        "title": "Ransomware-aanval op AddComm treft Dunea klanten",
+        "date_published": "2024-06-03T12:25:00Z",
+        "date_modified": "2024-06-03T12:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Dunea | Water, afval- en afvalwaterbeheer en sanering | 28-05-2024 | Drinkwaterbedrijf Dunea, leverancier van drinkwater aan bijna 1,4 miljoen mensen in West-Nederland, meldt een ransomware-aanval op hun dienstverlener AddComm. Deze aanval leidde tot diefstal van klantgegevens bij AddComm, die voor meerdere organisaties communicatiediensten verzorgt. Dunea heeft na de ontdekking de samenwerking met AddComm tijdelijk stopgezet en preventieve maatregelen getroffen, waaronder een melding bij de Autoriteit Persoonsgegevens. Er zijn geen gegevens van Dunea gelekt. AddComm heeft onderhandeld met de criminelen om de gestolen gegevens niet te publiceren. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.computable.nl/2024/05/27/aanval-op-addcomm-raakt-ook-nutsbedrijven-en-woningcooperaties/?datalekt=4fbe495363f8c97d6b70e6eca39b0257aadf33497f88ee465c38e3989110d70d",
+        "url": "https://www.computable.nl/2024/05/27/aanval-op-addcomm-raakt-ook-nutsbedrijven-en-woningcooperaties/",
+        "title": "Cyberaanval op Addcomm heeft gevolgen voor Ons Huis",
+        "date_published": "2024-06-03T12:19:00Z",
+        "date_modified": "2024-06-03T12:19:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "computable.nl"
+        },
+        "content_html": "",
+        "content_text": "Ons Huis | Verhuur van en handel in onroerend goed | 27-05-2024 | Ons Huis, als klant van Addcomm, ondervond hinder door een ransomware-aanval op deze dienstverlener in mei 2024. De aanval leidde tot het versleutelen van gegevens en verstoorde de communicatiediensten. Belangrijk voor Ons Huis en vergelijkbare instellingen was de noodzaak om bewoners te waarschuwen voor mogelijke phishing als gevolg van de gelekte gegevens. De aanval is momenteel onderwerp van onderzoek en Addcomm heeft de nodige autoriteiten ingelicht. (Bron: computable.nl)"
+    },
+    {
+        "id": "https://www.destentor.nl/deventer/verdriet-bij-eigenaar-deventer-restaurant-nadat-hackers-toeslaan-meeste-hebben-we-niet-bewaard~ac336517/?datalekt=1e8cbda031601b244a24ac7cd7626518607cbb4db40d67483f4605d45f6f4ed8",
+        "url": "https://www.destentor.nl/deventer/verdriet-bij-eigenaar-deventer-restaurant-nadat-hackers-toeslaan-meeste-hebben-we-niet-bewaard~ac336517/",
+        "title": "Deventer restaurant The Lemon Tree gehackt en Instagram-account gecompromitteerd",
+        "date_published": "2024-06-03T12:15:00Z",
+        "date_modified": "2024-06-03T12:15:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "destentor.nl"
+        },
+        "content_html": "",
+        "content_text": "The Lemon Tree | Logies-, maaltijd- en drankverstrekking | 26-05-2024 | Het Deventer restaurant The Lemon Tree werd getroffen door een hackaanval op hun populaire Instagram-account met 67.000 volgers, een belangrijk communicatiemiddel voor het restaurant. De hackers, die zich vanuit een buitenlands nummer meldden, eisten \u20ac500 voor het teruggeven van het account. Restaurant eigenaar Valentijn Bergers koos ervoor niet te betalen nadat hij advies had ingewonnen, ondanks het verlies van waardevolle foto&#039;s van kooksessies en activiteiten tijdens de coronapandemie. Bergers vermoedt dat de inbraak gebeurde door een nepmail. Er zijn geen klantgegevens gestolen. (Bron: destentor.nl)"
+    },
+    {
+        "id": "https://www.techzine.nl/blogs/security/547023/hackers-stelen-mogelijk-klantgegevens-abn-amro-en-andere-instanties-via-ransomware-aanval/?datalekt=65b8cd2899671c8c578d00595a9d368f2f172f2b9afe9652c77be7b85925e024",
+        "url": "https://www.techzine.nl/blogs/security/547023/hackers-stelen-mogelijk-klantgegevens-abn-amro-en-andere-instanties-via-ransomware-aanval/",
+        "title": "Eneco klantgegevens mogelijk gestolen bij Addcomm cyberaanval",
+        "date_published": "2024-06-03T12:10:00Z",
+        "date_modified": "2024-06-03T12:10:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "techzine.nl"
+        },
+        "content_html": "",
+        "content_text": "Eneco | Elektriciteit, aardgas, stoom en gekoelde lucht | 29-05-2024 | Bij een ransomware-aanval op Addcomm zijn mogelijk klantgegevens van Eneco en andere instanties gestolen. De aanval, die in mei plaatsvond, heeft geleid tot een ernstige verstoring van de diensten. Eneco heeft aangegeven dat de integriteit van klantgegevens mogelijk is aangetast en onderzoekt de omvang van de inbreuk. De aanval heeft bij Addcomm geleid tot data-encryptie en dataverlies. Er is nog geen specifieke informatie over de financi\u00eble schade of het exacte aantal getroffen klanten van Eneco. (Bron: techzine.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/binnenland/6314735/datalek-kadaster-bijna-4000-geheime-adressen-niet-goed-afgeschermd.html?datalekt=6022f5427f47488e37b3b9cdf266dd338d51a21cd5e42af0d29e1b1bb7c6bd3f",
+        "url": "https://www.nu.nl/binnenland/6314735/datalek-kadaster-bijna-4000-geheime-adressen-niet-goed-afgeschermd.html",
+        "title": "Datalek bij Kadaster onthuldt 4000 geheime adressen",
+        "date_published": "2024-06-03T12:05:00Z",
+        "date_modified": "2024-06-03T12:05:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Kadaster | Overheid: Zelfstandige bestuursorganen | 29-05-2024 | Tussen augustus 2020 en april 2024 waren bijna vierduizend geheime adressen zichtbaar door een fout in de systemen van het Kadaster, specifiek binnen MijnOverheid. Een deel van de gebruikers kon hierdoor adressen van mede-eigenaren van onroerend goed inzien, wat in bepaalde gevallen privacyproblemen veroorzaakte. Nadat het probleem in oktober 2023 voor het eerst gemeld werd, zijn de betreffende gegevens in april 2024 afgeschermd. Het Kadaster heeft de Autoriteit Persoonsgegevens ge\u00efnformeerd en de betrokkenen op de hoogte gesteld. (Bron: nu.nl)"
+    },
+    {
         "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=ad5c9685afb5c9791c8a3bd66585013c281c19c12f0bbd1f8b5beeda395665f2",
         "url": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek",
         "title": "Aanzienlijke hack bij ID&amp;amp;T leidt tot taakstraf en schadevergoeding",
@@ -286,7 +377,7 @@
         "content_text": "60 onbekende organisaties | Overige dienstverlening | 23-05-2024 | Ongeveer zestig organisaties, klanten van AddComm, zijn indirect getroffen door een recente ransomware-aanval op dit bedrijf. Zij staan nu voor de uitdaging om de mogelijke impact te beoordelen, aangezien het nog onduidelijk is welke specifieke gegevens zijn gestolen. Deze organisaties, vari\u00ebrend van gemeenten tot commerci\u00eble partijen, vrezen voor de veiligheid van persoonlijke en zakelijke informatie van hun burgers en klanten, en bereiden zich voor op mogelijke gevolgen van de datalek. (Bron: telegraaf.nl)"
     },
     {
-        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=a81d1eb8f4b8b6e912677041696b7d27fbc19689a3ec875963d71fb553d3b660",
+        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=8bc763f60c08319011d109122acaefc790c70a87511a87054a940d2461ddfa7e",
         "url": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt",
         "title": "Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties",
         "date_published": "2024-05-24T09:46:00Z",
@@ -296,7 +387,7 @@
             "name": "telegraaf.nl"
         },
         "content_html": "",
-        "content_text": "AddComm | Informatie en communicatie | 23-05-2024 | AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. (Bron: telegraaf.nl)"
+        "content_text": "AddComm | Informatie en communicatie | 23-05-2024 | AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 30 mei 2024 is bekend geworden dat AddComm tot het betalen van losgeld is overgegaan] (Bron: telegraaf.nl)"
     },
     {
         "id": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=ea25c1074654aca3bbbf4274b1baf906054d64b0d75df8297728504c222838ea",
@@ -1207,96 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Sociale Verzekeringsbank (SVB) | Overheid: Zelfstandige bestuursorganen | 26-03-2024 | De Sociale Verzekeringsbank (SVB) heeft in de loop van 2023 honderden datalekken ervaren (samen met UWV meer dan 1000). Volgens het ministerie van Sociale Zaken en Werkgelegenheid waren deze incidenten overwegend van beperkte omvang, zoals het verzenden van een brief naar een verkeerd adres. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023?datalekt=ce5b261326640650dab5dc5add4d4eea668194e24942d0f7f5799555eb2388fc",
-        "url": "https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023",
-        "title": "UWV kampt met honderden datalekken in 2023",
-        "date_published": "2024-03-26T16:30:00Z",
-        "date_modified": "2024-03-26T16:30:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 26-03-2024 | Het Uitkeringsinstituut Werknemersverzekeringen (UWV) heeft in 2023 honderden datalekken ervaren (samen met SVB meer dan 1000). Deze omvatten specifieke incidenten zoals onjuiste toegang tot persoonsgegevens, het per ongeluk versturen van gevoelige informatie, en onder andere fouten in de beveiliging van digitale systemen. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6306531/cyberaanval-legt-websites-van-meerdere-provincies-plat.html?datalekt=1a60cbad10f3fb6ce9c26072a8757012a74903dadfa93da9b31145c762bbae25",
-        "url": "https://www.nu.nl/tech/6306531/cyberaanval-legt-websites-van-meerdere-provincies-plat.html",
-        "title": "Website provincie Noord-Brabant slachtoffer van cyberaanval",
-        "date_published": "2024-03-25T14:31:00Z",
-        "date_modified": "2024-03-25T14:31:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Provincie Noord-Brabant | Overheid: Provincies | 25-03-2024 | Een intensieve DDoS-aanval verstoorde de online diensten van de provincie Noord-Brabant, waardoor de toegang tot cruciale informatie en diensten werd belemmerd. Deze aanval benadrukt het belang van voortdurende investeringen in cybersecurity en de ontwikkeling van robuuste systemen om dergelijke aanvallen in de toekomst te weerstaan. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6306531/cyberaanval-legt-websites-van-meerdere-provincies-plat.html?datalekt=ac0140e413f66d1266209747713bad0a7408c611468deca82b4d8f45d58c80b6",
-        "url": "https://www.nu.nl/tech/6306531/cyberaanval-legt-websites-van-meerdere-provincies-plat.html",
-        "title": "Cyberaanval legt digitale dienstverlening provincie Groningen plat",
-        "date_published": "2024-03-25T14:30:00Z",
-        "date_modified": "2024-03-25T14:30:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Provincie Groningen | Overheid: Provincies | 25-03-2024 | De provincie Groningen ondervond aanzienlijke hinder van een DDoS-aanval, die haar website tijdelijk onbereikbaar maakte. Deze cyberaanval toont de noodzaak voor versterkte online beveiliging en bewustwording rondom de methodieken van cybercriminelen. Groningen zet stappen naar verbeterde beveiligingsprotocollen. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6306531/cyberaanval-legt-websites-van-meerdere-provincies-plat.html?datalekt=fe250a83086ad01427fe4e5fdfc79611a6e96f228d7bdb1c68e05917ec3ee671",
-        "url": "https://www.nu.nl/tech/6306531/cyberaanval-legt-websites-van-meerdere-provincies-plat.html",
-        "title": "Provincie Noord-Holland getroffen door DDoS-aanval",
-        "date_published": "2024-03-25T14:29:00Z",
-        "date_modified": "2024-03-25T14:29:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Provincie Noord-Holland | Overheid: Provincies | 25-03-2024 | De website van de provincie Noord-Holland werd onbereikbaar door een gerichte DDoS-aanval, waarbij een overvloed aan verkeer de toegang verstoorde. De aard van de aanval, gericht op het overbelasten van de server, onderstreept de kwetsbaarheid van essenti\u00eble digitale diensten voor dergelijke cyberdreigingen. De provincie werkt aan herstel en preventieve maatregelen. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.distrifood.nl/175795/privacywaakhond-berispt-nettorama-na-tonen-fotos-met-winkeldieven?datalekt=1434bfcbda2faa8a70de3972adf9ac61fb5526fd6e23199892999ecc86aa3350",
-        "url": "https://www.distrifood.nl/175795/privacywaakhond-berispt-nettorama-na-tonen-fotos-met-winkeldieven",
-        "title": "Nettorama Utrecht berispt voor schenden privacy door tonen foto&#039;s winkeldieven",
-        "date_published": "2024-03-24T17:45:00Z",
-        "date_modified": "2024-03-24T17:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "distrifood.nl"
-        },
-        "content_html": "",
-        "content_text": "Nettorama | Groot- en detailhandel | 22-03-2024 | Nettorama Utrecht heeft kritiek gekregen van de Autoriteit Persoonsgegevens voor het openbaar tonen van foto&#039;s van vermoedelijke winkeldieven, wat een inbreuk maakt op de AVG. Het beleid, waarbij foto&#039;s vanuit bewakingsbeelden in de winkel worden getoond, wordt gezien als een premature veroordeling. Maatregelen tegen winkeldiefstal, zoals tassencontroles en het blokkeren van lijnkassa&#039;s, worden ook toegepast. De Autoriteit benadrukt dat het delen van dergelijke foto&#039;s met personeel wel is toegestaan, mits deze niet zichtbaar zijn voor klanten. (Bron: distrifood.nl)"
-    },
-    {
-        "id": "https://www.rtvutrecht.nl/nieuws/3710332/leden-utrechtsch-studenten-corps-geschorst-na-delen-bangalijst-weerzinwekkende-actie?datalekt=697ff5bc0dda04588fba2db6d35fcbe68c8110dcf42880232b0916dff6fefc50",
-        "url": "https://www.rtvutrecht.nl/nieuws/3710332/leden-utrechtsch-studenten-corps-geschorst-na-delen-bangalijst-weerzinwekkende-actie",
-        "title": "Utrechts Studenten Corps schorst leden na delen kwetsende PowerPoint",
-        "date_published": "2024-03-23T11:52:00Z",
-        "date_modified": "2024-03-23T11:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtvutrecht.nl"
-        },
-        "content_html": "",
-        "content_text": "Utrechtsch Studenten Corps (USC) | Overige dienstverlening | 15-03-2024 | Leden van het Utrechtsch Studenten Corps (USC) zijn geschorst na het verspreiden van een PowerPoint met beledigende inhoud over studenten van de UVSV. De presentatie, genaamd &#039;Grietenpresentatie jaartje 23&#039;, beoordeelde zo&#039;n dertig vrouwen op hun uiterlijk en seksuele prestaties, inclusief foto&#039;s en persoonlijke gegevens. Het USC heeft de betrokken leden geschorst en benadrukt de noodzaak van cultuurverbetering en meer aandacht voor seksueel welzijn. De Utrechtse politiek en universiteiten reageren geschokt en benadrukken de ernst van de privacy schending en onveiligheid die deze actie met zich meebrengt. (Bron: rtvutrecht.nl)"
-    },
-    {
-        "id": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5238525/studentenvereniging-vindicat-banga-lijst-vrouwen-schorsing?datalekt=ffaa02fa1b2e23b4088cd6de1d13b7e6fb9ed3ba99a3fe2fd91002cc626c1694",
-        "url": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5238525/studentenvereniging-vindicat-banga-lijst-vrouwen-schorsing",
-        "title": "Vindicat schorst lid wegens ongepaste lijst over vrouwelijke studenten",
-        "date_published": "2024-03-23T11:50:00Z",
-        "date_modified": "2024-03-23T11:50:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtlnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Vindicat atque Polit | Overige dienstverlening | 26-06-2021 | Bij studentenvereniging Vindicat in Groningen is een ongepaste lijst met namen en opmerkingen over circa 100 vrouwelijke leden opgedoken. De lijst verscheen in een groepsapp en leidde tot de onbepaalde schorsing van het verantwoordelijke lid. Dit incident is niet het eerste in zijn soort bij Vindicat, dat eerder negatief in het nieuws kwam, onder meer vanwege het negeren van coronamaatregelen. Het snelle ingrijpen van de vereniging na het opduiken van de lijst wordt door externe partijen gewaardeerd. (Bron: rtlnieuws.nl)"
     }
 ]
