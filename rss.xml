@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 03 Jun 2024 12:31:31 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 05 Jun 2024 12:30:43 +0000</lastBuildDate>
+		<item>
+			<title>Bol stopt samenwerking met AddComm na mogelijk datalek tijdens ransomwareaanval</title>
+			<link>https://tweakers.net/nieuws/222756/bol-bevestigt-dat-klantdata-mogelijk-gestolen-is-bij-addcomm-aanval.html</link>
+			<description>Bol.com | Groot- en detailhandel | 04-06-2024 | Bol.com heeft bevestigd dat door een ransomwareaanval op AddComm mogelijk klantgegevens zijn buitgemaakt. Deze gegevens omvatten naam, adres, klant- en bestelnummers, alsook details over de bestellingen. Hoewel bankgegevens niet zijn getroffen, heeft Bol de samenwerking met AddComm gestaakt tot de veiligheid van de gegevens gegarandeerd kan worden. AddComm heeft, onder leiding van cybersecurityexperts, onderhandeld met de aanvallers om de gestolen data niet te publiceren. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/222756/bol-bevestigt-dat-klantdata-mogelijk-gestolen-is-bij-addcomm-aanval.html?datalekt=2b7993be8942d99582abd9b681a7a9c4f2f2d37632a951d3cf036ebe6c97417b</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Belastingdienst vijf jaar onder intensief toezicht door Autoriteit Persoonsgegevens</title>
 			<link>https://www.dutchitchannel.nl/news/456591/belastingdienst-komt-vijf-jaar-onder-toezicht-van-autoriteit-persoonsgegevens-te-staan</link>
@@ -798,14 +806,6 @@
 			<description>Fontys Hogeschool | Onderwijs | 26-03-2024 | Bij Fontys Hogeschool konden studenten en medewerkers gevoelige gegevens inzien door een datalek in OneDrive, waarbij documenten zoals tentamens, inloggegevens, en contracten toegankelijk waren. Het lek ontstond doordat ten minste één medewerker documenten deelde met de hele organisatie, wat niet de bedoeling was. De exacte omvang van het lek is nog onbekend. Fontys onderzoekt de zaak en voert campagnes voor informatieveiligheid uit. (Bron: omroepbrabant.nl)</description>
 			<guid isPermaLink="false">https://www.omroepbrabant.nl/nieuws/4441152/datalek-bij-fontys-studenten-konden-gevoelige-bestanden-inzien?datalekt=3493cfa9b5da69dce40b2227ec5761b85368dd2af8efe6d4306ea4e65405c168</guid>
 			<category>Onderwijs </category>
-			<pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>SVB registreert talrijke datalekken tot augustus 2023</title>
-			<link>https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023</link>
-			<description>Sociale Verzekeringsbank (SVB) | Overheid: Zelfstandige bestuursorganen | 26-03-2024 | De Sociale Verzekeringsbank (SVB) heeft in de loop van 2023 honderden datalekken ervaren (samen met UWV meer dan 1000). Volgens het ministerie van Sociale Zaken en Werkgelegenheid waren deze incidenten overwegend van beperkte omvang, zoals het verzenden van een brief naar een verkeerd adres. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/835468/UWV+en+SVB+hadden+duizend+datalekken+in+eerste+acht+maanden+2023?datalekt=804d8f5b0709b88c0ea72d3a684277f954a3c58cf15de139a8dddb5b1aca0030</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
