@@ -1,5 +1,83 @@
 [
     {
+        "id": "https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco?datalekt=86d43a9d472a8a125699969ab41a4e210b987230751e1a5bf9db4a4d659870db",
+        "url": "https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco",
+        "title": "Onderzoek naar datalek in Cisco Webex met grote gevolgen voor Nederlandse overheid",
+        "date_published": "2024-06-07T09:29:00Z",
+        "date_modified": "2024-06-07T09:29:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Algemene Zaken | Overheid: Ministeries | 05-06-2024 | De Nederlandse overheid onderzoekt een ernstig datalek veroorzaakt door kwetsbaarheden in Cisco&#039;s Webex-platform. Hierdoor waren metadata van overheidsvergaderingen toegankelijk voor onbevoegden. Dit incident, dat eerst via Duitse media bekend werd gemaakt, heeft niet alleen geleid tot kritiek op Cisco wegens gebrekkige communicatie, maar ook tot bezorgdheid over de veiligheid van vertrouwelijke overheidscommunicatie. De overheid werkt samen met Duitse autoriteiten aan verder onderzoek en heeft Cisco om opheldering gevraagd. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-ambitious-people-group-verwijderverzoeken?datalekt=3adc39fe97c9f934305e0bc8be7139354453deef67e12047d6af596a91891b09",
+        "url": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-ambitious-people-group-verwijderverzoeken",
+        "title": "Boete voor Ambitious People Group vanwege niet tijdig wissen persoonsgegevens",
+        "date_published": "2024-06-07T09:28:00Z",
+        "date_modified": "2024-06-07T09:28:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "autoriteitpersoonsgegevens.nl"
+        },
+        "content_html": "",
+        "content_text": "Ambitious People Group (APG) | Verhuur van roerende goederen en overige zakelijke dienstverlening | 05-06-2024 | Ambitious People Group B.V. heeft een boete van \u20ac6.000 opgelegd gekregen door de Autoriteit Persoonsgegevens voor het overtreden van de Algemene Verordening Gegevensbescherming (AVG). De overtreding betrof het niet tijdig reageren op verzoeken tot gegevenswissing door drie individuen, wat strijdig is met het recht op &#039;vergetelheid&#039; onder de AVG. Na vaststelling van de overtredingen door de AP, heeft het bedrijf de persoonsgegevens verwijderd en hun interne procedures aangepast om herhaling te voorkomen. (Bron: autoriteitpersoonsgegevens.nl)"
+    },
+    {
+        "id": "https://www.saxnow.nl/nieuws/2024/juni/inloggegevens-van-288-saxion-accounts-bleken-gestolen-maar-saxion-heeft-geen-risico-gelopen?datalekt=e54b936ceaff81f3ab32f7fbe6b12a029e40cdd1fa24be3502c0c26e8a0639b6",
+        "url": "https://www.saxnow.nl/nieuws/2024/juni/inloggegevens-van-288-saxion-accounts-bleken-gestolen-maar-saxion-heeft-geen-risico-gelopen",
+        "title": "Gelekte inloggegevens van 288 Saxion-accounts zonder verdere risico&#039;s",
+        "date_published": "2024-06-07T09:27:00Z",
+        "date_modified": "2024-06-07T09:27:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "saxnow.nl"
+        },
+        "content_html": "",
+        "content_text": "Hogeschool Saxion | Onderwijs | 05-06-2024 | Bij Saxion zijn inloggegevens van 288 accounts gelekt. Deze gegevens waren onbedoeld toegankelijk, maar er is door snelle actie van de instelling geen verdere schade ontstaan. De betrokken accounts waren voornamelijk van oud-studenten en enkele medewerkers. Saxion heeft direct maatregelen getroffen zoals het resetten van wachtwoorden en het versterken van de beveiliging met multifactorauthenticatie, waardoor de gegevens veilig bleven en geen risico voor misbruik bestond. (Bron: saxnow.nl)"
+    },
+    {
+        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=5b8c12f090afd0d2c7826893580e403077f132fdd1fbcc4014139b989ce1aff1",
+        "url": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval",
+        "title": "Gegevens van burgers Aa en Hunze gestolen na hack bij AddComm",
+        "date_published": "2024-06-07T09:26:00Z",
+        "date_modified": "2024-06-07T09:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nd.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Aa en Hunze | Overheid: Gemeenten | 04-06-2024 | Door een digitale aanval op AddComm zijn ook persoonsgegevens van inwoners van de gemeenten Aa en Hunze buitgemaakt. Inwoners moeten oppassen voor mogelijke frauduleuze berichten als gevolg van deze diefstal. (Bron: nd.nl)"
+    },
+    {
+        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=27493154f830db09ea67a52b45b462ff0afbfcbadaa30579d2cf8dd4f55e5ee5",
+        "url": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval",
+        "title": "Cyberinbraak bij AddComm leidt tot gegevensdiefstal in Tynaarlo",
+        "date_published": "2024-06-07T09:25:00Z",
+        "date_modified": "2024-06-07T09:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nd.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Tynaarlo | Overheid: Gemeenten | 04-06-2024 | In Tynaarlo zijn door een inbraak in de systemen van AddComm gevoelige persoonsgegevens ontvreemd. Er is een risico op identiteitsfraude voor de betrokken inwoners, die geadviseerd worden alert te zijn op verdachte communicatie. (Bron: nd.nl)"
+    },
+    {
+        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=7f02d8a5ccc9008be7baa334e6a461b282f1ddd7d2434f3ee27671e66ab71dcb",
+        "url": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval",
+        "title": "Datadiefstal treft inwoners van Assen na cyberaanval op AddComm",
+        "date_published": "2024-06-07T09:24:00Z",
+        "date_modified": "2024-06-07T09:24:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nd.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Assen | Overheid: Gemeenten | 04-06-2024 | Na een cyberaanval op AddComm zijn persoonlijke gegevens van inwoners van Assen gestolen, waaronder namen, adressen en mogelijk bankgegevens. De getroffen inwoners zijn gewaarschuwd voor het risico op phishing en fraude. (Bron: nd.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/222756/bol-bevestigt-dat-klantdata-mogelijk-gestolen-is-bij-addcomm-aanval.html?datalekt=2b7993be8942d99582abd9b681a7a9c4f2f2d37632a951d3cf036ebe6c97417b",
         "url": "https://tweakers.net/nieuws/222756/bol-bevestigt-dat-klantdata-mogelijk-gestolen-is-bij-addcomm-aanval.html",
         "title": "Bol stopt samenwerking met AddComm na mogelijk datalek tijdens ransomwareaanval",
@@ -1220,83 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Fox-IT | Informatie en communicatie | 11-04-2024 | Een significant beveiligingslek bij Carrier Global heeft ervoor gezorgd dat afmeldcodes van alarmsystemen, waaronder die van Fox-IT, online toegankelijk waren. Fox-IT, bekend om het bewaren van staatsgeheimen, behoorde tot de minstens 26.000 Nederlandse systemen waarvan de beveiliging op het spel stond. Dit incident legt nadruk op het belang van strenge cybersecurity maatregelen binnen organisaties die met gevoelige informatie werken. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html?datalekt=dc3602bb74c4c9a9fee3d2c2e62691bb29077895f862f415578cf8f85ccc70ed",
-        "url": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html",
-        "title": "Groot beveiligingslek treft duizenden Nederlandse alarmsystemen",
-        "date_published": "2024-04-11T11:24:00Z",
-        "date_modified": "2024-04-11T11:24:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende aantal onbekende organisaties | Overige dienstverlening | 11-04-2024 | Een beveiligingslek bij het Amerikaanse bedrijf Carrier Global heeft ervoor gezorgd dat afmeldcodes van minstens 26.000 Nederlandse alarmsystemen meer dan een jaar online toegankelijk waren. Deze codes, cruciaal voor het uitschakelen van alarms bij onjuiste activatie, waren door een fout in een app van Carrier Global, gebruikt door alarmcentrale SMC, onbeschermd op internet beland. Ondanks waarschuwingen door een klokkenluider duurde het ruim een jaar voordat het lek werd gedicht, waarbij zowel SMC als Securitas, een ander getroffen bedrijf, pas actie ondernamen na externe aandacht. Het incident benadrukt ernstige zorgen over cybersecurity binnen de sector. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=918bc2321787e85f793178444b6156c71092efae5024722c787121232117be0b",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "EAS Change Systems getroffen door ransomware aanval van de criminele organisatie Qilin",
-        "date_published": "2024-04-08T15:27:00Z",
-        "date_modified": "2024-04-08T15:27:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "EAS Change Systems | Industrie | 06-04-2024 | De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij EAS Change Systems heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.oogtv.nl/2024/03/na-provincie-ook-gemeente-groningen-doelwit-van-cyberaanval/?datalekt=e74263459da4538b177d5c330f30f7d151fa46d5d7d3b5c05840d5de64460efb",
-        "url": "https://www.oogtv.nl/2024/03/na-provincie-ook-gemeente-groningen-doelwit-van-cyberaanval/",
-        "title": "Gemeente Groningen getroffen door DDoS-aanval",
-        "date_published": "2024-03-29T14:15:00Z",
-        "date_modified": "2024-03-29T14:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "oogtv.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Groningen | Overheid: Gemeenten | 27-03-2024 | De gemeente Groningen werd kort na een aanval op de provincie zelf slachtoffer van een DDoS-aanval, waarbij de website tijdelijk onbereikbaar was door een overvloed aan verzoeken via VPN-servers uit Nederland en Roemeni\u00eb. De aanval werd gestopt door de betreffende IP-adressen te blokkeren en er zijn plannen om de websitebeveiliging te versterken met een extra firewall. De daders zijn onbekend, in tegenstelling tot de aanval op de provincie die werd opge\u00ebist door een pro-Russische groep. Er is geen informatie over financi\u00eble schade of het aantal getroffen gebruikers gedeeld. (Bron: oogtv.nl)"
-    },
-    {
-        "id": "https://nos.nl/regio/limburg/artikel/503322-datalek-zuyderland-persoonsgegevens-medewerkers-op-straat?datalekt=e59bcbf253c6ab5a7659fcd2e45557293015f55fd6d9391c3cce1fdfa5852c2b",
-        "url": "https://nos.nl/regio/limburg/artikel/503322-datalek-zuyderland-persoonsgegevens-medewerkers-op-straat",
-        "title": "Omvangrijk datalek bij Zuyderland treft persoonsgegevens van medewerkers",
-        "date_published": "2024-03-29T14:10:00Z",
-        "date_modified": "2024-03-29T14:10:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Zuyderland | Gezondheids- en welzijnszorg | 27-03-2024 | Persoonsgegevens van (oud-)medewerkers van Zuyderland Thuishulp en Zuyderland Thuiszorg zijn blootgesteld door een datalek, veroorzaakt door een fout bij een leverancier. Gedurende een jaar konden onbevoegden gevoelige informatie zoals BSN-nummers, bankgegevens en contactinformatie inzien. Het incident, dat geen cli\u00ebntgegevens betreft, heeft geleid tot excuses van Zuyderland en maatregelen om herhaling te voorkomen. Getroffen medewerkers worden aangeraden hun wachtwoorden te wijzigen en waakzaam te zijn voor oplichting. De exacte omvang van het lek is nog onbekend. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://www.rtvoost.nl/nieuws/2326483/website-provincie-overijssel-doelwit-van-ddos-aanval?datalekt=08cd70a6b77932aca9372c6fb87d1ee08b5864373b0b93cbf41575fb6b4f0359",
-        "url": "https://www.rtvoost.nl/nieuws/2326483/website-provincie-overijssel-doelwit-van-ddos-aanval",
-        "title": "Website provincie Overijssel getroffen door DDoS-aanval",
-        "date_published": "2024-03-27T08:46:00Z",
-        "date_modified": "2024-03-27T08:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtvoost.nl"
-        },
-        "content_html": "",
-        "content_text": "Provincie Overijssel | Overheid: Provincies | 25-03-2024 | De website van de provincie Overijssel was korte tijd moeilijk bereikbaar door een DDoS-aanval. De aanval, waarvan de daders onbekend zijn, beperkte zich tot deze site, terwijl andere provinciale websites volledig onbereikbaar waren. Er is geen toegang verkregen tot de systemen van de provincie. Er wordt gespeculeerd dat pro-Russische hackers, bekend van aanvallen op Europese overheidswebsites, mogelijk achter deze actie zitten. De aanval maakt deel uit van een groter patroon van digitale verstoringen gericht tegen Nederlandse infrastructuur. (Bron: rtvoost.nl)"
-    },
-    {
-        "id": "https://www.omroepbrabant.nl/nieuws/4441152/datalek-bij-fontys-studenten-konden-gevoelige-bestanden-inzien?datalekt=3493cfa9b5da69dce40b2227ec5761b85368dd2af8efe6d4306ea4e65405c168",
-        "url": "https://www.omroepbrabant.nl/nieuws/4441152/datalek-bij-fontys-studenten-konden-gevoelige-bestanden-inzien",
-        "title": "Datalek bij Fontys Hogeschool door onjuist gedeelde bestanden",
-        "date_published": "2024-03-26T20:55:00Z",
-        "date_modified": "2024-03-26T20:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepbrabant.nl"
-        },
-        "content_html": "",
-        "content_text": "Fontys Hogeschool | Onderwijs | 26-03-2024 | Bij Fontys Hogeschool konden studenten en medewerkers gevoelige gegevens inzien door een datalek in OneDrive, waarbij documenten zoals tentamens, inloggegevens, en contracten toegankelijk waren. Het lek ontstond doordat ten minste \u00e9\u00e9n medewerker documenten deelde met de hele organisatie, wat niet de bedoeling was. De exacte omvang van het lek is nog onbekend. Fontys onderzoekt de zaak en voert campagnes voor informatieveiligheid uit. (Bron: omroepbrabant.nl)"
     }
 ]
