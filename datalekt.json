@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=492843650034509dde6b496e634f7b37310793a91829b171ae29aebc8c67d5e7",
+        "url": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html",
+        "title": "FvD weert DDoS-aanval af op dag van Europese verkiezingen",
+        "date_published": "2024-06-08T14:42:00Z",
+        "date_modified": "2024-06-08T14:42:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Forum voor Democratie (FvD) | Overige dienstverlening | 06-06-2024 | Forum voor Democratie (FvD) werd doelwit van een DDoS-aanval door de Russische HackNet groep, waardoor hun website slecht bereikbaar was. Het team van FvD werkte intensief om de aanval te neutraliseren, wat uiteindelijk lukte. De aanval was deel van een poging om de politieke stabiliteit te verstoren. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=8d264b88a505ba1e6faa2058331f489f239bffae547402bbf76cd13b6fa4c659",
+        "url": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html",
+        "title": "CDA-webpagina&#039;s platgelegd door DDoS-aanvallen op verkiezingsdag",
+        "date_published": "2024-06-08T14:41:00Z",
+        "date_modified": "2024-06-08T14:41:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Christen-Democratisch App\u00e8l (CDA) | Overige dienstverlening | 06-06-2024 | Tijdens de Europese verkiezingen ondervond het Christen-Democratisch App\u00e8l (CDA) ernstige toegangsproblemen door een DDoS-aanval, geclaimd door HackNet. De website ontving miljoenen verzoeken, wat leidde tot tijdelijke onbereikbaarheid. Uiteindelijk kon het CDA de aanval weerstaan en normaliseerde de situatie. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=4e64b7044589dbdcde28ee9554446a5100bfe91c5f23c51f6ff11f4e989f6187",
+        "url": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html",
+        "title": "PVV-website onderuit door Russische DDoS-aanval tijdens verkiezingen",
+        "date_published": "2024-06-08T14:40:00Z",
+        "date_modified": "2024-06-08T14:40:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Partij voor de Vrijheid (PVV) | Overige dienstverlening | 06-06-2024 | De website van de Partij voor de Vrijheid (PVV) werd op de verkiezingsdag getroffen door een DDoS-aanval, uitgevoerd door de Russische groep HackNet. Deze aanval zorgde ervoor dat de website tijdelijk moeilijk bereikbaar was, als deel van een bredere campagne om onrust te stoken. De aanval werd succesvol afgeweerd en de site is weer operationeel. (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco?datalekt=86d43a9d472a8a125699969ab41a4e210b987230751e1a5bf9db4a4d659870db",
         "url": "https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco",
         "title": "Onderzoek naar datalek in Cisco Webex met grote gevolgen voor Nederlandse overheid",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Nexperia | Industrie | 12-04-2024 | De Nijmeegse chipfabrikant Nexperia is getroffen door een cyberaanval door de groep Dunghill, die dreigt honderden gigabytes aan bedrijfsgevoelige informatie te publiceren tenzij er losgeld betaald wordt. Deze informatie omvat onder andere handelsgeheimen en klantgegevens van grote bedrijven als SpaceX, Apple en Huawei. Nexperia, een sleutelspeler in de wereldwijde chipproductie, heeft de aanval bevestigd en werkt samen met cybersecurity-experts en autoriteiten om de schade te beperken. (Bron: rtl.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html?datalekt=3721a3c4665a5355dd4f5c8e226e07eb76926fac9b605a086c0d613baf86765f",
-        "url": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html",
-        "title": "SMC Nederland neemt maatregelen na blootstelling door lek",
-        "date_published": "2024-04-11T11:27:00Z",
-        "date_modified": "2024-04-11T11:27:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "SMC Nederland | Industrie | 11-04-2024 | SMC Nederland kwam in de spotlight na een lek in de software van Carrier Global, waardoor afmeldcodes van duizenden alarmsystemen openbaar werden. Het bedrijf ondernam actie door alle afmeldcodes te resetten en extra authenticatiestappen in te voeren als reactie op het incident. Dit onderstreept het belang van snelle respons en transparantie bij cybersecurity incidenten binnen de alarmcentralebranche. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html?datalekt=9c9d52cae2c7619298df051725b0d8dd199820cf3ef88453397bc9d8b8678084",
-        "url": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html",
-        "title": "Securitas reageert op beveiligingslek in gebruikte systemen",
-        "date_published": "2024-04-11T11:26:00Z",
-        "date_modified": "2024-04-11T11:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Securitas | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 11-04-2024 | Securitas, een beveiligingsbedrijf, werd getroffen door een lek in systemen van Carrier Global, waarbij persoonsgegevens van klanten onbedoeld online beschikbaar kwamen. Het bedrijf sloot snel het kwetsbare systeem nadat het lek bekend werd. Securitas benadrukt de ernst waarmee zij de veiligheid van klantgegevens behandelen en heeft de nodige stappen ondernomen om herhaling te voorkomen. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html?datalekt=1d9f986c332bf0327f77245f216441fa64f8c1a9660084c81588f9735be4ebe2",
-        "url": "https://www.nu.nl/tech/6308582/duizenden-codes-van-alarmsystemen-waren-jaar-lang-online-te-vinden-door-lek.html",
-        "title": "Beveiligingslek treft Fox-IT, bewaker van staatsgeheimen",
-        "date_published": "2024-04-11T11:25:00Z",
-        "date_modified": "2024-04-11T11:25:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Fox-IT | Informatie en communicatie | 11-04-2024 | Een significant beveiligingslek bij Carrier Global heeft ervoor gezorgd dat afmeldcodes van alarmsystemen, waaronder die van Fox-IT, online toegankelijk waren. Fox-IT, bekend om het bewaren van staatsgeheimen, behoorde tot de minstens 26.000 Nederlandse systemen waarvan de beveiliging op het spel stond. Dit incident legt nadruk op het belang van strenge cybersecurity maatregelen binnen organisaties die met gevoelige informatie werken. (Bron: nu.nl)"
     }
 ]
