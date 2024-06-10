@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 09 Jun 2024 12:29:05 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 10 Jun 2024 12:31:38 +0000</lastBuildDate>
+		<item>
+			<title>Bringly’s website gehackt; incident zonder gevolgen voor bedrijfsactiviteiten</title>
+			<link>https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt</link>
+			<description>Bringly | Vervoer en opslag | 08-06-2024 | De website van het verzendplatform Bringly is recentelijk gehackt, waarbij de aanval resulteerde in het wissen van bijna alle deelpagina&amp;#039;s en het plaatsen van een ongepaste advertentie. De hack lijkt echter geen invloed te hebben op de operationele activiteiten van het bedrijf, aangezien de website niet direct verbonden was met de kernsystemen of de operationele software van Bringly. Het probleem lijkt te zijn ontstaan bij het externe marketingbureau dat verantwoordelijk was voor de hosting van de site. Er zijn geen directe financiële schades of gegevensdiefstal gemeld als gevolg van deze inbraak. (Bron: emerce.nl)</description>
+			<guid isPermaLink="false">https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt?datalekt=dc7efc1c8c8b12d95480426a34e462a3c4aa7b34a44b02cdb6c6678aa5aadc6d</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>FvD weert DDoS-aanval af op dag van Europese verkiezingen</title>
 			<link>https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e19a49355c395e5c8435513fdcb23edee0cbfc3f58e8397a8c79e3435fb13d03</guid>
 			<category>Overheid: Provincies </category>
 			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cybercriminelen bedreigen Nexperia met lekken van gevoelige informatie</title>
-			<link>https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web</link>
-			<description>Nexperia | Industrie | 12-04-2024 | De Nijmeegse chipfabrikant Nexperia is getroffen door een cyberaanval door de groep Dunghill, die dreigt honderden gigabytes aan bedrijfsgevoelige informatie te publiceren tenzij er losgeld betaald wordt. Deze informatie omvat onder andere handelsgeheimen en klantgegevens van grote bedrijven als SpaceX, Apple en Huawei. Nexperia, een sleutelspeler in de wereldwijde chipproductie, heeft de aanval bevestigd en werkt samen met cybersecurity-experts en autoriteiten om de schade te beperken. (Bron: rtl.nl)</description>
-			<guid isPermaLink="false">https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web?datalekt=70fede1716528f392651cef23977bcf910601afd8ca6456381c424beea81b6cf</guid>
-			<category>Industrie </category>
-			<pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

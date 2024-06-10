@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt?datalekt=dc7efc1c8c8b12d95480426a34e462a3c4aa7b34a44b02cdb6c6678aa5aadc6d",
+        "url": "https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt",
+        "title": "Bringly\u2019s website gehackt; incident zonder gevolgen voor bedrijfsactiviteiten",
+        "date_published": "2024-06-10T10:12:00Z",
+        "date_modified": "2024-06-10T10:12:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "emerce.nl"
+        },
+        "content_html": "",
+        "content_text": "Bringly | Vervoer en opslag | 08-06-2024 | De website van het verzendplatform Bringly is recentelijk gehackt, waarbij de aanval resulteerde in het wissen van bijna alle deelpagina&#039;s en het plaatsen van een ongepaste advertentie. De hack lijkt echter geen invloed te hebben op de operationele activiteiten van het bedrijf, aangezien de website niet direct verbonden was met de kernsystemen of de operationele software van Bringly. Het probleem lijkt te zijn ontstaan bij het externe marketingbureau dat verantwoordelijk was voor de hosting van de site. Er zijn geen directe financi\u00eble schades of gegevensdiefstal gemeld als gevolg van deze inbraak. (Bron: emerce.nl)"
+    },
+    {
         "id": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=492843650034509dde6b496e634f7b37310793a91829b171ae29aebc8c67d5e7",
         "url": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html",
         "title": "FvD weert DDoS-aanval af op dag van Europese verkiezingen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&#039;s en paspoortkopie\u00ebn toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en de beveiliging van het systeem verbeterd. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. (Bron: binnenlandsbestuur.nl)"
-    },
-    {
-        "id": "https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web?datalekt=70fede1716528f392651cef23977bcf910601afd8ca6456381c424beea81b6cf",
-        "url": "https://www.rtl.nl/tech/artikel/5444863/nexperia-gehackt-ransomware-cybercriminelen-dark-web",
-        "title": "Cybercriminelen bedreigen Nexperia met lekken van gevoelige informatie",
-        "date_published": "2024-04-12T15:56:00Z",
-        "date_modified": "2024-04-12T15:56:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtl.nl"
-        },
-        "content_html": "",
-        "content_text": "Nexperia | Industrie | 12-04-2024 | De Nijmeegse chipfabrikant Nexperia is getroffen door een cyberaanval door de groep Dunghill, die dreigt honderden gigabytes aan bedrijfsgevoelige informatie te publiceren tenzij er losgeld betaald wordt. Deze informatie omvat onder andere handelsgeheimen en klantgegevens van grote bedrijven als SpaceX, Apple en Huawei. Nexperia, een sleutelspeler in de wereldwijde chipproductie, heeft de aanval bevestigd en werkt samen met cybersecurity-experts en autoriteiten om de schade te beperken. (Bron: rtl.nl)"
     }
 ]
