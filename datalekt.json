@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=809327c68698ed5279cdb0cb1d167035f5329ed557f4f6852aba701199723c54",
+        "url": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/",
+        "title": "Ransomware-aanval treft gemeente Groningen",
+        "date_published": "2024-06-03T12:30:00Z",
+        "date_modified": "2024-06-11T18:24:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "oogtv.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. [Update: d.d. 11 juni 2024 is bekend geworden dat het om 100 burgers gaat.] (Bron: oogtv.nl)"
+    },
+    {
         "id": "https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt?datalekt=dc7efc1c8c8b12d95480426a34e462a3c4aa7b34a44b02cdb6c6678aa5aadc6d",
         "url": "https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt",
         "title": "Bringly\u2019s website gehackt; incident zonder gevolgen voor bedrijfsactiviteiten",
@@ -156,19 +169,6 @@
         "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 29-05-2024 | De Autoriteit Persoonsgegevens (AP) zal vijf jaar toezicht houden op de Belastingdienst vanwege bezorgdheid over het Risico Analyse Model dat gebruikt werd voor toezicht en fraudebestrijding. Er waren twijfels over de rechtmatigheid en juistheid van de opgeslagen data. Dit toezichtsarrangement beoogt een duurzame verbetering van de bescherming van persoonsgegevens. Jaarlijkse evaluaties zullen plaatsvinden om de vorderingen te beoordelen en verdere acties te bepalen. (Bron: dutchitchannel.nl)"
     },
     {
-        "id": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=656aa5cb04631a2bae55770ab92bfd869af60757e1d79c50eedcb9aea96a9279",
-        "url": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/",
-        "title": "Ransomware-aanval treft gemeente Groningen",
-        "date_published": "2024-06-03T12:30:00Z",
-        "date_modified": "2024-06-03T12:30:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "oogtv.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. (Bron: oogtv.nl)"
-    },
-    {
         "id": "https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm?datalekt=9ec6643bd2f0ab5102b28b8187e8f9dab37cce0a3438bb336003b0f5f8f411ec",
         "url": "https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm",
         "title": "Ransomware-aanval op AddComm treft Dunea klanten",
@@ -234,7 +234,7 @@
         "content_text": "Kadaster | Overheid: Zelfstandige bestuursorganen | 29-05-2024 | Tussen augustus 2020 en april 2024 waren bijna vierduizend geheime adressen zichtbaar door een fout in de systemen van het Kadaster, specifiek binnen MijnOverheid. Een deel van de gebruikers kon hierdoor adressen van mede-eigenaren van onroerend goed inzien, wat in bepaalde gevallen privacyproblemen veroorzaakte. Nadat het probleem in oktober 2023 voor het eerst gemeld werd, zijn de betreffende gegevens in april 2024 afgeschermd. Het Kadaster heeft de Autoriteit Persoonsgegevens ge\u00efnformeerd en de betrokkenen op de hoogte gesteld. (Bron: nu.nl)"
     },
     {
-        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=ad5c9685afb5c9791c8a3bd66585013c281c19c12f0bbd1f8b5beeda395665f2",
+        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=fb6840479871030c88bcf97b8d62d74111f43b4490fcdc114e4117b96cd0f442",
         "url": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek",
         "title": "Aanzienlijke hack bij ID&amp;amp;T leidt tot taakstraf en schadevergoeding",
         "date_published": "2024-04-25T11:59:00Z",
@@ -244,10 +244,10 @@
             "name": "nos.nl"
         },
         "content_html": "",
-        "content_text": "ID&amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf]. (Bron: nos.nl)"
+        "content_text": "ID&amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl)"
     },
     {
-        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=85611fd962b65ab17b8e534fee2d80b8d8fea2c8756ef7941b4963cde0ac21b7",
+        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=710db678996e9eefc40bd39ee1d3bf6d050f23937880ec524b33738da1e6f71a",
         "url": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek",
         "title": "Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding",
         "date_published": "2024-04-25T12:00:00Z",
@@ -257,7 +257,7 @@
             "name": "nos.nl"
         },
         "content_html": "",
-        "content_text": "Support Group | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf]. (Bron: nos.nl)"
+        "content_text": "Support Group | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl)"
     },
     {
         "id": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=968da812dc582bbdc00c4229588f7d4ffb4db021726122a90a8aa4688ca0778e",
@@ -520,7 +520,7 @@
         "content_text": "60 onbekende organisaties | Overige dienstverlening | 23-05-2024 | Ongeveer zestig organisaties, klanten van AddComm, zijn indirect getroffen door een recente ransomware-aanval op dit bedrijf. Zij staan nu voor de uitdaging om de mogelijke impact te beoordelen, aangezien het nog onduidelijk is welke specifieke gegevens zijn gestolen. Deze organisaties, vari\u00ebrend van gemeenten tot commerci\u00eble partijen, vrezen voor de veiligheid van persoonlijke en zakelijke informatie van hun burgers en klanten, en bereiden zich voor op mogelijke gevolgen van de datalek. (Bron: telegraaf.nl)"
     },
     {
-        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=8bc763f60c08319011d109122acaefc790c70a87511a87054a940d2461ddfa7e",
+        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=bd2d8a6296e7a793c4b508715c7206514b5a5a563badc58e151e81555e2174d5",
         "url": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt",
         "title": "Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties",
         "date_published": "2024-05-24T09:46:00Z",
@@ -530,7 +530,7 @@
             "name": "telegraaf.nl"
         },
         "content_html": "",
-        "content_text": "AddComm | Informatie en communicatie | 23-05-2024 | AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 30 mei 2024 is bekend geworden dat AddComm tot het betalen van losgeld is overgegaan] (Bron: telegraaf.nl)"
+        "content_text": "AddComm | Informatie en communicatie | 23-05-2024 | AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 30 mei 2024 is bekend geworden dat AddComm tot het betalen van losgeld is overgegaan.] (Bron: telegraaf.nl)"
     },
     {
         "id": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=ea25c1074654aca3bbbf4274b1baf906054d64b0d75df8297728504c222838ea",
