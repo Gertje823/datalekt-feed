@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html?datalekt=ead0d3965c1795b3e5639641e8637c3eba7f09b135385f0eb7b01b7a25722ab7",
+        "url": "https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html",
+        "title": "HHNK mogelijk indirect getroffen door ransomwareaanval op AddComm",
+        "date_published": "2024-06-13T09:35:00Z",
+        "date_modified": "2024-06-13T09:35:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 23-05-2024 | Het Hoogheemraadschap Hollands Noorderkwartier (HHNK) meldt mogelijk indirecte gevolgen van een ransomwareaanval op AddComm, een dienstverlener voor communicatie met klanten. Deze aanval, die plaatsvond tussen 5 en 17 mei, resulteerde in het versleutelen van systemen en diefstal van data bij AddComm. HHNK, dat gebruikmaakt van AddComm voor het versturen van waterschapsbelastingaanslagen, heeft preventief melding gedaan bij de Autoriteit Persoonsgegevens, vanwege het risico op gelekte klantgegevens. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://nos.nl/artikel/2521510-bedrijf-dumpt-administratie-in-open-container-vertrouwelijke-informatie-op-straat?datalekt=33a8813962550ea99cc7d4c57fa00e79f56ad49b54f98e37bac71d7427285998",
+        "url": "https://nos.nl/artikel/2521510-bedrijf-dumpt-administratie-in-open-container-vertrouwelijke-informatie-op-straat",
+        "title": "Vertrouwelijke documenten van Verkeersboete.nl op straat door menselijke fout",
+        "date_published": "2024-06-13T09:28:00Z",
+        "date_modified": "2024-06-13T09:28:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "Verkeersboete.nl | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 22-05-2024 | In Zoetermeer heeft Verkeersboete.nl per ongeluk een hoeveelheid correspondentie met het OM en het Centraal Justitieel Incassobureau in een open afvalcontainer gedeponeerd, wat leidde tot verspreiding van documenten over straat. Het incident werd beschreven als een menselijke fout, versterkt door een verbouwing. Hoewel de woordvoerder stelt dat er geen privacygevoelige informatie is aangetroffen, worden betrokkenen op de hoogte gebracht van de datalekprocedure indien nodig. De Autoriteit Persoonsgegevens benadrukt de ernst van dergelijke datalekken. (Bron: nos.nl)"
+    },
+    {
         "id": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=809327c68698ed5279cdb0cb1d167035f5329ed557f4f6852aba701199723c54",
         "url": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/",
         "title": "Ransomware-aanval treft gemeente Groningen",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Iddink Learning Materials | Groot- en detailhandel | 13-04-2024 | Iddink Learning Materials, een prominente leverancier van schoolboeken en digitaal lesmateriaal, heeft een cyberaanval ondergaan die resulteerde in de diefstal van persoonlijke klantgegevens zoals namen, e-mailadressen en bankinformatie. De aanval, uitgevoerd door de criminele groep Cactus, heeft ertoe geleid dat Iddink geen toegang meer heeft tot eigen systemen, hoewel lesmateriaal en het leerlingvolgsysteem beschikbaar blijven. Iddink heeft klanten ge\u00efnformeerd en autoriteiten zoals de politie en de Autoriteit Persoonsgegevens ingelicht. Het bedrijf weigert losgeld te betalen. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://www.gld.nl/nieuws/8130878/porno-in-plaats-van-vertrektijden-niet-veel-moeite-ingestopt?datalekt=c59035a6bf28ebc72aa5abeda10746d03e666c95be31bb2f845bdbc96dd1acfd",
-        "url": "https://www.gld.nl/nieuws/8130878/porno-in-plaats-van-vertrektijden-niet-veel-moeite-ingestopt",
-        "title": "Incident met ongepaste inhoud op scherm Arnhem Centraal",
-        "date_published": "2024-04-13T12:05:00Z",
-        "date_modified": "2024-04-13T12:05:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gld.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Arnhem | Overheid: Gemeenten | 11-04-2024 | Op een informatiescherm op Arnhem Centraal verscheen woensdagavond onverwacht pornografische inhoud. De gemeente Arnhem, die de schermen beheert, overweegt de mogelijkheid van een hack, hoewel het incident beperkt bleef tot \u00e9\u00e9n scherm. Deskundigen suggereren dat het systeem mogelijk lokaal is gecompromitteerd, aangezien het slechts op \u00e9\u00e9n scherm gebeurde, wat wijst op een minder geavanceerde aanval. Onderzoekers bekijken nu hoe de beelden konden verschijnen, terwijl de impact op reizigers nog onduidelijk is. (Bron: gld.nl)"
-    },
-    {
-        "id": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e19a49355c395e5c8435513fdcb23edee0cbfc3f58e8397a8c79e3435fb13d03",
-        "url": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht",
-        "title": "Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek",
-        "date_published": "2024-04-13T12:01:00Z",
-        "date_modified": "2024-04-13T12:01:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "binnenlandsbestuur.nl"
-        },
-        "content_html": "",
-        "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&#039;s en paspoortkopie\u00ebn toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en de beveiliging van het systeem verbeterd. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. (Bron: binnenlandsbestuur.nl)"
     }
 ]

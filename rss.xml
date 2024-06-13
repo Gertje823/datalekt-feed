@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 11 Jun 2024 18:22:28 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 13 Jun 2024 12:30:58 +0000</lastBuildDate>
+		<item>
+			<title>HHNK mogelijk indirect getroffen door ransomwareaanval op AddComm</title>
+			<link>https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html</link>
+			<description>Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 23-05-2024 | Het Hoogheemraadschap Hollands Noorderkwartier (HHNK) meldt mogelijk indirecte gevolgen van een ransomwareaanval op AddComm, een dienstverlener voor communicatie met klanten. Deze aanval, die plaatsvond tussen 5 en 17 mei, resulteerde in het versleutelen van systemen en diefstal van data bij AddComm. HHNK, dat gebruikmaakt van AddComm voor het versturen van waterschapsbelastingaanslagen, heeft preventief melding gedaan bij de Autoriteit Persoonsgegevens, vanwege het risico op gelekte klantgegevens. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html?datalekt=ead0d3965c1795b3e5639641e8637c3eba7f09b135385f0eb7b01b7a25722ab7</guid>
+			<category>Overheid: Waterschappen </category>
+			<pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Vertrouwelijke documenten van Verkeersboete.nl op straat door menselijke fout</title>
+			<link>https://nos.nl/artikel/2521510-bedrijf-dumpt-administratie-in-open-container-vertrouwelijke-informatie-op-straat</link>
+			<description>Verkeersboete.nl | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 22-05-2024 | In Zoetermeer heeft Verkeersboete.nl per ongeluk een hoeveelheid correspondentie met het OM en het Centraal Justitieel Incassobureau in een open afvalcontainer gedeponeerd, wat leidde tot verspreiding van documenten over straat. Het incident werd beschreven als een menselijke fout, versterkt door een verbouwing. Hoewel de woordvoerder stelt dat er geen privacygevoelige informatie is aangetroffen, worden betrokkenen op de hoogte gebracht van de datalekprocedure indien nodig. De Autoriteit Persoonsgegevens benadrukt de ernst van dergelijke datalekken. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2521510-bedrijf-dumpt-administratie-in-open-container-vertrouwelijke-informatie-op-straat?datalekt=33a8813962550ea99cc7d4c57fa00e79f56ad49b54f98e37bac71d7427285998</guid>
+			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Bringly’s website gehackt; incident zonder gevolgen voor bedrijfsactiviteiten</title>
 			<link>https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt</link>
@@ -790,22 +806,6 @@
 			<description>Iddink Learning Materials | Groot- en detailhandel | 13-04-2024 | Iddink Learning Materials, een prominente leverancier van schoolboeken en digitaal lesmateriaal, heeft een cyberaanval ondergaan die resulteerde in de diefstal van persoonlijke klantgegevens zoals namen, e-mailadressen en bankinformatie. De aanval, uitgevoerd door de criminele groep Cactus, heeft ertoe geleid dat Iddink geen toegang meer heeft tot eigen systemen, hoewel lesmateriaal en het leerlingvolgsysteem beschikbaar blijven. Iddink heeft klanten geïnformeerd en autoriteiten zoals de politie en de Autoriteit Persoonsgegevens ingelicht. Het bedrijf weigert losgeld te betalen. (Bron: nos.nl)</description>
 			<guid isPermaLink="false">https://nos.nl/artikel/2516597-schoolboekenleverancier-iddink-gehackt-mogelijk-klantengegevens-gelekt?datalekt=f0f6799fcad5dde7c93b298d1ec81472da52e364f397a058ca9f42ad6ad1956f</guid>
 			<category>Groot- en detailhandel </category>
-			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Incident met ongepaste inhoud op scherm Arnhem Centraal</title>
-			<link>https://www.gld.nl/nieuws/8130878/porno-in-plaats-van-vertrektijden-niet-veel-moeite-ingestopt</link>
-			<description>Gemeente Arnhem | Overheid: Gemeenten | 11-04-2024 | Op een informatiescherm op Arnhem Centraal verscheen woensdagavond onverwacht pornografische inhoud. De gemeente Arnhem, die de schermen beheert, overweegt de mogelijkheid van een hack, hoewel het incident beperkt bleef tot één scherm. Deskundigen suggereren dat het systeem mogelijk lokaal is gecompromitteerd, aangezien het slechts op één scherm gebeurde, wat wijst op een minder geavanceerde aanval. Onderzoekers bekijken nu hoe de beelden konden verschijnen, terwijl de impact op reizigers nog onduidelijk is. (Bron: gld.nl)</description>
-			<guid isPermaLink="false">https://www.gld.nl/nieuws/8130878/porno-in-plaats-van-vertrektijden-niet-veel-moeite-ingestopt?datalekt=c59035a6bf28ebc72aa5abeda10746d03e666c95be31bb2f845bdbc96dd1acfd</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek</title>
-			<link>https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht</link>
-			<description>Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&amp;#039;s en paspoortkopieën toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en de beveiliging van het systeem verbeterd. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. (Bron: binnenlandsbestuur.nl)</description>
-			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e19a49355c395e5c8435513fdcb23edee0cbfc3f58e8397a8c79e3435fb13d03</guid>
-			<category>Overheid: Provincies </category>
 			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
