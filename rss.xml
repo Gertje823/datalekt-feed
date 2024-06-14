@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 14 Jun 2024 12:30:43 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 14 Jun 2024 18:22:15 +0000</lastBuildDate>
+		<item>
+			<title>Eurotrol getroffen door ransomware aanval van de criminele organisatie Blacksuit</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Eurotrol | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 12-06-2024 | De criminele organisatie Blacksuit heeft op het darkweb aangekondigd dat zij Eurotrol heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a3c7c21850eabeb9a498cf990ebae73d4c1b57423d564157c7d0a076fe9c9893</guid>
+			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Aldenhoven getroffen door ransomware aanval van de criminele organisatie Play</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Aldenhoven Interieurwerken | Industrie | 12-06-2024 | De criminele organisatie Play heeft op het darkweb aangekondigd dat zij Aldenhoven heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=41253e4a1a053a11e001aefbbfd6d8ed8d6faec90226d90f1655073e2cae5215</guid>
+			<category>Industrie </category>
+			<pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>HHNK mogelijk indirect getroffen door ransomwareaanval op AddComm</title>
 			<link>https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html</link>
@@ -790,22 +806,6 @@
 			<description>SIVON | Informatie en communicatie | 13-04-2024 | Iddink Learning Materials werd op 12 april 2024 getroffen door een ransomware-aanval, waardoor toegang tot hun systemen en de data van klanten werd versleuteld. De aanval heeft mogelijk geleid tot het lekken van persoons- en bankgegevens van leerlingen, ouders en scholen. Iddink onderzoekt de volledige omvang van de schade en heeft betrokken partijen geïnformeerd. Verdere stappen omvatten een melding bij de Autoriteit Persoonsgegevens en het organiseren van een webinar voor scholen om de situatie toe te lichten. (Bron: sivon.nl)</description>
 			<guid isPermaLink="false">https://sivon.nl/2024/04/iddink-learning-materials-aangevallen-door-cybercriminelen/?datalekt=346638ea8dd9ff1b95bc850edfe32df62317999090869dd98a8d99f9a1683d57</guid>
 			<category>Informatie en communicatie </category>
-			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Onderwijsinstellingen potentieel getroffen door datalek bij Iddink na ransomware-aanval</title>
-			<link>https://nos.nl/artikel/2516597-schoolboekenleverancier-iddink-gehackt-mogelijk-klantengegevens-gelekt</link>
-			<description>300 onbekende scholen | Onderwijs | 13-04-2024 | Na een ransomware-aanval op Iddink Learning Materials, waarbij persoonlijke gegevens van leerlingen, ouders en scholen mogelijk zijn gelekt, staan diverse onderwijsinstellingen voor uitdagingen. Deze scholen, die afhankelijk zijn van Iddink voor schoolboeken en digitaal lesmateriaal, hebben geen directe toegang tot sommige systemen verloren, maar educatieve diensten zoals lesmateriaal en leerlingvolgsystemen blijven functioneren. Onderwijsinstellingen zijn geïnformeerd en maatregelen worden getroffen om de impact van het lek te beoordelen. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2516597-schoolboekenleverancier-iddink-gehackt-mogelijk-klantengegevens-gelekt?datalekt=32449bd47fe7dacaca0b705d64d71069c0aaeb1c6eef2dbbc0234966e2b408a1</guid>
-			<category>Onderwijs </category>
-			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gijzelsoftware-aanval op Iddink legt klantgegevens mogelijk bloot</title>
-			<link>https://nos.nl/artikel/2516597-schoolboekenleverancier-iddink-gehackt-mogelijk-klantengegevens-gelekt</link>
-			<description>Iddink Learning Materials | Groot- en detailhandel | 13-04-2024 | Iddink Learning Materials, een prominente leverancier van schoolboeken en digitaal lesmateriaal, heeft een cyberaanval ondergaan die resulteerde in de diefstal van persoonlijke klantgegevens zoals namen, e-mailadressen en bankinformatie. De aanval, uitgevoerd door de criminele groep Cactus, heeft ertoe geleid dat Iddink geen toegang meer heeft tot eigen systemen, hoewel lesmateriaal en het leerlingvolgsysteem beschikbaar blijven. Iddink heeft klanten geïnformeerd en autoriteiten zoals de politie en de Autoriteit Persoonsgegevens ingelicht. Het bedrijf weigert losgeld te betalen. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2516597-schoolboekenleverancier-iddink-gehackt-mogelijk-klantengegevens-gelekt?datalekt=f0f6799fcad5dde7c93b298d1ec81472da52e364f397a058ca9f42ad6ad1956f</guid>
-			<category>Groot- en detailhandel </category>
 			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
