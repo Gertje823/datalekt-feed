@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 13 Jun 2024 12:30:58 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 14 Jun 2024 12:30:43 +0000</lastBuildDate>
 		<item>
 			<title>HHNK mogelijk indirect getroffen door ransomwareaanval op AddComm</title>
 			<link>https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html</link>
@@ -123,8 +123,8 @@
 		<item>
 			<title>Ransomware-aanval treft gemeente Groningen</title>
 			<link>https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/</link>
-			<description>Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. [Update: d.d. 11 juni 2024 is bekend geworden dat het om 100 burgers gaat.] (Bron: oogtv.nl)</description>
-			<guid isPermaLink="false">https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=809327c68698ed5279cdb0cb1d167035f5329ed557f4f6852aba701199723c54</guid>
+			<description>Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. [Update: d.d. 11 juni 2024 is bekend geworden dat het om 102 burgers gaat.] (Bron: oogtv.nl)</description>
+			<guid isPermaLink="false">https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=d27c574ba2ed899269df078f9d811d5ea52194c91ce77390fc7554955cdbba65</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
