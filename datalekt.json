@@ -1,6 +1,19 @@
 [
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a3c7c21850eabeb9a498cf990ebae73d4c1b57423d564157c7d0a076fe9c9893",
+        "id": "https://gouweijsselnieuws.nl/2024/06/13/hack-met-ransomware-bij-rbg-raakt-inwoners-zuidplas/?datalekt=ea1af8ebf4d176bcff9c976ca11bfe56ef09e64861dc3e9393e00e0602bf42db",
+        "url": "https://gouweijsselnieuws.nl/2024/06/13/hack-met-ransomware-bij-rbg-raakt-inwoners-zuidplas/",
+        "title": "Ransomware-aanval bij RBG leidt tot datadiefstal en zorgen onder inwoners Zuidplas",
+        "date_published": "2024-06-15T11:37:00Z",
+        "date_modified": "2024-06-15T11:37:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "gouweijsselnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Hoogheemraadschap van Schieland en de Krimpenerwaard | Overheid: Waterschappen | 13-06-2024 | DataLekt.nl: Bij de Regionale Belasting Groep (RBG), die belastingen int namens het Hoogheemraadschap van Schieland en de Krimpenerwaard, heeft een ransomware-aanval plaatsgevonden. Hierbij zijn persoonsgegevens zoals namen, adressen en in sommige gevallen bankgegevens en BSN-nummers door cybercriminelen gestolen. Deze datalek heeft geleid tot het versturen van brieven naar de getroffen inwoners en ondernemers. Het hoogheemraadschap heeft maatregelen aanbevolen om de persoonlijke veiligheid te waarborgen en benadrukt het belang van waakzaamheid bij communicatie van onbekende bronnen. (Bron: gouweijsselnieuws.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d958abb1fcf51cc535996522aef90aa0c519377a23eb141ef37473b79965d638",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Eurotrol getroffen door ransomware aanval van de criminele organisatie Blacksuit",
         "date_published": "2024-06-14T15:53:00Z",
@@ -10,10 +23,10 @@
             "name": "ccinfo.nl"
         },
         "content_html": "",
-        "content_text": "Eurotrol | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 12-06-2024 | De criminele organisatie Blacksuit heeft op het darkweb aangekondigd dat zij Eurotrol heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+        "content_text": "Eurotrol | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 12-06-2024 | DataLekt.nl: De criminele organisatie Blacksuit heeft op het darkweb aangekondigd dat zij Eurotrol heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=41253e4a1a053a11e001aefbbfd6d8ed8d6faec90226d90f1655073e2cae5215",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1a26a54b6018d875ac24eb606034288f8d51593f59f022bb3028bd64eae4094a",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Aldenhoven getroffen door ransomware aanval van de criminele organisatie Play",
         "date_published": "2024-06-14T15:52:00Z",
@@ -23,10 +36,10 @@
             "name": "ccinfo.nl"
         },
         "content_html": "",
-        "content_text": "Aldenhoven Interieurwerken | Industrie | 12-06-2024 | De criminele organisatie Play heeft op het darkweb aangekondigd dat zij Aldenhoven heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+        "content_text": "Aldenhoven Interieurwerken | Industrie | 12-06-2024 | DataLekt.nl: De criminele organisatie Play heeft op het darkweb aangekondigd dat zij Aldenhoven heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html?datalekt=ead0d3965c1795b3e5639641e8637c3eba7f09b135385f0eb7b01b7a25722ab7",
+        "id": "https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html?datalekt=3ec19b9ed6a8886210bf300869f1c4a3c8085a6b7440b104bcbe2e5f7812e0d7",
         "url": "https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html",
         "title": "HHNK mogelijk indirect getroffen door ransomwareaanval op AddComm",
         "date_published": "2024-06-13T09:35:00Z",
@@ -36,10 +49,10 @@
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 23-05-2024 | Het Hoogheemraadschap Hollands Noorderkwartier (HHNK) meldt mogelijk indirecte gevolgen van een ransomwareaanval op AddComm, een dienstverlener voor communicatie met klanten. Deze aanval, die plaatsvond tussen 5 en 17 mei, resulteerde in het versleutelen van systemen en diefstal van data bij AddComm. HHNK, dat gebruikmaakt van AddComm voor het versturen van waterschapsbelastingaanslagen, heeft preventief melding gedaan bij de Autoriteit Persoonsgegevens, vanwege het risico op gelekte klantgegevens. (Bron: tweakers.net)"
+        "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 23-05-2024 | DataLekt.nl: Het Hoogheemraadschap Hollands Noorderkwartier (HHNK) meldt mogelijk indirecte gevolgen van een ransomwareaanval op AddComm, een dienstverlener voor communicatie met klanten. Deze aanval, die plaatsvond tussen 5 en 17 mei, resulteerde in het versleutelen van systemen en diefstal van data bij AddComm. HHNK, dat gebruikmaakt van AddComm voor het versturen van waterschapsbelastingaanslagen, heeft preventief melding gedaan bij de Autoriteit Persoonsgegevens, vanwege het risico op gelekte klantgegevens. (Bron: tweakers.net)"
     },
     {
-        "id": "https://nos.nl/artikel/2521510-bedrijf-dumpt-administratie-in-open-container-vertrouwelijke-informatie-op-straat?datalekt=33a8813962550ea99cc7d4c57fa00e79f56ad49b54f98e37bac71d7427285998",
+        "id": "https://nos.nl/artikel/2521510-bedrijf-dumpt-administratie-in-open-container-vertrouwelijke-informatie-op-straat?datalekt=5bd5234e8b79ec012038d733f7dbe94b57c8e6d4c364de37fe0fd88dcf80dcee",
         "url": "https://nos.nl/artikel/2521510-bedrijf-dumpt-administratie-in-open-container-vertrouwelijke-informatie-op-straat",
         "title": "Vertrouwelijke documenten van Verkeersboete.nl op straat door menselijke fout",
         "date_published": "2024-06-13T09:28:00Z",
@@ -49,10 +62,10 @@
             "name": "nos.nl"
         },
         "content_html": "",
-        "content_text": "Verkeersboete.nl | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 22-05-2024 | In Zoetermeer heeft Verkeersboete.nl per ongeluk een hoeveelheid correspondentie met het OM en het Centraal Justitieel Incassobureau in een open afvalcontainer gedeponeerd, wat leidde tot verspreiding van documenten over straat. Het incident werd beschreven als een menselijke fout, versterkt door een verbouwing. Hoewel de woordvoerder stelt dat er geen privacygevoelige informatie is aangetroffen, worden betrokkenen op de hoogte gebracht van de datalekprocedure indien nodig. De Autoriteit Persoonsgegevens benadrukt de ernst van dergelijke datalekken. (Bron: nos.nl)"
+        "content_text": "Verkeersboete.nl | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 22-05-2024 | DataLekt.nl: In Zoetermeer heeft Verkeersboete.nl per ongeluk een hoeveelheid correspondentie met het OM en het Centraal Justitieel Incassobureau in een open afvalcontainer gedeponeerd, wat leidde tot verspreiding van documenten over straat. Het incident werd beschreven als een menselijke fout, versterkt door een verbouwing. Hoewel de woordvoerder stelt dat er geen privacygevoelige informatie is aangetroffen, worden betrokkenen op de hoogte gebracht van de datalekprocedure indien nodig. De Autoriteit Persoonsgegevens benadrukt de ernst van dergelijke datalekken. (Bron: nos.nl)"
     },
     {
-        "id": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=d27c574ba2ed899269df078f9d811d5ea52194c91ce77390fc7554955cdbba65",
+        "id": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=aaf1e972c4c724bf9d0092662fea8656153d59518f30c3a1a0ece4008eddb019",
         "url": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/",
         "title": "Ransomware-aanval treft gemeente Groningen",
         "date_published": "2024-06-03T12:30:00Z",
@@ -62,10 +75,10 @@
             "name": "oogtv.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. [Update: d.d. 11 juni 2024 is bekend geworden dat het om 102 burgers gaat.] (Bron: oogtv.nl)"
+        "content_text": "Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | DataLekt.nl: De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. [Update: d.d. 11 juni 2024 is bekend geworden dat het om 102 burgers gaat.] (Bron: oogtv.nl)"
     },
     {
-        "id": "https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt?datalekt=dc7efc1c8c8b12d95480426a34e462a3c4aa7b34a44b02cdb6c6678aa5aadc6d",
+        "id": "https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt?datalekt=6a023d98436bd2d7145a1f8018a4458f667759debdfecf9accaa78a73fa36d88",
         "url": "https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt",
         "title": "Bringly\u2019s website gehackt; incident zonder gevolgen voor bedrijfsactiviteiten",
         "date_published": "2024-06-10T10:12:00Z",
@@ -75,10 +88,10 @@
             "name": "emerce.nl"
         },
         "content_html": "",
-        "content_text": "Bringly | Vervoer en opslag | 08-06-2024 | De website van het verzendplatform Bringly is recentelijk gehackt, waarbij de aanval resulteerde in het wissen van bijna alle deelpagina&#039;s en het plaatsen van een ongepaste advertentie. De hack lijkt echter geen invloed te hebben op de operationele activiteiten van het bedrijf, aangezien de website niet direct verbonden was met de kernsystemen of de operationele software van Bringly. Het probleem lijkt te zijn ontstaan bij het externe marketingbureau dat verantwoordelijk was voor de hosting van de site. Er zijn geen directe financi\u00eble schades of gegevensdiefstal gemeld als gevolg van deze inbraak. (Bron: emerce.nl)"
+        "content_text": "Bringly | Vervoer en opslag | 08-06-2024 | DataLekt.nl: De website van het verzendplatform Bringly is recentelijk gehackt, waarbij de aanval resulteerde in het wissen van bijna alle deelpagina&#039;s en het plaatsen van een ongepaste advertentie. De hack lijkt echter geen invloed te hebben op de operationele activiteiten van het bedrijf, aangezien de website niet direct verbonden was met de kernsystemen of de operationele software van Bringly. Het probleem lijkt te zijn ontstaan bij het externe marketingbureau dat verantwoordelijk was voor de hosting van de site. Er zijn geen directe financi\u00eble schades of gegevensdiefstal gemeld als gevolg van deze inbraak. (Bron: emerce.nl)"
     },
     {
-        "id": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=492843650034509dde6b496e634f7b37310793a91829b171ae29aebc8c67d5e7",
+        "id": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=538c802ca9d6bd425cd10acf6b57c50edcb99e3a37fe01c57e48bcb5ceddb352",
         "url": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html",
         "title": "FvD weert DDoS-aanval af op dag van Europese verkiezingen",
         "date_published": "2024-06-08T14:42:00Z",
@@ -88,10 +101,10 @@
             "name": "nu.nl"
         },
         "content_html": "",
-        "content_text": "Forum voor Democratie (FvD) | Overige dienstverlening | 06-06-2024 | Forum voor Democratie (FvD) werd doelwit van een DDoS-aanval door de Russische HackNet groep, waardoor hun website slecht bereikbaar was. Het team van FvD werkte intensief om de aanval te neutraliseren, wat uiteindelijk lukte. De aanval was deel van een poging om de politieke stabiliteit te verstoren. (Bron: nu.nl)"
+        "content_text": "Forum voor Democratie (FvD) | Overige dienstverlening | 06-06-2024 | DataLekt.nl: Forum voor Democratie (FvD) werd doelwit van een DDoS-aanval door de Russische HackNet groep, waardoor hun website slecht bereikbaar was. Het team van FvD werkte intensief om de aanval te neutraliseren, wat uiteindelijk lukte. De aanval was deel van een poging om de politieke stabiliteit te verstoren. (Bron: nu.nl)"
     },
     {
-        "id": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=8d264b88a505ba1e6faa2058331f489f239bffae547402bbf76cd13b6fa4c659",
+        "id": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=3a3fb99768e6581f096db6405b3eaed197eaf7ce282b5d78e21e37bdf8573574",
         "url": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html",
         "title": "CDA-webpagina&#039;s platgelegd door DDoS-aanvallen op verkiezingsdag",
         "date_published": "2024-06-08T14:41:00Z",
@@ -101,10 +114,10 @@
             "name": "nu.nl"
         },
         "content_html": "",
-        "content_text": "Christen-Democratisch App\u00e8l (CDA) | Overige dienstverlening | 06-06-2024 | Tijdens de Europese verkiezingen ondervond het Christen-Democratisch App\u00e8l (CDA) ernstige toegangsproblemen door een DDoS-aanval, geclaimd door HackNet. De website ontving miljoenen verzoeken, wat leidde tot tijdelijke onbereikbaarheid. Uiteindelijk kon het CDA de aanval weerstaan en normaliseerde de situatie. (Bron: nu.nl)"
+        "content_text": "Christen-Democratisch App\u00e8l (CDA) | Overige dienstverlening | 06-06-2024 | DataLekt.nl: Tijdens de Europese verkiezingen ondervond het Christen-Democratisch App\u00e8l (CDA) ernstige toegangsproblemen door een DDoS-aanval, geclaimd door HackNet. De website ontving miljoenen verzoeken, wat leidde tot tijdelijke onbereikbaarheid. Uiteindelijk kon het CDA de aanval weerstaan en normaliseerde de situatie. (Bron: nu.nl)"
     },
     {
-        "id": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=4e64b7044589dbdcde28ee9554446a5100bfe91c5f23c51f6ff11f4e989f6187",
+        "id": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=648d9d0f8d1cdb4f0cd4fe183927ad3ee8db00128005f2d6ebdf4febc18e3b1a",
         "url": "https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html",
         "title": "PVV-website onderuit door Russische DDoS-aanval tijdens verkiezingen",
         "date_published": "2024-06-08T14:40:00Z",
@@ -114,10 +127,10 @@
             "name": "nu.nl"
         },
         "content_html": "",
-        "content_text": "Partij voor de Vrijheid (PVV) | Overige dienstverlening | 06-06-2024 | De website van de Partij voor de Vrijheid (PVV) werd op de verkiezingsdag getroffen door een DDoS-aanval, uitgevoerd door de Russische groep HackNet. Deze aanval zorgde ervoor dat de website tijdelijk moeilijk bereikbaar was, als deel van een bredere campagne om onrust te stoken. De aanval werd succesvol afgeweerd en de site is weer operationeel. (Bron: nu.nl)"
+        "content_text": "Partij voor de Vrijheid (PVV) | Overige dienstverlening | 06-06-2024 | DataLekt.nl: De website van de Partij voor de Vrijheid (PVV) werd op de verkiezingsdag getroffen door een DDoS-aanval, uitgevoerd door de Russische groep HackNet. Deze aanval zorgde ervoor dat de website tijdelijk moeilijk bereikbaar was, als deel van een bredere campagne om onrust te stoken. De aanval werd succesvol afgeweerd en de site is weer operationeel. (Bron: nu.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco?datalekt=86d43a9d472a8a125699969ab41a4e210b987230751e1a5bf9db4a4d659870db",
+        "id": "https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco?datalekt=03219875dd12cd3e31a2c30e2a9c33caef40adebbb8247367bda958048b404ce",
         "url": "https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco",
         "title": "Onderzoek naar datalek in Cisco Webex met grote gevolgen voor Nederlandse overheid",
         "date_published": "2024-06-07T09:29:00Z",
@@ -127,10 +140,10 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Ministerie van Algemene Zaken | Overheid: Ministeries | 05-06-2024 | De Nederlandse overheid onderzoekt een ernstig datalek veroorzaakt door kwetsbaarheden in Cisco&#039;s Webex-platform. Hierdoor waren metadata van overheidsvergaderingen toegankelijk voor onbevoegden. Dit incident, dat eerst via Duitse media bekend werd gemaakt, heeft niet alleen geleid tot kritiek op Cisco wegens gebrekkige communicatie, maar ook tot bezorgdheid over de veiligheid van vertrouwelijke overheidscommunicatie. De overheid werkt samen met Duitse autoriteiten aan verder onderzoek en heeft Cisco om opheldering gevraagd. (Bron: security.nl)"
+        "content_text": "Ministerie van Algemene Zaken | Overheid: Ministeries | 05-06-2024 | DataLekt.nl: De Nederlandse overheid onderzoekt een ernstig datalek veroorzaakt door kwetsbaarheden in Cisco&#039;s Webex-platform. Hierdoor waren metadata van overheidsvergaderingen toegankelijk voor onbevoegden. Dit incident, dat eerst via Duitse media bekend werd gemaakt, heeft niet alleen geleid tot kritiek op Cisco wegens gebrekkige communicatie, maar ook tot bezorgdheid over de veiligheid van vertrouwelijke overheidscommunicatie. De overheid werkt samen met Duitse autoriteiten aan verder onderzoek en heeft Cisco om opheldering gevraagd. (Bron: security.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/222872/ap-beboet-recruitmentbedrijf-voor-negeren-verwijderverzoeken.html?datalekt=55fcb547b699063832ee50bf4532ce41db4c4cc0a25d7d264b44dfa25424aa90",
+        "id": "https://tweakers.net/nieuws/222872/ap-beboet-recruitmentbedrijf-voor-negeren-verwijderverzoeken.html?datalekt=2d0e059b9770b3a4a18630432b0c5ed3dbbb3e68248393374bdbdea222e50ee0",
         "url": "https://tweakers.net/nieuws/222872/ap-beboet-recruitmentbedrijf-voor-negeren-verwijderverzoeken.html",
         "title": "Boete voor Ambitious People Group vanwege niet tijdig wissen persoonsgegevens",
         "date_published": "2024-06-07T09:28:00Z",
@@ -140,10 +153,10 @@
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Ambitious People Group (APG) | Verhuur van roerende goederen en overige zakelijke dienstverlening | 05-06-2024 | Ambitious People Group B.V. heeft een boete van \u20ac6.000 opgelegd gekregen door de Autoriteit Persoonsgegevens voor het overtreden van de Algemene Verordening Gegevensbescherming (AVG). De overtreding betrof het niet tijdig reageren op verzoeken tot gegevenswissing door drie individuen, wat strijdig is met het recht op &#039;vergetelheid&#039; onder de AVG. Na vaststelling van de overtredingen door de AP, heeft het bedrijf de persoonsgegevens verwijderd en hun interne procedures aangepast om herhaling te voorkomen. (Bron: tweakers.net)"
+        "content_text": "Ambitious People Group (APG) | Verhuur van roerende goederen en overige zakelijke dienstverlening | 05-06-2024 | DataLekt.nl: Ambitious People Group B.V. heeft een boete van \u20ac6.000 opgelegd gekregen door de Autoriteit Persoonsgegevens voor het overtreden van de Algemene Verordening Gegevensbescherming (AVG). De overtreding betrof het niet tijdig reageren op verzoeken tot gegevenswissing door drie individuen, wat strijdig is met het recht op &#039;vergetelheid&#039; onder de AVG. Na vaststelling van de overtredingen door de AP, heeft het bedrijf de persoonsgegevens verwijderd en hun interne procedures aangepast om herhaling te voorkomen. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.saxnow.nl/nieuws/2024/juni/inloggegevens-van-288-saxion-accounts-bleken-gestolen-maar-saxion-heeft-geen-risico-gelopen?datalekt=e54b936ceaff81f3ab32f7fbe6b12a029e40cdd1fa24be3502c0c26e8a0639b6",
+        "id": "https://www.saxnow.nl/nieuws/2024/juni/inloggegevens-van-288-saxion-accounts-bleken-gestolen-maar-saxion-heeft-geen-risico-gelopen?datalekt=3be0b9cf27c1a72b0b4bcfdab311398caf7ae83e17a487cb1c9e8a8237ef4a06",
         "url": "https://www.saxnow.nl/nieuws/2024/juni/inloggegevens-van-288-saxion-accounts-bleken-gestolen-maar-saxion-heeft-geen-risico-gelopen",
         "title": "Gelekte inloggegevens van 288 Saxion-accounts zonder verdere risico&#039;s",
         "date_published": "2024-06-07T09:27:00Z",
@@ -153,10 +166,10 @@
             "name": "saxnow.nl"
         },
         "content_html": "",
-        "content_text": "Hogeschool Saxion | Onderwijs | 05-06-2024 | Bij Saxion zijn inloggegevens van 288 accounts gelekt. Deze gegevens waren onbedoeld toegankelijk, maar er is door snelle actie van de instelling geen verdere schade ontstaan. De betrokken accounts waren voornamelijk van oud-studenten en enkele medewerkers. Saxion heeft direct maatregelen getroffen zoals het resetten van wachtwoorden en het versterken van de beveiliging met multifactorauthenticatie, waardoor de gegevens veilig bleven en geen risico voor misbruik bestond. (Bron: saxnow.nl)"
+        "content_text": "Hogeschool Saxion | Onderwijs | 05-06-2024 | DataLekt.nl: Bij Saxion zijn inloggegevens van 288 accounts gelekt. Deze gegevens waren onbedoeld toegankelijk, maar er is door snelle actie van de instelling geen verdere schade ontstaan. De betrokken accounts waren voornamelijk van oud-studenten en enkele medewerkers. Saxion heeft direct maatregelen getroffen zoals het resetten van wachtwoorden en het versterken van de beveiliging met multifactorauthenticatie, waardoor de gegevens veilig bleven en geen risico voor misbruik bestond. (Bron: saxnow.nl)"
     },
     {
-        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=5b8c12f090afd0d2c7826893580e403077f132fdd1fbcc4014139b989ce1aff1",
+        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=67a4072fa0d2752a790b8ae9741518f018869dc2d8695eaa87c6676a189e31a9",
         "url": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval",
         "title": "Gegevens van burgers Aa en Hunze gestolen na hack bij AddComm",
         "date_published": "2024-06-07T09:26:00Z",
@@ -166,10 +179,10 @@
             "name": "nd.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Aa en Hunze | Overheid: Gemeenten | 04-06-2024 | Door een digitale aanval op AddComm zijn ook persoonsgegevens van inwoners van de gemeenten Aa en Hunze buitgemaakt. Inwoners moeten oppassen voor mogelijke frauduleuze berichten als gevolg van deze diefstal. (Bron: nd.nl)"
+        "content_text": "Gemeente Aa en Hunze | Overheid: Gemeenten | 04-06-2024 | DataLekt.nl: Door een digitale aanval op AddComm zijn ook persoonsgegevens van inwoners van de gemeenten Aa en Hunze buitgemaakt. Inwoners moeten oppassen voor mogelijke frauduleuze berichten als gevolg van deze diefstal. (Bron: nd.nl)"
     },
     {
-        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=27493154f830db09ea67a52b45b462ff0afbfcbadaa30579d2cf8dd4f55e5ee5",
+        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=6293f67c852d5679b1dc34e3649d8552b384dde727817980b826a8dbf01217e1",
         "url": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval",
         "title": "Cyberinbraak bij AddComm leidt tot gegevensdiefstal in Tynaarlo",
         "date_published": "2024-06-07T09:25:00Z",
@@ -179,10 +192,10 @@
             "name": "nd.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Tynaarlo | Overheid: Gemeenten | 04-06-2024 | In Tynaarlo zijn door een inbraak in de systemen van AddComm gevoelige persoonsgegevens ontvreemd. Er is een risico op identiteitsfraude voor de betrokken inwoners, die geadviseerd worden alert te zijn op verdachte communicatie. (Bron: nd.nl)"
+        "content_text": "Gemeente Tynaarlo | Overheid: Gemeenten | 04-06-2024 | DataLekt.nl: In Tynaarlo zijn door een inbraak in de systemen van AddComm gevoelige persoonsgegevens ontvreemd. Er is een risico op identiteitsfraude voor de betrokken inwoners, die geadviseerd worden alert te zijn op verdachte communicatie. (Bron: nd.nl)"
     },
     {
-        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=7f02d8a5ccc9008be7baa334e6a461b282f1ddd7d2434f3ee27671e66ab71dcb",
+        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=de7e257dbf3ba30abdddd3518dadec2f813423df3a49ba32bc2eb5748d0739e4",
         "url": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval",
         "title": "Datadiefstal treft inwoners van Assen na cyberaanval op AddComm",
         "date_published": "2024-06-07T09:24:00Z",
@@ -192,10 +205,10 @@
             "name": "nd.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Assen | Overheid: Gemeenten | 04-06-2024 | Na een cyberaanval op AddComm zijn persoonlijke gegevens van inwoners van Assen gestolen, waaronder namen, adressen en mogelijk bankgegevens. De getroffen inwoners zijn gewaarschuwd voor het risico op phishing en fraude. (Bron: nd.nl)"
+        "content_text": "Gemeente Assen | Overheid: Gemeenten | 04-06-2024 | DataLekt.nl: Na een cyberaanval op AddComm zijn persoonlijke gegevens van inwoners van Assen gestolen, waaronder namen, adressen en mogelijk bankgegevens. De getroffen inwoners zijn gewaarschuwd voor het risico op phishing en fraude. (Bron: nd.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/222756/bol-bevestigt-dat-klantdata-mogelijk-gestolen-is-bij-addcomm-aanval.html?datalekt=2b7993be8942d99582abd9b681a7a9c4f2f2d37632a951d3cf036ebe6c97417b",
+        "id": "https://tweakers.net/nieuws/222756/bol-bevestigt-dat-klantdata-mogelijk-gestolen-is-bij-addcomm-aanval.html?datalekt=a4dbfd150c49ce039781046222f4cb238a80e7a97357b6e2b542b9998e7fafb5",
         "url": "https://tweakers.net/nieuws/222756/bol-bevestigt-dat-klantdata-mogelijk-gestolen-is-bij-addcomm-aanval.html",
         "title": "Bol stopt samenwerking met AddComm na mogelijk datalek tijdens ransomwareaanval",
         "date_published": "2024-06-05T12:52:00Z",
@@ -205,10 +218,10 @@
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Bol.com | Groot- en detailhandel | 04-06-2024 | Bol.com heeft bevestigd dat door een ransomwareaanval op AddComm mogelijk klantgegevens zijn buitgemaakt. Deze gegevens omvatten naam, adres, klant- en bestelnummers, alsook details over de bestellingen. Hoewel bankgegevens niet zijn getroffen, heeft Bol de samenwerking met AddComm gestaakt tot de veiligheid van de gegevens gegarandeerd kan worden. AddComm heeft, onder leiding van cybersecurityexperts, onderhandeld met de aanvallers om de gestolen data niet te publiceren. (Bron: tweakers.net)"
+        "content_text": "Bol.com | Groot- en detailhandel | 04-06-2024 | DataLekt.nl: Bol.com heeft bevestigd dat door een ransomwareaanval op AddComm mogelijk klantgegevens zijn buitgemaakt. Deze gegevens omvatten naam, adres, klant- en bestelnummers, alsook details over de bestellingen. Hoewel bankgegevens niet zijn getroffen, heeft Bol de samenwerking met AddComm gestaakt tot de veiligheid van de gegevens gegarandeerd kan worden. AddComm heeft, onder leiding van cybersecurityexperts, onderhandeld met de aanvallers om de gestolen data niet te publiceren. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.dutchitchannel.nl/news/456591/belastingdienst-komt-vijf-jaar-onder-toezicht-van-autoriteit-persoonsgegevens-te-staan?datalekt=e574d5d307073711eebd5096815577f6c1b57d7f791a675ef5fd93b2450af1ef",
+        "id": "https://www.dutchitchannel.nl/news/456591/belastingdienst-komt-vijf-jaar-onder-toezicht-van-autoriteit-persoonsgegevens-te-staan?datalekt=d66b90ca6f28bc5f59715141bbb5fe3200e342cc8b28da019e5d06f5f4623ef3",
         "url": "https://www.dutchitchannel.nl/news/456591/belastingdienst-komt-vijf-jaar-onder-toezicht-van-autoriteit-persoonsgegevens-te-staan",
         "title": "Belastingdienst vijf jaar onder intensief toezicht door Autoriteit Persoonsgegevens",
         "date_published": "2024-06-03T12:38:00Z",
@@ -218,10 +231,10 @@
             "name": "dutchitchannel.nl"
         },
         "content_html": "",
-        "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 29-05-2024 | De Autoriteit Persoonsgegevens (AP) zal vijf jaar toezicht houden op de Belastingdienst vanwege bezorgdheid over het Risico Analyse Model dat gebruikt werd voor toezicht en fraudebestrijding. Er waren twijfels over de rechtmatigheid en juistheid van de opgeslagen data. Dit toezichtsarrangement beoogt een duurzame verbetering van de bescherming van persoonsgegevens. Jaarlijkse evaluaties zullen plaatsvinden om de vorderingen te beoordelen en verdere acties te bepalen. (Bron: dutchitchannel.nl)"
+        "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 29-05-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) zal vijf jaar toezicht houden op de Belastingdienst vanwege bezorgdheid over het Risico Analyse Model dat gebruikt werd voor toezicht en fraudebestrijding. Er waren twijfels over de rechtmatigheid en juistheid van de opgeslagen data. Dit toezichtsarrangement beoogt een duurzame verbetering van de bescherming van persoonsgegevens. Jaarlijkse evaluaties zullen plaatsvinden om de vorderingen te beoordelen en verdere acties te bepalen. (Bron: dutchitchannel.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm?datalekt=9ec6643bd2f0ab5102b28b8187e8f9dab37cce0a3438bb336003b0f5f8f411ec",
+        "id": "https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm?datalekt=12053417ad439866badea9bdb4c83bb051f0ae309ed9468c5fbbf7d75b1dac82",
         "url": "https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm",
         "title": "Ransomware-aanval op AddComm treft Dunea klanten",
         "date_published": "2024-06-03T12:25:00Z",
@@ -231,10 +244,10 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Dunea | Water, afval- en afvalwaterbeheer en sanering | 28-05-2024 | Drinkwaterbedrijf Dunea, leverancier van drinkwater aan bijna 1,4 miljoen mensen in West-Nederland, meldt een ransomware-aanval op hun dienstverlener AddComm. Deze aanval leidde tot diefstal van klantgegevens bij AddComm, die voor meerdere organisaties communicatiediensten verzorgt. Dunea heeft na de ontdekking de samenwerking met AddComm tijdelijk stopgezet en preventieve maatregelen getroffen, waaronder een melding bij de Autoriteit Persoonsgegevens. Er zijn geen gegevens van Dunea gelekt. AddComm heeft onderhandeld met de criminelen om de gestolen gegevens niet te publiceren. (Bron: security.nl)"
+        "content_text": "Dunea | Water, afval- en afvalwaterbeheer en sanering | 28-05-2024 | DataLekt.nl: Drinkwaterbedrijf Dunea, leverancier van drinkwater aan bijna 1,4 miljoen mensen in West-Nederland, meldt een ransomware-aanval op hun dienstverlener AddComm. Deze aanval leidde tot diefstal van klantgegevens bij AddComm, die voor meerdere organisaties communicatiediensten verzorgt. Dunea heeft na de ontdekking de samenwerking met AddComm tijdelijk stopgezet en preventieve maatregelen getroffen, waaronder een melding bij de Autoriteit Persoonsgegevens. Er zijn geen gegevens van Dunea gelekt. AddComm heeft onderhandeld met de criminelen om de gestolen gegevens niet te publiceren. (Bron: security.nl)"
     },
     {
-        "id": "https://www.computable.nl/2024/05/27/aanval-op-addcomm-raakt-ook-nutsbedrijven-en-woningcooperaties/?datalekt=4fbe495363f8c97d6b70e6eca39b0257aadf33497f88ee465c38e3989110d70d",
+        "id": "https://www.computable.nl/2024/05/27/aanval-op-addcomm-raakt-ook-nutsbedrijven-en-woningcooperaties/?datalekt=97beedb4b23544e1eb614503679d6a701d33a2e4f949b5402808d92a0923ef71",
         "url": "https://www.computable.nl/2024/05/27/aanval-op-addcomm-raakt-ook-nutsbedrijven-en-woningcooperaties/",
         "title": "Cyberaanval op Addcomm heeft gevolgen voor Ons Huis",
         "date_published": "2024-06-03T12:19:00Z",
@@ -244,10 +257,10 @@
             "name": "computable.nl"
         },
         "content_html": "",
-        "content_text": "Ons Huis | Verhuur van en handel in onroerend goed | 27-05-2024 | Ons Huis, als klant van Addcomm, ondervond hinder door een ransomware-aanval op deze dienstverlener in mei 2024. De aanval leidde tot het versleutelen van gegevens en verstoorde de communicatiediensten. Belangrijk voor Ons Huis en vergelijkbare instellingen was de noodzaak om bewoners te waarschuwen voor mogelijke phishing als gevolg van de gelekte gegevens. De aanval is momenteel onderwerp van onderzoek en Addcomm heeft de nodige autoriteiten ingelicht. (Bron: computable.nl)"
+        "content_text": "Ons Huis | Verhuur van en handel in onroerend goed | 27-05-2024 | DataLekt.nl: Ons Huis, als klant van Addcomm, ondervond hinder door een ransomware-aanval op deze dienstverlener in mei 2024. De aanval leidde tot het versleutelen van gegevens en verstoorde de communicatiediensten. Belangrijk voor Ons Huis en vergelijkbare instellingen was de noodzaak om bewoners te waarschuwen voor mogelijke phishing als gevolg van de gelekte gegevens. De aanval is momenteel onderwerp van onderzoek en Addcomm heeft de nodige autoriteiten ingelicht. (Bron: computable.nl)"
     },
     {
-        "id": "https://www.destentor.nl/deventer/verdriet-bij-eigenaar-deventer-restaurant-nadat-hackers-toeslaan-meeste-hebben-we-niet-bewaard~ac336517/?datalekt=1e8cbda031601b244a24ac7cd7626518607cbb4db40d67483f4605d45f6f4ed8",
+        "id": "https://www.destentor.nl/deventer/verdriet-bij-eigenaar-deventer-restaurant-nadat-hackers-toeslaan-meeste-hebben-we-niet-bewaard~ac336517/?datalekt=abaa7baacc80bbf436beb8085507b4c49970e96ce028e6129dc7a2e9e491df2f",
         "url": "https://www.destentor.nl/deventer/verdriet-bij-eigenaar-deventer-restaurant-nadat-hackers-toeslaan-meeste-hebben-we-niet-bewaard~ac336517/",
         "title": "Deventer restaurant The Lemon Tree gehackt en Instagram-account gecompromitteerd",
         "date_published": "2024-06-03T12:15:00Z",
@@ -257,10 +270,10 @@
             "name": "destentor.nl"
         },
         "content_html": "",
-        "content_text": "The Lemon Tree | Logies-, maaltijd- en drankverstrekking | 26-05-2024 | Het Deventer restaurant The Lemon Tree werd getroffen door een hackaanval op hun populaire Instagram-account met 67.000 volgers, een belangrijk communicatiemiddel voor het restaurant. De hackers, die zich vanuit een buitenlands nummer meldden, eisten \u20ac500 voor het teruggeven van het account. Restaurant eigenaar Valentijn Bergers koos ervoor niet te betalen nadat hij advies had ingewonnen, ondanks het verlies van waardevolle foto&#039;s van kooksessies en activiteiten tijdens de coronapandemie. Bergers vermoedt dat de inbraak gebeurde door een nepmail. Er zijn geen klantgegevens gestolen. (Bron: destentor.nl)"
+        "content_text": "The Lemon Tree | Logies-, maaltijd- en drankverstrekking | 26-05-2024 | DataLekt.nl: Het Deventer restaurant The Lemon Tree werd getroffen door een hackaanval op hun populaire Instagram-account met 67.000 volgers, een belangrijk communicatiemiddel voor het restaurant. De hackers, die zich vanuit een buitenlands nummer meldden, eisten \u20ac500 voor het teruggeven van het account. Restaurant eigenaar Valentijn Bergers koos ervoor niet te betalen nadat hij advies had ingewonnen, ondanks het verlies van waardevolle foto&#039;s van kooksessies en activiteiten tijdens de coronapandemie. Bergers vermoedt dat de inbraak gebeurde door een nepmail. Er zijn geen klantgegevens gestolen. (Bron: destentor.nl)"
     },
     {
-        "id": "https://www.techzine.nl/blogs/security/547023/hackers-stelen-mogelijk-klantgegevens-abn-amro-en-andere-instanties-via-ransomware-aanval/?datalekt=65b8cd2899671c8c578d00595a9d368f2f172f2b9afe9652c77be7b85925e024",
+        "id": "https://www.techzine.nl/blogs/security/547023/hackers-stelen-mogelijk-klantgegevens-abn-amro-en-andere-instanties-via-ransomware-aanval/?datalekt=caba5d99fe234c79bc2be9d44d5e273c1396953881337c719e2479acbe84e13e",
         "url": "https://www.techzine.nl/blogs/security/547023/hackers-stelen-mogelijk-klantgegevens-abn-amro-en-andere-instanties-via-ransomware-aanval/",
         "title": "Eneco klantgegevens mogelijk gestolen bij Addcomm cyberaanval",
         "date_published": "2024-06-03T12:10:00Z",
@@ -270,10 +283,10 @@
             "name": "techzine.nl"
         },
         "content_html": "",
-        "content_text": "Eneco | Elektriciteit, aardgas, stoom en gekoelde lucht | 29-05-2024 | Bij een ransomware-aanval op Addcomm zijn mogelijk klantgegevens van Eneco en andere instanties gestolen. De aanval, die in mei plaatsvond, heeft geleid tot een ernstige verstoring van de diensten. Eneco heeft aangegeven dat de integriteit van klantgegevens mogelijk is aangetast en onderzoekt de omvang van de inbreuk. De aanval heeft bij Addcomm geleid tot data-encryptie en dataverlies. Er is nog geen specifieke informatie over de financi\u00eble schade of het exacte aantal getroffen klanten van Eneco. (Bron: techzine.nl)"
+        "content_text": "Eneco | Elektriciteit, aardgas, stoom en gekoelde lucht | 29-05-2024 | DataLekt.nl: Bij een ransomware-aanval op Addcomm zijn mogelijk klantgegevens van Eneco en andere instanties gestolen. De aanval, die in mei plaatsvond, heeft geleid tot een ernstige verstoring van de diensten. Eneco heeft aangegeven dat de integriteit van klantgegevens mogelijk is aangetast en onderzoekt de omvang van de inbreuk. De aanval heeft bij Addcomm geleid tot data-encryptie en dataverlies. Er is nog geen specifieke informatie over de financi\u00eble schade of het exacte aantal getroffen klanten van Eneco. (Bron: techzine.nl)"
     },
     {
-        "id": "https://www.nu.nl/binnenland/6314735/datalek-kadaster-bijna-4000-geheime-adressen-niet-goed-afgeschermd.html?datalekt=6022f5427f47488e37b3b9cdf266dd338d51a21cd5e42af0d29e1b1bb7c6bd3f",
+        "id": "https://www.nu.nl/binnenland/6314735/datalek-kadaster-bijna-4000-geheime-adressen-niet-goed-afgeschermd.html?datalekt=2b2c0f37ae8402877ee24d719443ab519315f370b4d7f54b95b75440b3d6438d",
         "url": "https://www.nu.nl/binnenland/6314735/datalek-kadaster-bijna-4000-geheime-adressen-niet-goed-afgeschermd.html",
         "title": "Datalek bij Kadaster onthuldt 4000 geheime adressen",
         "date_published": "2024-06-03T12:05:00Z",
@@ -283,10 +296,10 @@
             "name": "nu.nl"
         },
         "content_html": "",
-        "content_text": "Kadaster | Overheid: Zelfstandige bestuursorganen | 29-05-2024 | Tussen augustus 2020 en april 2024 waren bijna vierduizend geheime adressen zichtbaar door een fout in de systemen van het Kadaster, specifiek binnen MijnOverheid. Een deel van de gebruikers kon hierdoor adressen van mede-eigenaren van onroerend goed inzien, wat in bepaalde gevallen privacyproblemen veroorzaakte. Nadat het probleem in oktober 2023 voor het eerst gemeld werd, zijn de betreffende gegevens in april 2024 afgeschermd. Het Kadaster heeft de Autoriteit Persoonsgegevens ge\u00efnformeerd en de betrokkenen op de hoogte gesteld. (Bron: nu.nl)"
+        "content_text": "Kadaster | Overheid: Zelfstandige bestuursorganen | 29-05-2024 | DataLekt.nl: Tussen augustus 2020 en april 2024 waren bijna vierduizend geheime adressen zichtbaar door een fout in de systemen van het Kadaster, specifiek binnen MijnOverheid. Een deel van de gebruikers kon hierdoor adressen van mede-eigenaren van onroerend goed inzien, wat in bepaalde gevallen privacyproblemen veroorzaakte. Nadat het probleem in oktober 2023 voor het eerst gemeld werd, zijn de betreffende gegevens in april 2024 afgeschermd. Het Kadaster heeft de Autoriteit Persoonsgegevens ge\u00efnformeerd en de betrokkenen op de hoogte gesteld. (Bron: nu.nl)"
     },
     {
-        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=fb6840479871030c88bcf97b8d62d74111f43b4490fcdc114e4117b96cd0f442",
+        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=f6755669dacd966eed56c4f3567f043f295caf956ed3858b450d1213869e441c",
         "url": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek",
         "title": "Aanzienlijke hack bij ID&amp;amp;T leidt tot taakstraf en schadevergoeding",
         "date_published": "2024-04-25T11:59:00Z",
@@ -296,10 +309,10 @@
             "name": "nos.nl"
         },
         "content_html": "",
-        "content_text": "ID&amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl)"
+        "content_text": "ID&amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl)"
     },
     {
-        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=710db678996e9eefc40bd39ee1d3bf6d050f23937880ec524b33738da1e6f71a",
+        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=0d7da466ad740f192c6a891421c71a37491189ab257a71dfd124bcc1eb2ac979",
         "url": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek",
         "title": "Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding",
         "date_published": "2024-04-25T12:00:00Z",
@@ -309,10 +322,10 @@
             "name": "nos.nl"
         },
         "content_html": "",
-        "content_text": "Support Group | Cultuur, sport en recreatie | 23-04-2024 | Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl)"
+        "content_text": "Support Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=968da812dc582bbdc00c4229588f7d4ffb4db021726122a90a8aa4688ca0778e",
+        "id": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=bbd4e35b45fd734a57c7b5b394fe50fd105e29312b5e71c5840753bbcc11880c",
         "url": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm",
         "title": "Essent klanten mogelijk getroffen door datalek bij AddComm",
         "date_published": "2024-05-27T13:46:00Z",
@@ -322,10 +335,10 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Essent | Elektriciteit, aardgas, stoom en gekoelde lucht | 27-05-2024 | Essent heeft zijn klanten ge\u00efnformeerd over een datalek bij AddComm na een ransomware-aanval op 17 mei. De leverancier, die zorgt voor de verzending van facturen en communicatie, onderzoekt nog welke gegevens zijn gelekt. Essent heeft direct alle dataverbindingen met AddComm onderbroken en relevante autoriteiten ingelicht. Getroffen klanten zullen persoonlijk worden benaderd om hen te informeren over de situatie. Er zijn nog geen aanwijzingen van misbruik van de data. (Bron: security.nl)"
+        "content_text": "Essent | Elektriciteit, aardgas, stoom en gekoelde lucht | 27-05-2024 | DataLekt.nl: Essent heeft zijn klanten ge\u00efnformeerd over een datalek bij AddComm na een ransomware-aanval op 17 mei. De leverancier, die zorgt voor de verzending van facturen en communicatie, onderzoekt nog welke gegevens zijn gelekt. Essent heeft direct alle dataverbindingen met AddComm onderbroken en relevante autoriteiten ingelicht. Getroffen klanten zullen persoonlijk worden benaderd om hen te informeren over de situatie. Er zijn nog geen aanwijzingen van misbruik van de data. (Bron: security.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=139c6bbce320b9611a2c06edbd21be5c3fe176add50de7eb51aaaaaa5e73f4d6",
+        "id": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=92cc9f69c66ebbc5abcb8b556b76cf553042b0cafc50745b56341afffc53bf45",
         "url": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm",
         "title": "Vattenfall klanten getroffen door datalek bij dienstverlener AddComm",
         "date_published": "2024-05-27T13:45:00Z",
@@ -335,10 +348,10 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Vattenfall | Elektriciteit, aardgas, stoom en gekoelde lucht | 27-05-2024 | Vattenfall heeft een waarschuwing uitgegeven aan zijn klanten na een datalek bij AddComm, die de papieren communicatie verzorgt. Dit incident, veroorzaakt door een ransomware-aanval op 17 mei, heeft mogelijk klantgegevens blootgesteld. Vattenfall is bezig met het informeren van getroffen klanten en heeft maatregelen genomen om verdere schade te voorkomen. Het bedrijf benadrukt dat er tot op heden geen misbruik van de data is gemeld. (Bron: security.nl)"
+        "content_text": "Vattenfall | Elektriciteit, aardgas, stoom en gekoelde lucht | 27-05-2024 | DataLekt.nl: Vattenfall heeft een waarschuwing uitgegeven aan zijn klanten na een datalek bij AddComm, die de papieren communicatie verzorgt. Dit incident, veroorzaakt door een ransomware-aanval op 17 mei, heeft mogelijk klantgegevens blootgesteld. Vattenfall is bezig met het informeren van getroffen klanten en heeft maatregelen genomen om verdere schade te voorkomen. Het bedrijf benadrukt dat er tot op heden geen misbruik van de data is gemeld. (Bron: security.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/842885/ABN+Amro%2C+Staedion%2C+Waterbedrijf+Groningen%2C+RBG+en+WMD+melden+mogelijk+datalek?datalekt=85930bd992be07d18b42d695331e08fd692824ef9db9d0f050d9e90177b7b7ad",
+        "id": "https://www.security.nl/posting/842885/ABN+Amro%2C+Staedion%2C+Waterbedrijf+Groningen%2C+RBG+en+WMD+melden+mogelijk+datalek?datalekt=4500cfd65b6bb0375da8c5974a88499cb7a0667c9064b317351f400e05e0b356",
         "url": "https://www.security.nl/posting/842885/ABN+Amro%2C+Staedion%2C+Waterbedrijf+Groningen%2C+RBG+en+WMD+melden+mogelijk+datalek",
         "title": "WMD rapporteert potentieel datalek door cyberaanval op AddComm",
         "date_published": "2024-05-27T13:44:00Z",
@@ -348,10 +361,10 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Waterleidingmaatschappij Drenthe (WMD) | Water, afval- en afvalwaterbeheer en sanering | 26-05-2024 | Waterbedrijf Drenthe (WMD) heeft een datalek gemeld na een ransomware-aanval op hun dienstverlener AddComm. Deze aanval heeft mogelijk geleid tot de ongeautoriseerde toegang tot persoonsgegevens van klanten, waaronder namen, adressen en contactinformatie. WMD werkt nauw samen met autoriteiten om de impact te beoordelen en heeft maatregelen getroffen om verdere schade te voorkomen. Het aantal getroffen klanten is nog in onderzoek. (Bron: security.nl)"
+        "content_text": "Waterleidingmaatschappij Drenthe (WMD) | Water, afval- en afvalwaterbeheer en sanering | 26-05-2024 | DataLekt.nl: Waterbedrijf Drenthe (WMD) heeft een datalek gemeld na een ransomware-aanval op hun dienstverlener AddComm. Deze aanval heeft mogelijk geleid tot de ongeautoriseerde toegang tot persoonsgegevens van klanten, waaronder namen, adressen en contactinformatie. WMD werkt nauw samen met autoriteiten om de impact te beoordelen en heeft maatregelen getroffen om verdere schade te voorkomen. Het aantal getroffen klanten is nog in onderzoek. (Bron: security.nl)"
     },
     {
-        "id": "https://warmtestad.nl/nieuws/hack-bij-leverancier-van-warmtestad?datalekt=889d677f9528a18d2faf8626b337fdf921121709dc4d41f4e767bdc35a49f718",
+        "id": "https://warmtestad.nl/nieuws/hack-bij-leverancier-van-warmtestad?datalekt=42f2d6497821e6c636e00644a833293c3d2d0bfdf14c48a1e8b29a416a2125b0",
         "url": "https://warmtestad.nl/nieuws/hack-bij-leverancier-van-warmtestad",
         "title": "Cyberaanval treft leverancier van WarmteStad",
         "date_published": "2024-05-27T10:25:00Z",
@@ -361,10 +374,10 @@
             "name": "warmtestad.nl"
         },
         "content_html": "",
-        "content_text": "WarmteStad | Elektriciteit, aardgas, stoom en gekoelde lucht | 24-05-2024 | Addcomm, een leverancier van WarmteStad, is onlangs gehackt. Het bedrijf onderzoekt of klantgegevens mogelijk zijn gelekt. Als voorzorgsmaatregel is het klantportaal van WarmteStad tijdelijk offline gehaald, waardoor klanten niet online kunnen inloggen of betalingen verrichten. Klanten worden geadviseerd voorzichtig te zijn met e-mails van onbekende afzenders en contact op te nemen bij twijfels over de authenticiteit van communicatie van WarmteStad. (Bron: warmtestad.nl)"
+        "content_text": "WarmteStad | Elektriciteit, aardgas, stoom en gekoelde lucht | 24-05-2024 | DataLekt.nl: Addcomm, een leverancier van WarmteStad, is onlangs gehackt. Het bedrijf onderzoekt of klantgegevens mogelijk zijn gelekt. Als voorzorgsmaatregel is het klantportaal van WarmteStad tijdelijk offline gehaald, waardoor klanten niet online kunnen inloggen of betalingen verrichten. Klanten worden geadviseerd voorzichtig te zijn met e-mails van onbekende afzenders en contact op te nemen bij twijfels over de authenticiteit van communicatie van WarmteStad. (Bron: warmtestad.nl)"
     },
     {
-        "id": "https://www.onshuisapeldoorn.nl/over-ons/datalek-bij-een-van-onze-leveranciers/?datalekt=4fd9615ccde0b21973f04aea75878878cc2c484f787abe15e04d2f4d29b767d4",
+        "id": "https://www.onshuisapeldoorn.nl/over-ons/datalek-bij-een-van-onze-leveranciers/?datalekt=598965fe407f002e16b72c64a93c035fb7265c032ae0b5ef7ad81e9069274e25",
         "url": "https://www.onshuisapeldoorn.nl/over-ons/datalek-bij-een-van-onze-leveranciers/",
         "title": "Datalek bij leverancier treft huurders van Ons Huis Apeldoorn",
         "date_published": "2024-05-27T10:24:00Z",
@@ -374,10 +387,10 @@
             "name": "onshuisapeldoorn.nl"
         },
         "content_html": "",
-        "content_text": "Ons Huis Apeldoorn | Verhuur van en handel in onroerend goed | 24-05-2024 | Op 17 mei werd Ons Huis Apeldoorn ge\u00efnformeerd over een datalek bij de leverancier AddComm die ondersteuning biedt bij het versturen van post. Dit lek resulteerde in de mogelijke blootstelling van persoonlijke gegevens van huurders. Er is een onderzoek gestart en maatregelen zijn getroffen om verdere schade te voorkomen. Het exacte aantal betrokken gegevens en huurders is nog onbekend. Huurders ontvangen een brief met informatie en worden op de hoogte gehouden via de website van Ons Huis. (Bron: onshuisapeldoorn.nl)"
+        "content_text": "Ons Huis Apeldoorn | Verhuur van en handel in onroerend goed | 24-05-2024 | DataLekt.nl: Op 17 mei werd Ons Huis Apeldoorn ge\u00efnformeerd over een datalek bij de leverancier AddComm die ondersteuning biedt bij het versturen van post. Dit lek resulteerde in de mogelijke blootstelling van persoonlijke gegevens van huurders. Er is een onderzoek gestart en maatregelen zijn getroffen om verdere schade te voorkomen. Het exacte aantal betrokken gegevens en huurders is nog onbekend. Huurders ontvangen een brief met informatie en worden op de hoogte gehouden via de website van Ons Huis. (Bron: onshuisapeldoorn.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html?datalekt=281a6d503f7b57a921322dd47aa0b408ca089162dc84c804626983c4b0db7f1f",
+        "id": "https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html?datalekt=c57e679fd5a7949bd062110c937bc431fec8c8f65b4180aaa8c2009f43dee858",
         "url": "https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html",
         "title": "Mogelijke datalek bij Waterbedrijf Groningen door ransomwareaanval op AddComm",
         "date_published": "2024-05-26T12:05:00Z",
@@ -387,10 +400,10 @@
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Waterbedrijf Groningen | Water, afval- en afvalwaterbeheer en sanering | 25-05-2024 | Waterbedrijf Groningen heeft gemeld dat klantgegevens mogelijk gelekt zijn tijdens een ransomwareaanval op AddComm, een bedrijf dat klantcommunicatie verzorgt. De aanval, die tussen 5 en 17 mei plaatsvond, resulteerde in versleutelde systemen en gestolen data. Het is nog onbekend welke specifieke gegevens zijn buitgemaakt en wie verantwoordelijk is voor de aanval. AddComm heeft cyberbeveiligingsexperts ingeschakeld en werkt aan het herstellen van de systemen. Klanten van Waterbedrijf Groningen zijn geadviseerd om alert te zijn op verdachte e-mails. (Bron: tweakers.net)"
+        "content_text": "Waterbedrijf Groningen | Water, afval- en afvalwaterbeheer en sanering | 25-05-2024 | DataLekt.nl: Waterbedrijf Groningen heeft gemeld dat klantgegevens mogelijk gelekt zijn tijdens een ransomwareaanval op AddComm, een bedrijf dat klantcommunicatie verzorgt. De aanval, die tussen 5 en 17 mei plaatsvond, resulteerde in versleutelde systemen en gestolen data. Het is nog onbekend welke specifieke gegevens zijn buitgemaakt en wie verantwoordelijk is voor de aanval. AddComm heeft cyberbeveiligingsexperts ingeschakeld en werkt aan het herstellen van de systemen. Klanten van Waterbedrijf Groningen zijn geadviseerd om alert te zijn op verdachte e-mails. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=a0c6e6da4242322d25e41fbae2f2329f8d06fd161aae1728e05f4c2636db9ede",
+        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=0bb9c020a151abfed915844efeefca99f555df933db3c678624542e2c14f98ed",
         "url": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/",
         "title": "Krimpenerwaard getroffen door datalek na cyberaanval",
         "date_published": "2024-05-26T12:04:00Z",
@@ -400,10 +413,10 @@
             "name": "ad.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Krimpenerwaard | Overheid: Gemeenten | 24-05-2024 | Addcomm, werkzaam voor de RBG, heeft een cyberaanval ondergaan die persoonsgegevens van inwoners van Krimpenerwaard in gevaar kan brengen. Er is onzekerheid over welke data precies gelekt is, maar inwoners dienen extra voorzichtig te zijn met hun digitale communicatie. (Bron: ad.nl)"
+        "content_text": "Gemeente Krimpenerwaard | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: Addcomm, werkzaam voor de RBG, heeft een cyberaanval ondergaan die persoonsgegevens van inwoners van Krimpenerwaard in gevaar kan brengen. Er is onzekerheid over welke data precies gelekt is, maar inwoners dienen extra voorzichtig te zijn met hun digitale communicatie. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=f1b1797ac6722861200f2390db6867385b4a5ad6569fa8a896cea5df9671b6b4",
+        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=a3bf1a55bc8c169416f167a111592875982b4a3f2b037353f05983653368f368",
         "url": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/",
         "title": "Datalek bedreigt privacy van Rotterdamse belastingbetalers",
         "date_published": "2024-05-26T12:03:00Z",
@@ -413,10 +426,10 @@
             "name": "ad.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Rotterdam | Overheid: Gemeenten | 24-05-2024 | In Rotterdam kunnen persoonsgegevens blootgesteld zijn door een cyberaanval op Addcomm, leverancier van de RBG. Details over de omvang van het datalek zijn nog niet vrijgegeven, maar de dreiging omvat mogelijk gevoelige informatie. Maatregelen en waarschuwingen zijn afgegeven om verdere schade te beperken. (Bron: ad.nl)"
+        "content_text": "Gemeente Rotterdam | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: In Rotterdam kunnen persoonsgegevens blootgesteld zijn door een cyberaanval op Addcomm, leverancier van de RBG. Details over de omvang van het datalek zijn nog niet vrijgegeven, maar de dreiging omvat mogelijk gevoelige informatie. Maatregelen en waarschuwingen zijn afgegeven om verdere schade te beperken. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=38ae5ee9fc6c140da37a41251ed5e9c06ea8fbddd980ba2d59b9cfca67c0f9d6",
+        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=cf394938bd670bd9fc107eb0489474b8c027ec533377a29e16b63832b806350d",
         "url": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/",
         "title": "Schiedamse inwonersdata mogelijk gestolen na cyberincident bij Addcomm",
         "date_published": "2024-05-26T12:02:00Z",
@@ -426,10 +439,10 @@
             "name": "ad.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Schiedam | Overheid: Gemeenten | 24-05-2024 | De recente cyberaanval op Addcomm heeft potentieel geleid tot het lekken van persoonlijke data van inwoners van Schiedam. De RBG, die gebruikmaakt van Addcomm voor belastingverwerking, onderzoekt welke gegevens zijn betrokken. Burgers worden aangemoedigd alert te zijn op phishingpogingen. (Bron: ad.nl)"
+        "content_text": "Gemeente Schiedam | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: De recente cyberaanval op Addcomm heeft potentieel geleid tot het lekken van persoonlijke data van inwoners van Schiedam. De RBG, die gebruikmaakt van Addcomm voor belastingverwerking, onderzoekt welke gegevens zijn betrokken. Burgers worden aangemoedigd alert te zijn op phishingpogingen. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=9ffad59ed5ed3ad083a1e63b8e4f966b2b8d3ef7780daa87df2d8f51f8b07512",
+        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=985e9c60f403434dee36216373c62928f8d56d1393da854152de3d0a5fdf465e",
         "url": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/",
         "title": "Cyberaanval treft persoonsgegevens via belastingdienstleverancier in Vlaardingen",
         "date_published": "2024-05-26T12:01:00Z",
@@ -439,10 +452,10 @@
             "name": "ad.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Vlaardingen | Overheid: Gemeenten | 24-05-2024 | Na een cyberaanval op Addcomm, de ICT-leverancier van de Regionale Belasting Groep (RBG), staan persoonsgegevens van inwoners van Vlaardingen mogelijk op straat. Onbekend is nog welke informatie exact is buitgemaakt. Er is een advies uitgegaan om waakzaam te zijn bij het openen van e-mails. (Bron: ad.nl)"
+        "content_text": "Gemeente Vlaardingen | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: Na een cyberaanval op Addcomm, de ICT-leverancier van de Regionale Belasting Groep (RBG), staan persoonsgegevens van inwoners van Vlaardingen mogelijk op straat. Onbekend is nog welke informatie exact is buitgemaakt. Er is een advies uitgegaan om waakzaam te zijn bij het openen van e-mails. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=ed784b7e068cda010c7ff703ecbff2c1139a4342cb8addd561ef23f54048b9be",
+        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=116fd50079e8081f5bc61b3146ed1766adf5c90c9d8f594bd3748cfe93fa7521",
         "url": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/",
         "title": "Regionale Belasting Groep geconfronteerd met ernstig datalek via Addcomm",
         "date_published": "2024-05-26T12:00:00Z",
@@ -452,10 +465,10 @@
             "name": "ad.nl"
         },
         "content_html": "",
-        "content_text": "Regionale Belasting Groep | Overheid: Regionale samenwerkingsorganen | 24-05-2024 | De RBG heeft een kritieke situatie door een cyberaanval op hun leverancier Addcomm, met mogelijke diefstal van uitgebreide klantgegevens als gevolg. Dit incident benadrukt de noodzaak van verscherpte digitale beveiliging en voorlichting over cyberveiligheid aan klanten. (Bron: ad.nl)"
+        "content_text": "Regionale Belasting Groep | Overheid: Regionale samenwerkingsorganen | 24-05-2024 | DataLekt.nl: De RBG heeft een kritieke situatie door een cyberaanval op hun leverancier Addcomm, met mogelijke diefstal van uitgebreide klantgegevens als gevolg. Dit incident benadrukt de noodzaak van verscherpte digitale beveiliging en voorlichting over cyberveiligheid aan klanten. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.bnr.nl/nieuws/tech-innovatie/10547811/mogelijk-gegevens-van-klanten-abnamro-gelekt-bij-cyberaanval?datalekt=1180e0e201a7c2418cd27a56d26e9a9ffedd8b3c45d5b9981ea34acad235fd27",
+        "id": "https://www.bnr.nl/nieuws/tech-innovatie/10547811/mogelijk-gegevens-van-klanten-abnamro-gelekt-bij-cyberaanval?datalekt=856f617ff4474faf23a50de3c69a1870612a9564e2502f8df350bedbd05e7b4d",
         "url": "https://www.bnr.nl/nieuws/tech-innovatie/10547811/mogelijk-gegevens-van-klanten-abnamro-gelekt-bij-cyberaanval",
         "title": "Cyberaanval op leverancier leidt tot mogelijk datalek bij ABN Amro klanten",
         "date_published": "2024-05-26T11:59:00Z",
@@ -465,10 +478,10 @@
             "name": "bnr.nl"
         },
         "content_html": "",
-        "content_text": "ABN Amro | Financi\u00eble instellingen | 24-05-2024 | Bij een cyberaanval op AddComm, een leverancier gespecialiseerd in klantcommunicatie, zijn mogelijk klantgegevens van ABN Amro buitgemaakt. Hoewel er geen directe aanwijzingen zijn dat deze gegevens misbruikt zijn en de systemen van de bank zelf niet getroffen zijn, heeft ABN Amro uit voorzorg de samenwerking met AddComm gestaakt. Klanten wiens gegevens mogelijk gecompromitteerd waren, zijn ingelicht en het incident is gemeld bij de toezichthouders. De hack vond plaats tussen 5 en 17 mei. (Bron: bnr.nl)"
+        "content_text": "ABN Amro | Financi\u00eble instellingen | 24-05-2024 | DataLekt.nl: Bij een cyberaanval op AddComm, een leverancier gespecialiseerd in klantcommunicatie, zijn mogelijk klantgegevens van ABN Amro buitgemaakt. Hoewel er geen directe aanwijzingen zijn dat deze gegevens misbruikt zijn en de systemen van de bank zelf niet getroffen zijn, heeft ABN Amro uit voorzorg de samenwerking met AddComm gestaakt. Klanten wiens gegevens mogelijk gecompromitteerd waren, zijn ingelicht en het incident is gemeld bij de toezichthouders. De hack vond plaats tussen 5 en 17 mei. (Bron: bnr.nl)"
     },
     {
-        "id": "https://www.rtvdrenthe.nl/nieuws/16538055/mogelijk-datalek-bij-waterschap-drents-overijsselse-delta?datalekt=e54caa1a90d8c0705494bfe45529c4f24184562a900ba573c6562957dd7b85c4",
+        "id": "https://www.rtvdrenthe.nl/nieuws/16538055/mogelijk-datalek-bij-waterschap-drents-overijsselse-delta?datalekt=c5457c3ae0a0d190247a5577c76c98e7d88bf4967a040f00e89b4f4ee85add43",
         "url": "https://www.rtvdrenthe.nl/nieuws/16538055/mogelijk-datalek-bij-waterschap-drents-overijsselse-delta",
         "title": "Datalek bij WDO Delta door openbaar geo-informatieportaal",
         "date_published": "2024-05-26T11:58:00Z",
@@ -478,10 +491,10 @@
             "name": "rtvdrenthe.nl"
         },
         "content_html": "",
-        "content_text": "Waterschap Drents Overijsselse Delta (WDO Delta) | Overheid: Waterschappen | 23-05-2024 | Waterschap Drents Overijsselse Delta (WDO Delta) meldde een mogelijk datalek waarbij een online portaal dat persoonsgegevens bevatte tijdelijk toegankelijk was. Adresgegevens en burgerservicenummers van perceeleigenaren waren zichtbaar. Het lek, veroorzaakt door een configuratiefout in het geo-informatieportaal, werd snel gedicht na ontdekking, en zowel de Autoriteit Persoonsgegevens als het Kadaster zijn ge\u00efnformeerd. Het is onbekend of onbevoegden de gegevens hebben ingezien. (Bron: rtvdrenthe.nl)"
+        "content_text": "Waterschap Drents Overijsselse Delta (WDO Delta) | Overheid: Waterschappen | 23-05-2024 | DataLekt.nl: Waterschap Drents Overijsselse Delta (WDO Delta) meldde een mogelijk datalek waarbij een online portaal dat persoonsgegevens bevatte tijdelijk toegankelijk was. Adresgegevens en burgerservicenummers van perceeleigenaren waren zichtbaar. Het lek, veroorzaakt door een configuratiefout in het geo-informatieportaal, werd snel gedicht na ontdekking, en zowel de Autoriteit Persoonsgegevens als het Kadaster zijn ge\u00efnformeerd. Het is onbekend of onbevoegden de gegevens hebben ingezien. (Bron: rtvdrenthe.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d20a5f4480130821c200a7f6f285d757224fe607153251746a63b291304c7429",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b047efd130c8009b7185b1df4ce81dbd2c0f0da6a7cb8e01df570894a6ca63f0",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Heras getroffen door ransomware aanval van de criminele organisatie Medusa",
         "date_published": "2024-05-25T09:57:00Z",
@@ -491,10 +504,10 @@
             "name": "ccinfo.nl"
         },
         "content_html": "",
-        "content_text": "Heras | Groot- en detailhandel | 21-05-2024 | De criminele organisatie Medusa heeft op het darkweb aangekondigd dat zij Heras heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+        "content_text": "Heras | Groot- en detailhandel | 21-05-2024 | DataLekt.nl: De criminele organisatie Medusa heeft op het darkweb aangekondigd dat zij Heras heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.staedion.nl/over-staedion/nieuws/datalek-bij-leverancier-addcomm?datalekt=7d6f43f4bb19d9b5acd687d7f1b99bce50f027e97cf13af102cd96bb87ec1110",
+        "id": "https://www.staedion.nl/over-staedion/nieuws/datalek-bij-leverancier-addcomm?datalekt=ec5723512349b792a3d96ce07d2aeb1a83e489032f72ff09b73bcc5f96668433",
         "url": "https://www.staedion.nl/over-staedion/nieuws/datalek-bij-leverancier-addcomm",
         "title": "Datalek bij Staedion&#039;s digitale berichtendienst AddComm",
         "date_published": "2024-05-25T09:52:00Z",
@@ -504,10 +517,10 @@
             "name": "staedion.nl"
         },
         "content_html": "",
-        "content_text": "Staedion | Verhuur van en handel in onroerend goed | 23-05-2024 | Staedion, een verhuurder van woningen, heeft een datalek ondervonden bij hun leverancier AddComm. Dit datalek, ontdekt op 17 mei, kwam aan het licht toen cybercriminelen toegang verkregen tot persoonsgegevens van Staedion&#039;s huurders. Hoewel nog onbekend is welke specifieke gegevens gelekt zijn, zijn er geen wachtwoorden betrokken. Er wordt onderzoek gedaan naar de aard en omvang van de gestolen gegevens. Staedion en AddComm hebben direct maatregelen genomen om verdere schade te voorkomen en autoriteiten ingelicht. (Bron: staedion.nl)"
+        "content_text": "Staedion | Verhuur van en handel in onroerend goed | 23-05-2024 | DataLekt.nl: Staedion, een verhuurder van woningen, heeft een datalek ondervonden bij hun leverancier AddComm. Dit datalek, ontdekt op 17 mei, kwam aan het licht toen cybercriminelen toegang verkregen tot persoonsgegevens van Staedion&#039;s huurders. Hoewel nog onbekend is welke specifieke gegevens gelekt zijn, zijn er geen wachtwoorden betrokken. Er wordt onderzoek gedaan naar de aard en omvang van de gestolen gegevens. Staedion en AddComm hebben direct maatregelen genomen om verdere schade te voorkomen en autoriteiten ingelicht. (Bron: staedion.nl)"
     },
     {
-        "id": "https://www.eigenhaard.nl/eigen-haard/nieuws/2024/hack-bij-leverancier-pas-op-je-e-mail/?datalekt=0e73ca83b55af987126e3b8e2add3f95eb8e2da3f3b813d20d06f3224d459627",
+        "id": "https://www.eigenhaard.nl/eigen-haard/nieuws/2024/hack-bij-leverancier-pas-op-je-e-mail/?datalekt=a40624de89535e1d58d08bb4f796c2c5e5a0c77180214222b00c4de90568beb1",
         "url": "https://www.eigenhaard.nl/eigen-haard/nieuws/2024/hack-bij-leverancier-pas-op-je-e-mail/",
         "title": "Cyberaanval treft verzendingsdienst Addcomm en mogelijk klantgegevens van Eigen Haard",
         "date_published": "2024-05-25T09:50:00Z",
@@ -517,10 +530,10 @@
             "name": "eigenhaard.nl"
         },
         "content_html": "",
-        "content_text": "Eigen Haard | Verhuur van en handel in onroerend goed | 22-05-2024 | Addcomm, de leverancier van verzendingsdiensten voor Eigen Haard, werd het doelwit van een cyberaanval op 22 mei 2024. Het is nog onduidelijk of er huurdersgegevens van Eigen Haard zijn gestolen. Als voorzorgsmaatregel heeft Eigen Haard haar eigen beveiligingsmaatregelen versterkt en samen met Addcomm een melding gedaan bij de Autoriteit Persoonsgegevens. Huurders worden geadviseerd extra alert te zijn op verdachte e-mails en contact op te nemen bij zorgen over hun privacy. (Bron: eigenhaard.nl)"
+        "content_text": "Eigen Haard | Verhuur van en handel in onroerend goed | 22-05-2024 | DataLekt.nl: Addcomm, de leverancier van verzendingsdiensten voor Eigen Haard, werd het doelwit van een cyberaanval op 22 mei 2024. Het is nog onduidelijk of er huurdersgegevens van Eigen Haard zijn gestolen. Als voorzorgsmaatregel heeft Eigen Haard haar eigen beveiligingsmaatregelen versterkt en samen met Addcomm een melding gedaan bij de Autoriteit Persoonsgegevens. Huurders worden geadviseerd extra alert te zijn op verdachte e-mails en contact op te nemen bij zorgen over hun privacy. (Bron: eigenhaard.nl)"
     },
     {
-        "id": "https://gbtwente.nl/nieuws/mogelijk-data-ontvreemd-door-ransomware-aanval-bij-leverancier?datalekt=09fede5bf5e576452240849885863594c47ced5dc639032a5eeef03aac11a87f",
+        "id": "https://gbtwente.nl/nieuws/mogelijk-data-ontvreemd-door-ransomware-aanval-bij-leverancier?datalekt=710ef866c8f288440fcc0d49fbce3b735109fc39afd18a4fabf163336a559b18",
         "url": "https://gbtwente.nl/nieuws/mogelijk-data-ontvreemd-door-ransomware-aanval-bij-leverancier",
         "title": "Ransomware-aanval bij AddComm leidt mogelijk tot datadiefstal bij GBTwente",
         "date_published": "2024-05-25T09:48:00Z",
@@ -530,10 +543,10 @@
             "name": "gbtwente.nl"
         },
         "content_html": "",
-        "content_text": "GBTwente | Overheid: Regionale samenwerkingsorganen | 23-05-2024 | De leverancier AddComm van GBTwente werd onlangs getroffen door een ransomware-aanval waarbij mogelijk data is ontvreemd. Op dit moment is nog niet duidelijk welke specifieke gegevens zijn gestolen. GBTwente heeft onmiddellijk maatregelen getroffen om verdere schade te voorkomen, waaronder het melden bij de Autoriteit Persoonsgegevens. De leverancier werkt samen met experts aan een onderzoek naar de volledige omvang van de inbreuk. Er wordt gewaarschuwd extra voorzichtig te zijn met verdachte communicatie. (Bron: gbtwente.nl)"
+        "content_text": "GBTwente | Overheid: Regionale samenwerkingsorganen | 23-05-2024 | DataLekt.nl: De leverancier AddComm van GBTwente werd onlangs getroffen door een ransomware-aanval waarbij mogelijk data is ontvreemd. Op dit moment is nog niet duidelijk welke specifieke gegevens zijn gestolen. GBTwente heeft onmiddellijk maatregelen getroffen om verdere schade te voorkomen, waaronder het melden bij de Autoriteit Persoonsgegevens. De leverancier werkt samen met experts aan een onderzoek naar de volledige omvang van de inbreuk. Er wordt gewaarschuwd extra voorzichtig te zijn met verdachte communicatie. (Bron: gbtwente.nl)"
     },
     {
-        "id": "https://www.ad.nl/amersfoort/huurders-van-portaal-mogelijk-slachtoffer-van-grote-cyberaanval-bij-amersfoorts-bedrijf-losgeld-geeist~a3d6fa2b/?datalekt=7abf42f9ebfc4e2fa22eca4f54442fbe5598dd281b8e5911d8f25a970f256888",
+        "id": "https://www.ad.nl/amersfoort/huurders-van-portaal-mogelijk-slachtoffer-van-grote-cyberaanval-bij-amersfoorts-bedrijf-losgeld-geeist~a3d6fa2b/?datalekt=46d2b7ca57594832544e7cfc4300cf7f2f62ed215cc3115bb48cd70ffa5643cf",
         "url": "https://www.ad.nl/amersfoort/huurders-van-portaal-mogelijk-slachtoffer-van-grote-cyberaanval-bij-amersfoorts-bedrijf-losgeld-geeist~a3d6fa2b/",
         "title": "Datalek bij Portaal&#039;s communicatieleverancier treft huurdersgegevens",
         "date_published": "2024-05-24T10:15:00Z",
@@ -543,10 +556,10 @@
             "name": "ad.nl"
         },
         "content_html": "",
-        "content_text": "Portaal | Verhuur van en handel in onroerend goed | 22-05-2024 | Op 17 mei werd bekend dat de leverancier AddComm van Portaal, verantwoordelijk voor het versturen van digitale berichten, slachtoffer is geworden van een datalek. Dit lek zou persoonsgegevens van huurders zoals namen, adressen, en bankrekeningnummers kunnen betreffen. Er zijn geen wachtwoorden of andere gevoelige informatie gelekt. Portaal heeft de Autoriteit Persoonsgegevens ingelicht en onderzoekt samen met de leverancier de omvang van het lek. Bewoners worden gewaarschuwd voor mogelijke phishing-pogingen die hun persoonsgegevens misbruiken. (Bron: ad.nl)"
+        "content_text": "Portaal | Verhuur van en handel in onroerend goed | 22-05-2024 | DataLekt.nl: Op 17 mei werd bekend dat de leverancier AddComm van Portaal, verantwoordelijk voor het versturen van digitale berichten, slachtoffer is geworden van een datalek. Dit lek zou persoonsgegevens van huurders zoals namen, adressen, en bankrekeningnummers kunnen betreffen. Er zijn geen wachtwoorden of andere gevoelige informatie gelekt. Portaal heeft de Autoriteit Persoonsgegevens ingelicht en onderzoekt samen met de leverancier de omvang van het lek. Bewoners worden gewaarschuwd voor mogelijke phishing-pogingen die hun persoonsgegevens misbruiken. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570?datalekt=03752f4713754050d8a417663ed849e55c02a94790e7decbc428261e6f4f4bc3",
+        "id": "https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570?datalekt=953154752d4f81f498db3dda81e93ac7db57f209f34038c525a54c6155b4c26b",
         "url": "https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570",
         "title": "Datalek bij Geoinformatieportaal HHNK met risico op lek van persoonlijke en kadastrale gegevens",
         "date_published": "2024-05-17T09:52:00Z",
@@ -556,10 +569,10 @@
             "name": "noordhollandsdagblad.nl"
         },
         "content_html": "",
-        "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 14-05-2024 | Begin mei werd een datalek ontdekt in het Geoinformatieportaal van HHNK, waarbij persoonsgegevens zoals BSN en adresgegevens mogelijk gelekt zijn. De gelekte informatie omvat gegevens over kadastrale objecten en eigendommen. Door onjuiste verwerking waren deze gegevens toegankelijk voor onbevoegden. Maatregelen, zoals het uitzetten van de gegevensverwerking en het melden bij de Autoriteit Persoonsgegevens, zijn getroffen om de toegang te blokkeren. Dit heeft mogelijk vertragingen in vergunningsaanvragen en grondtransacties tot gevolg. (Bron: noordhollandsdagblad.nl)"
+        "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 14-05-2024 | DataLekt.nl: Begin mei werd een datalek ontdekt in het Geoinformatieportaal van HHNK, waarbij persoonsgegevens zoals BSN en adresgegevens mogelijk gelekt zijn. De gelekte informatie omvat gegevens over kadastrale objecten en eigendommen. Door onjuiste verwerking waren deze gegevens toegankelijk voor onbevoegden. Maatregelen, zoals het uitzetten van de gegevensverwerking en het melden bij de Autoriteit Persoonsgegevens, zijn getroffen om de toegang te blokkeren. Dit heeft mogelijk vertragingen in vergunningsaanvragen en grondtransacties tot gevolg. (Bron: noordhollandsdagblad.nl)"
     },
     {
-        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=b5246e2abad74988fe77211be43a0f478c5328d8f6555b51b562db4cd61c7bf4",
+        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=2707bed845c413ac750dcda8a3357575a83fee0ed4011cdc4679978a4230d791",
         "url": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt",
         "title": "Onbekende klanten van AddComm vrezen gevolgen van ransomware-inbraak",
         "date_published": "2024-05-24T09:47:00Z",
@@ -569,10 +582,10 @@
             "name": "telegraaf.nl"
         },
         "content_html": "",
-        "content_text": "60 onbekende organisaties | Overige dienstverlening | 23-05-2024 | Ongeveer zestig organisaties, klanten van AddComm, zijn indirect getroffen door een recente ransomware-aanval op dit bedrijf. Zij staan nu voor de uitdaging om de mogelijke impact te beoordelen, aangezien het nog onduidelijk is welke specifieke gegevens zijn gestolen. Deze organisaties, vari\u00ebrend van gemeenten tot commerci\u00eble partijen, vrezen voor de veiligheid van persoonlijke en zakelijke informatie van hun burgers en klanten, en bereiden zich voor op mogelijke gevolgen van de datalek. (Bron: telegraaf.nl)"
+        "content_text": "60 onbekende organisaties | Overige dienstverlening | 23-05-2024 | DataLekt.nl: Ongeveer zestig organisaties, klanten van AddComm, zijn indirect getroffen door een recente ransomware-aanval op dit bedrijf. Zij staan nu voor de uitdaging om de mogelijke impact te beoordelen, aangezien het nog onduidelijk is welke specifieke gegevens zijn gestolen. Deze organisaties, vari\u00ebrend van gemeenten tot commerci\u00eble partijen, vrezen voor de veiligheid van persoonlijke en zakelijke informatie van hun burgers en klanten, en bereiden zich voor op mogelijke gevolgen van de datalek. (Bron: telegraaf.nl)"
     },
     {
-        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=bd2d8a6296e7a793c4b508715c7206514b5a5a563badc58e151e81555e2174d5",
+        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=45d883f443d328a6fa6f74c58bf35fc8ef76e7948fc13cb01e08e05ee176b915",
         "url": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt",
         "title": "Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties",
         "date_published": "2024-05-24T09:46:00Z",
@@ -582,10 +595,10 @@
             "name": "telegraaf.nl"
         },
         "content_html": "",
-        "content_text": "AddComm | Informatie en communicatie | 23-05-2024 | AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 30 mei 2024 is bekend geworden dat AddComm tot het betalen van losgeld is overgegaan.] (Bron: telegraaf.nl)"
+        "content_text": "AddComm | Informatie en communicatie | 23-05-2024 | DataLekt.nl: AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 30 mei 2024 is bekend geworden dat AddComm tot het betalen van losgeld is overgegaan.] (Bron: telegraaf.nl)"
     },
     {
-        "id": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=ea25c1074654aca3bbbf4274b1baf906054d64b0d75df8297728504c222838ea",
+        "id": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=8f6ba20599d0b5150d42778acd1e49c68c19a3489372686f2ce2e2789c5b3956",
         "url": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/",
         "title": "Jaaroverzicht 2023 onthult toename in datalekken bij gemeente Eindhoven",
         "date_published": "2024-05-24T09:45:00Z",
@@ -595,10 +608,10 @@
             "name": "ed.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-05-2024 | Het jaaroverzicht van 2023 van de gemeente Eindhoven toont een stijging in het aantal datalekken tot 266 incidenten, vari\u00ebrend van verkeerd verstuurde communicatie tot het verlies van apparatuur. De Autoriteit Persoonsgegevens houdt de gemeente onder verscherpt toezicht vanwege zorgen over de omgang met persoonsgegevens. Bij 28 ernstige lekken is er melding gemaakt bij de AP. Het rapport onderstreept de noodzaak van verbeteringen om mogelijke boetes te vermijden. (Bron: ed.nl)"
+        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-05-2024 | DataLekt.nl: Het jaaroverzicht van 2023 van de gemeente Eindhoven toont een stijging in het aantal datalekken tot 266 incidenten, vari\u00ebrend van verkeerd verstuurde communicatie tot het verlies van apparatuur. De Autoriteit Persoonsgegevens houdt de gemeente onder verscherpt toezicht vanwege zorgen over de omgang met persoonsgegevens. Bij 28 ernstige lekken is er melding gemaakt bij de AP. Het rapport onderstreept de noodzaak van verbeteringen om mogelijke boetes te vermijden. (Bron: ed.nl)"
     },
     {
-        "id": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=b9ef6dfa1ded3b3a3d19ccf87524a3097c4faebb42680cd6652421516c75595e",
+        "id": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=45ee0b76ba8aca9a4d8f07001355bb9268089dd847231d08755f96bcc1e74a0b",
         "url": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/",
         "title": "Datalek bij gemeente Eindhoven: BSN-gegevens van meer dan 220.000 inwoners tijdelijk toegankelijk",
         "date_published": "2024-05-24T09:44:00Z",
@@ -608,10 +621,10 @@
             "name": "ed.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-05-2024 | In Eindhoven waren burgerservicenummers van 221.511 inwoners kortstondig toegankelijk voor gemeenteambtenaren door een intern datalek, ontdekt door een ICT-medewerker. Het lek, dat enkele uren duurde, werd snel na ontdekking gemeld bij de Autoriteit Persoonsgegevens. De gemeente nam onmiddellijk maatregelen, maar heeft de inwoners niet ge\u00efnformeerd, omdat het risico op misbruik onwaarschijnlijk werd geacht. Details over de genomen beveiligingsmaatregelen zijn niet openbaar gemaakt. (Bron: ed.nl)"
+        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-05-2024 | DataLekt.nl: In Eindhoven waren burgerservicenummers van 221.511 inwoners kortstondig toegankelijk voor gemeenteambtenaren door een intern datalek, ontdekt door een ICT-medewerker. Het lek, dat enkele uren duurde, werd snel na ontdekking gemeld bij de Autoriteit Persoonsgegevens. De gemeente nam onmiddellijk maatregelen, maar heeft de inwoners niet ge\u00efnformeerd, omdat het risico op misbruik onwaarschijnlijk werd geacht. Details over de genomen beveiligingsmaatregelen zijn niet openbaar gemaakt. (Bron: ed.nl)"
     },
     {
-        "id": "https://www.mechaman.nl/artikel/20240517/lemken-getroffen-door-cyberaanval/?datalekt=4814ff6e929df75847eb4c56e784132527fc6061e6453badf57a2b352ffea526",
+        "id": "https://www.mechaman.nl/artikel/20240517/lemken-getroffen-door-cyberaanval/?datalekt=1a8413fde8fbde2ac5a221ced858bc39ca47f3aae0e9c2d05ffb21966afd021b",
         "url": "https://www.mechaman.nl/artikel/20240517/lemken-getroffen-door-cyberaanval/",
         "title": "Cyberaanval treft Lemken, be\u00efnvloedt wereldwijde locaties",
         "date_published": "2024-05-18T15:52:00Z",
@@ -621,10 +634,10 @@
             "name": "mechaman.nl"
         },
         "content_html": "",
-        "content_text": "Lemken | Groot- en detailhandel | 17-05-2024 | Op 11 mei werd machinefabrikant Lemken getroffen door een cyberaanval die al hun wereldwijde locaties raakte. De firma moest hierdoor alle IT-systemen en de productie stilleggen. De medewerkers van Lemken moesten vanuit huis werken terwijl het bedrijf, met assistentie van specialisten, de schade analyseerde en werkte aan een nieuwe IT-infrastructuur. Onderdelen bleven beschikbaar via Agroparts, ondanks de hinder in dagelijkse werkzaamheden. De financi\u00eble en operationele impact van deze gebeurtenis is significant, maar specifieke details over de omvang van de schade of het aantal direct getroffen klanten zijn niet vermeld. (Bron: mechaman.nl)"
+        "content_text": "Lemken | Groot- en detailhandel | 17-05-2024 | DataLekt.nl: Op 11 mei werd machinefabrikant Lemken getroffen door een cyberaanval die al hun wereldwijde locaties raakte. De firma moest hierdoor alle IT-systemen en de productie stilleggen. De medewerkers van Lemken moesten vanuit huis werken terwijl het bedrijf, met assistentie van specialisten, de schade analyseerde en werkte aan een nieuwe IT-infrastructuur. Onderdelen bleven beschikbaar via Agroparts, ondanks de hinder in dagelijkse werkzaamheden. De financi\u00eble en operationele impact van deze gebeurtenis is significant, maar specifieke details over de omvang van de schade of het aantal direct getroffen klanten zijn niet vermeld. (Bron: mechaman.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/222036/ranzijn-dierenarts-meldt-datalek-persoons-en-dierengegevens-na-cyberaanval.html?datalekt=79a42b2e0fd1a9e01e183a92ee17211e9389b3c56a16fae9f163f393e1f76ba0",
+        "id": "https://tweakers.net/nieuws/222036/ranzijn-dierenarts-meldt-datalek-persoons-en-dierengegevens-na-cyberaanval.html?datalekt=660d00ab4d270ca4715a7ca9e55a12c1ba475d25a1ff7eaac5d0cf85d1fe8975",
         "url": "https://tweakers.net/nieuws/222036/ranzijn-dierenarts-meldt-datalek-persoons-en-dierengegevens-na-cyberaanval.html",
         "title": "Datalek bij Ranzijn Dierenarts na cyberaanval door criminele groep",
         "date_published": "2024-05-18T15:49:00Z",
@@ -634,10 +647,10 @@
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Ranzijn Dierenarts | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 16-05-2024 | Ranzijn Dierenarts heeft bekendgemaakt dat persoons- en dierengegevens zijn gelekt als gevolg van een cyberaanval door een criminele groepering. De aanvallers hebben toegang gekregen tot interne systemen, waarbij persoonlijke details zoals namen, adressen en e-mailadressen zijn ontvreemd. Belangrijk is dat er geen financi\u00eble data is gelekt. Ranzijn heeft de getroffen klanten ingelicht en maatregelen getroffen door externe experts in te schakelen en de Autoriteit Persoonsgegevens op de hoogte te stellen. (Bron: tweakers.net)"
+        "content_text": "Ranzijn Dierenarts | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 16-05-2024 | DataLekt.nl: Ranzijn Dierenarts heeft bekendgemaakt dat persoons- en dierengegevens zijn gelekt als gevolg van een cyberaanval door een criminele groepering. De aanvallers hebben toegang gekregen tot interne systemen, waarbij persoonlijke details zoals namen, adressen en e-mailadressen zijn ontvreemd. Belangrijk is dat er geen financi\u00eble data is gelekt. Ranzijn heeft de getroffen klanten ingelicht en maatregelen getroffen door externe experts in te schakelen en de Autoriteit Persoonsgegevens op de hoogte te stellen. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.security.nl/posting/841570/SVB+meldde+vorig+jaar+bijna+700+datalekken+bij+Autoriteit+Persoonsgegevens?datalekt=c66a4fbe6b7f8f285d0eb9ea0ba80c327b7f7c091b49644852c9b301b90c62df",
+        "id": "https://www.security.nl/posting/841570/SVB+meldde+vorig+jaar+bijna+700+datalekken+bij+Autoriteit+Persoonsgegevens?datalekt=056ddcd8e9ec2bbacbc2ff7a93852225ab2d53255a94a2ef7b09ac18deeba731",
         "url": "https://www.security.nl/posting/841570/SVB+meldde+vorig+jaar+bijna+700+datalekken+bij+Autoriteit+Persoonsgegevens",
         "title": "Zorgelijke toename van datalekken bij de SVB in 2023",
         "date_published": "2024-05-17T09:55:00Z",
@@ -647,10 +660,10 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Sociale Verzekeringsbank (SVB) | Overheid: Zelfstandige bestuursorganen | 15-05-2024 | In 2023 meldde de Sociale Verzekeringsbank (SVB) een stijging in het aantal datalekken tot 669 incidenten, een toename vergeleken met het jaar ervoor. Deze lekken, voornamelijk veroorzaakt door verkeerd geadresseerde correspondentie, hadden meestal beperkte impact op de betrokken personen. Desondanks werd de SVB beboet voor een specifiek incident uit 2019, waarbij de privacywaarborgen onvoldoende bleken. Dit heeft geleid tot verhoogde aandacht en preventieve maatregelen door de SVB om dergelijke incidenten in de toekomst te voorkomen. (Bron: security.nl)"
+        "content_text": "Sociale Verzekeringsbank (SVB) | Overheid: Zelfstandige bestuursorganen | 15-05-2024 | DataLekt.nl: In 2023 meldde de Sociale Verzekeringsbank (SVB) een stijging in het aantal datalekken tot 669 incidenten, een toename vergeleken met het jaar ervoor. Deze lekken, voornamelijk veroorzaakt door verkeerd geadresseerde correspondentie, hadden meestal beperkte impact op de betrokken personen. Desondanks werd de SVB beboet voor een specifiek incident uit 2019, waarbij de privacywaarborgen onvoldoende bleken. Dit heeft geleid tot verhoogde aandacht en preventieve maatregelen door de SVB om dergelijke incidenten in de toekomst te voorkomen. (Bron: security.nl)"
     },
     {
-        "id": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=78016fac31621296d9798523376d9c7858900742ef47208d14d65aeac65eabae",
+        "id": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=34882124d8e4e32901d1c6732c9c553daa19ebee29b49a2ef878bd2c493d6357",
         "url": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem",
         "title": "VCK Travel betrokken bij datalek Radboud Universiteit",
         "date_published": "2024-05-14T16:23:00Z",
@@ -660,10 +673,10 @@
             "name": "voxweb.nl"
         },
         "content_html": "",
-        "content_text": "VCK Travel | Informatie en communicatie | 08-05-2024 | Bij een recente fout in het nieuwe reissysteem van de Radboud Universiteit, uitgevoerd door VCK Travel, hadden 650 medewerkers onrechtmatig toegang tot gevoelige gegevens. Het betrof informatie zoals vlucht- en hotelgegevens van collega&#039;s, wat door VCK Travel en de universiteit als een risico met lage impact werd beschouwd. De kwestie werd snel opgelost en er is geen melding gedaan bij de Autoriteit Persoonsgegevens, ondanks tegenadvies van privacydeskundigen. (Bron: voxweb.nl)"
+        "content_text": "VCK Travel | Informatie en communicatie | 08-05-2024 | DataLekt.nl: Bij een recente fout in het nieuwe reissysteem van de Radboud Universiteit, uitgevoerd door VCK Travel, hadden 650 medewerkers onrechtmatig toegang tot gevoelige gegevens. Het betrof informatie zoals vlucht- en hotelgegevens van collega&#039;s, wat door VCK Travel en de universiteit als een risico met lage impact werd beschouwd. De kwestie werd snel opgelost en er is geen melding gedaan bij de Autoriteit Persoonsgegevens, ondanks tegenadvies van privacydeskundigen. (Bron: voxweb.nl)"
     },
     {
-        "id": "https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken?datalekt=3dc03f3d6eb21fa48ae7b3cb765fbbbd049197f82f3f288bdc20265cf2e2e92b",
+        "id": "https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken?datalekt=e839d8b0df50999a1747772f0ae961489787cfdd003eb6f426d099bde1d0ecda",
         "url": "https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken",
         "title": "Fraude via gestolen klantgegevens bij Amsterdamse klantenservice",
         "date_published": "2024-05-12T11:11:00Z",
@@ -673,10 +686,10 @@
             "name": "om.nl"
         },
         "content_html": "",
-        "content_text": "Onbekende organisatie | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 08-05-2024 | Een 21-jarige klantenservicemedewerker uit Amsterdam is gearresteerd wegens zijn rol in een grootschalige helpdeskfraude, waarbij persoonsgegevens van ouderen werden ontvreemd. Deze gegevensroof betrof het klantenbestand van zijn werkgever, waarna de medewerker deze gegevens deelde met medeplichtigen. Deze criminelen deden zich vervolgens voor als medewerkers van een telecombedrijf of politie om de slachtoffers te bedriegen, wat resulteerde in de diefstal van geld en waardevolle voorwerpen. Het bedrijf heeft aangifte gedaan van computervredebreuk. (Bron: om.nl)"
+        "content_text": "Onbekende organisatie | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 08-05-2024 | DataLekt.nl: Een 21-jarige klantenservicemedewerker uit Amsterdam is gearresteerd wegens zijn rol in een grootschalige helpdeskfraude, waarbij persoonsgegevens van ouderen werden ontvreemd. Deze gegevensroof betrof het klantenbestand van zijn werkgever, waarna de medewerker deze gegevens deelde met medeplichtigen. Deze criminelen deden zich vervolgens voor als medewerkers van een telecombedrijf of politie om de slachtoffers te bedriegen, wat resulteerde in de diefstal van geld en waardevolle voorwerpen. Het bedrijf heeft aangifte gedaan van computervredebreuk. (Bron: om.nl)"
     },
     {
-        "id": "https://www.bndestem.nl/economie/uwv-doet-mogelijk-aangifte-150-000-cvs-illegaal-op-de-site-bekeken~a7e9dd25/?datalekt=09a3c32272440500ddad2b61f6cf401afaeb47269e1a71d2a223e76755f8022e",
+        "id": "https://www.bndestem.nl/economie/uwv-doet-mogelijk-aangifte-150-000-cvs-illegaal-op-de-site-bekeken~a7e9dd25/?datalekt=4a87a428a608ac2c3ea8a1940f16f50eb66740ead3881c208665d2b7af391e55",
         "url": "https://www.bndestem.nl/economie/uwv-doet-mogelijk-aangifte-150-000-cvs-illegaal-op-de-site-bekeken~a7e9dd25/",
         "title": "Massale inzage van cv&#039;s bij UWV wijst op datalek",
         "date_published": "2024-05-12T11:08:00Z",
@@ -686,10 +699,10 @@
             "name": "bndestem.nl"
         },
         "content_html": "",
-        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 10-05-2024 | Bij het UWV is een ernstig incident ontstaan toen een gebruiker op 4 mei illegaal toegang kreeg tot en mogelijk 150.000 cv&#039;s downloadde van de website werk.nl. Deze cv&#039;s bevatten persoonlijke gegevens van werkzoekenden. Het UWV, dat deze inzage als oneigenlijk beschouwt, heeft al stappen ondernomen door het account van de betrokken gebruiker te blokkeren en de Autoriteit Persoonsgegevens in te lichten. De getroffen personen worden ge\u00efnformeerd over de inzage en mogelijke downloads, evenals maatregelen om de impact te minimaliseren. (Bron: bndestem.nl)"
+        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 10-05-2024 | DataLekt.nl: Bij het UWV is een ernstig incident ontstaan toen een gebruiker op 4 mei illegaal toegang kreeg tot en mogelijk 150.000 cv&#039;s downloadde van de website werk.nl. Deze cv&#039;s bevatten persoonlijke gegevens van werkzoekenden. Het UWV, dat deze inzage als oneigenlijk beschouwt, heeft al stappen ondernomen door het account van de betrokken gebruiker te blokkeren en de Autoriteit Persoonsgegevens in te lichten. De getroffen personen worden ge\u00efnformeerd over de inzage en mogelijke downloads, evenals maatregelen om de impact te minimaliseren. (Bron: bndestem.nl)"
     },
     {
-        "id": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=bd720880eb536e82fb854c90ecb61fd4b79ef32bf1058933d6daeaab06052a53",
+        "id": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=eaf275da48a26d559d1bd743ce654f32d89ffa239414af43a712a07bd0fdcbc4",
         "url": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem",
         "title": "Datalek bij Radboud Universiteit door fout in reissysteem",
         "date_published": "2024-05-10T13:18:00Z",
@@ -699,10 +712,10 @@
             "name": "voxweb.nl"
         },
         "content_html": "",
-        "content_text": "Radboud Universiteit | Onderwijs | 08-05-2024 | Bij de Radboud Universiteit ontstond een datalek door een administratieve fout in het nieuwe reisaanvraagsysteem, waardoor ongeveer 650 medewerkers toegang hadden tot reisgegevens van collega&#039;s. Deze medewerkers konden reisinformatie, zoals vluchtnummers en hotelgegevens, inzien en wijzigen. De universiteit meldde dit incident niet aan de Autoriteit Persoonsgegevens, omdat ze het classificeerden als een laag-risico datalek. De betrokkenheid van reisbureau VCK Travel, de leverancier van het boekingssysteem, werd benadrukt. Hoogleraar Gerrit-Jan Zwenne adviseerde desondanks melding te maken vanwege mogelijke onderschatting van de risico&#039;s. (Bron: voxweb.nl)"
+        "content_text": "Radboud Universiteit | Onderwijs | 08-05-2024 | DataLekt.nl: Bij de Radboud Universiteit ontstond een datalek door een administratieve fout in het nieuwe reisaanvraagsysteem, waardoor ongeveer 650 medewerkers toegang hadden tot reisgegevens van collega&#039;s. Deze medewerkers konden reisinformatie, zoals vluchtnummers en hotelgegevens, inzien en wijzigen. De universiteit meldde dit incident niet aan de Autoriteit Persoonsgegevens, omdat ze het classificeerden als een laag-risico datalek. De betrokkenheid van reisbureau VCK Travel, de leverancier van het boekingssysteem, werd benadrukt. Hoogleraar Gerrit-Jan Zwenne adviseerde desondanks melding te maken vanwege mogelijke onderschatting van de risico&#039;s. (Bron: voxweb.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven?datalekt=be652c708a5768ae675019ed777d74c45d83471827ae41871ccde0b64d787fe2",
+        "id": "https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven?datalekt=917393d0abea4a70c99021ca265909142573651b47746c622d2ca7eb12bb9fc5",
         "url": "https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven",
         "title": "Datalek bij Gemeente Alphen door fout in dubbelzijdig printen",
         "date_published": "2024-05-08T15:01:00Z",
@@ -712,10 +725,10 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 08-05-2024 | De Gemeente Alphen aan den Rijn heeft onlangs een datalek ervaren doordat brieven naar schuldenaren per ongeluk dubbelzijdig geprint werden, wat resulteerde in het uitlekken van persoonsgegevens. Hierdoor ontvingen ontvangers informatie van andere inwoners met schulden. Het lek is direct gemeld bij de Autoriteit Persoonsgegevens en betrokkenen hebben instructies gekregen om de ontvangen documenten te vernietigen. Dit incident benadrukt de kwetsbaarheid van fysieke dataverwerking en de noodzaak voor strikte controlemechanismen. (Bron: security.nl)"
+        "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 08-05-2024 | DataLekt.nl: De Gemeente Alphen aan den Rijn heeft onlangs een datalek ervaren doordat brieven naar schuldenaren per ongeluk dubbelzijdig geprint werden, wat resulteerde in het uitlekken van persoonsgegevens. Hierdoor ontvingen ontvangers informatie van andere inwoners met schulden. Het lek is direct gemeld bij de Autoriteit Persoonsgegevens en betrokkenen hebben instructies gekregen om de ontvangen documenten te vernietigen. Dit incident benadrukt de kwetsbaarheid van fysieke dataverwerking en de noodzaak voor strikte controlemechanismen. (Bron: security.nl)"
     },
     {
-        "id": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=7b0886ade6c463a17b8275182b09ff154e4e3cdc7af4f3c36518b0eaab62a903",
+        "id": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=60fb27397896721078f39ddb4a4aaae2decfcd9c702d3b2c28654979a62dda29",
         "url": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet",
         "title": "Omwonenden Wijkersloot doen aangifte tegen stichting vanwege privacy-inbreuk enqu\u00eate Populytics",
         "date_published": "2024-05-06T08:22:00Z",
@@ -725,10 +738,10 @@
             "name": "wijksnieuws.nl"
         },
         "content_html": "",
-        "content_text": "Populytics | Informatie en communicatie | 03-05-2024 | De Stichting Belangen Wijkersloot en omgeving, met als leverancier Populytics, wordt beschuldigd van privacy-inbreuk bij een enqu\u00eate over windturbines in Wijk bij Duurstede. Omwonenden hebben aangifte gedaan bij de Autoriteit Persoonsgegevens omdat er geen toestemming werd gevraagd voor het gebruik van cookies, gegevens van respondenten werden opgeslagen, en ruim 500 respondenten werden gefilterd op basis van hun adres. De omwonenden zijn bezorgd over de integriteit van het onderzoek en de mogelijke manipulatie van de uitkomsten. (Bron: wijksnieuws.nl)"
+        "content_text": "Populytics | Informatie en communicatie | 03-05-2024 | DataLekt.nl: De Stichting Belangen Wijkersloot en omgeving, met als leverancier Populytics, wordt beschuldigd van privacy-inbreuk bij een enqu\u00eate over windturbines in Wijk bij Duurstede. Omwonenden hebben aangifte gedaan bij de Autoriteit Persoonsgegevens omdat er geen toestemming werd gevraagd voor het gebruik van cookies, gegevens van respondenten werden opgeslagen, en ruim 500 respondenten werden gefilterd op basis van hun adres. De omwonenden zijn bezorgd over de integriteit van het onderzoek en de mogelijke manipulatie van de uitkomsten. (Bron: wijksnieuws.nl)"
     },
     {
-        "id": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=5b5a70bee373845c76f0cd71ea1aaeed0aac9b57ccad3854457cd3a72497a6d6",
+        "id": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=6cf0578e0b584dc968228db8e028bfbf26a3a9f3a159b3c460202319aa180f3f",
         "url": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet",
         "title": "Omwonenden Wijkersloot melden privacy-inbreuk enqu\u00eate duurzame energie",
         "date_published": "2024-05-06T08:21:00Z",
@@ -738,10 +751,10 @@
             "name": "wijksnieuws.nl"
         },
         "content_html": "",
-        "content_text": "Stichting Belangen Wijkersloot en omstreken | Overige dienstverlening | 03-05-2024 | De Stichting Belangen Wijkersloot en omgeving heeft aangifte gedaan bij de Autoriteit Persoonsgegevens vanwege vermeende schending van privacyregels bij een enqu\u00eate over windturbines in Wijk bij Duurstede. De stichting meldt dat er gesjoemeld is met uitkomsten en dat de privacyrichtlijnen niet zijn nageleefd. Zo werd geen toestemming gevraagd voor het gebruik van cookies, werden gegevens van respondenten opgeslagen, en werden gegevens van ruim 500 respondenten gefilterd op basis van hun adres. Dit heeft geleid tot zorgen over de integriteit van het onderzoek. (Bron: wijksnieuws.nl)"
+        "content_text": "Stichting Belangen Wijkersloot en omstreken | Overige dienstverlening | 03-05-2024 | DataLekt.nl: De Stichting Belangen Wijkersloot en omgeving heeft aangifte gedaan bij de Autoriteit Persoonsgegevens vanwege vermeende schending van privacyregels bij een enqu\u00eate over windturbines in Wijk bij Duurstede. De stichting meldt dat er gesjoemeld is met uitkomsten en dat de privacyrichtlijnen niet zijn nageleefd. Zo werd geen toestemming gevraagd voor het gebruik van cookies, werden gegevens van respondenten opgeslagen, en werden gegevens van ruim 500 respondenten gefilterd op basis van hun adres. Dit heeft geleid tot zorgen over de integriteit van het onderzoek. (Bron: wijksnieuws.nl)"
     },
     {
-        "id": "https://www.ad.nl/roosendaal/michel-uit-heerle-krijgt-brief-over-inval-in-zijn-woning-maar-weet-van-niets-van-schrik-kukelde-ik-zowat-van-mijn-stoel~ae6fd2aa/?datalekt=56f25d3dca24415228428dfdcf22f558f6127ba2a5e21c4719374786f094e9b4",
+        "id": "https://www.ad.nl/roosendaal/michel-uit-heerle-krijgt-brief-over-inval-in-zijn-woning-maar-weet-van-niets-van-schrik-kukelde-ik-zowat-van-mijn-stoel~ae6fd2aa/?datalekt=13577e9623452c76f0ee9c04931e524d661ded7df4d4b8f4f04e91e6c8f14bd3",
         "url": "https://www.ad.nl/roosendaal/michel-uit-heerle-krijgt-brief-over-inval-in-zijn-woning-maar-weet-van-niets-van-schrik-kukelde-ik-zowat-van-mijn-stoel~ae6fd2aa/",
         "title": "Brief rechtbank over politie-inval bezorgd bij buren leidt tot datalek",
         "date_published": "2024-05-04T14:59:00Z",
@@ -751,10 +764,10 @@
             "name": "ad.nl"
         },
         "content_html": "",
-        "content_text": "Rechtbank Limburg | Overheid: Rechtspraak | 03-05-2024 | Een inwoner van Heerle kreeg een brief van de rechtbank over een politie-inval, die bedoeld was voor zijn buurman. Bij de inval werd de buurman verdacht van ladingdiefstallen en hennepkweek. Door een fout stond in de brief het verkeerde adres, wat de inwoner deed schrikken. De rechtbank erkende de fout, wat leidde tot een datalek, en beloofde maatregelen te nemen om dergelijke fouten te voorkomen. De inwoner maakt zich zorgen over de privacy van burgers en vraagt zich af of men nog vertrouwen kan hebben in de justiti\u00eble procedures. (Bron: ad.nl)"
+        "content_text": "Rechtbank Limburg | Overheid: Rechtspraak | 03-05-2024 | DataLekt.nl: Een inwoner van Heerle kreeg een brief van de rechtbank over een politie-inval, die bedoeld was voor zijn buurman. Bij de inval werd de buurman verdacht van ladingdiefstallen en hennepkweek. Door een fout stond in de brief het verkeerde adres, wat de inwoner deed schrikken. De rechtbank erkende de fout, wat leidde tot een datalek, en beloofde maatregelen te nemen om dergelijke fouten te voorkomen. De inwoner maakt zich zorgen over de privacy van burgers en vraagt zich af of men nog vertrouwen kan hebben in de justiti\u00eble procedures. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom?datalekt=d1cc8b9eded320cb048d8761d10e43ac889db94a36c0719620b7107e8484bd3e",
+        "id": "https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom?datalekt=97b05c1e780dba479c0589dc0891ee0de6149fa3b70038f0a9b500c7768b9ff7",
         "url": "https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom",
         "title": "Phishingaanvallen via het berichtensysteem van Booking.com",
         "date_published": "2024-05-03T11:19:00Z",
@@ -764,10 +777,10 @@
             "name": "seniorweb.nl"
         },
         "content_html": "",
-        "content_text": "Booking.com | Informatie en communicatie | 29-04-2024 | Criminelen maken misbruik van het berichtensysteem van Booking.com om persoonlijke en financi\u00eble gegevens van gebruikers te stelen. Ze sturen nepberichten die afkomstig lijken te zijn van hotels, waarin gevraagd wordt om gevoelige informatie of extra betalingen onder dreiging van annulering van de reservering. Dit leidt vaak tot financieel verlies voor nietsvermoedende vakantiegangers. Gebruikers worden aangemoedigd om alert te blijven en verdachte berichten te verifi\u00ebren bij Booking.com of de betreffende accommodatie. (Bron: seniorweb.nl)"
+        "content_text": "Booking.com | Informatie en communicatie | 29-04-2024 | DataLekt.nl: Criminelen maken misbruik van het berichtensysteem van Booking.com om persoonlijke en financi\u00eble gegevens van gebruikers te stelen. Ze sturen nepberichten die afkomstig lijken te zijn van hotels, waarin gevraagd wordt om gevoelige informatie of extra betalingen onder dreiging van annulering van de reservering. Dit leidt vaak tot financieel verlies voor nietsvermoedende vakantiegangers. Gebruikers worden aangemoedigd om alert te blijven en verdachte berichten te verifi\u00ebren bij Booking.com of de betreffende accommodatie. (Bron: seniorweb.nl)"
     },
     {
-        "id": "https://www.dedrontenaar.nl/nieuws/algemeen/306571/persoonsgegevens-oud-leerlingen-ichthus-college-liggen-mogeli?datalekt=214a72f85c67bd0d3809c4190af2df41ceab8c150bfd442fbf83969f81735d87",
+        "id": "https://www.dedrontenaar.nl/nieuws/algemeen/306571/persoonsgegevens-oud-leerlingen-ichthus-college-liggen-mogeli?datalekt=7ad3df4b6522b065a00c79727a8b72b0a68d5fbe62f16fe6dba5120ff709447e",
         "url": "https://www.dedrontenaar.nl/nieuws/algemeen/306571/persoonsgegevens-oud-leerlingen-ichthus-college-liggen-mogeli",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Ichthus College",
         "date_published": "2024-04-25T11:58:00Z",
@@ -777,10 +790,10 @@
             "name": "dedrontenaar.nl"
         },
         "content_html": "",
-        "content_text": "Ichthus College | Onderwijs | 23-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ichthus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dedrontenaar.nl)"
+        "content_text": "Ichthus College | Onderwijs | 23-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ichthus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dedrontenaar.nl)"
     },
     {
-        "id": "https://www.zo-nws.nl/verdachten-opgepakt-voor-ddos-aanvallen?datalekt=8c4ab1bb422453ed3e7f293f45ce4970d1fb636e84aae5dd4161d96352c01c13",
+        "id": "https://www.zo-nws.nl/verdachten-opgepakt-voor-ddos-aanvallen?datalekt=acb35687f73f438239ad43e8a92edc2825dabb1368bf57559d0646c537405428",
         "url": "https://www.zo-nws.nl/verdachten-opgepakt-voor-ddos-aanvallen",
         "title": "DDoS-aanval veroorzaakt grote schade aan Sittards bedrijf",
         "date_published": "2024-04-25T11:57:00Z",
@@ -790,10 +803,10 @@
             "name": "zo-nws.nl"
         },
         "content_html": "",
-        "content_text": "Onbekende organisatie | Overige dienstverlening | 23-04-2024 | In november vorig jaar en januari dit jaar heeft een bedrijf in Sittard aanzienlijke financi\u00eble schade geleden door DDoS-aanvallen, uitgevoerd door twee mannen uit Heerlen en Sittard. De politie heeft deze verdachten gearresteerd. De aanvallen, die de toegang tot het bedrijfssysteem blokkeerden, resulteerden in een schade van circa 150.000 euro. Bij een DDoS-aanval worden talrijke verzoeken naar een website gestuurd waardoor deze onbereikbaar wordt voor gebruikers. Deze aanvallen zijn een vorm van cybercriminaliteit waarbij ge\u00efnfecteerde computers worden ingezet. (Bron: zo-nws.nl)"
+        "content_text": "Onbekende organisatie | Overige dienstverlening | 23-04-2024 | DataLekt.nl: In november vorig jaar en januari dit jaar heeft een bedrijf in Sittard aanzienlijke financi\u00eble schade geleden door DDoS-aanvallen, uitgevoerd door twee mannen uit Heerlen en Sittard. De politie heeft deze verdachten gearresteerd. De aanvallen, die de toegang tot het bedrijfssysteem blokkeerden, resulteerden in een schade van circa 150.000 euro. Bij een DDoS-aanval worden talrijke verzoeken naar een website gestuurd waardoor deze onbereikbaar wordt voor gebruikers. Deze aanvallen zijn een vorm van cybercriminaliteit waarbij ge\u00efnfecteerde computers worden ingezet. (Bron: zo-nws.nl)"
     },
     {
-        "id": "https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware?datalekt=87faa03d1cb56f7b99f4937359b4ada16e0888573f01cea94fff035f7635ce40",
+        "id": "https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware?datalekt=3e0bf790d85a3778cb3ddcc3d6b828415fcdb7dc88d2753fcd14b502e266b7dc",
         "url": "https://www.rtl.nl/tech/artikel/5446656/carpetright-hack-cyberaanval-ransomware",
         "title": "Cyberaanval legt pinterminals Carpetright plat",
         "date_published": "2024-04-23T10:37:00Z",
@@ -803,10 +816,10 @@
             "name": "rtl.nl"
         },
         "content_html": "",
-        "content_text": "Carpetright | Groot- en detailhandel | 22-04-2024 | Carpetright, een bekende vloerenwinkel, heeft te kampen met een cyberaanval die vooral de Nederlandse vestigingen treft, waar pinnen momenteel onmogelijk is. De pinterminals zijn uitgeschakeld als preventieve maatregel tegen verdere digitale risico&#039;s. Het Britse moederbedrijf meldt dat het onderzoek naar de aanval loopt, waarbij niet bevestigd kan worden of het om ransomware gaat. Een soortgelijke aanval in februari resulteerde in een datalek met klantgegevens. Er is nog geen bewijs van een verband tussen beide incidenten. (Bron: rtl.nl)"
+        "content_text": "Carpetright | Groot- en detailhandel | 22-04-2024 | DataLekt.nl: Carpetright, een bekende vloerenwinkel, heeft te kampen met een cyberaanval die vooral de Nederlandse vestigingen treft, waar pinnen momenteel onmogelijk is. De pinterminals zijn uitgeschakeld als preventieve maatregel tegen verdere digitale risico&#039;s. Het Britse moederbedrijf meldt dat het onderzoek naar de aanval loopt, waarbij niet bevestigd kan worden of het om ransomware gaat. Een soortgelijke aanval in februari resulteerde in een datalek met klantgegevens. Er is nog geen bewijs van een verband tussen beide incidenten. (Bron: rtl.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b4252c62cce444f91e462275090473b0c5841b8d428550a3bf3ce2eca517e50d",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=23ac0743924a714e98d183440e823b587c1daebef3b149ca36cb77519b101f2a",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "SIS Automatisering getroffen door ransomware aanval van de criminele organisatie PLAY",
         "date_published": "2024-04-23T10:36:00Z",
@@ -816,10 +829,10 @@
             "name": "ccinfo.nl"
         },
         "content_html": "",
-        "content_text": "SIS Automatisering | Informatie en communicatie | 19-04-2024 | De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij SIS Automatisering heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+        "content_text": "SIS Automatisering | Informatie en communicatie | 19-04-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij SIS Automatisering heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=3e837c7991787f064fe2a0079bc8dc3ebaf8a8c88d20a79a9e111e687bdc3bc2",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a9d46b25fc18225fabe419924a68d47fee03655e1e244615f7ec8642dc491a8f",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "XD Connects getroffen door ransomware aanval van de criminele organisatie Cactus",
         "date_published": "2024-04-23T10:35:00Z",
@@ -829,10 +842,10 @@
             "name": "ccinfo.nl"
         },
         "content_html": "",
-        "content_text": "XD Connects | Groot- en detailhandel | 18-04-2024 | De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij XD Connects heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+        "content_text": "XD Connects | Groot- en detailhandel | 18-04-2024 | DataLekt.nl: De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij XD Connects heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.ogvo.nl/valuascollege/cyberaanval-iddink/?datalekt=b98b07d138dbb5e3b51142b2e0ed674e49fd8be6d303e695f74b38f24e66ccb4",
+        "id": "https://www.ogvo.nl/valuascollege/cyberaanval-iddink/?datalekt=fe76770708be12caf8ae0ede5b208ad03946a0d589faa2f607c30ed06afae127",
         "url": "https://www.ogvo.nl/valuascollege/cyberaanval-iddink/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Valuascollega",
         "date_published": "2024-04-22T09:54:00Z",
@@ -842,10 +855,10 @@
             "name": "ogvo.nl"
         },
         "content_html": "",
-        "content_text": "Valuascollega | Onderwijs | 18-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Valuascollega. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: ogvo.nl)"
+        "content_text": "Valuascollega | Onderwijs | 18-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Valuascollega. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: ogvo.nl)"
     },
     {
-        "id": "https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749?datalekt=67967f69ae21d749b3041aeaa4de3988bf8362f4a337ea860809a0e371b67e30",
+        "id": "https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749?datalekt=00baafa79fabfd219f77cd6ea8f0bb43e624b822e07a2675c58315899d5b0e84",
         "url": "https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749",
         "title": "Datalek bij gemeente Haarlem door onvoldoende lakken van documenten",
         "date_published": "2024-04-19T16:46:00Z",
@@ -855,10 +868,10 @@
             "name": "haarlemsdagblad.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Haarlem | Overheid: Gemeenten | 18-04-2024 | De gemeente Haarlem heeft een datalek veroorzaakt door niet genoeg informatie zwart te lakken in de documenten die werden vrijgegeven na verzoeken op basis van de Wet open overheid (Woo). Hierdoor zijn persoonsgegevens van 44 ambtenaren openbaar geworden. Dit incident heeft zich zowel in 2021 als in 2022 voorgedaan en heeft mogelijk geleid tot misbruik van deze gegevens door derden. Het betreft een ernstige schending van de privacywetgeving. (Bron: haarlemsdagblad.nl)"
+        "content_text": "Gemeente Haarlem | Overheid: Gemeenten | 18-04-2024 | DataLekt.nl: De gemeente Haarlem heeft een datalek veroorzaakt door niet genoeg informatie zwart te lakken in de documenten die werden vrijgegeven na verzoeken op basis van de Wet open overheid (Woo). Hierdoor zijn persoonsgegevens van 44 ambtenaren openbaar geworden. Dit incident heeft zich zowel in 2021 als in 2022 voorgedaan en heeft mogelijk geleid tot misbruik van deze gegevens door derden. Het betreft een ernstige schending van de privacywetgeving. (Bron: haarlemsdagblad.nl)"
     },
     {
-        "id": "https://www.molenkruier.nl/nieuws/nieuws/385223/cals-college-nieuwegein-geraakt-door-cyberaanval-gegevens-lee?datalekt=eb7a4fdc75e2506ab88d378c888791104ee634c4b6e6a2a32e8a10b52ff3f2b3",
+        "id": "https://www.molenkruier.nl/nieuws/nieuws/385223/cals-college-nieuwegein-geraakt-door-cyberaanval-gegevens-lee?datalekt=8dfdd9e4d429e26d95d56bff1a099d8811352726ed1737cf399a78c51ac9a589",
         "url": "https://www.molenkruier.nl/nieuws/nieuws/385223/cals-college-nieuwegein-geraakt-door-cyberaanval-gegevens-lee",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Cals College",
         "date_published": "2024-04-19T16:45:00Z",
@@ -868,10 +881,10 @@
             "name": "molenkruier.nl"
         },
         "content_html": "",
-        "content_text": "Cals College | Onderwijs | 17-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Cals College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: molenkruier.nl)"
+        "content_text": "Cals College | Onderwijs | 17-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Cals College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: molenkruier.nl)"
     },
     {
-        "id": "https://www.vonknh.nl/nieuws/2024-04-15/cyberaanval-bij-iddink-learning-materials-bv?datalekt=eca6af14148e2d5e8c69dc8495a58ad6e0a20a83a758f8994d04ef9328a10cc8",
+        "id": "https://www.vonknh.nl/nieuws/2024-04-15/cyberaanval-bij-iddink-learning-materials-bv?datalekt=1407df03a6a2b66cf53d67ea6149b404e97a0ea201bb900f51bcd30f07a30dd5",
         "url": "https://www.vonknh.nl/nieuws/2024-04-15/cyberaanval-bij-iddink-learning-materials-bv",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Vonk",
         "date_published": "2024-04-18T08:43:00Z",
@@ -881,10 +894,10 @@
             "name": "vonknh.nl"
         },
         "content_html": "",
-        "content_text": "Vonk | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vonk. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: vonknh.nl)"
+        "content_text": "Vonk | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vonk. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: vonknh.nl)"
     },
     {
-        "id": "https://scholengroepspinoza.nl/nieuws-cyberaanval-bij-iddink?datalekt=60b7301887fcdb0171f4de530731c4cedfa7d41904c20d56de2b92de1d5e102a",
+        "id": "https://scholengroepspinoza.nl/nieuws-cyberaanval-bij-iddink?datalekt=2b6fadc048383c69ba0bbf1aae2643b5736c6f3e2fd34f43bf7622c000e5dd1d",
         "url": "https://scholengroepspinoza.nl/nieuws-cyberaanval-bij-iddink",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Scholengroep Spinoza",
         "date_published": "2024-04-18T08:42:00Z",
@@ -894,10 +907,10 @@
             "name": "scholengroepspinoza.nl"
         },
         "content_html": "",
-        "content_text": "Stichting Scholengroep Spinoza | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Scholengroep Spinoza. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: scholengroepspinoza.nl)"
+        "content_text": "Stichting Scholengroep Spinoza | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Scholengroep Spinoza. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: scholengroepspinoza.nl)"
     },
     {
-        "id": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/?datalekt=e02c36cdbdfe20d7ccf42fed868ae68fc432d10182cfdf93d25b57c065e8c3b0",
+        "id": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/?datalekt=3258258c7955bf720e1a914c1990886e0bc1fd99baee953e11c1f1d3ddefc75d",
         "url": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Assink Lyceum",
         "date_published": "2024-04-18T08:41:00Z",
@@ -907,10 +920,10 @@
             "name": "gelderlander.nl"
         },
         "content_html": "",
-        "content_text": "Assink Lyceum | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Assink Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: gelderlander.nl)"
+        "content_text": "Assink Lyceum | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Assink Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: gelderlander.nl)"
     },
     {
-        "id": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/?datalekt=0212bbbe41a12b5835c136b08e7ba7f97c689b2823567857fec62af1ea1db550",
+        "id": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/?datalekt=e6c11a7634578807dd12b8b52ed748023f365e8066a1dc71f36b5d10df3a986d",
         "url": "https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Het Stedelijk Lyceum",
         "date_published": "2024-04-18T08:40:00Z",
@@ -920,10 +933,10 @@
             "name": "gelderlander.nl"
         },
         "content_html": "",
-        "content_text": "Het Stedelijk Lyceum | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Het Stedelijk Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: gelderlander.nl)"
+        "content_text": "Het Stedelijk Lyceum | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Het Stedelijk Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: gelderlander.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a511011287e5805c1db9ea31eaf542d08c66fd452865d122f6c555ebd0934e9e",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=49017f16d7bd1100b496730e91b362c362f4f7586ee9f6e681b05852edeffdee",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Ranzijn getroffen door ransomware aanval van de criminele organisatie RA World",
         "date_published": "2024-04-17T16:31:00Z",
@@ -933,10 +946,10 @@
             "name": "ccinfo.nl"
         },
         "content_html": "",
-        "content_text": "Ranzijn | Groot- en detailhandel | 18-03-2024 | De criminele organisatie RA World heeft op het darkweb aangekondigd dat zij Ranzijn heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+        "content_text": "Ranzijn | Groot- en detailhandel | 18-03-2024 | DataLekt.nl: De criminele organisatie RA World heeft op het darkweb aangekondigd dat zij Ranzijn heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024?datalekt=edd471668ecb128e4cdbb25c0c049a4823e43ffd861d1b9e846603e6e662e727",
+        "id": "https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024?datalekt=6c1751901bc87742b5cb21ede0c2a3d5fb03fc740ce0c5a9b62d39e73fbf0428",
         "url": "https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Stedelijk College",
         "date_published": "2024-04-17T08:51:00Z",
@@ -946,10 +959,10 @@
             "name": "stedelijkcollege.nl"
         },
         "content_html": "",
-        "content_text": "Stedelijk College | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Stedelijk College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: stedelijkcollege.nl)"
+        "content_text": "Stedelijk College | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Stedelijk College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: stedelijkcollege.nl)"
     },
     {
-        "id": "https://lyceumdegrundel.nl/nieuws/iddink-aangevallen-door-cybercriminelen?datalekt=9d3c3f7e468366789a98a32bddcba60f6da46a587493ef74c77741ccbdcdc178",
+        "id": "https://lyceumdegrundel.nl/nieuws/iddink-aangevallen-door-cybercriminelen?datalekt=76ee5843155e03094e3bdd88df25b5aa95ea729569f1ac98e0587b58876c2b53",
         "url": "https://lyceumdegrundel.nl/nieuws/iddink-aangevallen-door-cybercriminelen",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Lyceum de Grundel",
         "date_published": "2024-04-17T08:50:00Z",
@@ -959,10 +972,10 @@
             "name": "lyceumdegrundel.nl"
         },
         "content_html": "",
-        "content_text": "Lyceum de Grundel | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Lyceum de Grundel. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: lyceumdegrundel.nl)"
+        "content_text": "Lyceum de Grundel | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Lyceum de Grundel. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: lyceumdegrundel.nl)"
     },
     {
-        "id": "https://www.nuovo.nl/nieuws/persbericht-over-iddink?datalekt=a15d3f4058061bb3c23aa33a507284f736a3c41d5ffabab4b081af2fae7d3c35",
+        "id": "https://www.nuovo.nl/nieuws/persbericht-over-iddink?datalekt=edbf687079518b9434ca223d7c2934dd1097998038dc115cc8d3e7278d8a6aa9",
         "url": "https://www.nuovo.nl/nieuws/persbericht-over-iddink",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft NUOVO Scholen",
         "date_published": "2024-04-17T08:49:00Z",
@@ -972,10 +985,10 @@
             "name": "nuovo.nl"
         },
         "content_html": "",
-        "content_text": "NUOVO Scholen | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook NUOVO Scholen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: nuovo.nl)"
+        "content_text": "NUOVO Scholen | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook NUOVO Scholen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: nuovo.nl)"
     },
     {
-        "id": "https://www.varendonck.nl/nieuws/767/Cyberaanval-Iddink?datalekt=6a4c3cf91cc5da749b796207b36ea3d822790e0640b02b9232be5974ddf35bd6",
+        "id": "https://www.varendonck.nl/nieuws/767/Cyberaanval-Iddink?datalekt=1aa91f151f1d553b11b7b8fd32f0718f6e2220677da9c9325891451ec23c07fd",
         "url": "https://www.varendonck.nl/nieuws/767/Cyberaanval-Iddink",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Varendonck College",
         "date_published": "2024-04-17T08:48:00Z",
@@ -985,10 +998,10 @@
             "name": "varendonck.nl"
         },
         "content_html": "",
-        "content_text": "Varendonck College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Varendonck College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: varendonck.nl)"
+        "content_text": "Varendonck College | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Varendonck College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: varendonck.nl)"
     },
     {
-        "id": "https://www.griftland.nl/informatie-over-cyberaanval-bij-iddink-learning-materials-bv/?datalekt=cf19690490b00722f6fd950128adff2cce4dc596f78358eb4385f3e0cfac3843",
+        "id": "https://www.griftland.nl/informatie-over-cyberaanval-bij-iddink-learning-materials-bv/?datalekt=4e70f0e75593e17849835f55894f3d283eaaad115b41714a833cb479f332cb98",
         "url": "https://www.griftland.nl/informatie-over-cyberaanval-bij-iddink-learning-materials-bv/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Griftland College",
         "date_published": "2024-04-17T08:47:00Z",
@@ -998,10 +1011,10 @@
             "name": "griftland.nl"
         },
         "content_html": "",
-        "content_text": "Griftland College | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Griftland College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: griftland.nl)"
+        "content_text": "Griftland College | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Griftland College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: griftland.nl)"
     },
     {
-        "id": "https://www.curio.nl/nieuws/cyberaanval-bij-iddink-leverancier-van-schoolboeken/?datalekt=21106e2817b33cc680483db0517543988c3c66611d993f5a78f0c00fac58be3f",
+        "id": "https://www.curio.nl/nieuws/cyberaanval-bij-iddink-leverancier-van-schoolboeken/?datalekt=60b6efde432b1820cc212ce103ac5278c7ad0dab8e6384528f6923ef51c6b86a",
         "url": "https://www.curio.nl/nieuws/cyberaanval-bij-iddink-leverancier-van-schoolboeken/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Curio",
         "date_published": "2024-04-17T08:46:00Z",
@@ -1011,10 +1024,10 @@
             "name": "curio.nl"
         },
         "content_html": "",
-        "content_text": "Curio | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Curio. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: curio.nl)"
+        "content_text": "Curio | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Curio. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: curio.nl)"
     },
     {
-        "id": "https://emmen.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie?datalekt=88f66b99127d98901b7327cb097d05eba74ff8ed3958411fe7fa3191c5e17287",
+        "id": "https://emmen.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie?datalekt=fa4182bce34058ef8e52ab632a8ab2080a68ae9791b96a887d129ec62dc24558",
         "url": "https://emmen.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Terra Emmen",
         "date_published": "2024-04-17T08:45:00Z",
@@ -1024,10 +1037,10 @@
             "name": "voterra.nl"
         },
         "content_html": "",
-        "content_text": "Terra Emmen | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Terra Emmen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: voterra.nl)"
+        "content_text": "Terra Emmen | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Terra Emmen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: voterra.nl)"
     },
     {
-        "id": "https://www.eldecollege.nl/datalek-bij-iddink-learning-materials-bv/?datalekt=8a8e227950b5f06fa4b37aac4d035eb99419c354e7b1e7ff5a06919126746694",
+        "id": "https://www.eldecollege.nl/datalek-bij-iddink-learning-materials-bv/?datalekt=1cce763752af81395607914acf5c53cce903960d49174c40e942d832198ef2b6",
         "url": "https://www.eldecollege.nl/datalek-bij-iddink-learning-materials-bv/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Elde College",
         "date_published": "2024-04-17T08:44:00Z",
@@ -1037,10 +1050,10 @@
             "name": "eldecollege.nl"
         },
         "content_html": "",
-        "content_text": "Elde College | Onderwijs | 16-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Elde College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: eldecollege.nl)"
+        "content_text": "Elde College | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Elde College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: eldecollege.nl)"
     },
     {
-        "id": "https://www.omroepbrabant.nl/nieuws/4451957/schoolboekenleverancier-gehackt-gegevens-brabantse-leerlingen-op-straat?datalekt=6b3d4b6d63d6b0602cfd2fb51327c6979cafa350ce49a912436b5009da4f653d",
+        "id": "https://www.omroepbrabant.nl/nieuws/4451957/schoolboekenleverancier-gehackt-gegevens-brabantse-leerlingen-op-straat?datalekt=82581845fb5b07d8066ff6353a90e09a222f25b7436d7daddd12e2d08a1b5b31",
         "url": "https://www.omroepbrabant.nl/nieuws/4451957/schoolboekenleverancier-gehackt-gegevens-brabantse-leerlingen-op-straat",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Ons Middelbaar Onderwijs",
         "date_published": "2024-04-17T08:43:00Z",
@@ -1050,10 +1063,10 @@
             "name": "omroepbrabant.nl"
         },
         "content_html": "",
-        "content_text": "Ons Middelbaar Onderwijs (OMO) | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ons Middelbaar Onderwijs. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: omroepbrabant.nl)"
+        "content_text": "Ons Middelbaar Onderwijs (OMO) | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ons Middelbaar Onderwijs. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: omroepbrabant.nl)"
     },
     {
-        "id": "https://www.quadraam.nl/nieuws/328/cyberaanval-uitgeverij-iddink?datalekt=72737b4557a83a2e76b379a889f951cbe9a1c6b0d45cee355cf8bf61175b4f48",
+        "id": "https://www.quadraam.nl/nieuws/328/cyberaanval-uitgeverij-iddink?datalekt=82370a3f574f78056f755c21dccf71c2cdafa94c9e95a301dcf825adc07cb74a",
         "url": "https://www.quadraam.nl/nieuws/328/cyberaanval-uitgeverij-iddink",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Quadraam",
         "date_published": "2024-04-16T13:56:00Z",
@@ -1063,10 +1076,10 @@
             "name": "quadraam.nl"
         },
         "content_html": "",
-        "content_text": "Stichting Quadraam | Onderwijs | 14-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Quadraam. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: quadraam.nl)"
+        "content_text": "Stichting Quadraam | Onderwijs | 14-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Quadraam. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: quadraam.nl)"
     },
     {
-        "id": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=bbc532390a9619278eb5ce5334822641f940a5234b8e1f7c432593051b8e2e8b",
+        "id": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=4104d65fa26aca18a2236fb0a6170b363f32dd9bf1005bdd1d897d2cc7ab2ae2",
         "url": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Vechtstede College",
         "date_published": "2024-04-16T13:55:00Z",
@@ -1076,10 +1089,10 @@
             "name": "weespernieuws.nl"
         },
         "content_html": "",
-        "content_text": "Vechtstede College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vechtstede College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: weespernieuws.nl)"
+        "content_text": "Vechtstede College | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vechtstede College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: weespernieuws.nl)"
     },
     {
-        "id": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=e70a614e859f0f3e2f9ad85d688a96a0d4cf0ad0bd730321414aaaa58b343b08",
+        "id": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=2aa0797c8dc3e66b79818866989b92f21eb7b5313829aacebef81c311e64155e",
         "url": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Casparaus College",
         "date_published": "2024-04-16T13:54:00Z",
@@ -1089,10 +1102,10 @@
             "name": "weespernieuws.nl"
         },
         "content_html": "",
-        "content_text": "Casparaus College | Onderwijs | 15-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Casparaus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: weespernieuws.nl)"
+        "content_text": "Casparaus College | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Casparaus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: weespernieuws.nl)"
     },
     {
-        "id": "https://www.2college.nl/durendael/school/nieuws/cyberaanval-iddink-1/?datalekt=3ddecdaf633d4c0d86bc40bd0f1a2ce33675e80178e1bcdf667c9c569ef5bf21",
+        "id": "https://www.2college.nl/durendael/school/nieuws/cyberaanval-iddink-1/?datalekt=139ce2693035c24d0e8e33c107d43c93e1641c1fb9e52d6045488158fc249f0a",
         "url": "https://www.2college.nl/durendael/school/nieuws/cyberaanval-iddink-1/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft 2College",
         "date_published": "2024-04-15T11:02:00Z",
@@ -1102,10 +1115,10 @@
             "name": "2college.nl"
         },
         "content_html": "",
-        "content_text": "2College | Onderwijs | 14-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook 2College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
+        "content_text": "2College | Onderwijs | 14-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook 2College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
     },
     {
-        "id": "https://canisius.nl/nieuws/uncategorized/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=9d78286b2a00db67edafe701c6a2557a9b4dce28f0c280df8c9ec5fdfdf2e1ad",
+        "id": "https://canisius.nl/nieuws/uncategorized/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=8b1bd7a8f11038880c774414e6145fcbf8dfb982fe185a5c83cb2cad97931218",
         "url": "https://canisius.nl/nieuws/uncategorized/iddink-learning-materials-aangevallen-door-cybercriminelen",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Canisius",
         "date_published": "2024-04-15T11:01:00Z",
@@ -1115,10 +1128,10 @@
             "name": "canisius.nl"
         },
         "content_html": "",
-        "content_text": "Canisius | Onderwijs | 14-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Canisius. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: canisius.nl)"
+        "content_text": "Canisius | Onderwijs | 14-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Canisius. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: canisius.nl)"
     },
     {
-        "id": "https://www.noordhollandsdagblad.nl/cnt/dmf20240414_71168742?datalekt=9387ae56e68d88fc310c1fa996095a66291af937831c8b82942ba49fc18908cb",
+        "id": "https://www.noordhollandsdagblad.nl/cnt/dmf20240414_71168742?datalekt=d6bbf19654ef7ab5f4ff484f81a2a486fd6ba70a25739c708be29fcee88ae2a6",
         "url": "https://www.noordhollandsdagblad.nl/cnt/dmf20240414_71168742",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Tabor College",
         "date_published": "2024-04-15T11:00:00Z",
@@ -1128,10 +1141,10 @@
             "name": "noordhollandsdagblad.nl"
         },
         "content_html": "",
-        "content_text": "Tabor College | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Tabor College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: noordhollandsdagblad.nl)"
+        "content_text": "Tabor College | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Tabor College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: noordhollandsdagblad.nl)"
     },
     {
-        "id": "https://demarke-ehl.nl/hetcorberic/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=b396583e28f4b7f04ccd2eee65ef0ec7d826dea083b833e22e7ebf44c83b7eb7",
+        "id": "https://demarke-ehl.nl/hetcorberic/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=42fca1a9246eb25d87fdf28fae2a9318436edc132e4209aef2b3c3ea92ec1678",
         "url": "https://demarke-ehl.nl/hetcorberic/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Etty Hillesum Lyceum",
         "date_published": "2024-04-15T10:59:00Z",
@@ -1141,10 +1154,10 @@
             "name": "demarke-ehl.nl"
         },
         "content_html": "",
-        "content_text": "Etty Hillesum Lyceum | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Etty Hillesum Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: demarke-ehl.nl)"
+        "content_text": "Etty Hillesum Lyceum | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Etty Hillesum Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: demarke-ehl.nl)"
     },
     {
-        "id": "https://www.jtc-roosendaal.nl/Nieuws-Activiteiten-Fotos/Nieuwsoverzicht/art/709135?datalekt=a523ad6e55c53cc0ee8764ed86fdb181123b46f56dbfe2050b9cfd7fa3d1c297",
+        "id": "https://www.jtc-roosendaal.nl/Nieuws-Activiteiten-Fotos/Nieuwsoverzicht/art/709135?datalekt=e4f24d6fbb3bec93b09ba78b21350d9750f5d324771a1086e09e28758ca3cf3c",
         "url": "https://www.jtc-roosendaal.nl/Nieuws-Activiteiten-Fotos/Nieuwsoverzicht/art/709135",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Jan Tinbergen College",
         "date_published": "2024-04-15T10:58:00Z",
@@ -1154,10 +1167,10 @@
             "name": "jtc-roosendaal.nl"
         },
         "content_html": "",
-        "content_text": "Jan Tinbergen College | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Jan Tinbergen College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: jtc-roosendaal.nl)"
+        "content_text": "Jan Tinbergen College | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Jan Tinbergen College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: jtc-roosendaal.nl)"
     },
     {
-        "id": "https://wolvega.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie?datalekt=1d6c1c533b297a5eb436335dcce321dc4b861c6634f5b1745991e634962439e3",
+        "id": "https://wolvega.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie?datalekt=c3ab0d3750f221935f0b194f3efd9a19df0828c86f97d1109eb50753d9d34c14",
         "url": "https://wolvega.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Terra Wolvega",
         "date_published": "2024-04-15T10:57:00Z",
@@ -1167,10 +1180,10 @@
             "name": "voterra.nl"
         },
         "content_html": "",
-        "content_text": "Terra Wolvega | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Terra Wolvega. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: voterra.nl)"
+        "content_text": "Terra Wolvega | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Terra Wolvega. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: voterra.nl)"
     },
     {
-        "id": "https://www.augustinianum.nl/index.php/en/blog/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=d8c56028cee32a9cb4705516ddc0365915c1deffa4ae59a6c6d65d57d8bec208",
+        "id": "https://www.augustinianum.nl/index.php/en/blog/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=5d6d04607b98216f9137322aecbde99f0fc978e1bbf6affcfcd19905589151fe",
         "url": "https://www.augustinianum.nl/index.php/en/blog/iddink-learning-materials-aangevallen-door-cybercriminelen",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Augustinianum",
         "date_published": "2024-04-15T10:56:00Z",
@@ -1180,10 +1193,10 @@
             "name": "augustinianum.nl"
         },
         "content_html": "",
-        "content_text": "Augustinianum | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Augustinianum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: augustinianum.nl)"
+        "content_text": "Augustinianum | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Augustinianum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: augustinianum.nl)"
     },
     {
-        "id": "https://www.k-s-e.nl/Home/Nieuws/art/709133?datalekt=173dd087e03e422da359cf5e2e366e7e5bd8819e8d4ef368dacecdfbf94f997e",
+        "id": "https://www.k-s-e.nl/Home/Nieuws/art/709133?datalekt=e51ab6da439b17dfed133e9c47a28cb73758f1e916dfec47c7568b05510d767b",
         "url": "https://www.k-s-e.nl/Home/Nieuws/art/709133",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Katholieke Scholengemeenschap Etten-Leur (KSE)",
         "date_published": "2024-04-15T10:55:00Z",
@@ -1193,10 +1206,10 @@
             "name": "k-s-e.nl"
         },
         "content_html": "",
-        "content_text": "Katholieke Scholengemeenschap Etten-Leur (KSE) | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Katholieke Scholengemeenschap Etten-Leur (KSE). Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: k-s-e.nl)"
+        "content_text": "Katholieke Scholengemeenschap Etten-Leur (KSE) | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Katholieke Scholengemeenschap Etten-Leur (KSE). Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: k-s-e.nl)"
     },
     {
-        "id": "https://www.carmelemmen.nl/nieuws/200/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=de1ad0f39ead721d81bfcefa401bd1216bf65834889497a8886c2cd241cfb93a",
+        "id": "https://www.carmelemmen.nl/nieuws/200/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=b7afc03b3ffe3e1d1d05b267d716de31b2b719e9dd3dcd4b93a01918ea2db5cf",
         "url": "https://www.carmelemmen.nl/nieuws/200/iddink-learning-materials-aangevallen-door-cybercriminelen",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Carmel College Emmen",
         "date_published": "2024-04-15T10:54:00Z",
@@ -1206,10 +1219,10 @@
             "name": "carmelemmen.nl"
         },
         "content_html": "",
-        "content_text": "Carmel College Emmen | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Carmel College Emmen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: carmelemmen.nl)"
+        "content_text": "Carmel College Emmen | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Carmel College Emmen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: carmelemmen.nl)"
     },
     {
-        "id": "https://www.omroepzeeland.nl/nieuws/16433322/mogelijk-bankgegevens-scholieren-buitgemaakt-bij-hack-boekenleverancier?datalekt=eb2c61adf26992d34b35f99e9a4ceee4281578c9fb6c89feba1c1a0e2be2d797",
+        "id": "https://www.omroepzeeland.nl/nieuws/16433322/mogelijk-bankgegevens-scholieren-buitgemaakt-bij-hack-boekenleverancier?datalekt=31abaf7c19b052feb06c1e628b28548b1edd408bac748dc10450cdad2b490489",
         "url": "https://www.omroepzeeland.nl/nieuws/16433322/mogelijk-bankgegevens-scholieren-buitgemaakt-bij-hack-boekenleverancier",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Mondia Scholengroep",
         "date_published": "2024-04-15T10:53:00Z",
@@ -1219,10 +1232,10 @@
             "name": "omroepzeeland.nl"
         },
         "content_html": "",
-        "content_text": "Mondia Scholengroep | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Mondia Scholengroep. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: omroepzeeland.nl)"
+        "content_text": "Mondia Scholengroep | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Mondia Scholengroep. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: omroepzeeland.nl)"
     },
     {
-        "id": "https://dmgdeurne.nl/ook-gegevens-deurnese-middelbare-scholieren-mogelijk-gelekt-bij-cyberaanval-schoolboekenleverancier-iddink/?datalekt=e807499a6e50181b8f52a9d68613bb68e1fff58e0ee741118c3b439f79f9af2f",
+        "id": "https://dmgdeurne.nl/ook-gegevens-deurnese-middelbare-scholieren-mogelijk-gelekt-bij-cyberaanval-schoolboekenleverancier-iddink/?datalekt=875abefca315e184428b3b750085a4c9f81c516362273df8422f8b2eb79ec0b6",
         "url": "https://dmgdeurne.nl/ook-gegevens-deurnese-middelbare-scholieren-mogelijk-gelekt-bij-cyberaanval-schoolboekenleverancier-iddink/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft IVO Deurne",
         "date_published": "2024-04-15T10:52:00Z",
@@ -1232,10 +1245,10 @@
             "name": "dmgdeurne.nl"
         },
         "content_html": "",
-        "content_text": "IVO Deurne | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook IVO Deurne. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dmgdeurne.nl)"
+        "content_text": "IVO Deurne | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook IVO Deurne. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dmgdeurne.nl)"
     },
     {
-        "id": "https://gsf.nl/nieuws/datalek-bij-iddink-learning-materials/?datalekt=6259727d27a2650baf4d18ba8baa86a51f366c22134c321348607bf6c1745b6e",
+        "id": "https://gsf.nl/nieuws/datalek-bij-iddink-learning-materials/?datalekt=436abedd4d8c5341143358c14de0f203fed6b3bf6caec3e6572681632c04190f",
         "url": "https://gsf.nl/nieuws/datalek-bij-iddink-learning-materials/",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Gooise Scholen Federatie",
         "date_published": "2024-04-15T10:51:00Z",
@@ -1245,10 +1258,10 @@
             "name": "gsf.nl"
         },
         "content_html": "",
-        "content_text": "Gooise Scholen Federatie | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Gooise Scholen Federatie. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: gsf.nl)"
+        "content_text": "Gooise Scholen Federatie | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Gooise Scholen Federatie. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: gsf.nl)"
     },
     {
-        "id": "https://hetstormink-ehl.nl/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=c76998d3ef1e90aff7d8882f6d3fff10429384b46df923a62e34a38077340b10",
+        "id": "https://hetstormink-ehl.nl/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=d01a5f2db75aa943ea3aee4a914d57ffabc92e96ba5ad558452d90c65853b870",
         "url": "https://hetstormink-ehl.nl/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Het Stormink",
         "date_published": "2024-04-15T10:50:00Z",
@@ -1258,10 +1271,10 @@
             "name": "hetstormink-ehl.nl"
         },
         "content_html": "",
-        "content_text": "Het Stormink | Onderwijs | 12-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Het Stormink. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: hetstormink-ehl.nl)"
+        "content_text": "Het Stormink | Onderwijs | 12-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Het Stormink. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: hetstormink-ehl.nl)"
     },
     {
-        "id": "https://www.rtvoost.nl/nieuws/2336571/landstede-waarschuwt-na-hack-schoolboekenleverancier-wees-extra-alert-op-phishingmail?datalekt=bf2756dbed4ea41cf2f0fedf1733b1cb378c3882bcb02a9bc949aa455f3c9400",
+        "id": "https://www.rtvoost.nl/nieuws/2336571/landstede-waarschuwt-na-hack-schoolboekenleverancier-wees-extra-alert-op-phishingmail?datalekt=ef7aec33f564efcd17b829196cf6a22d4ec7d656d86cbb5821f78c1668223649",
         "url": "https://www.rtvoost.nl/nieuws/2336571/landstede-waarschuwt-na-hack-schoolboekenleverancier-wees-extra-alert-op-phishingmail",
         "title": "Cyberaanval op schoolboekenleverancier Iddink treft Landstede Groep",
         "date_published": "2024-04-15T09:30:00Z",
@@ -1271,10 +1284,10 @@
             "name": "rtvoost.nl"
         },
         "content_html": "",
-        "content_text": "Landstede Groep | Onderwijs | 13-04-2024 | Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Landstede Groep. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: rtvoost.nl)"
+        "content_text": "Landstede Groep | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Landstede Groep. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: rtvoost.nl)"
     },
     {
-        "id": "https://www.destentor.nl/ermelo/datalek-in-hoofdpijndossier-rond-eendenslachterij-in-ermelo-dit-schaadt-onze-privacy~af296385/?datalekt=3b4a53269db32f6e7d57e832f2791e26f80abe49aa41d759b6420bc96823fa45",
+        "id": "https://www.destentor.nl/ermelo/datalek-in-hoofdpijndossier-rond-eendenslachterij-in-ermelo-dit-schaadt-onze-privacy~af296385/?datalekt=f7d68a677066e05bf35b04925653894ee9f85c3a3af2b9741672c7c6e2274594",
         "url": "https://www.destentor.nl/ermelo/datalek-in-hoofdpijndossier-rond-eendenslachterij-in-ermelo-dit-schaadt-onze-privacy~af296385/",
         "title": "Datalek bij Ermelo door doorgeven van e-mailadressen aan extern bureau",
         "date_published": "2024-04-14T12:23:00Z",
@@ -1284,19 +1297,6 @@
             "name": "destentor.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Ermelo | Overheid: Gemeenten | 14-04-2024 | In Ermelo is ophef ontstaan door een datalek waarbij de gemeente persoonlijke e-mailadressen van burgers doorspeelde naar Tertium, een bureau voor inwonersparticipatie. Dit lek kwam aan het licht nadat Tertium inwoners benaderde voor een interview over de problematiek rond de eendenslachterij Tomassen Duck-To. De betrokkenen beklaagden zich over deze privacyinbreuk, wat leidde tot excuses van de gemeente en registratie van het incident als datalek. Dit heeft zorgen gewekt over naleving van de privacywetgeving en de effectiviteit van participatieprocessen. (Bron: destentor.nl)"
-    },
-    {
-        "id": "https://sivon.nl/2024/04/iddink-learning-materials-aangevallen-door-cybercriminelen/?datalekt=346638ea8dd9ff1b95bc850edfe32df62317999090869dd98a8d99f9a1683d57",
-        "url": "https://sivon.nl/2024/04/iddink-learning-materials-aangevallen-door-cybercriminelen/",
-        "title": "Cyberaanval op Iddink leidt tot datalek bij SIVON",
-        "date_published": "2024-04-13T16:30:00Z",
-        "date_modified": "2024-04-13T16:30:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "sivon.nl"
-        },
-        "content_html": "",
-        "content_text": "SIVON | Informatie en communicatie | 13-04-2024 | Iddink Learning Materials werd op 12 april 2024 getroffen door een ransomware-aanval, waardoor toegang tot hun systemen en de data van klanten werd versleuteld. De aanval heeft mogelijk geleid tot het lekken van persoons- en bankgegevens van leerlingen, ouders en scholen. Iddink onderzoekt de volledige omvang van de schade en heeft betrokken partijen ge\u00efnformeerd. Verdere stappen omvatten een melding bij de Autoriteit Persoonsgegevens en het organiseren van een webinar voor scholen om de situatie toe te lichten. (Bron: sivon.nl)"
+        "content_text": "Gemeente Ermelo | Overheid: Gemeenten | 14-04-2024 | DataLekt.nl: In Ermelo is ophef ontstaan door een datalek waarbij de gemeente persoonlijke e-mailadressen van burgers doorspeelde naar Tertium, een bureau voor inwonersparticipatie. Dit lek kwam aan het licht nadat Tertium inwoners benaderde voor een interview over de problematiek rond de eendenslachterij Tomassen Duck-To. De betrokkenen beklaagden zich over deze privacyinbreuk, wat leidde tot excuses van de gemeente en registratie van het incident als datalek. Dit heeft zorgen gewekt over naleving van de privacywetgeving en de effectiviteit van participatieprocessen. (Bron: destentor.nl)"
     }
 ]
