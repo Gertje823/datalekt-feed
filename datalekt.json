@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.dutchitchannel.nl/news/459915/winsys-is-aangevallen-door-lockbit-3-0-encryptie?datalekt=47687dda49661a88e2269209553745ec0bab3f19fccf07632021809567dd1b0c",
+        "url": "https://www.dutchitchannel.nl/news/459915/winsys-is-aangevallen-door-lockbit-3-0-encryptie",
+        "title": "Cyberaanval met LockBit 3.0 treft WinSys",
+        "date_published": "2024-06-16T12:26:00Z",
+        "date_modified": "2024-06-16T12:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitchannel.nl"
+        },
+        "content_html": "",
+        "content_text": "WinSys | Informatie en communicatie | 15-06-2024 | DataLekt.nl: WinSys is onlangs getroffen door een ernstige cyberaanval waarbij de LockBit 3.0-ransomware hun backups en belangrijke servers heeft versleuteld. Deze aanval heeft een aanzienlijke impact gehad, waarbij het bedrijf momenteel niet bereikbaar is en de volledige omvang van de schade nog in kaart moet worden gebracht. Er wordt gewerkt aan het beperken van de schade en het herstellen van de systemen, maar de financi\u00eble gevolgen en het exacte aantal getroffen klanten zijn nog onduidelijk. (Bron: dutchitchannel.nl)"
+    },
+    {
         "id": "https://gouweijsselnieuws.nl/2024/06/13/hack-met-ransomware-bij-rbg-raakt-inwoners-zuidplas/?datalekt=ea1af8ebf4d176bcff9c976ca11bfe56ef09e64861dc3e9393e00e0602bf42db",
         "url": "https://gouweijsselnieuws.nl/2024/06/13/hack-met-ransomware-bij-rbg-raakt-inwoners-zuidplas/",
         "title": "Ransomware-aanval bij RBG leidt tot datadiefstal en zorgen onder inwoners Zuidplas",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Landstede Groep | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Landstede Groep. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: rtvoost.nl)"
-    },
-    {
-        "id": "https://www.destentor.nl/ermelo/datalek-in-hoofdpijndossier-rond-eendenslachterij-in-ermelo-dit-schaadt-onze-privacy~af296385/?datalekt=f7d68a677066e05bf35b04925653894ee9f85c3a3af2b9741672c7c6e2274594",
-        "url": "https://www.destentor.nl/ermelo/datalek-in-hoofdpijndossier-rond-eendenslachterij-in-ermelo-dit-schaadt-onze-privacy~af296385/",
-        "title": "Datalek bij Ermelo door doorgeven van e-mailadressen aan extern bureau",
-        "date_published": "2024-04-14T12:23:00Z",
-        "date_modified": "2024-04-14T12:23:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "destentor.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Ermelo | Overheid: Gemeenten | 14-04-2024 | DataLekt.nl: In Ermelo is ophef ontstaan door een datalek waarbij de gemeente persoonlijke e-mailadressen van burgers doorspeelde naar Tertium, een bureau voor inwonersparticipatie. Dit lek kwam aan het licht nadat Tertium inwoners benaderde voor een interview over de problematiek rond de eendenslachterij Tomassen Duck-To. De betrokkenen beklaagden zich over deze privacyinbreuk, wat leidde tot excuses van de gemeente en registratie van het incident als datalek. Dit heeft zorgen gewekt over naleving van de privacywetgeving en de effectiviteit van participatieprocessen. (Bron: destentor.nl)"
     }
 ]

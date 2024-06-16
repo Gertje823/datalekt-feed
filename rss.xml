@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 15 Jun 2024 12:29:18 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 16 Jun 2024 12:29:13 +0000</lastBuildDate>
+		<item>
+			<title>Cyberaanval met LockBit 3.0 treft WinSys</title>
+			<link>https://www.dutchitchannel.nl/news/459915/winsys-is-aangevallen-door-lockbit-3-0-encryptie</link>
+			<description>WinSys | Informatie en communicatie | 15-06-2024 | DataLekt.nl: WinSys is onlangs getroffen door een ernstige cyberaanval waarbij de LockBit 3.0-ransomware hun backups en belangrijke servers heeft versleuteld. Deze aanval heeft een aanzienlijke impact gehad, waarbij het bedrijf momenteel niet bereikbaar is en de volledige omvang van de schade nog in kaart moet worden gebracht. Er wordt gewerkt aan het beperken van de schade en het herstellen van de systemen, maar de financiële gevolgen en het exacte aantal getroffen klanten zijn nog onduidelijk. (Bron: dutchitchannel.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/459915/winsys-is-aangevallen-door-lockbit-3-0-encryptie?datalekt=47687dda49661a88e2269209553745ec0bab3f19fccf07632021809567dd1b0c</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ransomware-aanval bij RBG leidt tot datadiefstal en zorgen onder inwoners Zuidplas</title>
 			<link>https://gouweijsselnieuws.nl/2024/06/13/hack-met-ransomware-bij-rbg-raakt-inwoners-zuidplas/</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.rtvoost.nl/nieuws/2336571/landstede-waarschuwt-na-hack-schoolboekenleverancier-wees-extra-alert-op-phishingmail?datalekt=ef7aec33f564efcd17b829196cf6a22d4ec7d656d86cbb5821f78c1668223649</guid>
 			<category>Onderwijs </category>
 			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Ermelo door doorgeven van e-mailadressen aan extern bureau</title>
-			<link>https://www.destentor.nl/ermelo/datalek-in-hoofdpijndossier-rond-eendenslachterij-in-ermelo-dit-schaadt-onze-privacy~af296385/</link>
-			<description>Gemeente Ermelo | Overheid: Gemeenten | 14-04-2024 | DataLekt.nl: In Ermelo is ophef ontstaan door een datalek waarbij de gemeente persoonlijke e-mailadressen van burgers doorspeelde naar Tertium, een bureau voor inwonersparticipatie. Dit lek kwam aan het licht nadat Tertium inwoners benaderde voor een interview over de problematiek rond de eendenslachterij Tomassen Duck-To. De betrokkenen beklaagden zich over deze privacyinbreuk, wat leidde tot excuses van de gemeente en registratie van het incident als datalek. Dit heeft zorgen gewekt over naleving van de privacywetgeving en de effectiviteit van participatieprocessen. (Bron: destentor.nl)</description>
-			<guid isPermaLink="false">https://www.destentor.nl/ermelo/datalek-in-hoofdpijndossier-rond-eendenslachterij-in-ermelo-dit-schaadt-onze-privacy~af296385/?datalekt=f7d68a677066e05bf35b04925653894ee9f85c3a3af2b9741672c7c6e2274594</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
