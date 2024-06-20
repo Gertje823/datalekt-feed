@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 16 Jun 2024 12:29:13 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 20 Jun 2024 12:30:37 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij gemeente Amsterdam onthult geheime namenlijst</title>
+			<link>https://www.parool.nl/nederland/datalek-gemeente-amsterdam-geheime-lijst-met-namen-van-radicale-moslims-verstuurd~b0418e5d/</link>
+			<description>Gemeente Amsterdam | Overheid: Gemeenten | 18-06-2024 | DataLekt.nl: Bij de gemeente Amsterdam is een lijst met namen en gevoelige persoonlijke gegevens van personen betrokken in de radicaliseringsaanpak per ongeluk verstuurd. Deze lijst bevatte details zoals adressen, geboortedata, en de redenen van opname in het programma. Het lek betreft personen die tussen 2015 en 2017 als risico voor radicalisering werden gezien. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en onderzoekt hoe de fout kon gebeuren. De betrokkenen zijn nog niet ingelicht. (Bron: parool.nl)</description>
+			<guid isPermaLink="false">https://www.parool.nl/nederland/datalek-gemeente-amsterdam-geheime-lijst-met-namen-van-radicale-moslims-verstuurd~b0418e5d/?datalekt=ebf42a97776a5efc6d07e6ab43e22b1440af0652652fe60e0d26123609d77136</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval met LockBit 3.0 treft WinSys</title>
 			<link>https://www.dutchitchannel.nl/news/459915/winsys-is-aangevallen-door-lockbit-3-0-encryptie</link>
@@ -797,14 +805,6 @@
 			<link>https://hetstormink-ehl.nl/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen</link>
 			<description>Het Stormink | Onderwijs | 12-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Het Stormink. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: hetstormink-ehl.nl)</description>
 			<guid isPermaLink="false">https://hetstormink-ehl.nl/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=d01a5f2db75aa943ea3aee4a914d57ffabc92e96ba5ad558452d90c65853b870</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Landstede Groep</title>
-			<link>https://www.rtvoost.nl/nieuws/2336571/landstede-waarschuwt-na-hack-schoolboekenleverancier-wees-extra-alert-op-phishingmail</link>
-			<description>Landstede Groep | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Landstede Groep. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: rtvoost.nl)</description>
-			<guid isPermaLink="false">https://www.rtvoost.nl/nieuws/2336571/landstede-waarschuwt-na-hack-schoolboekenleverancier-wees-extra-alert-op-phishingmail?datalekt=ef7aec33f564efcd17b829196cf6a22d4ec7d656d86cbb5821f78c1668223649</guid>
 			<category>Onderwijs </category>
 			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
