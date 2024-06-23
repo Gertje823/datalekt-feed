@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.noordhollandsdagblad.nl/regio/hackers-slaan-toe-26-bedrijven-getroffen-door-cyberaanval-met-gijzelsoftware.-hackers-vragen-vier-ton-losgeld/14427984.html?datalekt=3b157f9763dcc4798b9ab64cf83fac95bc3e62755d90254885753e26b8222e44",
+        "url": "https://www.noordhollandsdagblad.nl/regio/hackers-slaan-toe-26-bedrijven-getroffen-door-cyberaanval-met-gijzelsoftware.-hackers-vragen-vier-ton-losgeld/14427984.html",
+        "title": "Cyberaanval ontwricht 26 bedrijven in Noord- en Zuid-Holland",
+        "date_published": "2024-06-23T13:22:00Z",
+        "date_modified": "2024-06-23T13:22:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "noordhollandsdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "26 onbekende organisaties | Overige dienstverlening | 21-06-2024 | DataLekt.nl: Een hackersgroep heeft met een geavanceerde cyberaanval minstens 26 bedrijven in Noord- en Zuid-Holland ontregeld. De servers van deze bedrijven zijn ge\u00efnfecteerd met ransomware, en de aanval is nog steeds gaande. Het cybercrimeteam van de politie Noord-Holland is bezig met een forensisch onderzoek naar de aanval. (Bron: noordhollandsdagblad.nl)"
+    },
+    {
         "id": "https://www.ad.nl/geertruidenberg/privacyblunder-in-geertruidenberg-printfout-legt-financiele-gegevens-inwoners-bloot~a80640ab/?datalekt=1678e1ec8cbed2d6f5b9f8a33113042ac4ee46cc8f1149385a7028b07aeb706a",
         "url": "https://www.ad.nl/geertruidenberg/privacyblunder-in-geertruidenberg-printfout-legt-financiele-gegevens-inwoners-bloot~a80640ab/",
         "title": "Datalek bij gemeente Geertruidenberg door printfout",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "IVO Deurne | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook IVO Deurne. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dmgdeurne.nl)"
-    },
-    {
-        "id": "https://gsf.nl/nieuws/datalek-bij-iddink-learning-materials/?datalekt=436abedd4d8c5341143358c14de0f203fed6b3bf6caec3e6572681632c04190f",
-        "url": "https://gsf.nl/nieuws/datalek-bij-iddink-learning-materials/",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Gooise Scholen Federatie",
-        "date_published": "2024-04-15T10:51:00Z",
-        "date_modified": "2024-04-15T10:51:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gsf.nl"
-        },
-        "content_html": "",
-        "content_text": "Gooise Scholen Federatie | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Gooise Scholen Federatie. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: gsf.nl)"
     }
 ]
