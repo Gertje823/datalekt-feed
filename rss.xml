@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 23 Jun 2024 12:29:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 25 Jun 2024 18:22:16 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij DUO door fout in beveiliging blootlegt mailadressen van 60.000 schuldenaars</title>
+			<link>https://www.nu.nl/economie/6318051/mailadressen-van-60000-mensen-met-studieschuld-gelekt-door-fout-bij-duo.html</link>
+			<description>Dienst Uitvoering Onderwijs (DUO) | Overheid: Agentschappen | 24-06-2024 | DataLekt.nl: Een fout in de beveiliging van de software van Survalyzer, gebruikt door DUO voor het analyseren van enquêteresultaten, heeft geleid tot het lekken van e-mailadressen van 60.000 Nederlanders met een studieschuld. Het incident kwam aan het licht toen een ethisch hacker ontdekte dat hij de e-mailadressen van de ontvangers van een DUO-enquête kon zien. Het lek werd snel gemeld en vervolgens beveiligd, waardoor verdere onbevoegde toegang werd voorkomen. Er is geen bewijs van misbruik van deze gegevens door criminelen, maar de informatie had potentieel gebruikt kunnen worden voor phishing-aanvallen. DUO heeft het incident gerapporteerd bij de Autoriteit Persoonsgegevens. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/economie/6318051/mailadressen-van-60000-mensen-met-studieschuld-gelekt-door-fout-bij-duo.html?datalekt=54eb93d1c781d4ee3f7a4603a42d7e66eb6e08ab2291759207d4ffd3b5eaf840</guid>
+			<category>Overheid: Agentschappen </category>
+			<pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval ontwricht 26 bedrijven in Noord- en Zuid-Holland</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/hackers-slaan-toe-26-bedrijven-getroffen-door-cyberaanval-met-gijzelsoftware.-hackers-vragen-vier-ton-losgeld/14427984.html</link>
@@ -797,14 +805,6 @@
 			<link>https://www.omroepzeeland.nl/nieuws/16433322/mogelijk-bankgegevens-scholieren-buitgemaakt-bij-hack-boekenleverancier</link>
 			<description>Mondia Scholengroep | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Mondia Scholengroep. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: omroepzeeland.nl)</description>
 			<guid isPermaLink="false">https://www.omroepzeeland.nl/nieuws/16433322/mogelijk-bankgegevens-scholieren-buitgemaakt-bij-hack-boekenleverancier?datalekt=31abaf7c19b052feb06c1e628b28548b1edd408bac748dc10450cdad2b490489</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft IVO Deurne</title>
-			<link>https://dmgdeurne.nl/ook-gegevens-deurnese-middelbare-scholieren-mogelijk-gelekt-bij-cyberaanval-schoolboekenleverancier-iddink/</link>
-			<description>IVO Deurne | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook IVO Deurne. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dmgdeurne.nl)</description>
-			<guid isPermaLink="false">https://dmgdeurne.nl/ook-gegevens-deurnese-middelbare-scholieren-mogelijk-gelekt-bij-cyberaanval-schoolboekenleverancier-iddink/?datalekt=875abefca315e184428b3b750085a4c9f81c516362273df8422f8b2eb79ec0b6</guid>
 			<category>Onderwijs </category>
 			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
 		</item>

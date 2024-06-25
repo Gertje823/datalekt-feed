@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nu.nl/economie/6318051/mailadressen-van-60000-mensen-met-studieschuld-gelekt-door-fout-bij-duo.html?datalekt=54eb93d1c781d4ee3f7a4603a42d7e66eb6e08ab2291759207d4ffd3b5eaf840",
+        "url": "https://www.nu.nl/economie/6318051/mailadressen-van-60000-mensen-met-studieschuld-gelekt-door-fout-bij-duo.html",
+        "title": "Datalek bij DUO door fout in beveiliging blootlegt mailadressen van 60.000 schuldenaars",
+        "date_published": "2024-06-25T12:45:00Z",
+        "date_modified": "2024-06-25T12:45:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Dienst Uitvoering Onderwijs (DUO) | Overheid: Agentschappen | 24-06-2024 | DataLekt.nl: Een fout in de beveiliging van de software van Survalyzer, gebruikt door DUO voor het analyseren van enqu\u00eateresultaten, heeft geleid tot het lekken van e-mailadressen van 60.000 Nederlanders met een studieschuld. Het incident kwam aan het licht toen een ethisch hacker ontdekte dat hij de e-mailadressen van de ontvangers van een DUO-enqu\u00eate kon zien. Het lek werd snel gemeld en vervolgens beveiligd, waardoor verdere onbevoegde toegang werd voorkomen. Er is geen bewijs van misbruik van deze gegevens door criminelen, maar de informatie had potentieel gebruikt kunnen worden voor phishing-aanvallen. DUO heeft het incident gerapporteerd bij de Autoriteit Persoonsgegevens. (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.noordhollandsdagblad.nl/regio/hackers-slaan-toe-26-bedrijven-getroffen-door-cyberaanval-met-gijzelsoftware.-hackers-vragen-vier-ton-losgeld/14427984.html?datalekt=3b157f9763dcc4798b9ab64cf83fac95bc3e62755d90254885753e26b8222e44",
         "url": "https://www.noordhollandsdagblad.nl/regio/hackers-slaan-toe-26-bedrijven-getroffen-door-cyberaanval-met-gijzelsoftware.-hackers-vragen-vier-ton-losgeld/14427984.html",
         "title": "Cyberaanval ontwricht 26 bedrijven in Noord- en Zuid-Holland",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Mondia Scholengroep | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Mondia Scholengroep. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: omroepzeeland.nl)"
-    },
-    {
-        "id": "https://dmgdeurne.nl/ook-gegevens-deurnese-middelbare-scholieren-mogelijk-gelekt-bij-cyberaanval-schoolboekenleverancier-iddink/?datalekt=875abefca315e184428b3b750085a4c9f81c516362273df8422f8b2eb79ec0b6",
-        "url": "https://dmgdeurne.nl/ook-gegevens-deurnese-middelbare-scholieren-mogelijk-gelekt-bij-cyberaanval-schoolboekenleverancier-iddink/",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft IVO Deurne",
-        "date_published": "2024-04-15T10:52:00Z",
-        "date_modified": "2024-04-15T10:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dmgdeurne.nl"
-        },
-        "content_html": "",
-        "content_text": "IVO Deurne | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook IVO Deurne. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dmgdeurne.nl)"
     }
 ]
