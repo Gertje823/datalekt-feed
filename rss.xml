@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 25 Jun 2024 18:22:16 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 29 Jun 2024 18:19:57 +0000</lastBuildDate>
+		<item>
+			<title>Bunq onderzoekt beschuldigingen van ongeautoriseerde toegang tot klantrekeningen</title>
+			<link>https://www.security.nl/posting/847874/Bunq+meldt+potentieel+datalek+bij+Autoriteit+Persoonsgegevens</link>
+			<description>Bunq | Financiële instellingen | 27-06-2024 | DataLekt.nl: Bunq heeft bij de Autoriteit Persoonsgegevens een melding gemaakt van een potentieel datalek na berichten over medewerkers die mogelijk ongeautoriseerd toegang hadden tot klantenrekeningen. Dit incident, dat recent ontdekt is, heeft geleid tot een onderzoek van zowel de Tuchtrecht Banken als vanuit de bank zelf. De impact en de exacte aard van de mogelijke privacyschending zijn nog onduidelijk, maar de bank heeft bevestigd dat het in enkele gevallen om een grijs gebied ging en betrokken medewerkers zijn aangesproken. Dit roept vragen op over de naleving van de bankierseed en de bescherming van klantgegevens bij Bunq. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/847874/Bunq+meldt+potentieel+datalek+bij+Autoriteit+Persoonsgegevens?datalekt=69c8293c477c60b9398b4d6228abce0a6391dbc4daf3b8ad268256fa45d26464</guid>
+			<category>Financiële instellingen </category>
+			<pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij DUO door fout in beveiliging blootlegt mailadressen van 60.000 schuldenaars</title>
 			<link>https://www.nu.nl/economie/6318051/mailadressen-van-60000-mensen-met-studieschuld-gelekt-door-fout-bij-duo.html</link>
@@ -797,14 +805,6 @@
 			<link>https://www.carmelemmen.nl/nieuws/200/iddink-learning-materials-aangevallen-door-cybercriminelen</link>
 			<description>Carmel College Emmen | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Carmel College Emmen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: carmelemmen.nl)</description>
 			<guid isPermaLink="false">https://www.carmelemmen.nl/nieuws/200/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=b7afc03b3ffe3e1d1d05b267d716de31b2b719e9dd3dcd4b93a01918ea2db5cf</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Mondia Scholengroep</title>
-			<link>https://www.omroepzeeland.nl/nieuws/16433322/mogelijk-bankgegevens-scholieren-buitgemaakt-bij-hack-boekenleverancier</link>
-			<description>Mondia Scholengroep | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Mondia Scholengroep. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: omroepzeeland.nl)</description>
-			<guid isPermaLink="false">https://www.omroepzeeland.nl/nieuws/16433322/mogelijk-bankgegevens-scholieren-buitgemaakt-bij-hack-boekenleverancier?datalekt=31abaf7c19b052feb06c1e628b28548b1edd408bac748dc10450cdad2b490489</guid>
 			<category>Onderwijs </category>
 			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
