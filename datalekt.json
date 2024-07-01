@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://clara-wichmann.nl/nieuws/persbericht-uitspraak-rechtbank-arnhem-28-juni-2024-rechtbank-stelt-sekswerkers-in-gelijk/?datalekt=d396374cc9e680e064aeee1410a579a2ae3a4f9baab2bc1f62aefb963ed1f33d",
+        "url": "https://clara-wichmann.nl/nieuws/persbericht-uitspraak-rechtbank-arnhem-28-juni-2024-rechtbank-stelt-sekswerkers-in-gelijk/",
+        "title": "Rechtbank Arnhem steunt privacyrechten van sekswerkers in recente uitspraak",
+        "date_published": "2024-07-01T09:53:00Z",
+        "date_modified": "2024-07-01T09:53:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "clara-wichmann.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Nijmegen | Overheid: Gemeenten | 28-06-2024 | DataLekt.nl: De rechtbank in Arnhem heeft bepaald dat de registratieplicht voor sekswerkers in Nijmegen in strijd is met hun recht op privacy. Deze uitspraak volgt nadat Bureau Clara Wichmann, samen met twee sekswerkers en ondersteund door advocatenkantoor Stibbe, bezwaar maakte tegen de registratie en het uitsterfbeleid van de tippelzone. De rechtbank erkende dat er geen zwaarwegend algemeen belang is dat deze registratie van gevoelige persoonsgegevens rechtvaardigt, wat een belangrijke overwinning betekent voor de rechten van sekswerkers. (Bron: clara-wichmann.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/847874/Bunq+meldt+potentieel+datalek+bij+Autoriteit+Persoonsgegevens?datalekt=69c8293c477c60b9398b4d6228abce0a6391dbc4daf3b8ad268256fa45d26464",
         "url": "https://www.security.nl/posting/847874/Bunq+meldt+potentieel+datalek+bij+Autoriteit+Persoonsgegevens",
         "title": "Bunq onderzoekt beschuldigingen van ongeautoriseerde toegang tot klantrekeningen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Katholieke Scholengemeenschap Etten-Leur (KSE) | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Katholieke Scholengemeenschap Etten-Leur (KSE). Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: k-s-e.nl)"
-    },
-    {
-        "id": "https://www.carmelemmen.nl/nieuws/200/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=b7afc03b3ffe3e1d1d05b267d716de31b2b719e9dd3dcd4b93a01918ea2db5cf",
-        "url": "https://www.carmelemmen.nl/nieuws/200/iddink-learning-materials-aangevallen-door-cybercriminelen",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Carmel College Emmen",
-        "date_published": "2024-04-15T10:54:00Z",
-        "date_modified": "2024-04-15T10:54:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "carmelemmen.nl"
-        },
-        "content_html": "",
-        "content_text": "Carmel College Emmen | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Carmel College Emmen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: carmelemmen.nl)"
     }
 ]
