@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 01 Jul 2024 12:33:14 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jul 2024 12:30:36 +0000</lastBuildDate>
+		<item>
+			<title>Nieuw datalek bij Iddink kan leerlinggegevens blootstellen</title>
+			<link>https://tweakers.net/nieuws/224006/schoolboekenleverancier-iddink-meldt-opnieuw-datalek.html</link>
+			<description>Iddink Learning Materials | Groot- en detailhandel | 04-07-2024 | DataLekt.nl: Iddink Learning Materials, een leverancier van schoolboeken, heeft een datalek gemeld waarbij de veiligheid van leerlinginformatie in gevaar kon komen door een aanpasbare inloglink. Dit incident is kenmerkend omdat er enige overlap is met gegevens die eerder dat jaar tijdens een ransomwareaanval zijn buitgemaakt, waaronder namen en adressen van leerlingen. Hoewel de kans op misbruik klein is, heeft Iddink het incident gemeld bij de Autoriteit Persoonsgegevens. Er zijn ongeveer 420.000 leerlingen in Nederland en België die mogelijk beïnvloed zijn door dit lek. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/224006/schoolboekenleverancier-iddink-meldt-opnieuw-datalek.html?datalekt=16f7db64ba697f1709ae9f26a27595398a57c3d7188f068bcb603bf5cd6cd565</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Rechtbank Arnhem steunt privacyrechten van sekswerkers in recente uitspraak</title>
 			<link>https://clara-wichmann.nl/nieuws/persbericht-uitspraak-rechtbank-arnhem-28-juni-2024-rechtbank-stelt-sekswerkers-in-gelijk/</link>
@@ -797,14 +805,6 @@
 			<link>https://www.augustinianum.nl/index.php/en/blog/iddink-learning-materials-aangevallen-door-cybercriminelen</link>
 			<description>Augustinianum | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Augustinianum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: augustinianum.nl)</description>
 			<guid isPermaLink="false">https://www.augustinianum.nl/index.php/en/blog/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=5d6d04607b98216f9137322aecbde99f0fc978e1bbf6affcfcd19905589151fe</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Katholieke Scholengemeenschap Etten-Leur (KSE)</title>
-			<link>https://www.k-s-e.nl/Home/Nieuws/art/709133</link>
-			<description>Katholieke Scholengemeenschap Etten-Leur (KSE) | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Katholieke Scholengemeenschap Etten-Leur (KSE). Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: k-s-e.nl)</description>
-			<guid isPermaLink="false">https://www.k-s-e.nl/Home/Nieuws/art/709133?datalekt=e51ab6da439b17dfed133e9c47a28cb73758f1e916dfec47c7568b05510d767b</guid>
 			<category>Onderwijs </category>
 			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
