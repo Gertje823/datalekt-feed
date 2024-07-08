@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=52f98caf77a89f6f977233acae7ab8bdebc37fcb3b0c2d9b4ea08dfb6cf61095",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "NOAB getroffen door ransomware aanval van de criminele organisatie Lockbit3",
+        "date_published": "2024-07-08T15:38:00Z",
+        "date_modified": "2024-07-08T15:38:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "NOAB | Overige dienstverlening | 08-07-2024 | DataLekt.nl: De criminele organisatie Lockbit3 heeft op het darkweb aangekondigd dat zij NOAB heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/?datalekt=98b814301fe65d8ac93d2045059f607d0cddfcd9f4cf85bd5a846349df395490",
         "url": "https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/",
         "title": "Datalek bij Hogeschool van Arnhem en Nijmegen treft half miljoen mensen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Jan Tinbergen College | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Jan Tinbergen College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: jtc-roosendaal.nl)"
-    },
-    {
-        "id": "https://wolvega.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie?datalekt=c3ab0d3750f221935f0b194f3efd9a19df0828c86f97d1109eb50753d9d34c14",
-        "url": "https://wolvega.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Terra Wolvega",
-        "date_published": "2024-04-15T10:57:00Z",
-        "date_modified": "2024-04-15T10:57:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "voterra.nl"
-        },
-        "content_html": "",
-        "content_text": "Terra Wolvega | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Terra Wolvega. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: voterra.nl)"
     }
 ]
