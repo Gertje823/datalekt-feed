@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/?datalekt=98b814301fe65d8ac93d2045059f607d0cddfcd9f4cf85bd5a846349df395490",
+        "url": "https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/",
+        "title": "Datalek bij Hogeschool van Arnhem en Nijmegen treft half miljoen mensen",
+        "date_published": "2021-10-01T00:00:00Z",
+        "date_modified": "2024-07-08T09:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "erasmusmagazine.nl"
+        },
+        "content_html": "",
+        "content_text": "Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 03-09-2021 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) heeft een groot datalek onderzocht dat op 1 september aan het licht kwam. Een hacker verkreeg toegang tot gegevens van studenten, medewerkers en andere contacten via een webformulier. Hoewel de HAN weigerde losgeld te betalen, werden de gegevens online gepubliceerd. Het merendeel van de gelekte gegevens betrof algemene persoonsinformatie, maar in sommige gevallen ging het om gevoelige data zoals BSN-nummers en politieke voorkeuren. De HAN heeft haar excuses aangeboden en informeert de getroffenen over het incident. [Update: D.d. 6 juli 2024 is bekend geworden dat 5 studenten een schadevergoeding van in totaal \u20ac 1800.] (Bron: erasmusmagazine.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/224006/schoolboekenleverancier-iddink-meldt-opnieuw-datalek.html?datalekt=16f7db64ba697f1709ae9f26a27595398a57c3d7188f068bcb603bf5cd6cd565",
         "url": "https://tweakers.net/nieuws/224006/schoolboekenleverancier-iddink-meldt-opnieuw-datalek.html",
         "title": "Nieuw datalek bij Iddink kan leerlinggegevens blootstellen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Terra Wolvega | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Terra Wolvega. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: voterra.nl)"
-    },
-    {
-        "id": "https://www.augustinianum.nl/index.php/en/blog/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=5d6d04607b98216f9137322aecbde99f0fc978e1bbf6affcfcd19905589151fe",
-        "url": "https://www.augustinianum.nl/index.php/en/blog/iddink-learning-materials-aangevallen-door-cybercriminelen",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Augustinianum",
-        "date_published": "2024-04-15T10:56:00Z",
-        "date_modified": "2024-04-15T10:56:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "augustinianum.nl"
-        },
-        "content_html": "",
-        "content_text": "Augustinianum | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Augustinianum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: augustinianum.nl)"
     }
 ]
