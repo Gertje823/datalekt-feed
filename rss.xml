@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 11 Jul 2024 12:32:01 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jul 2024 18:21:44 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Delft getroffen door datalek na hack op leverancier AddComm</title>
+			<link>https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/</link>
+			<description>Gemeente Delft | Overheid: Gemeenten | 05-06-2024 | DataLekt.nl: In Delft zijn persoonlijke gegevens van burgers blootgesteld na een hack op de softwareleverancier AddComm. Er zijn belangrijke identificatiegegevens gestolen, waaronder namen en adressen. De gemeente heeft stappen ondernomen om betrokkenen te waarschuwen en te beschermen tegen mogelijke fraude en identiteitsdiefstal. (Bron: gemeente.nu)</description>
+			<guid isPermaLink="false">https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/?datalekt=2c630d45b704c62f0ee2ee9abe390ff5ac7f61b9af49c1e1c9509306537df4ef</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij Hoogheemraadschap van Delfland door beveiligingsbreuk bij AddComm</title>
+			<link>https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/</link>
+			<description>Hoogheemraadschap van Delfland | Overheid: Waterschappen | 05-06-2024 | DataLekt.nl: Door een cyberaanval op AddComm zijn persoonsgegevens van gebruikers van het Hoogheemraadschap van Delfland gelekt. Deze gegevens omvatten namen, adressen en mogelijk gevoelige informatie gerelateerd aan waterbeheer. Het Hoogheemraadschap onderzoekt de volledige omvang van de schade en heeft maatregelen getroffen om verdere datalekken te voorkomen. (Bron: gemeente.nu)</description>
+			<guid isPermaLink="false">https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/?datalekt=7bdb9913da82760689eea33582b100505d26feed323c8b40e01cb9c9dede372f</guid>
+			<category>Overheid: Waterschappen </category>
+			<pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij gemeente Alphen aan den Rijn door dubbelzijdige printfout</title>
 			<link>https://www.studioalphen.nl/nieuws/gemeente-opnieuw-de-fout-in-printfout-in-brieven-veroorzaakt-datalek-persoonsgegevens/</link>
@@ -781,22 +797,6 @@
 			<link>https://canisius.nl/nieuws/uncategorized/iddink-learning-materials-aangevallen-door-cybercriminelen</link>
 			<description>Canisius | Onderwijs | 14-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Canisius. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: canisius.nl)</description>
 			<guid isPermaLink="false">https://canisius.nl/nieuws/uncategorized/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=8b1bd7a8f11038880c774414e6145fcbf8dfb982fe185a5c83cb2cad97931218</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Tabor College</title>
-			<link>https://www.noordhollandsdagblad.nl/cnt/dmf20240414_71168742</link>
-			<description>Tabor College | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Tabor College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/cnt/dmf20240414_71168742?datalekt=d6bbf19654ef7ab5f4ff484f81a2a486fd6ba70a25739c708be29fcee88ae2a6</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Etty Hillesum Lyceum</title>
-			<link>https://demarke-ehl.nl/hetcorberic/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen</link>
-			<description>Etty Hillesum Lyceum | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Etty Hillesum Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: demarke-ehl.nl)</description>
-			<guid isPermaLink="false">https://demarke-ehl.nl/hetcorberic/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=42fca1a9246eb25d87fdf28fae2a9318436edc132e4209aef2b3c3ea92ec1678</guid>
 			<category>Onderwijs </category>
 			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
