@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 08 Jul 2024 18:21:53 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jul 2024 12:32:01 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij gemeente Alphen aan den Rijn door dubbelzijdige printfout</title>
+			<link>https://www.studioalphen.nl/nieuws/gemeente-opnieuw-de-fout-in-printfout-in-brieven-veroorzaakt-datalek-persoonsgegevens/</link>
+			<description>Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 09-07-2024 | DataLekt.nl: De gemeente Alphen aan den Rijn heeft een datalek veroorzaakt door een fout bij het printen van brieven aan kentekenhouders, waarbij de achterzijde gegevens van andere personen bevatte. Hierdoor zijn de persoonlijke gegevens van achttien personen onbedoeld openbaar gemaakt. Dit is niet de eerste keer dat een dergelijke fout plaatsvindt. De gemeente heeft de getroffen personen geïnformeerd en het incident gemeld bij de Autoriteit Persoonsgegevens. Er is sprake van menselijke fouten en de schade lijkt beperkt tot de betrokken individuen. (Bron: studioalphen.nl)</description>
+			<guid isPermaLink="false">https://www.studioalphen.nl/nieuws/gemeente-opnieuw-de-fout-in-printfout-in-brieven-veroorzaakt-datalek-persoonsgegevens/?datalekt=c40d0c83bb02f8a930d698064feb6b06d8742a7b67c06e399bf6783e572e779e</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>NOAB getroffen door ransomware aanval van de criminele organisatie Lockbit3</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -789,14 +797,6 @@
 			<link>https://demarke-ehl.nl/hetcorberic/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen</link>
 			<description>Etty Hillesum Lyceum | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Etty Hillesum Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: demarke-ehl.nl)</description>
 			<guid isPermaLink="false">https://demarke-ehl.nl/hetcorberic/nieuws/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=42fca1a9246eb25d87fdf28fae2a9318436edc132e4209aef2b3c3ea92ec1678</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Jan Tinbergen College</title>
-			<link>https://www.jtc-roosendaal.nl/Nieuws-Activiteiten-Fotos/Nieuwsoverzicht/art/709135</link>
-			<description>Jan Tinbergen College | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Jan Tinbergen College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: jtc-roosendaal.nl)</description>
-			<guid isPermaLink="false">https://www.jtc-roosendaal.nl/Nieuws-Activiteiten-Fotos/Nieuwsoverzicht/art/709135?datalekt=e4f24d6fbb3bec93b09ba78b21350d9750f5d324771a1086e09e28758ca3cf3c</guid>
 			<category>Onderwijs </category>
 			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
