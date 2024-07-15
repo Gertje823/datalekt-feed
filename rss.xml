@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 11 Jul 2024 18:21:44 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jul 2024 12:32:58 +0000</lastBuildDate>
 		<item>
 			<title>Gemeente Delft getroffen door datalek na hack op leverancier AddComm</title>
 			<link>https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/</link>
@@ -793,12 +793,12 @@
 			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Canisius</title>
-			<link>https://canisius.nl/nieuws/uncategorized/iddink-learning-materials-aangevallen-door-cybercriminelen</link>
-			<description>Canisius | Onderwijs | 14-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Canisius. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: canisius.nl)</description>
-			<guid isPermaLink="false">https://canisius.nl/nieuws/uncategorized/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=8b1bd7a8f11038880c774414e6145fcbf8dfb982fe185a5c83cb2cad97931218</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+			<title>Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek</title>
+			<link>https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht</link>
+			<description>Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&amp;#039;s en paspoortkopieën toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en noodmaatregelen voor beveiliging toegepast. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. [Update: D.d. 12 juli 2024 is bekend geworden dat het om 50 miljoen documenten gaat en dat het nog 1,5 jaar duurt voordat het lek definitief opgelost is.] (Bron: binnenlandsbestuur.nl)</description>
+			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e902021210248d4d30f0162ebf4f62b6d326a15d174cbcaa30f8207dc4725341</guid>
+			<category>Overheid: Provincies </category>
+			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Datalek bij Hogeschool van Arnhem en Nijmegen treft half miljoen mensen</title>

@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e902021210248d4d30f0162ebf4f62b6d326a15d174cbcaa30f8207dc4725341",
+        "url": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht",
+        "title": "Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek",
+        "date_published": "2024-04-13T12:01:00Z",
+        "date_modified": "2024-07-15T12:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "binnenlandsbestuur.nl"
+        },
+        "content_html": "",
+        "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&#039;s en paspoortkopie\u00ebn toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en noodmaatregelen voor beveiliging toegepast. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. [Update: D.d. 12 juli 2024 is bekend geworden dat het om 50 miljoen documenten gaat en dat het nog 1,5 jaar duurt voordat het lek definitief opgelost is.] (Bron: binnenlandsbestuur.nl)"
+    },
+    {
         "id": "https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/?datalekt=2c630d45b704c62f0ee2ee9abe390ff5ac7f61b9af49c1e1c9509306537df4ef",
         "url": "https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/",
         "title": "Gemeente Delft getroffen door datalek na hack op leverancier AddComm",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "2College | Onderwijs | 14-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook 2College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
-    },
-    {
-        "id": "https://canisius.nl/nieuws/uncategorized/iddink-learning-materials-aangevallen-door-cybercriminelen?datalekt=8b1bd7a8f11038880c774414e6145fcbf8dfb982fe185a5c83cb2cad97931218",
-        "url": "https://canisius.nl/nieuws/uncategorized/iddink-learning-materials-aangevallen-door-cybercriminelen",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Canisius",
-        "date_published": "2024-04-15T11:01:00Z",
-        "date_modified": "2024-04-15T11:01:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "canisius.nl"
-        },
-        "content_html": "",
-        "content_text": "Canisius | Onderwijs | 14-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Canisius. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: canisius.nl)"
     }
 ]
