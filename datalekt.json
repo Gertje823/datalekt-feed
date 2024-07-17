@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html?datalekt=0e2a6f4f6ccd5346a070a4e7c88e20202179a39f3ff381d48a8556dece0215ad",
+        "url": "https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html",
+        "title": "Kruidvat krijgt boete voor plaatsing trackingcookies zonder toestemming",
+        "date_published": "2024-07-17T11:50:00Z",
+        "date_modified": "2024-07-17T11:50:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Kruidvat | Groot- en detailhandel | 16-07-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft drogisterij Kruidvat, onderdeel van AS Watson, een boete van 600.000 euro opgelegd voor het plaatsen van trackingcookies zonder juiste toestemming. Kruidvat schond hiermee de AVG door standaard aangevinkte vakjes te gebruiken in hun cookiebanner, waardoor klanten niet vrijelijk hun toestemming konden geven. Dit betrof gevoelige informatie zoals aankopen van zwangerschapstests en medicatie. Na onderzoek vanaf eind 2019, bleek Kruidvat pas vanaf oktober 2020 de wetgeving correct te volgen. AS Watson is in beroep gegaan tegen de boete. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7504bad1ac521e77b0a5db75ef0d3025ee52593f8b802265d7d7408fa19087ce",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Athlon Car Lease getroffen door ransomware aanval van de criminele organisatie Vanir Group",
+        "date_published": "2024-07-17T11:44:00Z",
+        "date_modified": "2024-07-17T11:44:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Athlon Car Lease | Verhuur van roerende goederen en overige zakelijke dienstverlening | 11-07-2024 | DataLekt.nl: De criminele organisatie Vanir Group heeft op het darkweb aangekondigd dat zij Athlon Car Lease heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e902021210248d4d30f0162ebf4f62b6d326a15d174cbcaa30f8207dc4725341",
         "url": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht",
         "title": "Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Vechtstede College | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vechtstede College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: weespernieuws.nl)"
-    },
-    {
-        "id": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=2aa0797c8dc3e66b79818866989b92f21eb7b5313829aacebef81c311e64155e",
-        "url": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Casparaus College",
-        "date_published": "2024-04-16T13:54:00Z",
-        "date_modified": "2024-04-16T13:54:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "weespernieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Casparaus College | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Casparaus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: weespernieuws.nl)"
-    },
-    {
-        "id": "https://www.2college.nl/durendael/school/nieuws/cyberaanval-iddink-1/?datalekt=139ce2693035c24d0e8e33c107d43c93e1641c1fb9e52d6045488158fc249f0a",
-        "url": "https://www.2college.nl/durendael/school/nieuws/cyberaanval-iddink-1/",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft 2College",
-        "date_published": "2024-04-15T11:02:00Z",
-        "date_modified": "2024-04-15T11:02:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "2college.nl"
-        },
-        "content_html": "",
-        "content_text": "2College | Onderwijs | 14-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook 2College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)"
     }
 ]

@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 15 Jul 2024 12:32:58 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jul 2024 12:32:11 +0000</lastBuildDate>
+		<item>
+			<title>Kruidvat krijgt boete voor plaatsing trackingcookies zonder toestemming</title>
+			<link>https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html</link>
+			<description>Kruidvat | Groot- en detailhandel | 16-07-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft drogisterij Kruidvat, onderdeel van AS Watson, een boete van 600.000 euro opgelegd voor het plaatsen van trackingcookies zonder juiste toestemming. Kruidvat schond hiermee de AVG door standaard aangevinkte vakjes te gebruiken in hun cookiebanner, waardoor klanten niet vrijelijk hun toestemming konden geven. Dit betrof gevoelige informatie zoals aankopen van zwangerschapstests en medicatie. Na onderzoek vanaf eind 2019, bleek Kruidvat pas vanaf oktober 2020 de wetgeving correct te volgen. AS Watson is in beroep gegaan tegen de boete. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html?datalekt=0e2a6f4f6ccd5346a070a4e7c88e20202179a39f3ff381d48a8556dece0215ad</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Athlon Car Lease getroffen door ransomware aanval van de criminele organisatie Vanir Group</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Athlon Car Lease | Verhuur van roerende goederen en overige zakelijke dienstverlening | 11-07-2024 | DataLekt.nl: De criminele organisatie Vanir Group heeft op het darkweb aangekondigd dat zij Athlon Car Lease heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7504bad1ac521e77b0a5db75ef0d3025ee52593f8b802265d7d7408fa19087ce</guid>
+			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
+			<pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Delft getroffen door datalek na hack op leverancier AddComm</title>
 			<link>https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/</link>
@@ -775,22 +791,6 @@
 			<guid isPermaLink="false">https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=4104d65fa26aca18a2236fb0a6170b363f32dd9bf1005bdd1d897d2cc7ab2ae2</guid>
 			<category>Onderwijs </category>
 			<pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Casparaus College</title>
-			<link>https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder</link>
-			<description>Casparaus College | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Casparaus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: weespernieuws.nl)</description>
-			<guid isPermaLink="false">https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=2aa0797c8dc3e66b79818866989b92f21eb7b5313829aacebef81c311e64155e</guid>
-			<category>Onderwijs </category>
-			<pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft 2College</title>
-			<link>https://www.2college.nl/durendael/school/nieuws/cyberaanval-iddink-1/</link>
-			<description>2College | Onderwijs | 14-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook 2College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: 2college.nl)</description>
-			<guid isPermaLink="false">https://www.2college.nl/durendael/school/nieuws/cyberaanval-iddink-1/?datalekt=139ce2693035c24d0e8e33c107d43c93e1641c1fb9e52d6045488158fc249f0a</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek</title>
