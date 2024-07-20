@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1e06c3e7feaa363ee98aefe4d93fb494bf8e47e4d382f4bfa493d6c4d0a3ce41",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Glow FM getroffen door ransomware aanval van de criminele organisatie Ransomhouse",
+        "date_published": "2024-07-19T20:53:00Z",
+        "date_modified": "2024-07-19T20:53:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Glow FM | Informatie en communicatie | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij Glow FM heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=927f1cdb54826bece62c44a4d92e91685ce6c436b89577890c210f188ee8cd63",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "KuiperCompagnons getroffen door ransomware aanval van de criminele organisatie Ransomhouse",
+        "date_published": "2024-07-19T20:52:00Z",
+        "date_modified": "2024-07-19T20:52:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "KuiperCompagnons | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij KuiperCompagnons heeft getroffen met een ransomware-aanval en losgeld heeft ge\u00ebist. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html?datalekt=0e2a6f4f6ccd5346a070a4e7c88e20202179a39f3ff381d48a8556dece0215ad",
         "url": "https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html",
         "title": "Kruidvat krijgt boete voor plaatsing trackingcookies zonder toestemming",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ons Middelbaar Onderwijs (OMO) | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ons Middelbaar Onderwijs. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: omroepbrabant.nl)"
-    },
-    {
-        "id": "https://www.quadraam.nl/nieuws/328/cyberaanval-uitgeverij-iddink?datalekt=82370a3f574f78056f755c21dccf71c2cdafa94c9e95a301dcf825adc07cb74a",
-        "url": "https://www.quadraam.nl/nieuws/328/cyberaanval-uitgeverij-iddink",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Quadraam",
-        "date_published": "2024-04-16T13:56:00Z",
-        "date_modified": "2024-04-16T13:56:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "quadraam.nl"
-        },
-        "content_html": "",
-        "content_text": "Stichting Quadraam | Onderwijs | 14-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Quadraam. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: quadraam.nl)"
-    },
-    {
-        "id": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder?datalekt=4104d65fa26aca18a2236fb0a6170b363f32dd9bf1005bdd1d897d2cc7ab2ae2",
-        "url": "https://www.weespernieuws.nl/maatschappelijk/maatschappelijk/335911/door-cyberaanval-op-boekenleverancier-mogelijk-gegevens-ouder",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Vechtstede College",
-        "date_published": "2024-04-16T13:55:00Z",
-        "date_modified": "2024-04-16T13:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "weespernieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Vechtstede College | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Vechtstede College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: weespernieuws.nl)"
     }
 ]
