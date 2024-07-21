@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 20 Jul 2024 01:12:25 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 21 Jul 2024 01:19:12 +0000</lastBuildDate>
+		<item>
+			<title>Tijdelijke blootstelling van persoonsgegevens bij Waterschap Zuiderzeeland door configuratiefout</title>
+			<link>https://www.zuiderzeeland.nl/tijdelijk-datalek-verholpen</link>
+			<description>Waterschap Zuiderzeeland | Overheid: Waterschappen | 18-07-2024 | DataLekt.nl: Waterschap Zuiderzeeland ontdekte een tijdelijk datalek veroorzaakt door een onjuist geconfigureerde koppeling op hun geo-data, waardoor persoonsgegevens onbedoeld toegankelijk werden. Het lek, actief van begin april tot half juni, stelde gegevens bloot die alleen door technisch onderlegde personen toegankelijk waren. Er is geen bewijs van misbruik gevonden. De organisatie heeft direct actie ondernomen door de toegang te sluiten en een melding te maken bij de Autoriteit Persoonsgegevens. (Bron: zuiderzeeland.nl)</description>
+			<guid isPermaLink="false">https://www.zuiderzeeland.nl/tijdelijk-datalek-verholpen?datalekt=4dc4ecdea3f978dc44f859bdac798f5d3c7b2a23c8eed79180212352427c2e8e</guid>
+			<category>Overheid: Waterschappen </category>
+			<pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Glow FM getroffen door ransomware aanval van de criminele organisatie Ransomhouse</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -781,14 +789,6 @@
 			<link>https://www.eldecollege.nl/datalek-bij-iddink-learning-materials-bv/</link>
 			<description>Elde College | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Elde College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: eldecollege.nl)</description>
 			<guid isPermaLink="false">https://www.eldecollege.nl/datalek-bij-iddink-learning-materials-bv/?datalekt=1cce763752af81395607914acf5c53cce903960d49174c40e942d832198ef2b6</guid>
-			<category>Onderwijs </category>
-			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Ons Middelbaar Onderwijs</title>
-			<link>https://www.omroepbrabant.nl/nieuws/4451957/schoolboekenleverancier-gehackt-gegevens-brabantse-leerlingen-op-straat</link>
-			<description>Ons Middelbaar Onderwijs (OMO) | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ons Middelbaar Onderwijs. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: omroepbrabant.nl)</description>
-			<guid isPermaLink="false">https://www.omroepbrabant.nl/nieuws/4451957/schoolboekenleverancier-gehackt-gegevens-brabantse-leerlingen-op-straat?datalekt=82581845fb5b07d8066ff6353a90e09a222f25b7436d7daddd12e2d08a1b5b31</guid>
 			<category>Onderwijs </category>
 			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
