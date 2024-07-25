@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.nu.nl/tweakers/6321794/ap-ruim-helft-boa-werkgevers-houdt-zich-niet-aan-wet-politiegegevens.html?datalekt=39aaaf7dd1d27249445150f0509b5228c41c961dc9ce6075afe98ca86de568a5",
+        "url": "https://www.nu.nl/tweakers/6321794/ap-ruim-helft-boa-werkgevers-houdt-zich-niet-aan-wet-politiegegevens.html",
+        "title": "AP rapporteert non-conformiteit bij boa-werkgevers omtrent Wet politiegegevens",
+        "date_published": "2024-07-25T16:04:00Z",
+        "date_modified": "2024-07-25T16:04:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende organisaties | Overige dienstverlening | 23-07-2024 | DataLekt.nl: Uit een onderzoek van de Autoriteit Persoonsgegevens (AP) blijkt dat meer dan de helft van de werkgevers van buitengewoon opsporingsambtenaren (boa&#039;s) zich niet houdt aan de Wet politiegegevens (Wpg). De AP constateert wel verbeteringen ten opzichte van vorig jaar, aangezien in januari van het vorige jaar nog twee derde van de boa-werkgevers geen auditrapport had ingeleverd. Deze werkgevers moeten jaarlijkse interne controles en vierjaarlijkse externe audits uitvoeren om te verzekeren dat persoonsgegevens correct worden verwerkt. De volgende externe audits zijn gepland voor eind volgend jaar. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/851139/Defensie+deelde+gegevens+medewerkers+onterecht+met+vakbonden?datalekt=73ab5fef424f8b0650698fdd9d87170bf955bd776be88487a4fd398d5476c2f3",
+        "url": "https://www.security.nl/posting/851139/Defensie+deelde+gegevens+medewerkers+onterecht+met+vakbonden",
+        "title": "Datalek bij Defensie: medewerkersgegevens onterecht gedeeld met vakbonden",
+        "date_published": "2024-07-25T16:00:00Z",
+        "date_modified": "2024-07-25T16:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Defensie | Overheid: Ministeries | 23-07-2024 | DataLekt.nl: Het ministerie van Defensie heeft gedurende reorganisaties onrechtmatig persoonsgegevens van medewerkers gedeeld met vakbonden, wat in strijd is met de AVG. Namen en functionele beoordelingen waren onder de gedeelde informatie. Een nieuwe tijdelijke werkwijze met geanonimiseerde data wordt nu gehanteerd, terwijl een definitieve aanpak nog wordt ontwikkeld met externe adviseurs. Een datalek is gemeld bij de Autoriteit Persoonsgegevens. Er zijn nog geen meldingen van directe schade aan getroffen individuen. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.zuiderzeeland.nl/tijdelijk-datalek-verholpen?datalekt=4dc4ecdea3f978dc44f859bdac798f5d3c7b2a23c8eed79180212352427c2e8e",
         "url": "https://www.zuiderzeeland.nl/tijdelijk-datalek-verholpen",
         "title": "Tijdelijke blootstelling van persoonsgegevens bij Waterschap Zuiderzeeland door configuratiefout",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Curio | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Curio. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: curio.nl)"
-    },
-    {
-        "id": "https://emmen.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie?datalekt=fa4182bce34058ef8e52ab632a8ab2080a68ae9791b96a887d129ec62dc24558",
-        "url": "https://emmen.voterra.nl/nieuws/nieuwsartikelen/cyberaanval-bij-iddink-schoolboekenleverancie",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Terra Emmen",
-        "date_published": "2024-04-17T08:45:00Z",
-        "date_modified": "2024-04-17T08:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "voterra.nl"
-        },
-        "content_html": "",
-        "content_text": "Terra Emmen | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Terra Emmen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: voterra.nl)"
-    },
-    {
-        "id": "https://www.eldecollege.nl/datalek-bij-iddink-learning-materials-bv/?datalekt=1cce763752af81395607914acf5c53cce903960d49174c40e942d832198ef2b6",
-        "url": "https://www.eldecollege.nl/datalek-bij-iddink-learning-materials-bv/",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Elde College",
-        "date_published": "2024-04-17T08:44:00Z",
-        "date_modified": "2024-04-17T08:44:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "eldecollege.nl"
-        },
-        "content_html": "",
-        "content_text": "Elde College | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Elde College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: eldecollege.nl)"
     }
 ]
