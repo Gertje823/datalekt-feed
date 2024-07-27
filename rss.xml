@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 25 Jul 2024 18:21:51 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 27 Jul 2024 12:31:36 +0000</lastBuildDate>
+		<item>
+			<title>Phishingaanval treft ambtenarenorganisatie HLTsamen</title>
+			<link>https://www.bollenstreekomroep.nl/hltsamen-slachtoffer-van-phishing/</link>
+			<description>HLTsamen | Overheid: Gemeenschappelijke regelingen | 24-07-2024 | DataLekt.nl: HLTsamen, een samenwerkingsverband van de gemeenten Hillegom, Lisse en Teylingen, is getroffen door een phishingaanval waarbij inloggegevens zijn buitgemaakt. Criminelen deden zich voor als een vertrouwd bedrijf en slaagden erin om toegang te krijgen tot vijf accounts voordat het beveiligingssysteem ingreep. Hoewel er geen data is gedownload, gekopieerd of verwijderd, zijn er onmiddellijke maatregelen genomen om de schade te beperken, inclusief het tijdelijk sluiten van de betrokken accounts. Er is aangifte gedaan en een melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: bollenstreekomroep.nl)</description>
+			<guid isPermaLink="false">https://www.bollenstreekomroep.nl/hltsamen-slachtoffer-van-phishing/?datalekt=d31dc02e8c349284c1332eb5df0a7aa5ca69927451b65e41ff53db3606ba96ec</guid>
+			<category>Overheid: Gemeenschappelijke regelingen </category>
+			<pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>AP rapporteert non-conformiteit bij boa-werkgevers omtrent Wet politiegegevens</title>
 			<link>https://www.nu.nl/tweakers/6321794/ap-ruim-helft-boa-werkgevers-houdt-zich-niet-aan-wet-politiegegevens.html</link>
@@ -781,14 +789,6 @@
 			<link>https://www.griftland.nl/informatie-over-cyberaanval-bij-iddink-learning-materials-bv/</link>
 			<description>Griftland College | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Griftland College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: griftland.nl)</description>
 			<guid isPermaLink="false">https://www.griftland.nl/informatie-over-cyberaanval-bij-iddink-learning-materials-bv/?datalekt=4e70f0e75593e17849835f55894f3d283eaaad115b41714a833cb479f332cb98</guid>
-			<category>Onderwijs </category>
-			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Curio</title>
-			<link>https://www.curio.nl/nieuws/cyberaanval-bij-iddink-leverancier-van-schoolboeken/</link>
-			<description>Curio | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Curio. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: curio.nl)</description>
-			<guid isPermaLink="false">https://www.curio.nl/nieuws/cyberaanval-bij-iddink-leverancier-van-schoolboeken/?datalekt=60b6efde432b1820cc212ce103ac5278c7ad0dab8e6384528f6923ef51c6b86a</guid>
 			<category>Onderwijs </category>
 			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
