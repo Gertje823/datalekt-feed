@@ -7,7 +7,63 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 27 Jul 2024 12:31:36 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 05 Aug 2024 12:33:27 +0000</lastBuildDate>
+		<item>
+			<title>COIN getroffen door ransomware aanval van de criminele organisatie madliberator</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>COIN | Informatie en communicatie | 02-08-2024 | DataLekt.nl: De criminele organisatie madliberator heeft op het darkweb aangekondigd dat zij COIN heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=daf11554cd927b01e22cf4461830b4c8c6c740ac19b654175b38dd621a74172b</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>KNMT dienstverlening gehinderd door ransomware-aanval</title>
+			<link>https://www.tandartspraktijk.nl/knmt-getroffen-door-gijzelsoftware/</link>
+			<description>Koninklijke Nederlandse Maatschappij tot bevordering der Tandheelkunde (KNMT) | Overige dienstverlening | 01-08-2024 | DataLekt.nl: Op 25 juli werd de Koninklijke Nederlandse Maatschappij tot bevordering der Tandheelkunde (KNMT) getroffen door een ransomware-aanval. Dit incident beperkte hun vermogen om via e-mail te communiceren en verstoorde de registraties voor trainingen en cursussen via de KNMT Academy. Daarnaast waren er problemen met het plaatsen van bestellingen op de website en de afhandeling van klachten. De organisatie is juridisch en op ICT-gebied ondersteund om de problemen op te lossen, zonder een specifieke hersteltijd te kunnen garanderen. (Bron: tandartspraktijk.nl)</description>
+			<guid isPermaLink="false">https://www.tandartspraktijk.nl/knmt-getroffen-door-gijzelsoftware/?datalekt=339059a1ec4fb41bb3c0312f2ceb77b4e71217a2fd7688c39ce4c9392f766246</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Hack bij Kunstuitleen Utrecht legt diensten stil door datadiefstal</title>
+			<link>https://www.duic.nl/algemeen/kunstuitleen-utrecht-tijdelijk-gesloten-na-hack-waarbij-mogelijk-persoonsgegevens-gestolen-zijn/</link>
+			<description>Stichting Kunstuitleen Utrecht | Cultuur, sport en recreatie | 01-08-2024 | DataLekt.nl: De Kunstuitleen Utrecht is tijdelijk gesloten vanwege een hack waarbij uitgebreide persoonsgegevens zoals namen, adressen, telefoonnummers, e-mailadressen, geboortedata, rekeningnummers en identificatiedocumentnummers mogelijk zijn gestolen. De hack werd ontdekt na het weekend en klanten zijn gewaarschuwd alert te zijn op mogelijke fraude. De dienstverlening van de kunstuitleen blijft onderbroken tot 28 augustus om het systeem te herstellen. De exacte omvang van de schade en het aantal getroffen personen is nog niet bekend. (Bron: duic.nl)</description>
+			<guid isPermaLink="false">https://www.duic.nl/algemeen/kunstuitleen-utrecht-tijdelijk-gesloten-na-hack-waarbij-mogelijk-persoonsgegevens-gestolen-zijn/?datalekt=a31ba438698b13df7b5215f264c4ea8aa1615e576bce993de4b34f4fc23cfa6e</guid>
+			<category>Cultuur, sport en recreatie </category>
+			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gebrekkige privacybescherming bij gemeente Smallingerland leidt tot 23 datalekken in 2023</title>
+			<link>https://www.actiefonline.nl/nieuws/algemeen/61783/-smallingerland-onzorgvuldig-en-onrechtmatig-met-privacy-</link>
+			<description>Gemeente Smallingerland | Overheid: Gemeenten | 01-08-2024 | DataLekt.nl: De gemeente Smallingerland heeft aanzienlijke tekortkomingen in de bescherming van privacygegevens, aldus het jaarverslag van de functionaris gegevensbescherming. Er werden onvolkomenheden in zowel technische als organisatorische beveiligingsmaatregelen vastgesteld, wat resulteerde in 23 datalekken in het jaar 2023. De gemeente heeft wel actie ondernomen om deze incidenten op te lossen en heeft het kennisniveau van haar medewerkers verbeterd. (Bron: actiefonline.nl)</description>
+			<guid isPermaLink="false">https://www.actiefonline.nl/nieuws/algemeen/61783/-smallingerland-onzorgvuldig-en-onrechtmatig-met-privacy-?datalekt=8ea981c83f9c9807e10052e64ee247552e4078b2d950590f572de51fb4fe3deb</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij RTV Maastricht door verkeerd geadresseerde e-mail</title>
+			<link>https://www.denieuwestermaastricht.nl/datalek-rtv-maastricht/</link>
+			<description>RTV Maastricht | Informatie en communicatie | 30-07-2024 | DataLekt.nl: Bij RTV Maastricht heeft een medewerker per ongeluk een e-mail met een bestand dat gegevens van 376 commerciële relaties bevatte naar een verkeerde mailinglijst gestuurd, waardoor alle relaties het bestand ontvingen. Dit incident heeft geleid tot een onbedoelde verspreiding van gevoelige informatie, waarbij de persoonlijke gegevens van honderden relaties blootgesteld werden aan onbevoegden. De impact van dit lek en eventuele vervolgstappen zijn nog niet duidelijk. (Bron: denieuwestermaastricht.nl)</description>
+			<guid isPermaLink="false">https://www.denieuwestermaastricht.nl/datalek-rtv-maastricht/?datalekt=920fa281411f2c9e4dc9757dde5b297c5786af5383b995524b6230221ef0e534</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Overtreding privacywetgeving door gemeente Apeldoorn bij openbaar maken stukken</title>
+			<link>https://www.brummensnieuws.nl/algemeen/algemeen/29196/apeldoorn-overtreedt-mogelijk-avg-regels</link>
+			<description>Gemeente Apeldoorn | Overheid: Gemeenten | 26-07-2024 | DataLekt.nl: De gemeente Apeldoorn heeft mogelijk de AVG-regels overtreden door te veel gegevens openbaar te maken na een WOO-verzoek. Dit betrof onder meer details over de projectleiding en verantwoordelijkheden op camping De Marshoeve. Een hoogleraar twijfelt of de openbaarmaking correct was, met name wat betreft persoonlijke details en uurvergoedingen, wat kan leiden tot risico&amp;#039;s zoals identiteitsfraude. De gemeente stelt dat de openbaarmaking met toestemming van de betrokkenen was. Een geanonimiseerde versie zal binnenkort gepubliceerd worden. (Bron: brummensnieuws.nl)</description>
+			<guid isPermaLink="false">https://www.brummensnieuws.nl/algemeen/algemeen/29196/apeldoorn-overtreedt-mogelijk-avg-regels?datalekt=c4debbe044892635928682a0fb763e22ac8b898b04b2d632d43441757972b789</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>SigmaControl getroffen door ransomware aanval van de criminele organisatie Ransomhub</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Sigma Control | Industrie | 23-07-2024 | DataLekt.nl: De criminele organisatie Ransomhub heeft op het darkweb aangekondigd dat zij SigmaControl heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c0b5927c8dc22debfb969eda07f1ea5bb7667980673c4ec01cd4f2826d1322b6</guid>
+			<category>Industrie </category>
+			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Phishingaanval treft ambtenarenorganisatie HLTsamen</title>
 			<link>https://www.bollenstreekomroep.nl/hltsamen-slachtoffer-van-phishing/</link>
@@ -735,62 +791,6 @@
 			<guid isPermaLink="false">https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/?datalekt=3258258c7955bf720e1a914c1990886e0bc1fd99baee953e11c1f1d3ddefc75d</guid>
 			<category>Onderwijs </category>
 			<pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Het Stedelijk Lyceum</title>
-			<link>https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/</link>
-			<description>Het Stedelijk Lyceum | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Het Stedelijk Lyceum. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: gelderlander.nl)</description>
-			<guid isPermaLink="false">https://www.gelderlander.nl/enschede/twentse-scholen-alert-na-cyberaanval-op-leverancier-van-boeken~a48398ae/?datalekt=e6c11a7634578807dd12b8b52ed748023f365e8066a1dc71f36b5d10df3a986d</guid>
-			<category>Onderwijs </category>
-			<pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ranzijn getroffen door ransomware aanval van de criminele organisatie RA World</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Ranzijn | Groot- en detailhandel | 18-03-2024 | DataLekt.nl: De criminele organisatie RA World heeft op het darkweb aangekondigd dat zij Ranzijn heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=49017f16d7bd1100b496730e91b362c362f4f7586ee9f6e681b05852edeffdee</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Stedelijk College</title>
-			<link>https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024</link>
-			<description>Stedelijk College | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Stedelijk College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: stedelijkcollege.nl)</description>
-			<guid isPermaLink="false">https://www.stedelijkcollege.nl/henegouwenlaan/#:~:text=Belangrijk%20bericht%20omtrent%20Cyberaanval%20Iddink%20%E2%80%93%20april%202024?datalekt=6c1751901bc87742b5cb21ede0c2a3d5fb03fc740ce0c5a9b62d39e73fbf0428</guid>
-			<category>Onderwijs </category>
-			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Lyceum de Grundel</title>
-			<link>https://lyceumdegrundel.nl/nieuws/iddink-aangevallen-door-cybercriminelen</link>
-			<description>Lyceum de Grundel | Onderwijs | 13-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Lyceum de Grundel. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: lyceumdegrundel.nl)</description>
-			<guid isPermaLink="false">https://lyceumdegrundel.nl/nieuws/iddink-aangevallen-door-cybercriminelen?datalekt=76ee5843155e03094e3bdd88df25b5aa95ea729569f1ac98e0587b58876c2b53</guid>
-			<category>Onderwijs </category>
-			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft NUOVO Scholen</title>
-			<link>https://www.nuovo.nl/nieuws/persbericht-over-iddink</link>
-			<description>NUOVO Scholen | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook NUOVO Scholen. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: nuovo.nl)</description>
-			<guid isPermaLink="false">https://www.nuovo.nl/nieuws/persbericht-over-iddink?datalekt=edbf687079518b9434ca223d7c2934dd1097998038dc115cc8d3e7278d8a6aa9</guid>
-			<category>Onderwijs </category>
-			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Varendonck College</title>
-			<link>https://www.varendonck.nl/nieuws/767/Cyberaanval-Iddink</link>
-			<description>Varendonck College | Onderwijs | 15-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Varendonck College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: varendonck.nl)</description>
-			<guid isPermaLink="false">https://www.varendonck.nl/nieuws/767/Cyberaanval-Iddink?datalekt=1aa91f151f1d553b11b7b8fd32f0718f6e2220677da9c9325891451ec23c07fd</guid>
-			<category>Onderwijs </category>
-			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Griftland College</title>
-			<link>https://www.griftland.nl/informatie-over-cyberaanval-bij-iddink-learning-materials-bv/</link>
-			<description>Griftland College | Onderwijs | 16-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Griftland College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: griftland.nl)</description>
-			<guid isPermaLink="false">https://www.griftland.nl/informatie-over-cyberaanval-bij-iddink-learning-materials-bv/?datalekt=4e70f0e75593e17849835f55894f3d283eaaad115b41714a833cb479f332cb98</guid>
-			<category>Onderwijs </category>
-			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek</title>
