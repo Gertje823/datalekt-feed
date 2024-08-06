@@ -7,12 +7,12 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 05 Aug 2024 12:33:27 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 06 Aug 2024 12:32:39 +0000</lastBuildDate>
 		<item>
 			<title>COIN getroffen door ransomware aanval van de criminele organisatie madliberator</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>COIN | Informatie en communicatie | 02-08-2024 | DataLekt.nl: De criminele organisatie madliberator heeft op het darkweb aangekondigd dat zij COIN heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=daf11554cd927b01e22cf4461830b4c8c6c740ac19b654175b38dd621a74172b</guid>
+			<description>COIN | Informatie en communicatie | 02-08-2024 | DataLekt.nl: De criminele organisatie madliberator heeft op het darkweb aangekondigd dat zij COIN heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=188ce180a4e519e2427f2a9a184f96966f6bbbab206453a4d7152f38544563a8</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -59,8 +59,8 @@
 		<item>
 			<title>SigmaControl getroffen door ransomware aanval van de criminele organisatie Ransomhub</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Sigma Control | Industrie | 23-07-2024 | DataLekt.nl: De criminele organisatie Ransomhub heeft op het darkweb aangekondigd dat zij SigmaControl heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c0b5927c8dc22debfb969eda07f1ea5bb7667980673c4ec01cd4f2826d1322b6</guid>
+			<description>Sigma Control | Industrie | 23-07-2024 | DataLekt.nl: De criminele organisatie Ransomhub heeft op het darkweb aangekondigd dat zij SigmaControl heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ced54c7d08286b1a3210e7d53a15e5036245bd7154dc67e45dfc09e97b3fae21</guid>
 			<category>Industrie </category>
 			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -99,16 +99,16 @@
 		<item>
 			<title>Glow FM getroffen door ransomware aanval van de criminele organisatie Ransomhouse</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Glow FM | Informatie en communicatie | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij Glow FM heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1e06c3e7feaa363ee98aefe4d93fb494bf8e47e4d382f4bfa493d6c4d0a3ce41</guid>
+			<description>Glow FM | Informatie en communicatie | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij Glow FM heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=939335cafcfd65b67729cde7e4fd174bbad6e7584567c97f4cb1da3e5e384383</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>KuiperCompagnons getroffen door ransomware aanval van de criminele organisatie Ransomhouse</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>KuiperCompagnons | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij KuiperCompagnons heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=927f1cdb54826bece62c44a4d92e91685ce6c436b89577890c210f188ee8cd63</guid>
+			<description>KuiperCompagnons | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij KuiperCompagnons heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1806915aa32de704a6bdcdfedf3372bacd1cd89c1878422e2f59ec536817db8f</guid>
 			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
 			<pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -123,8 +123,8 @@
 		<item>
 			<title>Athlon Car Lease getroffen door ransomware aanval van de criminele organisatie Vanir Group</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Athlon Car Lease | Verhuur van roerende goederen en overige zakelijke dienstverlening | 11-07-2024 | DataLekt.nl: De criminele organisatie Vanir Group heeft op het darkweb aangekondigd dat zij Athlon Car Lease heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7504bad1ac521e77b0a5db75ef0d3025ee52593f8b802265d7d7408fa19087ce</guid>
+			<description>Athlon Car Lease | Verhuur van roerende goederen en overige zakelijke dienstverlening | 11-07-2024 | DataLekt.nl: De criminele organisatie Vanir Group heeft op het darkweb aangekondigd dat zij Athlon Car Lease heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=67ec99942614129da9021a62d2ca46f9a5c3fe1b75549c986cb9b46f78dd6da8</guid>
 			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
 			<pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -155,8 +155,8 @@
 		<item>
 			<title>NOAB getroffen door ransomware aanval van de criminele organisatie Lockbit3</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>NOAB | Overige dienstverlening | 08-07-2024 | DataLekt.nl: De criminele organisatie Lockbit3 heeft op het darkweb aangekondigd dat zij NOAB heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=52f98caf77a89f6f977233acae7ab8bdebc37fcb3b0c2d9b4ea08dfb6cf61095</guid>
+			<description>NOAB | Overige dienstverlening | 08-07-2024 | DataLekt.nl: De criminele organisatie Lockbit3 heeft op het darkweb aangekondigd dat zij NOAB heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=75716908d66a3b1635de77e65dd96e76b10accbcbb6190f8b25239c092487e73</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -235,16 +235,16 @@
 		<item>
 			<title>Eurotrol getroffen door ransomware aanval van de criminele organisatie Blacksuit</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Eurotrol | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 12-06-2024 | DataLekt.nl: De criminele organisatie Blacksuit heeft op het darkweb aangekondigd dat zij Eurotrol heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d958abb1fcf51cc535996522aef90aa0c519377a23eb141ef37473b79965d638</guid>
+			<description>Eurotrol | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 12-06-2024 | DataLekt.nl: De criminele organisatie Blacksuit heeft op het darkweb aangekondigd dat zij Eurotrol heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=34da869286a331a84cd117e8c5d5ad176e4527b2f1f6c3964814434458606afc</guid>
 			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
 			<pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Aldenhoven getroffen door ransomware aanval van de criminele organisatie Play</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Aldenhoven Interieurwerken | Industrie | 12-06-2024 | DataLekt.nl: De criminele organisatie Play heeft op het darkweb aangekondigd dat zij Aldenhoven heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1a26a54b6018d875ac24eb606034288f8d51593f59f022bb3028bd64eae4094a</guid>
+			<description>Aldenhoven Interieurwerken | Industrie | 12-06-2024 | DataLekt.nl: De criminele organisatie Play heeft op het darkweb aangekondigd dat zij Aldenhoven heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6f94956e192a429102174c6a31abca2a03dd30df878a2f0c23bcad67d656cbcb</guid>
 			<category>Industrie </category>
 			<pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -515,8 +515,8 @@
 		<item>
 			<title>Heras getroffen door ransomware aanval van de criminele organisatie Medusa</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Heras | Groot- en detailhandel | 21-05-2024 | DataLekt.nl: De criminele organisatie Medusa heeft op het darkweb aangekondigd dat zij Heras heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b047efd130c8009b7185b1df4ce81dbd2c0f0da6a7cb8e01df570894a6ca63f0</guid>
+			<description>Heras | Groot- en detailhandel | 21-05-2024 | DataLekt.nl: De criminele organisatie Medusa heeft op het darkweb aangekondigd dat zij Heras heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=9f9a9e074634f984256c4f711fec580fdd29e03a371c8970937f24824059d6e6</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -731,16 +731,16 @@
 		<item>
 			<title>SIS Automatisering getroffen door ransomware aanval van de criminele organisatie PLAY</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>SIS Automatisering | Informatie en communicatie | 19-04-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij SIS Automatisering heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=23ac0743924a714e98d183440e823b587c1daebef3b149ca36cb77519b101f2a</guid>
+			<description>SIS Automatisering | Informatie en communicatie | 19-04-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij SIS Automatisering heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=587104d62f91747c71d1369f266a5ce21c72c0d486762732d3f3df9025c3317c</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>XD Connects getroffen door ransomware aanval van de criminele organisatie Cactus</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>XD Connects | Groot- en detailhandel | 18-04-2024 | DataLekt.nl: De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij XD Connects heeft getroffen met een ransomware-aanval en losgeld heeft geëist. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a9d46b25fc18225fabe419924a68d47fee03655e1e244615f7ec8642dc491a8f</guid>
+			<description>XD Connects | Groot- en detailhandel | 18-04-2024 | DataLekt.nl: De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij XD Connects heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=50168f0494de47021e058ea0aba77938776481945c98db7205f83be8f1b2a812</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
