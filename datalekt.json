@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ad.nl/show/geblunder-bij-onderzoek-naar-sociale-veiligheid-bij-ntr-datalek-door-ontbreken-een-vinkje~a0fef9e5/?datalekt=1f3cd08271c95b1ad5f9b5b361478af9592d7faf200e5a2ef347005b7f077b42",
+        "url": "https://www.ad.nl/show/geblunder-bij-onderzoek-naar-sociale-veiligheid-bij-ntr-datalek-door-ontbreken-een-vinkje~a0fef9e5/",
+        "title": "Datalek bij NTR door onvolkomenheid in online enqu\u00eate",
+        "date_published": "2024-08-15T10:19:00Z",
+        "date_modified": "2024-08-15T10:19:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Omroep NTR | Informatie en communicatie | 13-08-2024 | DataLekt.nl: Een onderzoek naar de interne sociale veiligheid bij de NTR is onderbroken door een datalek, veroorzaakt door een niet aangevinkt selectievakje bij het verzenden van een online enqu\u00eate. Dit leidde tot privacyproblemen, waardoor het vertrouwen van werknemers in het onderzoek beschadigd werd. De raad van toezicht heeft hierop gereageerd door de enqu\u00eate tijdelijk stop te zetten, waarna meerdere pogingen om de enqu\u00eate te heropenen faalden door aanhoudende zorgen over de beveiliging. (Bron: ad.nl)"
+    },
+    {
         "id": "https://www.internetbode.nl/etten-leur/424707/bezoek-aanmelden-niet-mogelijk-door-cyberaanval-systeem-2park?datalekt=a700bf3de4ad626a2347d184cf47876e827ed841ff50548561c6db835c6b4e2d",
         "url": "https://www.internetbode.nl/etten-leur/424707/bezoek-aanmelden-niet-mogelijk-door-cyberaanval-systeem-2park",
         "title": "Cyberaanval legt parkeersysteem 2Park in Etten-Leur plat",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Haarlem | Overheid: Gemeenten | 18-04-2024 | DataLekt.nl: De gemeente Haarlem heeft een datalek veroorzaakt door niet genoeg informatie zwart te lakken in de documenten die werden vrijgegeven na verzoeken op basis van de Wet open overheid (Woo). Hierdoor zijn persoonsgegevens van 44 ambtenaren openbaar geworden. Dit incident heeft zich zowel in 2021 als in 2022 voorgedaan en heeft mogelijk geleid tot misbruik van deze gegevens door derden. Het betreft een ernstige schending van de privacywetgeving. (Bron: haarlemsdagblad.nl)"
-    },
-    {
-        "id": "https://www.molenkruier.nl/nieuws/nieuws/385223/cals-college-nieuwegein-geraakt-door-cyberaanval-gegevens-lee?datalekt=8dfdd9e4d429e26d95d56bff1a099d8811352726ed1737cf399a78c51ac9a589",
-        "url": "https://www.molenkruier.nl/nieuws/nieuws/385223/cals-college-nieuwegein-geraakt-door-cyberaanval-gegevens-lee",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Cals College",
-        "date_published": "2024-04-19T16:45:00Z",
-        "date_modified": "2024-04-19T16:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "molenkruier.nl"
-        },
-        "content_html": "",
-        "content_text": "Cals College | Onderwijs | 17-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Cals College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: molenkruier.nl)"
     }
 ]
