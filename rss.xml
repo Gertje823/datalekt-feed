@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 15 Aug 2024 12:32:54 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 15 Aug 2024 18:23:10 +0000</lastBuildDate>
+		<item>
+			<title>Boni getroffen door ransomware aanval van de criminele organisatie Akira</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Boni Markten | Groot- en detailhandel | 14-08-2024 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij Boni heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=848347f8a9869e6bd2762d46b28ee051cda65d555de29cdbec26aceabd762415</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij NTR door onvolkomenheid in online enquête</title>
 			<link>https://www.ad.nl/show/geblunder-bij-onderzoek-naar-sociale-veiligheid-bij-ntr-datalek-door-ontbreken-een-vinkje~a0fef9e5/</link>
@@ -783,14 +791,6 @@
 			<guid isPermaLink="false">https://www.ogvo.nl/valuascollege/cyberaanval-iddink/?datalekt=fe76770708be12caf8ae0ede5b208ad03946a0d589faa2f607c30ed06afae127</guid>
 			<category>Onderwijs </category>
 			<pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij gemeente Haarlem door onvoldoende lakken van documenten</title>
-			<link>https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749</link>
-			<description>Gemeente Haarlem | Overheid: Gemeenten | 18-04-2024 | DataLekt.nl: De gemeente Haarlem heeft een datalek veroorzaakt door niet genoeg informatie zwart te lakken in de documenten die werden vrijgegeven na verzoeken op basis van de Wet open overheid (Woo). Hierdoor zijn persoonsgegevens van 44 ambtenaren openbaar geworden. Dit incident heeft zich zowel in 2021 als in 2022 voorgedaan en heeft mogelijk geleid tot misbruik van deze gegevens door derden. Het betreft een ernstige schending van de privacywetgeving. (Bron: haarlemsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749?datalekt=00baafa79fabfd219f77cd6ea8f0bb43e624b822e07a2675c58315899d5b0e84</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek</title>

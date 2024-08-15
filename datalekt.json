@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=848347f8a9869e6bd2762d46b28ee051cda65d555de29cdbec26aceabd762415",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Boni getroffen door ransomware aanval van de criminele organisatie Akira",
+        "date_published": "2024-08-15T16:18:00Z",
+        "date_modified": "2024-08-15T16:18:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Boni Markten | Groot- en detailhandel | 14-08-2024 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij Boni heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.ad.nl/show/geblunder-bij-onderzoek-naar-sociale-veiligheid-bij-ntr-datalek-door-ontbreken-een-vinkje~a0fef9e5/?datalekt=1f3cd08271c95b1ad5f9b5b361478af9592d7faf200e5a2ef347005b7f077b42",
         "url": "https://www.ad.nl/show/geblunder-bij-onderzoek-naar-sociale-veiligheid-bij-ntr-datalek-door-ontbreken-een-vinkje~a0fef9e5/",
         "title": "Datalek bij NTR door onvolkomenheid in online enqu\u00eate",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Valuascollega | Onderwijs | 18-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Valuascollega. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: ogvo.nl)"
-    },
-    {
-        "id": "https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749?datalekt=00baafa79fabfd219f77cd6ea8f0bb43e624b822e07a2675c58315899d5b0e84",
-        "url": "https://www.haarlemsdagblad.nl/cnt/dmf20240417_62109749",
-        "title": "Datalek bij gemeente Haarlem door onvoldoende lakken van documenten",
-        "date_published": "2024-04-19T16:46:00Z",
-        "date_modified": "2024-04-19T16:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "haarlemsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Haarlem | Overheid: Gemeenten | 18-04-2024 | DataLekt.nl: De gemeente Haarlem heeft een datalek veroorzaakt door niet genoeg informatie zwart te lakken in de documenten die werden vrijgegeven na verzoeken op basis van de Wet open overheid (Woo). Hierdoor zijn persoonsgegevens van 44 ambtenaren openbaar geworden. Dit incident heeft zich zowel in 2021 als in 2022 voorgedaan en heeft mogelijk geleid tot misbruik van deze gegevens door derden. Het betreft een ernstige schending van de privacywetgeving. (Bron: haarlemsdagblad.nl)"
     }
 ]
