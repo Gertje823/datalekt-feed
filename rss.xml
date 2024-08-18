@@ -7,12 +7,12 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 15 Aug 2024 18:23:10 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 18 Aug 2024 18:20:26 +0000</lastBuildDate>
 		<item>
-			<title>Boni getroffen door ransomware aanval van de criminele organisatie Akira</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Boni Markten | Groot- en detailhandel | 14-08-2024 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij Boni heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=848347f8a9869e6bd2762d46b28ee051cda65d555de29cdbec26aceabd762415</guid>
+			<title>Cyberaanval van Akira treft computersystemen van supermarktketen Boni</title>
+			<link>https://retailtrends.nl/news/73446/computersystemen-boni-gehackt</link>
+			<description>Boni Markten | Groot- en detailhandel | 16-08-2024 | DataLekt.nl: Eerder deze week zijn computersystemen van supermarktketen Boni gehackt door de Akira ransomware groep, bekend om hun losgeldeisen. Hoewel Boni geen details vrijgeeft over welke gegevens precies zijn aangetast, meldt een cybersecurity-specialist dat het om 16 GB aan financiële en persoonlijke data gaat. Boni heeft bevestigd maatregelen genomen te hebben om toekomstige inbraken te voorkomen, maar er zijn nog geen meldingen van geëiste losgeld. De hack heeft mogelijk grote implicaties voor klantgegevens en de operationele veiligheid van de keten. (Bron: retailtrends.nl)</description>
+			<guid isPermaLink="false">https://retailtrends.nl/news/73446/computersystemen-boni-gehackt?datalekt=0c79e9321d69ccdf7debe075cc4fec7a72d5b564f99aa29939f27e6710d426b9</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
 		</item>
