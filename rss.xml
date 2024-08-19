@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 19 Aug 2024 12:33:09 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 19 Aug 2024 18:22:24 +0000</lastBuildDate>
+		<item>
+			<title>NRCollecties.nl getroffen door ransomware aanval van de criminele organisatie Ransomhub</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>NRCollecties.nl | Groot- en detailhandel | 17-08-2024 | DataLekt.nl: De criminele organisatie Ransomhub heeft op het darkweb aangekondigd dat zij NRCollecties.nl heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6f0beb95dbd99d9ec0f489dcc78287660f50550354803f1af8443cc15386def5</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Celstraf voor oud-KPN-medewerker wegens het lekken van klantgegevens aan criminelen</title>
 			<link>https://tweakers.net/nieuws/225478/oud-medewerker-kpn-krijgt-celstraf-voor-delen-klantgegevens-met-criminelen.html</link>
@@ -782,14 +790,6 @@
 			<description>SIS Automatisering | Informatie en communicatie | 19-04-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij SIS Automatisering heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=587104d62f91747c71d1369f266a5ce21c72c0d486762732d3f3df9025c3317c</guid>
 			<category>Informatie en communicatie </category>
-			<pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>XD Connects getroffen door ransomware aanval van de criminele organisatie Cactus</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>XD Connects | Groot- en detailhandel | 18-04-2024 | DataLekt.nl: De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij XD Connects heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=50168f0494de47021e058ea0aba77938776481945c98db7205f83be8f1b2a812</guid>
-			<category>Groot- en detailhandel </category>
 			<pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>

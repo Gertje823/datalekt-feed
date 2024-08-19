@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6f0beb95dbd99d9ec0f489dcc78287660f50550354803f1af8443cc15386def5",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "NRCollecties.nl getroffen door ransomware aanval van de criminele organisatie Ransomhub",
+        "date_published": "2024-08-19T16:54:00Z",
+        "date_modified": "2024-08-19T16:54:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "NRCollecties.nl | Groot- en detailhandel | 17-08-2024 | DataLekt.nl: De criminele organisatie Ransomhub heeft op het darkweb aangekondigd dat zij NRCollecties.nl heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/225478/oud-medewerker-kpn-krijgt-celstraf-voor-delen-klantgegevens-met-criminelen.html?datalekt=1b75a5977a23be72717aeaf2ba69c15562b90d3537735e4d6b2e6691dd4ff0b4",
         "url": "https://tweakers.net/nieuws/225478/oud-medewerker-kpn-krijgt-celstraf-voor-delen-klantgegevens-met-criminelen.html",
         "title": "Celstraf voor oud-KPN-medewerker wegens het lekken van klantgegevens aan criminelen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "SIS Automatisering | Informatie en communicatie | 19-04-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij SIS Automatisering heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=50168f0494de47021e058ea0aba77938776481945c98db7205f83be8f1b2a812",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "XD Connects getroffen door ransomware aanval van de criminele organisatie Cactus",
-        "date_published": "2024-04-23T10:35:00Z",
-        "date_modified": "2024-04-23T10:35:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "XD Connects | Groot- en detailhandel | 18-04-2024 | DataLekt.nl: De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij XD Connects heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]
