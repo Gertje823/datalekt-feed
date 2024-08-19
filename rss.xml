@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 18 Aug 2024 18:20:26 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 19 Aug 2024 12:33:09 +0000</lastBuildDate>
+		<item>
+			<title>Celstraf voor oud-KPN-medewerker wegens het lekken van klantgegevens aan criminelen</title>
+			<link>https://tweakers.net/nieuws/225478/oud-medewerker-kpn-krijgt-celstraf-voor-delen-klantgegevens-met-criminelen.html</link>
+			<description>KPN | Informatie en communicatie | 16-08-2024 | DataLekt.nl: Een voormalige medewerker van KPN is veroordeeld tot een gevangenisstraf van 28 maanden, waarvan 8 voorwaardelijk, voor zijn betrokkenheid bij helpdeskfraude. Hij verkocht persoonlijke gegevens van 679 klanten aan criminelen via Telegram, wat leidde tot verschillende incidenten van fraude, vooral gericht op oudere klanten. De politie ontdekte de activiteiten van de medewerker nadat een oudere KPN-klant was beroofd. De rechter heeft tevens speciale voorwaarden gesteld voor zijn reclassering gezien zijn geestelijke beperkingen. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/225478/oud-medewerker-kpn-krijgt-celstraf-voor-delen-klantgegevens-met-criminelen.html?datalekt=1b75a5977a23be72717aeaf2ba69c15562b90d3537735e4d6b2e6691dd4ff0b4</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval van Akira treft computersystemen van supermarktketen Boni</title>
 			<link>https://retailtrends.nl/news/73446/computersystemen-boni-gehackt</link>
@@ -783,14 +791,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=50168f0494de47021e058ea0aba77938776481945c98db7205f83be8f1b2a812</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Valuascollega</title>
-			<link>https://www.ogvo.nl/valuascollege/cyberaanval-iddink/</link>
-			<description>Valuascollega | Onderwijs | 18-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Valuascollega. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: ogvo.nl)</description>
-			<guid isPermaLink="false">https://www.ogvo.nl/valuascollege/cyberaanval-iddink/?datalekt=fe76770708be12caf8ae0ede5b208ad03946a0d589faa2f607c30ed06afae127</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek</title>

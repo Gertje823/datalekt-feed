@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/225478/oud-medewerker-kpn-krijgt-celstraf-voor-delen-klantgegevens-met-criminelen.html?datalekt=1b75a5977a23be72717aeaf2ba69c15562b90d3537735e4d6b2e6691dd4ff0b4",
+        "url": "https://tweakers.net/nieuws/225478/oud-medewerker-kpn-krijgt-celstraf-voor-delen-klantgegevens-met-criminelen.html",
+        "title": "Celstraf voor oud-KPN-medewerker wegens het lekken van klantgegevens aan criminelen",
+        "date_published": "2024-08-19T09:48:00Z",
+        "date_modified": "2024-08-19T09:48:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "KPN | Informatie en communicatie | 16-08-2024 | DataLekt.nl: Een voormalige medewerker van KPN is veroordeeld tot een gevangenisstraf van 28 maanden, waarvan 8 voorwaardelijk, voor zijn betrokkenheid bij helpdeskfraude. Hij verkocht persoonlijke gegevens van 679 klanten aan criminelen via Telegram, wat leidde tot verschillende incidenten van fraude, vooral gericht op oudere klanten. De politie ontdekte de activiteiten van de medewerker nadat een oudere KPN-klant was beroofd. De rechter heeft tevens speciale voorwaarden gesteld voor zijn reclassering gezien zijn geestelijke beperkingen. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://retailtrends.nl/news/73446/computersystemen-boni-gehackt?datalekt=0c79e9321d69ccdf7debe075cc4fec7a72d5b564f99aa29939f27e6710d426b9",
         "url": "https://retailtrends.nl/news/73446/computersystemen-boni-gehackt",
         "title": "Cyberaanval van Akira treft computersystemen van supermarktketen Boni",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "XD Connects | Groot- en detailhandel | 18-04-2024 | DataLekt.nl: De criminele organisatie Cactus heeft op het darkweb aangekondigd dat zij XD Connects heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ogvo.nl/valuascollege/cyberaanval-iddink/?datalekt=fe76770708be12caf8ae0ede5b208ad03946a0d589faa2f607c30ed06afae127",
-        "url": "https://www.ogvo.nl/valuascollege/cyberaanval-iddink/",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Valuascollega",
-        "date_published": "2024-04-22T09:54:00Z",
-        "date_modified": "2024-04-22T09:54:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ogvo.nl"
-        },
-        "content_html": "",
-        "content_text": "Valuascollega | Onderwijs | 18-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Valuascollega. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: ogvo.nl)"
     }
 ]
