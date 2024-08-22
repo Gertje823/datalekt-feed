@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.erasmusmagazine.nl/2024/08/20/aanvraagsysteem-nwo-plat-na-mislukte-cyberaanval/?datalekt=71bd722c395146f3379bdf32aca5144007add6d0cb2b46d71a397014f5001d33",
+        "url": "https://www.erasmusmagazine.nl/2024/08/20/aanvraagsysteem-nwo-plat-na-mislukte-cyberaanval/",
+        "title": "NWO&#039;s aanvraagsysteem offline door cyberaanval zonder grote schade",
+        "date_published": "2024-08-22T09:20:00Z",
+        "date_modified": "2024-08-22T09:20:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "erasmusmagazine.nl"
+        },
+        "content_html": "",
+        "content_text": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) | Overheid: Zelfstandige bestuursorganen | 20-08-2024 | DataLekt.nl: Het aanvraagsysteem ISAAC van onderzoeksfinancier NWO is getroffen door een cyberaanval. Ondanks dat er geen ernstige schade of datadiefstal is vastgesteld, blijft het systeem uit voorzorg offline. De aanval, oorspronkelijk gemeld als een technische storing, zorgde ervoor dat ISAAC al bijna een week niet beschikbaar is. Subsidieaanvragen moeten nu tijdelijk via e-mail worden ingediend, hoewel de deadlines onveranderd blijven. De identiteit of het motief van de aanvallers is nog onbekend, en het systeem zou naar verwachting op maandag 26 augustus weer operationeel zijn. (Bron: erasmusmagazine.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6f0beb95dbd99d9ec0f489dcc78287660f50550354803f1af8443cc15386def5",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "NRCollecties.nl getroffen door ransomware aanval van de criminele organisatie Ransomhub",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Carpetright | Groot- en detailhandel | 22-04-2024 | DataLekt.nl: Carpetright, een bekende vloerenwinkel, heeft te kampen met een cyberaanval die vooral de Nederlandse vestigingen treft, waar pinnen momenteel onmogelijk is. De pinterminals zijn uitgeschakeld als preventieve maatregel tegen verdere digitale risico&#039;s. Het Britse moederbedrijf meldt dat het onderzoek naar de aanval loopt, waarbij niet bevestigd kan worden of het om ransomware gaat. Een soortgelijke aanval in februari resulteerde in een datalek met klantgegevens. Er is nog geen bewijs van een verband tussen beide incidenten. (Bron: rtl.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=587104d62f91747c71d1369f266a5ce21c72c0d486762732d3f3df9025c3317c",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "SIS Automatisering getroffen door ransomware aanval van de criminele organisatie PLAY",
-        "date_published": "2024-04-23T10:36:00Z",
-        "date_modified": "2024-04-23T10:36:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "SIS Automatisering | Informatie en communicatie | 19-04-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij SIS Automatisering heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]
