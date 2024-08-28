@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 26 Aug 2024 12:33:27 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 28 Aug 2024 12:34:28 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij IdentifyMobile betreft studenten Universiteit Utrecht</title>
+			<link>https://students.uu.nl/nieuws/kennisgeving-datalek-subverwerker-uu</link>
+			<description>Universiteit Utrecht | Onderwijs | 26-08-2024 | DataLekt.nl: Universiteit Utrecht heeft een datalek bij hun externe SMS-dienstverlener IdentifyMobile gemeld aan de Autoriteit Persoonsgegevens. Dit lek is ontstaan door een kwetsbaarheid bij IdentifyMobile, wat resulteerde in onbevoegde toegang tot persoonlijke gegevens van 571 studenten, betrokken bij de UU Wellbeing Week. Deze gegevens omvatten namen, telefoonnummers en gezondheidsinformatie. De financiële en emotionele schade voor de getroffenen is aanzienlijk. (Bron: uu.nl)</description>
+			<guid isPermaLink="false">https://students.uu.nl/nieuws/kennisgeving-datalek-subverwerker-uu?datalekt=568b34ab2a3819d5a96ae4359b4ccddddea66f30fed13de729a8171b0503055a</guid>
+			<category>Onderwijs </category>
+			<pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Uber krijgt boete van 290 miljoen euro voor ontoereikende gegevensbescherming</title>
 			<link>https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-uber-boete-op-van-290-miljoen-euro-om-doorgifte-data-chauffeurs-naar-vs</link>
@@ -782,14 +790,6 @@
 			<description>Ichthus College | Onderwijs | 23-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ichthus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dedrontenaar.nl)</description>
 			<guid isPermaLink="false">https://www.dedrontenaar.nl/nieuws/algemeen/306571/persoonsgegevens-oud-leerlingen-ichthus-college-liggen-mogeli?datalekt=7ad3df4b6522b065a00c79727a8b72b0a68d5fbe62f16fe6dba5120ff709447e</guid>
 			<category>Onderwijs </category>
-			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DDoS-aanval veroorzaakt grote schade aan Sittards bedrijf</title>
-			<link>https://www.zo-nws.nl/verdachten-opgepakt-voor-ddos-aanvallen</link>
-			<description>Onbekende organisatie | Overige dienstverlening | 23-04-2024 | DataLekt.nl: In november vorig jaar en januari dit jaar heeft een bedrijf in Sittard aanzienlijke financiële schade geleden door DDoS-aanvallen, uitgevoerd door twee mannen uit Heerlen en Sittard. De politie heeft deze verdachten gearresteerd. De aanvallen, die de toegang tot het bedrijfssysteem blokkeerden, resulteerden in een schade van circa 150.000 euro. Bij een DDoS-aanval worden talrijke verzoeken naar een website gestuurd waardoor deze onbereikbaar wordt voor gebruikers. Deze aanvallen zijn een vorm van cybercriminaliteit waarbij geïnfecteerde computers worden ingezet. (Bron: zo-nws.nl)</description>
-			<guid isPermaLink="false">https://www.zo-nws.nl/verdachten-opgepakt-voor-ddos-aanvallen?datalekt=acb35687f73f438239ad43e8a92edc2825dabb1368bf57559d0646c537405428</guid>
-			<category>Overige dienstverlening </category>
 			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>

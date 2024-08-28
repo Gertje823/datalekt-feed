@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://students.uu.nl/nieuws/kennisgeving-datalek-subverwerker-uu?datalekt=568b34ab2a3819d5a96ae4359b4ccddddea66f30fed13de729a8171b0503055a",
+        "url": "https://students.uu.nl/nieuws/kennisgeving-datalek-subverwerker-uu",
+        "title": "Datalek bij IdentifyMobile betreft studenten Universiteit Utrecht",
+        "date_published": "2024-08-28T11:22:00Z",
+        "date_modified": "2024-08-28T11:22:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "uu.nl"
+        },
+        "content_html": "",
+        "content_text": "Universiteit Utrecht | Onderwijs | 26-08-2024 | DataLekt.nl: Universiteit Utrecht heeft een datalek bij hun externe SMS-dienstverlener IdentifyMobile gemeld aan de Autoriteit Persoonsgegevens. Dit lek is ontstaan door een kwetsbaarheid bij IdentifyMobile, wat resulteerde in onbevoegde toegang tot persoonlijke gegevens van 571 studenten, betrokken bij de UU Wellbeing Week. Deze gegevens omvatten namen, telefoonnummers en gezondheidsinformatie. De financi\u00eble en emotionele schade voor de getroffenen is aanzienlijk. (Bron: uu.nl)"
+    },
+    {
         "id": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-uber-boete-op-van-290-miljoen-euro-om-doorgifte-data-chauffeurs-naar-vs?datalekt=e0bf4f650073ef81b44d766ba2aac175d4aef2b270a8721a049665f1a8045d8c",
         "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-uber-boete-op-van-290-miljoen-euro-om-doorgifte-data-chauffeurs-naar-vs",
         "title": "Uber krijgt boete van 290 miljoen euro voor ontoereikende gegevensbescherming",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ichthus College | Onderwijs | 23-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ichthus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dedrontenaar.nl)"
-    },
-    {
-        "id": "https://www.zo-nws.nl/verdachten-opgepakt-voor-ddos-aanvallen?datalekt=acb35687f73f438239ad43e8a92edc2825dabb1368bf57559d0646c537405428",
-        "url": "https://www.zo-nws.nl/verdachten-opgepakt-voor-ddos-aanvallen",
-        "title": "DDoS-aanval veroorzaakt grote schade aan Sittards bedrijf",
-        "date_published": "2024-04-25T11:57:00Z",
-        "date_modified": "2024-04-25T11:57:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "zo-nws.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende organisatie | Overige dienstverlening | 23-04-2024 | DataLekt.nl: In november vorig jaar en januari dit jaar heeft een bedrijf in Sittard aanzienlijke financi\u00eble schade geleden door DDoS-aanvallen, uitgevoerd door twee mannen uit Heerlen en Sittard. De politie heeft deze verdachten gearresteerd. De aanvallen, die de toegang tot het bedrijfssysteem blokkeerden, resulteerden in een schade van circa 150.000 euro. Bij een DDoS-aanval worden talrijke verzoeken naar een website gestuurd waardoor deze onbereikbaar wordt voor gebruikers. Deze aanvallen zijn een vorm van cybercriminaliteit waarbij ge\u00efnfecteerde computers worden ingezet. (Bron: zo-nws.nl)"
     }
 ]
