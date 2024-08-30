@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 28 Aug 2024 12:34:28 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 30 Aug 2024 12:33:23 +0000</lastBuildDate>
+		<item>
+			<title>Datalek in Den Bosch treft duizenden parkeervergunninghouders</title>
+			<link>https://www.ad.nl/den-bosch/datalek-bij-gemeente-den-bosch-persoonsgegevens-van-23-000-mensen-op-straat~a3509077/</link>
+			<description>Gemeente Den Bosch | Overheid: Gemeenten | 29-08-2024 | DataLekt.nl: Bij de gemeente Den Bosch zijn door een menselijke fout de persoonsgegevens van 23.000 parkeervergunninghouders uitgelekt. Een ambtenaar deelde per ongeluk belangrijke gegevens zoals BSN-nummers en adressen met een inwoner. De gemeente heeft snel ingegrepen door contact op te nemen met de ontvanger om de gegevens te verwijderen, wat ook bevestigd is. Verdere maatregelen zijn genomen om dergelijke incidenten in de toekomst te voorkomen en de privacy van de inwoners te beschermen. Dit incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/den-bosch/datalek-bij-gemeente-den-bosch-persoonsgegevens-van-23-000-mensen-op-straat~a3509077/?datalekt=2d7a9f872a1ad504179a0c83e5f50ed91a2f81da8607a73a11b8e61f613ef825</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij IdentifyMobile betreft studenten Universiteit Utrecht</title>
 			<link>https://students.uu.nl/nieuws/kennisgeving-datalek-subverwerker-uu</link>
@@ -782,14 +790,6 @@
 			<description>ID&amp;amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl)</description>
 			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=f6755669dacd966eed56c4f3567f043f295caf956ed3858b450d1213869e441c</guid>
 			<category>Cultuur, sport en recreatie </category>
-			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op schoolboekenleverancier Iddink treft Ichthus College</title>
-			<link>https://www.dedrontenaar.nl/nieuws/algemeen/306571/persoonsgegevens-oud-leerlingen-ichthus-college-liggen-mogeli</link>
-			<description>Ichthus College | Onderwijs | 23-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ichthus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dedrontenaar.nl)</description>
-			<guid isPermaLink="false">https://www.dedrontenaar.nl/nieuws/algemeen/306571/persoonsgegevens-oud-leerlingen-ichthus-college-liggen-mogeli?datalekt=7ad3df4b6522b065a00c79727a8b72b0a68d5fbe62f16fe6dba5120ff709447e</guid>
-			<category>Onderwijs </category>
 			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>

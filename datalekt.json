@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ad.nl/den-bosch/datalek-bij-gemeente-den-bosch-persoonsgegevens-van-23-000-mensen-op-straat~a3509077/?datalekt=2d7a9f872a1ad504179a0c83e5f50ed91a2f81da8607a73a11b8e61f613ef825",
+        "url": "https://www.ad.nl/den-bosch/datalek-bij-gemeente-den-bosch-persoonsgegevens-van-23-000-mensen-op-straat~a3509077/",
+        "title": "Datalek in Den Bosch treft duizenden parkeervergunninghouders",
+        "date_published": "2024-08-30T09:58:00Z",
+        "date_modified": "2024-08-30T09:58:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Den Bosch | Overheid: Gemeenten | 29-08-2024 | DataLekt.nl: Bij de gemeente Den Bosch zijn door een menselijke fout de persoonsgegevens van 23.000 parkeervergunninghouders uitgelekt. Een ambtenaar deelde per ongeluk belangrijke gegevens zoals BSN-nummers en adressen met een inwoner. De gemeente heeft snel ingegrepen door contact op te nemen met de ontvanger om de gegevens te verwijderen, wat ook bevestigd is. Verdere maatregelen zijn genomen om dergelijke incidenten in de toekomst te voorkomen en de privacy van de inwoners te beschermen. Dit incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: ad.nl)"
+    },
+    {
         "id": "https://students.uu.nl/nieuws/kennisgeving-datalek-subverwerker-uu?datalekt=568b34ab2a3819d5a96ae4359b4ccddddea66f30fed13de729a8171b0503055a",
         "url": "https://students.uu.nl/nieuws/kennisgeving-datalek-subverwerker-uu",
         "title": "Datalek bij IdentifyMobile betreft studenten Universiteit Utrecht",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Booking.com | Informatie en communicatie | 29-04-2024 | DataLekt.nl: Criminelen maken misbruik van het berichtensysteem van Booking.com om persoonlijke en financi\u00eble gegevens van gebruikers te stelen. Ze sturen nepberichten die afkomstig lijken te zijn van hotels, waarin gevraagd wordt om gevoelige informatie of extra betalingen onder dreiging van annulering van de reservering. Dit leidt vaak tot financieel verlies voor nietsvermoedende vakantiegangers. Gebruikers worden aangemoedigd om alert te blijven en verdachte berichten te verifi\u00ebren bij Booking.com of de betreffende accommodatie. (Bron: seniorweb.nl)"
-    },
-    {
-        "id": "https://www.dedrontenaar.nl/nieuws/algemeen/306571/persoonsgegevens-oud-leerlingen-ichthus-college-liggen-mogeli?datalekt=7ad3df4b6522b065a00c79727a8b72b0a68d5fbe62f16fe6dba5120ff709447e",
-        "url": "https://www.dedrontenaar.nl/nieuws/algemeen/306571/persoonsgegevens-oud-leerlingen-ichthus-college-liggen-mogeli",
-        "title": "Cyberaanval op schoolboekenleverancier Iddink treft Ichthus College",
-        "date_published": "2024-04-25T11:58:00Z",
-        "date_modified": "2024-04-25T11:58:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dedrontenaar.nl"
-        },
-        "content_html": "",
-        "content_text": "Ichthus College | Onderwijs | 23-04-2024 | DataLekt.nl: Een recente cyberaanval op Iddink Learning Materials B.V. treft ook Ichthus College. Iddink is een belangrijke leverancier van schoolboeken en digitaal lesmateriaal, heeft geleid tot diefstal van persoonlijke gegevens zoals namen, e-mailadressen en bankgegevens. Ouders en leerlingen worden geadviseerd om extra waakzaam te zijn voor phishingmails en andere frauduleuze activiteiten. De aanval, toegeschreven aan de criminele groep Cactus, heeft mogelijk brede implicaties voor andere scholen in Nederland. Er is melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: dedrontenaar.nl)"
     }
 ]
