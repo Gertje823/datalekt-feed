@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 30 Aug 2024 12:33:23 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 01 Sep 2024 18:21:43 +0000</lastBuildDate>
+		<item>
+			<title>Fraude door medewerker gemeente Dordrecht: Vervalste paspoorten uitgegeven</title>
+			<link>https://beveiligingnieuws.nl/strafeis-voor-verstrekken-vervalste-paspoorten/</link>
+			<description>Gemeente Dordrecht | Overheid: Gemeenten | 28-08-2024 | DataLekt.nl: Een medewerker van de Gemeente Dordrecht wordt beschuldigd van fraude door het uitgeven van vervalste paspoorten aan criminelen. De man zou deze vervalste documenten, in ruil voor geld, hebben verstrekt aan een bende die de paspoorten gebruikte voor onder meer drugshandel en witwasoperaties. De fraude kwam aan het licht na een politieonderzoek, waarbij de omvang van de schade nog niet volledig is vastgesteld, maar de impact op de getroffen burgers kan groot zijn. De eis van de aanklager is een lange gevangenisstraf vanwege de schade aan de gemeenschap. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/strafeis-voor-verstrekken-vervalste-paspoorten/?datalekt=2ec01203fd9e82d090d3f0fbefad22aeaaa0dc04a882f35ba3489f3806eda02b</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Medewerker gemeente Vlaardingen verstrek vervalste paspoorten aan criminelen</title>
+			<link>https://beveiligingnieuws.nl/strafeis-voor-verstrekken-vervalste-paspoorten/</link>
+			<description>Gemeente Vlaardingen | Overheid: Gemeenten | 28-08-2024 | DataLekt.nl: Een medewerker van de Gemeente Vlaardingen wordt verdacht van het illegaal verstrekken van vervalste paspoorten aan een criminele organisatie. Tegen betaling leverde hij documenten die gebruikt werden voor verschillende illegale activiteiten, waaronder drugshandel en witwassen. Het incident werd ontdekt na een uitgebreid onderzoek door de politie. De schade voor de betrokken burgers is aanzienlijk, met mogelijk tientallen slachtoffers die te maken hebben gekregen met identiteitsfraude. De officier van justitie eist een stevige straf vanwege de ernst van het vergrijp. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/strafeis-voor-verstrekken-vervalste-paspoorten/?datalekt=413c053378e7a9d0d7b0351a627d517887b5f4072e054395da335f57349cd104</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek in Den Bosch treft duizenden parkeervergunninghouders</title>
 			<link>https://www.ad.nl/den-bosch/datalek-bij-gemeente-den-bosch-persoonsgegevens-van-23-000-mensen-op-straat~a3509077/</link>
@@ -759,22 +775,6 @@
 			<guid isPermaLink="false">https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=6cf0578e0b584dc968228db8e028bfbf26a3a9f3a159b3c460202319aa180f3f</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Brief rechtbank over politie-inval bezorgd bij buren leidt tot datalek</title>
-			<link>https://www.ad.nl/roosendaal/michel-uit-heerle-krijgt-brief-over-inval-in-zijn-woning-maar-weet-van-niets-van-schrik-kukelde-ik-zowat-van-mijn-stoel~ae6fd2aa/</link>
-			<description>Rechtbank Limburg | Overheid: Rechtspraak | 03-05-2024 | DataLekt.nl: Een inwoner van Heerle kreeg een brief van de rechtbank over een politie-inval, die bedoeld was voor zijn buurman. Bij de inval werd de buurman verdacht van ladingdiefstallen en hennepkweek. Door een fout stond in de brief het verkeerde adres, wat de inwoner deed schrikken. De rechtbank erkende de fout, wat leidde tot een datalek, en beloofde maatregelen te nemen om dergelijke fouten te voorkomen. De inwoner maakt zich zorgen over de privacy van burgers en vraagt zich af of men nog vertrouwen kan hebben in de justitiële procedures. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/roosendaal/michel-uit-heerle-krijgt-brief-over-inval-in-zijn-woning-maar-weet-van-niets-van-schrik-kukelde-ik-zowat-van-mijn-stoel~ae6fd2aa/?datalekt=13577e9623452c76f0ee9c04931e524d661ded7df4d4b8f4f04e91e6c8f14bd3</guid>
-			<category>Overheid: Rechtspraak </category>
-			<pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Phishingaanvallen via het berichtensysteem van Booking.com</title>
-			<link>https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom</link>
-			<description>Booking.com | Informatie en communicatie | 29-04-2024 | DataLekt.nl: Criminelen maken misbruik van het berichtensysteem van Booking.com om persoonlijke en financiële gegevens van gebruikers te stelen. Ze sturen nepberichten die afkomstig lijken te zijn van hotels, waarin gevraagd wordt om gevoelige informatie of extra betalingen onder dreiging van annulering van de reservering. Dit leidt vaak tot financieel verlies voor nietsvermoedende vakantiegangers. Gebruikers worden aangemoedigd om alert te blijven en verdachte berichten te verifiëren bij Booking.com of de betreffende accommodatie. (Bron: seniorweb.nl)</description>
-			<guid isPermaLink="false">https://www.seniorweb.nl/nieuws/phishing-via-berichtensysteem-bookingcom?datalekt=97b05c1e780dba479c0589dc0891ee0de6149fa3b70038f0a9b500c7768b9ff7</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding</title>
