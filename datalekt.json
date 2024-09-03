@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-clearview-boete-op-voor-illegale-dataverzameling-voor-gezichtsherkenning?datalekt=fa6693ca0d9afb4e0d22be5d7b5f94ca249a63a21210192230714ae1d101ef60",
+        "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-clearview-boete-op-voor-illegale-dataverzameling-voor-gezichtsherkenning",
+        "title": "Autoriteit Persoonsgegevens legt Clearview AI boete op voor illegale dataverzameling",
+        "date_published": "2024-09-03T10:23:00Z",
+        "date_modified": "2024-09-03T10:23:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "autoriteitpersoonsgegevens.nl"
+        },
+        "content_html": "",
+        "content_text": "Clearview AI | Informatie en communicatie | 03-09-2024 | DataLekt.nl: Clearview AI, een Amerikaans bedrijf gespecialiseerd in gezichtsherkenningstechnologie, heeft een boete van 20 miljoen euro gekregen van de Autoriteit Persoonsgegevens. Het bedrijf verzamelde illegaal beelden van miljoenen mensen zonder hun toestemming en gebruikte deze voor gezichtsherkenningssoftware. Deze praktijk was in strijd met de Europese privacywetgeving. Clearview AI verkocht deze gegevens aan verschillende bedrijven en overheidsinstanties, wat leidde tot grote zorgen over privacy en gegevensbescherming. De boete onderstreept de noodzaak voor bedrijven om zich aan de regels omtrent dataverzameling te houden. (Bron: autoriteitpersoonsgegevens.nl)"
+    },
+    {
         "id": "https://beveiligingnieuws.nl/strafeis-voor-verstrekken-vervalste-paspoorten/?datalekt=2ec01203fd9e82d090d3f0fbefad22aeaaa0dc04a882f35ba3489f3806eda02b",
         "url": "https://beveiligingnieuws.nl/strafeis-voor-verstrekken-vervalste-paspoorten/",
         "title": "Fraude door medewerker gemeente Dordrecht: Vervalste paspoorten uitgegeven",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Populytics | Informatie en communicatie | 03-05-2024 | DataLekt.nl: De Stichting Belangen Wijkersloot en omgeving, met als leverancier Populytics, wordt beschuldigd van privacy-inbreuk bij een enqu\u00eate over windturbines in Wijk bij Duurstede. Omwonenden hebben aangifte gedaan bij de Autoriteit Persoonsgegevens omdat er geen toestemming werd gevraagd voor het gebruik van cookies, gegevens van respondenten werden opgeslagen, en ruim 500 respondenten werden gefilterd op basis van hun adres. De omwonenden zijn bezorgd over de integriteit van het onderzoek en de mogelijke manipulatie van de uitkomsten. (Bron: wijksnieuws.nl)"
-    },
-    {
-        "id": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=6cf0578e0b584dc968228db8e028bfbf26a3a9f3a159b3c460202319aa180f3f",
-        "url": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet",
-        "title": "Omwonenden Wijkersloot melden privacy-inbreuk enqu\u00eate duurzame energie",
-        "date_published": "2024-05-06T08:21:00Z",
-        "date_modified": "2024-05-06T08:21:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "wijksnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Stichting Belangen Wijkersloot en omstreken | Overige dienstverlening | 03-05-2024 | DataLekt.nl: De Stichting Belangen Wijkersloot en omgeving heeft aangifte gedaan bij de Autoriteit Persoonsgegevens vanwege vermeende schending van privacyregels bij een enqu\u00eate over windturbines in Wijk bij Duurstede. De stichting meldt dat er gesjoemeld is met uitkomsten en dat de privacyrichtlijnen niet zijn nageleefd. Zo werd geen toestemming gevraagd voor het gebruik van cookies, werden gegevens van respondenten opgeslagen, en werden gegevens van ruim 500 respondenten gefilterd op basis van hun adres. Dit heeft geleid tot zorgen over de integriteit van het onderzoek. (Bron: wijksnieuws.nl)"
     }
 ]
