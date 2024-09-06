@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=41930f9ba51cf18ae6f20db3f08a5abefe16888be170ba926d0f2f6347b9d529",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Kawasaki Motors Europe getroffen door ransomware aanval van de criminele organisatie RansomHub",
+        "date_published": "2024-09-06T11:13:00Z",
+        "date_modified": "2024-09-06T11:13:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Kawasaki Motors Europe | Groot- en detailhandel | 06-09-2024 | DataLekt.nl: De criminele organisatie RansomHub heeft op het darkweb aangekondigd dat zij Kawasaki Motors Europe heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-clearview-boete-op-voor-illegale-dataverzameling-voor-gezichtsherkenning?datalekt=fa6693ca0d9afb4e0d22be5d7b5f94ca249a63a21210192230714ae1d101ef60",
         "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-clearview-boete-op-voor-illegale-dataverzameling-voor-gezichtsherkenning",
         "title": "Autoriteit Persoonsgegevens legt Clearview AI boete op voor illegale dataverzameling",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 08-05-2024 | DataLekt.nl: De Gemeente Alphen aan den Rijn heeft onlangs een datalek ervaren doordat brieven naar schuldenaren per ongeluk dubbelzijdig geprint werden, wat resulteerde in het uitlekken van persoonsgegevens. Hierdoor ontvingen ontvangers informatie van andere inwoners met schulden. Het lek is direct gemeld bij de Autoriteit Persoonsgegevens en betrokkenen hebben instructies gekregen om de ontvangen documenten te vernietigen. Dit incident benadrukt de kwetsbaarheid van fysieke dataverwerking en de noodzaak voor strikte controlemechanismen. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=60fb27397896721078f39ddb4a4aaae2decfcd9c702d3b2c28654979a62dda29",
-        "url": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet",
-        "title": "Omwonenden Wijkersloot doen aangifte tegen stichting vanwege privacy-inbreuk enqu\u00eate Populytics",
-        "date_published": "2024-05-06T08:22:00Z",
-        "date_modified": "2024-05-06T08:22:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "wijksnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Populytics | Informatie en communicatie | 03-05-2024 | DataLekt.nl: De Stichting Belangen Wijkersloot en omgeving, met als leverancier Populytics, wordt beschuldigd van privacy-inbreuk bij een enqu\u00eate over windturbines in Wijk bij Duurstede. Omwonenden hebben aangifte gedaan bij de Autoriteit Persoonsgegevens omdat er geen toestemming werd gevraagd voor het gebruik van cookies, gegevens van respondenten werden opgeslagen, en ruim 500 respondenten werden gefilterd op basis van hun adres. De omwonenden zijn bezorgd over de integriteit van het onderzoek en de mogelijke manipulatie van de uitkomsten. (Bron: wijksnieuws.nl)"
     }
 ]

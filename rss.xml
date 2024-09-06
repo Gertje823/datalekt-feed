@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 03 Sep 2024 12:34:35 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 06 Sep 2024 12:33:47 +0000</lastBuildDate>
+		<item>
+			<title>Kawasaki Motors Europe getroffen door ransomware aanval van de criminele organisatie RansomHub</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Kawasaki Motors Europe | Groot- en detailhandel | 06-09-2024 | DataLekt.nl: De criminele organisatie RansomHub heeft op het darkweb aangekondigd dat zij Kawasaki Motors Europe heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=41930f9ba51cf18ae6f20db3f08a5abefe16888be170ba926d0f2f6347b9d529</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Autoriteit Persoonsgegevens legt Clearview AI boete op voor illegale dataverzameling</title>
 			<link>https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-clearview-boete-op-voor-illegale-dataverzameling-voor-gezichtsherkenning</link>
@@ -767,14 +775,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven?datalekt=917393d0abea4a70c99021ca265909142573651b47746c622d2ca7eb12bb9fc5</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Omwonenden Wijkersloot doen aangifte tegen stichting vanwege privacy-inbreuk enquête Populytics</title>
-			<link>https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet</link>
-			<description>Populytics | Informatie en communicatie | 03-05-2024 | DataLekt.nl: De Stichting Belangen Wijkersloot en omgeving, met als leverancier Populytics, wordt beschuldigd van privacy-inbreuk bij een enquête over windturbines in Wijk bij Duurstede. Omwonenden hebben aangifte gedaan bij de Autoriteit Persoonsgegevens omdat er geen toestemming werd gevraagd voor het gebruik van cookies, gegevens van respondenten werden opgeslagen, en ruim 500 respondenten werden gefilterd op basis van hun adres. De omwonenden zijn bezorgd over de integriteit van het onderzoek en de mogelijke manipulatie van de uitkomsten. (Bron: wijksnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1028734/ingezonden-omwonenden-wijkersloot-verwerpen-uitkomsten-enquet?datalekt=60fb27397896721078f39ddb4a4aaae2decfcd9c702d3b2c28654979a62dda29</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding</title>
