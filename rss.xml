@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 06 Sep 2024 12:33:47 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 06 Sep 2024 18:24:05 +0000</lastBuildDate>
+		<item>
+			<title>Windesheim stuurt per ongeluk betaalverzoek naar 18.000 studenten</title>
+			<link>https://www.gelderlander.nl/binnenland/windesheim-blundert-met-mail-duizenden-studenten-ontvangen-onbedoeld-betaalverzoek~aba4cef6/</link>
+			<description>Hogeschool Windesheim | Onderwijs | 06-09-2024 | DataLekt.nl: Hogeschool Windesheim heeft door een fout op donderdag 6 september een e-mail met een betalingsverzoek, bedoeld voor één student, naar 18.000 studenten gestuurd. De e-mail vroeg om een bedrag van €192,76, met dreiging van incasso en uitsluiting van inschrijving bij te late betaling. In de mail stonden de naam en het studentennummer van de betreffende student. Windesheim bood snel excuses aan, maar het is nog onduidelijk hoeveel studenten het bedrag al hebben overgemaakt. (Bron: gelderlander.nl)</description>
+			<guid isPermaLink="false">https://www.gelderlander.nl/binnenland/windesheim-blundert-met-mail-duizenden-studenten-ontvangen-onbedoeld-betaalverzoek~aba4cef6/?datalekt=a067817aea63f9b73e21f692ed07fa0191b3fe9290b1a0f5faf2c8fedba84728</guid>
+			<category>Onderwijs </category>
+			<pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Kawasaki Motors Europe getroffen door ransomware aanval van de criminele organisatie RansomHub</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -767,14 +775,6 @@
 			<guid isPermaLink="false">https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=eaf275da48a26d559d1bd743ce654f32d89ffa239414af43a712a07bd0fdcbc4</guid>
 			<category>Onderwijs </category>
 			<pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Gemeente Alphen door fout in dubbelzijdig printen</title>
-			<link>https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven</link>
-			<description>Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 08-05-2024 | DataLekt.nl: De Gemeente Alphen aan den Rijn heeft onlangs een datalek ervaren doordat brieven naar schuldenaren per ongeluk dubbelzijdig geprint werden, wat resulteerde in het uitlekken van persoonsgegevens. Hierdoor ontvingen ontvangers informatie van andere inwoners met schulden. Het lek is direct gemeld bij de Autoriteit Persoonsgegevens en betrokkenen hebben instructies gekregen om de ontvangen documenten te vernietigen. Dit incident benadrukt de kwetsbaarheid van fysieke dataverwerking en de noodzaak voor strikte controlemechanismen. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven?datalekt=917393d0abea4a70c99021ca265909142573651b47746c622d2ca7eb12bb9fc5</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding</title>

@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.gelderlander.nl/binnenland/windesheim-blundert-met-mail-duizenden-studenten-ontvangen-onbedoeld-betaalverzoek~aba4cef6/?datalekt=a067817aea63f9b73e21f692ed07fa0191b3fe9290b1a0f5faf2c8fedba84728",
+        "url": "https://www.gelderlander.nl/binnenland/windesheim-blundert-met-mail-duizenden-studenten-ontvangen-onbedoeld-betaalverzoek~aba4cef6/",
+        "title": "Windesheim stuurt per ongeluk betaalverzoek naar 18.000 studenten",
+        "date_published": "2024-09-06T18:14:00Z",
+        "date_modified": "2024-09-06T18:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "gelderlander.nl"
+        },
+        "content_html": "",
+        "content_text": "Hogeschool Windesheim | Onderwijs | 06-09-2024 | DataLekt.nl: Hogeschool Windesheim heeft door een fout op donderdag 6 september een e-mail met een betalingsverzoek, bedoeld voor \u00e9\u00e9n student, naar 18.000 studenten gestuurd. De e-mail vroeg om een bedrag van \u20ac192,76, met dreiging van incasso en uitsluiting van inschrijving bij te late betaling. In de mail stonden de naam en het studentennummer van de betreffende student. Windesheim bood snel excuses aan, maar het is nog onduidelijk hoeveel studenten het bedrag al hebben overgemaakt. (Bron: gelderlander.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=41930f9ba51cf18ae6f20db3f08a5abefe16888be170ba926d0f2f6347b9d529",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Kawasaki Motors Europe getroffen door ransomware aanval van de criminele organisatie RansomHub",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Radboud Universiteit | Onderwijs | 08-05-2024 | DataLekt.nl: Bij de Radboud Universiteit ontstond een datalek door een administratieve fout in het nieuwe reisaanvraagsysteem, waardoor ongeveer 650 medewerkers toegang hadden tot reisgegevens van collega&#039;s. Deze medewerkers konden reisinformatie, zoals vluchtnummers en hotelgegevens, inzien en wijzigen. De universiteit meldde dit incident niet aan de Autoriteit Persoonsgegevens, omdat ze het classificeerden als een laag-risico datalek. De betrokkenheid van reisbureau VCK Travel, de leverancier van het boekingssysteem, werd benadrukt. Hoogleraar Gerrit-Jan Zwenne adviseerde desondanks melding te maken vanwege mogelijke onderschatting van de risico&#039;s. (Bron: voxweb.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven?datalekt=917393d0abea4a70c99021ca265909142573651b47746c622d2ca7eb12bb9fc5",
-        "url": "https://www.security.nl/posting/840923/Gemeente+Alphen+lekt+gegevens+inwoners+via+dubbelzijdig+geprinte+brieven",
-        "title": "Datalek bij Gemeente Alphen door fout in dubbelzijdig printen",
-        "date_published": "2024-05-08T15:01:00Z",
-        "date_modified": "2024-05-08T15:01:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 08-05-2024 | DataLekt.nl: De Gemeente Alphen aan den Rijn heeft onlangs een datalek ervaren doordat brieven naar schuldenaren per ongeluk dubbelzijdig geprint werden, wat resulteerde in het uitlekken van persoonsgegevens. Hierdoor ontvingen ontvangers informatie van andere inwoners met schulden. Het lek is direct gemeld bij de Autoriteit Persoonsgegevens en betrokkenen hebben instructies gekregen om de ontvangen documenten te vernietigen. Dit incident benadrukt de kwetsbaarheid van fysieke dataverwerking en de noodzaak voor strikte controlemechanismen. (Bron: security.nl)"
     }
 ]
