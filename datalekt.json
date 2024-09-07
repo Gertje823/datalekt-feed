@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.noordhollandsdagblad.nl/regio/alkmaar/174-datalekken-heeft-ggd-in-noord-holland-noord-vorig-jaar-geturfd.-vaak-komt-vertrouwelijke-informatie-in-verkeerde-handen-door-fout-geadresseerde-post-of-e-mail/19025899.html?datalekt=f52db5a8410c2c52fcacb5b94669be6467bf7f563e9b13c5edcab0fb4420ee6e",
+        "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/174-datalekken-heeft-ggd-in-noord-holland-noord-vorig-jaar-geturfd.-vaak-komt-vertrouwelijke-informatie-in-verkeerde-handen-door-fout-geadresseerde-post-of-e-mail/19025899.html",
+        "title": "GGD Hollands Noorden meldt 174 datalekken in 2023",
+        "date_published": "2024-09-07T09:21:00Z",
+        "date_modified": "2024-09-07T09:21:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "noordhollandsdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "GGD Hollands Noorden | Gezondheids- en welzijnszorg | 03-09-2024 | DataLekt.nl: In 2023 registreerde de GGD Hollands Noorden, de gezondheidsdienst voor zestien gemeenten in Noord-Holland Noord, 174 datalekken. Deze incidenten waren vaak het gevolg van verkeerd geadresseerde post of e-mails, waarbij vertrouwelijke informatie in verkeerde handen terechtkwam. (Bron: noordhollandsdagblad.nl)"
+    },
+    {
         "id": "https://www.gelderlander.nl/binnenland/windesheim-blundert-met-mail-duizenden-studenten-ontvangen-onbedoeld-betaalverzoek~aba4cef6/?datalekt=a067817aea63f9b73e21f692ed07fa0191b3fe9290b1a0f5faf2c8fedba84728",
         "url": "https://www.gelderlander.nl/binnenland/windesheim-blundert-met-mail-duizenden-studenten-ontvangen-onbedoeld-betaalverzoek~aba4cef6/",
         "title": "Windesheim stuurt per ongeluk betaalverzoek naar 18.000 studenten",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 10-05-2024 | DataLekt.nl: Bij het UWV is een ernstig incident ontstaan toen een gebruiker op 4 mei illegaal toegang kreeg tot en mogelijk 150.000 cv&#039;s downloadde van de website werk.nl. Deze cv&#039;s bevatten persoonlijke gegevens van werkzoekenden. Het UWV, dat deze inzage als oneigenlijk beschouwt, heeft al stappen ondernomen door het account van de betrokken gebruiker te blokkeren en de Autoriteit Persoonsgegevens in te lichten. De getroffen personen worden ge\u00efnformeerd over de inzage en mogelijke downloads, evenals maatregelen om de impact te minimaliseren. (Bron: bndestem.nl)"
-    },
-    {
-        "id": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=eaf275da48a26d559d1bd743ce654f32d89ffa239414af43a712a07bd0fdcbc4",
-        "url": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem",
-        "title": "Datalek bij Radboud Universiteit door fout in reissysteem",
-        "date_published": "2024-05-10T13:18:00Z",
-        "date_modified": "2024-05-10T13:18:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "voxweb.nl"
-        },
-        "content_html": "",
-        "content_text": "Radboud Universiteit | Onderwijs | 08-05-2024 | DataLekt.nl: Bij de Radboud Universiteit ontstond een datalek door een administratieve fout in het nieuwe reisaanvraagsysteem, waardoor ongeveer 650 medewerkers toegang hadden tot reisgegevens van collega&#039;s. Deze medewerkers konden reisinformatie, zoals vluchtnummers en hotelgegevens, inzien en wijzigen. De universiteit meldde dit incident niet aan de Autoriteit Persoonsgegevens, omdat ze het classificeerden als een laag-risico datalek. De betrokkenheid van reisbureau VCK Travel, de leverancier van het boekingssysteem, werd benadrukt. Hoogleraar Gerrit-Jan Zwenne adviseerde desondanks melding te maken vanwege mogelijke onderschatting van de risico&#039;s. (Bron: voxweb.nl)"
     }
 ]
