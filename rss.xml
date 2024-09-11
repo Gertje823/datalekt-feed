@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 07 Sep 2024 12:31:14 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 11 Sep 2024 12:35:24 +0000</lastBuildDate>
+		<item>
+			<title>SIDN lekt privégegevens domeinnaamhouders na fout tijdens onderhoud</title>
+			<link>https://tweakers.net/nieuws/226400/sidn-lekt-per-ongeluk-gegevens-domeinnaamhouders-uit-via-whois-zoekmachine.html</link>
+			<description>Stichting Internet Domeinregistratie Nederland (SIDN) | Informatie en communicatie | 10-09-2024 | DataLekt.nl: Door een fout tijdens onderhoudswerkzaamheden heeft SIDN per ongeluk de privégegevens van particuliere domeinnaamhouders openbaar gemaakt via de Whois-zoekmachine. Door onjuiste toegang tot de nieuwe servers werden namen, adressen, e-mailadressen en telefoonnummers tijdelijk zichtbaar. De fout werd snel ontdekt en verholpen. SIDN heeft het lek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt de gevolgen. Het is onduidelijk hoe lang de gegevens zichtbaar waren. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/226400/sidn-lekt-per-ongeluk-gegevens-domeinnaamhouders-uit-via-whois-zoekmachine.html?datalekt=8890f65df75f80bd0a935c3a090c3a7ab9845f30008a1ef19b853c9cc249c68b</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>GGD Hollands Noorden meldt 174 datalekken in 2023</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/alkmaar/174-datalekken-heeft-ggd-in-noord-holland-noord-vorig-jaar-geturfd.-vaak-komt-vertrouwelijke-informatie-in-verkeerde-handen-door-fout-geadresseerde-post-of-e-mail/19025899.html</link>
@@ -766,14 +774,6 @@
 			<description>Onbekende organisatie | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 08-05-2024 | DataLekt.nl: Een 21-jarige klantenservicemedewerker uit Amsterdam is gearresteerd wegens zijn rol in een grootschalige helpdeskfraude, waarbij persoonsgegevens van ouderen werden ontvreemd. Deze gegevensroof betrof het klantenbestand van zijn werkgever, waarna de medewerker deze gegevens deelde met medeplichtigen. Deze criminelen deden zich vervolgens voor als medewerkers van een telecombedrijf of politie om de slachtoffers te bedriegen, wat resulteerde in de diefstal van geld en waardevolle voorwerpen. Het bedrijf heeft aangifte gedaan van computervredebreuk. (Bron: om.nl)</description>
 			<guid isPermaLink="false">https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken?datalekt=e839d8b0df50999a1747772f0ae961489787cfdd003eb6f426d099bde1d0ecda</guid>
 			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
-			<pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Massale inzage van cv&amp;#039;s bij UWV wijst op datalek</title>
-			<link>https://www.bndestem.nl/economie/uwv-doet-mogelijk-aangifte-150-000-cvs-illegaal-op-de-site-bekeken~a7e9dd25/</link>
-			<description>Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 10-05-2024 | DataLekt.nl: Bij het UWV is een ernstig incident ontstaan toen een gebruiker op 4 mei illegaal toegang kreeg tot en mogelijk 150.000 cv&amp;#039;s downloadde van de website werk.nl. Deze cv&amp;#039;s bevatten persoonlijke gegevens van werkzoekenden. Het UWV, dat deze inzage als oneigenlijk beschouwt, heeft al stappen ondernomen door het account van de betrokken gebruiker te blokkeren en de Autoriteit Persoonsgegevens in te lichten. De getroffen personen worden geïnformeerd over de inzage en mogelijke downloads, evenals maatregelen om de impact te minimaliseren. (Bron: bndestem.nl)</description>
-			<guid isPermaLink="false">https://www.bndestem.nl/economie/uwv-doet-mogelijk-aangifte-150-000-cvs-illegaal-op-de-site-bekeken~a7e9dd25/?datalekt=4a87a428a608ac2c3ea8a1940f16f50eb66740ead3881c208665d2b7af391e55</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
