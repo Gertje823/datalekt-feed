@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.accountancyvanmorgen.nl/2024/09/16/belastingdienstmedewerker-verkocht-kentekengegevens-aan-criminelen/?datalekt=0106bb708f8fab91da6710cb352b8e13e30f4add8eb4d076ec4055406d0d90cb",
+        "url": "https://www.accountancyvanmorgen.nl/2024/09/16/belastingdienstmedewerker-verkocht-kentekengegevens-aan-criminelen/",
+        "title": "Belastingdienstmedewerker verkocht kentekengegevens aan criminelen",
+        "date_published": "2024-09-17T10:53:00Z",
+        "date_modified": "2024-09-17T10:53:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "accountancyvanmorgen.nl"
+        },
+        "content_html": "",
+        "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 16-09-2024 | DataLekt.nl: Een medewerker van de Belastingdienst heeft illegaal kentekengegevens verkocht aan criminelen. De gegevens werden gebruikt voor criminele activiteiten, waaronder autodiefstal en fraude. De medewerker had toegang tot deze gevoelige informatie door zijn werk bij de Belastingdienst en heeft deze tegen betaling doorverkocht. De criminele organisatie heeft hiermee mogelijk aanzienlijke financi\u00eble schade veroorzaakt. Het incident kwam aan het licht na een intern onderzoek binnen de Belastingdienst. De omvang van de schade en het aantal getroffen personen is nog niet volledig bekend. (Bron: accountancyvanmorgen.nl)"
+    },
+    {
+        "id": "https://www.rtvutrecht.nl/nieuws/3786291/persoonlijke-gegevens-van-ruim-1000-leerlingen-gelekt-bij-datalek-in-amersfoort?datalekt=141326f129796072164ef3c7be44de7e85873f4d89b24d7cb4f85de6b0614d88",
+        "url": "https://www.rtvutrecht.nl/nieuws/3786291/persoonlijke-gegevens-van-ruim-1000-leerlingen-gelekt-bij-datalek-in-amersfoort",
+        "title": "Datalek in Amersfoort onthult persoonlijke gegevens van meer dan 1000 leerlingen",
+        "date_published": "2024-09-17T10:52:00Z",
+        "date_modified": "2024-09-17T10:52:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvutrecht.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Amersfoort | Overheid: Gemeenten | 12-09-2024 | DataLekt.nl: In Amersfoort zijn bij een datalek persoonlijke gegevens van 1.068 leerlingen openbaar gemaakt. Het lek ontstond tijdens een aanbesteding voor leerlingenvervoer via de website TenderNed.nl en bevatte postcodes, huisnummers en vervoerbehoeften van de kinderen. Hoewel de gegevens geen burgerservicenummers of geboortedata bevatten, is het incident verontrustend voor betrokken ouders en leerlingen. De gemeente heeft het lek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt de oorzaak. De data stonden online van 10 januari tot 20 augustus 2024. (Bron: rtvutrecht.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/857577/Ict-bedrijf+aansprakelijk+voor+schade+van+ransomware-aanval+bij+klant?datalekt=80d84f297922979a574731d2e033e9766db2d91e727d454f3d1a6e0e815d0efb",
+        "url": "https://www.security.nl/posting/857577/Ict-bedrijf+aansprakelijk+voor+schade+van+ransomware-aanval+bij+klant",
+        "title": "Klant vordert schadevergoeding na ransomware-aanval door gebrekkige beveiliging ICT-dienstverlener",
+        "date_published": "2024-09-17T10:51:00Z",
+        "date_modified": "2024-09-17T10:51:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende organisatie | Overige dienstverlening | 11-09-2024 | DataLekt.nl: Een klant van een ict-bedrijf in Coevorden werd in 2019 slachtoffer van een ransomware-aanval door inadequate beveiligingsmaatregelen van de dienstverlener. Aanvallers verkregen toegang via slecht beveiligde systemen, waaronder open RDP-poorten. De klant leed aanzienlijke schade door versleutelde bestanden en onbruikbare back-ups en eiste \u00e9\u00e9n miljoen euro aan schadevergoeding. De rechtbank kende echter slechts 50.000 euro toe, omdat niet alle claims werden onderbouwd. Het incident benadrukt de verantwoordelijkheid van ICT-dienstverleners in het beschermen van klantgegevens. (Bron: security.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/226400/sidn-lekt-per-ongeluk-gegevens-domeinnaamhouders-uit-via-whois-zoekmachine.html?datalekt=8890f65df75f80bd0a935c3a090c3a7ab9845f30008a1ef19b853c9cc249c68b",
         "url": "https://tweakers.net/nieuws/226400/sidn-lekt-per-ongeluk-gegevens-domeinnaamhouders-uit-via-whois-zoekmachine.html",
         "title": "SIDN lekt priv\u00e9gegevens domeinnaamhouders na fout tijdens onderhoud",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ranzijn Dierenarts | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 16-05-2024 | DataLekt.nl: Ranzijn Dierenarts heeft bekendgemaakt dat persoons- en dierengegevens zijn gelekt als gevolg van een cyberaanval door een criminele groepering. De aanvallers hebben toegang gekregen tot interne systemen, waarbij persoonlijke details zoals namen, adressen en e-mailadressen zijn ontvreemd. Belangrijk is dat er geen financi\u00eble data is gelekt. Ranzijn heeft de getroffen klanten ingelicht en maatregelen getroffen door externe experts in te schakelen en de Autoriteit Persoonsgegevens op de hoogte te stellen. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.security.nl/posting/841570/SVB+meldde+vorig+jaar+bijna+700+datalekken+bij+Autoriteit+Persoonsgegevens?datalekt=056ddcd8e9ec2bbacbc2ff7a93852225ab2d53255a94a2ef7b09ac18deeba731",
-        "url": "https://www.security.nl/posting/841570/SVB+meldde+vorig+jaar+bijna+700+datalekken+bij+Autoriteit+Persoonsgegevens",
-        "title": "Zorgelijke toename van datalekken bij de SVB in 2023",
-        "date_published": "2024-05-17T09:55:00Z",
-        "date_modified": "2024-05-17T09:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Sociale Verzekeringsbank (SVB) | Overheid: Zelfstandige bestuursorganen | 15-05-2024 | DataLekt.nl: In 2023 meldde de Sociale Verzekeringsbank (SVB) een stijging in het aantal datalekken tot 669 incidenten, een toename vergeleken met het jaar ervoor. Deze lekken, voornamelijk veroorzaakt door verkeerd geadresseerde correspondentie, hadden meestal beperkte impact op de betrokken personen. Desondanks werd de SVB beboet voor een specifiek incident uit 2019, waarbij de privacywaarborgen onvoldoende bleken. Dit heeft geleid tot verhoogde aandacht en preventieve maatregelen door de SVB om dergelijke incidenten in de toekomst te voorkomen. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem?datalekt=34882124d8e4e32901d1c6732c9c553daa19ebee29b49a2ef878bd2c493d6357",
-        "url": "https://www.voxweb.nl/nieuws/universiteit-doet-geen-melding-van-datalek-na-administratieve-fout-met-nieuw-reissysteem",
-        "title": "VCK Travel betrokken bij datalek Radboud Universiteit",
-        "date_published": "2024-05-14T16:23:00Z",
-        "date_modified": "2024-05-14T16:23:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "voxweb.nl"
-        },
-        "content_html": "",
-        "content_text": "VCK Travel | Informatie en communicatie | 08-05-2024 | DataLekt.nl: Bij een recente fout in het nieuwe reissysteem van de Radboud Universiteit, uitgevoerd door VCK Travel, hadden 650 medewerkers onrechtmatig toegang tot gevoelige gegevens. Het betrof informatie zoals vlucht- en hotelgegevens van collega&#039;s, wat door VCK Travel en de universiteit als een risico met lage impact werd beschouwd. De kwestie werd snel opgelost en er is geen melding gedaan bij de Autoriteit Persoonsgegevens, ondanks tegenadvies van privacydeskundigen. (Bron: voxweb.nl)"
-    },
-    {
-        "id": "https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken?datalekt=e839d8b0df50999a1747772f0ae961489787cfdd003eb6f426d099bde1d0ecda",
-        "url": "https://www.om.nl/actueel/nieuws/2024/05/08/medewerker-klantenservice-aangehouden-voor-betrokkenheid-bij-meer-dan-20-helpdeskfraudezaken",
-        "title": "Fraude via gestolen klantgegevens bij Amsterdamse klantenservice",
-        "date_published": "2024-05-12T11:11:00Z",
-        "date_modified": "2024-05-12T11:11:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "om.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende organisatie | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 08-05-2024 | DataLekt.nl: Een 21-jarige klantenservicemedewerker uit Amsterdam is gearresteerd wegens zijn rol in een grootschalige helpdeskfraude, waarbij persoonsgegevens van ouderen werden ontvreemd. Deze gegevensroof betrof het klantenbestand van zijn werkgever, waarna de medewerker deze gegevens deelde met medeplichtigen. Deze criminelen deden zich vervolgens voor als medewerkers van een telecombedrijf of politie om de slachtoffers te bedriegen, wat resulteerde in de diefstal van geld en waardevolle voorwerpen. Het bedrijf heeft aangifte gedaan van computervredebreuk. (Bron: om.nl)"
     }
 ]
