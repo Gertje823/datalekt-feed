@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 17 Sep 2024 12:35:07 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 19 Sep 2024 12:35:34 +0000</lastBuildDate>
+		<item>
+			<title>Kawasaki Motors Europe getroffen door ransomware-aanval door RansomHub</title>
+			<link>https://nieuwsmotor.nl/nieuws/motornieuws/kawasaki-motors-europe-slachtoffer-van-cyberaanval/</link>
+			<description>Kawasaki Motors Europe | Groot- en detailhandel | 15-09-2024 | DataLekt.nl: Kawasaki Motors Europe is recent slachtoffer geworden van een ransomware-aanval, uitgevoerd door de criminele groep RansomHub. Bij deze aanval is vermoedelijk klantgegevens en interne informatie versleuteld met gijzelsoftware, waardoor de toegang tot de systemen werd geblokkeerd. De aanvallers eisen waarschijnlijk losgeld in ruil voor de ontsleuteling van de data. De exacte impact op klanten en de omvang van de gestolen of versleutelde gegevens worden nog onderzocht, maar de schade kan aanzienlijk zijn. (Bron: nieuwsmotor.nl)</description>
+			<guid isPermaLink="false">https://nieuwsmotor.nl/nieuws/motornieuws/kawasaki-motors-europe-slachtoffer-van-cyberaanval/?datalekt=31207ab88c0b96aae33f2a06dac40636492daf431385a289b97bd42e98ed8f7f</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Belastingdienstmedewerker verkocht kentekengegevens aan criminelen</title>
 			<link>https://www.accountancyvanmorgen.nl/2024/09/16/belastingdienstmedewerker-verkocht-kentekengegevens-aan-criminelen/</link>
@@ -54,14 +62,6 @@
 			<description>Hogeschool Windesheim | Onderwijs | 06-09-2024 | DataLekt.nl: Hogeschool Windesheim heeft door een fout op donderdag 6 september een e-mail met een betalingsverzoek, bedoeld voor één student, naar 18.000 studenten gestuurd. De e-mail vroeg om een bedrag van €192,76, met dreiging van incasso en uitsluiting van inschrijving bij te late betaling. In de mail stonden de naam en het studentennummer van de betreffende student. Windesheim bood snel excuses aan, maar het is nog onduidelijk hoeveel studenten het bedrag al hebben overgemaakt. (Bron: gelderlander.nl)</description>
 			<guid isPermaLink="false">https://www.gelderlander.nl/binnenland/windesheim-blundert-met-mail-duizenden-studenten-ontvangen-onbedoeld-betaalverzoek~aba4cef6/?datalekt=a067817aea63f9b73e21f692ed07fa0191b3fe9290b1a0f5faf2c8fedba84728</guid>
 			<category>Onderwijs </category>
-			<pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Kawasaki Motors Europe getroffen door ransomware aanval van de criminele organisatie RansomHub</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Kawasaki Motors Europe | Groot- en detailhandel | 06-09-2024 | DataLekt.nl: De criminele organisatie RansomHub heeft op het darkweb aangekondigd dat zij Kawasaki Motors Europe heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=41930f9ba51cf18ae6f20db3f08a5abefe16888be170ba926d0f2f6347b9d529</guid>
-			<category>Groot- en detailhandel </category>
 			<pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>

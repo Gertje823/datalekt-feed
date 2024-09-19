@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://nieuwsmotor.nl/nieuws/motornieuws/kawasaki-motors-europe-slachtoffer-van-cyberaanval/?datalekt=31207ab88c0b96aae33f2a06dac40636492daf431385a289b97bd42e98ed8f7f",
+        "url": "https://nieuwsmotor.nl/nieuws/motornieuws/kawasaki-motors-europe-slachtoffer-van-cyberaanval/",
+        "title": "Kawasaki Motors Europe getroffen door ransomware-aanval door RansomHub",
+        "date_published": "2024-09-19T13:11:00Z",
+        "date_modified": "2024-09-19T13:11:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nieuwsmotor.nl"
+        },
+        "content_html": "",
+        "content_text": "Kawasaki Motors Europe | Groot- en detailhandel | 15-09-2024 | DataLekt.nl: Kawasaki Motors Europe is recent slachtoffer geworden van een ransomware-aanval, uitgevoerd door de criminele groep RansomHub. Bij deze aanval is vermoedelijk klantgegevens en interne informatie versleuteld met gijzelsoftware, waardoor de toegang tot de systemen werd geblokkeerd. De aanvallers eisen waarschijnlijk losgeld in ruil voor de ontsleuteling van de data. De exacte impact op klanten en de omvang van de gestolen of versleutelde gegevens worden nog onderzocht, maar de schade kan aanzienlijk zijn. (Bron: nieuwsmotor.nl)"
+    },
+    {
         "id": "https://www.accountancyvanmorgen.nl/2024/09/16/belastingdienstmedewerker-verkocht-kentekengegevens-aan-criminelen/?datalekt=0106bb708f8fab91da6710cb352b8e13e30f4add8eb4d076ec4055406d0d90cb",
         "url": "https://www.accountancyvanmorgen.nl/2024/09/16/belastingdienstmedewerker-verkocht-kentekengegevens-aan-criminelen/",
         "title": "Belastingdienstmedewerker verkocht kentekengegevens aan criminelen",
@@ -76,19 +89,6 @@
         },
         "content_html": "",
         "content_text": "Hogeschool Windesheim | Onderwijs | 06-09-2024 | DataLekt.nl: Hogeschool Windesheim heeft door een fout op donderdag 6 september een e-mail met een betalingsverzoek, bedoeld voor \u00e9\u00e9n student, naar 18.000 studenten gestuurd. De e-mail vroeg om een bedrag van \u20ac192,76, met dreiging van incasso en uitsluiting van inschrijving bij te late betaling. In de mail stonden de naam en het studentennummer van de betreffende student. Windesheim bood snel excuses aan, maar het is nog onduidelijk hoeveel studenten het bedrag al hebben overgemaakt. (Bron: gelderlander.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=41930f9ba51cf18ae6f20db3f08a5abefe16888be170ba926d0f2f6347b9d529",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Kawasaki Motors Europe getroffen door ransomware aanval van de criminele organisatie RansomHub",
-        "date_published": "2024-09-06T11:13:00Z",
-        "date_modified": "2024-09-06T11:13:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Kawasaki Motors Europe | Groot- en detailhandel | 06-09-2024 | DataLekt.nl: De criminele organisatie RansomHub heeft op het darkweb aangekondigd dat zij Kawasaki Motors Europe heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
         "id": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-clearview-boete-op-voor-illegale-dataverzameling-voor-gezichtsherkenning?datalekt=fa6693ca0d9afb4e0d22be5d7b5f94ca249a63a21210192230714ae1d101ef60",
