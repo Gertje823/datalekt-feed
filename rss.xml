@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 19 Sep 2024 12:35:34 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 20 Sep 2024 12:35:06 +0000</lastBuildDate>
+		<item>
+			<title>Impact van beveiligingsincident bij leverancier Infomedics niet uitgesloten</title>
+			<link>https://www.infomedics.nl/beveiligingsincident-bij-leverancier-infomedics</link>
+			<description>Infomedics | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 20-09-2024 | DataLekt.nl: In september 2024 meldde de Autoriteit Persoonsgegevens (AP) dat de impact van het beveiligingsincident bij de leverancier van Infomedics niet uitgesloten kan worden. Een beveiligingsfout bij de leverancier leidde mogelijk tot de blootstelling van klantgegevens. Hoewel Infomedics aanvankelijk stelde niet getroffen te zijn, vond de AP het bewijs hiervoor niet overtuigend. Verdere maatregelen zijn genomen, maar er blijft onduidelijkheid over de omvang van het mogelijke datalek en de betrokken klantgegevens. (Bron: infomedics.nl)</description>
+			<guid isPermaLink="false">https://www.infomedics.nl/beveiligingsincident-bij-leverancier-infomedics?datalekt=2c40ff187c4d74f58f2344ea015b087920e4b99ff217c85337ce4ec5757a07d4</guid>
+			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij leerlingenvervoer Leusden gelekt gegevens van 108 kinderen</title>
+			<link>https://www.nieuwsplein33.nl/nieuws/3788493/datalek-leerlingenvervoer-gegevens-honderden-kinderen-uit-amersfoort-en-leusden-op-straat</link>
+			<description>Gemeente Leusden | Overheid: Gemeenten | 19-09-2024 | DataLekt.nl: In de gemeente Leusden is door een menselijke fout een datalek ontstaan bij het leerlingenvervoer, waarbij de persoonlijke gegevens van 108 kinderen zijn gelekt. De gelekte informatie omvat onder andere namen, adressen en medische gegevens. Hoewel er geen aanwijzingen zijn dat criminelen betrokken zijn, vormt het incident een ernstig risico voor de privacy van de betrokken kinderen. De gemeente Leusden onderzoekt het voorval en heeft aangekondigd maatregelen te nemen om herhaling te voorkomen. Het datalek werd begin september ontdekt. (Bron: nieuwsplein33.nl)</description>
+			<guid isPermaLink="false">https://www.nieuwsplein33.nl/nieuws/3788493/datalek-leerlingenvervoer-gegevens-honderden-kinderen-uit-amersfoort-en-leusden-op-straat?datalekt=83b434cc8af45269f253f6fb96de88255445eb08169222d460faf45ec1652953</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Kawasaki Motors Europe getroffen door ransomware-aanval door RansomHub</title>
 			<link>https://nieuwsmotor.nl/nieuws/motornieuws/kawasaki-motors-europe-slachtoffer-van-cyberaanval/</link>
@@ -751,22 +767,6 @@
 			<guid isPermaLink="false">https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=45ee0b76ba8aca9a4d8f07001355bb9268089dd847231d08755f96bcc1e74a0b</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval treft Lemken, beïnvloedt wereldwijde locaties</title>
-			<link>https://www.mechaman.nl/artikel/20240517/lemken-getroffen-door-cyberaanval/</link>
-			<description>Lemken | Groot- en detailhandel | 17-05-2024 | DataLekt.nl: Op 11 mei werd machinefabrikant Lemken getroffen door een cyberaanval die al hun wereldwijde locaties raakte. De firma moest hierdoor alle IT-systemen en de productie stilleggen. De medewerkers van Lemken moesten vanuit huis werken terwijl het bedrijf, met assistentie van specialisten, de schade analyseerde en werkte aan een nieuwe IT-infrastructuur. Onderdelen bleven beschikbaar via Agroparts, ondanks de hinder in dagelijkse werkzaamheden. De financiële en operationele impact van deze gebeurtenis is significant, maar specifieke details over de omvang van de schade of het aantal direct getroffen klanten zijn niet vermeld. (Bron: mechaman.nl)</description>
-			<guid isPermaLink="false">https://www.mechaman.nl/artikel/20240517/lemken-getroffen-door-cyberaanval/?datalekt=1a8413fde8fbde2ac5a221ced858bc39ca47f3aae0e9c2d05ffb21966afd021b</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Ranzijn Dierenarts na cyberaanval door criminele groep</title>
-			<link>https://tweakers.net/nieuws/222036/ranzijn-dierenarts-meldt-datalek-persoons-en-dierengegevens-na-cyberaanval.html</link>
-			<description>Ranzijn Dierenarts | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 16-05-2024 | DataLekt.nl: Ranzijn Dierenarts heeft bekendgemaakt dat persoons- en dierengegevens zijn gelekt als gevolg van een cyberaanval door een criminele groepering. De aanvallers hebben toegang gekregen tot interne systemen, waarbij persoonlijke details zoals namen, adressen en e-mailadressen zijn ontvreemd. Belangrijk is dat er geen financiële data is gelekt. Ranzijn heeft de getroffen klanten ingelicht en maatregelen getroffen door externe experts in te schakelen en de Autoriteit Persoonsgegevens op de hoogte te stellen. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/222036/ranzijn-dierenarts-meldt-datalek-persoons-en-dierengegevens-na-cyberaanval.html?datalekt=660d00ab4d270ca4715a7ca9e55a12c1ba475d25a1ff7eaac5d0cf85d1fe8975</guid>
-			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
-			<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Datalek bij Geoinformatieportaal HHNK met risico op lek van persoonlijke en kadastrale gegevens</title>

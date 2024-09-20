@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.infomedics.nl/beveiligingsincident-bij-leverancier-infomedics?datalekt=2c40ff187c4d74f58f2344ea015b087920e4b99ff217c85337ce4ec5757a07d4",
+        "url": "https://www.infomedics.nl/beveiligingsincident-bij-leverancier-infomedics",
+        "title": "Impact van beveiligingsincident bij leverancier Infomedics niet uitgesloten",
+        "date_published": "2024-09-20T12:14:00Z",
+        "date_modified": "2024-09-20T12:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "infomedics.nl"
+        },
+        "content_html": "",
+        "content_text": "Infomedics | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 20-09-2024 | DataLekt.nl: In september 2024 meldde de Autoriteit Persoonsgegevens (AP) dat de impact van het beveiligingsincident bij de leverancier van Infomedics niet uitgesloten kan worden. Een beveiligingsfout bij de leverancier leidde mogelijk tot de blootstelling van klantgegevens. Hoewel Infomedics aanvankelijk stelde niet getroffen te zijn, vond de AP het bewijs hiervoor niet overtuigend. Verdere maatregelen zijn genomen, maar er blijft onduidelijkheid over de omvang van het mogelijke datalek en de betrokken klantgegevens. (Bron: infomedics.nl)"
+    },
+    {
+        "id": "https://www.nieuwsplein33.nl/nieuws/3788493/datalek-leerlingenvervoer-gegevens-honderden-kinderen-uit-amersfoort-en-leusden-op-straat?datalekt=83b434cc8af45269f253f6fb96de88255445eb08169222d460faf45ec1652953",
+        "url": "https://www.nieuwsplein33.nl/nieuws/3788493/datalek-leerlingenvervoer-gegevens-honderden-kinderen-uit-amersfoort-en-leusden-op-straat",
+        "title": "Datalek bij leerlingenvervoer Leusden gelekt gegevens van 108 kinderen",
+        "date_published": "2024-09-20T09:10:00Z",
+        "date_modified": "2024-09-20T09:10:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nieuwsplein33.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Leusden | Overheid: Gemeenten | 19-09-2024 | DataLekt.nl: In de gemeente Leusden is door een menselijke fout een datalek ontstaan bij het leerlingenvervoer, waarbij de persoonlijke gegevens van 108 kinderen zijn gelekt. De gelekte informatie omvat onder andere namen, adressen en medische gegevens. Hoewel er geen aanwijzingen zijn dat criminelen betrokken zijn, vormt het incident een ernstig risico voor de privacy van de betrokken kinderen. De gemeente Leusden onderzoekt het voorval en heeft aangekondigd maatregelen te nemen om herhaling te voorkomen. Het datalek werd begin september ontdekt. (Bron: nieuwsplein33.nl)"
+    },
+    {
         "id": "https://nieuwsmotor.nl/nieuws/motornieuws/kawasaki-motors-europe-slachtoffer-van-cyberaanval/?datalekt=31207ab88c0b96aae33f2a06dac40636492daf431385a289b97bd42e98ed8f7f",
         "url": "https://nieuwsmotor.nl/nieuws/motornieuws/kawasaki-motors-europe-slachtoffer-van-cyberaanval/",
         "title": "Kawasaki Motors Europe getroffen door ransomware-aanval door RansomHub",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-05-2024 | DataLekt.nl: In Eindhoven waren burgerservicenummers van 221.511 inwoners kortstondig toegankelijk voor gemeenteambtenaren door een intern datalek, ontdekt door een ICT-medewerker. Het lek, dat enkele uren duurde, werd snel na ontdekking gemeld bij de Autoriteit Persoonsgegevens. De gemeente nam onmiddellijk maatregelen, maar heeft de inwoners niet ge\u00efnformeerd, omdat het risico op misbruik onwaarschijnlijk werd geacht. Details over de genomen beveiligingsmaatregelen zijn niet openbaar gemaakt. (Bron: ed.nl)"
-    },
-    {
-        "id": "https://www.mechaman.nl/artikel/20240517/lemken-getroffen-door-cyberaanval/?datalekt=1a8413fde8fbde2ac5a221ced858bc39ca47f3aae0e9c2d05ffb21966afd021b",
-        "url": "https://www.mechaman.nl/artikel/20240517/lemken-getroffen-door-cyberaanval/",
-        "title": "Cyberaanval treft Lemken, be\u00efnvloedt wereldwijde locaties",
-        "date_published": "2024-05-18T15:52:00Z",
-        "date_modified": "2024-05-18T15:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "mechaman.nl"
-        },
-        "content_html": "",
-        "content_text": "Lemken | Groot- en detailhandel | 17-05-2024 | DataLekt.nl: Op 11 mei werd machinefabrikant Lemken getroffen door een cyberaanval die al hun wereldwijde locaties raakte. De firma moest hierdoor alle IT-systemen en de productie stilleggen. De medewerkers van Lemken moesten vanuit huis werken terwijl het bedrijf, met assistentie van specialisten, de schade analyseerde en werkte aan een nieuwe IT-infrastructuur. Onderdelen bleven beschikbaar via Agroparts, ondanks de hinder in dagelijkse werkzaamheden. De financi\u00eble en operationele impact van deze gebeurtenis is significant, maar specifieke details over de omvang van de schade of het aantal direct getroffen klanten zijn niet vermeld. (Bron: mechaman.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/222036/ranzijn-dierenarts-meldt-datalek-persoons-en-dierengegevens-na-cyberaanval.html?datalekt=660d00ab4d270ca4715a7ca9e55a12c1ba475d25a1ff7eaac5d0cf85d1fe8975",
-        "url": "https://tweakers.net/nieuws/222036/ranzijn-dierenarts-meldt-datalek-persoons-en-dierengegevens-na-cyberaanval.html",
-        "title": "Datalek bij Ranzijn Dierenarts na cyberaanval door criminele groep",
-        "date_published": "2024-05-18T15:49:00Z",
-        "date_modified": "2024-05-18T15:49:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Ranzijn Dierenarts | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 16-05-2024 | DataLekt.nl: Ranzijn Dierenarts heeft bekendgemaakt dat persoons- en dierengegevens zijn gelekt als gevolg van een cyberaanval door een criminele groepering. De aanvallers hebben toegang gekregen tot interne systemen, waarbij persoonlijke details zoals namen, adressen en e-mailadressen zijn ontvreemd. Belangrijk is dat er geen financi\u00eble data is gelekt. Ranzijn heeft de getroffen klanten ingelicht en maatregelen getroffen door externe experts in te schakelen en de Autoriteit Persoonsgegevens op de hoogte te stellen. (Bron: tweakers.net)"
     }
 ]
