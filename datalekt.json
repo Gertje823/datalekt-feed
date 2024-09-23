@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://zogouds.nl/nieuws/wachtwoorden-ledenadministratie-gymnastiekvereniging-velocitas-gehackt?datalekt=c9f57cdc2b1976bab1cab89b801ddbff113d0f83c7c7643e8928d7a0de6aaf68",
+        "url": "https://zogouds.nl/nieuws/wachtwoorden-ledenadministratie-gymnastiekvereniging-velocitas-gehackt",
+        "title": "Ledenadministratie van Gymnastiekvereniging Velocitas gehackt door onbekende aanvaller",
+        "date_published": "2024-09-23T13:02:00Z",
+        "date_modified": "2024-09-23T13:02:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "zogouds.nl"
+        },
+        "content_html": "",
+        "content_text": "Gymnastiekvereniging Velocitas | Cultuur, sport en recreatie | 21-09-2024 | DataLekt.nl: De ledenadministratie van Gymnastiekvereniging Velocitas is gehackt, waarbij wachtwoorden en mogelijk andere persoonlijke gegevens van leden zijn buitgemaakt. De aanval lijkt te zijn uitgevoerd door een onbekende criminele organisatie die zich richt op slecht beveiligde databases. Het is nog onduidelijk of er financi\u00eble schade is ontstaan, maar het datalek kan leiden tot identiteitsfraude. Gymnastiekvereniging Velocitas heeft extra beveiligingsmaatregelen genomen om verdere schade te voorkomen en onderzoekt de volledige omvang van het incident. Er zijn geen meldingen van betrokken externe leveranciers. (Bron: zogouds.nl)"
+    },
+    {
         "id": "https://www.infomedics.nl/beveiligingsincident-bij-leverancier-infomedics?datalekt=2c40ff187c4d74f58f2344ea015b087920e4b99ff217c85337ce4ec5757a07d4",
         "url": "https://www.infomedics.nl/beveiligingsincident-bij-leverancier-infomedics",
         "title": "Impact van beveiligingsincident bij leverancier Infomedics niet uitgesloten",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-05-2024 | DataLekt.nl: Het jaaroverzicht van 2023 van de gemeente Eindhoven toont een stijging in het aantal datalekken tot 266 incidenten, vari\u00ebrend van verkeerd verstuurde communicatie tot het verlies van apparatuur. De Autoriteit Persoonsgegevens houdt de gemeente onder verscherpt toezicht vanwege zorgen over de omgang met persoonsgegevens. Bij 28 ernstige lekken is er melding gemaakt bij de AP. Het rapport onderstreept de noodzaak van verbeteringen om mogelijke boetes te vermijden. (Bron: ed.nl)"
-    },
-    {
-        "id": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=45ee0b76ba8aca9a4d8f07001355bb9268089dd847231d08755f96bcc1e74a0b",
-        "url": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/",
-        "title": "Datalek bij gemeente Eindhoven: BSN-gegevens van meer dan 220.000 inwoners tijdelijk toegankelijk",
-        "date_published": "2024-05-24T09:44:00Z",
-        "date_modified": "2024-05-24T09:44:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ed.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-05-2024 | DataLekt.nl: In Eindhoven waren burgerservicenummers van 221.511 inwoners kortstondig toegankelijk voor gemeenteambtenaren door een intern datalek, ontdekt door een ICT-medewerker. Het lek, dat enkele uren duurde, werd snel na ontdekking gemeld bij de Autoriteit Persoonsgegevens. De gemeente nam onmiddellijk maatregelen, maar heeft de inwoners niet ge\u00efnformeerd, omdat het risico op misbruik onwaarschijnlijk werd geacht. Details over de genomen beveiligingsmaatregelen zijn niet openbaar gemaakt. (Bron: ed.nl)"
     }
 ]
