@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=ce6739adb8fabe04c0e31d84d76bf004775aac7ffa7ae4318a2ec1996c1a7391",
+        "url": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html",
+        "title": "Gegevens van ruim 60.000 politiemedewerkers gestolen bij grote hack",
+        "date_published": "2024-09-27T15:31:00Z",
+        "date_modified": "2024-09-27T15:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 60.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.deondernemer.nl/innovatie/website-hack-horeca-frans-van-hall-wordpress-cybersecurity~00a4265?datalekt=472ffe6e668e9189caafc6b26dfe17ed7cfa35b9dfa35fb143842efc3f997626",
         "url": "https://www.deondernemer.nl/innovatie/website-hack-horeca-frans-van-hall-wordpress-cybersecurity~00a4265",
         "title": "Hack van website van horeca-bedrijf de HALL door kwetsbaarheid in WordPress",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "60 onbekende organisaties | Overige dienstverlening | 23-05-2024 | DataLekt.nl: Ongeveer zestig organisaties, klanten van AddComm, zijn indirect getroffen door een recente ransomware-aanval op dit bedrijf. Zij staan nu voor de uitdaging om de mogelijke impact te beoordelen, aangezien het nog onduidelijk is welke specifieke gegevens zijn gestolen. Deze organisaties, vari\u00ebrend van gemeenten tot commerci\u00eble partijen, vrezen voor de veiligheid van persoonlijke en zakelijke informatie van hun burgers en klanten, en bereiden zich voor op mogelijke gevolgen van de datalek. (Bron: telegraaf.nl)"
-    },
-    {
-        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=45d883f443d328a6fa6f74c58bf35fc8ef76e7948fc13cb01e08e05ee176b915",
-        "url": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt",
-        "title": "Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties",
-        "date_published": "2024-05-24T09:46:00Z",
-        "date_modified": "2024-05-24T09:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "telegraaf.nl"
-        },
-        "content_html": "",
-        "content_text": "AddComm | Informatie en communicatie | 23-05-2024 | DataLekt.nl: AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 30 mei 2024 is bekend geworden dat AddComm tot het betalen van losgeld is overgegaan.] (Bron: telegraaf.nl)"
     }
 ]
