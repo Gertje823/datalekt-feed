@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.deondernemer.nl/innovatie/website-hack-horeca-frans-van-hall-wordpress-cybersecurity~00a4265?datalekt=472ffe6e668e9189caafc6b26dfe17ed7cfa35b9dfa35fb143842efc3f997626",
+        "url": "https://www.deondernemer.nl/innovatie/website-hack-horeca-frans-van-hall-wordpress-cybersecurity~00a4265",
+        "title": "Hack van website van horeca-bedrijf de HALL door kwetsbaarheid in WordPress",
+        "date_published": "2024-09-27T10:59:00Z",
+        "date_modified": "2024-09-27T10:59:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "deondernemer.nl"
+        },
+        "content_html": "",
+        "content_text": "de HALL | Logies-, maaltijd- en drankverstrekking | 25-09-2024 | DataLekt.nl: De website van horecabedrijf Frans van Hall is gehackt door misbruik van een kwetsbaarheid in WordPress. De aanvallers verkregen toegang tot gevoelige gegevens door een bekend beveiligingslek. Als gevolg van de hack was de website tijdelijk onbereikbaar, wat leidde tot een geschatte schade van tussen de \u20ac5.000 en \u20ac10.000. Er is geen informatie vrijgegeven over de identiteit van de hackers of het aantal getroffen klanten. De hack benadrukt de risico&#039;s van verouderde software en de noodzaak van regelmatige updates. (Bron: deondernemer.nl)"
+    },
+    {
         "id": "https://zogouds.nl/nieuws/wachtwoorden-ledenadministratie-gymnastiekvereniging-velocitas-gehackt?datalekt=c9f57cdc2b1976bab1cab89b801ddbff113d0f83c7c7643e8928d7a0de6aaf68",
         "url": "https://zogouds.nl/nieuws/wachtwoorden-ledenadministratie-gymnastiekvereniging-velocitas-gehackt",
         "title": "Ledenadministratie van Gymnastiekvereniging Velocitas gehackt door onbekende aanvaller",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "AddComm | Informatie en communicatie | 23-05-2024 | DataLekt.nl: AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 30 mei 2024 is bekend geworden dat AddComm tot het betalen van losgeld is overgegaan.] (Bron: telegraaf.nl)"
-    },
-    {
-        "id": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/?datalekt=8f6ba20599d0b5150d42778acd1e49c68c19a3489372686f2ce2e2789c5b3956",
-        "url": "https://www.ed.nl/eindhoven/eindhoven-liet-bsn-gegevens-van-ruim-220-000-inwoners-rondslingeren~ad2576e5/",
-        "title": "Jaaroverzicht 2023 onthult toename in datalekken bij gemeente Eindhoven",
-        "date_published": "2024-05-24T09:45:00Z",
-        "date_modified": "2024-05-24T09:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ed.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-05-2024 | DataLekt.nl: Het jaaroverzicht van 2023 van de gemeente Eindhoven toont een stijging in het aantal datalekken tot 266 incidenten, vari\u00ebrend van verkeerd verstuurde communicatie tot het verlies van apparatuur. De Autoriteit Persoonsgegevens houdt de gemeente onder verscherpt toezicht vanwege zorgen over de omgang met persoonsgegevens. Bij 28 ernstige lekken is er melding gemaakt bij de AP. Het rapport onderstreept de noodzaak van verbeteringen om mogelijke boetes te vermijden. (Bron: ed.nl)"
     }
 ]
