@@ -7,12 +7,20 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 27 Sep 2024 18:25:07 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 28 Sep 2024 18:22:54 +0000</lastBuildDate>
 		<item>
-			<title>Gegevens van ruim 60.000 politiemedewerkers gestolen bij grote hack</title>
+			<title>Vodafone krijgt boete opgelegd door RDI van 160.000 voor verkeerd verwerken van klantgegevens</title>
+			<link>https://tweakers.net/nieuws/227034/vodafone-krijgt-boete-van-160000-euro-voor-onjuist-verwerken-van-klantgegevens.html</link>
+			<description>VodafoneZiggo | Informatie en communicatie | 27-09-2024 | DataLekt.nl: Vodafone heeft een boete van 160.000 euro van Rijksinspectie Digitale Infrastructuur (RDI) gekregen wegens het onjuist verwerken van klantgegevens. Het incident werd veroorzaakt doordat Vodafone onvoldoende beveiligingsmaatregelen had getroffen bij het verwerken van persoonlijke informatie, wat leidde tot de mogelijkheid van datalekken. De boete is opgelegd door de Autoriteit Persoonsgegevens en heeft betrekking op meerdere gevallen waarbij klantgegevens foutief werden verwerkt, wat resulteerde in een risico voor de privacy van klanten. Er zijn geen aanwijzingen dat kwaadwillenden misbruik hebben gemaakt van de situatie. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/227034/vodafone-krijgt-boete-van-160000-euro-voor-onjuist-verwerken-van-klantgegevens.html?datalekt=4a5251c1f35d5f9dae99d4ed4e4b0f8a0e190af94e8f0e713fd2ef33c058fe66</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gegevens van ruim 65.000 politiemedewerkers gestolen bij grote hack</title>
 			<link>https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html</link>
-			<description>Nationale Politie | Overheid: Politie en brandweer | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 60.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=ce6739adb8fabe04c0e31d84d76bf004775aac7ffa7ae4318a2ec1996c1a7391</guid>
+			<description>Nationale Politie | Overheid: Politie en brandweer | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 65.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=0694efcf17a24615ddea76cafd479a0d9af7de566f0589b9caaa3e0e06d0506a</guid>
 			<category>Overheid: Politie en brandweer </category>
 			<pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -758,14 +766,6 @@
 			<description>Portaal | Verhuur van en handel in onroerend goed | 22-05-2024 | DataLekt.nl: Op 17 mei werd bekend dat de leverancier AddComm van Portaal, verantwoordelijk voor het versturen van digitale berichten, slachtoffer is geworden van een datalek. Dit lek zou persoonsgegevens van huurders zoals namen, adressen, en bankrekeningnummers kunnen betreffen. Er zijn geen wachtwoorden of andere gevoelige informatie gelekt. Portaal heeft de Autoriteit Persoonsgegevens ingelicht en onderzoekt samen met de leverancier de omvang van het lek. Bewoners worden gewaarschuwd voor mogelijke phishing-pogingen die hun persoonsgegevens misbruiken. (Bron: ad.nl)</description>
 			<guid isPermaLink="false">https://www.ad.nl/amersfoort/huurders-van-portaal-mogelijk-slachtoffer-van-grote-cyberaanval-bij-amersfoorts-bedrijf-losgeld-geeist~a3d6fa2b/?datalekt=46d2b7ca57594832544e7cfc4300cf7f2f62ed215cc3115bb48cd70ffa5643cf</guid>
 			<category>Verhuur van en handel in onroerend goed </category>
-			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Onbekende klanten van AddComm vrezen gevolgen van ransomware-inbraak</title>
-			<link>https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt</link>
-			<description>60 onbekende organisaties | Overige dienstverlening | 23-05-2024 | DataLekt.nl: Ongeveer zestig organisaties, klanten van AddComm, zijn indirect getroffen door een recente ransomware-aanval op dit bedrijf. Zij staan nu voor de uitdaging om de mogelijke impact te beoordelen, aangezien het nog onduidelijk is welke specifieke gegevens zijn gestolen. Deze organisaties, variërend van gemeenten tot commerciële partijen, vrezen voor de veiligheid van persoonlijke en zakelijke informatie van hun burgers en klanten, en bereiden zich voor op mogelijke gevolgen van de datalek. (Bron: telegraaf.nl)</description>
-			<guid isPermaLink="false">https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=2707bed845c413ac750dcda8a3357575a83fee0ed4011cdc4679978a4230d791</guid>
-			<category>Overige dienstverlening </category>
 			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>

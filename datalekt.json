@@ -1,8 +1,21 @@
 [
     {
-        "id": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=ce6739adb8fabe04c0e31d84d76bf004775aac7ffa7ae4318a2ec1996c1a7391",
+        "id": "https://tweakers.net/nieuws/227034/vodafone-krijgt-boete-van-160000-euro-voor-onjuist-verwerken-van-klantgegevens.html?datalekt=4a5251c1f35d5f9dae99d4ed4e4b0f8a0e190af94e8f0e713fd2ef33c058fe66",
+        "url": "https://tweakers.net/nieuws/227034/vodafone-krijgt-boete-van-160000-euro-voor-onjuist-verwerken-van-klantgegevens.html",
+        "title": "Vodafone krijgt boete opgelegd door RDI van 160.000 voor verkeerd verwerken van klantgegevens",
+        "date_published": "2024-09-28T16:59:00Z",
+        "date_modified": "2024-09-28T16:59:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "VodafoneZiggo | Informatie en communicatie | 27-09-2024 | DataLekt.nl: Vodafone heeft een boete van 160.000 euro van Rijksinspectie Digitale Infrastructuur (RDI) gekregen wegens het onjuist verwerken van klantgegevens. Het incident werd veroorzaakt doordat Vodafone onvoldoende beveiligingsmaatregelen had getroffen bij het verwerken van persoonlijke informatie, wat leidde tot de mogelijkheid van datalekken. De boete is opgelegd door de Autoriteit Persoonsgegevens en heeft betrekking op meerdere gevallen waarbij klantgegevens foutief werden verwerkt, wat resulteerde in een risico voor de privacy van klanten. Er zijn geen aanwijzingen dat kwaadwillenden misbruik hebben gemaakt van de situatie. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=0694efcf17a24615ddea76cafd479a0d9af7de566f0589b9caaa3e0e06d0506a",
         "url": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html",
-        "title": "Gegevens van ruim 60.000 politiemedewerkers gestolen bij grote hack",
+        "title": "Gegevens van ruim 65.000 politiemedewerkers gestolen bij grote hack",
         "date_published": "2024-09-27T15:31:00Z",
         "date_modified": "2024-09-27T15:31:00Z",
         "language": "nl-nl",
@@ -10,7 +23,7 @@
             "name": "nu.nl"
         },
         "content_html": "",
-        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 60.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. (Bron: nu.nl)"
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 65.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. (Bron: nu.nl)"
     },
     {
         "id": "https://www.deondernemer.nl/innovatie/website-hack-horeca-frans-van-hall-wordpress-cybersecurity~00a4265?datalekt=472ffe6e668e9189caafc6b26dfe17ed7cfa35b9dfa35fb143842efc3f997626",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 14-05-2024 | DataLekt.nl: Begin mei werd een datalek ontdekt in het Geoinformatieportaal van HHNK, waarbij persoonsgegevens zoals BSN en adresgegevens mogelijk gelekt zijn. De gelekte informatie omvat gegevens over kadastrale objecten en eigendommen. Door onjuiste verwerking waren deze gegevens toegankelijk voor onbevoegden. Maatregelen, zoals het uitzetten van de gegevensverwerking en het melden bij de Autoriteit Persoonsgegevens, zijn getroffen om de toegang te blokkeren. Dit heeft mogelijk vertragingen in vergunningsaanvragen en grondtransacties tot gevolg. (Bron: noordhollandsdagblad.nl)"
-    },
-    {
-        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=2707bed845c413ac750dcda8a3357575a83fee0ed4011cdc4679978a4230d791",
-        "url": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt",
-        "title": "Onbekende klanten van AddComm vrezen gevolgen van ransomware-inbraak",
-        "date_published": "2024-05-24T09:47:00Z",
-        "date_modified": "2024-05-24T09:47:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "telegraaf.nl"
-        },
-        "content_html": "",
-        "content_text": "60 onbekende organisaties | Overige dienstverlening | 23-05-2024 | DataLekt.nl: Ongeveer zestig organisaties, klanten van AddComm, zijn indirect getroffen door een recente ransomware-aanval op dit bedrijf. Zij staan nu voor de uitdaging om de mogelijke impact te beoordelen, aangezien het nog onduidelijk is welke specifieke gegevens zijn gestolen. Deze organisaties, vari\u00ebrend van gemeenten tot commerci\u00eble partijen, vrezen voor de veiligheid van persoonlijke en zakelijke informatie van hun burgers en klanten, en bereiden zich voor op mogelijke gevolgen van de datalek. (Bron: telegraaf.nl)"
     }
 ]
