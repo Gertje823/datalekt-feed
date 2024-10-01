@@ -13,9 +13,9 @@
         "content_text": "VodafoneZiggo | Informatie en communicatie | 27-09-2024 | DataLekt.nl: Vodafone heeft een boete van 160.000 euro van Rijksinspectie Digitale Infrastructuur (RDI) gekregen wegens het onjuist verwerken van klantgegevens. Het incident werd veroorzaakt doordat Vodafone onvoldoende beveiligingsmaatregelen had getroffen bij het verwerken van persoonlijke informatie, wat leidde tot de mogelijkheid van datalekken. De boete is opgelegd door de Autoriteit Persoonsgegevens en heeft betrekking op meerdere gevallen waarbij klantgegevens foutief werden verwerkt, wat resulteerde in een risico voor de privacy van klanten. Er zijn geen aanwijzingen dat kwaadwillenden misbruik hebben gemaakt van de situatie. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=0694efcf17a24615ddea76cafd479a0d9af7de566f0589b9caaa3e0e06d0506a",
+        "id": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=427f58966b3d56e2367f2f681d133941240ad03243e69a484d8f4865776288c3",
         "url": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html",
-        "title": "Gegevens van ruim 65.000 politiemedewerkers gestolen bij grote hack",
+        "title": "Gegevens van ruim 63.000 politiemedewerkers gestolen bij grote hack",
         "date_published": "2024-09-27T15:31:00Z",
         "date_modified": "2024-09-27T15:31:00Z",
         "language": "nl-nl",
@@ -23,7 +23,7 @@
             "name": "nu.nl"
         },
         "content_html": "",
-        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 65.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. (Bron: nu.nl)"
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 63.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. (Bron: nu.nl)"
     },
     {
         "id": "https://www.deondernemer.nl/innovatie/website-hack-horeca-frans-van-hall-wordpress-cybersecurity~00a4265?datalekt=472ffe6e668e9189caafc6b26dfe17ed7cfa35b9dfa35fb143842efc3f997626",
