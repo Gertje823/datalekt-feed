@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 01 Oct 2024 01:38:37 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 02 Oct 2024 12:36:27 +0000</lastBuildDate>
+		<item>
+			<title>The Rubber Resources getroffen door ransomware aanval van de criminele organisatie PLAY</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>The Rubber Resources | Water, afval- en afvalwaterbeheer en sanering | 29-09-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij The Rubber Resources heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=fe79a682ecb385c655b94de58b4b301a04867201a814beffa44d80c4b1f86f40</guid>
+			<category>Water, afval- en afvalwaterbeheer en sanering </category>
+			<pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Vodafone krijgt boete opgelegd door RDI van 160.000 voor verkeerd verwerken van klantgegevens</title>
 			<link>https://tweakers.net/nieuws/227034/vodafone-krijgt-boete-van-160000-euro-voor-onjuist-verwerken-van-klantgegevens.html</link>
@@ -767,14 +775,6 @@
 			<guid isPermaLink="false">https://www.ad.nl/amersfoort/huurders-van-portaal-mogelijk-slachtoffer-van-grote-cyberaanval-bij-amersfoorts-bedrijf-losgeld-geeist~a3d6fa2b/?datalekt=46d2b7ca57594832544e7cfc4300cf7f2f62ed215cc3115bb48cd70ffa5643cf</guid>
 			<category>Verhuur van en handel in onroerend goed </category>
 			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Geoinformatieportaal HHNK met risico op lek van persoonlijke en kadastrale gegevens</title>
-			<link>https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570</link>
-			<description>Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 14-05-2024 | DataLekt.nl: Begin mei werd een datalek ontdekt in het Geoinformatieportaal van HHNK, waarbij persoonsgegevens zoals BSN en adresgegevens mogelijk gelekt zijn. De gelekte informatie omvat gegevens over kadastrale objecten en eigendommen. Door onjuiste verwerking waren deze gegevens toegankelijk voor onbevoegden. Maatregelen, zoals het uitzetten van de gegevensverwerking en het melden bij de Autoriteit Persoonsgegevens, zijn getroffen om de toegang te blokkeren. Dit heeft mogelijk vertragingen in vergunningsaanvragen en grondtransacties tot gevolg. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570?datalekt=953154752d4f81f498db3dda81e93ac7db57f209f34038c525a54c6155b4c26b</guid>
-			<category>Overheid: Waterschappen </category>
-			<pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding</title>

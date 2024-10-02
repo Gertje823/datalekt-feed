@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=fe79a682ecb385c655b94de58b4b301a04867201a814beffa44d80c4b1f86f40",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "The Rubber Resources getroffen door ransomware aanval van de criminele organisatie PLAY",
+        "date_published": "2024-10-02T12:23:00Z",
+        "date_modified": "2024-10-02T12:23:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "The Rubber Resources | Water, afval- en afvalwaterbeheer en sanering | 29-09-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij The Rubber Resources heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/227034/vodafone-krijgt-boete-van-160000-euro-voor-onjuist-verwerken-van-klantgegevens.html?datalekt=4a5251c1f35d5f9dae99d4ed4e4b0f8a0e190af94e8f0e713fd2ef33c058fe66",
         "url": "https://tweakers.net/nieuws/227034/vodafone-krijgt-boete-van-160000-euro-voor-onjuist-verwerken-van-klantgegevens.html",
         "title": "Vodafone krijgt boete opgelegd door RDI van 160.000 voor verkeerd verwerken van klantgegevens",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Portaal | Verhuur van en handel in onroerend goed | 22-05-2024 | DataLekt.nl: Op 17 mei werd bekend dat de leverancier AddComm van Portaal, verantwoordelijk voor het versturen van digitale berichten, slachtoffer is geworden van een datalek. Dit lek zou persoonsgegevens van huurders zoals namen, adressen, en bankrekeningnummers kunnen betreffen. Er zijn geen wachtwoorden of andere gevoelige informatie gelekt. Portaal heeft de Autoriteit Persoonsgegevens ingelicht en onderzoekt samen met de leverancier de omvang van het lek. Bewoners worden gewaarschuwd voor mogelijke phishing-pogingen die hun persoonsgegevens misbruiken. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570?datalekt=953154752d4f81f498db3dda81e93ac7db57f209f34038c525a54c6155b4c26b",
-        "url": "https://www.noordhollandsdagblad.nl/cnt/dmf20240515_63744570",
-        "title": "Datalek bij Geoinformatieportaal HHNK met risico op lek van persoonlijke en kadastrale gegevens",
-        "date_published": "2024-05-17T09:52:00Z",
-        "date_modified": "2024-05-24T09:48:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "noordhollandsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 14-05-2024 | DataLekt.nl: Begin mei werd een datalek ontdekt in het Geoinformatieportaal van HHNK, waarbij persoonsgegevens zoals BSN en adresgegevens mogelijk gelekt zijn. De gelekte informatie omvat gegevens over kadastrale objecten en eigendommen. Door onjuiste verwerking waren deze gegevens toegankelijk voor onbevoegden. Maatregelen, zoals het uitzetten van de gegevensverwerking en het melden bij de Autoriteit Persoonsgegevens, zijn getroffen om de toegang te blokkeren. Dit heeft mogelijk vertragingen in vergunningsaanvragen en grondtransacties tot gevolg. (Bron: noordhollandsdagblad.nl)"
     }
 ]
