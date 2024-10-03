@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://beveiligingnieuws.nl/haagse-politieman-zocht-onterecht-naar-informatie/?datalekt=919a0a767945700beda483f6a468b0f1be9efc4840d44e59e237111057522b2d",
+        "url": "https://beveiligingnieuws.nl/haagse-politieman-zocht-onterecht-naar-informatie/",
+        "title": "Haagse politieman pleegt computervredebreuk door onterecht zoeken naar informatie",
+        "date_published": "2024-10-03T11:11:00Z",
+        "date_modified": "2024-10-03T11:11:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "beveiligingnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 02-10-2024 | DataLekt.nl: Een politieman uit Den Haag stond terecht voor het meermaals zonder toestemming opzoeken van informatie in het politiesysteem. Tussen 2019 en 2020 zocht hij naar gegevens over personen uit zijn omgeving en over individuen die werden onderzocht in Brabant. Het Openbaar Ministerie benadrukte dat deze onbevoegde handelingen de politie kwetsbaar maken voor corruptie. De verdachte kreeg een taakstraf van 60 uur opgelegd. De zaak kwam voor de rechter nadat de man weigerde akkoord te gaan met een strafbeschikking. (Bron: beveiligingnieuws.nl)"
+    },
+    {
+        "id": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/?datalekt=f2009ce1525713bf6cf6387d562ccba03aa952c767ef59696247f996b7923f15",
+        "url": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/",
+        "title": "Gemeente Den Haag getroffen door phishingaanval via misbruik van drie e-mailaccounts",
+        "date_published": "2024-10-03T11:10:00Z",
+        "date_modified": "2024-10-03T11:10:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Den Haag | Overheid: Gemeenten | 26-09-2024 | DataLekt.nl: Hackers hebben drie e-mailaccounts van de gemeente Den Haag misbruikt om phishingmails te versturen. Deze nepmails bevatten vaak Engelse onderwerpen en lijken betrouwbaar door het gebruik van gemeentelijke adressen en soms zelfs dossiernummers. Ontvangers worden naar een vervalste website geleid, waar hen gevraagd wordt om in te loggen. De gemeente heeft de accounts beveiligd en waarschuwt om deze e-mails te verwijderen. Het incident is gemeld bij de Autoriteit Persoonsgegevens, en er wordt onderzoek gedaan naar de aanval. (Bron: ad.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=fe79a682ecb385c655b94de58b4b301a04867201a814beffa44d80c4b1f86f40",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "The Rubber Resources getroffen door ransomware aanval van de criminele organisatie PLAY",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Eigen Haard | Verhuur van en handel in onroerend goed | 22-05-2024 | DataLekt.nl: Addcomm, de leverancier van verzendingsdiensten voor Eigen Haard, werd het doelwit van een cyberaanval op 22 mei 2024. Het is nog onduidelijk of er huurdersgegevens van Eigen Haard zijn gestolen. Als voorzorgsmaatregel heeft Eigen Haard haar eigen beveiligingsmaatregelen versterkt en samen met Addcomm een melding gedaan bij de Autoriteit Persoonsgegevens. Huurders worden geadviseerd extra alert te zijn op verdachte e-mails en contact op te nemen bij zorgen over hun privacy. (Bron: eigenhaard.nl)"
-    },
-    {
-        "id": "https://gbtwente.nl/nieuws/mogelijk-data-ontvreemd-door-ransomware-aanval-bij-leverancier?datalekt=710ef866c8f288440fcc0d49fbce3b735109fc39afd18a4fabf163336a559b18",
-        "url": "https://gbtwente.nl/nieuws/mogelijk-data-ontvreemd-door-ransomware-aanval-bij-leverancier",
-        "title": "Ransomware-aanval bij AddComm leidt mogelijk tot datadiefstal bij GBTwente",
-        "date_published": "2024-05-25T09:48:00Z",
-        "date_modified": "2024-05-25T09:48:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gbtwente.nl"
-        },
-        "content_html": "",
-        "content_text": "GBTwente | Overheid: Regionale samenwerkingsorganen | 23-05-2024 | DataLekt.nl: De leverancier AddComm van GBTwente werd onlangs getroffen door een ransomware-aanval waarbij mogelijk data is ontvreemd. Op dit moment is nog niet duidelijk welke specifieke gegevens zijn gestolen. GBTwente heeft onmiddellijk maatregelen getroffen om verdere schade te voorkomen, waaronder het melden bij de Autoriteit Persoonsgegevens. De leverancier werkt samen met experts aan een onderzoek naar de volledige omvang van de inbreuk. Er wordt gewaarschuwd extra voorzichtig te zijn met verdachte communicatie. (Bron: gbtwente.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/amersfoort/huurders-van-portaal-mogelijk-slachtoffer-van-grote-cyberaanval-bij-amersfoorts-bedrijf-losgeld-geeist~a3d6fa2b/?datalekt=46d2b7ca57594832544e7cfc4300cf7f2f62ed215cc3115bb48cd70ffa5643cf",
-        "url": "https://www.ad.nl/amersfoort/huurders-van-portaal-mogelijk-slachtoffer-van-grote-cyberaanval-bij-amersfoorts-bedrijf-losgeld-geeist~a3d6fa2b/",
-        "title": "Datalek bij Portaal&#039;s communicatieleverancier treft huurdersgegevens",
-        "date_published": "2024-05-24T10:15:00Z",
-        "date_modified": "2024-05-24T10:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Portaal | Verhuur van en handel in onroerend goed | 22-05-2024 | DataLekt.nl: Op 17 mei werd bekend dat de leverancier AddComm van Portaal, verantwoordelijk voor het versturen van digitale berichten, slachtoffer is geworden van een datalek. Dit lek zou persoonsgegevens van huurders zoals namen, adressen, en bankrekeningnummers kunnen betreffen. Er zijn geen wachtwoorden of andere gevoelige informatie gelekt. Portaal heeft de Autoriteit Persoonsgegevens ingelicht en onderzoekt samen met de leverancier de omvang van het lek. Bewoners worden gewaarschuwd voor mogelijke phishing-pogingen die hun persoonsgegevens misbruiken. (Bron: ad.nl)"
     }
 ]
