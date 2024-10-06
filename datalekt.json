@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.rtl.nl/nieuws/artikel/5473143/verkeerslichten-hacken-tienduizenden-nederland-lek?datalekt=f9570ac420006ebfd160115f7f3fd656301b6506c04246d32a0b3c31671c9ea8",
+        "url": "https://www.rtl.nl/nieuws/artikel/5473143/verkeerslichten-hacken-tienduizenden-nederland-lek",
+        "title": "Kwetsbaarheid in verkeerslichten raakt onbekend aantal provincies door onbekende leverancier",
+        "date_published": "2024-10-06T16:26:00Z",
+        "date_modified": "2024-10-06T16:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtl.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekend aantal provincies | Overheid: Provincies | 05-10-2024 | DataLekt.nl: Een onbekend aantal provincies in Nederland heeft te maken met een beveiligingslek in hun verkeerslichten, wat het mogelijk maakte voor kwaadwillenden om de lichten op afstand te manipuleren. Dit lek zou potentieel gevaarlijke verkeerssituaties kunnen veroorzaken. Het is nog niet bekend of het lek is misbruikt, en de leverancier van de systemen is nog niet ge\u00efdentificeerd. De getroffen provincies werken aan maatregelen om de situatie te verhelpen. (Bron: rtl.nl)"
+    },
+    {
+        "id": "https://www.rtl.nl/nieuws/artikel/5473143/verkeerslichten-hacken-tienduizenden-nederland-lek?datalekt=151f0d07afad22050466e9cad98fda24faff3a4f3908108f2ed770afeaf8f9a9",
+        "url": "https://www.rtl.nl/nieuws/artikel/5473143/verkeerslichten-hacken-tienduizenden-nederland-lek",
+        "title": "Kwetsbaarheid in verkeerslichten raakt onbekend aantal gemeenten door onbekende leverancier",
+        "date_published": "2024-10-06T16:25:00Z",
+        "date_modified": "2024-10-06T16:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtl.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekend aantal gemeenten | Overheid: Gemeenten | 05-10-2024 | DataLekt.nl: Een onbekend aantal Nederlandse gemeenten is getroffen door een beveiligingslek in hun verkeerslichten, waardoor deze op afstand konden worden gehackt. Dit lek maakte het mogelijk voor kwaadwillenden om de verkeersregeling te manipuleren, met potentieel gevaarlijke situaties tot gevolg. Hoewel er nog geen bewijs is dat het lek is misbruikt, blijven de risico\u2019s aanwezig. De betrokken leverancier van de systemen is niet bekend. Gemeenten hebben maatregelen genomen om het probleem op te lossen. (Bron: rtl.nl)"
+    },
+    {
+        "id": "https://www.rtl.nl/nieuws/artikel/5473143/verkeerslichten-hacken-tienduizenden-nederland-lek?datalekt=925b4713673f38d87b70f23514271c2f7937e184ca0d4e65e8464d9a1b580ccf",
+        "url": "https://www.rtl.nl/nieuws/artikel/5473143/verkeerslichten-hacken-tienduizenden-nederland-lek",
+        "title": "Beveiligingslek bij IenW treft verkeerslichten door onbekende leverancier",
+        "date_published": "2024-10-06T16:24:00Z",
+        "date_modified": "2024-10-06T16:24:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtl.nl"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Infrastructuur en Waterstaat (IenW) | Overheid: Ministeries | 05-10-2024 | DataLekt.nl: Een beveiligingslek in de verkeerslichten, beheerd door onder andere het Ministerie van Infrastructuur en Waterstaat (IenW), heeft tienduizenden lichten in Nederland kwetsbaar gemaakt voor cyberaanvallen. Kwaadwillenden hadden de mogelijkheid om de lichten op afstand te manipuleren, wat mogelijk gevaarlijke verkeerssituaties kon veroorzaken. De kwetsbaarheid werd ontdekt, maar het is onbekend of deze is misbruikt. De leverancier van de software of systemen is nog niet bekend. Het ministerie werkt aan het dichten van het lek. De omvang van de schade is niet duidelijk. (Bron: rtl.nl)"
+    },
+    {
         "id": "https://beveiligingnieuws.nl/haagse-politieman-zocht-onterecht-naar-informatie/?datalekt=919a0a767945700beda483f6a468b0f1be9efc4840d44e59e237111057522b2d",
         "url": "https://beveiligingnieuws.nl/haagse-politieman-zocht-onterecht-naar-informatie/",
         "title": "Haagse politieman pleegt computervredebreuk door onterecht zoeken naar informatie",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Waterschap Drents Overijsselse Delta (WDO Delta) | Overheid: Waterschappen | 23-05-2024 | DataLekt.nl: Waterschap Drents Overijsselse Delta (WDO Delta) meldde een mogelijk datalek waarbij een online portaal dat persoonsgegevens bevatte tijdelijk toegankelijk was. Adresgegevens en burgerservicenummers van perceeleigenaren waren zichtbaar. Het lek, veroorzaakt door een configuratiefout in het geo-informatieportaal, werd snel gedicht na ontdekking, en zowel de Autoriteit Persoonsgegevens als het Kadaster zijn ge\u00efnformeerd. Het is onbekend of onbevoegden de gegevens hebben ingezien. (Bron: rtvdrenthe.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=9f9a9e074634f984256c4f711fec580fdd29e03a371c8970937f24824059d6e6",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Heras getroffen door ransomware aanval van de criminele organisatie Medusa",
-        "date_published": "2024-05-25T09:57:00Z",
-        "date_modified": "2024-05-25T09:57:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Heras | Groot- en detailhandel | 21-05-2024 | DataLekt.nl: De criminele organisatie Medusa heeft op het darkweb aangekondigd dat zij Heras heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.staedion.nl/over-staedion/nieuws/datalek-bij-leverancier-addcomm?datalekt=ec5723512349b792a3d96ce07d2aeb1a83e489032f72ff09b73bcc5f96668433",
-        "url": "https://www.staedion.nl/over-staedion/nieuws/datalek-bij-leverancier-addcomm",
-        "title": "Datalek bij Staedion&#039;s digitale berichtendienst AddComm",
-        "date_published": "2024-05-25T09:52:00Z",
-        "date_modified": "2024-05-25T09:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "staedion.nl"
-        },
-        "content_html": "",
-        "content_text": "Staedion | Verhuur van en handel in onroerend goed | 23-05-2024 | DataLekt.nl: Staedion, een verhuurder van woningen, heeft een datalek ondervonden bij hun leverancier AddComm. Dit datalek, ontdekt op 17 mei, kwam aan het licht toen cybercriminelen toegang verkregen tot persoonsgegevens van Staedion&#039;s huurders. Hoewel nog onbekend is welke specifieke gegevens gelekt zijn, zijn er geen wachtwoorden betrokken. Er wordt onderzoek gedaan naar de aard en omvang van de gestolen gegevens. Staedion en AddComm hebben direct maatregelen genomen om verdere schade te voorkomen en autoriteiten ingelicht. (Bron: staedion.nl)"
-    },
-    {
-        "id": "https://www.eigenhaard.nl/eigen-haard/nieuws/2024/hack-bij-leverancier-pas-op-je-e-mail/?datalekt=a40624de89535e1d58d08bb4f796c2c5e5a0c77180214222b00c4de90568beb1",
-        "url": "https://www.eigenhaard.nl/eigen-haard/nieuws/2024/hack-bij-leverancier-pas-op-je-e-mail/",
-        "title": "Cyberaanval treft verzendingsdienst Addcomm en mogelijk klantgegevens van Eigen Haard",
-        "date_published": "2024-05-25T09:50:00Z",
-        "date_modified": "2024-05-25T09:50:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "eigenhaard.nl"
-        },
-        "content_html": "",
-        "content_text": "Eigen Haard | Verhuur van en handel in onroerend goed | 22-05-2024 | DataLekt.nl: Addcomm, de leverancier van verzendingsdiensten voor Eigen Haard, werd het doelwit van een cyberaanval op 22 mei 2024. Het is nog onduidelijk of er huurdersgegevens van Eigen Haard zijn gestolen. Als voorzorgsmaatregel heeft Eigen Haard haar eigen beveiligingsmaatregelen versterkt en samen met Addcomm een melding gedaan bij de Autoriteit Persoonsgegevens. Huurders worden geadviseerd extra alert te zijn op verdachte e-mails en contact op te nemen bij zorgen over hun privacy. (Bron: eigenhaard.nl)"
     }
 ]
