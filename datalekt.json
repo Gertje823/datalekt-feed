@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=26ac391964ea6a562ec8b6ef23159a1cb2ddd897924f2072a635efc6191fa06c",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Omniboxx getroffen door ransomware aanval van de criminele organisatie Ransomhub",
+        "date_published": "2024-10-07T18:26:00Z",
+        "date_modified": "2024-10-07T18:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Omniboxx | Informatie en communicatie | 05-10-2024 | DataLekt.nl: De criminele organisatie Ransomhub heeft op het darkweb aangekondigd dat zij Omniboxx heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.rtl.nl/nieuws/artikel/5473143/verkeerslichten-hacken-tienduizenden-nederland-lek?datalekt=f9570ac420006ebfd160115f7f3fd656301b6506c04246d32a0b3c31671c9ea8",
         "url": "https://www.rtl.nl/nieuws/artikel/5473143/verkeerslichten-hacken-tienduizenden-nederland-lek",
         "title": "Kwetsbaarheid in verkeerslichten raakt onbekend aantal provincies door onbekende leverancier",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "ABN Amro | Financi\u00eble instellingen | 24-05-2024 | DataLekt.nl: Bij een cyberaanval op AddComm, een leverancier gespecialiseerd in klantcommunicatie, zijn mogelijk klantgegevens van ABN Amro buitgemaakt. Hoewel er geen directe aanwijzingen zijn dat deze gegevens misbruikt zijn en de systemen van de bank zelf niet getroffen zijn, heeft ABN Amro uit voorzorg de samenwerking met AddComm gestaakt. Klanten wiens gegevens mogelijk gecompromitteerd waren, zijn ingelicht en het incident is gemeld bij de toezichthouders. De hack vond plaats tussen 5 en 17 mei. (Bron: bnr.nl)"
-    },
-    {
-        "id": "https://www.rtvdrenthe.nl/nieuws/16538055/mogelijk-datalek-bij-waterschap-drents-overijsselse-delta?datalekt=c5457c3ae0a0d190247a5577c76c98e7d88bf4967a040f00e89b4f4ee85add43",
-        "url": "https://www.rtvdrenthe.nl/nieuws/16538055/mogelijk-datalek-bij-waterschap-drents-overijsselse-delta",
-        "title": "Datalek bij WDO Delta door openbaar geo-informatieportaal",
-        "date_published": "2024-05-26T11:58:00Z",
-        "date_modified": "2024-05-26T11:58:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtvdrenthe.nl"
-        },
-        "content_html": "",
-        "content_text": "Waterschap Drents Overijsselse Delta (WDO Delta) | Overheid: Waterschappen | 23-05-2024 | DataLekt.nl: Waterschap Drents Overijsselse Delta (WDO Delta) meldde een mogelijk datalek waarbij een online portaal dat persoonsgegevens bevatte tijdelijk toegankelijk was. Adresgegevens en burgerservicenummers van perceeleigenaren waren zichtbaar. Het lek, veroorzaakt door een configuratiefout in het geo-informatieportaal, werd snel gedicht na ontdekking, en zowel de Autoriteit Persoonsgegevens als het Kadaster zijn ge\u00efnformeerd. Het is onbekend of onbevoegden de gegevens hebben ingezien. (Bron: rtvdrenthe.nl)"
     }
 ]
