@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.destentor.nl/zutphen/zutphen-beschermt-privacy-van-inwoners-onvoldoende-we-erkennen-dat-ruiterlijk~a795f231/?datalekt=e75cc3ff3ac0b875cd79b31a06e7383eeb817cebbf4911a39f00cdae81cf9fdd",
+        "url": "https://www.destentor.nl/zutphen/zutphen-beschermt-privacy-van-inwoners-onvoldoende-we-erkennen-dat-ruiterlijk~a795f231/",
+        "title": "Gemeente Zutphen registreert 30 datalekken in 2023 door gebrekkige organisatie van verantwoordelijkheden",
+        "date_published": "2024-10-08T10:20:00Z",
+        "date_modified": "2024-10-08T10:20:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "destentor.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Zutphen | Overheid: Gemeenten | 02-10-2024 | DataLekt.nl: De gemeente Zutphen heeft in 2023 te maken gehad met meerdere beveiligingsincidenten, waarvan 30 als datalek zijn geregistreerd. Een groot datalek moest worden gemeld bij de Autoriteit Persoonsgegevens. Dit kwam door een gebrek aan duidelijkheid over wie verantwoordelijk is voor de bescherming van persoonsgegevens, zoals geconcludeerd door een onafhankelijke Functionaris Gegevensbescherming. Hierdoor gingen tientallen dossiers verloren bij de overgang naar een nieuw digitaal systeem. Hoewel geen gevoelige data is gelekt, had dit wel invloed op het vertrouwen van de inwoners. (Bron: destentor.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=26ac391964ea6a562ec8b6ef23159a1cb2ddd897924f2072a635efc6191fa06c",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Omniboxx getroffen door ransomware aanval van de criminele organisatie Ransomhub",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Regionale Belasting Groep | Overheid: Regionale samenwerkingsorganen | 24-05-2024 | DataLekt.nl: De RBG heeft een kritieke situatie door een cyberaanval op hun leverancier Addcomm, met mogelijke diefstal van uitgebreide klantgegevens als gevolg. Dit incident benadrukt de noodzaak van verscherpte digitale beveiliging en voorlichting over cyberveiligheid aan klanten. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.bnr.nl/nieuws/tech-innovatie/10547811/mogelijk-gegevens-van-klanten-abnamro-gelekt-bij-cyberaanval?datalekt=856f617ff4474faf23a50de3c69a1870612a9564e2502f8df350bedbd05e7b4d",
-        "url": "https://www.bnr.nl/nieuws/tech-innovatie/10547811/mogelijk-gegevens-van-klanten-abnamro-gelekt-bij-cyberaanval",
-        "title": "Cyberaanval op leverancier leidt tot mogelijk datalek bij ABN Amro klanten",
-        "date_published": "2024-05-26T11:59:00Z",
-        "date_modified": "2024-05-26T11:59:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "bnr.nl"
-        },
-        "content_html": "",
-        "content_text": "ABN Amro | Financi\u00eble instellingen | 24-05-2024 | DataLekt.nl: Bij een cyberaanval op AddComm, een leverancier gespecialiseerd in klantcommunicatie, zijn mogelijk klantgegevens van ABN Amro buitgemaakt. Hoewel er geen directe aanwijzingen zijn dat deze gegevens misbruikt zijn en de systemen van de bank zelf niet getroffen zijn, heeft ABN Amro uit voorzorg de samenwerking met AddComm gestaakt. Klanten wiens gegevens mogelijk gecompromitteerd waren, zijn ingelicht en het incident is gemeld bij de toezichthouders. De hack vond plaats tussen 5 en 17 mei. (Bron: bnr.nl)"
     }
 ]
