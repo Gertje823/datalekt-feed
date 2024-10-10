@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.digitaltrustcenter.nl/mogelijke-hack-saxion-verijdeld-door-snel-optreden-na-waarschuwing?datalekt=02b98f6e5d7d660bb82b5008ae3093d3e43a8c400461e62f1b5e0b8de9164c0b",
+        "url": "https://www.digitaltrustcenter.nl/mogelijke-hack-saxion-verijdeld-door-snel-optreden-na-waarschuwing",
+        "title": "Mogelijke hack bij Saxion verijdeld door snelle actie na DTC-waarschuwing",
+        "date_published": "2024-10-10T10:11:00Z",
+        "date_modified": "2024-10-10T10:11:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "digitaltrustcenter.nl"
+        },
+        "content_html": "",
+        "content_text": "Hogeschool Saxion | Onderwijs | 09-10-2024 | DataLekt.nl: Bij Hogeschool Saxion is een potenti\u00eble cyberaanval voorkomen dankzij een snelle reactie op een waarschuwing van het Digital Trust Center (DTC). Deze waarschuwing onthulde dat inloggegevens van medewerkers en studenten mogelijk waren gestolen, wat een risico vormde voor het netwerk van de instelling. Saxion&#039;s IT-team ondernam direct actie door accounts te blokkeren, wachtwoorden te resetten en de betrokken medewerkers op de hoogte te stellen. Uiteindelijk lijkt er geen schade te zijn ontstaan door de tijdige interventie. (Bron: digitaltrustcenter.nl)"
+    },
+    {
+        "id": "https://www.omroepbrabant.nl/nieuws/4568651/gegevens-van-zorginstellingen-op-straat-door-hack?datalekt=08be644565c569c38feec7dc7b3cd826b6b5e410eb001d19716dee4da948929a",
+        "url": "https://www.omroepbrabant.nl/nieuws/4568651/gegevens-van-zorginstellingen-op-straat-door-hack",
+        "title": "Hackers stelen duizenden e-mailadressen bij Eindhovense zorgorganisatie Combinatie Jeugdzorg",
+        "date_published": "2024-10-10T10:10:00Z",
+        "date_modified": "2024-10-10T10:10:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepbrabant.nl"
+        },
+        "content_html": "",
+        "content_text": "Combinatie Jeugdzorg | Gezondheids- en welzijnszorg | 09-10-2024 | DataLekt.nl: Door een hack bij de Eindhovense zorgorganisatie Combinatie Jeugdzorg zijn meer dan tienduizend e-mailadressen van zorginstellingen en bedrijven waarmee de organisatie samenwerkt buitgemaakt. Ook zijn e-mailadressen van cli\u00ebnten getroffen, hoewel dit minder dan 10 procent betreft. De gegevens werden gestolen via een account van een medewerker die niet direct betrokken was bij de zorgverlening. De organisatie heeft het getroffen account direct gesloten om verdere schade te voorkomen en betrokkenen ge\u00efnformeerd. Er is nog geen informatie over de daders of de exacte omvang van de schade. (Bron: omroepbrabant.nl)"
+    },
+    {
+        "id": "https://www.securitymanagement.nl/telefoonnummer-ncsc-misbruikt-voor-telefonische-spoofing-en-oplichting/?datalekt=9b02324a8f73e555b4d60f49ce1cfdb0aa6e9a023478eacd109f1e43bc02e2cf",
+        "url": "https://www.securitymanagement.nl/telefoonnummer-ncsc-misbruikt-voor-telefonische-spoofing-en-oplichting/",
+        "title": "Telefoonnummer ncsc gebruikt voor spoofing in phishingcampagnes",
+        "date_published": "2024-10-10T10:09:00Z",
+        "date_modified": "2024-10-10T10:09:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "securitymanagement.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationaal Cyber Security Centrum (NCSC) | Overheid: Organisatieonderdeel | 08-10-2024 | DataLekt.nl: Het telefoonnummer van het Nationaal Cyber Security Centrum (NCSC) wordt misbruikt in spoofing- en phishingcampagnes, waarbij kwaadwillenden zich voordoen als medewerkers van het NCSC. Slachtoffers worden telefonisch benaderd en onder druk gezet om persoonlijke informatie zoals bankgegevens en wachtwoorden te verstrekken. Het NCSC waarschuwt burgers om voorzichtig te zijn bij onbekende oproepen en geen gevoelige gegevens te delen. Fraudegevallen kunnen gemeld worden bij de Fraudehelpdesk. Slachtoffers worden geadviseerd aangifte te doen bij de politie. (Bron: securitymanagement.nl)"
+    },
+    {
         "id": "https://www.destentor.nl/zutphen/zutphen-beschermt-privacy-van-inwoners-onvoldoende-we-erkennen-dat-ruiterlijk~a795f231/?datalekt=e75cc3ff3ac0b875cd79b31a06e7383eeb817cebbf4911a39f00cdae81cf9fdd",
         "url": "https://www.destentor.nl/zutphen/zutphen-beschermt-privacy-van-inwoners-onvoldoende-we-erkennen-dat-ruiterlijk~a795f231/",
         "title": "Gemeente Zutphen registreert 30 datalekken in 2023 door gebrekkige organisatie van verantwoordelijkheden",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Rotterdam | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: In Rotterdam kunnen persoonsgegevens blootgesteld zijn door een cyberaanval op Addcomm, leverancier van de RBG. Details over de omvang van het datalek zijn nog niet vrijgegeven, maar de dreiging omvat mogelijk gevoelige informatie. Maatregelen en waarschuwingen zijn afgegeven om verdere schade te beperken. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=cf394938bd670bd9fc107eb0489474b8c027ec533377a29e16b63832b806350d",
-        "url": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/",
-        "title": "Schiedamse inwonersdata mogelijk gestolen na cyberincident bij Addcomm",
-        "date_published": "2024-05-26T12:02:00Z",
-        "date_modified": "2024-05-26T12:02:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Schiedam | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: De recente cyberaanval op Addcomm heeft potentieel geleid tot het lekken van persoonlijke data van inwoners van Schiedam. De RBG, die gebruikmaakt van Addcomm voor belastingverwerking, onderzoekt welke gegevens zijn betrokken. Burgers worden aangemoedigd alert te zijn op phishingpogingen. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=985e9c60f403434dee36216373c62928f8d56d1393da854152de3d0a5fdf465e",
-        "url": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/",
-        "title": "Cyberaanval treft persoonsgegevens via belastingdienstleverancier in Vlaardingen",
-        "date_published": "2024-05-26T12:01:00Z",
-        "date_modified": "2024-05-26T12:01:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Vlaardingen | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: Na een cyberaanval op Addcomm, de ICT-leverancier van de Regionale Belasting Groep (RBG), staan persoonsgegevens van inwoners van Vlaardingen mogelijk op straat. Onbekend is nog welke informatie exact is buitgemaakt. Er is een advies uitgegaan om waakzaam te zijn bij het openen van e-mails. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=116fd50079e8081f5bc61b3146ed1766adf5c90c9d8f594bd3748cfe93fa7521",
-        "url": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/",
-        "title": "Regionale Belasting Groep geconfronteerd met ernstig datalek via Addcomm",
-        "date_published": "2024-05-26T12:00:00Z",
-        "date_modified": "2024-05-26T12:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Regionale Belasting Groep | Overheid: Regionale samenwerkingsorganen | 24-05-2024 | DataLekt.nl: De RBG heeft een kritieke situatie door een cyberaanval op hun leverancier Addcomm, met mogelijke diefstal van uitgebreide klantgegevens als gevolg. Dit incident benadrukt de noodzaak van verscherpte digitale beveiliging en voorlichting over cyberveiligheid aan klanten. (Bron: ad.nl)"
     }
 ]
