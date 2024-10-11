@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/?datalekt=a63d95a2e810eb9aab75856050dbb93e5f001eabbb69aba927da8e57b4ba62ed",
+        "url": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/",
+        "title": "Gemeente Den Haag getroffen door phishingaanval via misbruik van drie e-mailaccounts",
+        "date_published": "2024-10-03T11:10:00Z",
+        "date_modified": "2024-10-11T11:37:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Den Haag | Overheid: Gemeenten | 26-09-2024 | DataLekt.nl: Hackers hebben drie e-mailaccounts van de gemeente Den Haag misbruikt om phishingmails te versturen. Deze nepmails bevatten vaak Engelse onderwerpen en lijken betrouwbaar door het gebruik van gemeentelijke adressen en soms zelfs dossiernummers. Ontvangers worden naar een vervalste website geleid, waar hen gevraagd wordt om in te loggen. De gemeente heeft de accounts beveiligd en waarschuwt om deze e-mails te verwijderen. Het incident is gemeld bij de Autoriteit Persoonsgegevens, en er wordt onderzoek gedaan naar de aanval. [Update: D.d. 09-10-2024 is bekend geworden dat bij de hack naast gebruikersnamen en wachtwoorden, ook MFA-tokens zijn buitgemaakt.] (Bron: binnenlandsbestuur.nl)"
+    },
+    {
         "id": "https://www.digitaltrustcenter.nl/mogelijke-hack-saxion-verijdeld-door-snel-optreden-na-waarschuwing?datalekt=02b98f6e5d7d660bb82b5008ae3093d3e43a8c400461e62f1b5e0b8de9164c0b",
         "url": "https://www.digitaltrustcenter.nl/mogelijke-hack-saxion-verijdeld-door-snel-optreden-na-waarschuwing",
         "title": "Mogelijke hack bij Saxion verijdeld door snelle actie na DTC-waarschuwing",
@@ -26,9 +39,9 @@
         "content_text": "Combinatie Jeugdzorg | Gezondheids- en welzijnszorg | 09-10-2024 | DataLekt.nl: Door een hack bij de Eindhovense zorgorganisatie Combinatie Jeugdzorg zijn meer dan tienduizend e-mailadressen van zorginstellingen en bedrijven waarmee de organisatie samenwerkt buitgemaakt. Ook zijn e-mailadressen van cli\u00ebnten getroffen, hoewel dit minder dan 10 procent betreft. De gegevens werden gestolen via een account van een medewerker die niet direct betrokken was bij de zorgverlening. De organisatie heeft het getroffen account direct gesloten om verdere schade te voorkomen en betrokkenen ge\u00efnformeerd. Er is nog geen informatie over de daders of de exacte omvang van de schade. (Bron: omroepbrabant.nl)"
     },
     {
-        "id": "https://www.securitymanagement.nl/telefoonnummer-ncsc-misbruikt-voor-telefonische-spoofing-en-oplichting/?datalekt=9b02324a8f73e555b4d60f49ce1cfdb0aa6e9a023478eacd109f1e43bc02e2cf",
+        "id": "https://www.securitymanagement.nl/telefoonnummer-ncsc-misbruikt-voor-telefonische-spoofing-en-oplichting/?datalekt=97a78d89514ded60b0a58c1643f7ebf33c7c2d5c85f6d212f3521b1049cc5131",
         "url": "https://www.securitymanagement.nl/telefoonnummer-ncsc-misbruikt-voor-telefonische-spoofing-en-oplichting/",
-        "title": "Telefoonnummer ncsc gebruikt voor spoofing in phishingcampagnes",
+        "title": "Telefoonnummer NCSC gebruikt voor spoofing in phishingcampagnes",
         "date_published": "2024-10-10T10:09:00Z",
         "date_modified": "2024-10-10T10:09:00Z",
         "language": "nl-nl",
@@ -115,19 +128,6 @@
         },
         "content_html": "",
         "content_text": "Nationale Politie | Overheid: Politie en brandweer | 02-10-2024 | DataLekt.nl: Een politieman uit Den Haag stond terecht voor het meermaals zonder toestemming opzoeken van informatie in het politiesysteem. Tussen 2019 en 2020 zocht hij naar gegevens over personen uit zijn omgeving en over individuen die werden onderzocht in Brabant. Het Openbaar Ministerie benadrukte dat deze onbevoegde handelingen de politie kwetsbaar maken voor corruptie. De verdachte kreeg een taakstraf van 60 uur opgelegd. De zaak kwam voor de rechter nadat de man weigerde akkoord te gaan met een strafbeschikking. (Bron: beveiligingnieuws.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/?datalekt=f2009ce1525713bf6cf6387d562ccba03aa952c767ef59696247f996b7923f15",
-        "url": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/",
-        "title": "Gemeente Den Haag getroffen door phishingaanval via misbruik van drie e-mailaccounts",
-        "date_published": "2024-10-03T11:10:00Z",
-        "date_modified": "2024-10-03T11:10:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Den Haag | Overheid: Gemeenten | 26-09-2024 | DataLekt.nl: Hackers hebben drie e-mailaccounts van de gemeente Den Haag misbruikt om phishingmails te versturen. Deze nepmails bevatten vaak Engelse onderwerpen en lijken betrouwbaar door het gebruik van gemeentelijke adressen en soms zelfs dossiernummers. Ontvangers worden naar een vervalste website geleid, waar hen gevraagd wordt om in te loggen. De gemeente heeft de accounts beveiligd en waarschuwt om deze e-mails te verwijderen. Het incident is gemeld bij de Autoriteit Persoonsgegevens, en er wordt onderzoek gedaan naar de aanval. (Bron: ad.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=fe79a682ecb385c655b94de58b4b301a04867201a814beffa44d80c4b1f86f40",

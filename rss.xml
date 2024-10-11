@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 10 Oct 2024 12:35:55 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 11 Oct 2024 12:35:40 +0000</lastBuildDate>
 		<item>
 			<title>Mogelijke hack bij Saxion verijdeld door snelle actie na DTC-waarschuwing</title>
 			<link>https://www.digitaltrustcenter.nl/mogelijke-hack-saxion-verijdeld-door-snel-optreden-na-waarschuwing</link>
@@ -25,10 +25,10 @@
 			<pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Telefoonnummer ncsc gebruikt voor spoofing in phishingcampagnes</title>
+			<title>Telefoonnummer NCSC gebruikt voor spoofing in phishingcampagnes</title>
 			<link>https://www.securitymanagement.nl/telefoonnummer-ncsc-misbruikt-voor-telefonische-spoofing-en-oplichting/</link>
 			<description>Nationaal Cyber Security Centrum (NCSC) | Overheid: Organisatieonderdeel | 08-10-2024 | DataLekt.nl: Het telefoonnummer van het Nationaal Cyber Security Centrum (NCSC) wordt misbruikt in spoofing- en phishingcampagnes, waarbij kwaadwillenden zich voordoen als medewerkers van het NCSC. Slachtoffers worden telefonisch benaderd en onder druk gezet om persoonlijke informatie zoals bankgegevens en wachtwoorden te verstrekken. Het NCSC waarschuwt burgers om voorzichtig te zijn bij onbekende oproepen en geen gevoelige gegevens te delen. Fraudegevallen kunnen gemeld worden bij de Fraudehelpdesk. Slachtoffers worden geadviseerd aangifte te doen bij de politie. (Bron: securitymanagement.nl)</description>
-			<guid isPermaLink="false">https://www.securitymanagement.nl/telefoonnummer-ncsc-misbruikt-voor-telefonische-spoofing-en-oplichting/?datalekt=9b02324a8f73e555b4d60f49ce1cfdb0aa6e9a023478eacd109f1e43bc02e2cf</guid>
+			<guid isPermaLink="false">https://www.securitymanagement.nl/telefoonnummer-ncsc-misbruikt-voor-telefonische-spoofing-en-oplichting/?datalekt=97a78d89514ded60b0a58c1643f7ebf33c7c2d5c85f6d212f3521b1049cc5131</guid>
 			<category>Overheid: Organisatieonderdeel </category>
 			<pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -83,8 +83,8 @@
 		<item>
 			<title>Gemeente Den Haag getroffen door phishingaanval via misbruik van drie e-mailaccounts</title>
 			<link>https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/</link>
-			<description>Gemeente Den Haag | Overheid: Gemeenten | 26-09-2024 | DataLekt.nl: Hackers hebben drie e-mailaccounts van de gemeente Den Haag misbruikt om phishingmails te versturen. Deze nepmails bevatten vaak Engelse onderwerpen en lijken betrouwbaar door het gebruik van gemeentelijke adressen en soms zelfs dossiernummers. Ontvangers worden naar een vervalste website geleid, waar hen gevraagd wordt om in te loggen. De gemeente heeft de accounts beveiligd en waarschuwt om deze e-mails te verwijderen. Het incident is gemeld bij de Autoriteit Persoonsgegevens, en er wordt onderzoek gedaan naar de aanval. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/?datalekt=f2009ce1525713bf6cf6387d562ccba03aa952c767ef59696247f996b7923f15</guid>
+			<description>Gemeente Den Haag | Overheid: Gemeenten | 26-09-2024 | DataLekt.nl: Hackers hebben drie e-mailaccounts van de gemeente Den Haag misbruikt om phishingmails te versturen. Deze nepmails bevatten vaak Engelse onderwerpen en lijken betrouwbaar door het gebruik van gemeentelijke adressen en soms zelfs dossiernummers. Ontvangers worden naar een vervalste website geleid, waar hen gevraagd wordt om in te loggen. De gemeente heeft de accounts beveiligd en waarschuwt om deze e-mails te verwijderen. Het incident is gemeld bij de Autoriteit Persoonsgegevens, en er wordt onderzoek gedaan naar de aanval. [Update: D.d. 09-10-2024 is bekend geworden dat bij de hack naast gebruikersnamen en wachtwoorden, ook MFA-tokens zijn buitgemaakt.] (Bron: binnenlandsbestuur.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/?datalekt=a63d95a2e810eb9aab75856050dbb93e5f001eabbb69aba927da8e57b4ba62ed</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
 		</item>
