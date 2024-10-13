@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 11 Oct 2024 12:35:40 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 13 Oct 2024 12:33:46 +0000</lastBuildDate>
+		<item>
+			<title>GGD West-Brabant onderzoekt honderden dossiers na inzet van neparts</title>
+			<link>https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/ggd-controleert-honderden-dossiers-van-kinderen-bij-wie-neparts-betrokken-was</link>
+			<description>GGD West-Brabant | Gezondheids- en welzijnszorg | 10-10-2024 | DataLekt.nl: De GGD West-Brabant heeft een extern onderzoek ingesteld naar honderden dossiers van kinderen die door een neparts zijn behandeld. Deze 30-jarige man werkte vier jaar lang zonder geldige BIG-registratie en was betrokken bij ongeveer 1900 kinderen tussen de 4 en 18 jaar. De GGD heeft aangifte gedaan en onderzoekt samen met de Inspectie Gezondheidszorg en Jeugd (IGJ) mogelijke fouten in de medische dossiers. Er zijn geen signalen dat de man zich schuldig heeft gemaakt aan seksueel grensoverschrijdend gedrag. Het onderzoek richt zich ook op interne procedures rond personeelscontrole. (Bron: medischcontact.nl, omroepbrabant.nl)</description>
+			<guid isPermaLink="false">https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/ggd-controleert-honderden-dossiers-van-kinderen-bij-wie-neparts-betrokken-was?datalekt=9bfda1ee8af7929a168ea6bacf6f133e0a25b549f0dbad16511be156561f74fc</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Mogelijke hack bij Saxion verijdeld door snelle actie na DTC-waarschuwing</title>
 			<link>https://www.digitaltrustcenter.nl/mogelijke-hack-saxion-verijdeld-door-snel-optreden-na-waarschuwing</link>
@@ -765,14 +773,6 @@
 			<link>https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/</link>
 			<description>Gemeente Krimpenerwaard | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: Addcomm, werkzaam voor de RBG, heeft een cyberaanval ondergaan die persoonsgegevens van inwoners van Krimpenerwaard in gevaar kan brengen. Er is onzekerheid over welke data precies gelekt is, maar inwoners dienen extra voorzichtig te zijn met hun digitale communicatie. (Bron: ad.nl)</description>
 			<guid isPermaLink="false">https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=0bb9c020a151abfed915844efeefca99f555df933db3c678624542e2c14f98ed</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bedreigt privacy van Rotterdamse belastingbetalers</title>
-			<link>https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/</link>
-			<description>Gemeente Rotterdam | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: In Rotterdam kunnen persoonsgegevens blootgesteld zijn door een cyberaanval op Addcomm, leverancier van de RBG. Details over de omvang van het datalek zijn nog niet vrijgegeven, maar de dreiging omvat mogelijk gevoelige informatie. Maatregelen en waarschuwingen zijn afgegeven om verdere schade te beperken. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=a3bf1a55bc8c169416f167a111592875982b4a3f2b037353f05983653368f368</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
 		</item>

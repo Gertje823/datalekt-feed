@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/ggd-controleert-honderden-dossiers-van-kinderen-bij-wie-neparts-betrokken-was?datalekt=9bfda1ee8af7929a168ea6bacf6f133e0a25b549f0dbad16511be156561f74fc",
+        "url": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/ggd-controleert-honderden-dossiers-van-kinderen-bij-wie-neparts-betrokken-was",
+        "title": "GGD West-Brabant onderzoekt honderden dossiers na inzet van neparts",
+        "date_published": "2024-10-13T12:35:00Z",
+        "date_modified": "2024-10-13T12:35:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "medischcontact.nl"
+        },
+        "content_html": "",
+        "content_text": "GGD West-Brabant | Gezondheids- en welzijnszorg | 10-10-2024 | DataLekt.nl: De GGD West-Brabant heeft een extern onderzoek ingesteld naar honderden dossiers van kinderen die door een neparts zijn behandeld. Deze 30-jarige man werkte vier jaar lang zonder geldige BIG-registratie en was betrokken bij ongeveer 1900 kinderen tussen de 4 en 18 jaar. De GGD heeft aangifte gedaan en onderzoekt samen met de Inspectie Gezondheidszorg en Jeugd (IGJ) mogelijke fouten in de medische dossiers. Er zijn geen signalen dat de man zich schuldig heeft gemaakt aan seksueel grensoverschrijdend gedrag. Het onderzoek richt zich ook op interne procedures rond personeelscontrole. (Bron: medischcontact.nl, omroepbrabant.nl)"
+    },
+    {
         "id": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/?datalekt=a63d95a2e810eb9aab75856050dbb93e5f001eabbb69aba927da8e57b4ba62ed",
         "url": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/",
         "title": "Gemeente Den Haag getroffen door phishingaanval via misbruik van drie e-mailaccounts",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Krimpenerwaard | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: Addcomm, werkzaam voor de RBG, heeft een cyberaanval ondergaan die persoonsgegevens van inwoners van Krimpenerwaard in gevaar kan brengen. Er is onzekerheid over welke data precies gelekt is, maar inwoners dienen extra voorzichtig te zijn met hun digitale communicatie. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=a3bf1a55bc8c169416f167a111592875982b4a3f2b037353f05983653368f368",
-        "url": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/",
-        "title": "Datalek bedreigt privacy van Rotterdamse belastingbetalers",
-        "date_published": "2024-05-26T12:03:00Z",
-        "date_modified": "2024-05-26T12:03:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Rotterdam | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: In Rotterdam kunnen persoonsgegevens blootgesteld zijn door een cyberaanval op Addcomm, leverancier van de RBG. Details over de omvang van het datalek zijn nog niet vrijgegeven, maar de dreiging omvat mogelijk gevoelige informatie. Maatregelen en waarschuwingen zijn afgegeven om verdere schade te beperken. (Bron: ad.nl)"
     }
 ]
