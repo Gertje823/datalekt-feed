@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=aaeabfb65acc63cd099330e6d3340e61c42a226d80eab7a7d264f0e35234bd15",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Nora Biscuits getroffen door ransomware aanval van de criminele organisatie PLAY",
+        "date_published": "2024-10-15T16:15:00Z",
+        "date_modified": "2024-10-15T16:15:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Nora Biscuits | Industrie | 15-10-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Nora Biscuits heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=1fec4e2b1f634cbd15000b67ba60be8c8ccd83220a5f09b268d68c1f232c1684",
         "url": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt",
         "title": "Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ons Huis Apeldoorn | Verhuur van en handel in onroerend goed | 24-05-2024 | DataLekt.nl: Op 17 mei werd Ons Huis Apeldoorn ge\u00efnformeerd over een datalek bij de leverancier AddComm die ondersteuning biedt bij het versturen van post. Dit lek resulteerde in de mogelijke blootstelling van persoonlijke gegevens van huurders. Er is een onderzoek gestart en maatregelen zijn getroffen om verdere schade te voorkomen. Het exacte aantal betrokken gegevens en huurders is nog onbekend. Huurders ontvangen een brief met informatie en worden op de hoogte gehouden via de website van Ons Huis. (Bron: onshuisapeldoorn.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html?datalekt=c57e679fd5a7949bd062110c937bc431fec8c8f65b4180aaa8c2009f43dee858",
-        "url": "https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html",
-        "title": "Mogelijke datalek bij Waterbedrijf Groningen door ransomwareaanval op AddComm",
-        "date_published": "2024-05-26T12:05:00Z",
-        "date_modified": "2024-05-26T12:05:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Waterbedrijf Groningen | Water, afval- en afvalwaterbeheer en sanering | 25-05-2024 | DataLekt.nl: Waterbedrijf Groningen heeft gemeld dat klantgegevens mogelijk gelekt zijn tijdens een ransomwareaanval op AddComm, een bedrijf dat klantcommunicatie verzorgt. De aanval, die tussen 5 en 17 mei plaatsvond, resulteerde in versleutelde systemen en gestolen data. Het is nog onbekend welke specifieke gegevens zijn buitgemaakt en wie verantwoordelijk is voor de aanval. AddComm heeft cyberbeveiligingsexperts ingeschakeld en werkt aan het herstellen van de systemen. Klanten van Waterbedrijf Groningen zijn geadviseerd om alert te zijn op verdachte e-mails. (Bron: tweakers.net)"
     }
 ]

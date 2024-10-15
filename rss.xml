@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 15 Oct 2024 12:37:06 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 15 Oct 2024 18:25:27 +0000</lastBuildDate>
+		<item>
+			<title>Nora Biscuits getroffen door ransomware aanval van de criminele organisatie PLAY</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Nora Biscuits | Industrie | 15-10-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Nora Biscuits heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=aaeabfb65acc63cd099330e6d3340e61c42a226d80eab7a7d264f0e35234bd15</guid>
+			<category>Industrie </category>
+			<pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>GGD West-Brabant onderzoekt honderden dossiers na inzet van neparts</title>
 			<link>https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/ggd-controleert-honderden-dossiers-van-kinderen-bij-wie-neparts-betrokken-was</link>
@@ -759,14 +767,6 @@
 			<guid isPermaLink="false">https://www.onshuisapeldoorn.nl/over-ons/datalek-bij-een-van-onze-leveranciers/?datalekt=598965fe407f002e16b72c64a93c035fb7265c032ae0b5ef7ad81e9069274e25</guid>
 			<category>Verhuur van en handel in onroerend goed </category>
 			<pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Mogelijke datalek bij Waterbedrijf Groningen door ransomwareaanval op AddComm</title>
-			<link>https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html</link>
-			<description>Waterbedrijf Groningen | Water, afval- en afvalwaterbeheer en sanering | 25-05-2024 | DataLekt.nl: Waterbedrijf Groningen heeft gemeld dat klantgegevens mogelijk gelekt zijn tijdens een ransomwareaanval op AddComm, een bedrijf dat klantcommunicatie verzorgt. De aanval, die tussen 5 en 17 mei plaatsvond, resulteerde in versleutelde systemen en gestolen data. Het is nog onbekend welke specifieke gegevens zijn buitgemaakt en wie verantwoordelijk is voor de aanval. AddComm heeft cyberbeveiligingsexperts ingeschakeld en werkt aan het herstellen van de systemen. Klanten van Waterbedrijf Groningen zijn geadviseerd om alert te zijn op verdachte e-mails. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/222338/klantgegevens-waterbedrijf-groningen-mogelijk-gelekt-bij-cyberaanval-addcomm.html?datalekt=c57e679fd5a7949bd062110c937bc431fec8c8f65b4180aaa8c2009f43dee858</guid>
-			<category>Water, afval- en afvalwaterbeheer en sanering </category>
-			<pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
