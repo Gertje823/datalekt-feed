@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=1fec4e2b1f634cbd15000b67ba60be8c8ccd83220a5f09b268d68c1f232c1684",
+        "url": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt",
+        "title": "Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties",
+        "date_published": "2024-05-24T09:46:00Z",
+        "date_modified": "2024-10-15T10:46:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "telegraaf.nl"
+        },
+        "content_html": "",
+        "content_text": "AddComm | Informatie en communicatie | 23-05-2024 | DataLekt.nl: AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 14 oktober 2024 is bekend geworden dat AddComm \u20ac400.000 aan losgeld heeft betaald om de systemen te herstellen. In totaal zijn 16.625 inwoners, bedrijven en 50 gemeenten getroffen door de aanval.] (Bron: telegraaf.nl, ibestuur.nl)"
+    },
+    {
         "id": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/ggd-controleert-honderden-dossiers-van-kinderen-bij-wie-neparts-betrokken-was?datalekt=9bfda1ee8af7929a168ea6bacf6f133e0a25b549f0dbad16511be156561f74fc",
         "url": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/ggd-controleert-honderden-dossiers-van-kinderen-bij-wie-neparts-betrokken-was",
         "title": "GGD West-Brabant onderzoekt honderden dossiers na inzet van neparts",
@@ -13,7 +26,7 @@
         "content_text": "GGD West-Brabant | Gezondheids- en welzijnszorg | 10-10-2024 | DataLekt.nl: De GGD West-Brabant heeft een extern onderzoek ingesteld naar honderden dossiers van kinderen die door een neparts zijn behandeld. Deze 30-jarige man werkte vier jaar lang zonder geldige BIG-registratie en was betrokken bij ongeveer 1900 kinderen tussen de 4 en 18 jaar. De GGD heeft aangifte gedaan en onderzoekt samen met de Inspectie Gezondheidszorg en Jeugd (IGJ) mogelijke fouten in de medische dossiers. Er zijn geen signalen dat de man zich schuldig heeft gemaakt aan seksueel grensoverschrijdend gedrag. Het onderzoek richt zich ook op interne procedures rond personeelscontrole. (Bron: medischcontact.nl, omroepbrabant.nl)"
     },
     {
-        "id": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/?datalekt=a63d95a2e810eb9aab75856050dbb93e5f001eabbb69aba927da8e57b4ba62ed",
+        "id": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/?datalekt=d78b8a3d412745361ad3d1e7a84a674d5d8ce0bc976eca7429e49840b9fe7eda",
         "url": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/",
         "title": "Gemeente Den Haag getroffen door phishingaanval via misbruik van drie e-mailaccounts",
         "date_published": "2024-10-03T11:10:00Z",
@@ -23,7 +36,7 @@
             "name": "ad.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Den Haag | Overheid: Gemeenten | 26-09-2024 | DataLekt.nl: Hackers hebben drie e-mailaccounts van de gemeente Den Haag misbruikt om phishingmails te versturen. Deze nepmails bevatten vaak Engelse onderwerpen en lijken betrouwbaar door het gebruik van gemeentelijke adressen en soms zelfs dossiernummers. Ontvangers worden naar een vervalste website geleid, waar hen gevraagd wordt om in te loggen. De gemeente heeft de accounts beveiligd en waarschuwt om deze e-mails te verwijderen. Het incident is gemeld bij de Autoriteit Persoonsgegevens, en er wordt onderzoek gedaan naar de aanval. [Update: D.d. 09-10-2024 is bekend geworden dat bij de hack naast gebruikersnamen en wachtwoorden, ook MFA-tokens zijn buitgemaakt.] (Bron: binnenlandsbestuur.nl)"
+        "content_text": "Gemeente Den Haag | Overheid: Gemeenten | 26-09-2024 | DataLekt.nl: Hackers hebben drie e-mailaccounts van de gemeente Den Haag misbruikt om phishingmails te versturen. Deze nepmails bevatten vaak Engelse onderwerpen en lijken betrouwbaar door het gebruik van gemeentelijke adressen en soms zelfs dossiernummers. Ontvangers worden naar een vervalste website geleid, waar hen gevraagd wordt om in te loggen. De gemeente heeft de accounts beveiligd en waarschuwt om deze e-mails te verwijderen. Het incident is gemeld bij de Autoriteit Persoonsgegevens, en er wordt onderzoek gedaan naar de aanval. [Update: d.d. 9 oktober 2024 is bekend geworden dat bij de hack naast gebruikersnamen en wachtwoorden, ook MFA-tokens zijn buitgemaakt.] (Bron: binnenlandsbestuur.nl)"
     },
     {
         "id": "https://www.digitaltrustcenter.nl/mogelijke-hack-saxion-verijdeld-door-snel-optreden-na-waarschuwing?datalekt=02b98f6e5d7d660bb82b5008ae3093d3e43a8c400461e62f1b5e0b8de9164c0b",
@@ -702,7 +715,7 @@
         "content_text": "Athlon Car Lease | Verhuur van roerende goederen en overige zakelijke dienstverlening | 11-07-2024 | DataLekt.nl: De criminele organisatie Vanir Group heeft op het darkweb aangekondigd dat zij Athlon Car Lease heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e902021210248d4d30f0162ebf4f62b6d326a15d174cbcaa30f8207dc4725341",
+        "id": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e300ba4ed2d4f1aaae0204d22e47868b66c4fa578c57a4a0af47afd5494d8c78",
         "url": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht",
         "title": "Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek",
         "date_published": "2024-04-13T12:01:00Z",
@@ -712,7 +725,7 @@
             "name": "binnenlandsbestuur.nl"
         },
         "content_html": "",
-        "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&#039;s en paspoortkopie\u00ebn toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en noodmaatregelen voor beveiliging toegepast. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. [Update: D.d. 12 juli 2024 is bekend geworden dat het om 50 miljoen documenten gaat en dat het nog 1,5 jaar duurt voordat het lek definitief opgelost is.] (Bron: binnenlandsbestuur.nl)"
+        "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&#039;s en paspoortkopie\u00ebn toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en noodmaatregelen voor beveiliging toegepast. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. [Update: d.d. 12 juli 2024 is bekend geworden dat het om 50 miljoen documenten gaat en dat het nog 1,5 jaar duurt voordat het lek definitief opgelost is.] (Bron: binnenlandsbestuur.nl)"
     },
     {
         "id": "https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/?datalekt=2c630d45b704c62f0ee2ee9abe390ff5ac7f61b9af49c1e1c9509306537df4ef",
@@ -767,7 +780,7 @@
         "content_text": "NOAB | Overige dienstverlening | 08-07-2024 | DataLekt.nl: De criminele organisatie Lockbit3 heeft op het darkweb aangekondigd dat zij NOAB heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/?datalekt=98b814301fe65d8ac93d2045059f607d0cddfcd9f4cf85bd5a846349df395490",
+        "id": "https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/?datalekt=f889fc93c361568cf031dff080cd888cf1a609a227baad68cf7cf120eaa18ab0",
         "url": "https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/",
         "title": "Datalek bij Hogeschool van Arnhem en Nijmegen treft half miljoen mensen",
         "date_published": "2021-10-01T00:00:00Z",
@@ -777,7 +790,7 @@
             "name": "erasmusmagazine.nl"
         },
         "content_html": "",
-        "content_text": "Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 03-09-2021 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) heeft een groot datalek onderzocht dat op 1 september aan het licht kwam. Een hacker verkreeg toegang tot gegevens van studenten, medewerkers en andere contacten via een webformulier. Hoewel de HAN weigerde losgeld te betalen, werden de gegevens online gepubliceerd. Het merendeel van de gelekte gegevens betrof algemene persoonsinformatie, maar in sommige gevallen ging het om gevoelige data zoals BSN-nummers en politieke voorkeuren. De HAN heeft haar excuses aangeboden en informeert de getroffenen over het incident. [Update: D.d. 6 juli 2024 is bekend geworden dat 5 studenten een schadevergoeding van in totaal \u20ac 1800.] (Bron: erasmusmagazine.nl)"
+        "content_text": "Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 03-09-2021 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) heeft een groot datalek onderzocht dat op 1 september aan het licht kwam. Een hacker verkreeg toegang tot gegevens van studenten, medewerkers en andere contacten via een webformulier. Hoewel de HAN weigerde losgeld te betalen, werden de gegevens online gepubliceerd. Het merendeel van de gelekte gegevens betrof algemene persoonsinformatie, maar in sommige gevallen ging het om gevoelige data zoals BSN-nummers en politieke voorkeuren. De HAN heeft haar excuses aangeboden en informeert de getroffenen over het incident. [Update: d.d. 6 juli 2024 is bekend geworden dat 5 studenten een schadevergoeding van in totaal \u20ac 1800.] (Bron: erasmusmagazine.nl, tweakers.net)"
     },
     {
         "id": "https://tweakers.net/nieuws/224006/schoolboekenleverancier-iddink-meldt-opnieuw-datalek.html?datalekt=16f7db64ba697f1709ae9f26a27595398a57c3d7188f068bcb603bf5cd6cd565",
@@ -949,7 +962,7 @@
         "content_text": "Verkeersboete.nl | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 22-05-2024 | DataLekt.nl: In Zoetermeer heeft Verkeersboete.nl per ongeluk een hoeveelheid correspondentie met het OM en het Centraal Justitieel Incassobureau in een open afvalcontainer gedeponeerd, wat leidde tot verspreiding van documenten over straat. Het incident werd beschreven als een menselijke fout, versterkt door een verbouwing. Hoewel de woordvoerder stelt dat er geen privacygevoelige informatie is aangetroffen, worden betrokkenen op de hoogte gebracht van de datalekprocedure indien nodig. De Autoriteit Persoonsgegevens benadrukt de ernst van dergelijke datalekken. (Bron: nos.nl)"
     },
     {
-        "id": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=aaf1e972c4c724bf9d0092662fea8656153d59518f30c3a1a0ece4008eddb019",
+        "id": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=7113163e3e229889cbdb94660a742854d8c156e3bef4c8d808c3ae019d423e77",
         "url": "https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/",
         "title": "Ransomware-aanval treft gemeente Groningen",
         "date_published": "2024-06-03T12:30:00Z",
@@ -959,7 +972,7 @@
             "name": "oogtv.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | DataLekt.nl: De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. [Update: d.d. 11 juni 2024 is bekend geworden dat het om 102 burgers gaat.] (Bron: oogtv.nl)"
+        "content_text": "Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | DataLekt.nl: De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. [Update: d.d. 10 juni 2024 is bekend geworden dat het om 102 burgers gaat.] (Bron: oogtv.nl)"
     },
     {
         "id": "https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt?datalekt=6a023d98436bd2d7145a1f8018a4458f667759debdfecf9accaa78a73fa36d88",
@@ -1183,7 +1196,7 @@
         "content_text": "Kadaster | Overheid: Zelfstandige bestuursorganen | 29-05-2024 | DataLekt.nl: Tussen augustus 2020 en april 2024 waren bijna vierduizend geheime adressen zichtbaar door een fout in de systemen van het Kadaster, specifiek binnen MijnOverheid. Een deel van de gebruikers kon hierdoor adressen van mede-eigenaren van onroerend goed inzien, wat in bepaalde gevallen privacyproblemen veroorzaakte. Nadat het probleem in oktober 2023 voor het eerst gemeld werd, zijn de betreffende gegevens in april 2024 afgeschermd. Het Kadaster heeft de Autoriteit Persoonsgegevens ge\u00efnformeerd en de betrokkenen op de hoogte gesteld. (Bron: nu.nl)"
     },
     {
-        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=f6755669dacd966eed56c4f3567f043f295caf956ed3858b450d1213869e441c",
+        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=5ddc38ee2ce35191d761ed8271268efe3721dbf5911ce741f8fee5fa6635d0e9",
         "url": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek",
         "title": "Aanzienlijke hack bij ID&amp;amp;T leidt tot taakstraf en schadevergoeding",
         "date_published": "2024-04-25T11:59:00Z",
@@ -1193,10 +1206,10 @@
             "name": "nos.nl"
         },
         "content_html": "",
-        "content_text": "ID&amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl)"
+        "content_text": "ID&amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)"
     },
     {
-        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=0d7da466ad740f192c6a891421c71a37491189ab257a71dfd124bcc1eb2ac979",
+        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=b154bacd9a7c74c8f2eba0972b384cac0973d80a9729e4671c5bd74c95c9503e",
         "url": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek",
         "title": "Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding",
         "date_published": "2024-04-25T12:00:00Z",
@@ -1206,7 +1219,7 @@
             "name": "nos.nl"
         },
         "content_html": "",
-        "content_text": "Support Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl)"
+        "content_text": "Support Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)"
     },
     {
         "id": "https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=bbd4e35b45fd734a57c7b5b394fe50fd105e29312b5e71c5840753bbcc11880c",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Waterbedrijf Groningen | Water, afval- en afvalwaterbeheer en sanering | 25-05-2024 | DataLekt.nl: Waterbedrijf Groningen heeft gemeld dat klantgegevens mogelijk gelekt zijn tijdens een ransomwareaanval op AddComm, een bedrijf dat klantcommunicatie verzorgt. De aanval, die tussen 5 en 17 mei plaatsvond, resulteerde in versleutelde systemen en gestolen data. Het is nog onbekend welke specifieke gegevens zijn buitgemaakt en wie verantwoordelijk is voor de aanval. AddComm heeft cyberbeveiligingsexperts ingeschakeld en werkt aan het herstellen van de systemen. Klanten van Waterbedrijf Groningen zijn geadviseerd om alert te zijn op verdachte e-mails. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/?datalekt=0bb9c020a151abfed915844efeefca99f555df933db3c678624542e2c14f98ed",
-        "url": "https://www.ad.nl/rotterdam/persoonsgegevens-van-inwoners-uit-gemeenten-rotterdamse-regio-op-straat-na-cyberaanval~a8dcbbe0/",
-        "title": "Krimpenerwaard getroffen door datalek na cyberaanval",
-        "date_published": "2024-05-26T12:04:00Z",
-        "date_modified": "2024-05-26T12:04:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Krimpenerwaard | Overheid: Gemeenten | 24-05-2024 | DataLekt.nl: Addcomm, werkzaam voor de RBG, heeft een cyberaanval ondergaan die persoonsgegevens van inwoners van Krimpenerwaard in gevaar kan brengen. Er is onzekerheid over welke data precies gelekt is, maar inwoners dienen extra voorzichtig te zijn met hun digitale communicatie. (Bron: ad.nl)"
     }
 ]
