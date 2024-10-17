@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/862431/AP+wil+opheldering+van+politie+over+niet+verwijderen+verzamelde+gegevens?datalekt=724d9500e4c97a1ade647517ee2080cf5a5ff2c5b29c01285fd64522bdf5f3de",
+        "url": "https://www.security.nl/posting/862431/AP+wil+opheldering+van+politie+over+niet+verwijderen+verzamelde+gegevens",
+        "title": "AP vraagt politie om opheldering over niet verwijderen van gegevens",
+        "date_published": "2024-10-17T12:43:00Z",
+        "date_modified": "2024-10-17T12:43:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 17-10-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft de politie om uitleg gevraagd over het niet verwijderen van verzamelde gegevens van miljoenen burgers, wat in strijd is met de Wet politiegegevens (Wpg). De politie zou deze gegevens na tien jaar moeten wissen, maar heeft dit nooit gedaan uit angst voor het hinderen van cold case-onderzoeken. De AP noemt dit &quot;extra zorgelijk&quot; en heeft om opheldering gevraagd. Dit incident benadrukt de spanning tussen privacybelangen en misdaadbestrijding. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=aaeabfb65acc63cd099330e6d3340e61c42a226d80eab7a7d264f0e35234bd15",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Nora Biscuits getroffen door ransomware aanval van de criminele organisatie PLAY",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "WarmteStad | Elektriciteit, aardgas, stoom en gekoelde lucht | 24-05-2024 | DataLekt.nl: Addcomm, een leverancier van WarmteStad, is onlangs gehackt. Het bedrijf onderzoekt of klantgegevens mogelijk zijn gelekt. Als voorzorgsmaatregel is het klantportaal van WarmteStad tijdelijk offline gehaald, waardoor klanten niet online kunnen inloggen of betalingen verrichten. Klanten worden geadviseerd voorzichtig te zijn met e-mails van onbekende afzenders en contact op te nemen bij twijfels over de authenticiteit van communicatie van WarmteStad. (Bron: warmtestad.nl)"
-    },
-    {
-        "id": "https://www.onshuisapeldoorn.nl/over-ons/datalek-bij-een-van-onze-leveranciers/?datalekt=598965fe407f002e16b72c64a93c035fb7265c032ae0b5ef7ad81e9069274e25",
-        "url": "https://www.onshuisapeldoorn.nl/over-ons/datalek-bij-een-van-onze-leveranciers/",
-        "title": "Datalek bij leverancier treft huurders van Ons Huis Apeldoorn",
-        "date_published": "2024-05-27T10:24:00Z",
-        "date_modified": "2024-05-27T10:24:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "onshuisapeldoorn.nl"
-        },
-        "content_html": "",
-        "content_text": "Ons Huis Apeldoorn | Verhuur van en handel in onroerend goed | 24-05-2024 | DataLekt.nl: Op 17 mei werd Ons Huis Apeldoorn ge\u00efnformeerd over een datalek bij de leverancier AddComm die ondersteuning biedt bij het versturen van post. Dit lek resulteerde in de mogelijke blootstelling van persoonlijke gegevens van huurders. Er is een onderzoek gestart en maatregelen zijn getroffen om verdere schade te voorkomen. Het exacte aantal betrokken gegevens en huurders is nog onbekend. Huurders ontvangen een brief met informatie en worden op de hoogte gehouden via de website van Ons Huis. (Bron: onshuisapeldoorn.nl)"
     }
 ]

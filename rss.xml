@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 15 Oct 2024 18:25:27 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 17 Oct 2024 12:36:52 +0000</lastBuildDate>
+		<item>
+			<title>AP vraagt politie om opheldering over niet verwijderen van gegevens</title>
+			<link>https://www.security.nl/posting/862431/AP+wil+opheldering+van+politie+over+niet+verwijderen+verzamelde+gegevens</link>
+			<description>Nationale Politie | Overheid: Politie en brandweer | 17-10-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft de politie om uitleg gevraagd over het niet verwijderen van verzamelde gegevens van miljoenen burgers, wat in strijd is met de Wet politiegegevens (Wpg). De politie zou deze gegevens na tien jaar moeten wissen, maar heeft dit nooit gedaan uit angst voor het hinderen van cold case-onderzoeken. De AP noemt dit &amp;quot;extra zorgelijk&amp;quot; en heeft om opheldering gevraagd. Dit incident benadrukt de spanning tussen privacybelangen en misdaadbestrijding. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/862431/AP+wil+opheldering+van+politie+over+niet+verwijderen+verzamelde+gegevens?datalekt=724d9500e4c97a1ade647517ee2080cf5a5ff2c5b29c01285fd64522bdf5f3de</guid>
+			<category>Overheid: Politie en brandweer </category>
+			<pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Nora Biscuits getroffen door ransomware aanval van de criminele organisatie PLAY</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -758,14 +766,6 @@
 			<description>WarmteStad | Elektriciteit, aardgas, stoom en gekoelde lucht | 24-05-2024 | DataLekt.nl: Addcomm, een leverancier van WarmteStad, is onlangs gehackt. Het bedrijf onderzoekt of klantgegevens mogelijk zijn gelekt. Als voorzorgsmaatregel is het klantportaal van WarmteStad tijdelijk offline gehaald, waardoor klanten niet online kunnen inloggen of betalingen verrichten. Klanten worden geadviseerd voorzichtig te zijn met e-mails van onbekende afzenders en contact op te nemen bij twijfels over de authenticiteit van communicatie van WarmteStad. (Bron: warmtestad.nl)</description>
 			<guid isPermaLink="false">https://warmtestad.nl/nieuws/hack-bij-leverancier-van-warmtestad?datalekt=42f2d6497821e6c636e00644a833293c3d2d0bfdf14c48a1e8b29a416a2125b0</guid>
 			<category>Elektriciteit, aardgas, stoom en gekoelde lucht </category>
-			<pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij leverancier treft huurders van Ons Huis Apeldoorn</title>
-			<link>https://www.onshuisapeldoorn.nl/over-ons/datalek-bij-een-van-onze-leveranciers/</link>
-			<description>Ons Huis Apeldoorn | Verhuur van en handel in onroerend goed | 24-05-2024 | DataLekt.nl: Op 17 mei werd Ons Huis Apeldoorn geïnformeerd over een datalek bij de leverancier AddComm die ondersteuning biedt bij het versturen van post. Dit lek resulteerde in de mogelijke blootstelling van persoonlijke gegevens van huurders. Er is een onderzoek gestart en maatregelen zijn getroffen om verdere schade te voorkomen. Het exacte aantal betrokken gegevens en huurders is nog onbekend. Huurders ontvangen een brief met informatie en worden op de hoogte gehouden via de website van Ons Huis. (Bron: onshuisapeldoorn.nl)</description>
-			<guid isPermaLink="false">https://www.onshuisapeldoorn.nl/over-ons/datalek-bij-een-van-onze-leveranciers/?datalekt=598965fe407f002e16b72c64a93c035fb7265c032ae0b5ef7ad81e9069274e25</guid>
-			<category>Verhuur van en handel in onroerend goed </category>
 			<pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
