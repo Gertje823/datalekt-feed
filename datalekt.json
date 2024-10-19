@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.l1nieuws.nl/nieuws/2775241/hackers-stelen-78000-euro-van-ols-organisatie-in-beekdaelen?datalekt=a8e8fb82df79a5081c3a802238d207918ee372af1afe5dea00af6ea24204f8e8",
+        "url": "https://www.l1nieuws.nl/nieuws/2775241/hackers-stelen-78000-euro-van-ols-organisatie-in-beekdaelen",
+        "title": "Hackers stelen 78.000 euro van OLS-organisatie in Beekdaelen via phishing",
+        "date_published": "2024-10-19T17:38:00Z",
+        "date_modified": "2024-10-19T17:38:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "l1nieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Oud Limburgs Schuttersfeest (OLS) | Cultuur, sport en recreatie | 19-10-2024 | DataLekt.nl: Hackers hebben via een phishingaanval 78.000 euro gestolen van de organisatie van het Oud Limburgs Schuttersfeest (OLS) in Beekdaelen. De aanvallers gebruikten valse e-mails om de organisatie te misleiden en betalingen om te leiden naar hun eigen rekening. Er zijn geen aanwijzingen dat de gegevens van andere betrokkenen, zoals leden of bezoekers, zijn buitgemaakt. De aanval leidde tot aanzienlijke financi\u00eble schade voor de organisatie. Er wordt onderzoek gedaan naar de herkomst van de phishingmails en mogelijke betrokkenheid van criminele groepen. (Bron: l1nieuws.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/858180/Schadeloket+Groningen+heeft+databescherming+nog+niet+volledig+op+orde?datalekt=ecffd2cb3e3e5b0e7ca76a1ceaa1adf6043fc14131133a8028bccdfe0fa46629",
         "url": "https://www.security.nl/posting/858180/Schadeloket+Groningen+heeft+databescherming+nog+niet+volledig+op+orde",
         "title": "Instituut Mijnbouwschade Groningen (IMG) kampt met tekortkomingen in databescherming",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Vattenfall | Elektriciteit, aardgas, stoom en gekoelde lucht | 27-05-2024 | DataLekt.nl: Vattenfall heeft een waarschuwing uitgegeven aan zijn klanten na een datalek bij AddComm, die de papieren communicatie verzorgt. Dit incident, veroorzaakt door een ransomware-aanval op 17 mei, heeft mogelijk klantgegevens blootgesteld. Vattenfall is bezig met het informeren van getroffen klanten en heeft maatregelen genomen om verdere schade te voorkomen. Het bedrijf benadrukt dat er tot op heden geen misbruik van de data is gemeld. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/842885/ABN+Amro%2C+Staedion%2C+Waterbedrijf+Groningen%2C+RBG+en+WMD+melden+mogelijk+datalek?datalekt=4500cfd65b6bb0375da8c5974a88499cb7a0667c9064b317351f400e05e0b356",
-        "url": "https://www.security.nl/posting/842885/ABN+Amro%2C+Staedion%2C+Waterbedrijf+Groningen%2C+RBG+en+WMD+melden+mogelijk+datalek",
-        "title": "WMD rapporteert potentieel datalek door cyberaanval op AddComm",
-        "date_published": "2024-05-27T13:44:00Z",
-        "date_modified": "2024-05-27T13:44:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Waterleidingmaatschappij Drenthe (WMD) | Water, afval- en afvalwaterbeheer en sanering | 26-05-2024 | DataLekt.nl: Waterbedrijf Drenthe (WMD) heeft een datalek gemeld na een ransomware-aanval op hun dienstverlener AddComm. Deze aanval heeft mogelijk geleid tot de ongeautoriseerde toegang tot persoonsgegevens van klanten, waaronder namen, adressen en contactinformatie. WMD werkt nauw samen met autoriteiten om de impact te beoordelen en heeft maatregelen getroffen om verdere schade te voorkomen. Het aantal getroffen klanten is nog in onderzoek. (Bron: security.nl)"
     }
 ]
