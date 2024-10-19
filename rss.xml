@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 17 Oct 2024 12:36:52 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 19 Oct 2024 12:34:15 +0000</lastBuildDate>
+		<item>
+			<title>Instituut Mijnbouwschade Groningen (IMG) kampt met tekortkomingen in databescherming</title>
+			<link>https://www.security.nl/posting/858180/Schadeloket+Groningen+heeft+databescherming+nog+niet+volledig+op+orde</link>
+			<description>Instituut Mijnbouwschade Groningen (IMG) | Overheid: Zelfstandige bestuursorganen | 16-09-2024 | DataLekt.nl: Het Instituut Mijnbouwschade Groningen (IMG), verantwoordelijk voor de afhandeling van schadeclaims door mijnbouwactiviteiten in de regio, heeft zijn databescherming nog niet volledig op orde. Uit een recent onderzoek blijkt dat gevoelige persoonsgegevens van burgers onvoldoende beveiligd zijn. Ondanks eerdere waarschuwingen zijn de noodzakelijke maatregelen voor een betere beveiliging nog niet volledig geïmplementeerd, wat mogelijke risico&amp;#039;s oplevert voor de betrokkenen. Er zijn nog geen meldingen van datamisbruik, maar de situatie blijft zorgwekkend voor de getroffen burgers. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/858180/Schadeloket+Groningen+heeft+databescherming+nog+niet+volledig+op+orde?datalekt=ecffd2cb3e3e5b0e7ca76a1ceaa1adf6043fc14131133a8028bccdfe0fa46629</guid>
+			<category>Overheid: Zelfstandige bestuursorganen </category>
+			<pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>AP vraagt politie om opheldering over niet verwijderen van gegevens</title>
 			<link>https://www.security.nl/posting/862431/AP+wil+opheldering+van+politie+over+niet+verwijderen+verzamelde+gegevens</link>
@@ -758,14 +766,6 @@
 			<description>Waterleidingmaatschappij Drenthe (WMD) | Water, afval- en afvalwaterbeheer en sanering | 26-05-2024 | DataLekt.nl: Waterbedrijf Drenthe (WMD) heeft een datalek gemeld na een ransomware-aanval op hun dienstverlener AddComm. Deze aanval heeft mogelijk geleid tot de ongeautoriseerde toegang tot persoonsgegevens van klanten, waaronder namen, adressen en contactinformatie. WMD werkt nauw samen met autoriteiten om de impact te beoordelen en heeft maatregelen getroffen om verdere schade te voorkomen. Het aantal getroffen klanten is nog in onderzoek. (Bron: security.nl)</description>
 			<guid isPermaLink="false">https://www.security.nl/posting/842885/ABN+Amro%2C+Staedion%2C+Waterbedrijf+Groningen%2C+RBG+en+WMD+melden+mogelijk+datalek?datalekt=4500cfd65b6bb0375da8c5974a88499cb7a0667c9064b317351f400e05e0b356</guid>
 			<category>Water, afval- en afvalwaterbeheer en sanering </category>
-			<pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval treft leverancier van WarmteStad</title>
-			<link>https://warmtestad.nl/nieuws/hack-bij-leverancier-van-warmtestad</link>
-			<description>WarmteStad | Elektriciteit, aardgas, stoom en gekoelde lucht | 24-05-2024 | DataLekt.nl: Addcomm, een leverancier van WarmteStad, is onlangs gehackt. Het bedrijf onderzoekt of klantgegevens mogelijk zijn gelekt. Als voorzorgsmaatregel is het klantportaal van WarmteStad tijdelijk offline gehaald, waardoor klanten niet online kunnen inloggen of betalingen verrichten. Klanten worden geadviseerd voorzichtig te zijn met e-mails van onbekende afzenders en contact op te nemen bij twijfels over de authenticiteit van communicatie van WarmteStad. (Bron: warmtestad.nl)</description>
-			<guid isPermaLink="false">https://warmtestad.nl/nieuws/hack-bij-leverancier-van-warmtestad?datalekt=42f2d6497821e6c636e00644a833293c3d2d0bfdf14c48a1e8b29a416a2125b0</guid>
-			<category>Elektriciteit, aardgas, stoom en gekoelde lucht </category>
 			<pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
