@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 19 Oct 2024 18:22:58 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 20 Oct 2024 18:23:08 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Almere lekt privégegevens van 1500 inwoners door menselijke fout</title>
+			<link>https://www.omroepflevoland.nl/nieuws/401064/privegegevens-van-ruim-1500-almeerders-gelekt-door-fout-gemeente</link>
+			<description>Gemeente Almere | Overheid: Gemeenten | 18-10-2024 | DataLekt.nl: De gemeente Almere heeft door een menselijke fout de privégegevens van meer dan 1500 inwoners gelekt. Dit incident ontstond toen vertrouwelijke gegevens per ongeluk werden verstuurd naar een verkeerd e-mailadres. De gegevens omvatten onder andere adressen en telefoonnummers, waardoor de privacy van deze inwoners in het geding is. De gemeente onderzoekt het lek en neemt maatregelen om herhaling te voorkomen. Er is nog geen melding gemaakt van misbruik van de gegevens. (Bron: omroepflevoland.nl)</description>
+			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/401064/privegegevens-van-ruim-1500-almeerders-gelekt-door-fout-gemeente?datalekt=6549205e8de95529d4afb9319130250518cb1684aa5f530a3cd2f44faa3ffb7d</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Hackers stelen 78.000 euro van OLS-organisatie in Beekdaelen via phishing</title>
 			<link>https://www.l1nieuws.nl/nieuws/2775241/hackers-stelen-78000-euro-van-ols-organisatie-in-beekdaelen</link>
@@ -757,14 +765,6 @@
 			<link>https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm</link>
 			<description>Essent | Elektriciteit, aardgas, stoom en gekoelde lucht | 27-05-2024 | DataLekt.nl: Essent heeft zijn klanten geïnformeerd over een datalek bij AddComm na een ransomware-aanval op 17 mei. De leverancier, die zorgt voor de verzending van facturen en communicatie, onderzoekt nog welke gegevens zijn gelekt. Essent heeft direct alle dataverbindingen met AddComm onderbroken en relevante autoriteiten ingelicht. Getroffen klanten zullen persoonlijk worden benaderd om hen te informeren over de situatie. Er zijn nog geen aanwijzingen van misbruik van de data. (Bron: security.nl)</description>
 			<guid isPermaLink="false">https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=bbd4e35b45fd734a57c7b5b394fe50fd105e29312b5e71c5840753bbcc11880c</guid>
-			<category>Elektriciteit, aardgas, stoom en gekoelde lucht </category>
-			<pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Vattenfall klanten getroffen door datalek bij dienstverlener AddComm</title>
-			<link>https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm</link>
-			<description>Vattenfall | Elektriciteit, aardgas, stoom en gekoelde lucht | 27-05-2024 | DataLekt.nl: Vattenfall heeft een waarschuwing uitgegeven aan zijn klanten na een datalek bij AddComm, die de papieren communicatie verzorgt. Dit incident, veroorzaakt door een ransomware-aanval op 17 mei, heeft mogelijk klantgegevens blootgesteld. Vattenfall is bezig met het informeren van getroffen klanten en heeft maatregelen genomen om verdere schade te voorkomen. Het bedrijf benadrukt dat er tot op heden geen misbruik van de data is gemeld. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=92cc9f69c66ebbc5abcb8b556b76cf553042b0cafc50745b56341afffc53bf45</guid>
 			<category>Elektriciteit, aardgas, stoom en gekoelde lucht </category>
 			<pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
 		</item>
