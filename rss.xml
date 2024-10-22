@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 20 Oct 2024 18:23:08 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 22 Oct 2024 18:25:13 +0000</lastBuildDate>
+		<item>
+			<title>Vodafone beboet voor ontoereikende beveiliging van aftapvoorziening</title>
+			<link>https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening</link>
+			<description>Vodafone Nederland | Informatie en communicatie | 21-10-2024 | DataLekt.nl: Vodafone Nederland heeft een boete van 3,48 miljoen euro ontvangen wegens het onvoldoende beveiligen van zijn aftapvoorziening. De toezichthouder oordeelde dat de telecomprovider niet voldaan heeft aan de wettelijke eisen voor het beveiligen van de systemen waarmee justitie en inlichtingendiensten communicatie kunnen aftappen. Dit bracht risico’s met zich mee voor de veiligheid van de informatie, wat ernstige gevolgen had kunnen hebben voor de privacy van gebruikers. De boete is opgelegd door de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening?datalekt=810518896a92e6d462ae51641866cc5a28f89ec73258e92a0453d14c27a199e2</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Almere lekt privégegevens van 1500 inwoners door menselijke fout</title>
 			<link>https://www.omroepflevoland.nl/nieuws/401064/privegegevens-van-ruim-1500-almeerders-gelekt-door-fout-gemeente</link>
@@ -147,8 +155,8 @@
 		<item>
 			<title>Vodafone krijgt boete opgelegd door RDI van 160.000 voor verkeerd verwerken van klantgegevens</title>
 			<link>https://tweakers.net/nieuws/227034/vodafone-krijgt-boete-van-160000-euro-voor-onjuist-verwerken-van-klantgegevens.html</link>
-			<description>VodafoneZiggo | Informatie en communicatie | 27-09-2024 | DataLekt.nl: Vodafone heeft een boete van 160.000 euro van Rijksinspectie Digitale Infrastructuur (RDI) gekregen wegens het onjuist verwerken van klantgegevens. Het incident werd veroorzaakt doordat Vodafone onvoldoende beveiligingsmaatregelen had getroffen bij het verwerken van persoonlijke informatie, wat leidde tot de mogelijkheid van datalekken. De boete is opgelegd door de Autoriteit Persoonsgegevens en heeft betrekking op meerdere gevallen waarbij klantgegevens foutief werden verwerkt, wat resulteerde in een risico voor de privacy van klanten. Er zijn geen aanwijzingen dat kwaadwillenden misbruik hebben gemaakt van de situatie. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/227034/vodafone-krijgt-boete-van-160000-euro-voor-onjuist-verwerken-van-klantgegevens.html?datalekt=4a5251c1f35d5f9dae99d4ed4e4b0f8a0e190af94e8f0e713fd2ef33c058fe66</guid>
+			<description>Vodafone Nederland | Informatie en communicatie | 27-09-2024 | DataLekt.nl: Vodafone heeft een boete van 160.000 euro van Rijksinspectie Digitale Infrastructuur (RDI) gekregen wegens het onjuist verwerken van klantgegevens. Het incident werd veroorzaakt doordat Vodafone onvoldoende beveiligingsmaatregelen had getroffen bij het verwerken van persoonlijke informatie, wat leidde tot de mogelijkheid van datalekken. De boete is opgelegd door de Autoriteit Persoonsgegevens en heeft betrekking op meerdere gevallen waarbij klantgegevens foutief werden verwerkt, wat resulteerde in een risico voor de privacy van klanten. Er zijn geen aanwijzingen dat kwaadwillenden misbruik hebben gemaakt van de situatie. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/227034/vodafone-krijgt-boete-van-160000-euro-voor-onjuist-verwerken-van-klantgegevens.html?datalekt=6cef5f91ebdd2eb3ae083b106cd1da29d9f011901378ca673ad4044fe9a53e7c</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -761,14 +769,6 @@
 			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Essent klanten mogelijk getroffen door datalek bij AddComm</title>
-			<link>https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm</link>
-			<description>Essent | Elektriciteit, aardgas, stoom en gekoelde lucht | 27-05-2024 | DataLekt.nl: Essent heeft zijn klanten geïnformeerd over een datalek bij AddComm na een ransomware-aanval op 17 mei. De leverancier, die zorgt voor de verzending van facturen en communicatie, onderzoekt nog welke gegevens zijn gelekt. Essent heeft direct alle dataverbindingen met AddComm onderbroken en relevante autoriteiten ingelicht. Getroffen klanten zullen persoonlijk worden benaderd om hen te informeren over de situatie. Er zijn nog geen aanwijzingen van misbruik van de data. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/842955/Essent+en+Vattenfall+waarschuwen+klanten+voor+datalek+bij+AddComm?datalekt=bbd4e35b45fd734a57c7b5b394fe50fd105e29312b5e71c5840753bbcc11880c</guid>
-			<category>Elektriciteit, aardgas, stoom en gekoelde lucht </category>
-			<pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
 			<link>https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt</link>
 			<description>AddComm | Informatie en communicatie | 23-05-2024 | DataLekt.nl: AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 14 oktober 2024 is bekend geworden dat AddComm €400.000 aan losgeld heeft betaald om de systemen te herstellen. In totaal zijn 16.625 inwoners, bedrijven en 50 gemeenten getroffen door de aanval.] (Bron: telegraaf.nl, ibestuur.nl)</description>
@@ -779,16 +779,16 @@
 		<item>
 			<title>Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding</title>
 			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
-			<description>Support Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=b154bacd9a7c74c8f2eba0972b384cac0973d80a9729e4671c5bd74c95c9503e</guid>
+			<description>Support Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=d08c3e8224a5c6d749f8e2b6233b6b698c9d2f4553137f2619dcdbfeb2c8b78d</guid>
 			<category>Cultuur, sport en recreatie </category>
 			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Aanzienlijke hack bij ID&amp;amp;amp;T leidt tot taakstraf en schadevergoeding</title>
+			<title>Aanzienlijke hack bij ID&amp;amp;T leidt tot taakstraf en schadevergoeding</title>
 			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
-			<description>ID&amp;amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=5ddc38ee2ce35191d761ed8271268efe3721dbf5911ce741f8fee5fa6635d0e9</guid>
+			<description>ID&amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=cdc1a2c2fa0db9b0010f515443af6abb60b549b46319414f94f65d0a15e592bc</guid>
 			<category>Cultuur, sport en recreatie </category>
 			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
