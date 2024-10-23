@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/204756/politie-krijgt-boete-wegens-privacyschendingen-bij-inzet-camera-autos-rotterdam.html?datalekt=e41af31f662f6af8ae5effd45def97a2272531d2b31bddabb46b505d6c5cd3cc",
+        "url": "https://tweakers.net/nieuws/204756/politie-krijgt-boete-wegens-privacyschendingen-bij-inzet-camera-autos-rotterdam.html",
+        "title": "Politie beboet voor privacyschending met camera-auto&#039;s in Rotterdam",
+        "date_published": "2022-12-21T00:00:00Z",
+        "date_modified": "2024-10-23T16:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Politie Rotterdam | Overheid: Politie en brandweer | 21-12-2022 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft de Nederlandse politie een boete opgelegd van 50.000 euro vanwege privacyschendingen. In 2020 werden tijdens de coronatijd in Rotterdam camera-auto&#039;s ingezet. Echter, de privacyrisico&#039;s hiervan waren niet volledig geanalyseerd en er zijn te veel beelden verzameld. Dit heeft geleid tot zorgen over de bescherming van persoonsgegevens van burgers. [Update: d.d. 23-10-2024 is de boete door de rechter verlaagd naar \u20ac 30.000.] (Bron: tweakers.net)"
+    },
+    {
         "id": "https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening?datalekt=810518896a92e6d462ae51641866cc5a28f89ec73258e92a0453d14c27a199e2",
         "url": "https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening",
         "title": "Vodafone beboet voor ontoereikende beveiliging van aftapvoorziening",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "ID&amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=b154bacd9a7c74c8f2eba0972b384cac0973d80a9729e4671c5bd74c95c9503e",
-        "url": "https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek",
-        "title": "Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding",
-        "date_published": "2024-04-25T12:00:00Z",
-        "date_modified": "2024-05-27T22:04:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Support Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van \u20ac97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van \u20ac 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)"
     }
 ]

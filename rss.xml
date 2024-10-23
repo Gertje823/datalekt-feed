@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 23 Oct 2024 12:36:37 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 23 Oct 2024 18:25:14 +0000</lastBuildDate>
 		<item>
 			<title>Vodafone beboet voor ontoereikende beveiliging van aftapvoorziening</title>
 			<link>https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening</link>
@@ -777,14 +777,6 @@
 			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding</title>
-			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
-			<description>Support Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=b154bacd9a7c74c8f2eba0972b384cac0973d80a9729e4671c5bd74c95c9503e</guid>
-			<category>Cultuur, sport en recreatie </category>
-			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Aanzienlijke hack bij ID&amp;amp;amp;T leidt tot taakstraf en schadevergoeding</title>
 			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
 			<description>ID&amp;amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
@@ -799,6 +791,14 @@
 			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e300ba4ed2d4f1aaae0204d22e47868b66c4fa578c57a4a0af47afd5494d8c78</guid>
 			<category>Overheid: Provincies </category>
 			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Politie beboet voor privacyschending met camera-auto&amp;#039;s in Rotterdam</title>
+			<link>https://tweakers.net/nieuws/204756/politie-krijgt-boete-wegens-privacyschendingen-bij-inzet-camera-autos-rotterdam.html</link>
+			<description>Politie Rotterdam | Overheid: Politie en brandweer | 21-12-2022 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft de Nederlandse politie een boete opgelegd van 50.000 euro vanwege privacyschendingen. In 2020 werden tijdens de coronatijd in Rotterdam camera-auto&amp;#039;s ingezet. Echter, de privacyrisico&amp;#039;s hiervan waren niet volledig geanalyseerd en er zijn te veel beelden verzameld. Dit heeft geleid tot zorgen over de bescherming van persoonsgegevens van burgers. [Update: d.d. 23-10-2024 is de boete door de rechter verlaagd naar € 30.000.] (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/204756/politie-krijgt-boete-wegens-privacyschendingen-bij-inzet-camera-autos-rotterdam.html?datalekt=e41af31f662f6af8ae5effd45def97a2272531d2b31bddabb46b505d6c5cd3cc</guid>
+			<category>Overheid: Politie en brandweer </category>
+			<pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Datalek bij Hogeschool van Arnhem en Nijmegen treft half miljoen mensen</title>
