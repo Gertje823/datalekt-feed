@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 22 Oct 2024 18:25:13 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 23 Oct 2024 12:36:37 +0000</lastBuildDate>
 		<item>
 			<title>Vodafone beboet voor ontoereikende beveiliging van aftapvoorziening</title>
 			<link>https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening</link>
@@ -17,10 +17,10 @@
 			<pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Gemeente Almere lekt privégegevens van 1500 inwoners door menselijke fout</title>
+			<title>Gemeente Almere lekt privégegevens van 1550 inwoners door fout in herinneringsbrief</title>
 			<link>https://www.omroepflevoland.nl/nieuws/401064/privegegevens-van-ruim-1500-almeerders-gelekt-door-fout-gemeente</link>
-			<description>Gemeente Almere | Overheid: Gemeenten | 18-10-2024 | DataLekt.nl: De gemeente Almere heeft door een menselijke fout de privégegevens van meer dan 1500 inwoners gelekt. Dit incident ontstond toen vertrouwelijke gegevens per ongeluk werden verstuurd naar een verkeerd e-mailadres. De gegevens omvatten onder andere adressen en telefoonnummers, waardoor de privacy van deze inwoners in het geding is. De gemeente onderzoekt het lek en neemt maatregelen om herhaling te voorkomen. Er is nog geen melding gemaakt van misbruik van de gegevens. (Bron: omroepflevoland.nl)</description>
-			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/401064/privegegevens-van-ruim-1500-almeerders-gelekt-door-fout-gemeente?datalekt=6549205e8de95529d4afb9319130250518cb1684aa5f530a3cd2f44faa3ffb7d</guid>
+			<description>Gemeente Almere | Overheid: Gemeenten | 18-10-2024 | DataLekt.nl: Door een fout van de gemeente Almere zijn de privégegevens van 1550 inwoners gelekt. Het incident ontstond toen een herinneringsbrief over het verlopen van paspoorten werd verstuurd, waarbij per ongeluk op de achterkant de gegevens van een andere inwoner waren afgedrukt. Ook zijn de gevoelige persoonsgegevens van vijf cliënten van een zorginstelling per ongeluk gedeeld in reactie op een Woo-verzoek. Beide lekken zijn gemeld bij de Autoriteit Persoonsgegevens, en de gemeente onderzoekt maatregelen om herhaling te voorkomen. (Bron: omroepflevoland.nl)</description>
+			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/401064/privegegevens-van-ruim-1500-almeerders-gelekt-door-fout-gemeente?datalekt=1e4142434913064ddd088c188cf88db003eeb633850f3039cacc3dbd151d6e38</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -779,16 +779,16 @@
 		<item>
 			<title>Aanzienlijke hack bij Support Group leidt tot taakstraf en schadevergoeding</title>
 			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
-			<description>Support Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=d08c3e8224a5c6d749f8e2b6233b6b698c9d2f4553137f2619dcdbfeb2c8b78d</guid>
+			<description>Support Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor Support Group en ID&amp;amp;amp;T Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=b154bacd9a7c74c8f2eba0972b384cac0973d80a9729e4671c5bd74c95c9503e</guid>
 			<category>Cultuur, sport en recreatie </category>
 			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Aanzienlijke hack bij ID&amp;amp;T leidt tot taakstraf en schadevergoeding</title>
+			<title>Aanzienlijke hack bij ID&amp;amp;amp;T leidt tot taakstraf en schadevergoeding</title>
 			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
-			<description>ID&amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=cdc1a2c2fa0db9b0010f515443af6abb60b549b46319414f94f65d0a15e592bc</guid>
+			<description>ID&amp;amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=5ddc38ee2ce35191d761ed8271268efe3721dbf5911ce741f8fee5fa6635d0e9</guid>
 			<category>Cultuur, sport en recreatie </category>
 			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
