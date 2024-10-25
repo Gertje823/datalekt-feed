@@ -7,7 +7,47 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 23 Oct 2024 18:25:14 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 25 Oct 2024 18:25:11 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Velsen lekt e-mailadressen door phishingaanval op medewerker</title>
+			<link>https://www.security.nl/posting/863555/Gemeente+Velsen+lekte+e-mailadressen+van+honderden+inwoners</link>
+			<description>Gemeente Velsen | Overheid: Gemeenten | 25-10-2024 | DataLekt.nl: Door een phishingaanval hebben hackers toegang gekregen tot een interne mailbox van de gemeente Velsen. Een medewerker trapte in een e-mail van een gecompromitteerde organisatie, waardoor aanvallers 48 uur toegang hadden en actief e-mail- en mogelijk telefooninformatie van inwoners konden inzien. Het datalek vond plaats op 24 september, maar betrokken inwoners ontvingen pas op 21 oktober bericht. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/863555/Gemeente+Velsen+lekte+e-mailadressen+van+honderden+inwoners?datalekt=e8fb21a3d75cd684500d3fc471305592768c4cc839ea0740594f9081af8acefe</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Alphen aan den Rijn stuurt duizenden brieven met foutieve gegevens door datalek</title>
+			<link>https://www.omroepwest.nl/nieuws/4893242/gemeente-blundert-weer-duizenden-brieven-met-verkeerde-informatie-verstuurd</link>
+			<description>Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 23-10-2024 | DataLekt.nl: De gemeente Alphen aan den Rijn heeft door een menselijke fout ongeveer 3000 brieven verstuurd met onjuiste bedrijfs- en persoonsnamen, terwijl adressen wel correct waren. De fout, die verband houdt met communicatie over de zero-emissiezone, werd gemeld als datalek bij de Autoriteit Persoonsgegevens. Het is de derde keer dat de gemeente soortgelijke fouten maakt, waarvoor aanvullende maatregelen worden aangekondigd om herhaling te voorkomen. Ontvangers krijgen gecorrigeerde brieven. (Bron: omroepwest.nl)</description>
+			<guid isPermaLink="false">https://www.omroepwest.nl/nieuws/4893242/gemeente-blundert-weer-duizenden-brieven-met-verkeerde-informatie-verstuurd?datalekt=de9f8fa9582b5de57ba09efedb00733990726b6835f4957ceeec6314e221b62e</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Vakantieparken schenden privacyregels bij toegang met gezichtsherkenning</title>
+			<link>https://beveiligingnieuws.nl/vakantieparken-passen-gebruik-gezichtsherkenning-aan/</link>
+			<description>8 vakantieparken | Cultuur, sport en recreatie | 23-10-2024 | DataLekt.nl: Acht vakantieparken in Nederland maakten onterecht gebruik van gezichtsherkenning voor toegang tot faciliteiten zoals zwembaden, zonder de juiste toestemming van bezoekers, volgens onderzoek door de Autoriteit Persoonsgegevens (AP). Zeven parken hebben hun aanpak inmiddels aangepast, maar één park voldoet nog niet aan de wettelijke eisen en riskeert een boete of dwangsom. Het onderzoek volgde op meldingen van burgers die zich ongemakkelijk voelden over de verplichte biometrische identificatie. De AP benadrukt dat gezichtsherkenning enkel onder strenge voorwaarden mag worden toegepast. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/vakantieparken-passen-gebruik-gezichtsherkenning-aan/?datalekt=c3bb174ea20399b40ab8920c6fcfae0e21c0f90b3ecb2efc7c7d76d80e609fe8</guid>
+			<category>Cultuur, sport en recreatie </category>
+			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>OM-medewerkers schenden integriteit door criminele banden en lekken van vertrouwelijke gegevens in 2021</title>
+			<link>https://beveiligingnieuws.nl/ernstige-misstanden-bij-om-medewerkers-geconstateerd/</link>
+			<description>Openbaar Ministerie (OM) | Overheid: Organisatieonderdeel | 23-10-2024 | DataLekt.nl: In 2021 onderzocht het Openbaar Ministerie (OM) 27 gevallen van integriteitsschendingen waarbij medewerkers onder andere betrokken waren bij datalekken van vertrouwelijke informatie naar contacten in criminele netwerken, en het verduisteren van een in beslag genomen laptop met strafbaar materiaal. Dit leidde tot disciplinaire acties en maatregelen om de interne integriteit te versterken. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/ernstige-misstanden-bij-om-medewerkers-geconstateerd/?datalekt=32cfdccb712ef8ec1a23d2418cb4d639a67e703e01ddf5638a8a02e2907f4b52</guid>
+			<category>Overheid: Organisatieonderdeel </category>
+			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Autoriteit Persoonsgegevens meldt 178 gijzelsoftware-aanvallen in 2023</title>
+			<link>https://www.nrc.nl/nieuws/2024/10/22/autoriteit-persoonsgegevens-vorig-jaar-zeker-178-geslaagde-aanvallen-met-gijzelsoftware-a4870223</link>
+			<description>178 organisaties | Overige dienstverlening | 22-10-2024 | DataLekt.nl: In 2023 registreerde de Autoriteit Persoonsgegevens (AP) minstens 178 succesvolle ransomware-aanvallen, waarbij persoonsgegevens van miljoenen Nederlanders zijn buitgemaakt. Een kwart van de aanvallen betrof multinationals, en twee derde van de getroffen organisaties had zwakke beveiliging, zoals ontbrekende tweetrapsverificatie. Criminelen gebruikten vaak &amp;quot;dubbele afpersing&amp;quot; en verhandelden de gestolen data, wat leidde tot gerichte oplichting. In meer dan 90% van de gevallen is er niet tot het betalen van losgeld overgegaan. De AP wijst op grote risico’s door onvoldoende beveiliging. (Bron: nrc.nl)</description>
+			<guid isPermaLink="false">https://www.nrc.nl/nieuws/2024/10/22/autoriteit-persoonsgegevens-vorig-jaar-zeker-178-geslaagde-aanvallen-met-gijzelsoftware-a4870223?datalekt=7a92362a7a7c21b5e7b34a2bf78ba9f95bef43db982270d7a555b1ef2164b920</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Vodafone beboet voor ontoereikende beveiliging van aftapvoorziening</title>
 			<link>https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening</link>
@@ -737,52 +777,12 @@
 			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Cyberaanval op Addcomm heeft gevolgen voor Ons Huis</title>
-			<link>https://www.computable.nl/2024/05/27/aanval-op-addcomm-raakt-ook-nutsbedrijven-en-woningcooperaties/</link>
-			<description>Ons Huis | Verhuur van en handel in onroerend goed | 27-05-2024 | DataLekt.nl: Ons Huis, als klant van Addcomm, ondervond hinder door een ransomware-aanval op deze dienstverlener in mei 2024. De aanval leidde tot het versleutelen van gegevens en verstoorde de communicatiediensten. Belangrijk voor Ons Huis en vergelijkbare instellingen was de noodzaak om bewoners te waarschuwen voor mogelijke phishing als gevolg van de gelekte gegevens. De aanval is momenteel onderwerp van onderzoek en Addcomm heeft de nodige autoriteiten ingelicht. (Bron: computable.nl)</description>
-			<guid isPermaLink="false">https://www.computable.nl/2024/05/27/aanval-op-addcomm-raakt-ook-nutsbedrijven-en-woningcooperaties/?datalekt=97beedb4b23544e1eb614503679d6a701d33a2e4f949b5402808d92a0923ef71</guid>
-			<category>Verhuur van en handel in onroerend goed </category>
-			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Deventer restaurant The Lemon Tree gehackt en Instagram-account gecompromitteerd</title>
-			<link>https://www.destentor.nl/deventer/verdriet-bij-eigenaar-deventer-restaurant-nadat-hackers-toeslaan-meeste-hebben-we-niet-bewaard~ac336517/</link>
-			<description>The Lemon Tree | Logies-, maaltijd- en drankverstrekking | 26-05-2024 | DataLekt.nl: Het Deventer restaurant The Lemon Tree werd getroffen door een hackaanval op hun populaire Instagram-account met 67.000 volgers, een belangrijk communicatiemiddel voor het restaurant. De hackers, die zich vanuit een buitenlands nummer meldden, eisten €500 voor het teruggeven van het account. Restaurant eigenaar Valentijn Bergers koos ervoor niet te betalen nadat hij advies had ingewonnen, ondanks het verlies van waardevolle foto&amp;#039;s van kooksessies en activiteiten tijdens de coronapandemie. Bergers vermoedt dat de inbraak gebeurde door een nepmail. Er zijn geen klantgegevens gestolen. (Bron: destentor.nl)</description>
-			<guid isPermaLink="false">https://www.destentor.nl/deventer/verdriet-bij-eigenaar-deventer-restaurant-nadat-hackers-toeslaan-meeste-hebben-we-niet-bewaard~ac336517/?datalekt=abaa7baacc80bbf436beb8085507b4c49970e96ce028e6129dc7a2e9e491df2f</guid>
-			<category>Logies-, maaltijd- en drankverstrekking </category>
-			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Eneco klantgegevens mogelijk gestolen bij Addcomm cyberaanval</title>
-			<link>https://www.techzine.nl/blogs/security/547023/hackers-stelen-mogelijk-klantgegevens-abn-amro-en-andere-instanties-via-ransomware-aanval/</link>
-			<description>Eneco | Elektriciteit, aardgas, stoom en gekoelde lucht | 29-05-2024 | DataLekt.nl: Bij een ransomware-aanval op Addcomm zijn mogelijk klantgegevens van Eneco en andere instanties gestolen. De aanval, die in mei plaatsvond, heeft geleid tot een ernstige verstoring van de diensten. Eneco heeft aangegeven dat de integriteit van klantgegevens mogelijk is aangetast en onderzoekt de omvang van de inbreuk. De aanval heeft bij Addcomm geleid tot data-encryptie en dataverlies. Er is nog geen specifieke informatie over de financiële schade of het exacte aantal getroffen klanten van Eneco. (Bron: techzine.nl)</description>
-			<guid isPermaLink="false">https://www.techzine.nl/blogs/security/547023/hackers-stelen-mogelijk-klantgegevens-abn-amro-en-andere-instanties-via-ransomware-aanval/?datalekt=caba5d99fe234c79bc2be9d44d5e273c1396953881337c719e2479acbe84e13e</guid>
-			<category>Elektriciteit, aardgas, stoom en gekoelde lucht </category>
-			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Kadaster onthuldt 4000 geheime adressen</title>
-			<link>https://www.nu.nl/binnenland/6314735/datalek-kadaster-bijna-4000-geheime-adressen-niet-goed-afgeschermd.html</link>
-			<description>Kadaster | Overheid: Zelfstandige bestuursorganen | 29-05-2024 | DataLekt.nl: Tussen augustus 2020 en april 2024 waren bijna vierduizend geheime adressen zichtbaar door een fout in de systemen van het Kadaster, specifiek binnen MijnOverheid. Een deel van de gebruikers kon hierdoor adressen van mede-eigenaren van onroerend goed inzien, wat in bepaalde gevallen privacyproblemen veroorzaakte. Nadat het probleem in oktober 2023 voor het eerst gemeld werd, zijn de betreffende gegevens in april 2024 afgeschermd. Het Kadaster heeft de Autoriteit Persoonsgegevens geïnformeerd en de betrokkenen op de hoogte gesteld. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/binnenland/6314735/datalek-kadaster-bijna-4000-geheime-adressen-niet-goed-afgeschermd.html?datalekt=2b2c0f37ae8402877ee24d719443ab519315f370b4d7f54b95b75440b3d6438d</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
 			<link>https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt</link>
 			<description>AddComm | Informatie en communicatie | 23-05-2024 | DataLekt.nl: AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 14 oktober 2024 is bekend geworden dat AddComm €400.000 aan losgeld heeft betaald om de systemen te herstellen. In totaal zijn 16.625 inwoners, bedrijven en 50 gemeenten getroffen door de aanval.] (Bron: telegraaf.nl, ibestuur.nl)</description>
 			<guid isPermaLink="false">https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=1fec4e2b1f634cbd15000b67ba60be8c8ccd83220a5f09b268d68c1f232c1684</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Aanzienlijke hack bij ID&amp;amp;amp;T leidt tot taakstraf en schadevergoeding</title>
-			<link>https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek</link>
-			<description>ID&amp;amp;amp;T Group | Cultuur, sport en recreatie | 23-04-2024 | DataLekt.nl: Een 28-jarige man uit Amsterdam staat terecht voor het hacken van het systeem Evi, ontwikkeld door NextSelect voor ID&amp;amp;amp;T Group en Support Group, waardoor persoonlijke gegevens van honderdduizenden betrokkenen uitlekten. De aanval, die plaatsvond in de zomer van 2022, betrof een ernstige schending van de beveiliging, waaronder slecht gevolgde veiligheidsprotocollen. De man verkreeg ongeautoriseerde toegang en kopieerde data, wat resulteerde in een totale schadeclaim van €97.000. De officier van justitie benadrukt de ernst van de zaak, ondanks de bekentenis en spijtbetuiging van de dader. [Update: d.d. 7 mei 2024 is de man veroordeeld tot het betalen van € 37.000 schadevergoeding en 240 uur werkstraf.] (Bron: nos.nl, tweakers.net)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2517912-cel-geeist-om-hack-bij-festivalorganisator-id-and-t-geen-kwajongensstreek?datalekt=5ddc38ee2ce35191d761ed8271268efe3721dbf5911ce741f8fee5fa6635d0e9</guid>
-			<category>Cultuur, sport en recreatie </category>
-			<pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek</title>
