@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.parool.nl/amsterdam/dijkgraaf-waterschap-ik-had-eerder-moeten-vertellen-over-salarissen-directie-waternet~b6a3dc2e/?datalekt=7987ad73f967dc5689062d3428bf56895837bb7640b0f99eb07335e1e33bd953",
+        "url": "https://www.parool.nl/amsterdam/dijkgraaf-waterschap-ik-had-eerder-moeten-vertellen-over-salarissen-directie-waternet~b6a3dc2e/",
+        "title": "Waternet meldt datalek van privacygevoelige informatie aan AP",
+        "date_published": "2024-10-27T11:31:00Z",
+        "date_modified": "2024-10-27T11:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "parool.nl"
+        },
+        "content_html": "",
+        "content_text": "Waternet | Overheid: Waterschappen | 25-10-2024 | DataLekt.nl: Waternet heeft een datalek gemeld bij de Autoriteit Persoonsgegevens nadat privacygevoelige informatie over salarisstructuren en mogelijke belangenverstrengeling in de top naar de pers was gelekt. Dijkgraaf Joyce Sylvester uitte haar bezorgdheid over een cultuur waarin medewerkers niet vrij lijken om misstanden aan te kaarten. Er is een forensisch onderzoek gestart om de details en gevolgen van het datalek te achterhalen. (Bron: parool.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/863555/Gemeente+Velsen+lekte+e-mailadressen+van+honderden+inwoners?datalekt=e8fb21a3d75cd684500d3fc471305592768c4cc839ea0740594f9081af8acefe",
         "url": "https://www.security.nl/posting/863555/Gemeente+Velsen+lekte+e-mailadressen+van+honderden+inwoners",
         "title": "Gemeente Velsen lekt e-mailadressen door phishingaanval op medewerker",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 29-05-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) zal vijf jaar toezicht houden op de Belastingdienst vanwege bezorgdheid over het Risico Analyse Model dat gebruikt werd voor toezicht en fraudebestrijding. Er waren twijfels over de rechtmatigheid en juistheid van de opgeslagen data. Dit toezichtsarrangement beoogt een duurzame verbetering van de bescherming van persoonsgegevens. Jaarlijkse evaluaties zullen plaatsvinden om de vorderingen te beoordelen en verdere acties te bepalen. (Bron: dutchitchannel.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm?datalekt=12053417ad439866badea9bdb4c83bb051f0ae309ed9468c5fbbf7d75b1dac82",
-        "url": "https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm",
-        "title": "Ransomware-aanval op AddComm treft Dunea klanten",
-        "date_published": "2024-06-03T12:25:00Z",
-        "date_modified": "2024-06-03T12:25:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Dunea | Water, afval- en afvalwaterbeheer en sanering | 28-05-2024 | DataLekt.nl: Drinkwaterbedrijf Dunea, leverancier van drinkwater aan bijna 1,4 miljoen mensen in West-Nederland, meldt een ransomware-aanval op hun dienstverlener AddComm. Deze aanval leidde tot diefstal van klantgegevens bij AddComm, die voor meerdere organisaties communicatiediensten verzorgt. Dunea heeft na de ontdekking de samenwerking met AddComm tijdelijk stopgezet en preventieve maatregelen getroffen, waaronder een melding bij de Autoriteit Persoonsgegevens. Er zijn geen gegevens van Dunea gelekt. AddComm heeft onderhandeld met de criminelen om de gestolen gegevens niet te publiceren. (Bron: security.nl)"
     }
 ]

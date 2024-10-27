@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 25 Oct 2024 18:25:11 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 27 Oct 2024 12:33:50 +0000</lastBuildDate>
+		<item>
+			<title>Waternet meldt datalek van privacygevoelige informatie aan AP</title>
+			<link>https://www.parool.nl/amsterdam/dijkgraaf-waterschap-ik-had-eerder-moeten-vertellen-over-salarissen-directie-waternet~b6a3dc2e/</link>
+			<description>Waternet | Overheid: Waterschappen | 25-10-2024 | DataLekt.nl: Waternet heeft een datalek gemeld bij de Autoriteit Persoonsgegevens nadat privacygevoelige informatie over salarisstructuren en mogelijke belangenverstrengeling in de top naar de pers was gelekt. Dijkgraaf Joyce Sylvester uitte haar bezorgdheid over een cultuur waarin medewerkers niet vrij lijken om misstanden aan te kaarten. Er is een forensisch onderzoek gestart om de details en gevolgen van het datalek te achterhalen. (Bron: parool.nl)</description>
+			<guid isPermaLink="false">https://www.parool.nl/amsterdam/dijkgraaf-waterschap-ik-had-eerder-moeten-vertellen-over-salarissen-directie-waternet~b6a3dc2e/?datalekt=7987ad73f967dc5689062d3428bf56895837bb7640b0f99eb07335e1e33bd953</guid>
+			<category>Overheid: Waterschappen </category>
+			<pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Velsen lekt e-mailadressen door phishingaanval op medewerker</title>
 			<link>https://www.security.nl/posting/863555/Gemeente+Velsen+lekte+e-mailadressen+van+honderden+inwoners</link>
@@ -766,14 +774,6 @@
 			<description>Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | DataLekt.nl: De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. [Update: d.d. 10 juni 2024 is bekend geworden dat het om 102 burgers gaat.] (Bron: oogtv.nl)</description>
 			<guid isPermaLink="false">https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=7113163e3e229889cbdb94660a742854d8c156e3bef4c8d808c3ae019d423e77</guid>
 			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ransomware-aanval op AddComm treft Dunea klanten</title>
-			<link>https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm</link>
-			<description>Dunea | Water, afval- en afvalwaterbeheer en sanering | 28-05-2024 | DataLekt.nl: Drinkwaterbedrijf Dunea, leverancier van drinkwater aan bijna 1,4 miljoen mensen in West-Nederland, meldt een ransomware-aanval op hun dienstverlener AddComm. Deze aanval leidde tot diefstal van klantgegevens bij AddComm, die voor meerdere organisaties communicatiediensten verzorgt. Dunea heeft na de ontdekking de samenwerking met AddComm tijdelijk stopgezet en preventieve maatregelen getroffen, waaronder een melding bij de Autoriteit Persoonsgegevens. Er zijn geen gegevens van Dunea gelekt. AddComm heeft onderhandeld met de criminelen om de gestolen gegevens niet te publiceren. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/843221/Drinkwaterbedrijf+Dunea+licht+klanten+in+over+ransomware-aanval+AddComm?datalekt=12053417ad439866badea9bdb4c83bb051f0ae309ed9468c5fbbf7d75b1dac82</guid>
-			<category>Water, afval- en afvalwaterbeheer en sanering </category>
 			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
