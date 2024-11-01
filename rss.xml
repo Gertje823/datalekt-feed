@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 27 Oct 2024 12:33:50 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 01 Nov 2024 12:35:28 +0000</lastBuildDate>
+		<item>
+			<title>AP legde Experian in 2023 boete en dwangsom op vanwege privacywet-overtreding</title>
+			<link>https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html</link>
+			<description>Experian | Verhuur van roerende goederen en overige zakelijke dienstverlening | 31-10-2024 | DataLekt.nl: In 2023 heeft de Autoriteit Persoonsgegevens (AP) Experian, een Iers kredietinformatiebedrijf, een boete en dwangsom opgelegd wegens het schenden van de AVG. Experian verzamelde zonder gerechtvaardigd belang persoonsgegevens voor commerciële doeleinden en informeerde betrokkenen onjuist. Hoewel het exacte boetebedrag niet bekend is, kan het volgens het Financieel Dagblad oplopen tot vier procent van Experians wereldwijde omzet. Het bedrijf vecht de sancties aan en stelt dat de AP’s strikte interpretatie van de AVG afwijkt van andere Europese landen. Het recente oordeel van het Europees Hof bekritiseert de strikte aanpak van de AP. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html?datalekt=032913b01e225608e512a82a180f5459a4eb3edb6cdc4a97a6403d3361ab7d4c</guid>
+			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
+			<pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Lefier stuurt onterecht facturen naar 5.600 huurders door systeemfout</title>
+			<link>https://www.oogtv.nl/2024/10/lefier-stuurt-per-ongeluk-factuur-naar-duizenden-huurders-voor-maanden-aan-huurkosten/</link>
+			<description>Lefier | Verhuur van en handel in onroerend goed | 30-10-2024 | DataLekt.nl: Woningcorporatie Lefier heeft door een fout in haar systeem per ongeluk facturen verstuurd naar 5.600 huurders voor huurkosten over meerdere maanden. De fout ontstond tijdens een test voor systeemverbeteringen, waarbij onjuiste facturen werden verzonden. Lefier heeft snel ingegrepen om de fout te herstellen en benadrukt dat er geen datalek heeft plaatsgevonden. Huurders die mogelijk onterecht hebben betaald, krijgen hun geld binnen een dag terug om financiële problemen te voorkomen. De organisatie stuurt deze week een excuusbrief naar de betrokken huurders. (Bron: oogtv.nl)</description>
+			<guid isPermaLink="false">https://www.oogtv.nl/2024/10/lefier-stuurt-per-ongeluk-factuur-naar-duizenden-huurders-voor-maanden-aan-huurkosten/?datalekt=955b55027363d2047191cb6cc2e8a8f68bacb29c08d525f0afd189b51e0a8ce3</guid>
+			<category>Verhuur van en handel in onroerend goed </category>
+			<pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Waternet meldt datalek van privacygevoelige informatie aan AP</title>
 			<link>https://www.parool.nl/amsterdam/dijkgraaf-waterschap-ik-had-eerder-moeten-vertellen-over-salarissen-directie-waternet~b6a3dc2e/</link>
@@ -751,22 +767,6 @@
 			<guid isPermaLink="false">https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=de7e257dbf3ba30abdddd3518dadec2f813423df3a49ba32bc2eb5748d0739e4</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Bol stopt samenwerking met AddComm na mogelijk datalek tijdens ransomwareaanval</title>
-			<link>https://tweakers.net/nieuws/222756/bol-bevestigt-dat-klantdata-mogelijk-gestolen-is-bij-addcomm-aanval.html</link>
-			<description>Bol.com | Groot- en detailhandel | 04-06-2024 | DataLekt.nl: Bol.com heeft bevestigd dat door een ransomwareaanval op AddComm mogelijk klantgegevens zijn buitgemaakt. Deze gegevens omvatten naam, adres, klant- en bestelnummers, alsook details over de bestellingen. Hoewel bankgegevens niet zijn getroffen, heeft Bol de samenwerking met AddComm gestaakt tot de veiligheid van de gegevens gegarandeerd kan worden. AddComm heeft, onder leiding van cybersecurityexperts, onderhandeld met de aanvallers om de gestolen data niet te publiceren. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/222756/bol-bevestigt-dat-klantdata-mogelijk-gestolen-is-bij-addcomm-aanval.html?datalekt=a4dbfd150c49ce039781046222f4cb238a80e7a97357b6e2b542b9998e7fafb5</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Belastingdienst vijf jaar onder intensief toezicht door Autoriteit Persoonsgegevens</title>
-			<link>https://www.dutchitchannel.nl/news/456591/belastingdienst-komt-vijf-jaar-onder-toezicht-van-autoriteit-persoonsgegevens-te-staan</link>
-			<description>Belastingdienst | Overheid: Organisatieonderdeel | 29-05-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) zal vijf jaar toezicht houden op de Belastingdienst vanwege bezorgdheid over het Risico Analyse Model dat gebruikt werd voor toezicht en fraudebestrijding. Er waren twijfels over de rechtmatigheid en juistheid van de opgeslagen data. Dit toezichtsarrangement beoogt een duurzame verbetering van de bescherming van persoonsgegevens. Jaarlijkse evaluaties zullen plaatsvinden om de vorderingen te beoordelen en verdere acties te bepalen. (Bron: dutchitchannel.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/456591/belastingdienst-komt-vijf-jaar-onder-toezicht-van-autoriteit-persoonsgegevens-te-staan?datalekt=d66b90ca6f28bc5f59715141bbb5fe3200e342cc8b28da019e5d06f5f4623ef3</guid>
-			<category>Overheid: Organisatieonderdeel </category>
-			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval treft gemeente Groningen</title>
