@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 01 Nov 2024 12:35:28 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 02 Nov 2024 12:34:03 +0000</lastBuildDate>
+		<item>
+			<title>Phishing-incident bij ’s Heeren Loo leidt tot ongeautoriseerde toegang tot mailboxen van medewerkers</title>
+			<link>https://www.sheerenloo.nl/nieuws/phishing-incident-bij-s-heerenloo</link>
+			<description>s Heeren Loo | Gezondheids- en welzijnszorg | 31-10-2024 | DataLekt.nl: Op 30 oktober 2024 ontdekte ’s Heeren Loo een phishing-incident waarbij onbevoegden toegang kregen tot de mailbox van enkele medewerkers. Hierdoor hebben ongeveer 100 externe relaties onterecht een phishingmail ontvangen, met een link die, indien aangeklikt en ingevuld, cybercriminelen toegang tot inloggegevens zou kunnen geven. Het incident werd direct aangepakt om verdere verspreiding te voorkomen. ’s Heeren Loo onderzoekt de impact en heeft contact opgenomen met de betrokken relaties. (Bron: sheerenloo.nl)</description>
+			<guid isPermaLink="false">https://www.sheerenloo.nl/nieuws/phishing-incident-bij-s-heerenloo?datalekt=014eee502d15dc7514daf16761a8680e090f3e2b36f44a423a350883c8fed4eb</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>AP legde Experian in 2023 boete en dwangsom op vanwege privacywet-overtreding</title>
 			<link>https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html</link>
@@ -757,14 +765,6 @@
 			<link>https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval</link>
 			<description>Gemeente Tynaarlo | Overheid: Gemeenten | 04-06-2024 | DataLekt.nl: In Tynaarlo zijn door een inbraak in de systemen van AddComm gevoelige persoonsgegevens ontvreemd. Er is een risico op identiteitsfraude voor de betrokken inwoners, die geadviseerd worden alert te zijn op verdachte communicatie. (Bron: nd.nl)</description>
 			<guid isPermaLink="false">https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=6293f67c852d5679b1dc34e3649d8552b384dde727817980b826a8dbf01217e1</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datadiefstal treft inwoners van Assen na cyberaanval op AddComm</title>
-			<link>https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval</link>
-			<description>Gemeente Assen | Overheid: Gemeenten | 04-06-2024 | DataLekt.nl: Na een cyberaanval op AddComm zijn persoonlijke gegevens van inwoners van Assen gestolen, waaronder namen, adressen en mogelijk bankgegevens. De getroffen inwoners zijn gewaarschuwd voor het risico op phishing en fraude. (Bron: nd.nl)</description>
-			<guid isPermaLink="false">https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=de7e257dbf3ba30abdddd3518dadec2f813423df3a49ba32bc2eb5748d0739e4</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
