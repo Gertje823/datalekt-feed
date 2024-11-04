@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 02 Nov 2024 12:34:03 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 04 Nov 2024 12:37:44 +0000</lastBuildDate>
+		<item>
+			<title>Hemubo getroffen door ransomware aanval van de criminele organisatie Hunters</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Hemubo | Bouwnijverheid | 03-11-2024 | DataLekt.nl: De criminele organisatie Hunters heeft op het darkweb aangekondigd dat zij Hemubo heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=154edc2b2bc165de4496e4c491233e1415ab00121752f14569eb32a71e99aded</guid>
+			<category>Bouwnijverheid </category>
+			<pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Apeldoorn voldeed in 2023 niet aan regels voor gevoelige politiegegevens</title>
+			<link>https://www.destentor.nl/apeldoorn/apeldoorn-gaat-in-de-fout-met-gevoelige-gegevens-wisten-al-dat-we-heel-wat-te-doen-hadden~a11c9002/</link>
+			<description>Gemeente Apeldoorn | Overheid: Gemeenten | 02-11-2024 | DataLekt.nl: De gemeente Apeldoorn blijkt de Wet Politiegegevens (Wpg) niet volledig na te leven bij de omgang met gevoelige politiegegevens van inwoners, zoals informatie over strafbare feiten. Na een audit in 2022, die ernstige tekortkomingen aan het licht bracht, bleek ook een tweede audit in 2023 slechts beperkte verbeteringen te tonen. De gemeenteraad zal binnenkort de resultaten van de audits publiekelijk bespreken en aandringen op verdere verbeteringen om de privacy van inwoners te waarborgen. De gemeente benadrukt het belang van zorgvuldige databeveiliging en werkt aan fundamentele verbeteringen. (Bron: destentor.nl)</description>
+			<guid isPermaLink="false">https://www.destentor.nl/apeldoorn/apeldoorn-gaat-in-de-fout-met-gevoelige-gegevens-wisten-al-dat-we-heel-wat-te-doen-hadden~a11c9002/?datalekt=1aad6d2f184e8b7b11cd94cc484bf074ee50ea355e18a5c4704c7ac81e632caa</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Teteringse politieman veroordeeld voor misbruik politiedatabases met persoonsgegevens</title>
+			<link>https://www.bredavandaag.nl/politie/politie/430240/teteringse-politieman-zocht-privegegevens-op-van-familieleden</link>
+			<description>Politie Den Haag | Overheid: Politie en brandweer | 15-10-2024 | DataLekt.nl: Een 36-jarige politieagent uit Teteringen is door de rechtbank in Den Haag veroordeeld tot een taakstraf van 60 uur voor computervredebreuk. De hoofdagent, werkzaam bij de politie in Den Haag, gebruikte zijn toegang tot politiedatabases om zonder werkgerelateerde reden privégegevens van familieleden en inwoners van Breda op te zoeken. Deze handelingen werden als een ernstige inbreuk op de privacy beschouwd en ondermijnden het publieke vertrouwen in de politie. De rechtbank oordeelde dat de agent hiermee zijn bevoegdheden ernstig overschreed. (Bron: bredavandaag.nl)</description>
+			<guid isPermaLink="false">https://www.bredavandaag.nl/politie/politie/430240/teteringse-politieman-zocht-privegegevens-op-van-familieleden?datalekt=c3a9e37ad3b3b4970cb339cb3e33ada88f775629211c90c7965a33e17d8e155f</guid>
+			<category>Overheid: Politie en brandweer </category>
+			<pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Phishing-incident bij ’s Heeren Loo leidt tot ongeautoriseerde toegang tot mailboxen van medewerkers</title>
 			<link>https://www.sheerenloo.nl/nieuws/phishing-incident-bij-s-heerenloo</link>
@@ -742,30 +766,6 @@
 			<description>Ambitious People Group (APG) | Verhuur van roerende goederen en overige zakelijke dienstverlening | 05-06-2024 | DataLekt.nl: Ambitious People Group B.V. heeft een boete van €6.000 opgelegd gekregen door de Autoriteit Persoonsgegevens voor het overtreden van de Algemene Verordening Gegevensbescherming (AVG). De overtreding betrof het niet tijdig reageren op verzoeken tot gegevenswissing door drie individuen, wat strijdig is met het recht op &amp;#039;vergetelheid&amp;#039; onder de AVG. Na vaststelling van de overtredingen door de AP, heeft het bedrijf de persoonsgegevens verwijderd en hun interne procedures aangepast om herhaling te voorkomen. (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/222872/ap-beboet-recruitmentbedrijf-voor-negeren-verwijderverzoeken.html?datalekt=2d0e059b9770b3a4a18630432b0c5ed3dbbb3e68248393374bdbdea222e50ee0</guid>
 			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
-			<pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gelekte inloggegevens van 288 Saxion-accounts zonder verdere risico&amp;#039;s</title>
-			<link>https://www.saxnow.nl/nieuws/2024/juni/inloggegevens-van-288-saxion-accounts-bleken-gestolen-maar-saxion-heeft-geen-risico-gelopen</link>
-			<description>Hogeschool Saxion | Onderwijs | 05-06-2024 | DataLekt.nl: Bij Saxion zijn inloggegevens van 288 accounts gelekt. Deze gegevens waren onbedoeld toegankelijk, maar er is door snelle actie van de instelling geen verdere schade ontstaan. De betrokken accounts waren voornamelijk van oud-studenten en enkele medewerkers. Saxion heeft direct maatregelen getroffen zoals het resetten van wachtwoorden en het versterken van de beveiliging met multifactorauthenticatie, waardoor de gegevens veilig bleven en geen risico voor misbruik bestond. (Bron: saxnow.nl)</description>
-			<guid isPermaLink="false">https://www.saxnow.nl/nieuws/2024/juni/inloggegevens-van-288-saxion-accounts-bleken-gestolen-maar-saxion-heeft-geen-risico-gelopen?datalekt=3be0b9cf27c1a72b0b4bcfdab311398caf7ae83e17a487cb1c9e8a8237ef4a06</guid>
-			<category>Onderwijs </category>
-			<pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gegevens van burgers Aa en Hunze gestolen na hack bij AddComm</title>
-			<link>https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval</link>
-			<description>Gemeente Aa en Hunze | Overheid: Gemeenten | 04-06-2024 | DataLekt.nl: Door een digitale aanval op AddComm zijn ook persoonsgegevens van inwoners van de gemeenten Aa en Hunze buitgemaakt. Inwoners moeten oppassen voor mogelijke frauduleuze berichten als gevolg van deze diefstal. (Bron: nd.nl)</description>
-			<guid isPermaLink="false">https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=67a4072fa0d2752a790b8ae9741518f018869dc2d8695eaa87c6676a189e31a9</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberinbraak bij AddComm leidt tot gegevensdiefstal in Tynaarlo</title>
-			<link>https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval</link>
-			<description>Gemeente Tynaarlo | Overheid: Gemeenten | 04-06-2024 | DataLekt.nl: In Tynaarlo zijn door een inbraak in de systemen van AddComm gevoelige persoonsgegevens ontvreemd. Er is een risico op identiteitsfraude voor de betrokken inwoners, die geadviseerd worden alert te zijn op verdachte communicatie. (Bron: nd.nl)</description>
-			<guid isPermaLink="false">https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=6293f67c852d5679b1dc34e3649d8552b384dde727817980b826a8dbf01217e1</guid>
-			<category>Overheid: Gemeenten </category>
 			<pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>

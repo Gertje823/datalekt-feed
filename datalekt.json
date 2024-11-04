@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=154edc2b2bc165de4496e4c491233e1415ab00121752f14569eb32a71e99aded",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Hemubo getroffen door ransomware aanval van de criminele organisatie Hunters",
+        "date_published": "2024-11-04T13:09:00Z",
+        "date_modified": "2024-11-04T13:09:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Hemubo | Bouwnijverheid | 03-11-2024 | DataLekt.nl: De criminele organisatie Hunters heeft op het darkweb aangekondigd dat zij Hemubo heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.destentor.nl/apeldoorn/apeldoorn-gaat-in-de-fout-met-gevoelige-gegevens-wisten-al-dat-we-heel-wat-te-doen-hadden~a11c9002/?datalekt=1aad6d2f184e8b7b11cd94cc484bf074ee50ea355e18a5c4704c7ac81e632caa",
+        "url": "https://www.destentor.nl/apeldoorn/apeldoorn-gaat-in-de-fout-met-gevoelige-gegevens-wisten-al-dat-we-heel-wat-te-doen-hadden~a11c9002/",
+        "title": "Gemeente Apeldoorn voldeed in 2023 niet aan regels voor gevoelige politiegegevens",
+        "date_published": "2024-11-04T13:07:00Z",
+        "date_modified": "2024-11-04T13:07:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "destentor.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Apeldoorn | Overheid: Gemeenten | 02-11-2024 | DataLekt.nl: De gemeente Apeldoorn blijkt de Wet Politiegegevens (Wpg) niet volledig na te leven bij de omgang met gevoelige politiegegevens van inwoners, zoals informatie over strafbare feiten. Na een audit in 2022, die ernstige tekortkomingen aan het licht bracht, bleek ook een tweede audit in 2023 slechts beperkte verbeteringen te tonen. De gemeenteraad zal binnenkort de resultaten van de audits publiekelijk bespreken en aandringen op verdere verbeteringen om de privacy van inwoners te waarborgen. De gemeente benadrukt het belang van zorgvuldige databeveiliging en werkt aan fundamentele verbeteringen. (Bron: destentor.nl)"
+    },
+    {
+        "id": "https://www.bredavandaag.nl/politie/politie/430240/teteringse-politieman-zocht-privegegevens-op-van-familieleden?datalekt=c3a9e37ad3b3b4970cb339cb3e33ada88f775629211c90c7965a33e17d8e155f",
+        "url": "https://www.bredavandaag.nl/politie/politie/430240/teteringse-politieman-zocht-privegegevens-op-van-familieleden",
+        "title": "Teteringse politieman veroordeeld voor misbruik politiedatabases met persoonsgegevens",
+        "date_published": "2024-11-04T13:05:00Z",
+        "date_modified": "2024-11-04T13:05:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "bredavandaag.nl"
+        },
+        "content_html": "",
+        "content_text": "Politie Den Haag | Overheid: Politie en brandweer | 15-10-2024 | DataLekt.nl: Een 36-jarige politieagent uit Teteringen is door de rechtbank in Den Haag veroordeeld tot een taakstraf van 60 uur voor computervredebreuk. De hoofdagent, werkzaam bij de politie in Den Haag, gebruikte zijn toegang tot politiedatabases om zonder werkgerelateerde reden priv\u00e9gegevens van familieleden en inwoners van Breda op te zoeken. Deze handelingen werden als een ernstige inbreuk op de privacy beschouwd en ondermijnden het publieke vertrouwen in de politie. De rechtbank oordeelde dat de agent hiermee zijn bevoegdheden ernstig overschreed. (Bron: bredavandaag.nl)"
+    },
+    {
         "id": "https://www.sheerenloo.nl/nieuws/phishing-incident-bij-s-heerenloo?datalekt=014eee502d15dc7514daf16761a8680e090f3e2b36f44a423a350883c8fed4eb",
         "url": "https://www.sheerenloo.nl/nieuws/phishing-incident-bij-s-heerenloo",
         "title": "Phishing-incident bij \u2019s Heeren Loo leidt tot ongeautoriseerde toegang tot mailboxen van medewerkers",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ambitious People Group (APG) | Verhuur van roerende goederen en overige zakelijke dienstverlening | 05-06-2024 | DataLekt.nl: Ambitious People Group B.V. heeft een boete van \u20ac6.000 opgelegd gekregen door de Autoriteit Persoonsgegevens voor het overtreden van de Algemene Verordening Gegevensbescherming (AVG). De overtreding betrof het niet tijdig reageren op verzoeken tot gegevenswissing door drie individuen, wat strijdig is met het recht op &#039;vergetelheid&#039; onder de AVG. Na vaststelling van de overtredingen door de AP, heeft het bedrijf de persoonsgegevens verwijderd en hun interne procedures aangepast om herhaling te voorkomen. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.saxnow.nl/nieuws/2024/juni/inloggegevens-van-288-saxion-accounts-bleken-gestolen-maar-saxion-heeft-geen-risico-gelopen?datalekt=3be0b9cf27c1a72b0b4bcfdab311398caf7ae83e17a487cb1c9e8a8237ef4a06",
-        "url": "https://www.saxnow.nl/nieuws/2024/juni/inloggegevens-van-288-saxion-accounts-bleken-gestolen-maar-saxion-heeft-geen-risico-gelopen",
-        "title": "Gelekte inloggegevens van 288 Saxion-accounts zonder verdere risico&#039;s",
-        "date_published": "2024-06-07T09:27:00Z",
-        "date_modified": "2024-06-07T09:27:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "saxnow.nl"
-        },
-        "content_html": "",
-        "content_text": "Hogeschool Saxion | Onderwijs | 05-06-2024 | DataLekt.nl: Bij Saxion zijn inloggegevens van 288 accounts gelekt. Deze gegevens waren onbedoeld toegankelijk, maar er is door snelle actie van de instelling geen verdere schade ontstaan. De betrokken accounts waren voornamelijk van oud-studenten en enkele medewerkers. Saxion heeft direct maatregelen getroffen zoals het resetten van wachtwoorden en het versterken van de beveiliging met multifactorauthenticatie, waardoor de gegevens veilig bleven en geen risico voor misbruik bestond. (Bron: saxnow.nl)"
-    },
-    {
-        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=67a4072fa0d2752a790b8ae9741518f018869dc2d8695eaa87c6676a189e31a9",
-        "url": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval",
-        "title": "Gegevens van burgers Aa en Hunze gestolen na hack bij AddComm",
-        "date_published": "2024-06-07T09:26:00Z",
-        "date_modified": "2024-06-07T09:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nd.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Aa en Hunze | Overheid: Gemeenten | 04-06-2024 | DataLekt.nl: Door een digitale aanval op AddComm zijn ook persoonsgegevens van inwoners van de gemeenten Aa en Hunze buitgemaakt. Inwoners moeten oppassen voor mogelijke frauduleuze berichten als gevolg van deze diefstal. (Bron: nd.nl)"
-    },
-    {
-        "id": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval?datalekt=6293f67c852d5679b1dc34e3649d8552b384dde727817980b826a8dbf01217e1",
-        "url": "https://www.nd.nl/varia/varia/1226757/meer-organisaties-melden-diefstal-gegevens-na-cyberaanval",
-        "title": "Cyberinbraak bij AddComm leidt tot gegevensdiefstal in Tynaarlo",
-        "date_published": "2024-06-07T09:25:00Z",
-        "date_modified": "2024-06-07T09:25:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nd.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Tynaarlo | Overheid: Gemeenten | 04-06-2024 | DataLekt.nl: In Tynaarlo zijn door een inbraak in de systemen van AddComm gevoelige persoonsgegevens ontvreemd. Er is een risico op identiteitsfraude voor de betrokken inwoners, die geadviseerd worden alert te zijn op verdachte communicatie. (Bron: nd.nl)"
     }
 ]
