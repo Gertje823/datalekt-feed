@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.stiptpolishpoint.nl/klanten-slachtoffer-van-cyberaanval-stipt/?datalekt=2cb7090444b46a3379fb98be43fe7e2dc08b1b19a5e2382a02b48c0d68f2e708",
+        "url": "https://www.stiptpolishpoint.nl/klanten-slachtoffer-van-cyberaanval-stipt/",
+        "title": "Website Stipt Polish Point niet bereikbaar door (D)DoS-aanval",
+        "date_published": "2024-11-09T16:16:00Z",
+        "date_modified": "2024-11-09T16:16:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "stiptpolishpoint.nl"
+        },
+        "content_html": "",
+        "content_text": "Stipt Polish Point | Groot- en detailhandel | 06-11-2024 | DataLekt.nl: De website van Stipt Polish Point is niet bereikbaar door (D)DoS-aanval. Er wordt hard gewerkt aan een oplossing. (Bron: stiptpolishpoint.nl)"
+    },
+    {
         "id": "https://www.pzc.nl/gent/loodgieter-uit-lochristi-krijgt-celstraf-van-40-maanden-voor-het-installeren-van-cameras-bij-klanten-en-het-stelen-van-familiefotos~addd10e8/?datalekt=ddde0bd6ff09dd93e1c535e39d92e73fde8892fde8f88a8cb9e7b804c551a6b0",
         "url": "https://www.pzc.nl/gent/loodgieter-uit-lochristi-krijgt-celstraf-van-40-maanden-voor-het-installeren-van-cameras-bij-klanten-en-het-stelen-van-familiefotos~addd10e8/",
         "title": "Loodgieter uit Lochristi krijgt 40 maanden cel voor heimelijk filmen van klanten en stelen van familiefoto\u2019s",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Partij voor de Vrijheid (PVV) | Overige dienstverlening | 06-06-2024 | DataLekt.nl: De website van de Partij voor de Vrijheid (PVV) werd op de verkiezingsdag getroffen door een DDoS-aanval, uitgevoerd door de Russische groep HackNet. Deze aanval zorgde ervoor dat de website tijdelijk moeilijk bereikbaar was, als deel van een bredere campagne om onrust te stoken. De aanval werd succesvol afgeweerd en de site is weer operationeel. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco?datalekt=03219875dd12cd3e31a2c30e2a9c33caef40adebbb8247367bda958048b404ce",
-        "url": "https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco",
-        "title": "Onderzoek naar datalek in Cisco Webex met grote gevolgen voor Nederlandse overheid",
-        "date_published": "2024-06-07T09:29:00Z",
-        "date_modified": "2024-06-07T09:29:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Algemene Zaken | Overheid: Ministeries | 05-06-2024 | DataLekt.nl: De Nederlandse overheid onderzoekt een ernstig datalek veroorzaakt door kwetsbaarheden in Cisco&#039;s Webex-platform. Hierdoor waren metadata van overheidsvergaderingen toegankelijk voor onbevoegden. Dit incident, dat eerst via Duitse media bekend werd gemaakt, heeft niet alleen geleid tot kritiek op Cisco wegens gebrekkige communicatie, maar ook tot bezorgdheid over de veiligheid van vertrouwelijke overheidscommunicatie. De overheid werkt samen met Duitse autoriteiten aan verder onderzoek en heeft Cisco om opheldering gevraagd. (Bron: security.nl)"
     }
 ]

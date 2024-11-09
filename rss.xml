@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 06 Nov 2024 12:36:23 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 09 Nov 2024 18:22:10 +0000</lastBuildDate>
+		<item>
+			<title>Website Stipt Polish Point niet bereikbaar door (D)DoS-aanval</title>
+			<link>https://www.stiptpolishpoint.nl/klanten-slachtoffer-van-cyberaanval-stipt/</link>
+			<description>Stipt Polish Point | Groot- en detailhandel | 06-11-2024 | DataLekt.nl: De website van Stipt Polish Point is niet bereikbaar door (D)DoS-aanval. Er wordt hard gewerkt aan een oplossing. (Bron: stiptpolishpoint.nl)</description>
+			<guid isPermaLink="false">https://www.stiptpolishpoint.nl/klanten-slachtoffer-van-cyberaanval-stipt/?datalekt=2cb7090444b46a3379fb98be43fe7e2dc08b1b19a5e2382a02b48c0d68f2e708</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Loodgieter uit Lochristi krijgt 40 maanden cel voor heimelijk filmen van klanten en stelen van familiefoto’s</title>
 			<link>https://www.pzc.nl/gent/loodgieter-uit-lochristi-krijgt-celstraf-van-40-maanden-voor-het-installeren-van-cameras-bij-klanten-en-het-stelen-van-familiefotos~addd10e8/</link>
@@ -759,14 +767,6 @@
 			<guid isPermaLink="false">https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=648d9d0f8d1cdb4f0cd4fe183927ad3ee8db00128005f2d6ebdf4febc18e3b1a</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Onderzoek naar datalek in Cisco Webex met grote gevolgen voor Nederlandse overheid</title>
-			<link>https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco</link>
-			<description>Ministerie van Algemene Zaken | Overheid: Ministeries | 05-06-2024 | DataLekt.nl: De Nederlandse overheid onderzoekt een ernstig datalek veroorzaakt door kwetsbaarheden in Cisco&amp;#039;s Webex-platform. Hierdoor waren metadata van overheidsvergaderingen toegankelijk voor onbevoegden. Dit incident, dat eerst via Duitse media bekend werd gemaakt, heeft niet alleen geleid tot kritiek op Cisco wegens gebrekkige communicatie, maar ook tot bezorgdheid over de veiligheid van vertrouwelijke overheidscommunicatie. De overheid werkt samen met Duitse autoriteiten aan verder onderzoek en heeft Cisco om opheldering gevraagd. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/844495/Overheid+onderzoekt+datalek+bij+Webex%2C+uit+felle+kritiek+op+Cisco?datalekt=03219875dd12cd3e31a2c30e2a9c33caef40adebbb8247367bda958048b404ce</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval treft gemeente Groningen</title>
