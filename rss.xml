@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 09 Nov 2024 18:22:10 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 13 Nov 2024 16:43:17 +0000</lastBuildDate>
+		<item>
+			<title>Fraudealgoritme van DUO bleek discriminerend en leidde tot onterechte controles</title>
+			<link>https://tweakers.net/nieuws/228598/ap-duos-fraudealgoritme-was-discriminerend-en-illegaal.html</link>
+			<description>Dienst Uitvoering Onderwijs (DUO) | Overheid: Agentschappen | 11-11-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft geconcludeerd dat het fraudedetectie-algoritme van de Dienst Uitvoering Onderwijs (DUO) discriminerend en onrechtmatig was. Het algoritme beoordeelde studenten op fraude op basis van onderwijsniveau, leeftijd en afstand tot het ouderlijk huis. Hierdoor werden studenten, vooral met een migratieachtergrond, disproportioneel vaak geselecteerd voor controles. Tussen 2013 en 2022 zijn ruim 21.500 studenten gecontroleerd. DUO stopte in 2023 met deze aanpak en het kabinet stelt nu 61 miljoen euro beschikbaar om boetes en terugvorderingen terug te betalen aan de getroffen studenten. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/228598/ap-duos-fraudealgoritme-was-discriminerend-en-illegaal.html?datalekt=f68f85598831a8c563cfa1c4362001be5b868627fc0c687b62895ac4749d4e84</guid>
+			<category>Overheid: Agentschappen </category>
+			<pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Website Stipt Polish Point niet bereikbaar door (D)DoS-aanval</title>
 			<link>https://www.stiptpolishpoint.nl/klanten-slachtoffer-van-cyberaanval-stipt/</link>
@@ -757,14 +765,6 @@
 			<link>https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html</link>
 			<description>Christen-Democratisch Appèl (CDA) | Overige dienstverlening | 06-06-2024 | DataLekt.nl: Tijdens de Europese verkiezingen ondervond het Christen-Democratisch Appèl (CDA) ernstige toegangsproblemen door een DDoS-aanval, geclaimd door HackNet. De website ontving miljoenen verzoeken, wat leidde tot tijdelijke onbereikbaarheid. Uiteindelijk kon het CDA de aanval weerstaan en normaliseerde de situatie. (Bron: nu.nl)</description>
 			<guid isPermaLink="false">https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=3a3fb99768e6581f096db6405b3eaed197eaf7ce282b5d78e21e37bdf8573574</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>PVV-website onderuit door Russische DDoS-aanval tijdens verkiezingen</title>
-			<link>https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html</link>
-			<description>Partij voor de Vrijheid (PVV) | Overige dienstverlening | 06-06-2024 | DataLekt.nl: De website van de Partij voor de Vrijheid (PVV) werd op de verkiezingsdag getroffen door een DDoS-aanval, uitgevoerd door de Russische groep HackNet. Deze aanval zorgde ervoor dat de website tijdelijk moeilijk bereikbaar was, als deel van een bredere campagne om onrust te stoken. De aanval werd succesvol afgeweerd en de site is weer operationeel. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=648d9d0f8d1cdb4f0cd4fe183927ad3ee8db00128005f2d6ebdf4febc18e3b1a</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
