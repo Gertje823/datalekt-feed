@@ -1,12 +1,12 @@
 from bs4 import BeautifulSoup
 import datetime, time
 import json, re
-import requests
 import sqlite3
 from feedgen.feed import FeedGenerator
 import hashlib
 import xml.dom.minidom
-
+import cloudscraper
+requests = cloudscraper.create_scraper()
 fg = FeedGenerator()
 json_data = requests.post('https://www.datalekt.nl/feeds/json.php').json()
 
