@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 13 Nov 2024 16:43:17 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 14 Nov 2024 18:26:16 +0000</lastBuildDate>
+		<item>
+			<title>Hogeschool Utrecht meldt datalek door kwetsbaarheid in SURFfilesender</title>
+			<link>https://www.security.nl/posting/865870/Hogeschool+Utrecht+waarschuwt+voor+beveiligingslek+in+SURFfilesender</link>
+			<description>Hogeschool Utrecht | Onderwijs | 14-11-2024 | DataLekt.nl: Hogeschool Utrecht heeft studenten en medewerkers gewaarschuwd voor een beveiligingslek in SURFfilesender, een dienst van SURF voor het versturen en ontvangen van bestanden. Tussen 21 november 2023 en 14 oktober 2024 konden onbevoegden toegang krijgen tot bestanden van gebruikers die de optie &amp;#039;File Encryption&amp;#039; niet hadden ingeschakeld. Het is onbekend of er daadwerkelijk gegevens zijn gestolen. Zowel de Hogeschool als SURF hebben melding van een datalek gedaan bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/865870/Hogeschool+Utrecht+waarschuwt+voor+beveiligingslek+in+SURFfilesender?datalekt=1a73ff204b1cd98a661bd9d20940bf493087c0647dc0255240083901f1e7f5db</guid>
+			<category>Onderwijs </category>
+			<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ombudsman waarschuwt voor schending van mensenrechten door plaatsing op terrorismelijst</title>
+			<link>https://www.trouw.nl/binnenland/ombudsman-mensenrechten-van-burgers-op-terrorismelijst-in-geding~bddf5f55/</link>
+			<description>Ministerie van Justitie en Veiligheid (J&amp;amp;amp;V) | Overheid: Ministeries | 12-11-2024 | DataLekt.nl: De Nationale Ombudsman uit ernstige zorgen over het gebrek aan rechtsbescherming van burgers die op de terrorismelijst (cter-registratie) van de overheid staan. Vaak weten betrokkenen niet dat ze op deze lijst zijn geplaatst, wat kan leiden tot problemen zoals grenscontroles en arrestaties in het buitenland. De ombudsman noemt het systeem ondoorzichtig en stelt dat burgers te weinig middelen hebben om zich te verdedigen of inzage te krijgen in hun dossier. Hij roept het ministerie van Justitie en Veiligheid op om de situatie te verbeteren. (Bron: trouw.nl)</description>
+			<guid isPermaLink="false">https://www.trouw.nl/binnenland/ombudsman-mensenrechten-van-burgers-op-terrorismelijst-in-geding~bddf5f55/?datalekt=1cd330eb0f832c42d73ba92fbfbb4cca6d9b68887879d96546d6c35a9cf8cfcc</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ziekmeldingsfout bij Isala veroorzaakt verwarring onder medewerkers</title>
+			<link>https://www.destentor.nl/zwolle/medewerkers-isala-verbijsterd-ziekmeldingsfout-zorgt-voor-verwarring~a11f87a1/</link>
+			<description>Isala | Gezondheids- en welzijnszorg | 12-11-2024 | DataLekt.nl: Bij ziekenhuis Isala in Zwolle zorgde een administratieve fout in het ziekmeldingssysteem voor verwarring onder medewerkers. Door de fout kregen diverse personeelsleden onterecht een melding dat zij als ziek waren geregistreerd, terwijl zij gewoon aan het werk waren. Dit leidde tot onduidelijkheid en verbijstering binnen het team, maar er is geen sprake geweest van een beveiligingsincident. Wel is een melding bij de Autoriteit Persoonsgegevens gedaan. De oorzaak blijkt een fout in de software te zijn, die inmiddels is hersteld. (Bron: destentor.nl)</description>
+			<guid isPermaLink="false">https://www.destentor.nl/zwolle/medewerkers-isala-verbijsterd-ziekmeldingsfout-zorgt-voor-verwarring~a11f87a1/?datalekt=93bc16273860646ced5c2acffa00fc0971b5ccf09357359422373bd7e5aed66a</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Fraudealgoritme van DUO bleek discriminerend en leidde tot onterechte controles</title>
 			<link>https://tweakers.net/nieuws/228598/ap-duos-fraudealgoritme-was-discriminerend-en-illegaal.html</link>
@@ -743,30 +767,6 @@
 			<guid isPermaLink="false">https://nos.nl/artikel/2521510-bedrijf-dumpt-administratie-in-open-container-vertrouwelijke-informatie-op-straat?datalekt=5bd5234e8b79ec012038d733f7dbe94b57c8e6d4c364de37fe0fd88dcf80dcee</guid>
 			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
 			<pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Bringly’s website gehackt; incident zonder gevolgen voor bedrijfsactiviteiten</title>
-			<link>https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt</link>
-			<description>Bringly | Vervoer en opslag | 08-06-2024 | DataLekt.nl: De website van het verzendplatform Bringly is recentelijk gehackt, waarbij de aanval resulteerde in het wissen van bijna alle deelpagina&amp;#039;s en het plaatsen van een ongepaste advertentie. De hack lijkt echter geen invloed te hebben op de operationele activiteiten van het bedrijf, aangezien de website niet direct verbonden was met de kernsystemen of de operationele software van Bringly. Het probleem lijkt te zijn ontstaan bij het externe marketingbureau dat verantwoordelijk was voor de hosting van de site. Er zijn geen directe financiële schades of gegevensdiefstal gemeld als gevolg van deze inbraak. (Bron: emerce.nl)</description>
-			<guid isPermaLink="false">https://www.emerce.nl/nieuws/site-verzendplatform-bringly-gehackt?datalekt=6a023d98436bd2d7145a1f8018a4458f667759debdfecf9accaa78a73fa36d88</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>FvD weert DDoS-aanval af op dag van Europese verkiezingen</title>
-			<link>https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html</link>
-			<description>Forum voor Democratie (FvD) | Overige dienstverlening | 06-06-2024 | DataLekt.nl: Forum voor Democratie (FvD) werd doelwit van een DDoS-aanval door de Russische HackNet groep, waardoor hun website slecht bereikbaar was. Het team van FvD werkte intensief om de aanval te neutraliseren, wat uiteindelijk lukte. De aanval was deel van een poging om de politieke stabiliteit te verstoren. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=538c802ca9d6bd425cd10acf6b57c50edcb99e3a37fe01c57e48bcb5ceddb352</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>CDA-webpagina&amp;#039;s platgelegd door DDoS-aanvallen op verkiezingsdag</title>
-			<link>https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html</link>
-			<description>Christen-Democratisch Appèl (CDA) | Overige dienstverlening | 06-06-2024 | DataLekt.nl: Tijdens de Europese verkiezingen ondervond het Christen-Democratisch Appèl (CDA) ernstige toegangsproblemen door een DDoS-aanval, geclaimd door HackNet. De website ontving miljoenen verzoeken, wat leidde tot tijdelijke onbereikbaarheid. Uiteindelijk kon het CDA de aanval weerstaan en normaliseerde de situatie. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6315777/hackers-leggen-websites-politieke-partijen-plat-op-dag-van-europese-verkiezingen.html?datalekt=3a3fb99768e6581f096db6405b3eaed197eaf7ce282b5d78e21e37bdf8573574</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval treft gemeente Groningen</title>
