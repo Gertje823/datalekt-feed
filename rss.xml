@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 14 Nov 2024 18:26:16 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 18 Nov 2024 18:26:41 +0000</lastBuildDate>
+		<item>
+			<title>Het Rhedens getroffen door ransomware aanval van de criminele organisatie BLACK SUIT</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Het Rhedens | Onderwijs | 17-11-2024 | DataLekt.nl: De criminele organisatie BLACK SUIT heeft op het darkweb aangekondigd dat zij Het Rhedens heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=5ec4e97746570d4f7af85591ac5bca36b7894dd41ee3a03733d3dabbd7632612</guid>
+			<category>Onderwijs </category>
+			<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Eindhoven meldt datalek na beveiligingsproblemen met Zwemapp</title>
+			<link>https://www.ed.nl/eindhoven/hacker-slaat-alarm-gloednieuwe-eindhovense-zwemapp-niet-waterdicht-voor-persoonsgegevens~aa0e46e1/</link>
+			<description>Gemeente Eindhoven | Overheid: Gemeenten | 16-11-2024 | DataLekt.nl: De nieuwe Zwemapp van de gemeente Eindhoven blijkt ernstige privacyproblemen te bevatten. Een ethisch hacker ontdekte elf kwetsbaarheden, waaronder ongewenste toegang tot contacten en locatie van Android-gebruikers en datadeling met Amerikaanse socialmediaplatforms. De externe ontwikkelaar, Business Apps, zou onterecht beweren dat gegevens veilig zijn. De gemeente heeft uit voorzorg een datalek gemeld bij de Autoriteit Persoonsgegevens (AP) en maatregelen getroffen, zoals een update gericht op dataminimalisatie. Eindhoven staat al langer onder toezicht van de AP vanwege eerdere privacy-incidenten. Onderzoek naar de impact is nog gaande. (Bron: ed.nl)</description>
+			<guid isPermaLink="false">https://www.ed.nl/eindhoven/hacker-slaat-alarm-gloednieuwe-eindhovense-zwemapp-niet-waterdicht-voor-persoonsgegevens~aa0e46e1/?datalekt=1ac3de654a4dae86c733e1a9026912acd36142daadeb1730199d92562679b0aa</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Klarenbeek Transport getroffen door ransomware aanval van de criminele organisatie BLACK SUIT</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Klarenbeek Transport | Vervoer en opslag | 15-11-2024 | DataLekt.nl: De criminele organisatie BLACK SUIT heeft op het darkweb aangekondigd dat zij Klarenbeek Transport heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=60356a4ead0fcb1dcdc9fe37890830d872d47117ea8d3b166ae9bd3f742f5b87</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Hogeschool Utrecht meldt datalek door kwetsbaarheid in SURFfilesender</title>
 			<link>https://www.security.nl/posting/865870/Hogeschool+Utrecht+waarschuwt+voor+beveiligingslek+in+SURFfilesender</link>
@@ -751,30 +775,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6f94956e192a429102174c6a31abca2a03dd30df878a2f0c23bcad67d656cbcb</guid>
 			<category>Industrie </category>
 			<pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>HHNK mogelijk indirect getroffen door ransomwareaanval op AddComm</title>
-			<link>https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html</link>
-			<description>Hoogheemraadschap Hollands Noorderkwartier (HHNK) | Overheid: Waterschappen | 23-05-2024 | DataLekt.nl: Het Hoogheemraadschap Hollands Noorderkwartier (HHNK) meldt mogelijk indirecte gevolgen van een ransomwareaanval op AddComm, een dienstverlener voor communicatie met klanten. Deze aanval, die plaatsvond tussen 5 en 17 mei, resulteerde in het versleutelen van systemen en diefstal van data bij AddComm. HHNK, dat gebruikmaakt van AddComm voor het versturen van waterschapsbelastingaanslagen, heeft preventief melding gedaan bij de Autoriteit Persoonsgegevens, vanwege het risico op gelekte klantgegevens. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html?datalekt=3ec19b9ed6a8886210bf300869f1c4a3c8085a6b7440b104bcbe2e5f7812e0d7</guid>
-			<category>Overheid: Waterschappen </category>
-			<pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Vertrouwelijke documenten van Verkeersboete.nl op straat door menselijke fout</title>
-			<link>https://nos.nl/artikel/2521510-bedrijf-dumpt-administratie-in-open-container-vertrouwelijke-informatie-op-straat</link>
-			<description>Verkeersboete.nl | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 22-05-2024 | DataLekt.nl: In Zoetermeer heeft Verkeersboete.nl per ongeluk een hoeveelheid correspondentie met het OM en het Centraal Justitieel Incassobureau in een open afvalcontainer gedeponeerd, wat leidde tot verspreiding van documenten over straat. Het incident werd beschreven als een menselijke fout, versterkt door een verbouwing. Hoewel de woordvoerder stelt dat er geen privacygevoelige informatie is aangetroffen, worden betrokkenen op de hoogte gebracht van de datalekprocedure indien nodig. De Autoriteit Persoonsgegevens benadrukt de ernst van dergelijke datalekken. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2521510-bedrijf-dumpt-administratie-in-open-container-vertrouwelijke-informatie-op-straat?datalekt=5bd5234e8b79ec012038d733f7dbe94b57c8e6d4c364de37fe0fd88dcf80dcee</guid>
-			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
-			<pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ransomware-aanval treft gemeente Groningen</title>
-			<link>https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/</link>
-			<description>Gemeente Groningen | Overheid: Gemeenten | 28-05-2024 | DataLekt.nl: De gemeente Groningen is getroffen door een ransomware-aanval via een ICT-bedrijf in Amersfoort, waardoor gegevens van de gemeente zijn gestolen. Het is nog onbekend om welke en hoeveel gegevens het precies gaat. Er zijn nog geen aanwijzingen dat de gestolen klantgegevens gepubliceerd of verkocht zijn. De gemeente heeft maatregelen genomen en adviseert burgers alert te zijn op phishing en oplichting. [Update: d.d. 10 juni 2024 is bekend geworden dat het om 102 burgers gaat.] (Bron: oogtv.nl)</description>
-			<guid isPermaLink="false">https://www.oogtv.nl/2024/05/gegevens-gemeente-groningen-gestolen-bij-hack/?datalekt=7113163e3e229889cbdb94660a742854d8c156e3bef4c8d808c3ae019d423e77</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
