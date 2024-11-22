@@ -1,16 +1,29 @@
 [
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=5ec4e97746570d4f7af85591ac5bca36b7894dd41ee3a03733d3dabbd7632612",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Het Rhedens getroffen door ransomware aanval van de criminele organisatie BLACK SUIT",
-        "date_published": "2024-11-18T15:44:00Z",
-        "date_modified": "2024-11-18T15:44:00Z",
+        "id": "https://www.abnamro.nl/nl/zakelijk/insights/cybersecurity/cyberaanval/hackers-plegen-ceo-fraude-in-verpakkingsindustrie.html?datalekt=8f1490dae9a0a50060e30d95db92ed357081ce1273805acdefc5dd1a63e1055a",
+        "url": "https://www.abnamro.nl/nl/zakelijk/insights/cybersecurity/cyberaanval/hackers-plegen-ceo-fraude-in-verpakkingsindustrie.html",
+        "title": "Koninklijke Hordijk slachtoffer van CEO-fraude door hackers",
+        "date_published": "2024-11-22T10:34:00Z",
+        "date_modified": "2024-11-22T10:34:00Z",
         "language": "nl-nl",
         "author": {
-            "name": "ccinfo.nl"
+            "name": "abnamro.nl"
         },
         "content_html": "",
-        "content_text": "Het Rhedens | Onderwijs | 17-11-2024 | DataLekt.nl: De criminele organisatie BLACK SUIT heeft op het darkweb aangekondigd dat zij Het Rhedens heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+        "content_text": "Koninklijke Hordijk | Industrie | 18-11-2024 | DataLekt.nl: Koninklijke Hordijk, een producent van duurzame verpakkingen, werd vier jaar geleden het slachtoffer van CEO-fraude. Hackers deden zich voor als hooggeplaatste medewerkers en wisten zo een aanzienlijke som geld te stelen. Hoewel het exacte financi\u00eble verlies niet is vermeld, benadrukt het bedrijf het belang van bewustwording onder personeel en actieve monitoring om dergelijke incidenten te voorkomen. (Bron: abnamro.nl)"
+    },
+    {
+        "id": "https://www.dutchitchannel.nl/news/576060/middelbare-school-het-rhedens-getroffen-door-ransomware?datalekt=591742c084d9ecf627a7675e1763c9dda9ad9fbd79361836b474cbf6e6fa31fa",
+        "url": "https://www.dutchitchannel.nl/news/576060/middelbare-school-het-rhedens-getroffen-door-ransomware",
+        "title": "Ransomware-aanval treft middelbare school Het Rhedens in Dieren en Rozendaal",
+        "date_published": "2024-11-18T15:44:00Z",
+        "date_modified": "2024-11-22T10:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitchannel.nl"
+        },
+        "content_html": "",
+        "content_text": "Het Rhedens | Onderwijs | 19-11-2024 | DataLekt.nl: Middelbare school Het Rhedens, met locaties in Dieren en Rozendaal, is recentelijk slachtoffer geworden van een ransomware-aanval. Cybercriminelen beweren toegang te hebben verkregen tot gevoelige gegevens en hebben deze informatie op het darkweb geplaatst. De aanval lijkt afkomstig te zijn van de BLACK SUIT-ransomwaregroep. Details over de gestolen data en eventuele losgeldeisen zijn momenteel niet bekendgemaakt. Dit incident onderstreept de toenemende dreiging van cybercriminaliteit en de impact ervan op onderwijsinstellingen. (Bron: dutchitchannel.nl)"
     },
     {
         "id": "https://www.ed.nl/eindhoven/hacker-slaat-alarm-gloednieuwe-eindhovense-zwemapp-niet-waterdicht-voor-persoonsgegevens~aa0e46e1/?datalekt=1ac3de654a4dae86c733e1a9026912acd36142daadeb1730199d92562679b0aa",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Eurotrol | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 12-06-2024 | DataLekt.nl: De criminele organisatie Blacksuit heeft op het darkweb aangekondigd dat zij Eurotrol heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6f94956e192a429102174c6a31abca2a03dd30df878a2f0c23bcad67d656cbcb",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Aldenhoven getroffen door ransomware aanval van de criminele organisatie Play",
-        "date_published": "2024-06-14T15:52:00Z",
-        "date_modified": "2024-06-14T15:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Aldenhoven Interieurwerken | Industrie | 12-06-2024 | DataLekt.nl: De criminele organisatie Play heeft op het darkweb aangekondigd dat zij Aldenhoven heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]
