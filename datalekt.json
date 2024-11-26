@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html?datalekt=0d46a14b5b859cbd1bea9bb07561df341ba1fac0b9fca8768e04aab36c54f0c5",
+        "url": "https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html",
+        "title": "Gemeente Helmond verliest bijna ton door nepaanmaning na phishingaanval",
+        "date_published": "2024-11-25T21:02:00Z",
+        "date_modified": "2024-11-25T21:02:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Helmond | Overheid: Gemeenten | 25-11-2024 | DataLekt.nl: De gemeente Helmond betaalde in september 93.000 euro aan criminelen na een phishingaanval. De fraude begon met een vervalste factuur, gebaseerd op gestolen factuur- en contractgegevens. De criminelen overtuigden de gemeente om een openstaande factuur te betalen op een gewijzigd rekeningnummer. Door het overslaan van het &quot;vierogenprincipe&quot; en onvoldoende controle bij de crediteurenafdeling, werd de fout niet tijdig opgemerkt. De gemeente doet aangifte en heeft een intern onderzoek gestart om herhaling te voorkomen. Het gestolen bedrag wordt via de bank teruggevraagd. (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/door-fouten-ggd-west-brabant-kon-neparts-daar-vier-jaar-werken?datalekt=c15d5fd97a23d3a3861f9e0249ad71a7173c388d3717c70e4486339036412475",
         "url": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/door-fouten-ggd-west-brabant-kon-neparts-daar-vier-jaar-werken",
         "title": "Neparts werkt vier jaar bij GGD West-Brabant door gebrekkige controles",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "WinSys | Informatie en communicatie | 15-06-2024 | DataLekt.nl: WinSys is onlangs getroffen door een ernstige cyberaanval waarbij de LockBit 3.0-ransomware hun backups en belangrijke servers heeft versleuteld. Deze aanval heeft een aanzienlijke impact gehad, waarbij het bedrijf momenteel niet bereikbaar is en de volledige omvang van de schade nog in kaart moet worden gebracht. Er wordt gewerkt aan het beperken van de schade en het herstellen van de systemen, maar de financi\u00eble gevolgen en het exacte aantal getroffen klanten zijn nog onduidelijk. (Bron: dutchitchannel.nl)"
-    },
-    {
-        "id": "https://gouweijsselnieuws.nl/2024/06/13/hack-met-ransomware-bij-rbg-raakt-inwoners-zuidplas/?datalekt=ea1af8ebf4d176bcff9c976ca11bfe56ef09e64861dc3e9393e00e0602bf42db",
-        "url": "https://gouweijsselnieuws.nl/2024/06/13/hack-met-ransomware-bij-rbg-raakt-inwoners-zuidplas/",
-        "title": "Ransomware-aanval bij RBG leidt tot datadiefstal en zorgen onder inwoners Zuidplas",
-        "date_published": "2024-06-15T11:37:00Z",
-        "date_modified": "2024-06-15T11:37:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gouweijsselnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Hoogheemraadschap van Schieland en de Krimpenerwaard | Overheid: Waterschappen | 13-06-2024 | DataLekt.nl: Bij de Regionale Belasting Groep (RBG), die belastingen int namens het Hoogheemraadschap van Schieland en de Krimpenerwaard, heeft een ransomware-aanval plaatsgevonden. Hierbij zijn persoonsgegevens zoals namen, adressen en in sommige gevallen bankgegevens en BSN-nummers door cybercriminelen gestolen. Deze datalek heeft geleid tot het versturen van brieven naar de getroffen inwoners en ondernemers. Het hoogheemraadschap heeft maatregelen aanbevolen om de persoonlijke veiligheid te waarborgen en benadrukt het belang van waakzaamheid bij communicatie van onbekende bronnen. (Bron: gouweijsselnieuws.nl)"
     }
 ]

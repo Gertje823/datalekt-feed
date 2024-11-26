@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 23 Nov 2024 18:23:32 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 26 Nov 2024 01:36:47 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Helmond verliest bijna ton door nepaanmaning na phishingaanval</title>
+			<link>https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html</link>
+			<description>Gemeente Helmond | Overheid: Gemeenten | 25-11-2024 | DataLekt.nl: De gemeente Helmond betaalde in september 93.000 euro aan criminelen na een phishingaanval. De fraude begon met een vervalste factuur, gebaseerd op gestolen factuur- en contractgegevens. De criminelen overtuigden de gemeente om een openstaande factuur te betalen op een gewijzigd rekeningnummer. Door het overslaan van het &amp;quot;vierogenprincipe&amp;quot; en onvoldoende controle bij de crediteurenafdeling, werd de fout niet tijdig opgemerkt. De gemeente doet aangifte en heeft een intern onderzoek gestart om herhaling te voorkomen. Het gestolen bedrag wordt via de bank teruggevraagd. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html?datalekt=0d46a14b5b859cbd1bea9bb07561df341ba1fac0b9fca8768e04aab36c54f0c5</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Neparts werkt vier jaar bij GGD West-Brabant door gebrekkige controles</title>
 			<link>https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/door-fouten-ggd-west-brabant-kon-neparts-daar-vier-jaar-werken</link>
@@ -767,14 +775,6 @@
 			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/459915/winsys-is-aangevallen-door-lockbit-3-0-encryptie?datalekt=47687dda49661a88e2269209553745ec0bab3f19fccf07632021809567dd1b0c</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ransomware-aanval bij RBG leidt tot datadiefstal en zorgen onder inwoners Zuidplas</title>
-			<link>https://gouweijsselnieuws.nl/2024/06/13/hack-met-ransomware-bij-rbg-raakt-inwoners-zuidplas/</link>
-			<description>Hoogheemraadschap van Schieland en de Krimpenerwaard | Overheid: Waterschappen | 13-06-2024 | DataLekt.nl: Bij de Regionale Belasting Groep (RBG), die belastingen int namens het Hoogheemraadschap van Schieland en de Krimpenerwaard, heeft een ransomware-aanval plaatsgevonden. Hierbij zijn persoonsgegevens zoals namen, adressen en in sommige gevallen bankgegevens en BSN-nummers door cybercriminelen gestolen. Deze datalek heeft geleid tot het versturen van brieven naar de getroffen inwoners en ondernemers. Het hoogheemraadschap heeft maatregelen aanbevolen om de persoonlijke veiligheid te waarborgen en benadrukt het belang van waakzaamheid bij communicatie van onbekende bronnen. (Bron: gouweijsselnieuws.nl)</description>
-			<guid isPermaLink="false">https://gouweijsselnieuws.nl/2024/06/13/hack-met-ransomware-bij-rbg-raakt-inwoners-zuidplas/?datalekt=ea1af8ebf4d176bcff9c976ca11bfe56ef09e64861dc3e9393e00e0602bf42db</guid>
-			<category>Overheid: Waterschappen </category>
-			<pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
