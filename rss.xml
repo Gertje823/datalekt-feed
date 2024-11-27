@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 26 Nov 2024 01:36:47 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 27 Nov 2024 12:39:37 +0000</lastBuildDate>
+		<item>
+			<title>Odido slachtoffer van phishing en malware: cybercrimineel uit Eelderwolde veroordeeld</title>
+			<link>https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel</link>
+			<description>Odido | Informatie en communicatie | 25-11-2024 | DataLekt.nl: Een 22-jarige man uit Eelderwolde is veroordeeld tot ruim drie jaar celstraf wegens cyberaanvallen gericht op onder meer klanten van Odido (voorheen T-Mobile). De verdachte gebruikte phishing en malware om toegang te krijgen tot klantgegevens en bankrekeningen, wat leidde tot aanzienlijke financiële schade. De cybercrimineel werkte samen met anderen om deze misdrijven te organiseren. Het incident benadrukt de noodzaak van voortdurende beveiligingsmaatregelen en bewustwording bij klanten over phishingaanvallen. De zaak werd ontdekt na onderzoek door politie en cybersecurity-experts. (Bron: rtvnoord.nl)</description>
+			<guid isPermaLink="false">https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel?datalekt=ca0e6a1faf71cc6b9abb99c2e53c7e6b04f4d17cee97241aa7ad5085857b5525</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Helmond verliest bijna ton door nepaanmaning na phishingaanval</title>
 			<link>https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html</link>
@@ -767,14 +775,6 @@
 			<guid isPermaLink="false">https://www.parool.nl/nederland/datalek-gemeente-amsterdam-geheime-lijst-met-namen-van-radicale-moslims-verstuurd~b0418e5d/?datalekt=ebf42a97776a5efc6d07e6ab43e22b1440af0652652fe60e0d26123609d77136</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval met LockBit 3.0 treft WinSys</title>
-			<link>https://www.dutchitchannel.nl/news/459915/winsys-is-aangevallen-door-lockbit-3-0-encryptie</link>
-			<description>WinSys | Informatie en communicatie | 15-06-2024 | DataLekt.nl: WinSys is onlangs getroffen door een ernstige cyberaanval waarbij de LockBit 3.0-ransomware hun backups en belangrijke servers heeft versleuteld. Deze aanval heeft een aanzienlijke impact gehad, waarbij het bedrijf momenteel niet bereikbaar is en de volledige omvang van de schade nog in kaart moet worden gebracht. Er wordt gewerkt aan het beperken van de schade en het herstellen van de systemen, maar de financiële gevolgen en het exacte aantal getroffen klanten zijn nog onduidelijk. (Bron: dutchitchannel.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/459915/winsys-is-aangevallen-door-lockbit-3-0-encryptie?datalekt=47687dda49661a88e2269209553745ec0bab3f19fccf07632021809567dd1b0c</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>

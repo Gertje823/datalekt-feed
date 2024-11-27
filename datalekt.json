@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel?datalekt=ca0e6a1faf71cc6b9abb99c2e53c7e6b04f4d17cee97241aa7ad5085857b5525",
+        "url": "https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel",
+        "title": "Odido slachtoffer van phishing en malware: cybercrimineel uit Eelderwolde veroordeeld",
+        "date_published": "2024-11-27T09:03:00Z",
+        "date_modified": "2024-11-27T09:03:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvnoord.nl"
+        },
+        "content_html": "",
+        "content_text": "Odido | Informatie en communicatie | 25-11-2024 | DataLekt.nl: Een 22-jarige man uit Eelderwolde is veroordeeld tot ruim drie jaar celstraf wegens cyberaanvallen gericht op onder meer klanten van Odido (voorheen T-Mobile). De verdachte gebruikte phishing en malware om toegang te krijgen tot klantgegevens en bankrekeningen, wat leidde tot aanzienlijke financi\u00eble schade. De cybercrimineel werkte samen met anderen om deze misdrijven te organiseren. Het incident benadrukt de noodzaak van voortdurende beveiligingsmaatregelen en bewustwording bij klanten over phishingaanvallen. De zaak werd ontdekt na onderzoek door politie en cybersecurity-experts. (Bron: rtvnoord.nl)"
+    },
+    {
         "id": "https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html?datalekt=0d46a14b5b859cbd1bea9bb07561df341ba1fac0b9fca8768e04aab36c54f0c5",
         "url": "https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html",
         "title": "Gemeente Helmond verliest bijna ton door nepaanmaning na phishingaanval",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 18-06-2024 | DataLekt.nl: Bij de gemeente Amsterdam is een lijst met namen en gevoelige persoonlijke gegevens van personen betrokken in de radicaliseringsaanpak per ongeluk verstuurd. Deze lijst bevatte details zoals adressen, geboortedata, en de redenen van opname in het programma. Het lek betreft personen die tussen 2015 en 2017 als risico voor radicalisering werden gezien. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en onderzoekt hoe de fout kon gebeuren. De betrokkenen zijn nog niet ingelicht. (Bron: parool.nl)"
-    },
-    {
-        "id": "https://www.dutchitchannel.nl/news/459915/winsys-is-aangevallen-door-lockbit-3-0-encryptie?datalekt=47687dda49661a88e2269209553745ec0bab3f19fccf07632021809567dd1b0c",
-        "url": "https://www.dutchitchannel.nl/news/459915/winsys-is-aangevallen-door-lockbit-3-0-encryptie",
-        "title": "Cyberaanval met LockBit 3.0 treft WinSys",
-        "date_published": "2024-06-16T12:26:00Z",
-        "date_modified": "2024-06-16T12:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitchannel.nl"
-        },
-        "content_html": "",
-        "content_text": "WinSys | Informatie en communicatie | 15-06-2024 | DataLekt.nl: WinSys is onlangs getroffen door een ernstige cyberaanval waarbij de LockBit 3.0-ransomware hun backups en belangrijke servers heeft versleuteld. Deze aanval heeft een aanzienlijke impact gehad, waarbij het bedrijf momenteel niet bereikbaar is en de volledige omvang van de schade nog in kaart moet worden gebracht. Er wordt gewerkt aan het beperken van de schade en het herstellen van de systemen, maar de financi\u00eble gevolgen en het exacte aantal getroffen klanten zijn nog onduidelijk. (Bron: dutchitchannel.nl)"
     }
 ]
