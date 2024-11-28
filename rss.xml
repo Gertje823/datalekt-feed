@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 27 Nov 2024 12:39:37 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 28 Nov 2024 12:39:32 +0000</lastBuildDate>
+		<item>
+			<title>Hack bij softwareleverancier dwingt HEMA tot aanpassing werkwijze distributiecentrum</title>
+			<link>https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html</link>
+			<description>HEMA | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: HEMA is getroffen door de gevolgen van een cyberaanval op softwareleverancier Blue Yonder, die gebruikt wordt voor distributieprocessen. Hoewel klanten geen hinder ondervinden, heeft HEMA de werkwijze in het distributiecentrum in Utrecht moeten aanpassen. Het bedrijf gebruikt tijdelijk een alternatieve oplossing om de impact te minimaliseren. Er zijn geen aanwijzingen dat klantgegevens zijn gelekt of dat er financiële schade is ontstaan door het incident. Blue Yonder onderzoekt samen met HEMA en andere klanten de exacte omvang van de aanval. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=765fceabcefabf68a9e3e51e5faad848a66390705b1dd7e741b026ea0b129c69</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Softwareleverancier van Jumbo getroffen door hack zonder gevolgen voor klanten</title>
+			<link>https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html</link>
+			<description>Jumbo | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: De softwareleverancier Blue Yonder, die distributiesoftware levert aan Jumbo, is recent slachtoffer geworden van een cyberaanval. Jumbo meldt dat de aanval geen hinder heeft veroorzaakt voor klanten en dat de levering van producten ongestoord blijft verlopen. Het bedrijf geeft aan nauw samen te werken met de leverancier om mogelijke risico’s te beperken. Er zijn geen gegevens van klanten gelekt en ook financiële schade is niet gerapporteerd. De aanval lijkt vooral gericht te zijn op de systemen van de leverancier. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=9894200e6c8e29586482b5a6436de6450ac12a94fa7aa8c4440c38395ff43dbc</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Odido slachtoffer van phishing en malware: cybercrimineel uit Eelderwolde veroordeeld</title>
 			<link>https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel</link>
@@ -759,22 +775,6 @@
 			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/hackers-slaan-toe-26-bedrijven-getroffen-door-cyberaanval-met-gijzelsoftware.-hackers-vragen-vier-ton-losgeld/14427984.html?datalekt=3b157f9763dcc4798b9ab64cf83fac95bc3e62755d90254885753e26b8222e44</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij gemeente Geertruidenberg door printfout</title>
-			<link>https://www.ad.nl/geertruidenberg/privacyblunder-in-geertruidenberg-printfout-legt-financiele-gegevens-inwoners-bloot~a80640ab/</link>
-			<description>Gemeente Geertruidenberg | Overheid: Gemeenten | 19-06-2024 | DataLekt.nl: In Geertruidenberg heeft een printfout geleid tot een datalek waarbij financiële gegevens van 260 inwoners zijn blootgelegd. De fout vond plaats bij het uitbetalen van vakantiegeld en andere bijstandsuitkeringen, waarbij uitkeringsspecificaties dubbelzijdig zijn geprint en verzonden. Hierdoor ontvingen 130 inwoners de gegevens van anderen. Het lek werd snel ontdekt en gemeld bij de Autoriteit Persoonsgegevens. De gemeente heeft de getroffen inwoners geïnformeerd en hun excuses aangeboden. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/geertruidenberg/privacyblunder-in-geertruidenberg-printfout-legt-financiele-gegevens-inwoners-bloot~a80640ab/?datalekt=1678e1ec8cbed2d6f5b9f8a33113042ac4ee46cc8f1149385a7028b07aeb706a</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij gemeente Amsterdam onthult geheime namenlijst</title>
-			<link>https://www.parool.nl/nederland/datalek-gemeente-amsterdam-geheime-lijst-met-namen-van-radicale-moslims-verstuurd~b0418e5d/</link>
-			<description>Gemeente Amsterdam | Overheid: Gemeenten | 18-06-2024 | DataLekt.nl: Bij de gemeente Amsterdam is een lijst met namen en gevoelige persoonlijke gegevens van personen betrokken in de radicaliseringsaanpak per ongeluk verstuurd. Deze lijst bevatte details zoals adressen, geboortedata, en de redenen van opname in het programma. Het lek betreft personen die tussen 2015 en 2017 als risico voor radicalisering werden gezien. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en onderzoekt hoe de fout kon gebeuren. De betrokkenen zijn nog niet ingelicht. (Bron: parool.nl)</description>
-			<guid isPermaLink="false">https://www.parool.nl/nederland/datalek-gemeente-amsterdam-geheime-lijst-met-namen-van-radicale-moslims-verstuurd~b0418e5d/?datalekt=ebf42a97776a5efc6d07e6ab43e22b1440af0652652fe60e0d26123609d77136</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
