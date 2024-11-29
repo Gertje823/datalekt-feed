@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=de5543ee5a1b80e5354a4b316a4f0ba0cd23c5a95b463076e6d0862a8095788d",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "VISUfarma getroffen door ransomware aanval van de criminele organisatie Incransom",
+        "date_published": "2024-11-29T15:57:00Z",
+        "date_modified": "2024-11-29T15:57:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "VISUfarma | Gezondheids- en welzijnszorg | 28-11-2024 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij VISUfarma heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=765fceabcefabf68a9e3e51e5faad848a66390705b1dd7e741b026ea0b129c69",
         "url": "https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html",
         "title": "Hack bij softwareleverancier dwingt HEMA tot aanpassing werkwijze distributiecentrum",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Dienst Uitvoering Onderwijs (DUO) | Overheid: Agentschappen | 24-06-2024 | DataLekt.nl: Een fout in de beveiliging van de software van Survalyzer, gebruikt door DUO voor het analyseren van enqu\u00eateresultaten, heeft geleid tot het lekken van e-mailadressen van 60.000 Nederlanders met een studieschuld. Het incident kwam aan het licht toen een ethisch hacker ontdekte dat hij de e-mailadressen van de ontvangers van een DUO-enqu\u00eate kon zien. Het lek werd snel gemeld en vervolgens beveiligd, waardoor verdere onbevoegde toegang werd voorkomen. Er is geen bewijs van misbruik van deze gegevens door criminelen, maar de informatie had potentieel gebruikt kunnen worden voor phishing-aanvallen. DUO heeft het incident gerapporteerd bij de Autoriteit Persoonsgegevens. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.noordhollandsdagblad.nl/regio/hackers-slaan-toe-26-bedrijven-getroffen-door-cyberaanval-met-gijzelsoftware.-hackers-vragen-vier-ton-losgeld/14427984.html?datalekt=3b157f9763dcc4798b9ab64cf83fac95bc3e62755d90254885753e26b8222e44",
-        "url": "https://www.noordhollandsdagblad.nl/regio/hackers-slaan-toe-26-bedrijven-getroffen-door-cyberaanval-met-gijzelsoftware.-hackers-vragen-vier-ton-losgeld/14427984.html",
-        "title": "Cyberaanval ontwricht 26 bedrijven in Noord- en Zuid-Holland",
-        "date_published": "2024-06-23T13:22:00Z",
-        "date_modified": "2024-06-23T13:22:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "noordhollandsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "26 onbekende organisaties | Overige dienstverlening | 21-06-2024 | DataLekt.nl: Een hackersgroep heeft met een geavanceerde cyberaanval minstens 26 bedrijven in Noord- en Zuid-Holland ontregeld. De servers van deze bedrijven zijn ge\u00efnfecteerd met ransomware, en de aanval is nog steeds gaande. Het cybercrimeteam van de politie Noord-Holland is bezig met een forensisch onderzoek naar de aanval. (Bron: noordhollandsdagblad.nl)"
     }
 ]

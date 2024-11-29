@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 28 Nov 2024 12:39:32 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 29 Nov 2024 18:26:24 +0000</lastBuildDate>
+		<item>
+			<title>VISUfarma getroffen door ransomware aanval van de criminele organisatie Incransom</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>VISUfarma | Gezondheids- en welzijnszorg | 28-11-2024 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij VISUfarma heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=de5543ee5a1b80e5354a4b316a4f0ba0cd23c5a95b463076e6d0862a8095788d</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Hack bij softwareleverancier dwingt HEMA tot aanpassing werkwijze distributiecentrum</title>
 			<link>https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html</link>
@@ -767,14 +775,6 @@
 			<guid isPermaLink="false">https://www.nu.nl/economie/6318051/mailadressen-van-60000-mensen-met-studieschuld-gelekt-door-fout-bij-duo.html?datalekt=54eb93d1c781d4ee3f7a4603a42d7e66eb6e08ab2291759207d4ffd3b5eaf840</guid>
 			<category>Overheid: Agentschappen </category>
 			<pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval ontwricht 26 bedrijven in Noord- en Zuid-Holland</title>
-			<link>https://www.noordhollandsdagblad.nl/regio/hackers-slaan-toe-26-bedrijven-getroffen-door-cyberaanval-met-gijzelsoftware.-hackers-vragen-vier-ton-losgeld/14427984.html</link>
-			<description>26 onbekende organisaties | Overige dienstverlening | 21-06-2024 | DataLekt.nl: Een hackersgroep heeft met een geavanceerde cyberaanval minstens 26 bedrijven in Noord- en Zuid-Holland ontregeld. De servers van deze bedrijven zijn geïnfecteerd met ransomware, en de aanval is nog steeds gaande. Het cybercrimeteam van de politie Noord-Holland is bezig met een forensisch onderzoek naar de aanval. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/hackers-slaan-toe-26-bedrijven-getroffen-door-cyberaanval-met-gijzelsoftware.-hackers-vragen-vier-ton-losgeld/14427984.html?datalekt=3b157f9763dcc4798b9ab64cf83fac95bc3e62755d90254885753e26b8222e44</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
