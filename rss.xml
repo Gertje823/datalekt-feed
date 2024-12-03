@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 29 Nov 2024 18:26:24 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 03 Dec 2024 01:39:24 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij onbekende leverancier leidt tot diefstal gegevens inwoners Twentse gemeenten</title>
+			<link>https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek</link>
+			<description>Onbekende leverancier | Overige dienstverlening | 02-12-2024 | DataLekt.nl: Een externe leverancier van diensten aan de gemeenten Dinkelland en Tubbergen is getroffen door een datalek, waardoor persoonsgegevens van ongeveer duizend inwoners zijn gestolen. Onbekende cybercriminelen hebben via een kwetsbaarheid in de systemen toegang gekregen tot namen, geslacht en telefoonnummers. De leverancier onderzoekt hoe het lek heeft kunnen ontstaan en welke beveiligingsmaatregelen nodig zijn om verdere incidenten te voorkomen. De getroffen gemeenten waarschuwen betrokkenen voor mogelijke phishingpogingen als gevolg van het incident. (Bron: hartvannederland.nl)</description>
+			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=aa2ca5bfc45e161b9176b13e0f0b120490c7a2c5bc22473fb7ffaf6610a94848</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Persoonsgegevens inwoners gemeente Tubbergen gestolen na datalek</title>
+			<link>https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek</link>
+			<description>Gemeente Tubbergen | Overheid: Gemeenten | 02-12-2024 | DataLekt.nl: In de gemeente Tubbergen zijn persoonsgegevens van inwoners buitgemaakt door een datalek bij een externe dienstverlener. De gestolen gegevens omvatten namen, geslacht en telefoonnummers van circa duizend inwoners. De gemeente heeft laten weten dat de kans op misbruik klein wordt geacht, maar raadt betrokkenen aan alert te blijven op verdachte berichten. Het incident wordt verder onderzocht, en de gemeente werkt aan een plan om soortgelijke lekken in de toekomst te voorkomen. (Bron: hartvannederland.nl)</description>
+			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=a8455c95cd878a2dad799095fa2b3bb558487dde92010cadd253da7d7351aaeb</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij leverancier raakt inwoners van gemeente Dinkelland</title>
+			<link>https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek</link>
+			<description>Gemeente Dinkelland | Overheid: Gemeenten | 02-12-2024 | DataLekt.nl: Een datalek bij een externe leverancier heeft geleid tot de diefstal van persoonsgegevens van inwoners van de gemeente Dinkelland. Het incident treft namen, geslacht en telefoonnummers van ongeveer duizend inwoners. De gegevens werden door cybercriminelen buitgemaakt via een kwetsbaarheid in de systemen van de leverancier. Hoewel het om minder gevoelige informatie gaat, adviseert de gemeente de betrokkenen waakzaam te zijn voor phishing. Er wordt onderzocht hoe het lek kon ontstaan en welke maatregelen nodig zijn om herhaling te voorkomen. (Bron: hartvannederland.nl)</description>
+			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=55cfc61c7be2e8bc41b774345368844e954546abbe9776bf5692cddb84d15ac6</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>VISUfarma getroffen door ransomware aanval van de criminele organisatie Incransom</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -751,30 +775,6 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/224006/schoolboekenleverancier-iddink-meldt-opnieuw-datalek.html?datalekt=16f7db64ba697f1709ae9f26a27595398a57c3d7188f068bcb603bf5cd6cd565</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rechtbank Arnhem steunt privacyrechten van sekswerkers in recente uitspraak</title>
-			<link>https://clara-wichmann.nl/nieuws/persbericht-uitspraak-rechtbank-arnhem-28-juni-2024-rechtbank-stelt-sekswerkers-in-gelijk/</link>
-			<description>Gemeente Nijmegen | Overheid: Gemeenten | 28-06-2024 | DataLekt.nl: De rechtbank in Arnhem heeft bepaald dat de registratieplicht voor sekswerkers in Nijmegen in strijd is met hun recht op privacy. Deze uitspraak volgt nadat Bureau Clara Wichmann, samen met twee sekswerkers en ondersteund door advocatenkantoor Stibbe, bezwaar maakte tegen de registratie en het uitsterfbeleid van de tippelzone. De rechtbank erkende dat er geen zwaarwegend algemeen belang is dat deze registratie van gevoelige persoonsgegevens rechtvaardigt, wat een belangrijke overwinning betekent voor de rechten van sekswerkers. (Bron: clara-wichmann.nl)</description>
-			<guid isPermaLink="false">https://clara-wichmann.nl/nieuws/persbericht-uitspraak-rechtbank-arnhem-28-juni-2024-rechtbank-stelt-sekswerkers-in-gelijk/?datalekt=d396374cc9e680e064aeee1410a579a2ae3a4f9baab2bc1f62aefb963ed1f33d</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Bunq onderzoekt beschuldigingen van ongeautoriseerde toegang tot klantrekeningen</title>
-			<link>https://www.security.nl/posting/847874/Bunq+meldt+potentieel+datalek+bij+Autoriteit+Persoonsgegevens</link>
-			<description>Bunq | Financiële instellingen | 27-06-2024 | DataLekt.nl: Bunq heeft bij de Autoriteit Persoonsgegevens een melding gemaakt van een potentieel datalek na berichten over medewerkers die mogelijk ongeautoriseerd toegang hadden tot klantenrekeningen. Dit incident, dat recent ontdekt is, heeft geleid tot een onderzoek van zowel de Tuchtrecht Banken als vanuit de bank zelf. De impact en de exacte aard van de mogelijke privacyschending zijn nog onduidelijk, maar de bank heeft bevestigd dat het in enkele gevallen om een grijs gebied ging en betrokken medewerkers zijn aangesproken. Dit roept vragen op over de naleving van de bankierseed en de bescherming van klantgegevens bij Bunq. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/847874/Bunq+meldt+potentieel+datalek+bij+Autoriteit+Persoonsgegevens?datalekt=69c8293c477c60b9398b4d6228abce0a6391dbc4daf3b8ad268256fa45d26464</guid>
-			<category>Financiële instellingen </category>
-			<pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij DUO door fout in beveiliging blootlegt mailadressen van 60.000 schuldenaars</title>
-			<link>https://www.nu.nl/economie/6318051/mailadressen-van-60000-mensen-met-studieschuld-gelekt-door-fout-bij-duo.html</link>
-			<description>Dienst Uitvoering Onderwijs (DUO) | Overheid: Agentschappen | 24-06-2024 | DataLekt.nl: Een fout in de beveiliging van de software van Survalyzer, gebruikt door DUO voor het analyseren van enquêteresultaten, heeft geleid tot het lekken van e-mailadressen van 60.000 Nederlanders met een studieschuld. Het incident kwam aan het licht toen een ethisch hacker ontdekte dat hij de e-mailadressen van de ontvangers van een DUO-enquête kon zien. Het lek werd snel gemeld en vervolgens beveiligd, waardoor verdere onbevoegde toegang werd voorkomen. Er is geen bewijs van misbruik van deze gegevens door criminelen, maar de informatie had potentieel gebruikt kunnen worden voor phishing-aanvallen. DUO heeft het incident gerapporteerd bij de Autoriteit Persoonsgegevens. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/economie/6318051/mailadressen-van-60000-mensen-met-studieschuld-gelekt-door-fout-bij-duo.html?datalekt=54eb93d1c781d4ee3f7a4603a42d7e66eb6e08ab2291759207d4ffd3b5eaf840</guid>
-			<category>Overheid: Agentschappen </category>
-			<pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
