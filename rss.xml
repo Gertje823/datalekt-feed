@@ -7,28 +7,44 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 03 Dec 2024 01:39:24 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 04 Dec 2024 12:39:50 +0000</lastBuildDate>
+		<item>
+			<title>Debatcentrum De Balie in Amsterdam getroffen door DDoS-aanval</title>
+			<link>https://www.parool.nl/nederland/amsterdams-debatcentrum-de-balie-getroffen-door-ddos-aanval~bdeb41c9/</link>
+			<description>Café-Restaurant De Balie | Logies-, maaltijd- en drankverstrekking | 03-12-2024 | DataLekt.nl: Het Amsterdamse debatcentrum De Balie is getroffen door een DDoS-aanval, waardoor hun online diensten tijdelijk niet bereikbaar waren. De aanval begon op maandagmiddag en werd uitgevoerd door een onbekende partij. Het aantal getroffen gebruikers is nog niet vastgesteld, en de financiële schade blijft onduidelijk. Het debatcentrum onderzoekt de aanval en probeert de online beschikbaarheid te herstellen. Er zijn geen aanwijzingen over de identiteit van de aanvallers of hun motief. (Bron: parool.nl)</description>
+			<guid isPermaLink="false">https://www.parool.nl/nederland/amsterdams-debatcentrum-de-balie-getroffen-door-ddos-aanval~bdeb41c9/?datalekt=9120b50b51e438b1e77be1330182762b573d83c69511feb6800655466fe7e390</guid>
+			<category>Logies-, maaltijd- en drankverstrekking </category>
+			<pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gegevens 100.000 inwoners Amersfoort gelekt na hack bij softwareleverancier van afsprakenbeheer</title>
+			<link>https://tweakers.net/nieuws/229362/gegevens-100000-inwoners-amersfoort-gelekt-na-hack-bij-softwareleverancier.html</link>
+			<description>Gemeente Amersfoort | Overheid: Gemeenten | 03-12-2024 | DataLekt.nl: Door een hack bij een softwareleverancier van de gemeente Amersfoort zijn de gegevens van 100.000 huidige en voormalige inwoners gelekt. Het gaat om namen, adressen, geboortedata en contactinformatie, en voor 7000 personen ook het burgerservicenummer. De gegevens betroffen oude afspraken die tussen 2009 en 2024 zijn gemaakt. De gemeente heeft het lek gemeld bij de Informatiebeveiligingsdienst en waarschuwt getroffen personen alert te zijn op phishing. Volgens de IBD zijn de risico’s voor slachtoffers beperkt, omdat aanvullende documenten ontbreken. De gemeente heeft betrokkenen per brief geïnformeerd. [Update: d.d. 4 december 2024 is vastgesteld op basis van een analyse van de website code dat het om JCC Software gaat.] (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/229362/gegevens-100000-inwoners-amersfoort-gelekt-na-hack-bij-softwareleverancier.html?datalekt=703d44b573af6c2006f378aa861c36410a14002724dce178be7528bb212799df</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij onbekende leverancier leidt tot diefstal gegevens inwoners Twentse gemeenten</title>
 			<link>https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek</link>
-			<description>Onbekende leverancier | Overige dienstverlening | 02-12-2024 | DataLekt.nl: Een externe leverancier van diensten aan de gemeenten Dinkelland en Tubbergen is getroffen door een datalek, waardoor persoonsgegevens van ongeveer duizend inwoners zijn gestolen. Onbekende cybercriminelen hebben via een kwetsbaarheid in de systemen toegang gekregen tot namen, geslacht en telefoonnummers. De leverancier onderzoekt hoe het lek heeft kunnen ontstaan en welke beveiligingsmaatregelen nodig zijn om verdere incidenten te voorkomen. De getroffen gemeenten waarschuwen betrokkenen voor mogelijke phishingpogingen als gevolg van het incident. (Bron: hartvannederland.nl)</description>
-			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=aa2ca5bfc45e161b9176b13e0f0b120490c7a2c5bc22473fb7ffaf6610a94848</guid>
+			<description>JCC Software | Overige dienstverlening | 02-12-2024 | DataLekt.nl: Een externe leverancier van diensten aan de gemeenten Dinkelland en Tubbergen is getroffen door een datalek, waardoor persoonsgegevens van ongeveer duizend inwoners zijn gestolen. Onbekende cybercriminelen hebben via een kwetsbaarheid in de systemen toegang gekregen tot namen, geslacht en telefoonnummers. De leverancier onderzoekt hoe het lek heeft kunnen ontstaan en welke beveiligingsmaatregelen nodig zijn om verdere incidenten te voorkomen. De getroffen gemeenten waarschuwen betrokkenen voor mogelijke phishingpogingen als gevolg van het incident. [Update: d.d. 4 december 2024 is vastgesteld op basis van een analyse van de website code dat het om JCC Software gaat.] (Bron: hartvannederland.nl)</description>
+			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=8023f212ec7578496f4dbc94da847d2b36df9f0f6ce1709627462bb9f69c7031</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Persoonsgegevens inwoners gemeente Tubbergen gestolen na datalek</title>
 			<link>https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek</link>
-			<description>Gemeente Tubbergen | Overheid: Gemeenten | 02-12-2024 | DataLekt.nl: In de gemeente Tubbergen zijn persoonsgegevens van inwoners buitgemaakt door een datalek bij een externe dienstverlener. De gestolen gegevens omvatten namen, geslacht en telefoonnummers van circa duizend inwoners. De gemeente heeft laten weten dat de kans op misbruik klein wordt geacht, maar raadt betrokkenen aan alert te blijven op verdachte berichten. Het incident wordt verder onderzocht, en de gemeente werkt aan een plan om soortgelijke lekken in de toekomst te voorkomen. (Bron: hartvannederland.nl)</description>
-			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=a8455c95cd878a2dad799095fa2b3bb558487dde92010cadd253da7d7351aaeb</guid>
+			<description>Gemeente Tubbergen | Overheid: Gemeenten | 02-12-2024 | DataLekt.nl: In de gemeente Tubbergen zijn persoonsgegevens van inwoners buitgemaakt door een datalek bij een externe dienstverlener. De gestolen gegevens omvatten namen, geslacht en telefoonnummers van circa duizend inwoners. De gemeente heeft laten weten dat de kans op misbruik klein wordt geacht, maar raadt betrokkenen aan alert te blijven op verdachte berichten. Het incident wordt verder onderzocht, en de gemeente werkt aan een plan om soortgelijke lekken in de toekomst te voorkomen. [Update: d.d. 4 december 2024 is vastgesteld op basis van een analyse van de website code dat het om JCC Software gaat.] (Bron: hartvannederland.nl)</description>
+			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=0b5bee505c751f85e9e918278083feecdeaa053156ed068e0bf29c2e21895944</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Datalek bij leverancier raakt inwoners van gemeente Dinkelland</title>
 			<link>https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek</link>
-			<description>Gemeente Dinkelland | Overheid: Gemeenten | 02-12-2024 | DataLekt.nl: Een datalek bij een externe leverancier heeft geleid tot de diefstal van persoonsgegevens van inwoners van de gemeente Dinkelland. Het incident treft namen, geslacht en telefoonnummers van ongeveer duizend inwoners. De gegevens werden door cybercriminelen buitgemaakt via een kwetsbaarheid in de systemen van de leverancier. Hoewel het om minder gevoelige informatie gaat, adviseert de gemeente de betrokkenen waakzaam te zijn voor phishing. Er wordt onderzocht hoe het lek kon ontstaan en welke maatregelen nodig zijn om herhaling te voorkomen. (Bron: hartvannederland.nl)</description>
-			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=55cfc61c7be2e8bc41b774345368844e954546abbe9776bf5692cddb84d15ac6</guid>
+			<description>Gemeente Dinkelland | Overheid: Gemeenten | 02-12-2024 | DataLekt.nl: Een datalek bij een externe leverancier heeft geleid tot de diefstal van persoonsgegevens van inwoners van de gemeente Dinkelland. Het incident treft namen, geslacht en telefoonnummers van ongeveer duizend inwoners. De gegevens werden door cybercriminelen buitgemaakt via een kwetsbaarheid in de systemen van de leverancier. Hoewel het om minder gevoelige informatie gaat, adviseert de gemeente de betrokkenen waakzaam te zijn voor phishing. Er wordt onderzocht hoe het lek kon ontstaan en welke maatregelen nodig zijn om herhaling te voorkomen. [Update: d.d. 4 december 2024 is vastgesteld op basis van een analyse van de website code dat het om JCC Software gaat.] (Bron: hartvannederland.nl)</description>
+			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=08132eff263038de899b0b510561361226530da657746c92d011dab242c82ffb</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -769,14 +785,6 @@
 			<pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Nieuw datalek bij Iddink kan leerlinggegevens blootstellen</title>
-			<link>https://tweakers.net/nieuws/224006/schoolboekenleverancier-iddink-meldt-opnieuw-datalek.html</link>
-			<description>Iddink Learning Materials | Groot- en detailhandel | 04-07-2024 | DataLekt.nl: Iddink Learning Materials, een leverancier van schoolboeken, heeft een datalek gemeld waarbij de veiligheid van leerlinginformatie in gevaar kon komen door een aanpasbare inloglink. Dit incident is kenmerkend omdat er enige overlap is met gegevens die eerder dat jaar tijdens een ransomwareaanval zijn buitgemaakt, waaronder namen en adressen van leerlingen. Hoewel de kans op misbruik klein is, heeft Iddink het incident gemeld bij de Autoriteit Persoonsgegevens. Er zijn ongeveer 420.000 leerlingen in Nederland en België die mogelijk beïnvloed zijn door dit lek. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/224006/schoolboekenleverancier-iddink-meldt-opnieuw-datalek.html?datalekt=16f7db64ba697f1709ae9f26a27595398a57c3d7188f068bcb603bf5cd6cd565</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
 			<link>https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt</link>
 			<description>AddComm | Informatie en communicatie | 23-05-2024 | DataLekt.nl: AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 14 oktober 2024 is bekend geworden dat AddComm €400.000 aan losgeld heeft betaald om de systemen te herstellen. In totaal zijn 16.625 inwoners, bedrijven en 50 gemeenten getroffen door de aanval.] (Bron: telegraaf.nl, ibestuur.nl)</description>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/204756/politie-krijgt-boete-wegens-privacyschendingen-bij-inzet-camera-autos-rotterdam.html?datalekt=e41af31f662f6af8ae5effd45def97a2272531d2b31bddabb46b505d6c5cd3cc</guid>
 			<category>Overheid: Politie en brandweer </category>
 			<pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Hogeschool van Arnhem en Nijmegen treft half miljoen mensen</title>
-			<link>https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/</link>
-			<description>Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 03-09-2021 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) heeft een groot datalek onderzocht dat op 1 september aan het licht kwam. Een hacker verkreeg toegang tot gegevens van studenten, medewerkers en andere contacten via een webformulier. Hoewel de HAN weigerde losgeld te betalen, werden de gegevens online gepubliceerd. Het merendeel van de gelekte gegevens betrof algemene persoonsinformatie, maar in sommige gevallen ging het om gevoelige data zoals BSN-nummers en politieke voorkeuren. De HAN heeft haar excuses aangeboden en informeert de getroffenen over het incident. [Update: d.d. 6 juli 2024 is bekend geworden dat 5 studenten een schadevergoeding van in totaal € 1800.] (Bron: erasmusmagazine.nl, tweakers.net)</description>
-			<guid isPermaLink="false">https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/?datalekt=f889fc93c361568cf031dff080cd888cf1a609a227baad68cf7cf120eaa18ab0</guid>
-			<category>Onderwijs </category>
-			<pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
