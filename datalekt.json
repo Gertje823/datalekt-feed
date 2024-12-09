@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=77b1b2e371bbd351bf0638e712fac5627563ad3a3e84cdde54f7a2277c336655",
+        "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
+        "title": "Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade",
+        "date_published": "2024-12-09T13:41:12Z",
+        "date_modified": "2024-12-09T13:41:12Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "noordhollandsdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van twee\u00ebnhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks \u20ac150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/229362/gegevens-100000-inwoners-amersfoort-gelekt-na-hack-bij-softwareleverancier.html?datalekt=d7f5f404020615d6fa75ef0c7cdc8ec1413ff292b106e985fe958c91127d5f8a",
         "url": "https://tweakers.net/nieuws/229362/gegevens-100000-inwoners-amersfoort-gelekt-na-hack-bij-softwareleverancier.html",
         "title": "Gegevens 100.000 inwoners Amersfoort gelekt na hack bij leverancier JCC Software",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 09-07-2024 | DataLekt.nl: De gemeente Alphen aan den Rijn heeft een datalek veroorzaakt door een fout bij het printen van brieven aan kentekenhouders, waarbij de achterzijde gegevens van andere personen bevatte. Hierdoor zijn de persoonlijke gegevens van achttien personen onbedoeld openbaar gemaakt. Dit is niet de eerste keer dat een dergelijke fout plaatsvindt. De gemeente heeft de getroffen personen ge\u00efnformeerd en het incident gemeld bij de Autoriteit Persoonsgegevens. Er is sprake van menselijke fouten en de schade lijkt beperkt tot de betrokken individuen. (Bron: studioalphen.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=75716908d66a3b1635de77e65dd96e76b10accbcbb6190f8b25239c092487e73",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "NOAB getroffen door ransomware aanval van de criminele organisatie Lockbit3",
-        "date_published": "2024-07-08T15:38:00Z",
-        "date_modified": "2024-07-08T15:38:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "NOAB | Overige dienstverlening | 08-07-2024 | DataLekt.nl: De criminele organisatie Lockbit3 heeft op het darkweb aangekondigd dat zij NOAB heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]
