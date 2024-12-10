@@ -1,16 +1,29 @@
 [
     {
-        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=20f009abd30a476583c8ef70f1c33c72611bb3175cd9f822f20aa5106da6fe1b",
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=363e7d041a19cc515ab741e4b0e5b17dc44d138fbc923b52e90f43a89cd9460e",
         "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
         "title": "Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade",
-        "date_published": "2024-12-10T07:28:48Z",
-        "date_modified": "2024-12-10T07:28:48Z",
+        "date_published": "2024-12-10T13:40:47Z",
+        "date_modified": "2024-12-10T13:40:47Z",
         "language": "nl-nl",
         "author": {
             "name": "noordhollandsdagblad.nl"
         },
         "content_html": "",
         "content_text": "Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van twee\u00ebnhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks \u20ac150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)"
+    },
+    {
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=f3658458db025fd1a338f3b6d05bf45e5e7678898d821f3eaee18167369962c7",
+        "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
+        "title": "Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner",
+        "date_published": "2024-12-10T13:40:47Z",
+        "date_modified": "2024-12-10T13:40:47Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "noordhollandsdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van twee\u00ebnhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financi\u00eble gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna \u20ac500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)"
     },
     {
         "id": "https://tweakers.net/nieuws/229362/gegevens-100000-inwoners-amersfoort-gelekt-na-hack-bij-softwareleverancier.html?datalekt=d7f5f404020615d6fa75ef0c7cdc8ec1413ff292b106e985fe958c91127d5f8a",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Hoogheemraadschap van Delfland | Overheid: Waterschappen | 05-06-2024 | DataLekt.nl: Door een cyberaanval op AddComm zijn persoonsgegevens van gebruikers van het Hoogheemraadschap van Delfland gelekt. Deze gegevens omvatten namen, adressen en mogelijk gevoelige informatie gerelateerd aan waterbeheer. Het Hoogheemraadschap onderzoekt de volledige omvang van de schade en heeft maatregelen getroffen om verdere datalekken te voorkomen. (Bron: gemeente.nu)"
-    },
-    {
-        "id": "https://www.studioalphen.nl/nieuws/gemeente-opnieuw-de-fout-in-printfout-in-brieven-veroorzaakt-datalek-persoonsgegevens/?datalekt=c40d0c83bb02f8a930d698064feb6b06d8742a7b67c06e399bf6783e572e779e",
-        "url": "https://www.studioalphen.nl/nieuws/gemeente-opnieuw-de-fout-in-printfout-in-brieven-veroorzaakt-datalek-persoonsgegevens/",
-        "title": "Datalek bij gemeente Alphen aan den Rijn door dubbelzijdige printfout",
-        "date_published": "2024-07-11T10:28:00Z",
-        "date_modified": "2024-07-11T10:28:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "studioalphen.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 09-07-2024 | DataLekt.nl: De gemeente Alphen aan den Rijn heeft een datalek veroorzaakt door een fout bij het printen van brieven aan kentekenhouders, waarbij de achterzijde gegevens van andere personen bevatte. Hierdoor zijn de persoonlijke gegevens van achttien personen onbedoeld openbaar gemaakt. Dit is niet de eerste keer dat een dergelijke fout plaatsvindt. De gemeente heeft de getroffen personen ge\u00efnformeerd en het incident gemeld bij de Autoriteit Persoonsgegevens. Er is sprake van menselijke fouten en de schade lijkt beperkt tot de betrokken individuen. (Bron: studioalphen.nl)"
     }
 ]
