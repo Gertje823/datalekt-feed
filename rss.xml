@@ -7,12 +7,12 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 11 Dec 2024 06:28:40 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 11 Dec 2024 12:40:14 +0000</lastBuildDate>
 		<item>
 			<title>Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
 			<description>Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van tweeënhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financiële gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna €500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=257efae53a25cc2cfab4a144ecc8572dbd97497cdbd1fe2ad530ae8e27825f07</guid>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=069c00e07d5e15ffa84426785c7209cd92223f64052e83dbbdc3947744e98a4c</guid>
 			<category>Industrie </category>
 			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -20,17 +20,41 @@
 			<title>Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
 			<description>Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van tweeënhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks €150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=53ef1fa80788d12d31fad56db066b54fd2e1974727c37fd038373e484ebd72bd</guid>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=5c56e4d9455352796227e940fb3ef92c3ea4cf8e86796d8ad1c8334a4a13b238</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Debatcentrum De Balie in Amsterdam getroffen door DDoS-aanval</title>
-			<link>https://www.parool.nl/nederland/amsterdams-debatcentrum-de-balie-getroffen-door-ddos-aanval~bdeb41c9/</link>
-			<description>Café-Restaurant De Balie | Logies-, maaltijd- en drankverstrekking | 03-12-2024 | DataLekt.nl: Het Amsterdamse debatcentrum De Balie is getroffen door een DDoS-aanval, waardoor hun online diensten tijdelijk niet bereikbaar waren. De aanval begon op maandagmiddag en werd uitgevoerd door een onbekende partij. Het aantal getroffen gebruikers is nog niet vastgesteld, en de financiële schade blijft onduidelijk. Het debatcentrum onderzoekt de aanval en probeert de online beschikbaarheid te herstellen. Er zijn geen aanwijzingen over de identiteit van de aanvallers of hun motief. (Bron: parool.nl)</description>
-			<guid isPermaLink="false">https://www.parool.nl/nederland/amsterdams-debatcentrum-de-balie-getroffen-door-ddos-aanval~bdeb41c9/?datalekt=9120b50b51e438b1e77be1330182762b573d83c69511feb6800655466fe7e390</guid>
-			<category>Logies-, maaltijd- en drankverstrekking </category>
-			<pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+			<title>Russische criminelen gebruikten Serverius in Dronten voor miljoenenfraude via nepadvertenties</title>
+			<link>https://www.omroepflevoland.nl/nieuws/407753/datacenter-in-dronten-speelde-sleutelrol-bij-wereldwijde-instagram-oplichting</link>
+			<description>Serverius | Informatie en communicatie | 09-12-2024 | DataLekt.nl: Russische criminelen maakten gebruik van een server bij Serverius in Dronten voor een wereldwijde oplichtingszaak, waarbij 673 Nederlanders en wereldwijd meer dan een half miljoen mensen werden getroffen. Nepadvertenties met BN&amp;#039;ers leidden slachtoffers naar frauduleuze websites voor cryptobeleggingen. Op de servers stonden beheersystemen, databases en persoonlijke gegevens van slachtoffers opgeslagen. Het criminele netwerk beheerde 4.000 frauduleuze pagina’s en genereerde minstens 110 miljoen dollar. Serverius werkt samen met de politie en benadrukt hun beleid tegen crimineel misbruik van hun diensten. (Bron: omroepflevoland.nl)</description>
+			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/407753/datacenter-in-dronten-speelde-sleutelrol-bij-wereldwijde-instagram-oplichting?datalekt=e55b517fdeae8389774b58fb7b7e837276972edabdce4494a9712643685675b7</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Serverius in Dronten opnieuw betrokken bij Russische beïnvloedingscampagne op X</title>
+			<link>https://www.omroepflevoland.nl/nieuws/388041/datacenter-in-dronten-opnieuw-spil-in-russische-beinvloedingscampage</link>
+			<description>Serverius | Informatie en communicatie | 11-07-2024 | DataLekt.nl: Het datacenter Serverius in Dronten verhuurde servers aan een Russische klant die software gebruikte om nepaccounts op X (voorheen Twitter) te beheren. Deze nepaccounts, gecreëerd met behulp van AI, verspreidden desinformatie gericht op het Amerikaanse publieke debat. Door samenwerking van AIVD, MIVD en FBI is het netwerk ontmanteld. Eerder, in 2016, werden Serverius-servers ook misbruikt door Russische hackers tijdens de Amerikaanse presidentsverkiezingen. De betrokkenheid van de Russische overheid bij de recente campagne wordt als zeer waarschijnlijk beschouwd. Het bedrijf wijst op haar rol als neutrale verhuurder. (Bron: omroepflevoland.nl)</description>
+			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/388041/datacenter-in-dronten-opnieuw-spil-in-russische-beinvloedingscampage?datalekt=13f479e5a590c95ddd7f259df969a1b94204b1bde92e92d0f240a33d7e77e806</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>ASML slachtoffer van bedrijfsspionage door Russische oud-medewerker</title>
+			<link>https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/</link>
+			<description>ASML | Industrie | 09-12-2024 | DataLekt.nl: ASML is opnieuw getroffen door bedrijfsspionage. Een voormalige Russische medewerker zou vertrouwelijke handleidingen van ASML en dochterbedrijf Mapper hebben gestolen en verkocht aan Russische partijen, wat hem tienduizenden euro’s opleverde. Dit incident volgt na een eerdere zaak in 2023 waarbij een Chinese medewerker broncodes stal. ASML heeft aangifte gedaan en de verdachte verschijnt voor de rechter. De financiële schade voor ASML en het aantal getroffen partijen is onbekend. (Bron: computable.nl)</description>
+			<guid isPermaLink="false">https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/?datalekt=239eb5e92821015fc6a59f3241401e62f7bd113b58d678e0e2e29c238bba22a2</guid>
+			<category>Industrie </category>
+			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Amsterdam schond privacywet met gebruik van scanauto’s voor opsporen gestolen voertuigen</title>
+			<link>https://www.security.nl/posting/868434/Amsterdam+schond+AVG+met+inzet+scanauto%27s+voor+opsporen+gestolen+voertuigen</link>
+			<description>Gemeente Amsterdam | Overheid: Gemeenten | 09-12-2024 | DataLekt.nl: De gemeente Amsterdam heeft de AVG overtreden door scanauto’s in te zetten om gestolen voertuigen op te sporen. Hierbij werden parkeerdata onrechtmatig gedeeld met de RDW, zonder een wettelijke grondslag voor deze verwerking van persoonsgegevens. De praktijk, die leidde tot schending van privacyrechten, is in 2023 beëindigd en zal niet worden hervat. Er is geen informatie over financiële schade of getroffen personen. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/868434/Amsterdam+schond+AVG+met+inzet+scanauto%27s+voor+opsporen+gestolen+voertuigen?datalekt=e76710af8d7c4ec836fbfefc3a668ccd005ef8da6b053d240e3bdc9287402c07</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Gegevens 100.000 inwoners Amersfoort gelekt na hack bij leverancier JCC Software</title>
@@ -769,36 +793,12 @@
 			<pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Gemeente Delft getroffen door datalek na hack op leverancier AddComm</title>
-			<link>https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/</link>
-			<description>Gemeente Delft | Overheid: Gemeenten | 05-06-2024 | DataLekt.nl: In Delft zijn persoonlijke gegevens van burgers blootgesteld na een hack op de softwareleverancier AddComm. Er zijn belangrijke identificatiegegevens gestolen, waaronder namen en adressen. De gemeente heeft stappen ondernomen om betrokkenen te waarschuwen en te beschermen tegen mogelijke fraude en identiteitsdiefstal. (Bron: gemeente.nu)</description>
-			<guid isPermaLink="false">https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/?datalekt=2c630d45b704c62f0ee2ee9abe390ff5ac7f61b9af49c1e1c9509306537df4ef</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Hoogheemraadschap van Delfland door beveiligingsbreuk bij AddComm</title>
-			<link>https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/</link>
-			<description>Hoogheemraadschap van Delfland | Overheid: Waterschappen | 05-06-2024 | DataLekt.nl: Door een cyberaanval op AddComm zijn persoonsgegevens van gebruikers van het Hoogheemraadschap van Delfland gelekt. Deze gegevens omvatten namen, adressen en mogelijk gevoelige informatie gerelateerd aan waterbeheer. Het Hoogheemraadschap onderzoekt de volledige omvang van de schade en heeft maatregelen getroffen om verdere datalekken te voorkomen. (Bron: gemeente.nu)</description>
-			<guid isPermaLink="false">https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/?datalekt=7bdb9913da82760689eea33582b100505d26feed323c8b40e01cb9c9dede372f</guid>
-			<category>Overheid: Waterschappen </category>
-			<pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
 			<link>https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt</link>
 			<description>AddComm | Informatie en communicatie | 23-05-2024 | DataLekt.nl: AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 14 oktober 2024 is bekend geworden dat AddComm €400.000 aan losgeld heeft betaald om de systemen te herstellen. In totaal zijn 16.625 inwoners, bedrijven en 50 gemeenten getroffen door de aanval.] (Bron: telegraaf.nl, ibestuur.nl)</description>
 			<guid isPermaLink="false">https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=1fec4e2b1f634cbd15000b67ba60be8c8ccd83220a5f09b268d68c1f232c1684</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek</title>
-			<link>https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht</link>
-			<description>Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&amp;#039;s en paspoortkopieën toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en noodmaatregelen voor beveiliging toegepast. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. [Update: d.d. 12 juli 2024 is bekend geworden dat het om 50 miljoen documenten gaat en dat het nog 1,5 jaar duurt voordat het lek definitief opgelost is.] (Bron: binnenlandsbestuur.nl)</description>
-			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e300ba4ed2d4f1aaae0204d22e47868b66c4fa578c57a4a0af47afd5494d8c78</guid>
-			<category>Overheid: Provincies </category>
-			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Politie beboet voor privacyschending met camera-auto&amp;#039;s in Rotterdam</title>

@@ -1,10 +1,10 @@
 [
     {
-        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=53ef1fa80788d12d31fad56db066b54fd2e1974727c37fd038373e484ebd72bd",
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=5c56e4d9455352796227e940fb3ef92c3ea4cf8e86796d8ad1c8334a4a13b238",
         "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
         "title": "Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade",
-        "date_published": "2024-12-11T07:28:41Z",
-        "date_modified": "2024-12-11T07:28:41Z",
+        "date_published": "2024-12-11T13:40:14Z",
+        "date_modified": "2024-12-11T13:40:14Z",
         "language": "nl-nl",
         "author": {
             "name": "noordhollandsdagblad.nl"
@@ -13,17 +13,69 @@
         "content_text": "Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van twee\u00ebnhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks \u20ac150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)"
     },
     {
-        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=257efae53a25cc2cfab4a144ecc8572dbd97497cdbd1fe2ad530ae8e27825f07",
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=069c00e07d5e15ffa84426785c7209cd92223f64052e83dbbdc3947744e98a4c",
         "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
         "title": "Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner",
-        "date_published": "2024-12-11T07:28:41Z",
-        "date_modified": "2024-12-11T07:28:41Z",
+        "date_published": "2024-12-11T13:40:14Z",
+        "date_modified": "2024-12-11T13:40:14Z",
         "language": "nl-nl",
         "author": {
             "name": "noordhollandsdagblad.nl"
         },
         "content_html": "",
         "content_text": "Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van twee\u00ebnhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financi\u00eble gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna \u20ac500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)"
+    },
+    {
+        "id": "https://www.omroepflevoland.nl/nieuws/407753/datacenter-in-dronten-speelde-sleutelrol-bij-wereldwijde-instagram-oplichting?datalekt=e55b517fdeae8389774b58fb7b7e837276972edabdce4494a9712643685675b7",
+        "url": "https://www.omroepflevoland.nl/nieuws/407753/datacenter-in-dronten-speelde-sleutelrol-bij-wereldwijde-instagram-oplichting",
+        "title": "Russische criminelen gebruikten Serverius in Dronten voor miljoenenfraude via nepadvertenties",
+        "date_published": "2024-12-11T10:14:00Z",
+        "date_modified": "2024-12-11T10:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepflevoland.nl"
+        },
+        "content_html": "",
+        "content_text": "Serverius | Informatie en communicatie | 09-12-2024 | DataLekt.nl: Russische criminelen maakten gebruik van een server bij Serverius in Dronten voor een wereldwijde oplichtingszaak, waarbij 673 Nederlanders en wereldwijd meer dan een half miljoen mensen werden getroffen. Nepadvertenties met BN&#039;ers leidden slachtoffers naar frauduleuze websites voor cryptobeleggingen. Op de servers stonden beheersystemen, databases en persoonlijke gegevens van slachtoffers opgeslagen. Het criminele netwerk beheerde 4.000 frauduleuze pagina\u2019s en genereerde minstens 110 miljoen dollar. Serverius werkt samen met de politie en benadrukt hun beleid tegen crimineel misbruik van hun diensten. (Bron: omroepflevoland.nl)"
+    },
+    {
+        "id": "https://www.omroepflevoland.nl/nieuws/388041/datacenter-in-dronten-opnieuw-spil-in-russische-beinvloedingscampage?datalekt=13f479e5a590c95ddd7f259df969a1b94204b1bde92e92d0f240a33d7e77e806",
+        "url": "https://www.omroepflevoland.nl/nieuws/388041/datacenter-in-dronten-opnieuw-spil-in-russische-beinvloedingscampage",
+        "title": "Serverius in Dronten opnieuw betrokken bij Russische be\u00efnvloedingscampagne op X",
+        "date_published": "2024-12-11T10:12:00Z",
+        "date_modified": "2024-12-11T10:12:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepflevoland.nl"
+        },
+        "content_html": "",
+        "content_text": "Serverius | Informatie en communicatie | 11-07-2024 | DataLekt.nl: Het datacenter Serverius in Dronten verhuurde servers aan een Russische klant die software gebruikte om nepaccounts op X (voorheen Twitter) te beheren. Deze nepaccounts, gecre\u00eberd met behulp van AI, verspreidden desinformatie gericht op het Amerikaanse publieke debat. Door samenwerking van AIVD, MIVD en FBI is het netwerk ontmanteld. Eerder, in 2016, werden Serverius-servers ook misbruikt door Russische hackers tijdens de Amerikaanse presidentsverkiezingen. De betrokkenheid van de Russische overheid bij de recente campagne wordt als zeer waarschijnlijk beschouwd. Het bedrijf wijst op haar rol als neutrale verhuurder. (Bron: omroepflevoland.nl)"
+    },
+    {
+        "id": "https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/?datalekt=239eb5e92821015fc6a59f3241401e62f7bd113b58d678e0e2e29c238bba22a2",
+        "url": "https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/",
+        "title": "ASML slachtoffer van bedrijfsspionage door Russische oud-medewerker",
+        "date_published": "2024-12-11T10:01:00Z",
+        "date_modified": "2024-12-11T10:01:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "computable.nl"
+        },
+        "content_html": "",
+        "content_text": "ASML | Industrie | 09-12-2024 | DataLekt.nl: ASML is opnieuw getroffen door bedrijfsspionage. Een voormalige Russische medewerker zou vertrouwelijke handleidingen van ASML en dochterbedrijf Mapper hebben gestolen en verkocht aan Russische partijen, wat hem tienduizenden euro\u2019s opleverde. Dit incident volgt na een eerdere zaak in 2023 waarbij een Chinese medewerker broncodes stal. ASML heeft aangifte gedaan en de verdachte verschijnt voor de rechter. De financi\u00eble schade voor ASML en het aantal getroffen partijen is onbekend. (Bron: computable.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/868434/Amsterdam+schond+AVG+met+inzet+scanauto%27s+voor+opsporen+gestolen+voertuigen?datalekt=e76710af8d7c4ec836fbfefc3a668ccd005ef8da6b053d240e3bdc9287402c07",
+        "url": "https://www.security.nl/posting/868434/Amsterdam+schond+AVG+met+inzet+scanauto%27s+voor+opsporen+gestolen+voertuigen",
+        "title": "Amsterdam schond privacywet met gebruik van scanauto\u2019s voor opsporen gestolen voertuigen",
+        "date_published": "2024-12-10T10:33:00Z",
+        "date_modified": "2024-12-10T10:33:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 09-12-2024 | DataLekt.nl: De gemeente Amsterdam heeft de AVG overtreden door scanauto\u2019s in te zetten om gestolen voertuigen op te sporen. Hierbij werden parkeerdata onrechtmatig gedeeld met de RDW, zonder een wettelijke grondslag voor deze verwerking van persoonsgegevens. De praktijk, die leidde tot schending van privacyrechten, is in 2023 be\u00ebindigd en zal niet worden hervat. Er is geen informatie over financi\u00eble schade of getroffen personen. (Bron: security.nl)"
     },
     {
         "id": "https://tweakers.net/nieuws/229362/gegevens-100000-inwoners-amersfoort-gelekt-na-hack-bij-softwareleverancier.html?datalekt=d7f5f404020615d6fa75ef0c7cdc8ec1413ff292b106e985fe958c91127d5f8a",
@@ -76,19 +128,6 @@
         },
         "content_html": "",
         "content_text": "JCC Software | Informatie en communicatie | 04-12-2024 | DataLekt.nl: JCC Software, een leverancier van digitale afsprakensystemen, heeft bevestigd dat een bestand met persoonsgegevens van duizenden inwoners van de gemeenten Amersfoort, Dinkelland en Tubbergen is gedownload van hun netwerk. Dit bestand bevatte onder meer burgerservicenummers van inwoners die via het systeem afspraken hadden gemaakt bij Burgerzaken. De gemeente Amersfoort had, in verband met een cloudmigratie, een back-up van hun database gedeeld met JCC Software. Het is onduidelijk hoe deze gegevens in verkeerde handen zijn gekomen en welke maatregelen JCC Software heeft genomen. De datalek is gemeld bij de Autoriteit Persoonsgegevens (Bron: computable.nl)"
-    },
-    {
-        "id": "https://www.parool.nl/nederland/amsterdams-debatcentrum-de-balie-getroffen-door-ddos-aanval~bdeb41c9/?datalekt=9120b50b51e438b1e77be1330182762b573d83c69511feb6800655466fe7e390",
-        "url": "https://www.parool.nl/nederland/amsterdams-debatcentrum-de-balie-getroffen-door-ddos-aanval~bdeb41c9/",
-        "title": "Debatcentrum De Balie in Amsterdam getroffen door DDoS-aanval",
-        "date_published": "2024-12-04T09:34:00Z",
-        "date_modified": "2024-12-04T09:34:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "parool.nl"
-        },
-        "content_html": "",
-        "content_text": "Caf\u00e9-Restaurant De Balie | Logies-, maaltijd- en drankverstrekking | 03-12-2024 | DataLekt.nl: Het Amsterdamse debatcentrum De Balie is getroffen door een DDoS-aanval, waardoor hun online diensten tijdelijk niet bereikbaar waren. De aanval begon op maandagmiddag en werd uitgevoerd door een onbekende partij. Het aantal getroffen gebruikers is nog niet vastgesteld, en de financi\u00eble schade blijft onduidelijk. Het debatcentrum onderzoekt de aanval en probeert de online beschikbaarheid te herstellen. Er zijn geen aanwijzingen over de identiteit van de aanvallers of hun motief. (Bron: parool.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=de5543ee5a1b80e5354a4b316a4f0ba0cd23c5a95b463076e6d0862a8095788d",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Athlon Car Lease | Verhuur van roerende goederen en overige zakelijke dienstverlening | 11-07-2024 | DataLekt.nl: De criminele organisatie Vanir Group heeft op het darkweb aangekondigd dat zij Athlon Car Lease heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=e300ba4ed2d4f1aaae0204d22e47868b66c4fa578c57a4a0af47afd5494d8c78",
-        "url": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht",
-        "title": "Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek",
-        "date_published": "2024-04-13T12:01:00Z",
-        "date_modified": "2024-07-15T12:30:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "binnenlandsbestuur.nl"
-        },
-        "content_html": "",
-        "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&#039;s en paspoortkopie\u00ebn toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en noodmaatregelen voor beveiliging toegepast. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. [Update: d.d. 12 juli 2024 is bekend geworden dat het om 50 miljoen documenten gaat en dat het nog 1,5 jaar duurt voordat het lek definitief opgelost is.] (Bron: binnenlandsbestuur.nl)"
-    },
-    {
-        "id": "https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/?datalekt=2c630d45b704c62f0ee2ee9abe390ff5ac7f61b9af49c1e1c9509306537df4ef",
-        "url": "https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/",
-        "title": "Gemeente Delft getroffen door datalek na hack op leverancier AddComm",
-        "date_published": "2024-07-11T19:05:00Z",
-        "date_modified": "2024-07-11T19:05:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gemeente.nu"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Delft | Overheid: Gemeenten | 05-06-2024 | DataLekt.nl: In Delft zijn persoonlijke gegevens van burgers blootgesteld na een hack op de softwareleverancier AddComm. Er zijn belangrijke identificatiegegevens gestolen, waaronder namen en adressen. De gemeente heeft stappen ondernomen om betrokkenen te waarschuwen en te beschermen tegen mogelijke fraude en identiteitsdiefstal. (Bron: gemeente.nu)"
-    },
-    {
-        "id": "https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/?datalekt=7bdb9913da82760689eea33582b100505d26feed323c8b40e01cb9c9dede372f",
-        "url": "https://www.gemeente.nu/veiligheid/cybersecurity/meer-gemeenten-melden-diefstal-gegevens-na-cyberaanval/",
-        "title": "Datalek bij Hoogheemraadschap van Delfland door beveiligingsbreuk bij AddComm",
-        "date_published": "2024-07-11T19:00:00Z",
-        "date_modified": "2024-07-11T19:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gemeente.nu"
-        },
-        "content_html": "",
-        "content_text": "Hoogheemraadschap van Delfland | Overheid: Waterschappen | 05-06-2024 | DataLekt.nl: Door een cyberaanval op AddComm zijn persoonsgegevens van gebruikers van het Hoogheemraadschap van Delfland gelekt. Deze gegevens omvatten namen, adressen en mogelijk gevoelige informatie gerelateerd aan waterbeheer. Het Hoogheemraadschap onderzoekt de volledige omvang van de schade en heeft maatregelen getroffen om verdere datalekken te voorkomen. (Bron: gemeente.nu)"
     }
 ]
