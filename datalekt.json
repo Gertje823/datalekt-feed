@@ -1,10 +1,10 @@
 [
     {
-        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=c292306faf45f2c8582d233ce868a11f3f61651b60015fb713c3f3041063cd6f",
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=dc8c7f9b095c2f78691363b0f4ec4886f06f9ed2478e20d860b43823511cdf54",
         "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
         "title": "Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade",
-        "date_published": "2024-12-12T13:40:32Z",
-        "date_modified": "2024-12-12T13:40:32Z",
+        "date_published": "2024-12-12T19:28:12Z",
+        "date_modified": "2024-12-12T19:28:12Z",
         "language": "nl-nl",
         "author": {
             "name": "noordhollandsdagblad.nl"
@@ -13,17 +13,30 @@
         "content_text": "Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van twee\u00ebnhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks \u20ac150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)"
     },
     {
-        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=6ec7542accc21c079d6083659a45be7f7c9442a3b901d11fc4ed06e7c4f41b8b",
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=bb3ad694563b13f1c71ed2794658fb5923271dc9ce3f40cd6711f8ef357a519d",
         "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
         "title": "Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner",
-        "date_published": "2024-12-12T13:40:32Z",
-        "date_modified": "2024-12-12T13:40:32Z",
+        "date_published": "2024-12-12T19:28:12Z",
+        "date_modified": "2024-12-12T19:28:12Z",
         "language": "nl-nl",
         "author": {
             "name": "noordhollandsdagblad.nl"
         },
         "content_html": "",
         "content_text": "Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van twee\u00ebnhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financi\u00eble gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna \u20ac500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7b7337f3650ef67978f571a42098eb2fdef66b950994eb4f98f8a181fee6eb66",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Bergerhof Mobiliteitsgroep getroffen door ransomware aanval van de criminele organisatie Medusa",
+        "date_published": "2024-12-12T16:17:00Z",
+        "date_modified": "2024-12-12T16:17:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Bergerhof Mobiliteitsgroep | Vervoer en opslag | 10-12-2024 | DataLekt.nl: De criminele organisatie Medusa heeft op het darkweb aangekondigd dat zij Bergerhof Mobiliteitsgroep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
         "id": "https://www.security.nl/posting/868556/Autoriteit+Persoonsgegevens+verstuurde+nieuwsbrieven+met+trackingpixel?channel=rss&amp;datalekt=160937ac4d348a9724196af33d88c40413354662b1996ef782b8f144b91d8815",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "KuiperCompagnons | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij KuiperCompagnons heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html?datalekt=0e2a6f4f6ccd5346a070a4e7c88e20202179a39f3ff381d48a8556dece0215ad",
-        "url": "https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html",
-        "title": "Kruidvat krijgt boete voor plaatsing trackingcookies zonder toestemming",
-        "date_published": "2024-07-17T11:50:00Z",
-        "date_modified": "2024-07-17T11:50:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Kruidvat | Groot- en detailhandel | 16-07-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft drogisterij Kruidvat, onderdeel van AS Watson, een boete van 600.000 euro opgelegd voor het plaatsen van trackingcookies zonder juiste toestemming. Kruidvat schond hiermee de AVG door standaard aangevinkte vakjes te gebruiken in hun cookiebanner, waardoor klanten niet vrijelijk hun toestemming konden geven. Dit betrof gevoelige informatie zoals aankopen van zwangerschapstests en medicatie. Na onderzoek vanaf eind 2019, bleek Kruidvat pas vanaf oktober 2020 de wetgeving correct te volgen. AS Watson is in beroep gegaan tegen de boete. (Bron: tweakers.net)"
     }
 ]
