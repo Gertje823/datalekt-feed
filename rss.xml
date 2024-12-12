@@ -7,12 +7,12 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 12 Dec 2024 06:28:53 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 12 Dec 2024 12:40:32 +0000</lastBuildDate>
 		<item>
 			<title>Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
 			<description>Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van tweeënhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financiële gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna €500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=12b41dbfda7c4d0d232fc1fdfeaa4eaff7803ca0806441232c3fd3c2a21735c1</guid>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=6ec7542accc21c079d6083659a45be7f7c9442a3b901d11fc4ed06e7c4f41b8b</guid>
 			<category>Industrie </category>
 			<pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -20,8 +20,16 @@
 			<title>Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
 			<description>Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van tweeënhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks €150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=9777debc368a87e0815197cacd6a9c9b2298c887854b4bd678b98751b625a98d</guid>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=c292306faf45f2c8582d233ce868a11f3f61651b60015fb713c3f3041063cd6f</guid>
 			<category>Informatie en communicatie </category>
+			<pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Autoriteit Persoonsgegevens overtreedt eigen beleid met trackingpixels in nieuwsbrieven</title>
+			<link>https://www.security.nl/posting/868556/Autoriteit+Persoonsgegevens+verstuurde+nieuwsbrieven+met+trackingpixel?channel=rss</link>
+			<description>Autoriteit Persoonsgegevens (AP) | Overheid: Zelfstandige bestuursorganen | 10-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft onbedoeld trackingpixels gebruikt in nieuwsbrieven, waarmee werd bijgehouden of ontvangers deze openden. Dit gebeurde ondanks het eigen beleid tegen tracking. De AP heeft de trackingpixels inmiddels gedeactiveerd en de verzamelde gegevens vernietigd. Het incident benadrukt het belang van zorgvuldigheid bij dataverwerking, zelfs binnen een toezichthoudende instantie. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/868556/Autoriteit+Persoonsgegevens+verstuurde+nieuwsbrieven+met+trackingpixel?channel=rss&amp;amp;datalekt=160937ac4d348a9724196af33d88c40413354662b1996ef782b8f144b91d8815</guid>
+			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -782,14 +790,6 @@
 			<description>Kruidvat | Groot- en detailhandel | 16-07-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft drogisterij Kruidvat, onderdeel van AS Watson, een boete van 600.000 euro opgelegd voor het plaatsen van trackingcookies zonder juiste toestemming. Kruidvat schond hiermee de AVG door standaard aangevinkte vakjes te gebruiken in hun cookiebanner, waardoor klanten niet vrijelijk hun toestemming konden geven. Dit betrof gevoelige informatie zoals aankopen van zwangerschapstests en medicatie. Na onderzoek vanaf eind 2019, bleek Kruidvat pas vanaf oktober 2020 de wetgeving correct te volgen. AS Watson is in beroep gegaan tegen de boete. (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html?datalekt=0e2a6f4f6ccd5346a070a4e7c88e20202179a39f3ff381d48a8556dece0215ad</guid>
 			<category>Groot- en detailhandel </category>
-			<pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Athlon Car Lease getroffen door ransomware aanval van de criminele organisatie Vanir Group</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Athlon Car Lease | Verhuur van roerende goederen en overige zakelijke dienstverlening | 11-07-2024 | DataLekt.nl: De criminele organisatie Vanir Group heeft op het darkweb aangekondigd dat zij Athlon Car Lease heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=67ec99942614129da9021a62d2ca46f9a5c3fe1b75549c986cb9b46f78dd6da8</guid>
-			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
 			<pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
