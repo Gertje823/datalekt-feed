@@ -1,10 +1,10 @@
 [
     {
-        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=2878899fc73552611ad62a419ddd6f1a7dc9de747b91e5c09d5ddadace1cc478",
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=8aa18e14a1208487b5d9f783b675528ff2e1cad7ff1fbf706c283fbc77d14c92",
         "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
         "title": "Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade",
-        "date_published": "2024-12-14T13:36:03Z",
-        "date_modified": "2024-12-14T13:36:03Z",
+        "date_published": "2024-12-14T19:25:20Z",
+        "date_modified": "2024-12-14T19:25:20Z",
         "language": "nl-nl",
         "author": {
             "name": "noordhollandsdagblad.nl"
@@ -13,17 +13,43 @@
         "content_text": "Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van twee\u00ebnhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks \u20ac150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)"
     },
     {
-        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=b3373f5c801bee511df3b2e925ffb8d1bb16200cb4557f928328c044f3d712b3",
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=b072d2cde77ce04f70a621ea48d29963577d4bed782ebf665dde2561d5564a3b",
         "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
         "title": "Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner",
-        "date_published": "2024-12-14T13:36:03Z",
-        "date_modified": "2024-12-14T13:36:03Z",
+        "date_published": "2024-12-14T19:25:20Z",
+        "date_modified": "2024-12-14T19:25:20Z",
         "language": "nl-nl",
         "author": {
             "name": "noordhollandsdagblad.nl"
         },
         "content_html": "",
         "content_text": "Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van twee\u00ebnhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financi\u00eble gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna \u20ac500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)"
+    },
+    {
+        "id": "https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/?datalekt=f8a8078836a1ae6bcf373deaef2f092c7543443721c9d0969da78b9edf7a527f",
+        "url": "https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/",
+        "title": "Politie kampt met ernstige beveiligingsproblemen door onvoldoende controle",
+        "date_published": "2024-12-14T17:00:00Z",
+        "date_modified": "2024-12-14T17:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "beveiligingnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 13-12-2024 | DataLekt.nl: Volgens een rapport van de Auditdienst Rijk schoot de informatiebeveiliging bij de politie ernstig tekort. Medewerkers konden zonder toezicht gevoelige gegevens downloaden en kopi\u00ebren, en tweehonderd usb-sticks met vertrouwelijke informatie zijn verloren gegaan. De kwetsbaarheden kwamen naar voren na de arrestatie van een medewerker die staatsgeheimen zou hebben gelekt naar de Marokkaanse inlichtingendienst DGED. Het exacte aantal getroffen personen en de financi\u00eble gevolgen zijn onbekend. (Bron: beveiligingnieuws.nl)"
+    },
+    {
+        "id": "https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/?datalekt=3b7065d609e4d5c6e06e9a9c78b66e920eeb98482f077d8009eaf256ea79291d",
+        "url": "https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/",
+        "title": "Onvoldoende informatiebeveiliging bij NCTV blootlegt ernstige kwetsbaarheden",
+        "date_published": "2024-12-14T16:58:00Z",
+        "date_modified": "2024-12-14T16:58:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "beveiligingnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NCTV) | Overheid: Organisatieonderdeel | 13-12-2024 | DataLekt.nl: De Auditdienst Rijk constateerde ernstige tekortkomingen in de informatiebeveiliging bij de NCTV, waaronder de mogelijkheid om onbeveiligd gevoelige gegevens te downloaden en kopi\u00ebren. Ook zijn tweehonderd usb-sticks met vertrouwelijke informatie zoekgeraakt. Deze problemen kwamen aan het licht na de arrestatie van een medewerker die verdacht wordt van het lekken van staatsgeheimen naar de Marokkaanse inlichtingendienst DGED. De omvang van de schade en het aantal getroffen personen zijn niet bekend. Dit incident benadrukt de noodzaak voor betere beveiligingsmaatregelen. (Bron: beveiligingnieuws.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7b7337f3650ef67978f571a42098eb2fdef66b950994eb4f98f8a181fee6eb66",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Waterschap Zuiderzeeland | Overheid: Waterschappen | 18-07-2024 | DataLekt.nl: Waterschap Zuiderzeeland ontdekte een tijdelijk datalek veroorzaakt door een onjuist geconfigureerde koppeling op hun geo-data, waardoor persoonsgegevens onbedoeld toegankelijk werden. Het lek, actief van begin april tot half juni, stelde gegevens bloot die alleen door technisch onderlegde personen toegankelijk waren. Er is geen bewijs van misbruik gevonden. De organisatie heeft direct actie ondernomen door de toegang te sluiten en een melding te maken bij de Autoriteit Persoonsgegevens. (Bron: zuiderzeeland.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=939335cafcfd65b67729cde7e4fd174bbad6e7584567c97f4cb1da3e5e384383",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Glow FM getroffen door ransomware aanval van de criminele organisatie Ransomhouse",
-        "date_published": "2024-07-19T20:53:00Z",
-        "date_modified": "2024-07-19T20:53:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Glow FM | Informatie en communicatie | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij Glow FM heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1806915aa32de704a6bdcdfedf3372bacd1cd89c1878422e2f59ec536817db8f",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "KuiperCompagnons getroffen door ransomware aanval van de criminele organisatie Ransomhouse",
-        "date_published": "2024-07-19T20:52:00Z",
-        "date_modified": "2024-07-19T20:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "KuiperCompagnons | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij KuiperCompagnons heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]

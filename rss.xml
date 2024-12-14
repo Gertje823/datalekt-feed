@@ -7,12 +7,12 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 14 Dec 2024 12:36:02 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 14 Dec 2024 18:25:19 +0000</lastBuildDate>
 		<item>
 			<title>Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
 			<description>Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van tweeënhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financiële gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna €500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=b3373f5c801bee511df3b2e925ffb8d1bb16200cb4557f928328c044f3d712b3</guid>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=b072d2cde77ce04f70a621ea48d29963577d4bed782ebf665dde2561d5564a3b</guid>
 			<category>Industrie </category>
 			<pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -20,8 +20,24 @@
 			<title>Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
 			<description>Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van tweeënhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks €150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=2878899fc73552611ad62a419ddd6f1a7dc9de747b91e5c09d5ddadace1cc478</guid>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=8aa18e14a1208487b5d9f783b675528ff2e1cad7ff1fbf706c283fbc77d14c92</guid>
 			<category>Informatie en communicatie </category>
+			<pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Politie kampt met ernstige beveiligingsproblemen door onvoldoende controle</title>
+			<link>https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/</link>
+			<description>Nationale Politie | Overheid: Politie en brandweer | 13-12-2024 | DataLekt.nl: Volgens een rapport van de Auditdienst Rijk schoot de informatiebeveiliging bij de politie ernstig tekort. Medewerkers konden zonder toezicht gevoelige gegevens downloaden en kopiëren, en tweehonderd usb-sticks met vertrouwelijke informatie zijn verloren gegaan. De kwetsbaarheden kwamen naar voren na de arrestatie van een medewerker die staatsgeheimen zou hebben gelekt naar de Marokkaanse inlichtingendienst DGED. Het exacte aantal getroffen personen en de financiële gevolgen zijn onbekend. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/?datalekt=f8a8078836a1ae6bcf373deaef2f092c7543443721c9d0969da78b9edf7a527f</guid>
+			<category>Overheid: Politie en brandweer </category>
+			<pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Onvoldoende informatiebeveiliging bij NCTV blootlegt ernstige kwetsbaarheden</title>
+			<link>https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/</link>
+			<description>Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) | Overheid: Organisatieonderdeel | 13-12-2024 | DataLekt.nl: De Auditdienst Rijk constateerde ernstige tekortkomingen in de informatiebeveiliging bij de NCTV, waaronder de mogelijkheid om onbeveiligd gevoelige gegevens te downloaden en kopiëren. Ook zijn tweehonderd usb-sticks met vertrouwelijke informatie zoekgeraakt. Deze problemen kwamen aan het licht na de arrestatie van een medewerker die verdacht wordt van het lekken van staatsgeheimen naar de Marokkaanse inlichtingendienst DGED. De omvang van de schade en het aantal getroffen personen zijn niet bekend. Dit incident benadrukt de noodzaak voor betere beveiligingsmaatregelen. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/?datalekt=3b7065d609e4d5c6e06e9a9c78b66e920eeb98482f077d8009eaf256ea79291d</guid>
+			<category>Overheid: Organisatieonderdeel </category>
 			<pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -775,22 +791,6 @@
 			<guid isPermaLink="false">https://www.zuiderzeeland.nl/tijdelijk-datalek-verholpen?datalekt=4dc4ecdea3f978dc44f859bdac798f5d3c7b2a23c8eed79180212352427c2e8e</guid>
 			<category>Overheid: Waterschappen </category>
 			<pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Glow FM getroffen door ransomware aanval van de criminele organisatie Ransomhouse</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Glow FM | Informatie en communicatie | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij Glow FM heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=939335cafcfd65b67729cde7e4fd174bbad6e7584567c97f4cb1da3e5e384383</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>KuiperCompagnons getroffen door ransomware aanval van de criminele organisatie Ransomhouse</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>KuiperCompagnons | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 19-07-2024 | DataLekt.nl: De criminele organisatie Ransomhouse heeft op het darkweb aangekondigd dat zij KuiperCompagnons heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1806915aa32de704a6bdcdfedf3372bacd1cd89c1878422e2f59ec536817db8f</guid>
-			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
-			<pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
