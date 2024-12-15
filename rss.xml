@@ -7,12 +7,12 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 15 Dec 2024 06:26:35 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 15 Dec 2024 12:36:28 +0000</lastBuildDate>
 		<item>
 			<title>Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
 			<description>Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van tweeënhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financiële gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna €500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=2c3e9b7d65db8f00a76da65a80aa681a95d98afe40a09c516e1a6efedaa8c0a4</guid>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=084decb3684e0ebfb72309acc7114492b620090ab037ad64f19c477518842249</guid>
 			<category>Industrie </category>
 			<pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -20,8 +20,16 @@
 			<title>Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
 			<description>Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van tweeënhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks €150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=b608b1d5ff3cbcec41ed0ff3fa29badc5c92a91625ac021ce7eed14cdd83af41</guid>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=0f28cff6c4788179f0a9ddf203d40ebe297ce0f6c51cf1b67c94372b3ede438a</guid>
 			<category>Informatie en communicatie </category>
+			<pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Utrecht medewerkers geven inloggegevens prijs na voice phishing tests</title>
+			<link>https://www.security.nl/posting/868956/Personeel+gemeente+Utrecht+valt+voor+usb-droppings+en+voice+phishing</link>
+			<description>Gemeente Utrecht | Overheid: Gemeenten | 13-12-2024 | DataLekt.nl: De Rekenkamer Utrecht heeft ontdekt dat medewerkers van de gemeente kwetsbaar zijn voor social engineering-aanvallen. Tijdens tests in juni 2024 werden vijf usb-sticks in gemeentelijke gebouwen achtergelaten; twee daarvan werden onveilig geopend. Daarnaast werden zeven medewerkers telefonisch benaderd, waarbij vier hun inloggegevens invoerden op een valse ICT Servicedesk-pagina. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/868956/Personeel+gemeente+Utrecht+valt+voor+usb-droppings+en+voice+phishing?datalekt=506060a75ba679035375bdf719d6603d4d0ace6efa2077b3f8598815eba98920</guid>
+			<category>Overheid: Gemeenten </category>
 			<pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -783,14 +791,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/851139/Defensie+deelde+gegevens+medewerkers+onterecht+met+vakbonden?datalekt=73ab5fef424f8b0650698fdd9d87170bf955bd776be88487a4fd398d5476c2f3</guid>
 			<category>Overheid: Ministeries </category>
 			<pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Tijdelijke blootstelling van persoonsgegevens bij Waterschap Zuiderzeeland door configuratiefout</title>
-			<link>https://www.zuiderzeeland.nl/tijdelijk-datalek-verholpen</link>
-			<description>Waterschap Zuiderzeeland | Overheid: Waterschappen | 18-07-2024 | DataLekt.nl: Waterschap Zuiderzeeland ontdekte een tijdelijk datalek veroorzaakt door een onjuist geconfigureerde koppeling op hun geo-data, waardoor persoonsgegevens onbedoeld toegankelijk werden. Het lek, actief van begin april tot half juni, stelde gegevens bloot die alleen door technisch onderlegde personen toegankelijk waren. Er is geen bewijs van misbruik gevonden. De organisatie heeft direct actie ondernomen door de toegang te sluiten en een melding te maken bij de Autoriteit Persoonsgegevens. (Bron: zuiderzeeland.nl)</description>
-			<guid isPermaLink="false">https://www.zuiderzeeland.nl/tijdelijk-datalek-verholpen?datalekt=4dc4ecdea3f978dc44f859bdac798f5d3c7b2a23c8eed79180212352427c2e8e</guid>
-			<category>Overheid: Waterschappen </category>
-			<pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>

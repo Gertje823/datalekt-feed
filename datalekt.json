@@ -1,10 +1,10 @@
 [
     {
-        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=b608b1d5ff3cbcec41ed0ff3fa29badc5c92a91625ac021ce7eed14cdd83af41",
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=0f28cff6c4788179f0a9ddf203d40ebe297ce0f6c51cf1b67c94372b3ede438a",
         "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
         "title": "Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade",
-        "date_published": "2024-12-15T07:26:36Z",
-        "date_modified": "2024-12-15T07:26:36Z",
+        "date_published": "2024-12-15T13:36:28Z",
+        "date_modified": "2024-12-15T13:36:28Z",
         "language": "nl-nl",
         "author": {
             "name": "noordhollandsdagblad.nl"
@@ -13,17 +13,30 @@
         "content_text": "Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van twee\u00ebnhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks \u20ac150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)"
     },
     {
-        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=2c3e9b7d65db8f00a76da65a80aa681a95d98afe40a09c516e1a6efedaa8c0a4",
+        "id": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=084decb3684e0ebfb72309acc7114492b620090ab037ad64f19c477518842249",
         "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html",
         "title": "Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner",
-        "date_published": "2024-12-15T07:26:36Z",
-        "date_modified": "2024-12-15T07:26:36Z",
+        "date_published": "2024-12-15T13:36:28Z",
+        "date_modified": "2024-12-15T13:36:28Z",
         "language": "nl-nl",
         "author": {
             "name": "noordhollandsdagblad.nl"
         },
         "content_html": "",
         "content_text": "Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van twee\u00ebnhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financi\u00eble gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna \u20ac500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/868956/Personeel+gemeente+Utrecht+valt+voor+usb-droppings+en+voice+phishing?datalekt=506060a75ba679035375bdf719d6603d4d0ace6efa2077b3f8598815eba98920",
+        "url": "https://www.security.nl/posting/868956/Personeel+gemeente+Utrecht+valt+voor+usb-droppings+en+voice+phishing",
+        "title": "Gemeente Utrecht medewerkers geven inloggegevens prijs na voice phishing tests",
+        "date_published": "2024-12-15T12:20:00Z",
+        "date_modified": "2024-12-15T12:20:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Utrecht | Overheid: Gemeenten | 13-12-2024 | DataLekt.nl: De Rekenkamer Utrecht heeft ontdekt dat medewerkers van de gemeente kwetsbaar zijn voor social engineering-aanvallen. Tijdens tests in juni 2024 werden vijf usb-sticks in gemeentelijke gebouwen achtergelaten; twee daarvan werden onveilig geopend. Daarnaast werden zeven medewerkers telefonisch benaderd, waarbij vier hun inloggegevens invoerden op een valse ICT Servicedesk-pagina. (Bron: security.nl)"
     },
     {
         "id": "https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/?datalekt=f8a8078836a1ae6bcf373deaef2f092c7543443721c9d0969da78b9edf7a527f",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ministerie van Defensie | Overheid: Ministeries | 23-07-2024 | DataLekt.nl: Het ministerie van Defensie heeft gedurende reorganisaties onrechtmatig persoonsgegevens van medewerkers gedeeld met vakbonden, wat in strijd is met de AVG. Namen en functionele beoordelingen waren onder de gedeelde informatie. Een nieuwe tijdelijke werkwijze met geanonimiseerde data wordt nu gehanteerd, terwijl een definitieve aanpak nog wordt ontwikkeld met externe adviseurs. Een datalek is gemeld bij de Autoriteit Persoonsgegevens. Er zijn nog geen meldingen van directe schade aan getroffen individuen. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.zuiderzeeland.nl/tijdelijk-datalek-verholpen?datalekt=4dc4ecdea3f978dc44f859bdac798f5d3c7b2a23c8eed79180212352427c2e8e",
-        "url": "https://www.zuiderzeeland.nl/tijdelijk-datalek-verholpen",
-        "title": "Tijdelijke blootstelling van persoonsgegevens bij Waterschap Zuiderzeeland door configuratiefout",
-        "date_published": "2024-07-20T19:46:00Z",
-        "date_modified": "2024-07-20T19:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "zuiderzeeland.nl"
-        },
-        "content_html": "",
-        "content_text": "Waterschap Zuiderzeeland | Overheid: Waterschappen | 18-07-2024 | DataLekt.nl: Waterschap Zuiderzeeland ontdekte een tijdelijk datalek veroorzaakt door een onjuist geconfigureerde koppeling op hun geo-data, waardoor persoonsgegevens onbedoeld toegankelijk werden. Het lek, actief van begin april tot half juni, stelde gegevens bloot die alleen door technisch onderlegde personen toegankelijk waren. Er is geen bewijs van misbruik gevonden. De organisatie heeft direct actie ondernomen door de toegang te sluiten en een melding te maken bij de Autoriteit Persoonsgegevens. (Bron: zuiderzeeland.nl)"
     }
 ]
