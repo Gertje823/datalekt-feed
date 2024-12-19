@@ -7,21 +7,21 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 19 Dec 2024 06:27:36 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 19 Dec 2024 12:38:23 +0000</lastBuildDate>
 		<item>
-			<title>Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner</title>
-			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
-			<description>Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van tweeënhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financiële gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna €500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=25b44b98ae3cc1c9b67f17edaff1e6f9fa90913123599a54d29117be6390589a</guid>
-			<category>Industrie </category>
+			<title>Website gemeenteraad Almere gehackt; mogelijk gegevens gestolen</title>
+			<link>https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen</link>
+			<description>Gemeente Almere | Overheid: Gemeenten | 18-12-2024 | DataLekt.nl: De website van de gemeenteraad van Almere is gehackt, waardoor mogelijk persoonlijke gegevens zijn gestolen. De aanval werd ontdekt nadat de website onbereikbaar werd. Het is nog onduidelijk wie er achter de hack zit en hoeveel mensen zijn getroffen. De gemeente onderzoekt de zaak en heeft de Autoriteit Persoonsgegevens geïnformeerd. (Bron: omroepflevoland.nl)</description>
+			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen?datalekt=ea3ed51284ebf075f29d355cff4e41821e4aa6d37869d8e14828603785514b02</guid>
+			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade</title>
-			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
-			<description>Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van tweeënhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks €150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=18625755bc7ab43410d52b693e786a6984fd5d934d226d2efd14813c5a409d40</guid>
-			<category>Informatie en communicatie </category>
+			<title>Advocaat ontvangt duizenden e-mails na dreiging vanwege verdediging Tarwekamp-verdachte</title>
+			<link>https://nos.nl/artikel/2548276-advocaat-spong-cyberaanval-vanwege-bijstand-aan-tarwekamp-verdachte</link>
+			<description>Spong Advocaten | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 14-12-2024 | DataLekt.nl: Een advocatenkantoor ontving een e-mail met de dreiging dat hun verdediging van een verdachte in de Tarwekamp-zaak gevolgen zou hebben en dat een hackersgroep zou worden ingeschakeld. Kort daarna kreeg het kantoor binnen enkele minuten meer dan 10.000 e-mails. De afzender beweerde namens de bewoners en slachtoffers van de Tarwekamp in Den Haag te spreken, maar hun identiteit is onbekend. Het Openbaar Ministerie neemt de zaak serieus en onderzoekt de bedreiging. Er is geen melding gemaakt van financiële schade of getroffen personen. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2548276-advocaat-spong-cyberaanval-vanwege-bijstand-aan-tarwekamp-verdachte?datalekt=a98da853732ad587bda1d05d5df4faadc53a93b941a8aec7b904f2dafbcd655b</guid>
+			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
 			<pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -153,12 +153,12 @@
 			<pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Gegevens 100.000 inwoners Amersfoort gelekt na hack bij leverancier JCC Software</title>
-			<link>https://tweakers.net/nieuws/229362/gegevens-100000-inwoners-amersfoort-gelekt-na-hack-bij-softwareleverancier.html</link>
-			<description>Gemeente Amersfoort | Overheid: Gemeenten | 03-12-2024 | DataLekt.nl: Door een hack bij de softwareleverancier JCC Software van de gemeente Amersfoort zijn de gegevens van 100.000 huidige en voormalige inwoners gelekt. Het gaat om namen, adressen, geboortedata en contactinformatie, en voor 7000 personen ook het burgerservicenummer. De gegevens betroffen oude afspraken die tussen 2009 en 2024 zijn gemaakt. De gemeente heeft het lek gemeld bij de Informatiebeveiligingsdienst en waarschuwt getroffen personen alert te zijn op phishing. Volgens de IBD zijn de risico’s voor slachtoffers beperkt, omdat aanvullende documenten ontbreken. De gemeente heeft betrokkenen per brief geïnformeerd. [Update: d.d. 4 december 2024 is vastgesteld het om de leverancier JCC Software gaat.] (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/229362/gegevens-100000-inwoners-amersfoort-gelekt-na-hack-bij-softwareleverancier.html?datalekt=d7f5f404020615d6fa75ef0c7cdc8ec1413ff292b106e985fe958c91127d5f8a</guid>
+			<title>Veel datalekken in 2023 bij gemeente Haarlem door verloren mobiele apparaten en verkeerd geadresseerde communicatie</title>
+			<link>https://www.security.nl/posting/868262/Veel+datalekken+gemeente+Haarlem+door+verloren+mobiele+apparaten</link>
+			<description>Gemeente Haarlem | Overheid: Gemeenten | 07-12-2024 | DataLekt.nl: In 2023 heeft de gemeente Haarlem veertig datalekken geregistreerd, waarvan vijftien zijn gemeld bij de Autoriteit Persoonsgegevens. Een groot aantal incidenten werd veroorzaakt door verloren mobiele apparaten, terwijl andere lekken ontstonden door verkeerd geadresseerde e-mails en brieven, en het publiceren van niet-geanonimiseerde documenten. Om datalekken sneller te kunnen melden, heeft de gemeente een speciale meldknop op het intranet geïntroduceerd. Deze maatregelen moeten helpen om toekomstige incidenten te verminderen en de naleving van privacyregelgeving te verbeteren. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/868262/Veel+datalekken+gemeente+Haarlem+door+verloren+mobiele+apparaten?datalekt=82edc565693c5faa123a388bfa12db90da92dcd0d742e439cb05803096de6bff</guid>
 			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+			<pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Persoonsgegevens van duizenden burgers gelekt na hack bij JCC Software</title>
