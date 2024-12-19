@@ -7,21 +7,77 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 18 Dec 2024 18:27:17 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 19 Dec 2024 01:36:29 +0000</lastBuildDate>
 		<item>
 			<title>Blok Groep eist miljoenencompensatie na dataverlies door ICT-partner</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
 			<description>Blok Groep | Industrie | 05-12-2024 | DataLekt.nl: De Blok Groep uit Velsen-Noord lijdt miljoenen schade door het niet maken van back-ups door hun Alkmaarse ICT-partner. Sinds juli 2022 werden geen back-ups meer gemaakt, wat na een servercrash in oktober 2024 resulteerde in een verlies van tweeënhalf jaar aan bedrijfsdata, inclusief vitale ERP-systemen. Hierdoor vielen drie productielijnen en belangrijke afdelingen stil, met aanzienlijke financiële gevolgen. De rechter heeft de ICT-partner veroordeeld tot een voorschot van bijna €500.000 en verplicht tot volledige medewerking aan dataherstel. De totale schade kan nog verder oplopen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=ed71863ab3358a0d10c888a91fc139dbedd347bd7f7547046e2c3e388d9a50ce</guid>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=6015e51cde116c57e3a6764c83565bc46dc40216c8bcb33e9e33b3a6cab9e562</guid>
 			<category>Industrie </category>
-			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+			<pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Alkmaars ICT-bedrijf aansprakelijk voor verlies van back-ups en miljoenen aan schade</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html</link>
 			<description>Onbekende ICT organisatie | Informatie en communicatie | 05-12-2024 | DataLekt.nl: Een Alkmaars ICT-bedrijf is veroordeeld tot het betalen van een voorschot van bijna een half miljoen euro aan de Blok Groep uit Velsen-Noord. Dit volgt op het niet maken van back-ups sinds juli 2022, wat resulteerde in een dataverlies van tweeënhalf jaar na een servercrash. Hierdoor kwamen drie productielijnen, het bedrijfsbureau en logistieke processen stil te liggen, met een verwachte totale schade in de miljoenen. Het ICT-bedrijf, dat jaarlijks €150.000 ontvangt voor beheer, wordt ook verplicht volledige openheid van zaken te geven over dataherstelpogingen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=95b9ad6947fe96c8c52dc3eef5421077b86f0668853ffb7c62eac7e18b333fd4</guid>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/ijmond/desastreuze-fout-met-back-ups-ict-bedrijf-moet-zo-n-494.000-euro-betalen-als-voorschot-op-totale-schadevergoeding/28619251.html?datalekt=967139bbf4809259ca17182dfd25fab14005b7a470d27b31c5cfe9965ff6d1ea</guid>
 			<category>Informatie en communicatie </category>
+			<pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Kandelaar Elektrotechniek getroffen door ransomware aanval van de criminele organisatie BlackLock (Eldorado)</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Kandelaar Elektrotechniek | Bouwnijverheid | 14-12-2024 | DataLekt.nl: De criminele organisatie BlackLock (Eldorado) heeft op het darkweb aangekondigd dat zij Kandelaar Elektrotechniek heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4e6e86d570dad3dc34c1ed3ae95690dd1b6af2b32723a468b797e4ed369beba5</guid>
+			<category>Bouwnijverheid </category>
+			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Autoriteit Persoonsgegevens legt Netflix boete op van 4,75 miljoen euro voor schending AVG-regels</title>
+			<link>https://tweakers.net/nieuws/229908/ap-geeft-netflix-4-komma-75-miljoen-euro-avg-boete-voor-slecht-privacybeleid.html</link>
+			<description>Netflix | Informatie en communicatie | 18-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Netflix een boete van 4,75 miljoen euro opgelegd wegens meerdere schendingen van de AVG. Het privacybeleid van Netflix was onduidelijk over gegevensverwerking, adverteerders en bewaartermijnen. Ook voldeden inzageverzoeken niet aan de AVG-regels. Deze overtredingen vonden plaats tussen 2018 en 2020, maar Netflix heeft in 2022 verbeteringen doorgevoerd. De boete valt lager uit doordat Netflix meewerkte aan het onderzoek. De overtredingen raken een groot aantal EU-klanten vanwege Netflix&amp;#039; omvang. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/229908/ap-geeft-netflix-4-komma-75-miljoen-euro-avg-boete-voor-slecht-privacybeleid.html?datalekt=c2c285f62b9d7db64c24cf3b516c682a1bc4f62f3fc8696143d9fc9136224407</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Hack op hostingpartij leidt tot ransomware bij 24 klanten, inclusief maatwerkoplossingen</title>
+			<link>https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter</link>
+			<description>Onbekende ICT organisatie | Informatie en communicatie | 17-12-2024 | DataLekt.nl: Een hostingpartij werd op 14 juni 2024 getroffen door een hack van de LockBit 3.0-groep, die servers, back-ups en data van 24 klanten versleutelde met ransomware. Tien organisaties, waaronder IJskoud, ondervonden ernstige schade door de aanval. De hostingpartij zette een nieuwe omgeving op voor herstel, maar erkent dat het incident vooral klanten met maatwerkoplossingen zwaar trof. Door een gebrek aan strikte data-isolatie konden criminelen grote schade aanrichten. De leverancier heeft verbeteringen aangekondigd, waaronder een strengere scheiding van klantdata en verbeterde back-upstrategieën. (Bron: digitaltrustcenter.nl)</description>
+			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=898fed5820130e254a537b112c1c5f5070ee8991eb0698dcda1abf0bcf8c726d</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Hack bij hostingpartij raakt 24 bedrijven: ransomware legt ICT-systemen plat</title>
+			<link>https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter</link>
+			<description>23 onbekende organisaties | Overige dienstverlening | 17-12-2024 | DataLekt.nl: Bij een hack op een hostingpartij zijn 24 bedrijven getroffen door ransomware, waaronder IJskoud, dat het zwaarst werd geraakt. De LockBit 3.0-groep versleutelde servers, back-ups en data van 10 klanten en eiste 1 miljoen dollar losgeld. De aanval had verstrekkende gevolgen: bedrijven konden niet werken en verloren cruciale gegevens. Sommige organisaties moesten wekenlang noodprocedures gebruiken en aanzienlijke kosten maken om systemen te herstellen. De hostingpartij bood ondersteuning, maar de omvang van de schade blijft groot. Het incident toont de risico’s van gedeelde ICT-infrastructuur. (Bron: digitaltrustcenter.nl)</description>
+			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=452a1498483f45c1c199093654f161baaa410fcabbaeb77704d6ffcecb3f7ab8</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Hack bij hostingpartij vergrendelt ICT-systemen van IJskoud en 23 andere klanten</title>
+			<link>https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter</link>
+			<description>IJskoud | Logies-, maaltijd- en drankverstrekking | 17-12-2024 | DataLekt.nl: Op 14 juni 2024 werd IJskoud getroffen door een hack bij hun hostingpartij, uitgevoerd door de LockBit 3.0-groep. Hierdoor waren servers, back-ups en data versleuteld met ransomware. IJskoud en 23 andere klanten, waarvan 10 ernstige schade ondervonden, kregen te maken met een losgeldeis van 1 miljoen dollar. IJskoud was het zwaarst getroffen, omdat hun systemen maatwerk waren. Het bedrijf kon 12 dagen lang nauwelijks werken en moest vertrouwen op noodprocedures en het geheugen van technici. De financiële en operationele impact was groot. Het datalek is gemeld bij de Autoriteit Persoonsgegevens. (Bron: digitaltrustcenter.nl)</description>
+			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=931bed78f618cd575c79a4961a33322c751ed8460e42dd5d508fe9a0adb1c27c</guid>
+			<category>Logies-, maaltijd- en drankverstrekking </category>
+			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij gemeente Leidschendam-Voorburg: brieven en e-mails een weekend openbaar</title>
+			<link>https://www.ad.nl/leidschendam-voorburg/brieven-en-e-mails-van-bewoners-per-ongeluk-een-heel-weekend-op-de-site-van-de-gemeente-te-lezen~af29aa35/</link>
+			<description>Gemeente Leidschendam-Voorburg | Overheid: Gemeenten | 17-12-2024 | DataLekt.nl: De gemeente Leidschendam-Voorburg heeft een datalek gemeld waarbij niet-openbare brieven en e-mails van bewoners, belangengroepen en overheden van 6 tot 9 december openbaar te lezen waren op de gemeentelijke website. De gelekte documenten bevatten in sommige gevallen contactgegevens. Het incident werd veroorzaakt door een menselijke fout bij het uploaden van documenten. De gemeente heeft maatregelen genomen om herhaling te voorkomen en het datalek gemeld bij de Autoriteit Persoonsgegevens. Bewoners kunnen contact opnemen met de functionaris gegevensbescherming voor meer informatie. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/leidschendam-voorburg/brieven-en-e-mails-van-bewoners-per-ongeluk-een-heel-weekend-op-de-site-van-de-gemeente-te-lezen~af29aa35/?datalekt=2e3e1f26322692d3d5f1f2a80b61a8ebacae35243a6af565a48c5b2ad1f2a5e7</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>PI Vught stuurt per ongeluk brieven van gevangenen naar verkeerde personen</title>
+			<link>https://www.nu.nl/binnenland/6339306/pi-vught-stuurt-brieven-van-gevangenen-per-ongeluk-naar-verkeerde-personen.html</link>
+			<description>Penitentiaire Inrichting (PI) Vught | Overheid: Agentschappen | 16-12-2024 | DataLekt.nl: De Penitentiaire Inrichting (PI) Vught heeft door een administratieve fout brieven van gevangenen naar onjuiste ontvangers gestuurd. Het incident werd ontdekt nadat een gedetineerde meldde dat zijn post niet bij de juiste persoon was aangekomen. Het is onbekend hoeveel brieven verkeerd zijn bezorgd en of er gevoelige informatie is gelekt. De gevangenis onderzoekt het incident en heeft maatregelen genomen om herhaling te voorkomen. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/binnenland/6339306/pi-vught-stuurt-brieven-van-gevangenen-per-ongeluk-naar-verkeerde-personen.html?datalekt=4c023ce3d58a3c9ae5d003ea974f7d1435acff1a3a177da5e21dc2258ed4ecb6</guid>
+			<category>Overheid: Agentschappen </category>
 			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -735,62 +791,6 @@
 			<guid isPermaLink="false">https://www.duic.nl/algemeen/kunstuitleen-utrecht-tijdelijk-gesloten-na-hack-waarbij-mogelijk-persoonsgegevens-gestolen-zijn/?datalekt=a31ba438698b13df7b5215f264c4ea8aa1615e576bce993de4b34f4fc23cfa6e</guid>
 			<category>Cultuur, sport en recreatie </category>
 			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gebrekkige privacybescherming bij gemeente Smallingerland leidt tot 23 datalekken in 2023</title>
-			<link>https://www.actiefonline.nl/nieuws/algemeen/61783/-smallingerland-onzorgvuldig-en-onrechtmatig-met-privacy-</link>
-			<description>Gemeente Smallingerland | Overheid: Gemeenten | 01-08-2024 | DataLekt.nl: De gemeente Smallingerland heeft aanzienlijke tekortkomingen in de bescherming van privacygegevens, aldus het jaarverslag van de functionaris gegevensbescherming. Er werden onvolkomenheden in zowel technische als organisatorische beveiligingsmaatregelen vastgesteld, wat resulteerde in 23 datalekken in het jaar 2023. De gemeente heeft wel actie ondernomen om deze incidenten op te lossen en heeft het kennisniveau van haar medewerkers verbeterd. (Bron: actiefonline.nl)</description>
-			<guid isPermaLink="false">https://www.actiefonline.nl/nieuws/algemeen/61783/-smallingerland-onzorgvuldig-en-onrechtmatig-met-privacy-?datalekt=8ea981c83f9c9807e10052e64ee247552e4078b2d950590f572de51fb4fe3deb</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij RTV Maastricht door verkeerd geadresseerde e-mail</title>
-			<link>https://www.denieuwestermaastricht.nl/datalek-rtv-maastricht/</link>
-			<description>RTV Maastricht | Informatie en communicatie | 30-07-2024 | DataLekt.nl: Bij RTV Maastricht heeft een medewerker per ongeluk een e-mail met een bestand dat gegevens van 376 commerciële relaties bevatte naar een verkeerde mailinglijst gestuurd, waardoor alle relaties het bestand ontvingen. Dit incident heeft geleid tot een onbedoelde verspreiding van gevoelige informatie, waarbij de persoonlijke gegevens van honderden relaties blootgesteld werden aan onbevoegden. De impact van dit lek en eventuele vervolgstappen zijn nog niet duidelijk. (Bron: denieuwestermaastricht.nl)</description>
-			<guid isPermaLink="false">https://www.denieuwestermaastricht.nl/datalek-rtv-maastricht/?datalekt=920fa281411f2c9e4dc9757dde5b297c5786af5383b995524b6230221ef0e534</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Overtreding privacywetgeving door gemeente Apeldoorn bij openbaar maken stukken</title>
-			<link>https://www.brummensnieuws.nl/algemeen/algemeen/29196/apeldoorn-overtreedt-mogelijk-avg-regels</link>
-			<description>Gemeente Apeldoorn | Overheid: Gemeenten | 26-07-2024 | DataLekt.nl: De gemeente Apeldoorn heeft mogelijk de AVG-regels overtreden door te veel gegevens openbaar te maken na een WOO-verzoek. Dit betrof onder meer details over de projectleiding en verantwoordelijkheden op camping De Marshoeve. Een hoogleraar twijfelt of de openbaarmaking correct was, met name wat betreft persoonlijke details en uurvergoedingen, wat kan leiden tot risico&amp;#039;s zoals identiteitsfraude. De gemeente stelt dat de openbaarmaking met toestemming van de betrokkenen was. Een geanonimiseerde versie zal binnenkort gepubliceerd worden. (Bron: brummensnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.brummensnieuws.nl/algemeen/algemeen/29196/apeldoorn-overtreedt-mogelijk-avg-regels?datalekt=c4debbe044892635928682a0fb763e22ac8b898b04b2d632d43441757972b789</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>SigmaControl getroffen door ransomware aanval van de criminele organisatie Ransomhub</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Sigma Control | Industrie | 23-07-2024 | DataLekt.nl: De criminele organisatie Ransomhub heeft op het darkweb aangekondigd dat zij SigmaControl heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ced54c7d08286b1a3210e7d53a15e5036245bd7154dc67e45dfc09e97b3fae21</guid>
-			<category>Industrie </category>
-			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Phishingaanval treft ambtenarenorganisatie HLTsamen</title>
-			<link>https://www.bollenstreekomroep.nl/hltsamen-slachtoffer-van-phishing/</link>
-			<description>HLTsamen | Overheid: Gemeenschappelijke regelingen | 24-07-2024 | DataLekt.nl: HLTsamen, een samenwerkingsverband van de gemeenten Hillegom, Lisse en Teylingen, is getroffen door een phishingaanval waarbij inloggegevens zijn buitgemaakt. Criminelen deden zich voor als een vertrouwd bedrijf en slaagden erin om toegang te krijgen tot vijf accounts voordat het beveiligingssysteem ingreep. Hoewel er geen data is gedownload, gekopieerd of verwijderd, zijn er onmiddellijke maatregelen genomen om de schade te beperken, inclusief het tijdelijk sluiten van de betrokken accounts. Er is aangifte gedaan en een melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: bollenstreekomroep.nl)</description>
-			<guid isPermaLink="false">https://www.bollenstreekomroep.nl/hltsamen-slachtoffer-van-phishing/?datalekt=d31dc02e8c349284c1332eb5df0a7aa5ca69927451b65e41ff53db3606ba96ec</guid>
-			<category>Overheid: Gemeenschappelijke regelingen </category>
-			<pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>AP rapporteert non-conformiteit bij boa-werkgevers omtrent Wet politiegegevens</title>
-			<link>https://www.nu.nl/tweakers/6321794/ap-ruim-helft-boa-werkgevers-houdt-zich-niet-aan-wet-politiegegevens.html</link>
-			<description>Onbekende organisaties | Overige dienstverlening | 23-07-2024 | DataLekt.nl: Uit een onderzoek van de Autoriteit Persoonsgegevens (AP) blijkt dat meer dan de helft van de werkgevers van buitengewoon opsporingsambtenaren (boa&amp;#039;s) zich niet houdt aan de Wet politiegegevens (Wpg). De AP constateert wel verbeteringen ten opzichte van vorig jaar, aangezien in januari van het vorige jaar nog twee derde van de boa-werkgevers geen auditrapport had ingeleverd. Deze werkgevers moeten jaarlijkse interne controles en vierjaarlijkse externe audits uitvoeren om te verzekeren dat persoonsgegevens correct worden verwerkt. De volgende externe audits zijn gepland voor eind volgend jaar. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tweakers/6321794/ap-ruim-helft-boa-werkgevers-houdt-zich-niet-aan-wet-politiegegevens.html?datalekt=39aaaf7dd1d27249445150f0509b5228c41c961dc9ce6075afe98ca86de568a5</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Defensie: medewerkersgegevens onterecht gedeeld met vakbonden</title>
-			<link>https://www.security.nl/posting/851139/Defensie+deelde+gegevens+medewerkers+onterecht+met+vakbonden</link>
-			<description>Ministerie van Defensie | Overheid: Ministeries | 23-07-2024 | DataLekt.nl: Het ministerie van Defensie heeft gedurende reorganisaties onrechtmatig persoonsgegevens van medewerkers gedeeld met vakbonden, wat in strijd is met de AVG. Namen en functionele beoordelingen waren onder de gedeelde informatie. Een nieuwe tijdelijke werkwijze met geanonimiseerde data wordt nu gehanteerd, terwijl een definitieve aanpak nog wordt ontwikkeld met externe adviseurs. Een datalek is gemeld bij de Autoriteit Persoonsgegevens. Er zijn nog geen meldingen van directe schade aan getroffen individuen. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/851139/Defensie+deelde+gegevens+medewerkers+onterecht+met+vakbonden?datalekt=73ab5fef424f8b0650698fdd9d87170bf955bd776be88487a4fd398d5476c2f3</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
