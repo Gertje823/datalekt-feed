@@ -7,7 +7,47 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 19 Dec 2024 12:38:23 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 23 Dec 2024 18:24:48 +0000</lastBuildDate>
+		<item>
+			<title>UWV meldt 769 datalekken met laag risico bij AP tot november 2024</title>
+			<link>https://tweakers.net/nieuws/230014/uwv-meldde-tot-november-dit-jaar-769-datalekken-bij-ap-met-laag-risico.html</link>
+			<description>Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 20-12-2024 | DataLekt.nl: Het UWV heeft tot november 2024 in totaal 769 datalekken met een laag risico gemeld bij de Autoriteit Persoonsgegevens (AP). Deze incidenten ontstonden voornamelijk door menselijke fouten, zoals het versturen van gegevens naar verkeerde ontvangers. Er is geen informatie beschikbaar over de betrokken aanvallers of de exacte impact op getroffen personen. Het UWV benadrukt dat het blijft werken aan het verbeteren van de beveiliging en bewustwording om dergelijke incidenten te voorkomen. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/230014/uwv-meldde-tot-november-dit-jaar-769-datalekken-bij-ap-met-laag-risico.html?datalekt=0a57e5753bf2bd6a6bbca9123ef7b37a2d7a8925aaaf563a390993cd735c8894</guid>
+			<category>Overheid: Zelfstandige bestuursorganen </category>
+			<pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Helft van overheidsdomeinen voldoet niet aan veiligheidsstandaarden volgens Forum Standaardisatie</title>
+			<link>https://www.security.nl/posting/869775/Helft+overheidsdomeinen+voldoet+niet+aan+afgesproken+veiligheidsstandaarden</link>
+			<description>Onbekende overheidsorganisaties | Overheid: Ministeries | 19-12-2024 | DataLekt.nl: De helft van de overheidsdomeinen voldoet niet aan de afgesproken veiligheidsstandaarden, blijkt uit onderzoek van het Forum Standaardisatie. Dit vergroot risico’s op phishing, afluisteren en andere aanvallen. Voor webstandaarden zoals DNSSEC en HSTS blijft vooral de centrale overheid achter, terwijl voor e-mailstandaarden als DKIM en DMARC decentrale overheden tekortschieten. Het Forum adviseert snelle implementatie van veiligheidsmaatregelen en een reductie van het aantal domeinnamen om risico’s te beperken. Ook wordt handhaving van verplichte standaarden aanbevolen. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/869775/Helft+overheidsdomeinen+voldoet+niet+aan+afgesproken+veiligheidsstandaarden?datalekt=5a5f0ad3944b2fdc4b6b9466d48d26b15faf42056e0c013058ad87facf7d0dcc</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Phishingtest onthult zwakke informatiebeveiliging bij gemeente Almelo</title>
+			<link>https://www.oost.nl/nieuws/3164216/ambtenaren-almelo-klikken-massaal-op-phishinglink-31-voerde-ook-inloggegevens-in</link>
+			<description>Gemeente Almelo | Overheid: Gemeenten | 18-12-2024 | DataLekt.nl: Een phishingtest uitgevoerd bij de gemeente Almelo door onderzoeksbureau Hoffmann toont aan dat 40% van de medewerkers op een phishinglink klikte en 31% inloggegevens invoerde. De test, in opdracht van de rekenkamer, benadrukt een gebrek aan bewustzijn en kennis rondom informatiebeveiliging. Daarnaast rapporteerde slechts 1,8% de verdachte e-mail. Het rapport concludeert dat er te weinig aandacht is besteed aan informatiebeveiliging, ondanks de erkenning van het belang ervan binnen de organisatie. Momenteel werkt de gemeente aan basiskennis en cultuurverandering om de situatie te verbeteren. (Bron: oost.nl)</description>
+			<guid isPermaLink="false">https://www.oost.nl/nieuws/3164216/ambtenaren-almelo-klikken-massaal-op-phishinglink-31-voerde-ook-inloggegevens-in?datalekt=9ee76ae88fe09cf2b43d2388bed3a2e180d7164d27059c29ba607338d371ac23</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cyberaanval op Bnext onderzocht op mogelijke datadiefstal</title>
+			<link>https://bnext.nl/nieuws/cyberaanval</link>
+			<description>Bnext.nl | Water, afval- en afvalwaterbeheer en sanering | 18-12-2024 | DataLekt.nl: Op 18 december 2024 werd Bnext getroffen door een cyberaanval. Na ontdekking nam de organisatie direct maatregelen en startte een onderzoek naar de impact en mogelijke diefstal van privacygevoelige gegevens. Voor zover bekend hebben de dienstverlening en bedrijfsprocessen geen hinder ondervonden. Indien blijkt dat gegevens zijn gestolen, worden betrokkenen zo snel mogelijk geïnformeerd. Bnext betreurt het incident en benadrukt zijn inzet op informatiebeveiliging en gegevensbescherming. (Bron: bnext.nl)</description>
+			<guid isPermaLink="false">https://bnext.nl/nieuws/cyberaanval?datalekt=96ff23374619dd31169caca648b2c9bf46ed52f0e4a8cfad5af35b05587d19f4</guid>
+			<category>Water, afval- en afvalwaterbeheer en sanering </category>
+			<pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Den Haag heeft onvoldoende aandacht voor risico’s bij mobiel werken</title>
+			<link>https://www.omroepwest.nl/nieuws/4917477/risicos-door-thuiswerkende-ambtenaar-onvoldoende-oog-voor-informatiebeveiliging</link>
+			<description>Gemeente Den Haag | Overheid: Gemeenten | 16-12-2024 | DataLekt.nl: De Rekenkamer Den Haag concludeert in het rapport Veilig op afstand dat de gemeente Den Haag kwetsbaarheden in informatiebeveiliging heeft door onvoldoende aandacht voor veilig mobiel werken. Ambtenaren werken vaak buiten het stadhuis, met apparaten zoals laptops en smartphones. Dit brengt risico&amp;#039;s zoals virussen en datalekken met zich mee, vooral bij gevoelige informatie. De gemeente mist verplichte trainingen, beleid en goed beheer van apparaten. Hoewel geen directe dreigingen zijn vastgesteld, zijn maatregelen zoals aangescherpte toegangscontroles en trainingen in ontwikkeling. Het college herkent de bevindingen en werkt aan verbeteringen. (Bron: omroepwest.nl)</description>
+			<guid isPermaLink="false">https://www.omroepwest.nl/nieuws/4917477/risicos-door-thuiswerkende-ambtenaar-onvoldoende-oog-voor-informatiebeveiliging?datalekt=160225aa845bfbc6de7df9ea59b07cac3d8d1aac70f9a9279d88b57a388ed955</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Website gemeenteraad Almere gehackt; mogelijk gegevens gestolen</title>
 			<link>https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen</link>
@@ -751,46 +791,6 @@
 			<guid isPermaLink="false">https://www.internetbode.nl/etten-leur/424707/bezoek-aanmelden-niet-mogelijk-door-cyberaanval-systeem-2park?datalekt=a700bf3de4ad626a2347d184cf47876e827ed841ff50548561c6db835c6b4e2d</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Meerdere gemeenten ondervinden hinder van cyberaanval op Desyde&amp;#039;s 2Park systeem</title>
-			<link>https://www.internetbode.nl/etten-leur/424707/bezoek-aanmelden-niet-mogelijk-door-cyberaanval-systeem-2park</link>
-			<description>Onbekend aantal gemeenten | Overheid: Gemeenten | 10-08-2024 | DataLekt.nl: Een cyberaanval op het 2Park systeem van Desyde heeft impact op diverse gemeenten, waardoor het registreren van parkeerbezoek via de app onmogelijk is geworden. Als reactie hierop hebben getroffen gemeenten, waaronder Etten-Leur, tijdelijke maatregelen genomen door parkeerboetes op te schorten en vrij parkeren toe te staan. Desyde werkt aan een oplossing en houdt de gemeenten op de hoogte via digitale kanalen. (Bron: internetbode.nl)</description>
-			<guid isPermaLink="false">https://www.internetbode.nl/etten-leur/424707/bezoek-aanmelden-niet-mogelijk-door-cyberaanval-systeem-2park?datalekt=e7cfb7d230be3d61a41855f9db2235ac0aac275f3f9fe111f8cccb1783bd146e</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Desyde&amp;#039;s 2Park systeem getroffen door cyberaanval</title>
-			<link>https://www.internetbode.nl/etten-leur/424707/bezoek-aanmelden-niet-mogelijk-door-cyberaanval-systeem-2park</link>
-			<description>Desyde | Informatie en communicatie | 10-08-2024 | DataLekt.nl: Desyde, het bedrijf achter het parkeerregistratiesysteem 2Park, meldt een cyberaanval op hun software 2Park. Dit incident heeft geleid tot een tijdelijke opschorting van de mogelijkheid voor bewoners om bezoekers voor parkeren aan te melden via de 2Park app. Desyde werkt nauw samen met gemeenten om het systeem zo snel mogelijk te herstellen en updates worden verstrekt via sociale media. (Bron: internetbode.nl)</description>
-			<guid isPermaLink="false">https://www.internetbode.nl/etten-leur/424707/bezoek-aanmelden-niet-mogelijk-door-cyberaanval-systeem-2park?datalekt=7a8aa74b1da5ef25714e092a43aa3a03b5dd56cfe2c1d9214568179f7587c5c7</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>COIN getroffen door ransomware aanval van de criminele organisatie madliberator</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>COIN | Informatie en communicatie | 02-08-2024 | DataLekt.nl: De criminele organisatie madliberator heeft op het darkweb aangekondigd dat zij COIN heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=188ce180a4e519e2427f2a9a184f96966f6bbbab206453a4d7152f38544563a8</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>KNMT dienstverlening gehinderd door ransomware-aanval</title>
-			<link>https://www.tandartspraktijk.nl/knmt-getroffen-door-gijzelsoftware/</link>
-			<description>Koninklijke Nederlandse Maatschappij tot bevordering der Tandheelkunde (KNMT) | Overige dienstverlening | 01-08-2024 | DataLekt.nl: Op 25 juli werd de Koninklijke Nederlandse Maatschappij tot bevordering der Tandheelkunde (KNMT) getroffen door een ransomware-aanval. Dit incident beperkte hun vermogen om via e-mail te communiceren en verstoorde de registraties voor trainingen en cursussen via de KNMT Academy. Daarnaast waren er problemen met het plaatsen van bestellingen op de website en de afhandeling van klachten. De organisatie is juridisch en op ICT-gebied ondersteund om de problemen op te lossen, zonder een specifieke hersteltijd te kunnen garanderen. (Bron: tandartspraktijk.nl)</description>
-			<guid isPermaLink="false">https://www.tandartspraktijk.nl/knmt-getroffen-door-gijzelsoftware/?datalekt=339059a1ec4fb41bb3c0312f2ceb77b4e71217a2fd7688c39ce4c9392f766246</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hack bij Kunstuitleen Utrecht legt diensten stil door datadiefstal</title>
-			<link>https://www.duic.nl/algemeen/kunstuitleen-utrecht-tijdelijk-gesloten-na-hack-waarbij-mogelijk-persoonsgegevens-gestolen-zijn/</link>
-			<description>Stichting Kunstuitleen Utrecht | Cultuur, sport en recreatie | 01-08-2024 | DataLekt.nl: De Kunstuitleen Utrecht is tijdelijk gesloten vanwege een hack waarbij uitgebreide persoonsgegevens zoals namen, adressen, telefoonnummers, e-mailadressen, geboortedata, rekeningnummers en identificatiedocumentnummers mogelijk zijn gestolen. De hack werd ontdekt na het weekend en klanten zijn gewaarschuwd alert te zijn op mogelijke fraude. De dienstverlening van de kunstuitleen blijft onderbroken tot 28 augustus om het systeem te herstellen. De exacte omvang van de schade en het aantal getroffen personen is nog niet bekend. (Bron: duic.nl)</description>
-			<guid isPermaLink="false">https://www.duic.nl/algemeen/kunstuitleen-utrecht-tijdelijk-gesloten-na-hack-waarbij-mogelijk-persoonsgegevens-gestolen-zijn/?datalekt=a31ba438698b13df7b5215f264c4ea8aa1615e576bce993de4b34f4fc23cfa6e</guid>
-			<category>Cultuur, sport en recreatie </category>
-			<pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
