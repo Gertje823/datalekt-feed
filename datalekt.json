@@ -1,16 +1,29 @@
 [
     {
-        "id": "https://tweakers.net/nieuws/230090/coolblue-krijgt-boete-van-ap-voor-plaatsen-cookies-zonder-toestemming-gebruiker.html?datalekt=890f016ede173487bcfb83d3a3305064663b2aef3bec50bec017d317c48320e2",
-        "url": "https://tweakers.net/nieuws/230090/coolblue-krijgt-boete-van-ap-voor-plaatsen-cookies-zonder-toestemming-gebruiker.html",
-        "title": "Coolblue beboet door Autoriteit Persoonsgegevens voor gebruik cookies zonder toestemming",
-        "date_published": "2024-12-24T19:16:00Z",
-        "date_modified": "2024-12-24T19:16:00Z",
+        "id": "https://www.security.nl/posting/869884/UWV+meldde+dit+jaar+al+769+datalekken+bij+AP%2C+vier+met+grote+impact?datalekt=b87245bef41411a932bf11f853e2858735a0f0d86fecf2380d27e64d884fa8a0",
+        "url": "https://www.security.nl/posting/869884/UWV+meldde+dit+jaar+al+769+datalekken+bij+AP%2C+vier+met+grote+impact",
+        "title": "UWV meldt 769 datalekken in 2024, waaronder vier met grote impact",
+        "date_published": "2024-12-23T14:44:00Z",
+        "date_modified": "2024-12-25T10:40:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 20-12-2024 | DataLekt.nl: In de eerste tien maanden van 2024 heeft het UWV 769 datalekken bij de Autoriteit Persoonsgegevens gemeld, waarvan vier met grote impact. Een van deze incidenten betrof een inbraak op een videoplatform, waarbij gegevens van 378 cli\u00ebnten, tolken en UWV-medewerkers mogelijk zijn buitgemaakt. Daarnaast werden op 4 mei via werk.nl 150.000 cv&#039;s ongeoorloofd bekeken en mogelijk gedownload. Ook gingen door een brand in een bestelbus fysieke dossiers verloren, en zorgde een verouderde applicatie bij de Belastingdienst voor dubbele aangiftes, wat leidde tot mogelijke fouten in inkomensgegevens. Het UWV heeft de betrokkenen ge\u00efnformeerd en stelt dat de gevolgen voor uitkeringsgerechtigden beperkt waren. (Bron: security.nl)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/230092/bouwmarkt-groenhart-getroffen-door-ransomwareaanval-gegevens-klanten-gestolen.html?datalekt=5246c4570cde8883fee5ce01c67b2639afe9f81824dd44061a0cd4da20f9a213",
+        "url": "https://tweakers.net/nieuws/230092/bouwmarkt-groenhart-getroffen-door-ransomwareaanval-gegevens-klanten-gestolen.html",
+        "title": "Bouwmarkt Groenhart getroffen door ransomwareaanval; klantgegevens buitgemaakt",
+        "date_published": "2024-12-25T10:36:00Z",
+        "date_modified": "2024-12-25T10:36:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Coolblue | Groot- en detailhandel | 24-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Coolblue een boete van 40.000 euro opgelegd wegens het verzamelen van gebruikersgegevens via cookies zonder expliciete toestemming. In 2020 stelde Coolblue vooraf aangevinkte vakjes in voor cookie-toestemming, wat in strijd is met de AVG. Ondanks een waarschuwing in 2019 bleek bij controles in april en mei 2020 dat de werkwijze nog niet was aangepast. Coolblue paste de cookietoepassing in juni 2020 aan, waardoor de boete lager uitviel. Het incident benadrukt het belang van actieve toestemming bij gegevensverzameling. (Bron: tweakers.net)"
+        "content_text": "Groenhart | Groot- en detailhandel | 24-12-2024 | DataLekt.nl: De Noord-Hollandse bouwmarkt Groenhart is slachtoffer geworden van een ransomwareaanval, waarbij zakelijke e-mailadressen en kopie\u00ebn van facturen van klanten zijn gestolen. De aanval werd op vrijdag 22 december 2024 ontdekt, en de systemen van Groenhart zijn nog offline. Het bedrijf heeft een melding gedaan bij de Autoriteit Persoonsgegevens en adviseert klanten om alert te zijn op phishing en verdachte communicatie. Er lijkt geen verlies van ordergegevens te zijn door de beschikbaarheid van back-ups. De identiteit van de daders is onbekend, en een onderzoek naar de aanval loopt nog. (Bron: tweakers.net)"
     },
     {
         "id": "https://tweakers.net/nieuws/230090/coolblue-krijgt-boete-van-ap-voor-plaatsen-cookies-zonder-toestemming-gebruiker.html?datalekt=890f016ede173487bcfb83d3a3305064663b2aef3bec50bec017d317c48320e2",
@@ -50,19 +63,6 @@
         },
         "content_html": "",
         "content_text": "Hervormde Gemeente Nijkerk | Overige dienstverlening | 21-12-2024 | DataLekt.nl: De Hervormde Gemeente Nijkerk is recent getroffen door een hack op het Kerkelijk Bureau. Hierdoor zijn e-mails verzonden naar diverse personen binnen en buiten de organisatie. Er is geen gevoelige persoonlijke informatie gelekt. De Autoriteit Persoonsgegevens is ge\u00efnformeerd, en extra beveiligingsmaatregelen zijn genomen, zoals de invoering van tweefactorauthenticatie (2FA). Gebruikers van het e-mailadres @hervormdnijkerk.nl wordt geadviseerd hun wachtwoord direct te wijzigen. (Bron: hervormdnijkerk.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/230014/uwv-meldde-tot-november-dit-jaar-769-datalekken-bij-ap-met-laag-risico.html?datalekt=0a57e5753bf2bd6a6bbca9123ef7b37a2d7a8925aaaf563a390993cd735c8894",
-        "url": "https://tweakers.net/nieuws/230014/uwv-meldde-tot-november-dit-jaar-769-datalekken-bij-ap-met-laag-risico.html",
-        "title": "UWV meldt 769 datalekken met laag risico bij AP tot november 2024",
-        "date_published": "2024-12-23T14:44:00Z",
-        "date_modified": "2024-12-23T14:44:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 20-12-2024 | DataLekt.nl: Het UWV heeft tot november 2024 in totaal 769 datalekken met een laag risico gemeld bij de Autoriteit Persoonsgegevens (AP). Deze incidenten ontstonden voornamelijk door menselijke fouten, zoals het versturen van gegevens naar verkeerde ontvangers. Er is geen informatie beschikbaar over de betrokken aanvallers of de exacte impact op getroffen personen. Het UWV benadrukt dat het blijft werken aan het verbeteren van de beveiliging en bewustwording om dergelijke incidenten te voorkomen. (Bron: tweakers.net)"
     },
     {
         "id": "https://www.security.nl/posting/869775/Helft+overheidsdomeinen+voldoet+niet+aan+afgesproken+veiligheidsstandaarden?datalekt=5a5f0ad3944b2fdc4b6b9466d48d26b15faf42056e0c013058ad87facf7d0dcc",

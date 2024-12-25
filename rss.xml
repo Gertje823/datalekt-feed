@@ -7,14 +7,14 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 25 Dec 2024 01:23:07 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 25 Dec 2024 12:35:14 +0000</lastBuildDate>
 		<item>
-			<title>Coolblue beboet door Autoriteit Persoonsgegevens voor gebruik cookies zonder toestemming</title>
-			<link>https://tweakers.net/nieuws/230090/coolblue-krijgt-boete-van-ap-voor-plaatsen-cookies-zonder-toestemming-gebruiker.html</link>
-			<description>Coolblue | Groot- en detailhandel | 24-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Coolblue een boete van 40.000 euro opgelegd wegens het verzamelen van gebruikersgegevens via cookies zonder expliciete toestemming. In 2020 stelde Coolblue vooraf aangevinkte vakjes in voor cookie-toestemming, wat in strijd is met de AVG. Ondanks een waarschuwing in 2019 bleek bij controles in april en mei 2020 dat de werkwijze nog niet was aangepast. Coolblue paste de cookietoepassing in juni 2020 aan, waardoor de boete lager uitviel. Het incident benadrukt het belang van actieve toestemming bij gegevensverzameling. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/230090/coolblue-krijgt-boete-van-ap-voor-plaatsen-cookies-zonder-toestemming-gebruiker.html?datalekt=890f016ede173487bcfb83d3a3305064663b2aef3bec50bec017d317c48320e2</guid>
+			<title>Bouwmarkt Groenhart getroffen door ransomwareaanval; klantgegevens buitgemaakt</title>
+			<link>https://tweakers.net/nieuws/230092/bouwmarkt-groenhart-getroffen-door-ransomwareaanval-gegevens-klanten-gestolen.html</link>
+			<description>Groenhart | Groot- en detailhandel | 24-12-2024 | DataLekt.nl: De Noord-Hollandse bouwmarkt Groenhart is slachtoffer geworden van een ransomwareaanval, waarbij zakelijke e-mailadressen en kopieën van facturen van klanten zijn gestolen. De aanval werd op vrijdag 22 december 2024 ontdekt, en de systemen van Groenhart zijn nog offline. Het bedrijf heeft een melding gedaan bij de Autoriteit Persoonsgegevens en adviseert klanten om alert te zijn op phishing en verdachte communicatie. Er lijkt geen verlies van ordergegevens te zijn door de beschikbaarheid van back-ups. De identiteit van de daders is onbekend, en een onderzoek naar de aanval loopt nog. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/230092/bouwmarkt-groenhart-getroffen-door-ransomwareaanval-gegevens-klanten-gestolen.html?datalekt=5246c4570cde8883fee5ce01c67b2639afe9f81824dd44061a0cd4da20f9a213</guid>
 			<category>Groot- en detailhandel </category>
-			<pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+			<pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Coolblue beboet door Autoriteit Persoonsgegevens voor gebruik cookies zonder toestemming</title>
@@ -41,10 +41,10 @@
 			<pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>UWV meldt 769 datalekken met laag risico bij AP tot november 2024</title>
-			<link>https://tweakers.net/nieuws/230014/uwv-meldde-tot-november-dit-jaar-769-datalekken-bij-ap-met-laag-risico.html</link>
-			<description>Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 20-12-2024 | DataLekt.nl: Het UWV heeft tot november 2024 in totaal 769 datalekken met een laag risico gemeld bij de Autoriteit Persoonsgegevens (AP). Deze incidenten ontstonden voornamelijk door menselijke fouten, zoals het versturen van gegevens naar verkeerde ontvangers. Er is geen informatie beschikbaar over de betrokken aanvallers of de exacte impact op getroffen personen. Het UWV benadrukt dat het blijft werken aan het verbeteren van de beveiliging en bewustwording om dergelijke incidenten te voorkomen. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/230014/uwv-meldde-tot-november-dit-jaar-769-datalekken-bij-ap-met-laag-risico.html?datalekt=0a57e5753bf2bd6a6bbca9123ef7b37a2d7a8925aaaf563a390993cd735c8894</guid>
+			<title>UWV meldt 769 datalekken in 2024, waaronder vier met grote impact</title>
+			<link>https://www.security.nl/posting/869884/UWV+meldde+dit+jaar+al+769+datalekken+bij+AP%2C+vier+met+grote+impact</link>
+			<description>Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 20-12-2024 | DataLekt.nl: In de eerste tien maanden van 2024 heeft het UWV 769 datalekken bij de Autoriteit Persoonsgegevens gemeld, waarvan vier met grote impact. Een van deze incidenten betrof een inbraak op een videoplatform, waarbij gegevens van 378 cliënten, tolken en UWV-medewerkers mogelijk zijn buitgemaakt. Daarnaast werden op 4 mei via werk.nl 150.000 cv&amp;#039;s ongeoorloofd bekeken en mogelijk gedownload. Ook gingen door een brand in een bestelbus fysieke dossiers verloren, en zorgde een verouderde applicatie bij de Belastingdienst voor dubbele aangiftes, wat leidde tot mogelijke fouten in inkomensgegevens. Het UWV heeft de betrokkenen geïnformeerd en stelt dat de gevolgen voor uitkeringsgerechtigden beperkt waren. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/869884/UWV+meldde+dit+jaar+al+769+datalekken+bij+AP%2C+vier+met+grote+impact?datalekt=b87245bef41411a932bf11f853e2858735a0f0d86fecf2380d27e64d884fa8a0</guid>
 			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
