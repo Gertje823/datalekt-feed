@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nu.nl/tech/6341248/x-account-van-klm-gehackt-berichten-over-cryptovaluta-verspreid.html?datalekt=c215d39740e6c89a29d4746896767bb89aafb27bb8ade5c0ca96800681a7d643",
+        "url": "https://www.nu.nl/tech/6341248/x-account-van-klm-gehackt-berichten-over-cryptovaluta-verspreid.html",
+        "title": "X-account van KLM gehackt; berichten over cryptovaluta verspreid",
+        "date_published": "2025-01-07T12:28:00Z",
+        "date_modified": "2025-01-07T12:28:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Koninklijke Luchtvaart Maatschappij (KLM) | Vervoer en opslag | 04-01-2025 | DataLekt.nl: Het X-account van KLM werd begin januari 2025 gehackt, waarbij drie berichten over cryptovaluta werden geplaatst. De berichten verwezen naar de cryptomunt Solana en een cryptoplatform, met teksten die cryptohandel en AI-agents benadrukten. KLM heeft het account hersteld en extra beveiligingsmaatregelen genomen om toekomstige hacks te voorkomen. De luchtvaartmaatschappij onderzoekt de daders. Er zijn geen klantgegevens gelekt, en KLM gebruikt X sinds 2023 niet meer voor klantenservice. (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.denieuwestermaastricht.nl/digitale-aanval-op-universiteit-maastricht/?datalekt=e4178ebbc06b9b8a17792109a7fcd46e99168c6ec230094db3c38975a3005b7e",
         "url": "https://www.denieuwestermaastricht.nl/digitale-aanval-op-universiteit-maastricht/",
         "title": "DDoS-aanval op Universiteit Maastricht veroorzaakt weinig impact",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Universiteit Utrecht | Onderwijs | 26-08-2024 | DataLekt.nl: Universiteit Utrecht heeft een datalek bij hun externe SMS-dienstverlener IdentifyMobile gemeld aan de Autoriteit Persoonsgegevens. Dit lek is ontstaan door een kwetsbaarheid bij IdentifyMobile, wat resulteerde in onbevoegde toegang tot persoonlijke gegevens van 571 studenten, betrokken bij de UU Wellbeing Week. Deze gegevens omvatten namen, telefoonnummers en gezondheidsinformatie. De financi\u00eble en emotionele schade voor de getroffenen is aanzienlijk. (Bron: uu.nl)"
-    },
-    {
-        "id": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-uber-boete-op-van-290-miljoen-euro-om-doorgifte-data-chauffeurs-naar-vs?datalekt=e0bf4f650073ef81b44d766ba2aac175d4aef2b270a8721a049665f1a8045d8c",
-        "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-uber-boete-op-van-290-miljoen-euro-om-doorgifte-data-chauffeurs-naar-vs",
-        "title": "Uber krijgt boete van 290 miljoen euro voor ontoereikende gegevensbescherming",
-        "date_published": "2024-08-26T09:56:00Z",
-        "date_modified": "2024-08-26T09:56:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "autoriteitpersoonsgegevens.nl"
-        },
-        "content_html": "",
-        "content_text": "Uber | Vervoer en opslag | 26-08-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Uber een boete van 290 miljoen euro opgelegd wegens het overdragen van persoonsgegevens van Europese chauffeurs naar de VS, zonder adequate bescherming. Dit handelen is een overtreding van de Algemene Verordening Gegevensbescherming. Uber heeft geen modelcontracten gebruikt voor de gegevensoverdracht, waardoor chauffeursgegevens, inclusief gevoelige informatie zoals locatie en identiteitsbewijzen, onvoldoende beschermd waren. Klachten van Franse chauffeurs hebben geleid tot dit onderzoek en de uiteindelijke boete. (Bron: autoriteitpersoonsgegevens.nl)"
     }
 ]

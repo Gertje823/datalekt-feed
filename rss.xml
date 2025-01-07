@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 02 Jan 2025 18:25:25 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 07 Jan 2025 12:37:10 +0000</lastBuildDate>
+		<item>
+			<title>X-account van KLM gehackt; berichten over cryptovaluta verspreid</title>
+			<link>https://www.nu.nl/tech/6341248/x-account-van-klm-gehackt-berichten-over-cryptovaluta-verspreid.html</link>
+			<description>Koninklijke Luchtvaart Maatschappij (KLM) | Vervoer en opslag | 04-01-2025 | DataLekt.nl: Het X-account van KLM werd begin januari 2025 gehackt, waarbij drie berichten over cryptovaluta werden geplaatst. De berichten verwezen naar de cryptomunt Solana en een cryptoplatform, met teksten die cryptohandel en AI-agents benadrukten. KLM heeft het account hersteld en extra beveiligingsmaatregelen genomen om toekomstige hacks te voorkomen. De luchtvaartmaatschappij onderzoekt de daders. Er zijn geen klantgegevens gelekt, en KLM gebruikt X sinds 2023 niet meer voor klantenservice. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/tech/6341248/x-account-van-klm-gehackt-berichten-over-cryptovaluta-verspreid.html?datalekt=c215d39740e6c89a29d4746896767bb89aafb27bb8ade5c0ca96800681a7d643</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>DDoS-aanval op Universiteit Maastricht veroorzaakt weinig impact</title>
 			<link>https://www.denieuwestermaastricht.nl/digitale-aanval-op-universiteit-maastricht/</link>
@@ -783,14 +791,6 @@
 			<guid isPermaLink="false">https://students.uu.nl/nieuws/kennisgeving-datalek-subverwerker-uu?datalekt=568b34ab2a3819d5a96ae4359b4ccddddea66f30fed13de729a8171b0503055a</guid>
 			<category>Onderwijs </category>
 			<pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Uber krijgt boete van 290 miljoen euro voor ontoereikende gegevensbescherming</title>
-			<link>https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-uber-boete-op-van-290-miljoen-euro-om-doorgifte-data-chauffeurs-naar-vs</link>
-			<description>Uber | Vervoer en opslag | 26-08-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Uber een boete van 290 miljoen euro opgelegd wegens het overdragen van persoonsgegevens van Europese chauffeurs naar de VS, zonder adequate bescherming. Dit handelen is een overtreding van de Algemene Verordening Gegevensbescherming. Uber heeft geen modelcontracten gebruikt voor de gegevensoverdracht, waardoor chauffeursgegevens, inclusief gevoelige informatie zoals locatie en identiteitsbewijzen, onvoldoende beschermd waren. Klachten van Franse chauffeurs hebben geleid tot dit onderzoek en de uiteindelijke boete. (Bron: autoriteitpersoonsgegevens.nl)</description>
-			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-uber-boete-op-van-290-miljoen-euro-om-doorgifte-data-chauffeurs-naar-vs?datalekt=e0bf4f650073ef81b44d766ba2aac175d4aef2b270a8721a049665f1a8045d8c</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
