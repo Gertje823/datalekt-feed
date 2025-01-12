@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=bef138bf855c0addb1e96d9d1384741b96c33f6103caa381c18318dc28c1caff",
+        "url": "https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html",
+        "title": "Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil",
+        "date_published": "2025-01-12T15:37:00Z",
+        "date_modified": "2025-01-12T15:37:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld ge\u00ebist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. Een update wordt maandag aan het eind van de dag verwacht. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4a95a14d50e5a62ff3e64d9d3182759fcc598a3c507d4b0bd591cf75a5a0ebb7",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Aalberts Bnext getroffen door ransomware aanval van de criminele organisatie BlackBasta",
+        "date_published": "2025-01-12T15:35:00Z",
+        "date_modified": "2025-01-12T15:35:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Bnext | Water, afval- en afvalwaterbeheer en sanering | 11-01-2025 | DataLekt.nl: De criminele organisatie BlackBasta heeft op het darkweb aangekondigd dat zij Bnext heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.nu.nl/tech/6341248/x-account-van-klm-gehackt-berichten-over-cryptovaluta-verspreid.html?datalekt=c215d39740e6c89a29d4746896767bb89aafb27bb8ade5c0ca96800681a7d643",
         "url": "https://www.nu.nl/tech/6341248/x-account-van-klm-gehackt-berichten-over-cryptovaluta-verspreid.html",
         "title": "X-account van KLM gehackt; berichten over cryptovaluta verspreid",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Vlaardingen | Overheid: Gemeenten | 28-08-2024 | DataLekt.nl: Een medewerker van de Gemeente Vlaardingen wordt verdacht van het illegaal verstrekken van vervalste paspoorten aan een criminele organisatie. Tegen betaling leverde hij documenten die gebruikt werden voor verschillende illegale activiteiten, waaronder drugshandel en witwassen. Het incident werd ontdekt na een uitgebreid onderzoek door de politie. De schade voor de betrokken burgers is aanzienlijk, met mogelijk tientallen slachtoffers die te maken hebben gekregen met identiteitsfraude. De officier van justitie eist een stevige straf vanwege de ernst van het vergrijp. (Bron: beveiligingnieuws.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/den-bosch/datalek-bij-gemeente-den-bosch-persoonsgegevens-van-23-000-mensen-op-straat~a3509077/?datalekt=2d7a9f872a1ad504179a0c83e5f50ed91a2f81da8607a73a11b8e61f613ef825",
-        "url": "https://www.ad.nl/den-bosch/datalek-bij-gemeente-den-bosch-persoonsgegevens-van-23-000-mensen-op-straat~a3509077/",
-        "title": "Datalek in Den Bosch treft duizenden parkeervergunninghouders",
-        "date_published": "2024-08-30T09:58:00Z",
-        "date_modified": "2024-08-30T09:58:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Den Bosch | Overheid: Gemeenten | 29-08-2024 | DataLekt.nl: Bij de gemeente Den Bosch zijn door een menselijke fout de persoonsgegevens van 23.000 parkeervergunninghouders uitgelekt. Een ambtenaar deelde per ongeluk belangrijke gegevens zoals BSN-nummers en adressen met een inwoner. De gemeente heeft snel ingegrepen door contact op te nemen met de ontvanger om de gegevens te verwijderen, wat ook bevestigd is. Verdere maatregelen zijn genomen om dergelijke incidenten in de toekomst te voorkomen en de privacy van de inwoners te beschermen. Dit incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://students.uu.nl/nieuws/kennisgeving-datalek-subverwerker-uu?datalekt=568b34ab2a3819d5a96ae4359b4ccddddea66f30fed13de729a8171b0503055a",
-        "url": "https://students.uu.nl/nieuws/kennisgeving-datalek-subverwerker-uu",
-        "title": "Datalek bij IdentifyMobile betreft studenten Universiteit Utrecht",
-        "date_published": "2024-08-28T11:22:00Z",
-        "date_modified": "2024-08-28T11:22:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "uu.nl"
-        },
-        "content_html": "",
-        "content_text": "Universiteit Utrecht | Onderwijs | 26-08-2024 | DataLekt.nl: Universiteit Utrecht heeft een datalek bij hun externe SMS-dienstverlener IdentifyMobile gemeld aan de Autoriteit Persoonsgegevens. Dit lek is ontstaan door een kwetsbaarheid bij IdentifyMobile, wat resulteerde in onbevoegde toegang tot persoonlijke gegevens van 571 studenten, betrokken bij de UU Wellbeing Week. Deze gegevens omvatten namen, telefoonnummers en gezondheidsinformatie. De financi\u00eble en emotionele schade voor de getroffenen is aanzienlijk. (Bron: uu.nl)"
     }
 ]
