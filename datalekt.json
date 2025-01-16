@@ -1,5 +1,96 @@
 [
     {
+        "id": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval?datalekt=e1d73890e9e2acce5da2f4894e14089db3d9c2d4ba5d845f8a4845f27332f9f0",
+        "url": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval",
+        "title": "University getroffen door DDoS-aanval op SURF-netwerk",
+        "date_published": "2025-01-16T10:34:00Z",
+        "date_modified": "2025-01-16T10:34:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "Tilburg University | Onderwijs | 15-01-2025 | DataLekt.nl: Een DDoS-aanval op het SURF-netwerk, een gemeenschappelijk ICT-platform voor onderwijsinstellingen, veroorzaakte tijdelijke storingen bij Tilburg University. Ook Fontys Hogeschool en Universiteit Maastricht werden getroffen. Hoewel de aanval netwerkproblemen veroorzaakte, zijn de storingen inmiddels opgelost. De aanval richtte zich niet specifiek op Tilburg University, en de identiteit van de daders is onbekend. (Bron: nos.nl)"
+    },
+    {
+        "id": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval?datalekt=503e1e1da1c60a79759f8a7d487735d85e59dc6bab9dad1e179ed03c64131023",
+        "url": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval",
+        "title": "DDoS-aanval op SURF-netwerk veroorzaakt storingen bij Universiteit Maastricht",
+        "date_published": "2025-01-16T10:33:00Z",
+        "date_modified": "2025-01-16T10:33:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "Universiteit Maastricht | Onderwijs | 15-01-2025 | DataLekt.nl: Universiteit Maastricht ondervond netwerkproblemen door een DDoS-aanval op het SURF-netwerk, een gedeelde ICT-infrastructuur voor onderwijsinstellingen. Naast de universiteit werden ook Fontys Hogeschool en Tilburg University getroffen. De aanval zorgde voor tijdelijke netwerkuitval, maar de situatie is inmiddels hersteld. De aanval was niet specifiek gericht op een van de instellingen, en de daders blijven onbekend. (Bron: nos.nl)"
+    },
+    {
+        "id": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval?datalekt=cfcd60aed31ee47808ab0358e39d2bbc10a99cd917fcae08f66eed78bcd58450",
+        "url": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval",
+        "title": "Fontys Hogeschool urenlang getroffen door DDoS-aanval op SURF-netwerk",
+        "date_published": "2025-01-16T10:32:00Z",
+        "date_modified": "2025-01-16T10:32:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "Fontys Hogeschool | Onderwijs | 15-01-2025 | DataLekt.nl: Fontys Hogeschool kampte met een urenlange netwerkstoring door een DDoS-aanval op het SURF-netwerk, dat onderwijsinstellingen in de regio ondersteunt. Hierdoor konden 43.000 studenten en medewerkers tijdelijk geen verbinding maken. Lesgeven bleef mogelijk, en het netwerk is inmiddels stabiel. De aanval richtte zich niet op Fontys zelf en staat los van eerdere incidenten bij andere instellingen. De identiteit van de aanvallers is onbekend. (Bron: nos.nl)"
+    },
+    {
+        "id": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval?datalekt=e3189dd4ea48ef833bbeba6ffdaf3080d0115eee0ff0bfd769ec8c45ec4461a9",
+        "url": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval",
+        "title": "DDoS-aanval op SURF-netwerk verstoort ICT bij onderwijsinstellingen in regio",
+        "date_published": "2025-01-16T10:31:00Z",
+        "date_modified": "2025-01-16T10:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "SURF | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Het SURF-netwerk, een gemeenschappelijk ICT-platform voor onderwijs- en onderzoeksinstellingen, werd getroffen door een DDoS-aanval. Dit leidde tot verstoringen bij Fontys Hogeschool, Tilburg University en Universiteit Maastricht. Ruim 43.000 studenten en medewerkers van Fontys hadden tijdelijk geen toegang tot het computernetwerk, terwijl storingen ook andere instellingen troffen. Het netwerk is inmiddels hersteld. De aanval was niet specifiek gericht op \u00e9\u00e9n instelling, en de identiteit van de daders is onbekend. (Bron: nos.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/tech/6342417/problemen-bij-digid-dinsdag-veroorzaakt-door-grootschalige-ddos-aanvallen.html?datalekt=f9f236705b0235b042e64ed6145ef8adc9a45e62392242f81f4d7cf1ea817fe1",
+        "url": "https://www.nu.nl/tech/6342417/problemen-bij-digid-dinsdag-veroorzaakt-door-grootschalige-ddos-aanvallen.html",
+        "title": "DigiD onbereikbaar door grootschalige DDoS-aanvallen op systemen van Logius",
+        "date_published": "2025-01-16T10:30:00Z",
+        "date_modified": "2025-01-16T10:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 15-01-2025 | DataLekt.nl: Op dinsdag 14 januari 2025 werden de diensten van DigiD, onderdeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, verstoord door grootschalige DDoS-aanvallen op de systemen van Logius. De aanval, die begon rond 11:25 uur en duurde tot laat in de avond, veroorzaakte een overbelasting van netwerken, waardoor veel gebruikers niet konden inloggen op publieke diensten. Dit had grote gevolgen voor burgers die afhankelijk zijn van DigiD voor overheidszaken. Er zijn geen details over de daders of schade bekendgemaakt. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/tech/6342417/problemen-bij-digid-dinsdag-veroorzaakt-door-grootschalige-ddos-aanvallen.html?datalekt=9869d1b97943d2c9a2a6b23d8be7d01745ca720ac76a3c4666394178c6c47cc0",
+        "url": "https://www.nu.nl/tech/6342417/problemen-bij-digid-dinsdag-veroorzaakt-door-grootschalige-ddos-aanvallen.html",
+        "title": "Logius getroffen door uitzonderlijk zware DDoS-aanvallen, DigiD tijdelijk onbereikbaar",
+        "date_published": "2025-01-16T10:29:00Z",
+        "date_modified": "2025-01-16T10:29:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Logius | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Op dinsdag 14 januari 2025 heeft een uitzonderlijk zware DDoS-aanval de digitale systemen van Logius getroffen, waaronder DigiD. De aanval begon rond 11:25 uur en leidde tot een overbelasting van netwerken door een extreem hoog volume aan verkeer. Hierdoor waren DigiD en andere diensten tijdelijk niet bereikbaar, wat grote gevolgen had voor gebruikers. Logius onderzoekt de aanval en bekijkt welke maatregelen nodig zijn om toekomstige verstoringen te voorkomen. Details over de daders of financi\u00eble schade zijn niet bekendgemaakt. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.itenrecht.nl/artikelen/rechtbank-bevestigt-onrechtmatigheid-livestream-en-matigt-boete-ap-wegens-lange-procedureduur?datalekt=3d6c84b78e040e0397581772e66ec8d9f70a4f83661de851449e4fa7f306e651",
+        "url": "https://www.itenrecht.nl/artikelen/rechtbank-bevestigt-onrechtmatigheid-livestream-en-matigt-boete-ap-wegens-lange-procedureduur",
+        "title": "Rechtbank matigt boete AP voor onrechtmatige livestream met privacy-inbreuken",
+        "date_published": "2025-01-16T10:24:00Z",
+        "date_modified": "2025-01-16T10:24:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "itenrecht.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende gemeente | Overheid: Gemeenten | 09-01-2025 | DataLekt.nl: De Rechtbank Noord-Nederland heeft geoordeeld dat een livestream van een dorpskern, uitgezonden door een organisatie, onrechtmatig persoonsgegevens verwerkte. De beelden schonden de privacyrechten van omwonenden en voorbijgangers, omdat de verwerking geen gerechtvaardigd belang had volgens de AVG. De Autoriteit Persoonsgegevens legde een boete van \u20ac500 op, die door de rechtbank werd bevestigd maar verlaagd vanwege de overschrijding van de redelijke termijn met twee jaar en vijf maanden. De rechtbank benadrukte dat minder ingrijpende alternatieven beschikbaar waren voor het promotionele doel van de livestream. (Bron: itenrecht.nl)"
+    },
+    {
         "id": "https://rtvmaastricht.nl/nieuws/artikel/datalek-bij-podotherapeut-hermanns?datalekt=56cc2343c4d5222d85286d5ac8f5707896079ec644de731060702ff5f268936d",
         "url": "https://rtvmaastricht.nl/nieuws/artikel/datalek-bij-podotherapeut-hermanns",
         "title": "Datalek bij podotherapeut Hermanns treft duizenden klanten",
@@ -1207,96 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Kawasaki Motors Europe | Groot- en detailhandel | 15-09-2024 | DataLekt.nl: Kawasaki Motors Europe is recent slachtoffer geworden van een ransomware-aanval, uitgevoerd door de criminele groep RansomHub. Bij deze aanval is vermoedelijk klantgegevens en interne informatie versleuteld met gijzelsoftware, waardoor de toegang tot de systemen werd geblokkeerd. De aanvallers eisen waarschijnlijk losgeld in ruil voor de ontsleuteling van de data. De exacte impact op klanten en de omvang van de gestolen of versleutelde gegevens worden nog onderzocht, maar de schade kan aanzienlijk zijn. (Bron: nieuwsmotor.nl)"
-    },
-    {
-        "id": "https://www.accountancyvanmorgen.nl/2024/09/16/belastingdienstmedewerker-verkocht-kentekengegevens-aan-criminelen/?datalekt=0106bb708f8fab91da6710cb352b8e13e30f4add8eb4d076ec4055406d0d90cb",
-        "url": "https://www.accountancyvanmorgen.nl/2024/09/16/belastingdienstmedewerker-verkocht-kentekengegevens-aan-criminelen/",
-        "title": "Belastingdienstmedewerker verkocht kentekengegevens aan criminelen",
-        "date_published": "2024-09-17T10:53:00Z",
-        "date_modified": "2024-09-17T10:53:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "accountancyvanmorgen.nl"
-        },
-        "content_html": "",
-        "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 16-09-2024 | DataLekt.nl: Een medewerker van de Belastingdienst heeft illegaal kentekengegevens verkocht aan criminelen. De gegevens werden gebruikt voor criminele activiteiten, waaronder autodiefstal en fraude. De medewerker had toegang tot deze gevoelige informatie door zijn werk bij de Belastingdienst en heeft deze tegen betaling doorverkocht. De criminele organisatie heeft hiermee mogelijk aanzienlijke financi\u00eble schade veroorzaakt. Het incident kwam aan het licht na een intern onderzoek binnen de Belastingdienst. De omvang van de schade en het aantal getroffen personen is nog niet volledig bekend. (Bron: accountancyvanmorgen.nl)"
-    },
-    {
-        "id": "https://www.rtvutrecht.nl/nieuws/3786291/persoonlijke-gegevens-van-ruim-1000-leerlingen-gelekt-bij-datalek-in-amersfoort?datalekt=141326f129796072164ef3c7be44de7e85873f4d89b24d7cb4f85de6b0614d88",
-        "url": "https://www.rtvutrecht.nl/nieuws/3786291/persoonlijke-gegevens-van-ruim-1000-leerlingen-gelekt-bij-datalek-in-amersfoort",
-        "title": "Datalek in Amersfoort onthult persoonlijke gegevens van meer dan 1000 leerlingen",
-        "date_published": "2024-09-17T10:52:00Z",
-        "date_modified": "2024-09-17T10:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtvutrecht.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Amersfoort | Overheid: Gemeenten | 12-09-2024 | DataLekt.nl: In Amersfoort zijn bij een datalek persoonlijke gegevens van 1.068 leerlingen openbaar gemaakt. Het lek ontstond tijdens een aanbesteding voor leerlingenvervoer via de website TenderNed.nl en bevatte postcodes, huisnummers en vervoerbehoeften van de kinderen. Hoewel de gegevens geen burgerservicenummers of geboortedata bevatten, is het incident verontrustend voor betrokken ouders en leerlingen. De gemeente heeft het lek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt de oorzaak. De data stonden online van 10 januari tot 20 augustus 2024. (Bron: rtvutrecht.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/857577/Ict-bedrijf+aansprakelijk+voor+schade+van+ransomware-aanval+bij+klant?datalekt=80d84f297922979a574731d2e033e9766db2d91e727d454f3d1a6e0e815d0efb",
-        "url": "https://www.security.nl/posting/857577/Ict-bedrijf+aansprakelijk+voor+schade+van+ransomware-aanval+bij+klant",
-        "title": "Klant vordert schadevergoeding na ransomware-aanval door gebrekkige beveiliging ICT-dienstverlener",
-        "date_published": "2024-09-17T10:51:00Z",
-        "date_modified": "2024-09-17T10:51:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende organisatie | Overige dienstverlening | 11-09-2024 | DataLekt.nl: Een klant van een ict-bedrijf in Coevorden werd in 2019 slachtoffer van een ransomware-aanval door inadequate beveiligingsmaatregelen van de dienstverlener. Aanvallers verkregen toegang via slecht beveiligde systemen, waaronder open RDP-poorten. De klant leed aanzienlijke schade door versleutelde bestanden en onbruikbare back-ups en eiste \u00e9\u00e9n miljoen euro aan schadevergoeding. De rechtbank kende echter slechts 50.000 euro toe, omdat niet alle claims werden onderbouwd. Het incident benadrukt de verantwoordelijkheid van ICT-dienstverleners in het beschermen van klantgegevens. (Bron: security.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/226400/sidn-lekt-per-ongeluk-gegevens-domeinnaamhouders-uit-via-whois-zoekmachine.html?datalekt=8890f65df75f80bd0a935c3a090c3a7ab9845f30008a1ef19b853c9cc249c68b",
-        "url": "https://tweakers.net/nieuws/226400/sidn-lekt-per-ongeluk-gegevens-domeinnaamhouders-uit-via-whois-zoekmachine.html",
-        "title": "SIDN lekt priv\u00e9gegevens domeinnaamhouders na fout tijdens onderhoud",
-        "date_published": "2024-09-11T11:09:00Z",
-        "date_modified": "2024-09-11T11:09:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Stichting Internet Domeinregistratie Nederland (SIDN) | Informatie en communicatie | 10-09-2024 | DataLekt.nl: Door een fout tijdens onderhoudswerkzaamheden heeft SIDN per ongeluk de priv\u00e9gegevens van particuliere domeinnaamhouders openbaar gemaakt via de Whois-zoekmachine. Door onjuiste toegang tot de nieuwe servers werden namen, adressen, e-mailadressen en telefoonnummers tijdelijk zichtbaar. De fout werd snel ontdekt en verholpen. SIDN heeft het lek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt de gevolgen. Het is onduidelijk hoe lang de gegevens zichtbaar waren. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.noordhollandsdagblad.nl/regio/alkmaar/174-datalekken-heeft-ggd-in-noord-holland-noord-vorig-jaar-geturfd.-vaak-komt-vertrouwelijke-informatie-in-verkeerde-handen-door-fout-geadresseerde-post-of-e-mail/19025899.html?datalekt=fdaf3ed6aa9b916b5d6457d322581f287e63b9a0a98c0f18a802976d9187f5f3",
-        "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/174-datalekken-heeft-ggd-in-noord-holland-noord-vorig-jaar-geturfd.-vaak-komt-vertrouwelijke-informatie-in-verkeerde-handen-door-fout-geadresseerde-post-of-e-mail/19025899.html",
-        "title": "GGD Hollands Noorden meldt 174 datalekken in 2023",
-        "date_published": "2024-09-07T09:21:00Z",
-        "date_modified": "2024-09-07T09:21:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "noordhollandsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "GGD Hollands Noorden | Overheid: Gemeenschappelijke regelingen | 03-09-2024 | DataLekt.nl: In 2023 registreerde de GGD Hollands Noorden, de gezondheidsdienst voor zestien gemeenten in Noord-Holland Noord, 174 datalekken. Deze incidenten waren vaak het gevolg van verkeerd geadresseerde post of e-mails, waarbij vertrouwelijke informatie in verkeerde handen terechtkwam. (Bron: noordhollandsdagblad.nl)"
-    },
-    {
-        "id": "https://www.gelderlander.nl/binnenland/windesheim-blundert-met-mail-duizenden-studenten-ontvangen-onbedoeld-betaalverzoek~aba4cef6/?datalekt=a067817aea63f9b73e21f692ed07fa0191b3fe9290b1a0f5faf2c8fedba84728",
-        "url": "https://www.gelderlander.nl/binnenland/windesheim-blundert-met-mail-duizenden-studenten-ontvangen-onbedoeld-betaalverzoek~aba4cef6/",
-        "title": "Windesheim stuurt per ongeluk betaalverzoek naar 18.000 studenten",
-        "date_published": "2024-09-06T18:14:00Z",
-        "date_modified": "2024-09-06T18:14:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gelderlander.nl"
-        },
-        "content_html": "",
-        "content_text": "Hogeschool Windesheim | Onderwijs | 06-09-2024 | DataLekt.nl: Hogeschool Windesheim heeft door een fout op donderdag 6 september een e-mail met een betalingsverzoek, bedoeld voor \u00e9\u00e9n student, naar 18.000 studenten gestuurd. De e-mail vroeg om een bedrag van \u20ac192,76, met dreiging van incasso en uitsluiting van inschrijving bij te late betaling. In de mail stonden de naam en het studentennummer van de betreffende student. Windesheim bood snel excuses aan, maar het is nog onduidelijk hoeveel studenten het bedrag al hebben overgemaakt. (Bron: gelderlander.nl)"
-    },
-    {
-        "id": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-clearview-boete-op-voor-illegale-dataverzameling-voor-gezichtsherkenning?datalekt=fa6693ca0d9afb4e0d22be5d7b5f94ca249a63a21210192230714ae1d101ef60",
-        "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-clearview-boete-op-voor-illegale-dataverzameling-voor-gezichtsherkenning",
-        "title": "Autoriteit Persoonsgegevens legt Clearview AI boete op voor illegale dataverzameling",
-        "date_published": "2024-09-03T10:23:00Z",
-        "date_modified": "2024-09-03T10:23:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "autoriteitpersoonsgegevens.nl"
-        },
-        "content_html": "",
-        "content_text": "Clearview AI | Informatie en communicatie | 03-09-2024 | DataLekt.nl: Clearview AI, een Amerikaans bedrijf gespecialiseerd in gezichtsherkenningstechnologie, heeft een boete van 20 miljoen euro gekregen van de Autoriteit Persoonsgegevens. Het bedrijf verzamelde illegaal beelden van miljoenen mensen zonder hun toestemming en gebruikte deze voor gezichtsherkenningssoftware. Deze praktijk was in strijd met de Europese privacywetgeving. Clearview AI verkocht deze gegevens aan verschillende bedrijven en overheidsinstanties, wat leidde tot grote zorgen over privacy en gegevensbescherming. De boete onderstreept de noodzaak voor bedrijven om zich aan de regels omtrent dataverzameling te houden. (Bron: autoriteitpersoonsgegevens.nl)"
     }
 ]
