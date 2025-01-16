@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 12 Jan 2025 18:23:13 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jan 2025 01:21:44 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij podotherapeut Hermanns treft duizenden klanten</title>
+			<link>https://rtvmaastricht.nl/nieuws/artikel/datalek-bij-podotherapeut-hermanns</link>
+			<description>Podotherapie Hermanns | Gezondheids- en welzijnszorg | 13-01-2025 | DataLekt.nl: Podotherapie Hermanns, met 250 locaties in Nederland en 4 in Maastricht, meldde een datalek waarbij toegang werd verkregen tot klantgegevens zoals adressen, telefoonnummers, BSN&amp;#039;s en declaratiegegevens. Medische gegevens bleven veilig in een aparte omgeving. Het incident is gemeld bij de Autoriteit Persoonsgegevens en de politie. Klanten worden geadviseerd alert te zijn op phishing en verdachte activiteiten bij zorgverzekeraars te controleren. Het onderzoek naar het incident loopt, en klanten worden persoonlijk geïnformeerd indien hun gegevens daadwerkelijk zijn ingezien. (Bron: rtvmaastricht.nl)</description>
+			<guid isPermaLink="false">https://rtvmaastricht.nl/nieuws/artikel/datalek-bij-podotherapeut-hermanns?datalekt=56cc2343c4d5222d85286d5ac8f5707896079ec644de731060702ff5f268936d</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cyberaanval legt onderwijs stil bij Jheronimus Academy of Data Science in Den Bosch</title>
+			<link>https://dtvnieuws.nl/nieuws/artikel/universiteit-jheronimus-academy-of-data-science-in-den-bosch-heeft-last-van-cyberaanval</link>
+			<description>Jheronimus Academy of Data Science (JADS) | Onderwijs | 13-01-2025 | DataLekt.nl: De Jheronimus Academy of Data Science (JADS) in Den Bosch is indirect getroffen door een cyberaanval, waardoor het computernetwerk offline is gehaald om ergere gevolgen te voorkomen. Hierdoor zijn lessen geschrapt, en studenten kunnen geen gebruik maken van wifi, e-mail of Microsoft Teams. De aanval lijkt afkomstig van georganiseerde misdaad, en er wordt forensisch onderzoek uitgevoerd. Hoewel de impact momenteel beperkt blijft tot het stilleggen van het onderwijs, blijft waakzaamheid geboden. De JADS is afhankelijk van het netwerk van de TU Eindhoven waar de cyberaanval plaatsvond. (Bron: dtvnieuws.nl)</description>
+			<guid isPermaLink="false">https://dtvnieuws.nl/nieuws/artikel/universiteit-jheronimus-academy-of-data-science-in-den-bosch-heeft-last-van-cyberaanval?datalekt=26bee081869b4b7b0ee4ae07570b5f3524799901edec89480dcb8ad71c79972c</guid>
+			<category>Onderwijs </category>
+			<pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
 			<link>https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html</link>
@@ -775,22 +791,6 @@
 			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/actueel/ap-legt-clearview-boete-op-voor-illegale-dataverzameling-voor-gezichtsherkenning?datalekt=fa6693ca0d9afb4e0d22be5d7b5f94ca249a63a21210192230714ae1d101ef60</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Fraude door medewerker gemeente Dordrecht: Vervalste paspoorten uitgegeven</title>
-			<link>https://beveiligingnieuws.nl/strafeis-voor-verstrekken-vervalste-paspoorten/</link>
-			<description>Gemeente Dordrecht | Overheid: Gemeenten | 28-08-2024 | DataLekt.nl: Een medewerker van de Gemeente Dordrecht wordt beschuldigd van fraude door het uitgeven van vervalste paspoorten aan criminelen. De man zou deze vervalste documenten, in ruil voor geld, hebben verstrekt aan een bende die de paspoorten gebruikte voor onder meer drugshandel en witwasoperaties. De fraude kwam aan het licht na een politieonderzoek, waarbij de omvang van de schade nog niet volledig is vastgesteld, maar de impact op de getroffen burgers kan groot zijn. De eis van de aanklager is een lange gevangenisstraf vanwege de schade aan de gemeenschap. (Bron: beveiligingnieuws.nl)</description>
-			<guid isPermaLink="false">https://beveiligingnieuws.nl/strafeis-voor-verstrekken-vervalste-paspoorten/?datalekt=2ec01203fd9e82d090d3f0fbefad22aeaaa0dc04a882f35ba3489f3806eda02b</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Medewerker gemeente Vlaardingen verstrek vervalste paspoorten aan criminelen</title>
-			<link>https://beveiligingnieuws.nl/strafeis-voor-verstrekken-vervalste-paspoorten/</link>
-			<description>Gemeente Vlaardingen | Overheid: Gemeenten | 28-08-2024 | DataLekt.nl: Een medewerker van de Gemeente Vlaardingen wordt verdacht van het illegaal verstrekken van vervalste paspoorten aan een criminele organisatie. Tegen betaling leverde hij documenten die gebruikt werden voor verschillende illegale activiteiten, waaronder drugshandel en witwassen. Het incident werd ontdekt na een uitgebreid onderzoek door de politie. De schade voor de betrokken burgers is aanzienlijk, met mogelijk tientallen slachtoffers die te maken hebben gekregen met identiteitsfraude. De officier van justitie eist een stevige straf vanwege de ernst van het vergrijp. (Bron: beveiligingnieuws.nl)</description>
-			<guid isPermaLink="false">https://beveiligingnieuws.nl/strafeis-voor-verstrekken-vervalste-paspoorten/?datalekt=413c053378e7a9d0d7b0351a627d517887b5f4072e054395da335f57349cd104</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties</title>
