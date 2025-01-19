@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 18 Jan 2025 12:32:03 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 18:22:10 +0000</lastBuildDate>
+		<item>
+			<title>Rechter verlaagt AVG-boete voor livestream van dorpsbeelden door inwoner Fries dorp</title>
+			<link>https://www.security.nl/posting/872820/Rechter+verlaagt+bestuurlijke+AVG-boete+voor+livestream+in+Fries+dorp</link>
+			<description>Onbekende individu | Huishoudens als werkgever | 17-01-2025 | DataLekt.nl: Een inwoner van een Fries dorp plaatste in 2014 en 2016 twee camera&amp;#039;s om een livestream van het dorp uit te zenden. Naar aanleiding van klachten stelde de Autoriteit Persoonsgegevens (AP) in 2019 een onderzoek in en concludeerde dat de vrouw onrechtmatig persoonsgegevens verwerkte. In 2021 legde de AP een boete van 500 euro op, die in 2022 werd bevestigd. De vrouw stopte in september 2022 met de livestream en ging in beroep. De rechter oordeelde dat de AP terecht handelde, maar vanwege de lange duur van de procedure werd de boete met 25% verlaagd tot 375 euro. Daarnaast moet de AP de proceskosten van circa 3200 euro vergoeden. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/872820/Rechter+verlaagt+bestuurlijke+AVG-boete+voor+livestream+in+Fries+dorp?datalekt=6436aafb1d18ed922a92db92d60f317b44b67e19203e97dc22e89922c9a1b194</guid>
+			<category>Huishoudens als werkgever </category>
+			<pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>DDoS-aanvallen op SURF leiden tot verstoringen en phishing bij Radboud Universiteit</title>
+			<link>https://www.ru.nl/over-ons/nieuws/trage-internetverbinding-door-landelijke-ddos-aanval-op-surf</link>
+			<description>Radboud Universiteit | Onderwijs | 16-01-2025 | DataLekt.nl: Op 16 en 17 januari 2025 werd het netwerk van SURF, de ICT-coöperatie voor onderwijs- en onderzoeksinstellingen, getroffen door meerdere DDoS-aanvallen. Dit veroorzaakte trage internetverbindingen op campussen, zoals bij de Radboud Universiteit. Parallel aan de aanvallen werd een phishingcampagne binnen de universiteit waargenomen. SURF en de universiteit namen maatregelen, zoals verbeterde inlogbeveiliging bij eduVPN, en adviseren waakzaamheid tegen phishingmails. Momenteel worden digitale toetsen uitgevoerd met aangepaste procedures. De aanvallers of omvang van de schade zijn niet bekendgemaakt. (Bron: ru.nl)</description>
+			<guid isPermaLink="false">https://www.ru.nl/over-ons/nieuws/trage-internetverbinding-door-landelijke-ddos-aanval-op-surf?datalekt=94ca8468e793bfc195216aec484e0fcd80961d26158483a3f18a9e79ee10fa86</guid>
+			<category>Onderwijs </category>
+			<pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>DDoS-aanval raakt Nederlandse onderwijsinstellingen voor derde dag op rij via SURF-netwerk</title>
 			<link>https://tweakers.net/nieuws/230922/nederlandse-onderwijsinstellingen-hebben-voor-derde-dag-last-van-ddos-aanval.html</link>
@@ -766,22 +782,6 @@
 			<description>Hogeschool Saxion | Onderwijs | 09-10-2024 | DataLekt.nl: Bij Hogeschool Saxion is een potentiële cyberaanval voorkomen dankzij een snelle reactie op een waarschuwing van het Digital Trust Center (DTC). Deze waarschuwing onthulde dat inloggegevens van medewerkers en studenten mogelijk waren gestolen, wat een risico vormde voor het netwerk van de instelling. Saxion&amp;#039;s IT-team ondernam direct actie door accounts te blokkeren, wachtwoorden te resetten en de betrokken medewerkers op de hoogte te stellen. Uiteindelijk lijkt er geen schade te zijn ontstaan door de tijdige interventie. (Bron: digitaltrustcenter.nl)</description>
 			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/mogelijke-hack-saxion-verijdeld-door-snel-optreden-na-waarschuwing?datalekt=02b98f6e5d7d660bb82b5008ae3093d3e43a8c400461e62f1b5e0b8de9164c0b</guid>
 			<category>Onderwijs </category>
-			<pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hackers stelen duizenden e-mailadressen bij Eindhovense zorgorganisatie Combinatie Jeugdzorg</title>
-			<link>https://www.omroepbrabant.nl/nieuws/4568651/gegevens-van-zorginstellingen-op-straat-door-hack</link>
-			<description>Combinatie Jeugdzorg | Gezondheids- en welzijnszorg | 09-10-2024 | DataLekt.nl: Door een hack bij de Eindhovense zorgorganisatie Combinatie Jeugdzorg zijn meer dan tienduizend e-mailadressen van zorginstellingen en bedrijven waarmee de organisatie samenwerkt buitgemaakt. Ook zijn e-mailadressen van cliënten getroffen, hoewel dit minder dan 10 procent betreft. De gegevens werden gestolen via een account van een medewerker die niet direct betrokken was bij de zorgverlening. De organisatie heeft het getroffen account direct gesloten om verdere schade te voorkomen en betrokkenen geïnformeerd. Er is nog geen informatie over de daders of de exacte omvang van de schade. (Bron: omroepbrabant.nl)</description>
-			<guid isPermaLink="false">https://www.omroepbrabant.nl/nieuws/4568651/gegevens-van-zorginstellingen-op-straat-door-hack?datalekt=08be644565c569c38feec7dc7b3cd826b6b5e410eb001d19716dee4da948929a</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Telefoonnummer NCSC gebruikt voor spoofing in phishingcampagnes</title>
-			<link>https://www.securitymanagement.nl/telefoonnummer-ncsc-misbruikt-voor-telefonische-spoofing-en-oplichting/</link>
-			<description>Nationaal Cyber Security Centrum (NCSC) | Overheid: Organisatieonderdeel | 08-10-2024 | DataLekt.nl: Het telefoonnummer van het Nationaal Cyber Security Centrum (NCSC) wordt misbruikt in spoofing- en phishingcampagnes, waarbij kwaadwillenden zich voordoen als medewerkers van het NCSC. Slachtoffers worden telefonisch benaderd en onder druk gezet om persoonlijke informatie zoals bankgegevens en wachtwoorden te verstrekken. Het NCSC waarschuwt burgers om voorzichtig te zijn bij onbekende oproepen en geen gevoelige gegevens te delen. Fraudegevallen kunnen gemeld worden bij de Fraudehelpdesk. Slachtoffers worden geadviseerd aangifte te doen bij de politie. (Bron: securitymanagement.nl)</description>
-			<guid isPermaLink="false">https://www.securitymanagement.nl/telefoonnummer-ncsc-misbruikt-voor-telefonische-spoofing-en-oplichting/?datalekt=97a78d89514ded60b0a58c1643f7ebf33c7c2d5c85f6d212f3521b1049cc5131</guid>
-			<category>Overheid: Organisatieonderdeel </category>
 			<pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
