@@ -1,5 +1,109 @@
 [
     {
+        "id": "https://www.omropfryslan.nl/nl/nieuws/17156444/nhl-stenden-slachtoffer-van-ddos-aanval-data-van-hogescholen-is-geld-waard?datalekt=ad7dd70759eb93ee823453b33f0e94b390253372551e9e2d282fdf6c14b9073d",
+        "url": "https://www.omropfryslan.nl/nl/nieuws/17156444/nhl-stenden-slachtoffer-van-ddos-aanval-data-van-hogescholen-is-geld-waard",
+        "title": "NHL Stenden getroffen door DDoS-aanval via SURF-netwerk",
+        "date_published": "2025-01-20T09:31:00Z",
+        "date_modified": "2025-01-20T09:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omropfryslan.nl"
+        },
+        "content_html": "",
+        "content_text": "NHL Stenden | Onderwijs | 18-01-2025 | DataLekt.nl: NHL Stenden is getroffen door een DDoS-aanval via netwerkbeheerder SURF, waardoor internetverkeer werd verstoord. De aanval maakte deel uit van een reeks gericht op onderwijs- en zorginstellingen. Hoewel de impact beperkt bleef tot trage internetverbindingen, benadrukt de hogeschool de noodzaak van verhoogde beveiliging en waakzaamheid. Mogelijke daders zijn criminelen of buitenlandse machten. NHL Stenden neemt maatregelen om risico\u2019s te minimaliseren, waaronder bewustwordingscampagnes. De hogeschool houdt rekening met ernstigere scenario\u2019s, zoals hacks, en streeft ernaar losgeldbetalingen te vermijden. Dit incident onderstreept de waarde van data in het onderwijs. (Bron: omropfryslan.nl)"
+    },
+    {
+        "id": "https://www.utwente.nl/nieuws-evenementen/corporate-mededelingen/2025/1/70144/update-mogelijke-verstoringen-aan-het-netwerk-na-ddos-aanval-op-surf-netwerk?datalekt=2bada95275dcbb683697afb8144b6af794b0e8437b7a0cbfec45b65645863ca4",
+        "url": "https://www.utwente.nl/nieuws-evenementen/corporate-mededelingen/2025/1/70144/update-mogelijke-verstoringen-aan-het-netwerk-na-ddos-aanval-op-surf-netwerk",
+        "title": "DDoS-aanval op SURF-netwerk veroorzaakt netwerkproblemen bij Universiteit Twente",
+        "date_published": "2025-01-20T09:30:00Z",
+        "date_modified": "2025-01-20T09:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "utwente.nl"
+        },
+        "content_html": "",
+        "content_text": "Universiteit Twente (UT) | Onderwijs | 17-01-2025 | DataLekt.nl: Op donderdag 16 januari 2025 werd het netwerk van de Universiteit Twente (UT) getroffen door een DDoS-aanval op hun internetprovider SURF. Deze aanval leidde tot trage internetverbindingen en beperkte beschikbaarheid van diensten zoals Eduroam en VPN. Hoewel de aanval voornamelijk gericht was op het zuiden van Nederland, ondervond de UT ook hinder door de grote hoeveelheid verkeer op het netwerk. SURF onderneemt diverse acties om de gevolgen te beperken, en de UT monitort de situatie nauwlettend om de systemen te beschermen. Er is geen specifieke informatie over de daders of de omvang van de schade bekendgemaakt. (Bron: utwente.nl)"
+    },
+    {
+        "id": "https://www.rtvnoord.nl/onderwijs/1258266/computeraanvallen-op-systeem-rug-hanze-en-mbo-instellingen-zijn-weer-voorbij?datalekt=38a9b6180d1f26704360961eb86aad3c41f9df1d229be6e4e14379f2db04dc1b",
+        "url": "https://www.rtvnoord.nl/onderwijs/1258266/computeraanvallen-op-systeem-rug-hanze-en-mbo-instellingen-zijn-weer-voorbij",
+        "title": "Netwerk Alfa-college vertraagd door DDoS-aanvallen via SURF",
+        "date_published": "2025-01-20T09:29:00Z",
+        "date_modified": "2025-01-20T09:29:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvnoord.nl"
+        },
+        "content_html": "",
+        "content_text": "Alfa-college | Onderwijs | 17-01-2025 | DataLekt.nl: Het Alfa-college kampte vrijdagmorgen met netwerkproblemen door DDoS-aanvallen op het SURF-netwerk. Pinbetalingen in de kantine verliepen trager en medewerkers meldden instabiele verbindingen. De aanvallen bestonden uit een overbelasting met digitaal verkeer, waardoor het netwerk tijdelijk onbereikbaar was. SURF herstelde de functionaliteit rond het middaguur. De daders en hun motieven zijn onbekend. Om herhaling te voorkomen, zijn extra voorzorgsmaatregelen getroffen. (Bron: rtvnoord.nl)"
+    },
+    {
+        "id": "https://www.rtvnoord.nl/onderwijs/1258266/computeraanvallen-op-systeem-rug-hanze-en-mbo-instellingen-zijn-weer-voorbij?datalekt=c767eac9d6b305756c2a735bc29ed47d84a8325aa25260f3dee81c3f7733ff69",
+        "url": "https://www.rtvnoord.nl/onderwijs/1258266/computeraanvallen-op-systeem-rug-hanze-en-mbo-instellingen-zijn-weer-voorbij",
+        "title": "Hanzehogeschool Groningen ondervindt vertragingen door DDoS-aanvallen op SURF-netwerk",
+        "date_published": "2025-01-20T09:28:00Z",
+        "date_modified": "2025-01-20T09:28:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvnoord.nl"
+        },
+        "content_html": "",
+        "content_text": "Hanzehogeschool Groningen | Onderwijs | 17-01-2025 | DataLekt.nl: De Hanzehogeschool Groningen werd vrijdagmorgen getroffen door netwerkvertragingen als gevolg van DDoS-aanvallen op het SURF-netwerk. Medewerkers hadden te maken met vertraagde systemen, maar de internetverbinding bleef beschikbaar. De aanvallen richtten zich op het overbelasten van het netwerk met digitaal verkeer. SURF wist de storingen rond het middaguur te herstellen. De identiteit en het motief van de daders blijven onbekend. Extra maatregelen zijn genomen om herhaling te voorkomen. (Bron: rtvnoord.nl)"
+    },
+    {
+        "id": "https://www.rtvnoord.nl/onderwijs/1258266/computeraanvallen-op-systeem-rug-hanze-en-mbo-instellingen-zijn-weer-voorbij?datalekt=a1d923445cf155e67522a244f27cc9e13c0292b3f102d7371fa4b77af157208e",
+        "url": "https://www.rtvnoord.nl/onderwijs/1258266/computeraanvallen-op-systeem-rug-hanze-en-mbo-instellingen-zijn-weer-voorbij",
+        "title": "DDoS-aanvallen verstoren netwerk van Rijksuniversiteit Groningen via SURF-netwerk",
+        "date_published": "2025-01-20T09:27:00Z",
+        "date_modified": "2025-01-20T09:27:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvnoord.nl"
+        },
+        "content_html": "",
+        "content_text": "Rijksuniversiteit Groningen (RUG) | Onderwijs | 17-01-2025 | DataLekt.nl: Vrijdagmorgen zorgden DDoS-aanvallen op het SURF-netwerk voor netwerkproblemen bij de Rijksuniversiteit Groningen (RUG). Medewerkers ondervonden vertragingen bij het inloggen, vooral bij toegang vanuit huis. Studenten merkten weinig van de storingen door de tentamenperiode. SURF herstelde de netwerkfunctionaliteit rond het middaguur. De aanvallen bestonden uit een overbelasting met digitaal verkeer, maar de daders en het motief blijven onbekend. Om nieuwe aanvallen te voorkomen, zijn extra maatregelen genomen. (Bron: rtvnoord.nl)"
+    },
+    {
+        "id": "https://www.folia.nl/nl/actueel/164464/opnieuw-traag-internet-op-de-uva-door-ddos-aanvallen?datalekt=fdebe187d89c638305620a31e587806bfc66abe225947c57126fce666628d92f",
+        "url": "https://www.folia.nl/nl/actueel/164464/opnieuw-traag-internet-op-de-uva-door-ddos-aanvallen",
+        "title": "DDoS-aanvallen verstoren internetverbindingen aan de UvA",
+        "date_published": "2025-01-20T09:26:00Z",
+        "date_modified": "2025-01-20T09:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "folia.nl"
+        },
+        "content_html": "",
+        "content_text": "Universiteit van Amsterdam (UvA) | Onderwijs | 17-01-2025 | DataLekt.nl: De Universiteit van Amsterdam (UvA) ondervindt opnieuw hinder van grootschalige Distributed Denial of Service (DDoS)-aanvallen op het netwerk. Na eerdere maatregelen leek het netwerk hersteld, maar op vrijdagochtend 17 januari 2025 om 8.20 uur begonnen de aanvallen opnieuw, wat resulteerde in traag of uitvallend internet en vertraagde e-maildiensten. SURF, de ict-co\u00f6peratie voor Nederlandse onderwijs- en onderzoeksinstellingen, meldt dat dergelijke aanvallen regelmatig voorkomen, maar zelden van deze omvang. Het Nationaal Cyber Security Centrum ondersteunt bij het onderzoek naar de aanvallen. Over de daders en eventuele financi\u00eble schade is nog niets bekend. (Bron: folia.nl)"
+    },
+    {
+        "id": "https://www.gelderlander.nl/nijmegen/universiteiten-in-nijmegen-en-wageningen-opnieuw-last-van-ddos-aanvallen-internet-is-traag-of-valt-uit~a46ef3c0/?datalekt=9c9e0f003a0013bbb500369b5fc26bcb9e4d03deb5fdbfff22a6f0745dfd38bc",
+        "url": "https://www.gelderlander.nl/nijmegen/universiteiten-in-nijmegen-en-wageningen-opnieuw-last-van-ddos-aanvallen-internet-is-traag-of-valt-uit~a46ef3c0/",
+        "title": "DDoS-aanvallen veroorzaken trage internetverbindingen bij Radboudumc",
+        "date_published": "2025-01-20T09:25:00Z",
+        "date_modified": "2025-01-20T09:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "gelderlander.nl"
+        },
+        "content_html": "",
+        "content_text": "Radboudumc | Gezondheids- en welzijnszorg | 17-01-2025 | DataLekt.nl: Het Radboudumc in Nijmegen werd getroffen door DDoS-aanvallen, waardoor medewerkers hinder ondervonden van trage internetverbindingen. Voor pati\u00ebnten waren er geen gevolgen. De aanvallen maakten gebruik van overmatig dataverkeer om systemen te overbelasten. Surf, de overkoepelende IT-organisatie, heeft maatregelen genomen en doet aangifte bij de politie. Het motief en de daders achter de aanvallen zijn onbekend. Er is geen melding van financi\u00eble schade of ernstige verstoringen in de zorg. (Bron: gelderlander.nl)"
+    },
+    {
+        "id": "https://www.gelderlander.nl/nijmegen/universiteiten-in-nijmegen-en-wageningen-opnieuw-last-van-ddos-aanvallen-internet-is-traag-of-valt-uit~a46ef3c0/?datalekt=04fe36cf779ae33ce899aa2db19f8f0d261b9e0537e8edbc4492eaff523323f5",
+        "url": "https://www.gelderlander.nl/nijmegen/universiteiten-in-nijmegen-en-wageningen-opnieuw-last-van-ddos-aanvallen-internet-is-traag-of-valt-uit~a46ef3c0/",
+        "title": "DDoS-aanvallen verstoren internet bij Wageningen University &amp;amp; Research",
+        "date_published": "2025-01-20T09:24:00Z",
+        "date_modified": "2025-01-20T09:24:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "gelderlander.nl"
+        },
+        "content_html": "",
+        "content_text": "Wageningen University &amp;amp; Research (WUR) | Onderwijs | 17-01-2025 | DataLekt.nl: Wageningen University &amp;amp; Research (WUR) ondervond meerdere dagen hinder door DDoS-aanvallen, waardoor het internet traag was of uitviel. Vooral thuiswerkers meldden problemen, hoewel veel medewerkers weinig hinder ervaarden. Er zijn geen extra maatregelen genomen, en het onderwijs gaat door zoals gepland. De aanvallen bestookten het netwerk met overmatig dataverkeer, waardoor systemen overbelast raakten. Surf, de overkoepelende IT-organisatie, onderzoekt de situatie en heeft aangifte gedaan. Wie verantwoordelijk is voor de aanvallen, is niet bekend. Er is geen melding van grote schade. (Bron: gelderlander.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/872820/Rechter+verlaagt+bestuurlijke+AVG-boete+voor+livestream+in+Fries+dorp?datalekt=6436aafb1d18ed922a92db92d60f317b44b67e19203e97dc22e89922c9a1b194",
         "url": "https://www.security.nl/posting/872820/Rechter+verlaagt+bestuurlijke+AVG-boete+voor+livestream+in+Fries+dorp",
         "title": "Rechter verlaagt AVG-boete voor livestream van dorpsbeelden door inwoner Fries dorp",
@@ -104,7 +208,7 @@
         "content_text": "M\u00e1xima Medisch Centrum | Gezondheids- en welzijnszorg | 16-01-2025 | DataLekt.nl: Het M\u00e1xima Medisch Centrum in Eindhoven en Veldhoven ondervond donderdagochtend door een grote DDoS-aanval op het SURF-netwerk vertraagde systemen. De aanval had geen impact op de pati\u00ebntenzorg, die ongehinderd doorging. SURF, dat het gezamenlijke computernetwerk van onder meer ziekenhuizen beheert, meldde dat de systemen rond vier uur \u2019s middags volledig hersteld waren. Om nieuwe aanvallen te voorkomen, zijn preventieve maatregelen genomen. Er is geen informatie over de daders of hun motief, en er is nog geen aangifte gedaan. Het betrof een zeer omvangrijke aanval. (Bron: omroepbrabant.nl)"
     },
     {
-        "id": "https://www.omroepzeeland.nl/nieuws/17152619/ddos-aanval-op-hz-en-ucr-verholpen-printen-verliep-traag-en-koffie-betalen-ging-lastig?datalekt=2dbef5638e559e9ab227bc54d8b7fedef7c645bf837936393fd9aedf2e05cf70",
+        "id": "https://www.omroepzeeland.nl/nieuws/17152619/ddos-aanval-op-hz-en-ucr-verholpen-printen-verliep-traag-en-koffie-betalen-ging-lastig?datalekt=0b44147e446da6337ffeac16308940fc85ab6bc73aa1433a0dbbf2bcbfe77f04",
         "url": "https://www.omroepzeeland.nl/nieuws/17152619/ddos-aanval-op-hz-en-ucr-verholpen-printen-verliep-traag-en-koffie-betalen-ging-lastig",
         "title": "DDoS-aanval op HZ University verstoort printen en betaalservices",
         "date_published": "2025-01-18T12:06:00Z",
@@ -114,7 +218,7 @@
             "name": "omroepzeeland.nl"
         },
         "content_html": "",
-        "content_text": "HZ University of Applied Sciences | Onderwijs | 16-01-2025 | DataLekt.nl: Op 16 januari 2025 werd HZ University of Applied Sciences getroffen door een DDoS-aanval, waardoor diensten zoals printen en betalingen verstoord raakten. Medewerkers en studenten ondervonden hinder door trage systemen en beperkte toegang tot bepaalde diensten. Details over de daders of financi\u00eble schade zijn niet bekendgemaakt. De instelling heeft actie ondernomen om de aanval te verhelpen en de dienstverlening te herstellen. (Bron: omroepzeeland.nl)"
+        "content_text": "HZ University | Onderwijs | 16-01-2025 | DataLekt.nl: Op 16 januari 2025 werd HZ University of Applied Sciences getroffen door een DDoS-aanval, waardoor diensten zoals printen en betalingen verstoord raakten. Medewerkers en studenten ondervonden hinder door trage systemen en beperkte toegang tot bepaalde diensten. Details over de daders of financi\u00eble schade zijn niet bekendgemaakt. De instelling heeft actie ondernomen om de aanval te verhelpen en de dienstverlening te herstellen. (Bron: omroepzeeland.nl)"
     },
     {
         "id": "https://www.security.nl/posting/872684/Logius%3A+DigiD+gisteren+opnieuw+doelwit+van+grootschalige+ddos-aanval?datalekt=949380dc6cae3bd4046c50a61b263df262043a0387df1b8a6cf8f4596a516ac8",
@@ -156,7 +260,7 @@
         "content_text": "Hogeschool Rotterdam | Onderwijs | 16-01-2025 | DataLekt.nl: Op 15 en 16 januari 2025 werden diverse onderwijsinstellingen, waaronder Hogeschool Rotterdam, getroffen door een grootschalige DDoS-aanval. De aanval, die zich richtte op het netwerk van SURF, had een landelijke impact doordat instellingen met elkaar verbonden zijn. Instellingen in het zuiden, zoals Fontys, werden het zwaarst getroffen. Wifi, telefoons en andere systemen vielen tijdelijk uit. Hoewel SURF dagelijks aanvallen afslaat, was de omvang van deze aanval uitzonderlijk groot. De aanvallers zijn onbekend. Onderwijsinstellingen werken intensief samen om de digitale weerbaarheid te versterken. (Bron: profielen.hr.nl)"
     },
     {
-        "id": "https://www.resource-online.nl/index.php/2025/01/16/hacker-ontdekt-kwetsbaarheden-in-hr-applicatie/?datalekt=29733d17834867047ea6f14244844ef8f83b2eeab0b3144a3092343079a56842",
+        "id": "https://www.resource-online.nl/index.php/2025/01/16/hacker-ontdekt-kwetsbaarheden-in-hr-applicatie/?datalekt=99b67a588dd2d325a6fe83a47ae5b7337287dabcbf27bc54d8c8b298a4cfdd98",
         "url": "https://www.resource-online.nl/index.php/2025/01/16/hacker-ontdekt-kwetsbaarheden-in-hr-applicatie/",
         "title": "Hacker ontdekt kwetsbaarheden in HR-applicatie van Wageningen University &amp;amp; Research",
         "date_published": "2025-01-18T12:02:00Z",
@@ -166,7 +270,7 @@
             "name": "resource-online.nl"
         },
         "content_html": "",
-        "content_text": "Wageningen University &amp;amp; Research (WUR) | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 16-01-2025 | DataLekt.nl: In mei 2024 ontdekte een ethische hacker een datalek in de HR-applicatie van Wageningen University &amp;amp; Research (WUR), waarbij gegevens zoals BSN-nummers van 1.500 personen toegankelijk waren via een publiek script. Hoewel het lek direct werd gedicht, vond een externe test in december nieuwe kwetsbaarheden. Hierdoor konden documenten kort worden ingezien bij upload. Er is geen bewijs van misbruik, maar 18.000 (oud)-medewerkers zijn ge\u00efnformeerd. De Autoriteit Persoonsgegevens werd ingelicht en de applicatie wordt uitgefaseerd. Een veiliger oplossing heeft prioriteit. (Bron: resource-online.nl)"
+        "content_text": "Wageningen University &amp;amp; Research (WUR) | Onderwijs | 16-01-2025 | DataLekt.nl: In mei 2024 ontdekte een ethische hacker een datalek in de HR-applicatie van Wageningen University &amp;amp; Research (WUR), waarbij gegevens zoals BSN-nummers van 1.500 personen toegankelijk waren via een publiek script. Hoewel het lek direct werd gedicht, vond een externe test in december nieuwe kwetsbaarheden. Hierdoor konden documenten kort worden ingezien bij upload. Er is geen bewijs van misbruik, maar 18.000 (oud)-medewerkers zijn ge\u00efnformeerd. De Autoriteit Persoonsgegevens werd ingelicht en de applicatie wordt uitgefaseerd. Een veiliger oplossing heeft prioriteit. (Bron: resource-online.nl)"
     },
     {
         "id": "https://www.resource-online.nl/index.php/2025/01/16/hacker-ontdekt-kwetsbaarheden-in-hr-applicatie/?datalekt=c0d9ca5a59dbeed7ffb660e035a2539845591f30c00aa9117e3c8d0bb6905426",
@@ -819,17 +923,17 @@
         "content_text": "Caf\u00e9-Restaurant De Balie | Logies-, maaltijd- en drankverstrekking | 03-12-2024 | DataLekt.nl: Het Amsterdamse debatcentrum De Balie is getroffen door een DDoS-aanval, waardoor hun online diensten tijdelijk niet bereikbaar waren. De aanval begon op maandagmiddag en werd uitgevoerd door een onbekende partij. Het aantal getroffen gebruikers is nog niet vastgesteld, en de financi\u00eble schade blijft onduidelijk. Het debatcentrum onderzoekt de aanval en probeert de online beschikbaarheid te herstellen. Er zijn geen aanwijzingen over de identiteit van de aanvallers of hun motief. (Bron: parool.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=9894200e6c8e29586482b5a6436de6450ac12a94fa7aa8c4440c38395ff43dbc",
-        "url": "https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html",
-        "title": "Softwareleverancier van Jumbo getroffen door hack zonder gevolgen voor klanten",
-        "date_published": "2024-11-28T11:07:00Z",
-        "date_modified": "2024-11-28T11:07:00Z",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=de5543ee5a1b80e5354a4b316a4f0ba0cd23c5a95b463076e6d0862a8095788d",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "VISUfarma getroffen door ransomware aanval van de criminele organisatie Incransom",
+        "date_published": "2024-11-29T15:57:00Z",
+        "date_modified": "2024-11-29T15:57:00Z",
         "language": "nl-nl",
         "author": {
-            "name": "tweakers.net"
+            "name": "ccinfo.nl"
         },
         "content_html": "",
-        "content_text": "Jumbo | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: De softwareleverancier Blue Yonder, die distributiesoftware levert aan Jumbo, is recent slachtoffer geworden van een cyberaanval. Jumbo meldt dat de aanval geen hinder heeft veroorzaakt voor klanten en dat de levering van producten ongestoord blijft verlopen. Het bedrijf geeft aan nauw samen te werken met de leverancier om mogelijke risico\u2019s te beperken. Er zijn geen gegevens van klanten gelekt en ook financi\u00eble schade is niet gerapporteerd. De aanval lijkt vooral gericht te zijn op de systemen van de leverancier. (Bron: tweakers.net)"
+        "content_text": "VISUfarma | Gezondheids- en welzijnszorg | 28-11-2024 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij VISUfarma heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
         "id": "https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel?datalekt=ca0e6a1faf71cc6b9abb99c2e53c7e6b04f4d17cee97241aa7ad5085857b5525",
@@ -1194,109 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Almere | Overheid: Gemeenten | 18-10-2024 | DataLekt.nl: Door een fout van de gemeente Almere zijn de priv\u00e9gegevens van 1550 inwoners gelekt. Het incident ontstond toen een herinneringsbrief over het verlopen van paspoorten werd verstuurd, waarbij per ongeluk op de achterkant de gegevens van een andere inwoner waren afgedrukt. Ook zijn de gevoelige persoonsgegevens van vijf cli\u00ebnten van een zorginstelling per ongeluk gedeeld in reactie op een Woo-verzoek. Beide lekken zijn gemeld bij de Autoriteit Persoonsgegevens, en de gemeente onderzoekt maatregelen om herhaling te voorkomen. (Bron: omroepflevoland.nl)"
-    },
-    {
-        "id": "https://www.l1nieuws.nl/nieuws/2775241/hackers-stelen-78000-euro-van-ols-organisatie-in-beekdaelen?datalekt=a8e8fb82df79a5081c3a802238d207918ee372af1afe5dea00af6ea24204f8e8",
-        "url": "https://www.l1nieuws.nl/nieuws/2775241/hackers-stelen-78000-euro-van-ols-organisatie-in-beekdaelen",
-        "title": "Hackers stelen 78.000 euro van OLS-organisatie in Beekdaelen via phishing",
-        "date_published": "2024-10-19T17:38:00Z",
-        "date_modified": "2024-10-19T17:38:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "l1nieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Oud Limburgs Schuttersfeest (OLS) | Cultuur, sport en recreatie | 19-10-2024 | DataLekt.nl: Hackers hebben via een phishingaanval 78.000 euro gestolen van de organisatie van het Oud Limburgs Schuttersfeest (OLS) in Beekdaelen. De aanvallers gebruikten valse e-mails om de organisatie te misleiden en betalingen om te leiden naar hun eigen rekening. Er zijn geen aanwijzingen dat de gegevens van andere betrokkenen, zoals leden of bezoekers, zijn buitgemaakt. De aanval leidde tot aanzienlijke financi\u00eble schade voor de organisatie. Er wordt onderzoek gedaan naar de herkomst van de phishingmails en mogelijke betrokkenheid van criminele groepen. (Bron: l1nieuws.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/858180/Schadeloket+Groningen+heeft+databescherming+nog+niet+volledig+op+orde?datalekt=ecffd2cb3e3e5b0e7ca76a1ceaa1adf6043fc14131133a8028bccdfe0fa46629",
-        "url": "https://www.security.nl/posting/858180/Schadeloket+Groningen+heeft+databescherming+nog+niet+volledig+op+orde",
-        "title": "Instituut Mijnbouwschade Groningen (IMG) kampt met tekortkomingen in databescherming",
-        "date_published": "2024-10-19T12:40:00Z",
-        "date_modified": "2024-10-19T12:40:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Instituut Mijnbouwschade Groningen (IMG) | Overheid: Zelfstandige bestuursorganen | 16-09-2024 | DataLekt.nl: Het Instituut Mijnbouwschade Groningen (IMG), verantwoordelijk voor de afhandeling van schadeclaims door mijnbouwactiviteiten in de regio, heeft zijn databescherming nog niet volledig op orde. Uit een recent onderzoek blijkt dat gevoelige persoonsgegevens van burgers onvoldoende beveiligd zijn. Ondanks eerdere waarschuwingen zijn de noodzakelijke maatregelen voor een betere beveiliging nog niet volledig ge\u00efmplementeerd, wat mogelijke risico&#039;s oplevert voor de betrokkenen. Er zijn nog geen meldingen van datamisbruik, maar de situatie blijft zorgwekkend voor de getroffen burgers. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/862431/AP+wil+opheldering+van+politie+over+niet+verwijderen+verzamelde+gegevens?datalekt=724d9500e4c97a1ade647517ee2080cf5a5ff2c5b29c01285fd64522bdf5f3de",
-        "url": "https://www.security.nl/posting/862431/AP+wil+opheldering+van+politie+over+niet+verwijderen+verzamelde+gegevens",
-        "title": "AP vraagt politie om opheldering over niet verwijderen van gegevens",
-        "date_published": "2024-10-17T12:43:00Z",
-        "date_modified": "2024-10-17T12:43:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 17-10-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft de politie om uitleg gevraagd over het niet verwijderen van verzamelde gegevens van miljoenen burgers, wat in strijd is met de Wet politiegegevens (Wpg). De politie zou deze gegevens na tien jaar moeten wissen, maar heeft dit nooit gedaan uit angst voor het hinderen van cold case-onderzoeken. De AP noemt dit &quot;extra zorgelijk&quot; en heeft om opheldering gevraagd. Dit incident benadrukt de spanning tussen privacybelangen en misdaadbestrijding. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=aaeabfb65acc63cd099330e6d3340e61c42a226d80eab7a7d264f0e35234bd15",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Nora Biscuits getroffen door ransomware aanval van de criminele organisatie PLAY",
-        "date_published": "2024-10-15T16:15:00Z",
-        "date_modified": "2024-10-15T16:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Nora Biscuits | Industrie | 15-10-2024 | DataLekt.nl: De criminele organisatie PLAY heeft op het darkweb aangekondigd dat zij Nora Biscuits heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt?datalekt=1fec4e2b1f634cbd15000b67ba60be8c8ccd83220a5f09b268d68c1f232c1684",
-        "url": "https://www.telegraaf.nl/nieuws/980541914/bedrijf-gehackt-dat-onder-meer-belastingaanslagen-verstuurt",
-        "title": "Ransomware-aanval op AddComm treft communicatiediensten van overheidsinstanties",
-        "date_published": "2024-05-24T09:46:00Z",
-        "date_modified": "2024-10-15T10:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "telegraaf.nl"
-        },
-        "content_html": "",
-        "content_text": "AddComm | Informatie en communicatie | 23-05-2024 | DataLekt.nl: AddComm, een dienstverlener die communicatie voor overheidsinstanties zoals gemeenten en waterschappen verzorgt, werd op 17 mei getroffen door een ransomware-aanval, waarbij cybercriminelen vanaf 5 mei toegang hadden tot de systemen. Gegevens van burgers, waaronder persoonlijke en eigendomsinformatie, zijn mogelijk gestolen. Het is nog onduidelijk welke specifieke data is ontvreemd. Er is risico dat deze gegevens gebruikt of verkocht kunnen worden. Het bedrijf heeft aangifte gedaan bij de politie. [Update: d.d. 14 oktober 2024 is bekend geworden dat AddComm \u20ac400.000 aan losgeld heeft betaald om de systemen te herstellen. In totaal zijn 16.625 inwoners, bedrijven en 50 gemeenten getroffen door de aanval.] (Bron: telegraaf.nl, ibestuur.nl)"
-    },
-    {
-        "id": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/ggd-controleert-honderden-dossiers-van-kinderen-bij-wie-neparts-betrokken-was?datalekt=7f57be49d7db4269babda6bf6cafd0582729a5363fdf5425d5436f03dc0e453b",
-        "url": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/ggd-controleert-honderden-dossiers-van-kinderen-bij-wie-neparts-betrokken-was",
-        "title": "GGD West-Brabant onderzoekt honderden dossiers na inzet van neparts",
-        "date_published": "2024-10-13T12:35:00Z",
-        "date_modified": "2024-10-13T12:35:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "medischcontact.nl"
-        },
-        "content_html": "",
-        "content_text": "GGD West-Brabant | Overheid: Gemeenschappelijke regelingen | 10-10-2024 | DataLekt.nl: De GGD West-Brabant heeft een extern onderzoek ingesteld naar honderden dossiers van kinderen die door een neparts zijn behandeld. Deze 30-jarige man werkte vier jaar lang zonder geldige BIG-registratie en was betrokken bij ongeveer 1900 kinderen tussen de 4 en 18 jaar. De GGD heeft aangifte gedaan en onderzoekt samen met de Inspectie Gezondheidszorg en Jeugd (IGJ) mogelijke fouten in de medische dossiers. Er zijn geen signalen dat de man zich schuldig heeft gemaakt aan seksueel grensoverschrijdend gedrag. Het onderzoek richt zich ook op interne procedures rond personeelscontrole. (Bron: medischcontact.nl, omroepbrabant.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/?datalekt=d78b8a3d412745361ad3d1e7a84a674d5d8ce0bc976eca7429e49840b9fe7eda",
-        "url": "https://www.ad.nl/den-haag/hackers-gebruiken-e-mailaccounts-van-de-gemeente-den-haag-om-nepmails-te-versturen~ab88cf13/",
-        "title": "Gemeente Den Haag getroffen door phishingaanval via misbruik van drie e-mailaccounts",
-        "date_published": "2024-10-03T11:10:00Z",
-        "date_modified": "2024-10-11T11:37:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Den Haag | Overheid: Gemeenten | 26-09-2024 | DataLekt.nl: Hackers hebben drie e-mailaccounts van de gemeente Den Haag misbruikt om phishingmails te versturen. Deze nepmails bevatten vaak Engelse onderwerpen en lijken betrouwbaar door het gebruik van gemeentelijke adressen en soms zelfs dossiernummers. Ontvangers worden naar een vervalste website geleid, waar hen gevraagd wordt om in te loggen. De gemeente heeft de accounts beveiligd en waarschuwt om deze e-mails te verwijderen. Het incident is gemeld bij de Autoriteit Persoonsgegevens, en er wordt onderzoek gedaan naar de aanval. [Update: d.d. 9 oktober 2024 is bekend geworden dat bij de hack naast gebruikersnamen en wachtwoorden, ook MFA-tokens zijn buitgemaakt.] (Bron: binnenlandsbestuur.nl)"
-    },
-    {
-        "id": "https://www.digitaltrustcenter.nl/mogelijke-hack-saxion-verijdeld-door-snel-optreden-na-waarschuwing?datalekt=02b98f6e5d7d660bb82b5008ae3093d3e43a8c400461e62f1b5e0b8de9164c0b",
-        "url": "https://www.digitaltrustcenter.nl/mogelijke-hack-saxion-verijdeld-door-snel-optreden-na-waarschuwing",
-        "title": "Mogelijke hack bij Saxion verijdeld door snelle actie na DTC-waarschuwing",
-        "date_published": "2024-10-10T10:11:00Z",
-        "date_modified": "2024-10-10T10:11:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "digitaltrustcenter.nl"
-        },
-        "content_html": "",
-        "content_text": "Hogeschool Saxion | Onderwijs | 09-10-2024 | DataLekt.nl: Bij Hogeschool Saxion is een potenti\u00eble cyberaanval voorkomen dankzij een snelle reactie op een waarschuwing van het Digital Trust Center (DTC). Deze waarschuwing onthulde dat inloggegevens van medewerkers en studenten mogelijk waren gestolen, wat een risico vormde voor het netwerk van de instelling. Saxion&#039;s IT-team ondernam direct actie door accounts te blokkeren, wachtwoorden te resetten en de betrokken medewerkers op de hoogte te stellen. Uiteindelijk lijkt er geen schade te zijn ontstaan door de tijdige interventie. (Bron: digitaltrustcenter.nl)"
     }
 ]
