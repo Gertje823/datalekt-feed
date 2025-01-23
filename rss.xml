@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 20 Jan 2025 12:36:24 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 12:36:17 +0000</lastBuildDate>
+		<item>
+			<title>Gebruikersgegevens van Sparkling Society-games gestolen bij datalek</title>
+			<link>https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop</link>
+			<description>Sparkling Society | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Locatiegegevens van gebruikers van Sparkling Society-titels zoals City Island 5 zijn gestolen bij een grote hack die gegevens verzameld via advertentiesystemen blootlegde. De data, onrechtmatig verkregen en doorverkocht door datahandelaren, worden nu aangeboden door hackers. Hoewel sommige gegevens gebaseerd zijn op IP-adressen, kunnen individuen nog steeds worden geïdentificeerd, wat tot grootschalige privacyschendingen leidt. Sparkling Society is slachtoffer van de onethische praktijken rond dataverzameling binnen advertentieplatforms, wat de privacyrisico’s voor gebruikers blootlegt. (Bron: bnr.nl)</description>
+			<guid isPermaLink="false">https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=ea73963ec6bff0841da5986bb0536ede96290cc30e6c65ec71263efae545e749</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gegevens van GameHouse-gebruikers gestolen en te koop aangeboden</title>
+			<link>https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop</link>
+			<description>GameHouse | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Gebruikers van GameHouse-games, waaronder Delicious World – Cooking Game, zijn getroffen door een datalek waarbij locatiegegevens werden gestolen via advertentiesystemen. Deze gegevens, onrechtmatig verzameld en doorverkocht door datahandelaren, zijn nu in handen van hackers. Hoewel sommige data minder nauwkeurig zijn, kunnen individuen alsnog worden geïdentificeerd, wat leidt tot ernstige privacyschendingen. Het incident toont de kwetsbaarheid van advertentieplatforms in populaire apps en de risico’s voor gebruikersdata. Stichting Data Bescherming Nederland noemt dit een grootschalige privacyschending met mogelijk schadelijke gevolgen op de lange termijn. (Bron: bnr.nl)</description>
+			<guid isPermaLink="false">https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=5877edc85284636724891a3aecee5f5aca8d95dc44fcefb841d20b539e8e2b32</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Locatiegegevens van MY.GAMES-gebruikers gestolen via advertentieplatforms</title>
+			<link>https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop</link>
+			<description>MY.GAMES | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Een grootschalige hack heeft geleid tot de diefstal van locatiegegevens van gebruikers van MY.GAMES-titels, zoals Rush Royale: Tower Defense TD. De gegevens zijn onrechtmatig verzameld via advertentieplatforms, buiten medeweten van de ontwikkelaars. Deze data zijn doorverkocht aan datahandelaren en bevatten zowel globale als nauwkeurige locaties, wat ernstige privacyschendingen oplevert. Criminelen kunnen deze informatie gebruiken om individuen te volgen en te identificeren, met mogelijk langdurige gevolgen. De betrokkenheid van MY.GAMES in dit incident onderstreept de risico&amp;#039;s van dataverzameling via advertentiesystemen. (Bron: bnr.nl)</description>
+			<guid isPermaLink="false">https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=0570d093836a84fca474c1df05c3dc92e20d2ab18383408015d171802e5d4569</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>NHL Stenden getroffen door DDoS-aanval via SURF-netwerk</title>
 			<link>https://www.omropfryslan.nl/nl/nieuws/17156444/nhl-stenden-slachtoffer-van-ddos-aanval-data-van-hogescholen-is-geld-waard</link>
@@ -187,8 +211,8 @@
 		<item>
 			<title>Locatiegegevens van Buienalarm-gebruikers illegaal verkocht via Amerikaanse datahandelaar</title>
 			<link>https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop</link>
-			<description>Infoplaza (Buienalarm) | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Miljoenen locatiegegevens van gebruikers van Buienalarm, beheerd door Infoplaza, zijn zonder toestemming online verkocht door de Amerikaanse datahandelaar Datastream Group via Datarade. Deze gegevens, soms gekoppeld aan unieke reclame-ID’s, maken het mogelijk gebruikers te identificeren. De data zijn vermoedelijk verzameld via realtime bidding-advertenties. Infoplaza ontkent betrokkenheid, maar privacy-experts noemen het incident illegaal en een ernstige privacyschending. Ondanks toezeggingen van justitie begin 2024 is er weinig verbeterd in de aanpak van dergelijke datalekken. (Bron: bnr.nl)</description>
-			<guid isPermaLink="false">https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=92faf6407d693f9190e7400a15872627fae400a4fd44f7265bd352c2cc569b87</guid>
+			<description>Infoplaza | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Miljoenen locatiegegevens van gebruikers van Buienalarm, beheerd door Infoplaza, zijn zonder toestemming online verkocht door de Amerikaanse datahandelaar Datastream Group via Datarade. Deze gegevens, soms gekoppeld aan unieke reclame-ID’s, maken het mogelijk gebruikers te identificeren. De data zijn vermoedelijk verzameld via realtime bidding-advertenties. Infoplaza ontkent betrokkenheid, maar privacy-experts noemen het incident illegaal en een ernstige privacyschending. Ondanks toezeggingen van justitie begin 2024 is er weinig verbeterd in de aanpak van dergelijke datalekken. (Bron: bnr.nl)</description>
+			<guid isPermaLink="false">https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=88448bc6741940ae8b3d19589744d0a6b96354b8626774b6e76bbc173911e01c</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -783,30 +807,6 @@
 			<guid isPermaLink="false">https://www.nrc.nl/nieuws/2024/10/22/autoriteit-persoonsgegevens-vorig-jaar-zeker-178-geslaagde-aanvallen-met-gijzelsoftware-a4870223?datalekt=7a92362a7a7c21b5e7b34a2bf78ba9f95bef43db982270d7a555b1ef2164b920</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Vodafone beboet voor ontoereikende beveiliging van aftapvoorziening</title>
-			<link>https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening</link>
-			<description>Vodafone Nederland | Informatie en communicatie | 21-10-2024 | DataLekt.nl: Vodafone Nederland heeft een boete van 3,48 miljoen euro ontvangen wegens het onvoldoende beveiligen van zijn aftapvoorziening. De toezichthouder oordeelde dat de telecomprovider niet voldaan heeft aan de wettelijke eisen voor het beveiligen van de systemen waarmee justitie en inlichtingendiensten communicatie kunnen aftappen. Dit bracht risico’s met zich mee voor de veiligheid van de informatie, wat ernstige gevolgen had kunnen hebben voor de privacy van gebruikers. De boete is opgelegd door de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening?datalekt=810518896a92e6d462ae51641866cc5a28f89ec73258e92a0453d14c27a199e2</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Almere lekt privégegevens van 1550 inwoners door fout in herinneringsbrief</title>
-			<link>https://www.omroepflevoland.nl/nieuws/401064/privegegevens-van-ruim-1500-almeerders-gelekt-door-fout-gemeente</link>
-			<description>Gemeente Almere | Overheid: Gemeenten | 18-10-2024 | DataLekt.nl: Door een fout van de gemeente Almere zijn de privégegevens van 1550 inwoners gelekt. Het incident ontstond toen een herinneringsbrief over het verlopen van paspoorten werd verstuurd, waarbij per ongeluk op de achterkant de gegevens van een andere inwoner waren afgedrukt. Ook zijn de gevoelige persoonsgegevens van vijf cliënten van een zorginstelling per ongeluk gedeeld in reactie op een Woo-verzoek. Beide lekken zijn gemeld bij de Autoriteit Persoonsgegevens, en de gemeente onderzoekt maatregelen om herhaling te voorkomen. (Bron: omroepflevoland.nl)</description>
-			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/401064/privegegevens-van-ruim-1500-almeerders-gelekt-door-fout-gemeente?datalekt=1e4142434913064ddd088c188cf88db003eeb633850f3039cacc3dbd151d6e38</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Politie beboet voor privacyschending met camera-auto&amp;#039;s in Rotterdam</title>
-			<link>https://tweakers.net/nieuws/204756/politie-krijgt-boete-wegens-privacyschendingen-bij-inzet-camera-autos-rotterdam.html</link>
-			<description>Politie Rotterdam | Overheid: Politie en brandweer | 21-12-2022 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft de Nederlandse politie een boete opgelegd van 50.000 euro vanwege privacyschendingen. In 2020 werden tijdens de coronatijd in Rotterdam camera-auto&amp;#039;s ingezet. Echter, de privacyrisico&amp;#039;s hiervan waren niet volledig geanalyseerd en er zijn te veel beelden verzameld. Dit heeft geleid tot zorgen over de bescherming van persoonsgegevens van burgers. [Update: d.d. 23-10-2024 is de boete door de rechter verlaagd naar € 30.000.] (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/204756/politie-krijgt-boete-wegens-privacyschendingen-bij-inzet-camera-autos-rotterdam.html?datalekt=e41af31f662f6af8ae5effd45def97a2272531d2b31bddabb46b505d6c5cd3cc</guid>
-			<category>Overheid: Politie en brandweer </category>
-			<pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

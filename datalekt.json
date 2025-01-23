@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=ea73963ec6bff0841da5986bb0536ede96290cc30e6c65ec71263efae545e749",
+        "url": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop",
+        "title": "Gebruikersgegevens van Sparkling Society-games gestolen bij datalek",
+        "date_published": "2025-01-23T10:16:00Z",
+        "date_modified": "2025-01-23T10:16:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "bnr.nl"
+        },
+        "content_html": "",
+        "content_text": "Sparkling Society | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Locatiegegevens van gebruikers van Sparkling Society-titels zoals City Island 5 zijn gestolen bij een grote hack die gegevens verzameld via advertentiesystemen blootlegde. De data, onrechtmatig verkregen en doorverkocht door datahandelaren, worden nu aangeboden door hackers. Hoewel sommige gegevens gebaseerd zijn op IP-adressen, kunnen individuen nog steeds worden ge\u00efdentificeerd, wat tot grootschalige privacyschendingen leidt. Sparkling Society is slachtoffer van de onethische praktijken rond dataverzameling binnen advertentieplatforms, wat de privacyrisico\u2019s voor gebruikers blootlegt. (Bron: bnr.nl)"
+    },
+    {
+        "id": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=5877edc85284636724891a3aecee5f5aca8d95dc44fcefb841d20b539e8e2b32",
+        "url": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop",
+        "title": "Gegevens van GameHouse-gebruikers gestolen en te koop aangeboden",
+        "date_published": "2025-01-23T10:15:00Z",
+        "date_modified": "2025-01-23T10:15:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "bnr.nl"
+        },
+        "content_html": "",
+        "content_text": "GameHouse | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Gebruikers van GameHouse-games, waaronder Delicious World \u2013 Cooking Game, zijn getroffen door een datalek waarbij locatiegegevens werden gestolen via advertentiesystemen. Deze gegevens, onrechtmatig verzameld en doorverkocht door datahandelaren, zijn nu in handen van hackers. Hoewel sommige data minder nauwkeurig zijn, kunnen individuen alsnog worden ge\u00efdentificeerd, wat leidt tot ernstige privacyschendingen. Het incident toont de kwetsbaarheid van advertentieplatforms in populaire apps en de risico\u2019s voor gebruikersdata. Stichting Data Bescherming Nederland noemt dit een grootschalige privacyschending met mogelijk schadelijke gevolgen op de lange termijn. (Bron: bnr.nl)"
+    },
+    {
+        "id": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=0570d093836a84fca474c1df05c3dc92e20d2ab18383408015d171802e5d4569",
+        "url": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop",
+        "title": "Locatiegegevens van MY.GAMES-gebruikers gestolen via advertentieplatforms",
+        "date_published": "2025-01-23T10:14:00Z",
+        "date_modified": "2025-01-23T10:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "bnr.nl"
+        },
+        "content_html": "",
+        "content_text": "MY.GAMES | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Een grootschalige hack heeft geleid tot de diefstal van locatiegegevens van gebruikers van MY.GAMES-titels, zoals Rush Royale: Tower Defense TD. De gegevens zijn onrechtmatig verzameld via advertentieplatforms, buiten medeweten van de ontwikkelaars. Deze data zijn doorverkocht aan datahandelaren en bevatten zowel globale als nauwkeurige locaties, wat ernstige privacyschendingen oplevert. Criminelen kunnen deze informatie gebruiken om individuen te volgen en te identificeren, met mogelijk langdurige gevolgen. De betrokkenheid van MY.GAMES in dit incident onderstreept de risico&#039;s van dataverzameling via advertentiesystemen. (Bron: bnr.nl)"
+    },
+    {
         "id": "https://www.omropfryslan.nl/nl/nieuws/17156444/nhl-stenden-slachtoffer-van-ddos-aanval-data-van-hogescholen-is-geld-waard?datalekt=ad7dd70759eb93ee823453b33f0e94b390253372551e9e2d282fdf6c14b9073d",
         "url": "https://www.omropfryslan.nl/nl/nieuws/17156444/nhl-stenden-slachtoffer-van-ddos-aanval-data-van-hogescholen-is-geld-waard",
         "title": "NHL Stenden getroffen door DDoS-aanval via SURF-netwerk",
@@ -286,7 +325,7 @@
         "content_text": "Mendix Technology | Informatie en communicatie | 16-01-2025 | DataLekt.nl: Een ethische hacker ontdekte kwetsbaarheden in een HR-applicatie van Wageningen University &amp;amp; Research (WUR), gebouwd op het Mendix-platform. In mei 2024 bleek gevoelige informatie toegankelijk door een publiek script. Hoewel WUR snel een fix doorvoerde, toonde een externe test in december aanvullende risico\u2019s, waarbij documenten tijdelijk zichtbaar waren tijdens uploads. Mendix benadrukt het belang van correcte implementatie en monitoring door gebruikers. WUR heeft de Autoriteit Persoonsgegevens ge\u00efnformeerd en besloten de toepassing stop te zetten. Mendix ondersteunt klanten bij het waarborgen van beveiliging in applicaties. (Bron: resource-online.nl)"
     },
     {
-        "id": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=92faf6407d693f9190e7400a15872627fae400a4fd44f7265bd352c2cc569b87",
+        "id": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=88448bc6741940ae8b3d19589744d0a6b96354b8626774b6e76bbc173911e01c",
         "url": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop",
         "title": "Locatiegegevens van Buienalarm-gebruikers illegaal verkocht via Amerikaanse datahandelaar",
         "date_published": "2025-01-18T12:00:00Z",
@@ -296,7 +335,7 @@
             "name": "bnr.nl"
         },
         "content_html": "",
-        "content_text": "Infoplaza (Buienalarm) | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Miljoenen locatiegegevens van gebruikers van Buienalarm, beheerd door Infoplaza, zijn zonder toestemming online verkocht door de Amerikaanse datahandelaar Datastream Group via Datarade. Deze gegevens, soms gekoppeld aan unieke reclame-ID\u2019s, maken het mogelijk gebruikers te identificeren. De data zijn vermoedelijk verzameld via realtime bidding-advertenties. Infoplaza ontkent betrokkenheid, maar privacy-experts noemen het incident illegaal en een ernstige privacyschending. Ondanks toezeggingen van justitie begin 2024 is er weinig verbeterd in de aanpak van dergelijke datalekken. (Bron: bnr.nl)"
+        "content_text": "Infoplaza | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Miljoenen locatiegegevens van gebruikers van Buienalarm, beheerd door Infoplaza, zijn zonder toestemming online verkocht door de Amerikaanse datahandelaar Datastream Group via Datarade. Deze gegevens, soms gekoppeld aan unieke reclame-ID\u2019s, maken het mogelijk gebruikers te identificeren. De data zijn vermoedelijk verzameld via realtime bidding-advertenties. Infoplaza ontkent betrokkenheid, maar privacy-experts noemen het incident illegaal en een ernstige privacyschending. Ondanks toezeggingen van justitie begin 2024 is er weinig verbeterd in de aanpak van dergelijke datalekken. (Bron: bnr.nl)"
     },
     {
         "id": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval?datalekt=e1d73890e9e2acce5da2f4894e14089db3d9c2d4ba5d845f8a4845f27332f9f0",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "178 organisaties | Overige dienstverlening | 22-10-2024 | DataLekt.nl: In 2023 registreerde de Autoriteit Persoonsgegevens (AP) minstens 178 succesvolle ransomware-aanvallen, waarbij persoonsgegevens van miljoenen Nederlanders zijn buitgemaakt. Een kwart van de aanvallen betrof multinationals, en twee derde van de getroffen organisaties had zwakke beveiliging, zoals ontbrekende tweetrapsverificatie. Criminelen gebruikten vaak &quot;dubbele afpersing&quot; en verhandelden de gestolen data, wat leidde tot gerichte oplichting. In meer dan 90% van de gevallen is er niet tot het betalen van losgeld overgegaan. De AP wijst op grote risico\u2019s door onvoldoende beveiliging. (Bron: nrc.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/204756/politie-krijgt-boete-wegens-privacyschendingen-bij-inzet-camera-autos-rotterdam.html?datalekt=e41af31f662f6af8ae5effd45def97a2272531d2b31bddabb46b505d6c5cd3cc",
-        "url": "https://tweakers.net/nieuws/204756/politie-krijgt-boete-wegens-privacyschendingen-bij-inzet-camera-autos-rotterdam.html",
-        "title": "Politie beboet voor privacyschending met camera-auto&#039;s in Rotterdam",
-        "date_published": "2022-12-21T00:00:00Z",
-        "date_modified": "2024-10-23T16:14:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Politie Rotterdam | Overheid: Politie en brandweer | 21-12-2022 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft de Nederlandse politie een boete opgelegd van 50.000 euro vanwege privacyschendingen. In 2020 werden tijdens de coronatijd in Rotterdam camera-auto&#039;s ingezet. Echter, de privacyrisico&#039;s hiervan waren niet volledig geanalyseerd en er zijn te veel beelden verzameld. Dit heeft geleid tot zorgen over de bescherming van persoonsgegevens van burgers. [Update: d.d. 23-10-2024 is de boete door de rechter verlaagd naar \u20ac 30.000.] (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening?datalekt=810518896a92e6d462ae51641866cc5a28f89ec73258e92a0453d14c27a199e2",
-        "url": "https://www.security.nl/posting/862961/Vodafone+krijgt+miljoenenboete+voor+onvoldoende+beveiligen+aftapvoorziening",
-        "title": "Vodafone beboet voor ontoereikende beveiliging van aftapvoorziening",
-        "date_published": "2024-10-22T16:36:00Z",
-        "date_modified": "2024-10-22T16:36:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Vodafone Nederland | Informatie en communicatie | 21-10-2024 | DataLekt.nl: Vodafone Nederland heeft een boete van 3,48 miljoen euro ontvangen wegens het onvoldoende beveiligen van zijn aftapvoorziening. De toezichthouder oordeelde dat de telecomprovider niet voldaan heeft aan de wettelijke eisen voor het beveiligen van de systemen waarmee justitie en inlichtingendiensten communicatie kunnen aftappen. Dit bracht risico\u2019s met zich mee voor de veiligheid van de informatie, wat ernstige gevolgen had kunnen hebben voor de privacy van gebruikers. De boete is opgelegd door de Autoriteit Persoonsgegevens. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.omroepflevoland.nl/nieuws/401064/privegegevens-van-ruim-1500-almeerders-gelekt-door-fout-gemeente?datalekt=1e4142434913064ddd088c188cf88db003eeb633850f3039cacc3dbd151d6e38",
-        "url": "https://www.omroepflevoland.nl/nieuws/401064/privegegevens-van-ruim-1500-almeerders-gelekt-door-fout-gemeente",
-        "title": "Gemeente Almere lekt priv\u00e9gegevens van 1550 inwoners door fout in herinneringsbrief",
-        "date_published": "2024-10-20T15:14:00Z",
-        "date_modified": "2024-10-20T15:14:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepflevoland.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Almere | Overheid: Gemeenten | 18-10-2024 | DataLekt.nl: Door een fout van de gemeente Almere zijn de priv\u00e9gegevens van 1550 inwoners gelekt. Het incident ontstond toen een herinneringsbrief over het verlopen van paspoorten werd verstuurd, waarbij per ongeluk op de achterkant de gegevens van een andere inwoner waren afgedrukt. Ook zijn de gevoelige persoonsgegevens van vijf cli\u00ebnten van een zorginstelling per ongeluk gedeeld in reactie op een Woo-verzoek. Beide lekken zijn gemeld bij de Autoriteit Persoonsgegevens, en de gemeente onderzoekt maatregelen om herhaling te voorkomen. (Bron: omroepflevoland.nl)"
     }
 ]
