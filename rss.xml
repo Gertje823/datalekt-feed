@@ -7,7 +7,39 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 23 Jan 2025 12:36:17 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jan 2025 12:35:16 +0000</lastBuildDate>
+		<item>
+			<title>Kooijman Vianen getroffen door ransomware aanval van de criminele organisatie Fog</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Kooijman Vianen | Groot- en detailhandel | 23-01-2025 | DataLekt.nl: De criminele organisatie Fog heeft op het darkweb aangekondigd dat zij Kooijman Vianen heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=0d695da6f64130b60f7f5e1749b8063c0c958e22ed766f13f0baefe581c6d33c</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Centric getroffen door ransomware aanval van de criminele organisatie Clop</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Centric | Informatie en communicatie | 23-01-2025 | DataLekt.nl: De criminele organisatie Clop heeft op het darkweb aangekondigd dat zij Centric heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7d5317fa56e9d79f08283ecf45e7186d9887d45e16a7ee3296e0816f9832ea8e</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>C3Group getroffen door ransomware aanval van de criminele organisatie Clop</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>C3Group | Informatie en communicatie | 23-01-2025 | DataLekt.nl: De criminele organisatie Clop heeft op het darkweb aangekondigd dat zij C3Group heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=373490b639259242609420796f42ec4afe36aa48a7b266b6f5baa535b595a6f8</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij webshop Welhof treft meer dan 107.000 klanten</title>
+			<link>https://www.security.nl/posting/873371/Nederlandse+webshop+Welhof+lekte+gegevens+107_000+klanten</link>
+			<description>Welhof | Groot- en detailhandel | 22-01-2025 | DataLekt.nl: Eind 2023 heeft de Nederlandse webshop Welhof een datalek ervaren waarbij persoonsgegevens van ruim 107.000 klanten zijn gelekt, waaronder namen, adressen, e-mailadressen, telefoonnummers en bestelnummers. Rekeningnummers en wachtwoorden zijn niet gelekt. Welhof vermoedt een cyberbeveiligingsincident en onderzoekt de zaak. Hoe aanvallers toegang hebben gekregen, is onbekend. Zeventig procent van de gelekte e-mailadressen stond al in eerdere datalekken. De gegevens zijn toegevoegd aan Have I Been Pwned. Klanten wordt aangeraden alert te zijn op phishing. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/873371/Nederlandse+webshop+Welhof+lekte+gegevens+107_000+klanten?datalekt=ba995bb7959229982a423e91d9de278e931ef977f27b86cd98f74054c64109a5</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gebruikersgegevens van Sparkling Society-games gestolen bij datalek</title>
 			<link>https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop</link>
@@ -411,8 +443,8 @@
 		<item>
 			<title>Website gemeenteraad Almere gehackt; mogelijk gegevens gestolen</title>
 			<link>https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen</link>
-			<description>Gemeente Almere | Overheid: Gemeenten | 18-12-2024 | DataLekt.nl: De website van de gemeenteraad van Almere is gehackt, waardoor mogelijk persoonlijke gegevens zijn gestolen. De aanval werd ontdekt nadat de website onbereikbaar werd. Het is nog onduidelijk wie er achter de hack zit en hoeveel mensen zijn getroffen. De gemeente onderzoekt de zaak en heeft de Autoriteit Persoonsgegevens geïnformeerd. (Bron: omroepflevoland.nl)</description>
-			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen?datalekt=ea3ed51284ebf075f29d355cff4e41821e4aa6d37869d8e14828603785514b02</guid>
+			<description>Gemeente Almere | Overheid: Gemeenten | 18-12-2024 | DataLekt.nl: De website van de gemeenteraad van Almere is gehackt, waardoor mogelijk persoonlijke gegevens zijn gestolen. De aanval werd ontdekt nadat de website onbereikbaar werd. Het is nog onduidelijk wie er achter de hack zit en hoeveel mensen zijn getroffen. De gemeente onderzoekt de zaak en heeft de Autoriteit Persoonsgegevens geïnformeerd. [Update: d.d. 23 januari is bekend geworden dat de hack 2.200 gebruikers getroffen heeft.] (Bron: omroepflevoland.nl)</description>
+			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen?datalekt=54ddb310b6758a874aa5bc996e602e8287f347a679d2c3fbe0c93bd12475d280</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
@@ -601,12 +633,12 @@
 			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>VISUfarma getroffen door ransomware aanval van de criminele organisatie Incransom</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>VISUfarma | Gezondheids- en welzijnszorg | 28-11-2024 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij VISUfarma heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=de5543ee5a1b80e5354a4b316a4f0ba0cd23c5a95b463076e6d0862a8095788d</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+			<title>Softwareleverancier van Jumbo getroffen door hack zonder gevolgen voor klanten</title>
+			<link>https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html</link>
+			<description>Jumbo | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: De softwareleverancier Blue Yonder, die distributiesoftware levert aan Jumbo, is recent slachtoffer geworden van een cyberaanval. Jumbo meldt dat de aanval geen hinder heeft veroorzaakt voor klanten en dat de levering van producten ongestoord blijft verlopen. Het bedrijf geeft aan nauw samen te werken met de leverancier om mogelijke risico’s te beperken. Er zijn geen gegevens van klanten gelekt en ook financiële schade is niet gerapporteerd. De aanval lijkt vooral gericht te zijn op de systemen van de leverancier. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=9894200e6c8e29586482b5a6436de6450ac12a94fa7aa8c4440c38395ff43dbc</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Odido slachtoffer van phishing en malware: cybercrimineel uit Eelderwolde veroordeeld</title>
@@ -774,38 +806,6 @@
 			<description>Gemeente Velsen | Overheid: Gemeenten | 25-10-2024 | DataLekt.nl: Door een phishingaanval hebben hackers toegang gekregen tot een interne mailbox van de gemeente Velsen. Een medewerker trapte in een e-mail van een gecompromitteerde organisatie, waardoor aanvallers 48 uur toegang hadden en actief e-mail- en mogelijk telefooninformatie van inwoners konden inzien. Het datalek vond plaats op 24 september, maar betrokken inwoners ontvingen pas op 21 oktober bericht. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
 			<guid isPermaLink="false">https://www.security.nl/posting/863555/Gemeente+Velsen+lekte+e-mailadressen+van+honderden+inwoners?datalekt=e8fb21a3d75cd684500d3fc471305592768c4cc839ea0740594f9081af8acefe</guid>
 			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Alphen aan den Rijn stuurt duizenden brieven met foutieve gegevens door datalek</title>
-			<link>https://www.omroepwest.nl/nieuws/4893242/gemeente-blundert-weer-duizenden-brieven-met-verkeerde-informatie-verstuurd</link>
-			<description>Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 23-10-2024 | DataLekt.nl: De gemeente Alphen aan den Rijn heeft door een menselijke fout ongeveer 3000 brieven verstuurd met onjuiste bedrijfs- en persoonsnamen, terwijl adressen wel correct waren. De fout, die verband houdt met communicatie over de zero-emissiezone, werd gemeld als datalek bij de Autoriteit Persoonsgegevens. Het is de derde keer dat de gemeente soortgelijke fouten maakt, waarvoor aanvullende maatregelen worden aangekondigd om herhaling te voorkomen. Ontvangers krijgen gecorrigeerde brieven. (Bron: omroepwest.nl)</description>
-			<guid isPermaLink="false">https://www.omroepwest.nl/nieuws/4893242/gemeente-blundert-weer-duizenden-brieven-met-verkeerde-informatie-verstuurd?datalekt=de9f8fa9582b5de57ba09efedb00733990726b6835f4957ceeec6314e221b62e</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Vakantieparken schenden privacyregels bij toegang met gezichtsherkenning</title>
-			<link>https://beveiligingnieuws.nl/vakantieparken-passen-gebruik-gezichtsherkenning-aan/</link>
-			<description>8 vakantieparken | Cultuur, sport en recreatie | 23-10-2024 | DataLekt.nl: Acht vakantieparken in Nederland maakten onterecht gebruik van gezichtsherkenning voor toegang tot faciliteiten zoals zwembaden, zonder de juiste toestemming van bezoekers, volgens onderzoek door de Autoriteit Persoonsgegevens (AP). Zeven parken hebben hun aanpak inmiddels aangepast, maar één park voldoet nog niet aan de wettelijke eisen en riskeert een boete of dwangsom. Het onderzoek volgde op meldingen van burgers die zich ongemakkelijk voelden over de verplichte biometrische identificatie. De AP benadrukt dat gezichtsherkenning enkel onder strenge voorwaarden mag worden toegepast. (Bron: beveiligingnieuws.nl)</description>
-			<guid isPermaLink="false">https://beveiligingnieuws.nl/vakantieparken-passen-gebruik-gezichtsherkenning-aan/?datalekt=c3bb174ea20399b40ab8920c6fcfae0e21c0f90b3ecb2efc7c7d76d80e609fe8</guid>
-			<category>Cultuur, sport en recreatie </category>
-			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>OM-medewerkers schenden integriteit door criminele banden en lekken van vertrouwelijke gegevens in 2021</title>
-			<link>https://beveiligingnieuws.nl/ernstige-misstanden-bij-om-medewerkers-geconstateerd/</link>
-			<description>Openbaar Ministerie (OM) | Overheid: Organisatieonderdeel | 23-10-2024 | DataLekt.nl: In 2021 onderzocht het Openbaar Ministerie (OM) 27 gevallen van integriteitsschendingen waarbij medewerkers onder andere betrokken waren bij datalekken van vertrouwelijke informatie naar contacten in criminele netwerken, en het verduisteren van een in beslag genomen laptop met strafbaar materiaal. Dit leidde tot disciplinaire acties en maatregelen om de interne integriteit te versterken. (Bron: beveiligingnieuws.nl)</description>
-			<guid isPermaLink="false">https://beveiligingnieuws.nl/ernstige-misstanden-bij-om-medewerkers-geconstateerd/?datalekt=32cfdccb712ef8ec1a23d2418cb4d639a67e703e01ddf5638a8a02e2907f4b52</guid>
-			<category>Overheid: Organisatieonderdeel </category>
-			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Autoriteit Persoonsgegevens meldt 178 gijzelsoftware-aanvallen in 2023</title>
-			<link>https://www.nrc.nl/nieuws/2024/10/22/autoriteit-persoonsgegevens-vorig-jaar-zeker-178-geslaagde-aanvallen-met-gijzelsoftware-a4870223</link>
-			<description>178 organisaties | Overige dienstverlening | 22-10-2024 | DataLekt.nl: In 2023 registreerde de Autoriteit Persoonsgegevens (AP) minstens 178 succesvolle ransomware-aanvallen, waarbij persoonsgegevens van miljoenen Nederlanders zijn buitgemaakt. Een kwart van de aanvallen betrof multinationals, en twee derde van de getroffen organisaties had zwakke beveiliging, zoals ontbrekende tweetrapsverificatie. Criminelen gebruikten vaak &amp;quot;dubbele afpersing&amp;quot; en verhandelden de gestolen data, wat leidde tot gerichte oplichting. In meer dan 90% van de gevallen is er niet tot het betalen van losgeld overgegaan. De AP wijst op grote risico’s door onvoldoende beveiliging. (Bron: nrc.nl)</description>
-			<guid isPermaLink="false">https://www.nrc.nl/nieuws/2024/10/22/autoriteit-persoonsgegevens-vorig-jaar-zeker-178-geslaagde-aanvallen-met-gijzelsoftware-a4870223?datalekt=7a92362a7a7c21b5e7b34a2bf78ba9f95bef43db982270d7a555b1ef2164b920</guid>
-			<category>Overige dienstverlening </category>
 			<pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
