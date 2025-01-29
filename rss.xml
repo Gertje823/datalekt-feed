@@ -7,12 +7,36 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 29 Jan 2025 12:35:33 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 18:25:24 +0000</lastBuildDate>
+		<item>
+			<title>Datalek door cyberaanval op voormalig leverancier van Gemeente Amersfoort</title>
+			<link>https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier</link>
+			<description>Gemeente Amersfoort | Overheid: Gemeenten | 27-01-2025 | DataLekt.nl: Een cyberaanval op een voormalige leverancier van de gemeente Amersfoort heeft geleid tot een datalek waarbij persoonsgegevens uit een testomgeving zijn buitgemaakt. Kwaadwillenden maakten misbruik van een zwakke plek in de software en verkregen toegang tot de naam, geslacht, burgerservicenummer en geboortedatum van 13 huidige en 7 voormalige inwoners, waaronder vier overleden personen. De gemeente heeft de betrokkenen geïnformeerd en een melding gedaan bij de Autoriteit Persoonsgegevens. Het contract met de leverancier wordt niet verlengd en de resterende gegevens worden in februari verwijderd. (Bron: binnenlandsbestuur.nl)</description>
+			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier?datalekt=e03806a795d0ec9809bb7d7cad7b22f7ca2de9bc1a599aa880ca0da39cd89868</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij Gemeente Amersfoort door kwetsbaarheid in Centric-testserver</title>
+			<link>https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier</link>
+			<description>Gemeente Amersfoort | Overheid: Gemeenten | 27-01-2025 | DataLekt.nl: In december 2024 werden duizenden inwoners van Amersfoort getroffen door een datalek bij een andere leverancier van de gemeente. Persoonsgegevens werden langer dan toegestaan bewaard in afwachting van een cloudmigratie. Het IT-bedrijf Centric meldde dat een kwetsbaarheid in een testserver met Cleo-software werd misbruikt door de ransomwarebende Clop, die gegevens van tientallen organisaties zou hebben buitgemaakt. Hoewel Centric stelt dat alleen testdata is getroffen en er geen impact was op productiesystemen, verschenen de gestolen gegevens op een ransomwarewebsite. De gemeente overweegt de schade te verhalen op de leverancier. (Bron: binnenlandsbestuur.nl)</description>
+			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier?datalekt=a61c0c4a8f1df9f0eab68460a43f9a683594aac10a29f07d0c18efc4e9bf2293</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Website gemeente Veendam onbereikbaar door DDoS-aanval</title>
+			<link>https://www.parkstadveendam.nl/node/34117</link>
+			<description>Gemeente Veendam | Overheid: Gemeenten | 24-01-2025 | DataLekt.nl: Sinds enkele dagen ondervindt de website van de gemeente Veendam problemen met de formulieren, en sinds donderdagmiddag is de site geheel of gedeeltelijk onbereikbaar. De gemeente meldt op Facebook dat dit te wijten is aan een technische storing en dat er hard aan een oplossing wordt gewerkt. Vrijdagmorgen was de website nog steeds niet bereikbaar. Er is geen informatie beschikbaar over de oorzaak van de storing, de mogelijke betrokkenheid van aanvallers, of de omvang van de eventuele schade.</description>
+			<guid isPermaLink="false">https://www.parkstadveendam.nl/node/34117?datalekt=cd9879fd185cf994f7a23dc49cefd439b050133670c3ea01999ef69fd95911ca</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Eindhoven meldt mogelijk datalek door ongeoorloofde toegang via laptops cliëntenraad</title>
 			<link>https://www.ed.nl/eindhoven/eindhoven-de-mist-in-met-laptops-voor-clientenraad-mogelijk-datalek-gemeld-bij-privacywaakhond~ac15a4ef/</link>
 			<description>Gemeente Eindhoven | Overheid: Gemeenten | 23-01-2025 | DataLekt.nl: De gemeente Eindhoven heeft een mogelijk datalek gemeld bij de Autoriteit Persoonsgegevens nadat bleek dat leden van de Cliëntenraad Sociaal Domein via gemeentelijke laptops toegang hadden tot meer persoonsgegevens dan noodzakelijk. De laptops, die in november waren verstrekt, werden op 20 december afgesloten vanwege een beveiligingsprobleem. Het is onduidelijk of gevoelige informatie daadwerkelijk is ingezien. De gemeente heeft maatregelen genomen en onderzoekt verdere verbeteringen in het privacybeleid. De Autoriteit Persoonsgegevens houdt de gemeente al langer in de gaten wegens eerdere privacykwesties. (Bron: ed.nl)</description>
-			<guid isPermaLink="false">https://www.ed.nl/eindhoven/eindhoven-de-mist-in-met-laptops-voor-clientenraad-mogelijk-datalek-gemeld-bij-privacywaakhond~ac15a4ef/?datalekt=801c023141b76d4698ee4352d2eaaebb100b43b57ca9bfca654f045836a73793</guid>
+			<guid isPermaLink="false">https://www.ed.nl/eindhoven/eindhoven-de-mist-in-met-laptops-voor-clientenraad-mogelijk-datalek-gemeld-bij-privacywaakhond~ac15a4ef/?datalekt=c0b5d4c39942db576a59e223cbbb4e7fbc61fe52ffb1e3879858f470cd14f168</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -20,7 +44,7 @@
 			<title>Ransomware-aanval op Epona mogelijk impact op contactgegevens van klanten</title>
 			<link>https://ak-advocaten.eu/home/epona-faq/</link>
 			<description>Epona | Informatie en communicatie | 16-01-2025 | DataLekt.nl: Epona, leverancier van contact- en documentbeheersystemen, is getroffen door een ransomware-aanval gericht op het &amp;#039;Contactmanager&amp;#039;-systeem. Dit systeem bevat contactgegevens van klanten. Het doel van de aanval was het eisen van losgeld, niet het stelen van data. Hoewel de aanvallers mogelijk toegang hebben gehad tot gegevens, is er geen bewijs dat deze zijn ingezien of buitgemaakt. Dossiergegevens binnen klantomgevingen zijn niet getroffen. Epona heeft direct maatregelen genomen, zoals het uitschakelen van systemen en wachtwoordwijzigingen, om verdere schade te voorkomen. (Bron: ak-advocaten.eu)</description>
-			<guid isPermaLink="false">https://ak-advocaten.eu/home/epona-faq/?datalekt=863dd75f09748e8454ee2abf53e1faea8b7bb23bf3a27b134075bd4c2aae6ef2</guid>
+			<guid isPermaLink="false">https://ak-advocaten.eu/home/epona-faq/?datalekt=1b4978e86045d6b7c17c81ed666080b54580673c34b32c1a3adffc0aba34dc68</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -41,10 +65,10 @@
 			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Centric getroffen door ransomware aanval van de criminele organisatie Clop</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Centric | Informatie en communicatie | 23-01-2025 | DataLekt.nl: De criminele organisatie Clop heeft op het darkweb aangekondigd dat zij Centric heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7d5317fa56e9d79f08283ecf45e7186d9887d45e16a7ee3296e0816f9832ea8e</guid>
+			<title>Russische hackersgroep Clop steelt klantgegevens van Centric via lek in Cleo-software</title>
+			<link>https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek</link>
+			<description>Centric | Informatie en communicatie | 24-01-2024 | DataLekt.nl: In december 2024 wisten Russische cybercriminelen van de Clop-groep in te breken bij Centric via een kwetsbaarheid in de software van Cleo, een Amerikaanse leverancier van bestandsoverdrachtsoftware. De aanval werd pas in januari 2025 bekend, nadat Clop losgeld eiste en begon met het publiceren van gegevens van bedrijven die niet betaalden. Volgens Centric zijn alleen testomgevingen getroffen en is slechts een beperkt aantal privacygevoelige gegevens van één klant gecompromitteerd. Het bedrijf heeft melding gedaan bij de Autoriteit Persoonsgegevens. [Update: artikel bijgewerkt aan de hand van een nieuwe bron.] (Bron: fd.nl)</description>
+			<guid isPermaLink="false">https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek?datalekt=1e2459bdb4c842a3582c8d71d519d08e71de34868f1170d94b6df131882b4865</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -783,30 +807,6 @@
 			<guid isPermaLink="false">https://www.destentor.nl/apeldoorn/apeldoorn-gaat-in-de-fout-met-gevoelige-gegevens-wisten-al-dat-we-heel-wat-te-doen-hadden~a11c9002/?datalekt=1aad6d2f184e8b7b11cd94cc484bf074ee50ea355e18a5c4704c7ac81e632caa</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Teteringse politieman veroordeeld voor misbruik politiedatabases met persoonsgegevens</title>
-			<link>https://www.bredavandaag.nl/politie/politie/430240/teteringse-politieman-zocht-privegegevens-op-van-familieleden</link>
-			<description>Politie Den Haag | Overheid: Politie en brandweer | 15-10-2024 | DataLekt.nl: Een 36-jarige politieagent uit Teteringen is door de rechtbank in Den Haag veroordeeld tot een taakstraf van 60 uur voor computervredebreuk. De hoofdagent, werkzaam bij de politie in Den Haag, gebruikte zijn toegang tot politiedatabases om zonder werkgerelateerde reden privégegevens van familieleden en inwoners van Breda op te zoeken. Deze handelingen werden als een ernstige inbreuk op de privacy beschouwd en ondermijnden het publieke vertrouwen in de politie. De rechtbank oordeelde dat de agent hiermee zijn bevoegdheden ernstig overschreed. (Bron: bredavandaag.nl)</description>
-			<guid isPermaLink="false">https://www.bredavandaag.nl/politie/politie/430240/teteringse-politieman-zocht-privegegevens-op-van-familieleden?datalekt=c3a9e37ad3b3b4970cb339cb3e33ada88f775629211c90c7965a33e17d8e155f</guid>
-			<category>Overheid: Politie en brandweer </category>
-			<pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Phishing-incident bij ’s Heeren Loo leidt tot ongeautoriseerde toegang tot mailboxen van medewerkers</title>
-			<link>https://www.sheerenloo.nl/nieuws/phishing-incident-bij-s-heerenloo</link>
-			<description>s Heeren Loo | Gezondheids- en welzijnszorg | 31-10-2024 | DataLekt.nl: Op 30 oktober 2024 ontdekte ’s Heeren Loo een phishing-incident waarbij onbevoegden toegang kregen tot de mailbox van enkele medewerkers. Hierdoor hebben ongeveer 100 externe relaties onterecht een phishingmail ontvangen, met een link die, indien aangeklikt en ingevuld, cybercriminelen toegang tot inloggegevens zou kunnen geven. Het incident werd direct aangepakt om verdere verspreiding te voorkomen. ’s Heeren Loo onderzoekt de impact en heeft contact opgenomen met de betrokken relaties. (Bron: sheerenloo.nl)</description>
-			<guid isPermaLink="false">https://www.sheerenloo.nl/nieuws/phishing-incident-bij-s-heerenloo?datalekt=014eee502d15dc7514daf16761a8680e090f3e2b36f44a423a350883c8fed4eb</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>AP legde Experian in 2023 boete en dwangsom op vanwege privacywet-overtreding</title>
-			<link>https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html</link>
-			<description>Experian | Verhuur van roerende goederen en overige zakelijke dienstverlening | 31-10-2024 | DataLekt.nl: In 2023 heeft de Autoriteit Persoonsgegevens (AP) Experian, een Iers kredietinformatiebedrijf, een boete en dwangsom opgelegd wegens het schenden van de AVG. Experian verzamelde zonder gerechtvaardigd belang persoonsgegevens voor commerciële doeleinden en informeerde betrokkenen onjuist. Hoewel het exacte boetebedrag niet bekend is, kan het volgens het Financieel Dagblad oplopen tot vier procent van Experians wereldwijde omzet. Het bedrijf vecht de sancties aan en stelt dat de AP’s strikte interpretatie van de AVG afwijkt van andere Europese landen. Het recente oordeel van het Europees Hof bekritiseert de strikte aanpak van de AP. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html?datalekt=032913b01e225608e512a82a180f5459a4eb3edb6cdc4a97a6403d3361ab7d4c</guid>
-			<category>Verhuur van roerende goederen en overige zakelijke dienstverlening </category>
-			<pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
