@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/874511/Gemeente+Deventer+lekt+door+e-mailfout+BSN-nummer+achthonderd+mensen?datalekt=a85f353296971eddcd638f2bb366a9f3cb4bce55d0a6f6cd541e99d1b93d4e20",
+        "url": "https://www.security.nl/posting/874511/Gemeente+Deventer+lekt+door+e-mailfout+BSN-nummer+achthonderd+mensen",
+        "title": "Gemeente Deventer lekt per ongeluk BSN-gegevens van 800 cli\u00ebnten door e-mailfout",
+        "date_published": "2025-01-31T18:12:00Z",
+        "date_modified": "2025-01-31T18:12:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Deventer | Overheid: Gemeenten | 31-01-2025 | DataLekt.nl: De gemeente Deventer heeft door een e-mailfout de BSN-nummers, namen, geboortedata en financi\u00eble gegevens van 800 cli\u00ebnten van het Budget Advies Bureau (BAD) gelekt. Een medewerker verstuurde per ongeluk een bestand met deze gevoelige gegevens naar een verkeerd e-mailadres. De ontvanger heeft aangegeven het bestand te hebben verwijderd. De getroffen personen zijn per brief ge\u00efnformeerd en excuses zijn aangeboden. De Autoriteit Persoonsgegevens is op de hoogte gesteld, en de gemeente onderzoekt verbetermaatregelen om herhaling te voorkomen. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier?datalekt=e03806a795d0ec9809bb7d7cad7b22f7ca2de9bc1a599aa880ca0da39cd89868",
         "url": "https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier",
         "title": "Datalek door cyberaanval op voormalig leverancier van Gemeente Amersfoort",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Hemubo | Bouwnijverheid | 03-11-2024 | DataLekt.nl: De criminele organisatie Hunters heeft op het darkweb aangekondigd dat zij Hemubo heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.destentor.nl/apeldoorn/apeldoorn-gaat-in-de-fout-met-gevoelige-gegevens-wisten-al-dat-we-heel-wat-te-doen-hadden~a11c9002/?datalekt=1aad6d2f184e8b7b11cd94cc484bf074ee50ea355e18a5c4704c7ac81e632caa",
-        "url": "https://www.destentor.nl/apeldoorn/apeldoorn-gaat-in-de-fout-met-gevoelige-gegevens-wisten-al-dat-we-heel-wat-te-doen-hadden~a11c9002/",
-        "title": "Gemeente Apeldoorn voldeed in 2023 niet aan regels voor gevoelige politiegegevens",
-        "date_published": "2024-11-04T13:07:00Z",
-        "date_modified": "2024-11-04T13:07:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "destentor.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Apeldoorn | Overheid: Gemeenten | 02-11-2024 | DataLekt.nl: De gemeente Apeldoorn blijkt de Wet Politiegegevens (Wpg) niet volledig na te leven bij de omgang met gevoelige politiegegevens van inwoners, zoals informatie over strafbare feiten. Na een audit in 2022, die ernstige tekortkomingen aan het licht bracht, bleek ook een tweede audit in 2023 slechts beperkte verbeteringen te tonen. De gemeenteraad zal binnenkort de resultaten van de audits publiekelijk bespreken en aandringen op verdere verbeteringen om de privacy van inwoners te waarborgen. De gemeente benadrukt het belang van zorgvuldige databeveiliging en werkt aan fundamentele verbeteringen. (Bron: destentor.nl)"
     }
 ]
