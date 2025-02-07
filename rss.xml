@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 05 Feb 2025 18:25:27 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 18:25:02 +0000</lastBuildDate>
+		<item>
+			<title>NG-BLU Networks getroffen door ransomware aanval van de criminele organisatie Akira</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>NG-BLU Networks | Informatie en communicatie | 06-02-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij NG-BLU Networks heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=bf9b504a233004b0fa8c8b8eb37e0e445ef9e09bc1160970a055f3dc4ef27842</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Madia getroffen door ransomware aanval van de criminele organisatie Fog</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -798,14 +806,6 @@
 			<description>Hogeschool Utrecht | Onderwijs | 14-11-2024 | DataLekt.nl: Hogeschool Utrecht heeft studenten en medewerkers gewaarschuwd voor een beveiligingslek in SURFfilesender, een dienst van SURF voor het versturen en ontvangen van bestanden. Tussen 21 november 2023 en 14 oktober 2024 konden onbevoegden toegang krijgen tot bestanden van gebruikers die de optie &amp;#039;File Encryption&amp;#039; niet hadden ingeschakeld. Het is onbekend of er daadwerkelijk gegevens zijn gestolen. Zowel de Hogeschool als SURF hebben melding van een datalek gedaan bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
 			<guid isPermaLink="false">https://www.security.nl/posting/865870/Hogeschool+Utrecht+waarschuwt+voor+beveiligingslek+in+SURFfilesender?datalekt=1a73ff204b1cd98a661bd9d20940bf493087c0647dc0255240083901f1e7f5db</guid>
 			<category>Onderwijs </category>
-			<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ombudsman waarschuwt voor schending van mensenrechten door plaatsing op terrorismelijst</title>
-			<link>https://www.trouw.nl/binnenland/ombudsman-mensenrechten-van-burgers-op-terrorismelijst-in-geding~bddf5f55/</link>
-			<description>Ministerie van Justitie en Veiligheid (J&amp;amp;amp;V) | Overheid: Ministeries | 12-11-2024 | DataLekt.nl: De Nationale Ombudsman uit ernstige zorgen over het gebrek aan rechtsbescherming van burgers die op de terrorismelijst (cter-registratie) van de overheid staan. Vaak weten betrokkenen niet dat ze op deze lijst zijn geplaatst, wat kan leiden tot problemen zoals grenscontroles en arrestaties in het buitenland. De ombudsman noemt het systeem ondoorzichtig en stelt dat burgers te weinig middelen hebben om zich te verdedigen of inzage te krijgen in hun dossier. Hij roept het ministerie van Justitie en Veiligheid op om de situatie te verbeteren. (Bron: trouw.nl)</description>
-			<guid isPermaLink="false">https://www.trouw.nl/binnenland/ombudsman-mensenrechten-van-burgers-op-terrorismelijst-in-geding~bddf5f55/?datalekt=1cd330eb0f832c42d73ba92fbfbb4cca6d9b68887879d96546d6c35a9cf8cfcc</guid>
-			<category>Overheid: Ministeries </category>
 			<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>

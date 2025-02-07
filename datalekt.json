@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=bf9b504a233004b0fa8c8b8eb37e0e445ef9e09bc1160970a055f3dc4ef27842",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "NG-BLU Networks getroffen door ransomware aanval van de criminele organisatie Akira",
+        "date_published": "2025-02-07T13:46:00Z",
+        "date_modified": "2025-02-07T13:46:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "NG-BLU Networks | Informatie en communicatie | 06-02-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij NG-BLU Networks heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d07b9731475037a5d024d1bd6f083b182bbac4b66e65dfca629f30482f082e37",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Madia getroffen door ransomware aanval van de criminele organisatie Fog",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Hogeschool Utrecht | Onderwijs | 14-11-2024 | DataLekt.nl: Hogeschool Utrecht heeft studenten en medewerkers gewaarschuwd voor een beveiligingslek in SURFfilesender, een dienst van SURF voor het versturen en ontvangen van bestanden. Tussen 21 november 2023 en 14 oktober 2024 konden onbevoegden toegang krijgen tot bestanden van gebruikers die de optie &#039;File Encryption&#039; niet hadden ingeschakeld. Het is onbekend of er daadwerkelijk gegevens zijn gestolen. Zowel de Hogeschool als SURF hebben melding van een datalek gedaan bij de Autoriteit Persoonsgegevens. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.trouw.nl/binnenland/ombudsman-mensenrechten-van-burgers-op-terrorismelijst-in-geding~bddf5f55/?datalekt=1cd330eb0f832c42d73ba92fbfbb4cca6d9b68887879d96546d6c35a9cf8cfcc",
-        "url": "https://www.trouw.nl/binnenland/ombudsman-mensenrechten-van-burgers-op-terrorismelijst-in-geding~bddf5f55/",
-        "title": "Ombudsman waarschuwt voor schending van mensenrechten door plaatsing op terrorismelijst",
-        "date_published": "2024-11-14T17:55:00Z",
-        "date_modified": "2024-11-14T17:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "trouw.nl"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Justitie en Veiligheid (J&amp;amp;V) | Overheid: Ministeries | 12-11-2024 | DataLekt.nl: De Nationale Ombudsman uit ernstige zorgen over het gebrek aan rechtsbescherming van burgers die op de terrorismelijst (cter-registratie) van de overheid staan. Vaak weten betrokkenen niet dat ze op deze lijst zijn geplaatst, wat kan leiden tot problemen zoals grenscontroles en arrestaties in het buitenland. De ombudsman noemt het systeem ondoorzichtig en stelt dat burgers te weinig middelen hebben om zich te verdedigen of inzage te krijgen in hun dossier. Hij roept het ministerie van Justitie en Veiligheid op om de situatie te verbeteren. (Bron: trouw.nl)"
     }
 ]
