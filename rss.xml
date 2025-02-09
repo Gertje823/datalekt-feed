@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 07 Feb 2025 18:25:02 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 09 Feb 2025 12:32:23 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Meerssen lekt persoonsgegevens van medewerkers door fout bij ict-leverancier</title>
+			<link>https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier</link>
+			<description>Gemeente Meerssen | Overheid: Gemeenten | 06-02-2025 | DataLekt.nl: De gemeente Meerssen heeft persoonsgegevens van huidige en voormalige medewerkers gelekt nadat een externe ict-leverancier een update uitvoerde. Hierdoor werden oude intranetpagina&amp;#039;s openbaar via Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen genomen om dit te corrigeren, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor significante schade door het datalek. Het incident is gemeld bij de Autoriteit Persoonsgegevens.</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=e65e4b43252d81f0985b52b58997488f60623ba1c0f845516722e4e8618ea9fd</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>ICT-leverancier veroorzaakt datalek bij gemeente Meerssen na foutieve update</title>
+			<link>https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier</link>
+			<description>Onbekende ICT leverancier | Informatie en communicatie | 06-02-2025 | DataLekt.nl: Een onbekende ICT-leverancier heeft bij een update voor de gemeente Meerssen onbedoeld persoonsgegevens van huidige en voormalige medewerkers openbaar gemaakt. Door de fout werden oude intranetpagina’s geïndexeerd door Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen getroffen om het lek te dichten, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor misbruik van de gelekte gegevens. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=789df8bae17a8c5c6b8d4344721ead93eec2139b32bd83620d6dc163e23c4934</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>NG-BLU Networks getroffen door ransomware aanval van de criminele organisatie Akira</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -791,22 +807,6 @@
 			<guid isPermaLink="false">https://www.ed.nl/eindhoven/hacker-slaat-alarm-gloednieuwe-eindhovense-zwemapp-niet-waterdicht-voor-persoonsgegevens~aa0e46e1/?datalekt=1ac3de654a4dae86c733e1a9026912acd36142daadeb1730199d92562679b0aa</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Klarenbeek Transport getroffen door ransomware aanval van de criminele organisatie BLACK SUIT</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Klarenbeek Transport | Vervoer en opslag | 15-11-2024 | DataLekt.nl: De criminele organisatie BLACK SUIT heeft op het darkweb aangekondigd dat zij Klarenbeek Transport heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=60356a4ead0fcb1dcdc9fe37890830d872d47117ea8d3b166ae9bd3f742f5b87</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hogeschool Utrecht meldt datalek door kwetsbaarheid in SURFfilesender</title>
-			<link>https://www.security.nl/posting/865870/Hogeschool+Utrecht+waarschuwt+voor+beveiligingslek+in+SURFfilesender</link>
-			<description>Hogeschool Utrecht | Onderwijs | 14-11-2024 | DataLekt.nl: Hogeschool Utrecht heeft studenten en medewerkers gewaarschuwd voor een beveiligingslek in SURFfilesender, een dienst van SURF voor het versturen en ontvangen van bestanden. Tussen 21 november 2023 en 14 oktober 2024 konden onbevoegden toegang krijgen tot bestanden van gebruikers die de optie &amp;#039;File Encryption&amp;#039; niet hadden ingeschakeld. Het is onbekend of er daadwerkelijk gegevens zijn gestolen. Zowel de Hogeschool als SURF hebben melding van een datalek gedaan bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/865870/Hogeschool+Utrecht+waarschuwt+voor+beveiligingslek+in+SURFfilesender?datalekt=1a73ff204b1cd98a661bd9d20940bf493087c0647dc0255240083901f1e7f5db</guid>
-			<category>Onderwijs </category>
-			<pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

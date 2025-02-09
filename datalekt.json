@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=e65e4b43252d81f0985b52b58997488f60623ba1c0f845516722e4e8618ea9fd",
+        "url": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier",
+        "title": "Gemeente Meerssen lekt persoonsgegevens van medewerkers door fout bij ict-leverancier",
+        "date_published": "2025-02-09T10:19:00Z",
+        "date_modified": "2025-02-09T10:19:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Meerssen | Overheid: Gemeenten | 06-02-2025 | DataLekt.nl: De gemeente Meerssen heeft persoonsgegevens van huidige en voormalige medewerkers gelekt nadat een externe ict-leverancier een update uitvoerde. Hierdoor werden oude intranetpagina&#039;s openbaar via Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen genomen om dit te corrigeren, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor significante schade door het datalek. Het incident is gemeld bij de Autoriteit Persoonsgegevens."
+    },
+    {
+        "id": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=789df8bae17a8c5c6b8d4344721ead93eec2139b32bd83620d6dc163e23c4934",
+        "url": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier",
+        "title": "ICT-leverancier veroorzaakt datalek bij gemeente Meerssen na foutieve update",
+        "date_published": "2025-02-09T10:18:00Z",
+        "date_modified": "2025-02-09T10:18:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende ICT leverancier | Informatie en communicatie | 06-02-2025 | DataLekt.nl: Een onbekende ICT-leverancier heeft bij een update voor de gemeente Meerssen onbedoeld persoonsgegevens van huidige en voormalige medewerkers openbaar gemaakt. Door de fout werden oude intranetpagina\u2019s ge\u00efndexeerd door Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen getroffen om het lek te dichten, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor misbruik van de gelekte gegevens. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=bf9b504a233004b0fa8c8b8eb37e0e445ef9e09bc1160970a055f3dc4ef27842",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "NG-BLU Networks getroffen door ransomware aanval van de criminele organisatie Akira",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 16-11-2024 | DataLekt.nl: De nieuwe Zwemapp van de gemeente Eindhoven blijkt ernstige privacyproblemen te bevatten. Een ethisch hacker ontdekte elf kwetsbaarheden, waaronder ongewenste toegang tot contacten en locatie van Android-gebruikers en datadeling met Amerikaanse socialmediaplatforms. De externe ontwikkelaar, Business Apps, zou onterecht beweren dat gegevens veilig zijn. De gemeente heeft uit voorzorg een datalek gemeld bij de Autoriteit Persoonsgegevens (AP) en maatregelen getroffen, zoals een update gericht op dataminimalisatie. Eindhoven staat al langer onder toezicht van de AP vanwege eerdere privacy-incidenten. Onderzoek naar de impact is nog gaande. (Bron: ed.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=60356a4ead0fcb1dcdc9fe37890830d872d47117ea8d3b166ae9bd3f742f5b87",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Klarenbeek Transport getroffen door ransomware aanval van de criminele organisatie BLACK SUIT",
-        "date_published": "2024-11-18T15:40:00Z",
-        "date_modified": "2024-11-18T15:40:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Klarenbeek Transport | Vervoer en opslag | 15-11-2024 | DataLekt.nl: De criminele organisatie BLACK SUIT heeft op het darkweb aangekondigd dat zij Klarenbeek Transport heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/865870/Hogeschool+Utrecht+waarschuwt+voor+beveiligingslek+in+SURFfilesender?datalekt=1a73ff204b1cd98a661bd9d20940bf493087c0647dc0255240083901f1e7f5db",
-        "url": "https://www.security.nl/posting/865870/Hogeschool+Utrecht+waarschuwt+voor+beveiligingslek+in+SURFfilesender",
-        "title": "Hogeschool Utrecht meldt datalek door kwetsbaarheid in SURFfilesender",
-        "date_published": "2024-11-14T18:00:00Z",
-        "date_modified": "2024-11-14T18:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Hogeschool Utrecht | Onderwijs | 14-11-2024 | DataLekt.nl: Hogeschool Utrecht heeft studenten en medewerkers gewaarschuwd voor een beveiligingslek in SURFfilesender, een dienst van SURF voor het versturen en ontvangen van bestanden. Tussen 21 november 2023 en 14 oktober 2024 konden onbevoegden toegang krijgen tot bestanden van gebruikers die de optie &#039;File Encryption&#039; niet hadden ingeschakeld. Het is onbekend of er daadwerkelijk gegevens zijn gestolen. Zowel de Hogeschool als SURF hebben melding van een datalek gedaan bij de Autoriteit Persoonsgegevens. (Bron: security.nl)"
     }
 ]
