@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 09 Feb 2025 12:32:23 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 12:36:46 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Venlo deelde onterecht persoonsgegevens bezwaarmakers met VidaXL</title>
+			<link>https://horstaandemaas.sp.nl/nieuws/2025/02/brief-autoriteit-persoonsgegevens-ap-aan-gemeente-venlo-over-overtreden-pryvacyregels</link>
+			<description>Gemeente Venlo | Overheid: Gemeenten | 08-02-2025 | DataLekt.nl: De gemeente Venlo heeft in strijd met de AVG persoonsgegevens van bezwaarmakers gedeeld met VidaXL, terwijl deze bezwaarmakers niet-ontvankelijk waren verklaard. Ondanks kritiek van deskundigen en een klacht bij de Autoriteit Persoonsgegevens (AP) op 8 augustus 2023, blijft de gemeente bij haar standpunt dat dit toegestaan was. De AP gaf op 6 februari 2025 aan de klacht niet verder te onderzoeken wegens capaciteitsgebrek, maar bewaart deze voor mogelijk toekomstig onderzoek. De AP stuurt een brief aan de gemeente Venlo om de privacyregels toe te lichten en naleving te eisen. (Bron: horstaandemaas.sp.nl)</description>
+			<guid isPermaLink="false">https://horstaandemaas.sp.nl/nieuws/2025/02/brief-autoriteit-persoonsgegevens-ap-aan-gemeente-venlo-over-overtreden-pryvacyregels?datalekt=7194c8c82b9a7e0128b9566c7110aa38916101e42260e77546139beb1592f7d8</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Meerssen lekt persoonsgegevens van medewerkers door fout bij ict-leverancier</title>
 			<link>https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier</link>
@@ -798,14 +806,6 @@
 			<description>Het Rhedens | Onderwijs | 19-11-2024 | DataLekt.nl: Middelbare school Het Rhedens, met locaties in Dieren en Rozendaal, is recentelijk slachtoffer geworden van een ransomware-aanval. Cybercriminelen beweren toegang te hebben verkregen tot gevoelige gegevens en hebben deze informatie op het darkweb geplaatst. De aanval lijkt afkomstig te zijn van de BLACK SUIT-ransomwaregroep. Details over de gestolen data en eventuele losgeldeisen zijn momenteel niet bekendgemaakt. Dit incident onderstreept de toenemende dreiging van cybercriminaliteit en de impact ervan op onderwijsinstellingen. (Bron: dutchitchannel.nl)</description>
 			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/576060/middelbare-school-het-rhedens-getroffen-door-ransomware?datalekt=591742c084d9ecf627a7675e1763c9dda9ad9fbd79361836b474cbf6e6fa31fa</guid>
 			<category>Onderwijs </category>
-			<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Eindhoven meldt datalek na beveiligingsproblemen met Zwemapp</title>
-			<link>https://www.ed.nl/eindhoven/hacker-slaat-alarm-gloednieuwe-eindhovense-zwemapp-niet-waterdicht-voor-persoonsgegevens~aa0e46e1/</link>
-			<description>Gemeente Eindhoven | Overheid: Gemeenten | 16-11-2024 | DataLekt.nl: De nieuwe Zwemapp van de gemeente Eindhoven blijkt ernstige privacyproblemen te bevatten. Een ethisch hacker ontdekte elf kwetsbaarheden, waaronder ongewenste toegang tot contacten en locatie van Android-gebruikers en datadeling met Amerikaanse socialmediaplatforms. De externe ontwikkelaar, Business Apps, zou onterecht beweren dat gegevens veilig zijn. De gemeente heeft uit voorzorg een datalek gemeld bij de Autoriteit Persoonsgegevens (AP) en maatregelen getroffen, zoals een update gericht op dataminimalisatie. Eindhoven staat al langer onder toezicht van de AP vanwege eerdere privacy-incidenten. Onderzoek naar de impact is nog gaande. (Bron: ed.nl)</description>
-			<guid isPermaLink="false">https://www.ed.nl/eindhoven/hacker-slaat-alarm-gloednieuwe-eindhovense-zwemapp-niet-waterdicht-voor-persoonsgegevens~aa0e46e1/?datalekt=1ac3de654a4dae86c733e1a9026912acd36142daadeb1730199d92562679b0aa</guid>
-			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>

@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://horstaandemaas.sp.nl/nieuws/2025/02/brief-autoriteit-persoonsgegevens-ap-aan-gemeente-venlo-over-overtreden-pryvacyregels?datalekt=7194c8c82b9a7e0128b9566c7110aa38916101e42260e77546139beb1592f7d8",
+        "url": "https://horstaandemaas.sp.nl/nieuws/2025/02/brief-autoriteit-persoonsgegevens-ap-aan-gemeente-venlo-over-overtreden-pryvacyregels",
+        "title": "Gemeente Venlo deelde onterecht persoonsgegevens bezwaarmakers met VidaXL",
+        "date_published": "2025-02-10T09:26:00Z",
+        "date_modified": "2025-02-10T09:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "sp.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Venlo | Overheid: Gemeenten | 08-02-2025 | DataLekt.nl: De gemeente Venlo heeft in strijd met de AVG persoonsgegevens van bezwaarmakers gedeeld met VidaXL, terwijl deze bezwaarmakers niet-ontvankelijk waren verklaard. Ondanks kritiek van deskundigen en een klacht bij de Autoriteit Persoonsgegevens (AP) op 8 augustus 2023, blijft de gemeente bij haar standpunt dat dit toegestaan was. De AP gaf op 6 februari 2025 aan de klacht niet verder te onderzoeken wegens capaciteitsgebrek, maar bewaart deze voor mogelijk toekomstig onderzoek. De AP stuurt een brief aan de gemeente Venlo om de privacyregels toe te lichten en naleving te eisen. (Bron: horstaandemaas.sp.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=e65e4b43252d81f0985b52b58997488f60623ba1c0f845516722e4e8618ea9fd",
         "url": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier",
         "title": "Gemeente Meerssen lekt persoonsgegevens van medewerkers door fout bij ict-leverancier",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Het Rhedens | Onderwijs | 19-11-2024 | DataLekt.nl: Middelbare school Het Rhedens, met locaties in Dieren en Rozendaal, is recentelijk slachtoffer geworden van een ransomware-aanval. Cybercriminelen beweren toegang te hebben verkregen tot gevoelige gegevens en hebben deze informatie op het darkweb geplaatst. De aanval lijkt afkomstig te zijn van de BLACK SUIT-ransomwaregroep. Details over de gestolen data en eventuele losgeldeisen zijn momenteel niet bekendgemaakt. Dit incident onderstreept de toenemende dreiging van cybercriminaliteit en de impact ervan op onderwijsinstellingen. (Bron: dutchitchannel.nl)"
-    },
-    {
-        "id": "https://www.ed.nl/eindhoven/hacker-slaat-alarm-gloednieuwe-eindhovense-zwemapp-niet-waterdicht-voor-persoonsgegevens~aa0e46e1/?datalekt=1ac3de654a4dae86c733e1a9026912acd36142daadeb1730199d92562679b0aa",
-        "url": "https://www.ed.nl/eindhoven/hacker-slaat-alarm-gloednieuwe-eindhovense-zwemapp-niet-waterdicht-voor-persoonsgegevens~aa0e46e1/",
-        "title": "Gemeente Eindhoven meldt datalek na beveiligingsproblemen met Zwemapp",
-        "date_published": "2024-11-18T15:42:00Z",
-        "date_modified": "2024-11-18T15:42:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ed.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 16-11-2024 | DataLekt.nl: De nieuwe Zwemapp van de gemeente Eindhoven blijkt ernstige privacyproblemen te bevatten. Een ethisch hacker ontdekte elf kwetsbaarheden, waaronder ongewenste toegang tot contacten en locatie van Android-gebruikers en datadeling met Amerikaanse socialmediaplatforms. De externe ontwikkelaar, Business Apps, zou onterecht beweren dat gegevens veilig zijn. De gemeente heeft uit voorzorg een datalek gemeld bij de Autoriteit Persoonsgegevens (AP) en maatregelen getroffen, zoals een update gericht op dataminimalisatie. Eindhoven staat al langer onder toezicht van de AP vanwege eerdere privacy-incidenten. Onderzoek naar de impact is nog gaande. (Bron: ed.nl)"
     }
 ]
