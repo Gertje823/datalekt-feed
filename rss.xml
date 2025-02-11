@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 10 Feb 2025 12:36:46 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 12:36:38 +0000</lastBuildDate>
+		<item>
+			<title>Medewerkers GGNet onrechtmatig dossier oud-profvoetballer ingezien, meerdere ontslagen</title>
+			<link>https://www.tubantia.nl/binnenland/medewerkers-ggz-kliniek-gluren-stiekem-in-dossier-oud-profvoetballer-na-spoedopname-op-crisisafdeling~afea4c55/</link>
+			<description>GGNet | Gezondheids- en welzijnszorg | 10-02-2025 | DataLekt.nl: Tien medewerkers van GGNet hebben zonder toestemming het medisch dossier van een oud-profvoetballer ingezien na zijn spoedopname op de crisisafdeling. Dit interne datalek werd ontdekt door de instelling, die enkele medewerkers op staande voet ontsloeg en anderen een laatste waarschuwing gaf. Er zijn zorgen dat vertrouwelijke gegevens mogelijk zijn gedeeld binnen privékringen. Een van de ontslagen medewerkers vocht haar ontslag aan, maar de rechter vernietigde het ontslag wegens een gebrek aan een duidelijk sanctiebeleid. GGNet moest haar salaris doorbetalen en een transitievergoeding van €21.000 betalen. (Bron: tubantia.nl)</description>
+			<guid isPermaLink="false">https://www.tubantia.nl/binnenland/medewerkers-ggz-kliniek-gluren-stiekem-in-dossier-oud-profvoetballer-na-spoedopname-op-crisisafdeling~afea4c55/?datalekt=bf3a1f5b7adf9bfd0c98a41d97268c5bd8551599953f6c3e21a89914a21063c9</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Venlo deelde onterecht persoonsgegevens bezwaarmakers met VidaXL</title>
 			<link>https://horstaandemaas.sp.nl/nieuws/2025/02/brief-autoriteit-persoonsgegevens-ap-aan-gemeente-venlo-over-overtreden-pryvacyregels</link>
@@ -761,6 +769,22 @@
 			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
+			<title>VISUfarma getroffen door ransomware aanval van de criminele organisatie Incransom</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>VISUfarma | Gezondheids- en welzijnszorg | 28-11-2024 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij VISUfarma heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=de5543ee5a1b80e5354a4b316a4f0ba0cd23c5a95b463076e6d0862a8095788d</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Hack bij softwareleverancier dwingt HEMA tot aanpassing werkwijze distributiecentrum</title>
+			<link>https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html</link>
+			<description>HEMA | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: HEMA is getroffen door de gevolgen van een cyberaanval op softwareleverancier Blue Yonder, die gebruikt wordt voor distributieprocessen. Hoewel klanten geen hinder ondervinden, heeft HEMA de werkwijze in het distributiecentrum in Utrecht moeten aanpassen. Het bedrijf gebruikt tijdelijk een alternatieve oplossing om de impact te minimaliseren. Er zijn geen aanwijzingen dat klantgegevens zijn gelekt of dat er financiële schade is ontstaan door het incident. Blue Yonder onderzoekt samen met HEMA en andere klanten de exacte omvang van de aanval. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=765fceabcefabf68a9e3e51e5faad848a66390705b1dd7e741b026ea0b129c69</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Softwareleverancier van Jumbo getroffen door hack zonder gevolgen voor klanten</title>
 			<link>https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html</link>
 			<description>Jumbo | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: De softwareleverancier Blue Yonder, die distributiesoftware levert aan Jumbo, is recent slachtoffer geworden van een cyberaanval. Jumbo meldt dat de aanval geen hinder heeft veroorzaakt voor klanten en dat de levering van producten ongestoord blijft verlopen. Het bedrijf geeft aan nauw samen te werken met de leverancier om mogelijke risico’s te beperken. Er zijn geen gegevens van klanten gelekt en ook financiële schade is niet gerapporteerd. De aanval lijkt vooral gericht te zijn op de systemen van de leverancier. (Bron: tweakers.net)</description>
@@ -783,30 +807,6 @@
 			<guid isPermaLink="false">https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html?datalekt=0d46a14b5b859cbd1bea9bb07561df341ba1fac0b9fca8768e04aab36c54f0c5</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Neparts werkt vier jaar bij GGD West-Brabant door gebrekkige controles</title>
-			<link>https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/door-fouten-ggd-west-brabant-kon-neparts-daar-vier-jaar-werken</link>
-			<description>GGD West-Brabant | Overheid: Gemeenschappelijke regelingen | 21-11-2024 | DataLekt.nl: Bij GGD West-Brabant heeft een man zich bijna vier jaar lang onterecht voorgedaan als basisarts, zonder BIG-registratie. Zowel het uitzendbureau als de GGD controleerden zijn registratie niet bij indiensttreding. Hoewel periodieke controles het gebrek aan registratie aantoonden, werd geen actie ondernomen. De man was betrokken bij de zorg voor ongeveer 1900 kinderen en adolescenten. Na ontdekking is hij ontslagen en heeft de GGD aangifte gedaan. Uit onderzoek blijkt dat er geen vertrouwelijke informatie is gelekt of misbruikt. (Bron: medischcontact.nl)</description>
-			<guid isPermaLink="false">https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/door-fouten-ggd-west-brabant-kon-neparts-daar-vier-jaar-werken?datalekt=c15d5fd97a23d3a3861f9e0249ad71a7173c388d3717c70e4486339036412475</guid>
-			<category>Overheid: Gemeenschappelijke regelingen </category>
-			<pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Koninklijke Hordijk slachtoffer van CEO-fraude door hackers</title>
-			<link>https://www.abnamro.nl/nl/zakelijk/insights/cybersecurity/cyberaanval/hackers-plegen-ceo-fraude-in-verpakkingsindustrie.html</link>
-			<description>Koninklijke Hordijk | Industrie | 18-11-2024 | DataLekt.nl: Koninklijke Hordijk, een producent van duurzame verpakkingen, werd vier jaar geleden het slachtoffer van CEO-fraude. Hackers deden zich voor als hooggeplaatste medewerkers en wisten zo een aanzienlijke som geld te stelen. Hoewel het exacte financiële verlies niet is vermeld, benadrukt het bedrijf het belang van bewustwording onder personeel en actieve monitoring om dergelijke incidenten te voorkomen. (Bron: abnamro.nl)</description>
-			<guid isPermaLink="false">https://www.abnamro.nl/nl/zakelijk/insights/cybersecurity/cyberaanval/hackers-plegen-ceo-fraude-in-verpakkingsindustrie.html?datalekt=8f1490dae9a0a50060e30d95db92ed357081ce1273805acdefc5dd1a63e1055a</guid>
-			<category>Industrie </category>
-			<pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ransomware-aanval treft middelbare school Het Rhedens in Dieren en Rozendaal</title>
-			<link>https://www.dutchitchannel.nl/news/576060/middelbare-school-het-rhedens-getroffen-door-ransomware</link>
-			<description>Het Rhedens | Onderwijs | 19-11-2024 | DataLekt.nl: Middelbare school Het Rhedens, met locaties in Dieren en Rozendaal, is recentelijk slachtoffer geworden van een ransomware-aanval. Cybercriminelen beweren toegang te hebben verkregen tot gevoelige gegevens en hebben deze informatie op het darkweb geplaatst. De aanval lijkt afkomstig te zijn van de BLACK SUIT-ransomwaregroep. Details over de gestolen data en eventuele losgeldeisen zijn momenteel niet bekendgemaakt. Dit incident onderstreept de toenemende dreiging van cybercriminaliteit en de impact ervan op onderwijsinstellingen. (Bron: dutchitchannel.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/576060/middelbare-school-het-rhedens-getroffen-door-ransomware?datalekt=591742c084d9ecf627a7675e1763c9dda9ad9fbd79361836b474cbf6e6fa31fa</guid>
-			<category>Onderwijs </category>
-			<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
