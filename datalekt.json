@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=98db7f2ec82fa5fdc0744a9ffd01590492cef1b60408fa765de9b131834266b5",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Arlan Groep getroffen door ransomware aanval van de criminele organisatie CL0P",
+        "date_published": "2025-02-12T09:54:00Z",
+        "date_modified": "2025-02-12T09:54:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Arlan Groep | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 10-02-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Arlan Groep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.tubantia.nl/binnenland/medewerkers-ggz-kliniek-gluren-stiekem-in-dossier-oud-profvoetballer-na-spoedopname-op-crisisafdeling~afea4c55/?datalekt=bf3a1f5b7adf9bfd0c98a41d97268c5bd8551599953f6c3e21a89914a21063c9",
         "url": "https://www.tubantia.nl/binnenland/medewerkers-ggz-kliniek-gluren-stiekem-in-dossier-oud-profvoetballer-na-spoedopname-op-crisisafdeling~afea4c55/",
         "title": "Medewerkers GGNet onrechtmatig dossier oud-profvoetballer ingezien, meerdere ontslagen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Odido | Informatie en communicatie | 25-11-2024 | DataLekt.nl: Een 22-jarige man uit Eelderwolde is veroordeeld tot ruim drie jaar celstraf wegens cyberaanvallen gericht op onder meer klanten van Odido (voorheen T-Mobile). De verdachte gebruikte phishing en malware om toegang te krijgen tot klantgegevens en bankrekeningen, wat leidde tot aanzienlijke financi\u00eble schade. De cybercrimineel werkte samen met anderen om deze misdrijven te organiseren. Het incident benadrukt de noodzaak van voortdurende beveiligingsmaatregelen en bewustwording bij klanten over phishingaanvallen. De zaak werd ontdekt na onderzoek door politie en cybersecurity-experts. (Bron: rtvnoord.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html?datalekt=0d46a14b5b859cbd1bea9bb07561df341ba1fac0b9fca8768e04aab36c54f0c5",
-        "url": "https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html",
-        "title": "Gemeente Helmond verliest bijna ton door nepaanmaning na phishingaanval",
-        "date_published": "2024-11-25T21:02:00Z",
-        "date_modified": "2024-11-25T21:02:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Helmond | Overheid: Gemeenten | 25-11-2024 | DataLekt.nl: De gemeente Helmond betaalde in september 93.000 euro aan criminelen na een phishingaanval. De fraude begon met een vervalste factuur, gebaseerd op gestolen factuur- en contractgegevens. De criminelen overtuigden de gemeente om een openstaande factuur te betalen op een gewijzigd rekeningnummer. Door het overslaan van het &quot;vierogenprincipe&quot; en onvoldoende controle bij de crediteurenafdeling, werd de fout niet tijdig opgemerkt. De gemeente doet aangifte en heeft een intern onderzoek gestart om herhaling te voorkomen. Het gestolen bedrag wordt via de bank teruggevraagd. (Bron: nu.nl)"
     }
 ]

@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 11 Feb 2025 12:36:38 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 12:36:33 +0000</lastBuildDate>
+		<item>
+			<title>Arlan Groep getroffen door ransomware aanval van de criminele organisatie CL0P</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Arlan Groep | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 10-02-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Arlan Groep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=98db7f2ec82fa5fdc0744a9ffd01590492cef1b60408fa765de9b131834266b5</guid>
+			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Medewerkers GGNet onrechtmatig dossier oud-profvoetballer ingezien, meerdere ontslagen</title>
 			<link>https://www.tubantia.nl/binnenland/medewerkers-ggz-kliniek-gluren-stiekem-in-dossier-oud-profvoetballer-na-spoedopname-op-crisisafdeling~afea4c55/</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel?datalekt=ca0e6a1faf71cc6b9abb99c2e53c7e6b04f4d17cee97241aa7ad5085857b5525</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Helmond verliest bijna ton door nepaanmaning na phishingaanval</title>
-			<link>https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html</link>
-			<description>Gemeente Helmond | Overheid: Gemeenten | 25-11-2024 | DataLekt.nl: De gemeente Helmond betaalde in september 93.000 euro aan criminelen na een phishingaanval. De fraude begon met een vervalste factuur, gebaseerd op gestolen factuur- en contractgegevens. De criminelen overtuigden de gemeente om een openstaande factuur te betalen op een gewijzigd rekeningnummer. Door het overslaan van het &amp;quot;vierogenprincipe&amp;quot; en onvoldoende controle bij de crediteurenafdeling, werd de fout niet tijdig opgemerkt. De gemeente doet aangifte en heeft een intern onderzoek gestart om herhaling te voorkomen. Het gestolen bedrag wordt via de bank teruggevraagd. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/binnenland/6336745/gemeente-helmond-trapt-in-nepaanmaning-en-is-bijna-ton-kwijt-menselijke-fout.html?datalekt=0d46a14b5b859cbd1bea9bb07561df341ba1fac0b9fca8768e04aab36c54f0c5</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
