@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein?datalekt=4d23d080016fd72e7c981f819f6579aeea2f4967dd5ecd529a9e6f4ec82ada9e",
+        "url": "https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein",
+        "title": "Gemeente Nieuwegein verliest notitieblokken met gevoelige gegevens bij verhuizing",
+        "date_published": "2025-02-13T10:21:00Z",
+        "date_modified": "2025-02-13T10:21:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvutrecht.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Nieuwegein | Overheid: Gemeenten | 10-02-2025 | DataLekt.nl: Tijdens de verhuizing van de afdeling Geynwijs van de gemeente Nieuwegein zijn vijf notitieblokken met persoonsgegevens van 417 inwoners zoekgeraakt. De notitieblokken bevatten mogelijk namen, adressen, telefoonnummers en informatie over de woonsituatie en medische situatie van betrokkenen. Vermoedelijk is een bak met de notitieblokken per ongeluk als oud papier vernietigd, maar dit kan niet worden bevestigd. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en getroffen inwoners gewaarschuwd om alert te zijn op mogelijk misbruik. Er zijn maatregelen genomen om herhaling te voorkomen. (Bron: rtvutrecht.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=98db7f2ec82fa5fdc0744a9ffd01590492cef1b60408fa765de9b131834266b5",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Arlan Groep getroffen door ransomware aanval van de criminele organisatie CL0P",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Jumbo | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: De softwareleverancier Blue Yonder, die distributiesoftware levert aan Jumbo, is recent slachtoffer geworden van een cyberaanval. Jumbo meldt dat de aanval geen hinder heeft veroorzaakt voor klanten en dat de levering van producten ongestoord blijft verlopen. Het bedrijf geeft aan nauw samen te werken met de leverancier om mogelijke risico\u2019s te beperken. Er zijn geen gegevens van klanten gelekt en ook financi\u00eble schade is niet gerapporteerd. De aanval lijkt vooral gericht te zijn op de systemen van de leverancier. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel?datalekt=ca0e6a1faf71cc6b9abb99c2e53c7e6b04f4d17cee97241aa7ad5085857b5525",
-        "url": "https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel",
-        "title": "Odido slachtoffer van phishing en malware: cybercrimineel uit Eelderwolde veroordeeld",
-        "date_published": "2024-11-27T09:03:00Z",
-        "date_modified": "2024-11-27T09:03:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtvnoord.nl"
-        },
-        "content_html": "",
-        "content_text": "Odido | Informatie en communicatie | 25-11-2024 | DataLekt.nl: Een 22-jarige man uit Eelderwolde is veroordeeld tot ruim drie jaar celstraf wegens cyberaanvallen gericht op onder meer klanten van Odido (voorheen T-Mobile). De verdachte gebruikte phishing en malware om toegang te krijgen tot klantgegevens en bankrekeningen, wat leidde tot aanzienlijke financi\u00eble schade. De cybercrimineel werkte samen met anderen om deze misdrijven te organiseren. Het incident benadrukt de noodzaak van voortdurende beveiligingsmaatregelen en bewustwording bij klanten over phishingaanvallen. De zaak werd ontdekt na onderzoek door politie en cybersecurity-experts. (Bron: rtvnoord.nl)"
     }
 ]

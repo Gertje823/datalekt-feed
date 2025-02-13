@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 12 Feb 2025 12:36:33 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 12:36:42 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Nieuwegein verliest notitieblokken met gevoelige gegevens bij verhuizing</title>
+			<link>https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein</link>
+			<description>Gemeente Nieuwegein | Overheid: Gemeenten | 10-02-2025 | DataLekt.nl: Tijdens de verhuizing van de afdeling Geynwijs van de gemeente Nieuwegein zijn vijf notitieblokken met persoonsgegevens van 417 inwoners zoekgeraakt. De notitieblokken bevatten mogelijk namen, adressen, telefoonnummers en informatie over de woonsituatie en medische situatie van betrokkenen. Vermoedelijk is een bak met de notitieblokken per ongeluk als oud papier vernietigd, maar dit kan niet worden bevestigd. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en getroffen inwoners gewaarschuwd om alert te zijn op mogelijk misbruik. Er zijn maatregelen genomen om herhaling te voorkomen. (Bron: rtvutrecht.nl)</description>
+			<guid isPermaLink="false">https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein?datalekt=4d23d080016fd72e7c981f819f6579aeea2f4967dd5ecd529a9e6f4ec82ada9e</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Arlan Groep getroffen door ransomware aanval van de criminele organisatie CL0P</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=9894200e6c8e29586482b5a6436de6450ac12a94fa7aa8c4440c38395ff43dbc</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Odido slachtoffer van phishing en malware: cybercrimineel uit Eelderwolde veroordeeld</title>
-			<link>https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel</link>
-			<description>Odido | Informatie en communicatie | 25-11-2024 | DataLekt.nl: Een 22-jarige man uit Eelderwolde is veroordeeld tot ruim drie jaar celstraf wegens cyberaanvallen gericht op onder meer klanten van Odido (voorheen T-Mobile). De verdachte gebruikte phishing en malware om toegang te krijgen tot klantgegevens en bankrekeningen, wat leidde tot aanzienlijke financiële schade. De cybercrimineel werkte samen met anderen om deze misdrijven te organiseren. Het incident benadrukt de noodzaak van voortdurende beveiligingsmaatregelen en bewustwording bij klanten over phishingaanvallen. De zaak werd ontdekt na onderzoek door politie en cybersecurity-experts. (Bron: rtvnoord.nl)</description>
-			<guid isPermaLink="false">https://www.rtvnoord.nl/misdaad/1240416/hardnekkige-cybercrimineel-22-uit-eelderwolde-krijgt-ruim-drie-jaar-cel?datalekt=ca0e6a1faf71cc6b9abb99c2e53c7e6b04f4d17cee97241aa7ad5085857b5525</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
