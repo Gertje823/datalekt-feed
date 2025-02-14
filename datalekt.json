@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/231840/microsoft-moet-linkedin-gebruiker-50000-euro-betalen-na-inzet-trackingcookies.html?datalekt=35efd4d2bb6718f2d5e3bc98aef850528edb245765d0d664a228b20ca6d2d45e",
+        "url": "https://tweakers.net/nieuws/231840/microsoft-moet-linkedin-gebruiker-50000-euro-betalen-na-inzet-trackingcookies.html",
+        "title": "Microsoft moet 50.000 euro betalen aan Nederlandse LinkedIn-gebruiker wegens illegale trackingcookies",
+        "date_published": "2025-02-14T14:46:00Z",
+        "date_modified": "2025-02-14T14:46:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Microsoft | Informatie en communicatie | 13-02-2025 | DataLekt.nl: Microsoft en dochteronderneming LinkedIn moeten 50.000 euro betalen aan een Nederlandse LinkedIn-gebruiker omdat zij trackingcookies plaatsten zonder toestemming. De rechtbank had in juni 2024 bepaald dat LinkedIn moest stoppen met het plaatsen en uitlezen van trackingcookies, op straffe van een dwangsom van 500 euro per overtreding, met een maximum van 25.000 euro per bedrijf. LinkedIn en Microsoft gingen echter door met het plaatsen van cookies, waarna de rechter hen verplichtte het maximale bedrag te betalen. De bedrijven betwisten de uitspraak en stellen dat er geen trackingcookies zijn gebruikt. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein?datalekt=4d23d080016fd72e7c981f819f6579aeea2f4967dd5ecd529a9e6f4ec82ada9e",
         "url": "https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein",
         "title": "Gemeente Nieuwegein verliest notitieblokken met gevoelige gegevens bij verhuizing",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "HEMA | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: HEMA is getroffen door de gevolgen van een cyberaanval op softwareleverancier Blue Yonder, die gebruikt wordt voor distributieprocessen. Hoewel klanten geen hinder ondervinden, heeft HEMA de werkwijze in het distributiecentrum in Utrecht moeten aanpassen. Het bedrijf gebruikt tijdelijk een alternatieve oplossing om de impact te minimaliseren. Er zijn geen aanwijzingen dat klantgegevens zijn gelekt of dat er financi\u00eble schade is ontstaan door het incident. Blue Yonder onderzoekt samen met HEMA en andere klanten de exacte omvang van de aanval. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=9894200e6c8e29586482b5a6436de6450ac12a94fa7aa8c4440c38395ff43dbc",
-        "url": "https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html",
-        "title": "Softwareleverancier van Jumbo getroffen door hack zonder gevolgen voor klanten",
-        "date_published": "2024-11-28T11:07:00Z",
-        "date_modified": "2024-11-28T11:07:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Jumbo | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: De softwareleverancier Blue Yonder, die distributiesoftware levert aan Jumbo, is recent slachtoffer geworden van een cyberaanval. Jumbo meldt dat de aanval geen hinder heeft veroorzaakt voor klanten en dat de levering van producten ongestoord blijft verlopen. Het bedrijf geeft aan nauw samen te werken met de leverancier om mogelijke risico\u2019s te beperken. Er zijn geen gegevens van klanten gelekt en ook financi\u00eble schade is niet gerapporteerd. De aanval lijkt vooral gericht te zijn op de systemen van de leverancier. (Bron: tweakers.net)"
     }
 ]

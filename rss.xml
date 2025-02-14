@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 13 Feb 2025 12:36:42 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 18:25:08 +0000</lastBuildDate>
+		<item>
+			<title>Microsoft moet 50.000 euro betalen aan Nederlandse LinkedIn-gebruiker wegens illegale trackingcookies</title>
+			<link>https://tweakers.net/nieuws/231840/microsoft-moet-linkedin-gebruiker-50000-euro-betalen-na-inzet-trackingcookies.html</link>
+			<description>Microsoft | Informatie en communicatie | 13-02-2025 | DataLekt.nl: Microsoft en dochteronderneming LinkedIn moeten 50.000 euro betalen aan een Nederlandse LinkedIn-gebruiker omdat zij trackingcookies plaatsten zonder toestemming. De rechtbank had in juni 2024 bepaald dat LinkedIn moest stoppen met het plaatsen en uitlezen van trackingcookies, op straffe van een dwangsom van 500 euro per overtreding, met een maximum van 25.000 euro per bedrijf. LinkedIn en Microsoft gingen echter door met het plaatsen van cookies, waarna de rechter hen verplichtte het maximale bedrag te betalen. De bedrijven betwisten de uitspraak en stellen dat er geen trackingcookies zijn gebruikt. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/231840/microsoft-moet-linkedin-gebruiker-50000-euro-betalen-na-inzet-trackingcookies.html?datalekt=35efd4d2bb6718f2d5e3bc98aef850528edb245765d0d664a228b20ca6d2d45e</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Nieuwegein verliest notitieblokken met gevoelige gegevens bij verhuizing</title>
 			<link>https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein</link>
@@ -797,14 +805,6 @@
 			<link>https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html</link>
 			<description>HEMA | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: HEMA is getroffen door de gevolgen van een cyberaanval op softwareleverancier Blue Yonder, die gebruikt wordt voor distributieprocessen. Hoewel klanten geen hinder ondervinden, heeft HEMA de werkwijze in het distributiecentrum in Utrecht moeten aanpassen. Het bedrijf gebruikt tijdelijk een alternatieve oplossing om de impact te minimaliseren. Er zijn geen aanwijzingen dat klantgegevens zijn gelekt of dat er financiële schade is ontstaan door het incident. Blue Yonder onderzoekt samen met HEMA en andere klanten de exacte omvang van de aanval. (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=765fceabcefabf68a9e3e51e5faad848a66390705b1dd7e741b026ea0b129c69</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Softwareleverancier van Jumbo getroffen door hack zonder gevolgen voor klanten</title>
-			<link>https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html</link>
-			<description>Jumbo | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: De softwareleverancier Blue Yonder, die distributiesoftware levert aan Jumbo, is recent slachtoffer geworden van een cyberaanval. Jumbo meldt dat de aanval geen hinder heeft veroorzaakt voor klanten en dat de levering van producten ongestoord blijft verlopen. Het bedrijf geeft aan nauw samen te werken met de leverancier om mogelijke risico’s te beperken. Er zijn geen gegevens van klanten gelekt en ook financiële schade is niet gerapporteerd. De aanval lijkt vooral gericht te zijn op de systemen van de leverancier. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=9894200e6c8e29586482b5a6436de6450ac12a94fa7aa8c4440c38395ff43dbc</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
