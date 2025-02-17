@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 14 Feb 2025 18:25:08 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 18:25:02 +0000</lastBuildDate>
+		<item>
+			<title>Ben Becker Internationaal Transportbedrijf getroffen door ransomware aanval van de criminele organisatie CL0P</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Ben Becker Internationaal Transportbedrijf | Vervoer en opslag | 10-02-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Ben Becker Internationaal Transportbedrijf heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c24090a84fbfde9f652cb512303688a8d1e50a6704e4b68c5bedd7a5b8c42186</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Microsoft moet 50.000 euro betalen aan Nederlandse LinkedIn-gebruiker wegens illegale trackingcookies</title>
 			<link>https://tweakers.net/nieuws/231840/microsoft-moet-linkedin-gebruiker-50000-euro-betalen-na-inzet-trackingcookies.html</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=de5543ee5a1b80e5354a4b316a4f0ba0cd23c5a95b463076e6d0862a8095788d</guid>
 			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hack bij softwareleverancier dwingt HEMA tot aanpassing werkwijze distributiecentrum</title>
-			<link>https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html</link>
-			<description>HEMA | Groot- en detailhandel | 27-11-2024 | DataLekt.nl: HEMA is getroffen door de gevolgen van een cyberaanval op softwareleverancier Blue Yonder, die gebruikt wordt voor distributieprocessen. Hoewel klanten geen hinder ondervinden, heeft HEMA de werkwijze in het distributiecentrum in Utrecht moeten aanpassen. Het bedrijf gebruikt tijdelijk een alternatieve oplossing om de impact te minimaliseren. Er zijn geen aanwijzingen dat klantgegevens zijn gelekt of dat er financiële schade is ontstaan door het incident. Blue Yonder onderzoekt samen met HEMA en andere klanten de exacte omvang van de aanval. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/229168/softwareleverancier-van-jumbo-en-hema-is-gehackt-geen-hinder-voor-klanten.html?datalekt=765fceabcefabf68a9e3e51e5faad848a66390705b1dd7e741b026ea0b129c69</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
