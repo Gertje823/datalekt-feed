@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.omroepbrabant.nl/nieuws/4643495/harde-schijven-vol-medische-data-verkocht-op-rommelmarkt?datalekt=d9357ea5bf5a842cf033d0e01c7ab4a7b4e13b736d8e989e4853a979b2afe636",
+        "url": "https://www.omroepbrabant.nl/nieuws/4643495/harde-schijven-vol-medische-data-verkocht-op-rommelmarkt",
+        "title": "Medische gegevens van pati\u00ebnten op ongewipe harde schijven verkocht op rommelmarkt",
+        "date_published": "2025-02-19T15:03:00Z",
+        "date_modified": "2025-02-19T15:03:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepbrabant.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende zorgorganisaties | Gezondheids- en welzijnszorg | 18-02-2025 | DataLekt.nl: Op een rommelmarkt ontdekte een koper harde schijven vol gevoelige medische gegevens, waaronder BSN-nummers, medicatiehistorie en adresgegevens van pati\u00ebnten. De data, afkomstig van het opgeheven bedrijf Nortade ICT Solutions, werd niet gewist voordat de schijven werden doorverkocht. Vermoedelijk zijn de schijven via een faillissementsverkoop in omloop gekomen. De koper waarschuwde getroffen zorginstellingen en de Autoriteit Persoonsgegevens. (Bron: omroepbrabant.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/876549/NCSC%3A+121+Nederlandse+bedrijven+vorig+jaar+slachtoffer+van+ransomware?datalekt=11d5e5f7334b3cd4b4e98294c231ebcb6effd05588fa05f32d0a79f872f615e2",
+        "url": "https://www.security.nl/posting/876549/NCSC%3A+121+Nederlandse+bedrijven+vorig+jaar+slachtoffer+van+ransomware",
+        "title": "NCSC: 121 Nederlandse bedrijven in 2024 getroffen door ransomware-aanvallen",
+        "date_published": "2025-02-19T15:02:00Z",
+        "date_modified": "2025-02-19T15:02:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende organisaties | Overige dienstverlening | 17-02-2025 | DataLekt.nl: In 2024 werden 121 Nederlandse bedrijven en organisaties slachtoffer van ransomware, meldt het Nationaal Cyber Security Centrum (NCSC). In 38% van de gevallen kregen aanvallers toegang door accounts over te nemen, terwijl 33% het gevolg was van misbruikte softwarekwetsbaarheden. De Cactus-ransomware veroorzaakte een aanzienlijk aantal incidenten, vaak door misbruik van kwetsbaarheden in Qlik Sense. Bijna een kwart van de getroffen organisaties bevond zich in de ICT-sector. Het NCSC benadrukt het belang van het nemen van basisbeveiligingsmaatregelen en het doen van aangifte bij de politie na een aanval. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c24090a84fbfde9f652cb512303688a8d1e50a6704e4b68c5bedd7a5b8c42186",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Ben Becker Internationaal Transportbedrijf getroffen door ransomware aanval van de criminele organisatie CL0P",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "JCC Software | Informatie en communicatie | 04-12-2024 | DataLekt.nl: JCC Software, een leverancier van digitale afsprakensystemen, heeft bevestigd dat een bestand met persoonsgegevens van duizenden inwoners van de gemeenten Amersfoort, Dinkelland en Tubbergen is gedownload van hun netwerk. Dit bestand bevatte onder meer burgerservicenummers van inwoners die via het systeem afspraken hadden gemaakt bij Burgerzaken. De gemeente Amersfoort had, in verband met een cloudmigratie, een back-up van hun database gedeeld met JCC Software. Het is onduidelijk hoe deze gegevens in verkeerde handen zijn gekomen en welke maatregelen JCC Software heeft genomen. De datalek is gemeld bij de Autoriteit Persoonsgegevens (Bron: computable.nl)"
-    },
-    {
-        "id": "https://www.parool.nl/nederland/amsterdams-debatcentrum-de-balie-getroffen-door-ddos-aanval~bdeb41c9/?datalekt=9120b50b51e438b1e77be1330182762b573d83c69511feb6800655466fe7e390",
-        "url": "https://www.parool.nl/nederland/amsterdams-debatcentrum-de-balie-getroffen-door-ddos-aanval~bdeb41c9/",
-        "title": "Debatcentrum De Balie in Amsterdam getroffen door DDoS-aanval",
-        "date_published": "2024-12-04T09:34:00Z",
-        "date_modified": "2024-12-04T09:34:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "parool.nl"
-        },
-        "content_html": "",
-        "content_text": "Caf\u00e9-Restaurant De Balie | Logies-, maaltijd- en drankverstrekking | 03-12-2024 | DataLekt.nl: Het Amsterdamse debatcentrum De Balie is getroffen door een DDoS-aanval, waardoor hun online diensten tijdelijk niet bereikbaar waren. De aanval begon op maandagmiddag en werd uitgevoerd door een onbekende partij. Het aantal getroffen gebruikers is nog niet vastgesteld, en de financi\u00eble schade blijft onduidelijk. Het debatcentrum onderzoekt de aanval en probeert de online beschikbaarheid te herstellen. Er zijn geen aanwijzingen over de identiteit van de aanvallers of hun motief. (Bron: parool.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=de5543ee5a1b80e5354a4b316a4f0ba0cd23c5a95b463076e6d0862a8095788d",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "VISUfarma getroffen door ransomware aanval van de criminele organisatie Incransom",
-        "date_published": "2024-11-29T15:57:00Z",
-        "date_modified": "2024-11-29T15:57:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "VISUfarma | Gezondheids- en welzijnszorg | 28-11-2024 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij VISUfarma heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]
