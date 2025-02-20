@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 19 Feb 2025 18:24:34 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 12:37:27 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij Nijhuis Bouw Apeldoorn treft persoonsgegevens van (ex-)huurders en medewerkers Volkshuisvesting Arnhem</title>
+			<link>https://www.volkshuisvesting.nl/nieuws/datalek-bij-aannemer-nijh/</link>
+			<description>Volkshuisvesting Arnhem | Verhuur van en handel in onroerend goed | 18-02-2025 | DataLekt.nl: Begin februari 2025 heeft Volkshuisvesting Arnhem een melding ontvangen van Nijhuis Bouw Apeldoorn over een datalek waarbij mogelijk persoonsgegevens van (ex-)huurders en medewerkers zijn gelekt. De gelekte gegevens betreffen namen, adressen, e-mailadressen en telefoonnummers, maar geen bankgegevens of wachtwoorden. Nijhuis heeft direct maatregelen genomen en een onderzoek ingesteld. Volkshuisvesting Arnhem heeft het incident gemeld bij de Autoriteit Persoonsgegevens en volgt de situatie nauwlettend. Betrokkenen worden geadviseerd alert te zijn op phishingberichten en oplichting. (Bron: volkshuisvesting.nl)</description>
+			<guid isPermaLink="false">https://www.volkshuisvesting.nl/nieuws/datalek-bij-aannemer-nijh/?datalekt=b57a02d6261875cfade5117a4dbe741d5aac63cc874e9b603af16b0f3bdd57ef</guid>
+			<category>Verhuur van en handel in onroerend goed </category>
+			<pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij aannemer Nijhuis Apeldoorn raakt persoonsgegevens van (ex-)huurders en medewerkers</title>
+			<link>https://www.volkshuisvesting.nl/nieuws/datalek-bij-aannemer-nijh/</link>
+			<description>Nijhuis Bouw Apeldoorn | Bouwnijverheid | 18-02-2025 | DataLekt.nl: Begin februari 2025 heeft Nijhuis Bouw Apeldoorn een datalek gemeld bij Volkshuisvesting Arnhem. Hierbij zijn mogelijk persoonsgegevens van (ex-)huurders en medewerkers gelekt, waaronder namen, adressen, e-mailadressen en telefoonnummers. Bankgegevens en wachtwoorden zijn niet betrokken. Nijhuis heeft direct maatregelen genomen om de toegang tot de gegevens te stoppen en herhaling te voorkomen. Volkshuisvesting Arnhem heeft het incident gemeld bij de Autoriteit Persoonsgegevens. Betrokkenen lopen geen directe schade, maar worden gewaarschuwd voor phishing. (Bron: volkshuisvesting.nl)</description>
+			<guid isPermaLink="false">https://www.volkshuisvesting.nl/nieuws/datalek-bij-aannemer-nijh/?datalekt=679a0981253c144c06d4b98d8dbd7da6bc7798b46457005c559af1d17016866c</guid>
+			<category>Bouwnijverheid </category>
+			<pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Medische gegevens van patiënten op ongewipe harde schijven verkocht op rommelmarkt</title>
 			<link>https://www.omroepbrabant.nl/nieuws/4643495/harde-schijven-vol-medische-data-verkocht-op-rommelmarkt</link>
@@ -785,26 +801,10 @@
 			<pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Persoonsgegevens van duizenden burgers gelekt na hack bij JCC Software</title>
-			<link>https://www.computable.nl/2024/12/04/jcc-software-zwijgt-over-hack-persoonsgegevens-van-duizenden-burgers-op-straat/</link>
-			<description>JCC Software | Informatie en communicatie | 04-12-2024 | DataLekt.nl: JCC Software, een leverancier van digitale afsprakensystemen, heeft bevestigd dat een bestand met persoonsgegevens van duizenden inwoners van de gemeenten Amersfoort, Dinkelland en Tubbergen is gedownload van hun netwerk. Dit bestand bevatte onder meer burgerservicenummers van inwoners die via het systeem afspraken hadden gemaakt bij Burgerzaken. De gemeente Amersfoort had, in verband met een cloudmigratie, een back-up van hun database gedeeld met JCC Software. Het is onduidelijk hoe deze gegevens in verkeerde handen zijn gekomen en welke maatregelen JCC Software heeft genomen. De datalek is gemeld bij de Autoriteit Persoonsgegevens (Bron: computable.nl)</description>
-			<guid isPermaLink="false">https://www.computable.nl/2024/12/04/jcc-software-zwijgt-over-hack-persoonsgegevens-van-duizenden-burgers-op-straat/?datalekt=c2de529f1af39e8f29d0a88d08369ecf56c15bd56fad20a0836f89d74526b65b</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Persoonsgegevens inwoners gemeente Tubbergen gestolen na datalek bij JCC Software</title>
 			<link>https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek</link>
 			<description>Gemeente Tubbergen | Overheid: Gemeenten | 02-12-2024 | DataLekt.nl: In de gemeente Tubbergen zijn persoonsgegevens van inwoners buitgemaakt door een datalek bij de externe dienstverlener JCC Software. De gestolen gegevens omvatten namen, geslacht en telefoonnummers van circa duizend inwoners. De gemeente heeft laten weten dat de kans op misbruik klein wordt geacht, maar raadt betrokkenen aan alert te blijven op verdachte berichten. Het incident wordt verder onderzocht, en de gemeente werkt aan een plan om soortgelijke lekken in de toekomst te voorkomen. [Update: d.d. 4 december 2024 is vastgesteld het om de leverancier JCC Software gaat.] (Bron: hartvannederland.nl)</description>
 			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=34ffeeeba2927550d98440623114bdfb532176a51e1ea9f0eb7b9d064c104116</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij leverancier JCC Software raakt inwoners van gemeente Dinkelland</title>
-			<link>https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek</link>
-			<description>Gemeente Dinkelland | Overheid: Gemeenten | 02-12-2024 | DataLekt.nl: Een datalek bij de externe leverancier JCC Software heeft geleid tot de diefstal van persoonsgegevens van inwoners van de gemeente Dinkelland. Het incident treft namen, geslacht en telefoonnummers van ongeveer duizend inwoners. De gegevens werden door cybercriminelen buitgemaakt via een kwetsbaarheid in de systemen van de leverancier. Hoewel het om minder gevoelige informatie gaat, adviseert de gemeente de betrokkenen waakzaam te zijn voor phishing. Er wordt onderzocht hoe het lek kon ontstaan en welke maatregelen nodig zijn om herhaling te voorkomen. [Update: d.d. 4 december 2024 is vastgesteld het om de leverancier JCC Software gaat.] (Bron: hartvannederland.nl)</description>
-			<guid isPermaLink="false">https://www.hartvannederland.nl/tech/nieuws/artikelen/persoonsgegevens-inwoners-twentse-gemeenten-gestolen-na-datalek?datalekt=70df3575475ead024ffd5653418197bc8b8dcde227adc7b1fe456e2a28934d7f</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
