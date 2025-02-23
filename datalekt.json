@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.kliknieuwsdemaasdriehoek.nl/nieuws/algemeen/233303/mogelijk-datalek-bij-gemeente-land-van-cuijk?datalekt=a2abeef82e3a35d4345900f11f6e83925d02a30adc561e4f11c716e4e2d8d7e4",
+        "url": "https://www.kliknieuwsdemaasdriehoek.nl/nieuws/algemeen/233303/mogelijk-datalek-bij-gemeente-land-van-cuijk",
+        "title": "Technische storing bij leverancier veroorzaakt mogelijk datalek bij gemeente Land van Cuijk",
+        "date_published": "2025-02-23T11:24:00Z",
+        "date_modified": "2025-02-23T11:24:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "kliknieuwsdemaasdriehoek.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Land van Cuijk | Overheid: Gemeenten | 21-02-2025 | DataLekt.nl: Door een technische storing bij een leverancier zijn 2.140 aanslagbiljetten van de gemeente Land van Cuijk verkeerd geadresseerd. Op de envelop ontbrak de huisletter of toevoeging, terwijl het adres op het biljet zelf correct was. Hierdoor hebben sommige inwoners hun aanslag niet ontvangen en anderen mogelijk meerdere exemplaren. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en betrokkenen per brief ge\u00efnformeerd. Ontvangers van foutieve biljetten worden gevraagd deze gratis terug te sturen. De gemeente biedt excuses aan voor de overlast. (Bron: kliknieuwsdemaasdriehoek.nl)"
+    },
+    {
         "id": "https://www.parool.nl/amsterdam/gegevens-van-250-huurders-bij-woningcorporatie-eigen-haard-op-straat-na-datalek~b0a556072/?datalekt=41ca35ad024214eda3270d65f64effb3de4db7e6d1cdbd757050b77e0d38e348",
         "url": "https://www.parool.nl/amsterdam/gegevens-van-250-huurders-bij-woningcorporatie-eigen-haard-op-straat-na-datalek~b0a556072/",
         "title": "Datalek bij Eigen Haard: gegevens van 250 huurders online gepubliceerd",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 09-12-2024 | DataLekt.nl: De gemeente Amsterdam heeft de AVG overtreden door scanauto\u2019s in te zetten om gestolen voertuigen op te sporen. Hierbij werden parkeerdata onrechtmatig gedeeld met de RDW, zonder een wettelijke grondslag voor deze verwerking van persoonsgegevens. De praktijk, die leidde tot schending van privacyrechten, is in 2023 be\u00ebindigd en zal niet worden hervat. Er is geen informatie over financi\u00eble schade of getroffen personen. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/868262/Veel+datalekken+gemeente+Haarlem+door+verloren+mobiele+apparaten?datalekt=82edc565693c5faa123a388bfa12db90da92dcd0d742e439cb05803096de6bff",
-        "url": "https://www.security.nl/posting/868262/Veel+datalekken+gemeente+Haarlem+door+verloren+mobiele+apparaten",
-        "title": "Veel datalekken in 2023 bij gemeente Haarlem door verloren mobiele apparaten en verkeerd geadresseerde communicatie",
-        "date_published": "2024-12-09T10:37:00Z",
-        "date_modified": "2024-12-09T10:37:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Haarlem | Overheid: Gemeenten | 07-12-2024 | DataLekt.nl: In 2023 heeft de gemeente Haarlem veertig datalekken geregistreerd, waarvan vijftien zijn gemeld bij de Autoriteit Persoonsgegevens. Een groot aantal incidenten werd veroorzaakt door verloren mobiele apparaten, terwijl andere lekken ontstonden door verkeerd geadresseerde e-mails en brieven, en het publiceren van niet-geanonimiseerde documenten. Om datalekken sneller te kunnen melden, heeft de gemeente een speciale meldknop op het intranet ge\u00efntroduceerd. Deze maatregelen moeten helpen om toekomstige incidenten te verminderen en de naleving van privacyregelgeving te verbeteren. (Bron: security.nl)"
     }
 ]
