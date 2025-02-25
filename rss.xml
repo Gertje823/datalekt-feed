@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 23 Feb 2025 12:33:46 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 18:26:45 +0000</lastBuildDate>
+		<item>
+			<title>Ransomware-aanval legt groene hostingprovider Bitless plat na kwetsbaarheid in software</title>
+			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/internetcriminelen-leggen-groen-hostingbedrijf-plat</link>
+			<description>Bitless | Informatie en communicatie | 25-02-2025 | DataLekt.nl: In oktober 2024 werd Bitless, een duurzame hostingprovider, getroffen door een ransomware-aanval nadat twee hackersgroepen misbruik maakten van een onbekende kwetsbaarheid in de software van de hostingomgeving. De aanval werd pas volledig duidelijk na een notificatie van het Digital Trust Center (DTC). Hackers versleutelden bestanden en eisten losgeld, maar eigenaar Nathan Waelkens weigerde te betalen. Ondanks zijn inspanningen kon hij de systemen niet zelfstandig herstellen, waardoor hij met hulp van een andere hostingpartij alle klanten naar een nieuwe server moest verhuizen. De aanval leidde tot ernstige imagoschade en verlies van de helft van zijn klantenbestand. (Bron: digitaltrustcenter.nl)</description>
+			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ondernemersverhalen/internetcriminelen-leggen-groen-hostingbedrijf-plat?datalekt=7c9f02e25873fe9e5dfca552e52e4ab8ce805fc3d9e79567587fcbb7b62c910c</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Technische storing bij leverancier veroorzaakt mogelijk datalek bij gemeente Land van Cuijk</title>
 			<link>https://www.kliknieuwsdemaasdriehoek.nl/nieuws/algemeen/233303/mogelijk-datalek-bij-gemeente-land-van-cuijk</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/?datalekt=239eb5e92821015fc6a59f3241401e62f7bd113b58d678e0e2e29c238bba22a2</guid>
 			<category>Industrie </category>
 			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Amsterdam schond privacywet met gebruik van scanauto’s voor opsporen gestolen voertuigen</title>
-			<link>https://www.security.nl/posting/868434/Amsterdam+schond+AVG+met+inzet+scanauto%27s+voor+opsporen+gestolen+voertuigen</link>
-			<description>Gemeente Amsterdam | Overheid: Gemeenten | 09-12-2024 | DataLekt.nl: De gemeente Amsterdam heeft de AVG overtreden door scanauto’s in te zetten om gestolen voertuigen op te sporen. Hierbij werden parkeerdata onrechtmatig gedeeld met de RDW, zonder een wettelijke grondslag voor deze verwerking van persoonsgegevens. De praktijk, die leidde tot schending van privacyrechten, is in 2023 beëindigd en zal niet worden hervat. Er is geen informatie over financiële schade of getroffen personen. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/868434/Amsterdam+schond+AVG+met+inzet+scanauto%27s+voor+opsporen+gestolen+voertuigen?datalekt=e76710af8d7c4ec836fbfefc3a668ccd005ef8da6b053d240e3bdc9287402c07</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

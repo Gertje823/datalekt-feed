@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.digitaltrustcenter.nl/ondernemersverhalen/internetcriminelen-leggen-groen-hostingbedrijf-plat?datalekt=7c9f02e25873fe9e5dfca552e52e4ab8ce805fc3d9e79567587fcbb7b62c910c",
+        "url": "https://www.digitaltrustcenter.nl/ondernemersverhalen/internetcriminelen-leggen-groen-hostingbedrijf-plat",
+        "title": "Ransomware-aanval legt groene hostingprovider Bitless plat na kwetsbaarheid in software",
+        "date_published": "2025-02-25T15:06:00Z",
+        "date_modified": "2025-02-25T15:06:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "digitaltrustcenter.nl"
+        },
+        "content_html": "",
+        "content_text": "Bitless | Informatie en communicatie | 25-02-2025 | DataLekt.nl: In oktober 2024 werd Bitless, een duurzame hostingprovider, getroffen door een ransomware-aanval nadat twee hackersgroepen misbruik maakten van een onbekende kwetsbaarheid in de software van de hostingomgeving. De aanval werd pas volledig duidelijk na een notificatie van het Digital Trust Center (DTC). Hackers versleutelden bestanden en eisten losgeld, maar eigenaar Nathan Waelkens weigerde te betalen. Ondanks zijn inspanningen kon hij de systemen niet zelfstandig herstellen, waardoor hij met hulp van een andere hostingpartij alle klanten naar een nieuwe server moest verhuizen. De aanval leidde tot ernstige imagoschade en verlies van de helft van zijn klantenbestand. (Bron: digitaltrustcenter.nl)"
+    },
+    {
         "id": "https://www.kliknieuwsdemaasdriehoek.nl/nieuws/algemeen/233303/mogelijk-datalek-bij-gemeente-land-van-cuijk?datalekt=a2abeef82e3a35d4345900f11f6e83925d02a30adc561e4f11c716e4e2d8d7e4",
         "url": "https://www.kliknieuwsdemaasdriehoek.nl/nieuws/algemeen/233303/mogelijk-datalek-bij-gemeente-land-van-cuijk",
         "title": "Technische storing bij leverancier veroorzaakt mogelijk datalek bij gemeente Land van Cuijk",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "ASML | Industrie | 09-12-2024 | DataLekt.nl: ASML is opnieuw getroffen door bedrijfsspionage. Een voormalige Russische medewerker zou vertrouwelijke handleidingen van ASML en dochterbedrijf Mapper hebben gestolen en verkocht aan Russische partijen, wat hem tienduizenden euro\u2019s opleverde. Dit incident volgt na een eerdere zaak in 2023 waarbij een Chinese medewerker broncodes stal. ASML heeft aangifte gedaan en de verdachte verschijnt voor de rechter. De financi\u00eble schade voor ASML en het aantal getroffen partijen is onbekend. (Bron: computable.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/868434/Amsterdam+schond+AVG+met+inzet+scanauto%27s+voor+opsporen+gestolen+voertuigen?datalekt=e76710af8d7c4ec836fbfefc3a668ccd005ef8da6b053d240e3bdc9287402c07",
-        "url": "https://www.security.nl/posting/868434/Amsterdam+schond+AVG+met+inzet+scanauto%27s+voor+opsporen+gestolen+voertuigen",
-        "title": "Amsterdam schond privacywet met gebruik van scanauto\u2019s voor opsporen gestolen voertuigen",
-        "date_published": "2024-12-10T10:33:00Z",
-        "date_modified": "2024-12-10T10:33:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 09-12-2024 | DataLekt.nl: De gemeente Amsterdam heeft de AVG overtreden door scanauto\u2019s in te zetten om gestolen voertuigen op te sporen. Hierbij werden parkeerdata onrechtmatig gedeeld met de RDW, zonder een wettelijke grondslag voor deze verwerking van persoonsgegevens. De praktijk, die leidde tot schending van privacyrechten, is in 2023 be\u00ebindigd en zal niet worden hervat. Er is geen informatie over financi\u00eble schade of getroffen personen. (Bron: security.nl)"
     }
 ]
