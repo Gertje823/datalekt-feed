@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 25 Feb 2025 18:26:45 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 26 Feb 2025 12:37:41 +0000</lastBuildDate>
 		<item>
 			<title>Ransomware-aanval legt groene hostingprovider Bitless plat na kwetsbaarheid in software</title>
 			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/internetcriminelen-leggen-groen-hostingbedrijf-plat</link>
@@ -25,10 +25,10 @@
 			<pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Datalek bij Eigen Haard: gegevens van 250 huurders online gepubliceerd</title>
-			<link>https://www.parool.nl/amsterdam/gegevens-van-250-huurders-bij-woningcorporatie-eigen-haard-op-straat-na-datalek~b0a556072/</link>
-			<description>Eigen Haard | Verhuur van en handel in onroerend goed | 19-02-2025 | DataLekt.nl: Woningcorporatie Eigen Haard is getroffen door een datalek waarbij de gegevens van minstens 250 huurders en oud-huurders online zijn gepubliceerd. Het lek werd ontdekt door een voormalige huurder die zijn gegevens via Google vond. De gelekte informatie, waaronder namen, adressen, telefoonnummers en e-mailadressen, betreft oude data uit 2016 en is afkomstig uit een applicatie van een extern bedrijf dat Eigen Haard destijds gebruikte. Eigen Haard onderzoekt het incident en heeft melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: parool.nl)</description>
-			<guid isPermaLink="false">https://www.parool.nl/amsterdam/gegevens-van-250-huurders-bij-woningcorporatie-eigen-haard-op-straat-na-datalek~b0a556072/?datalekt=41ca35ad024214eda3270d65f64effb3de4db7e6d1cdbd757050b77e0d38e348</guid>
+			<title>Gegevens van 250 huurders van Stadgenoot online gepubliceerd na datalek</title>
+			<link>https://www.dutchitleaders.nl/news/596653/vermeend-datalek-bij-eigen-haard-blijkt-oud-datalek-bij-stadgenoot-te-zijn</link>
+			<description>Stadgenoot | Verhuur van en handel in onroerend goed | 19-02-2025 | DataLekt.nl: In 2021 werd woningcorporatie Stadgenoot getroffen door een datalek, waarbij gegevens van ongeveer 30.000 huurders werden gestolen. Onlangs zijn gegevens van 250 huurders en oud-huurders online gepubliceerd, aanvankelijk toegeschreven aan Eigen Haard. Na onderzoek bleek deze informatie afkomstig te zijn van het eerdere datalek bij Stadgenoot. De gelekte data omvatten namen, adressen, telefoonnummers en e-mailadressen uit 2016, verkregen via een applicatie van een externe leverancier. Stadgenoot heeft destijds de betrokkenen geïnformeerd en melding gemaakt bij de Autoriteit Persoonsgegevens. Dit incident benadrukt dat gestolen gegevens langdurig online kunnen circuleren. [Update: Op 25 februari 2025 is bekendgemaakt dat het datalek betrekking had op Stadgenoot en niet op Eigen Haard.] (Bron: dutchitleaders.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitleaders.nl/news/596653/vermeend-datalek-bij-eigen-haard-blijkt-oud-datalek-bij-stadgenoot-te-zijn?datalekt=6bd17d3a28210ac3fbd9a2eee88f420c78588af8056f73c01b9c84cd581b8930</guid>
 			<category>Verhuur van en handel in onroerend goed </category>
 			<pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -251,8 +251,8 @@
 		<item>
 			<title>Russische hackersgroep Clop steelt klantgegevens van Centric via lek in Cleo-software</title>
 			<link>https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek</link>
-			<description>Centric | Informatie en communicatie | 24-01-2024 | DataLekt.nl: In december 2024 wisten Russische cybercriminelen van de Clop-groep in te breken bij Centric via een kwetsbaarheid in de software van Cleo, een Amerikaanse leverancier van bestandsoverdrachtsoftware. De aanval werd pas in januari 2025 bekend, nadat Clop losgeld eiste en begon met het publiceren van gegevens van bedrijven die niet betaalden. Volgens Centric zijn alleen testomgevingen getroffen en is slechts een beperkt aantal privacygevoelige gegevens van één klant gecompromitteerd. Het bedrijf heeft melding gedaan bij de Autoriteit Persoonsgegevens. [Update: artikel bijgewerkt aan de hand van een nieuwe bron.] (Bron: fd.nl)</description>
-			<guid isPermaLink="false">https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek?datalekt=1e2459bdb4c842a3582c8d71d519d08e71de34868f1170d94b6df131882b4865</guid>
+			<description>Centric | Informatie en communicatie | 24-01-2024 | DataLekt.nl: In december 2024 wisten Russische cybercriminelen van de Clop-groep in te breken bij Centric via een kwetsbaarheid in de software van Cleo, een Amerikaanse leverancier van bestandsoverdrachtsoftware. De aanval werd pas in januari 2025 bekend, nadat Clop losgeld eiste en begon met het publiceren van gegevens van bedrijven die niet betaalden. Volgens Centric zijn alleen testomgevingen getroffen en is slechts een beperkt aantal privacygevoelige gegevens van één klant gecompromitteerd. Het bedrijf heeft melding gedaan bij de Autoriteit Persoonsgegevens. [Update: Op 29 januari 2025 is het artikel bijgewerkt aan de hand van een nieuwe bron.] (Bron: fd.nl)</description>
+			<guid isPermaLink="false">https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek?datalekt=c5d241a88b041ac2b5ad05d9ca93aeb383677e659f39badb395c12c027c6bc45</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -555,8 +555,8 @@
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
 			<link>https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html</link>
-			<description>Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld geëist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: d.d. 24 januari is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=e4eac14c24e7a7d1765b5f40492a13665d424d59dc55bae37c805bdf4e8a0523</guid>
+			<description>Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld geëist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=1e3b53e5e6667f2a6795e3d54ba6eba7577ea64181354e4f27128e991bfd6002</guid>
 			<category>Onderwijs </category>
 			<pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -675,8 +675,8 @@
 		<item>
 			<title>Website gemeenteraad Almere gehackt; mogelijk gegevens gestolen</title>
 			<link>https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen</link>
-			<description>Gemeente Almere | Overheid: Gemeenten | 18-12-2024 | DataLekt.nl: De website van de gemeenteraad van Almere is gehackt, waardoor mogelijk persoonlijke gegevens zijn gestolen. De aanval werd ontdekt nadat de website onbereikbaar werd. Het is nog onduidelijk wie er achter de hack zit en hoeveel mensen zijn getroffen. De gemeente onderzoekt de zaak en heeft de Autoriteit Persoonsgegevens geïnformeerd. [Update: d.d. 23 januari is bekend geworden dat de hack 2.200 gebruikers getroffen heeft.] (Bron: omroepflevoland.nl)</description>
-			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen?datalekt=54ddb310b6758a874aa5bc996e602e8287f347a679d2c3fbe0c93bd12475d280</guid>
+			<description>Gemeente Almere | Overheid: Gemeenten | 18-12-2024 | DataLekt.nl: De website van de gemeenteraad van Almere is gehackt, waardoor mogelijk persoonlijke gegevens zijn gestolen. De aanval werd ontdekt nadat de website onbereikbaar werd. Het is nog onduidelijk wie er achter de hack zit en hoeveel mensen zijn getroffen. De gemeente onderzoekt de zaak en heeft de Autoriteit Persoonsgegevens geïnformeerd. [Update: Op 23 januari is bekend geworden dat de hack 2.200 gebruikers getroffen heeft.] (Bron: omroepflevoland.nl)</description>
+			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen?datalekt=c090d0e938180bc6b776da88fc234033e3858f0d2eaf2737db274ed117e843b0</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
