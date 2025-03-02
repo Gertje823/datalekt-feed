@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.woonmensen.nl/over-ons/nieuws/nieuwsbericht/kreeg-je-bericht-van-nijhuis-over-een-datalek-wij-leggen-het-uit?datalekt=44b50052304bd268e775aa26eddc61ecdab3791a65acf5420778003d65805e8e",
+        "url": "https://www.woonmensen.nl/over-ons/nieuws/nieuwsbericht/kreeg-je-bericht-van-nijhuis-over-een-datalek-wij-leggen-het-uit",
+        "title": "Datalek bij Nijhuis treft De Woonmensen en huurders",
+        "date_published": "2025-03-02T10:49:00Z",
+        "date_modified": "2025-03-02T10:49:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "woonmensen.nl"
+        },
+        "content_html": "",
+        "content_text": "Woonmensen | Verhuur van en handel in onroerend goed | 28-02-2025 | DataLekt.nl: Aannemer Nijhuis Bouw, partner van woningcorporatie De Woonmensen, heeft een datalek ontdekt waarbij persoonsgegevens van (ex-)huurders en medewerkers mogelijk zijn gelekt. Het betreft gegevens zoals naam, adres, e-mailadres en telefoonnummer; bankgegevens en wachtwoorden zijn niet betrokken. Hoewel er geen directe schade is voor de betrokkenen, wordt geadviseerd alert te zijn op phishingpogingen en verdachte communicatie. Nijhuis heeft na ontdekking direct maatregelen genomen om verdere toegang tot de gegevens te voorkomen en herhaling te voorkomen. De Autoriteit Persoonsgegevens is op de hoogte gebracht van het incident. (Bron: woonmensen.nl)"
+    },
+    {
+        "id": "https://www.vivare.nl/nieuws/datalek-bij-nijhuis-bouw?datalekt=cc445ea7fc1f59c84f92e89c1f2882c3802f2cef19d470a09bb899df9dc8ad59",
+        "url": "https://www.vivare.nl/nieuws/datalek-bij-nijhuis-bouw",
+        "title": "Datalek bij Nijhuis Bouw treft persoonsgegevens van Vivare-huurders",
+        "date_published": "2025-03-02T10:48:00Z",
+        "date_modified": "2025-03-02T10:48:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vivare.nl"
+        },
+        "content_html": "",
+        "content_text": "Vivare | Verhuur van en handel in onroerend goed | 28-02-2025 | DataLekt.nl: In februari 2025 is het computersysteem van aannemer Nijhuis Bouw B.V., die samenwerkt met woningcorporatie Vivare, aangevallen. Hierdoor zijn mogelijk persoonsgegevens van Vivare-huurders, zoals voor- en achternaam, e-mailadres en telefoonnummer, gelekt. Hoewel niet zeker is of deze gegevens daadwerkelijk zijn gestolen, is het belangrijk alert te blijven op onverwachte communicatie en geen gevoelige informatie te delen. Vivare heeft melding gedaan bij de Autoriteit Persoonsgegevens en Nijhuis heeft maatregelen genomen om herhaling te voorkomen. (Bron: vivare.nl)"
+    },
+    {
         "id": "https://www.dutchitleaders.nl/news/596653/vermeend-datalek-bij-eigen-haard-blijkt-oud-datalek-bij-stadgenoot-te-zijn?datalekt=6bd17d3a28210ac3fbd9a2eee88f420c78588af8056f73c01b9c84cd581b8930",
         "url": "https://www.dutchitleaders.nl/news/596653/vermeend-datalek-bij-eigen-haard-blijkt-oud-datalek-bij-stadgenoot-te-zijn",
         "title": "Gegevens van 250 huurders van Stadgenoot online gepubliceerd na datalek",
@@ -52,8 +78,8 @@
         "content_text": "Autoschade Pippel | Groot- en detailhandel | 17-02-2025 | DataLekt.nl: De criminele organisatie Lynx heeft op het darkweb aangekondigd dat zij Autoschade Pippel heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.volkshuisvesting.nl/nieuws/datalek-bij-aannemer-nijh/?datalekt=b57a02d6261875cfade5117a4dbe741d5aac63cc874e9b603af16b0f3bdd57ef",
-        "url": "https://www.volkshuisvesting.nl/nieuws/datalek-bij-aannemer-nijh/",
+        "id": "https://www.volkshuisvesting.nl/over-ons/nieuws/datalek-bij-aannemer-nijhuis-apeldoorn/?datalekt=28a2849cb5e04d1d33985cb1b16553f0c9f99de2a6368fcdfab7f0c6f7bcab12",
+        "url": "https://www.volkshuisvesting.nl/over-ons/nieuws/datalek-bij-aannemer-nijhuis-apeldoorn/",
         "title": "Datalek bij Nijhuis Bouw Apeldoorn treft persoonsgegevens van (ex-)huurders en medewerkers Volkshuisvesting Arnhem",
         "date_published": "2025-02-20T10:25:00Z",
         "date_modified": "2025-02-20T10:25:00Z",
@@ -65,8 +91,8 @@
         "content_text": "Volkshuisvesting Arnhem | Verhuur van en handel in onroerend goed | 18-02-2025 | DataLekt.nl: Begin februari 2025 heeft Volkshuisvesting Arnhem een melding ontvangen van Nijhuis Bouw Apeldoorn over een datalek waarbij mogelijk persoonsgegevens van (ex-)huurders en medewerkers zijn gelekt. De gelekte gegevens betreffen namen, adressen, e-mailadressen en telefoonnummers, maar geen bankgegevens of wachtwoorden. Nijhuis heeft direct maatregelen genomen en een onderzoek ingesteld. Volkshuisvesting Arnhem heeft het incident gemeld bij de Autoriteit Persoonsgegevens en volgt de situatie nauwlettend. Betrokkenen worden geadviseerd alert te zijn op phishingberichten en oplichting. (Bron: volkshuisvesting.nl)"
     },
     {
-        "id": "https://www.volkshuisvesting.nl/nieuws/datalek-bij-aannemer-nijh/?datalekt=679a0981253c144c06d4b98d8dbd7da6bc7798b46457005c559af1d17016866c",
-        "url": "https://www.volkshuisvesting.nl/nieuws/datalek-bij-aannemer-nijh/",
+        "id": "https://www.volkshuisvesting.nl/over-ons/nieuws/datalek-bij-aannemer-nijhuis-apeldoorn/?datalekt=6852b793f33c7f185f06e7fd7362712b93fb86b932df15f747d02431cc97f556",
+        "url": "https://www.volkshuisvesting.nl/over-ons/nieuws/datalek-bij-aannemer-nijhuis-apeldoorn/",
         "title": "Datalek bij aannemer Nijhuis Apeldoorn raakt persoonsgegevens van (ex-)huurders en medewerkers",
         "date_published": "2025-02-20T10:24:00Z",
         "date_modified": "2025-02-20T10:24:00Z",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Serverius | Informatie en communicatie | 09-12-2024 | DataLekt.nl: Russische criminelen maakten gebruik van een server bij Serverius in Dronten voor een wereldwijde oplichtingszaak, waarbij 673 Nederlanders en wereldwijd meer dan een half miljoen mensen werden getroffen. Nepadvertenties met BN&#039;ers leidden slachtoffers naar frauduleuze websites voor cryptobeleggingen. Op de servers stonden beheersystemen, databases en persoonlijke gegevens van slachtoffers opgeslagen. Het criminele netwerk beheerde 4.000 frauduleuze pagina\u2019s en genereerde minstens 110 miljoen dollar. Serverius werkt samen met de politie en benadrukt hun beleid tegen crimineel misbruik van hun diensten. (Bron: omroepflevoland.nl)"
-    },
-    {
-        "id": "https://www.omroepflevoland.nl/nieuws/388041/datacenter-in-dronten-opnieuw-spil-in-russische-beinvloedingscampage?datalekt=13f479e5a590c95ddd7f259df969a1b94204b1bde92e92d0f240a33d7e77e806",
-        "url": "https://www.omroepflevoland.nl/nieuws/388041/datacenter-in-dronten-opnieuw-spil-in-russische-beinvloedingscampage",
-        "title": "Serverius in Dronten opnieuw betrokken bij Russische be\u00efnvloedingscampagne op X",
-        "date_published": "2024-12-11T10:12:00Z",
-        "date_modified": "2024-12-11T10:12:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepflevoland.nl"
-        },
-        "content_html": "",
-        "content_text": "Serverius | Informatie en communicatie | 11-07-2024 | DataLekt.nl: Het datacenter Serverius in Dronten verhuurde servers aan een Russische klant die software gebruikte om nepaccounts op X (voorheen Twitter) te beheren. Deze nepaccounts, gecre\u00eberd met behulp van AI, verspreidden desinformatie gericht op het Amerikaanse publieke debat. Door samenwerking van AIVD, MIVD en FBI is het netwerk ontmanteld. Eerder, in 2016, werden Serverius-servers ook misbruikt door Russische hackers tijdens de Amerikaanse presidentsverkiezingen. De betrokkenheid van de Russische overheid bij de recente campagne wordt als zeer waarschijnlijk beschouwd. Het bedrijf wijst op haar rol als neutrale verhuurder. (Bron: omroepflevoland.nl)"
-    },
-    {
-        "id": "https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/?datalekt=239eb5e92821015fc6a59f3241401e62f7bd113b58d678e0e2e29c238bba22a2",
-        "url": "https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/",
-        "title": "ASML slachtoffer van bedrijfsspionage door Russische oud-medewerker",
-        "date_published": "2024-12-11T10:01:00Z",
-        "date_modified": "2024-12-11T10:01:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "computable.nl"
-        },
-        "content_html": "",
-        "content_text": "ASML | Industrie | 09-12-2024 | DataLekt.nl: ASML is opnieuw getroffen door bedrijfsspionage. Een voormalige Russische medewerker zou vertrouwelijke handleidingen van ASML en dochterbedrijf Mapper hebben gestolen en verkocht aan Russische partijen, wat hem tienduizenden euro\u2019s opleverde. Dit incident volgt na een eerdere zaak in 2023 waarbij een Chinese medewerker broncodes stal. ASML heeft aangifte gedaan en de verdachte verschijnt voor de rechter. De financi\u00eble schade voor ASML en het aantal getroffen partijen is onbekend. (Bron: computable.nl)"
     }
 ]
