@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 02 Mar 2025 12:33:48 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 03 Mar 2025 12:38:16 +0000</lastBuildDate>
+		<item>
+			<title>DigiD tijdelijk onbereikbaar door DDoS-aanval</title>
+			<link>https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval</link>
+			<description>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 03-03-2025 | DataLekt.nl: Op maandag 3 maart 2025 werd DigiD getroffen door een DDoS-aanval, waardoor gebruikers urenlang niet konden inloggen bij overheidsdiensten zoals de Belastingdienst en gemeenten. Bij een DDoS-aanval wordt een server overspoeld met veel dataverkeer, wat leidt tot overbelasting en onbereikbaarheid. De aanval veroorzaakte hinder voor burgers die publieke diensten wilden gebruiken. Het is nog onbekend wie verantwoordelijk is voor de aanval; beheerder Logius onderzoekt de zaak. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval?datalekt=ef40efd924f93e268fd8b93361a59df0945efcf49651440f4ae7278aa8e629af</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij Nijhuis treft De Woonmensen en huurders</title>
 			<link>https://www.woonmensen.nl/over-ons/nieuws/nieuwsbericht/kreeg-je-bericht-van-nijhuis-over-een-datalek-wij-leggen-het-uit</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/868556/Autoriteit+Persoonsgegevens+verstuurde+nieuwsbrieven+met+trackingpixel?channel=rss&amp;amp;datalekt=160937ac4d348a9724196af33d88c40413354662b1996ef782b8f144b91d8815</guid>
 			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Russische criminelen gebruikten Serverius in Dronten voor miljoenenfraude via nepadvertenties</title>
-			<link>https://www.omroepflevoland.nl/nieuws/407753/datacenter-in-dronten-speelde-sleutelrol-bij-wereldwijde-instagram-oplichting</link>
-			<description>Serverius | Informatie en communicatie | 09-12-2024 | DataLekt.nl: Russische criminelen maakten gebruik van een server bij Serverius in Dronten voor een wereldwijde oplichtingszaak, waarbij 673 Nederlanders en wereldwijd meer dan een half miljoen mensen werden getroffen. Nepadvertenties met BN&amp;#039;ers leidden slachtoffers naar frauduleuze websites voor cryptobeleggingen. Op de servers stonden beheersystemen, databases en persoonlijke gegevens van slachtoffers opgeslagen. Het criminele netwerk beheerde 4.000 frauduleuze pagina’s en genereerde minstens 110 miljoen dollar. Serverius werkt samen met de politie en benadrukt hun beleid tegen crimineel misbruik van hun diensten. (Bron: omroepflevoland.nl)</description>
-			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/407753/datacenter-in-dronten-speelde-sleutelrol-bij-wereldwijde-instagram-oplichting?datalekt=e55b517fdeae8389774b58fb7b7e837276972edabdce4494a9712643685675b7</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
