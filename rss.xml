@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 03 Mar 2025 12:38:16 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 05 Mar 2025 12:38:09 +0000</lastBuildDate>
+		<item>
+			<title>Cyberaanval op Skal in 2022 legt biologische certificering zes weken stil</title>
+			<link>https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval</link>
+			<description>Skal Biocontrole | Overheid: Zelfstandige bestuursorganen | 03-03-2025 | DataLekt.nl: In 2022 werd Skal, de Nederlandse toezichthouder op de biologische keten, getroffen door een cyberaanval op een managed service provider. Hierdoor lagen de primaire processen van registreren, certificeren en toezicht houden zes weken vrijwel volledig stil, wat leidde tot het niet behalen van inspectiedoelen en €92.000 aan extra kosten. De aanval veroorzaakte ernstige verstoringen in de inspecties van biologische bedrijven.</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval?datalekt=7fd44c0c4c877fb548ad8b2087f1871173bb879eb9aa989b110fae7f24a1365c</guid>
+			<category>Overheid: Zelfstandige bestuursorganen </category>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>DigiD tijdelijk onbereikbaar door DDoS-aanval</title>
 			<link>https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval</link>
@@ -798,14 +806,6 @@
 			<description>Bergerhof Mobiliteitsgroep | Vervoer en opslag | 10-12-2024 | DataLekt.nl: De criminele organisatie Medusa heeft op het darkweb aangekondigd dat zij Bergerhof Mobiliteitsgroep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7b7337f3650ef67978f571a42098eb2fdef66b950994eb4f98f8a181fee6eb66</guid>
 			<category>Vervoer en opslag </category>
-			<pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Autoriteit Persoonsgegevens overtreedt eigen beleid met trackingpixels in nieuwsbrieven</title>
-			<link>https://www.security.nl/posting/868556/Autoriteit+Persoonsgegevens+verstuurde+nieuwsbrieven+met+trackingpixel?channel=rss</link>
-			<description>Autoriteit Persoonsgegevens (AP) | Overheid: Zelfstandige bestuursorganen | 10-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft onbedoeld trackingpixels gebruikt in nieuwsbrieven, waarmee werd bijgehouden of ontvangers deze openden. Dit gebeurde ondanks het eigen beleid tegen tracking. De AP heeft de trackingpixels inmiddels gedeactiveerd en de verzamelde gegevens vernietigd. Het incident benadrukt het belang van zorgvuldigheid bij dataverwerking, zelfs binnen een toezichthoudende instantie. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/868556/Autoriteit+Persoonsgegevens+verstuurde+nieuwsbrieven+met+trackingpixel?channel=rss&amp;amp;datalekt=160937ac4d348a9724196af33d88c40413354662b1996ef782b8f144b91d8815</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>

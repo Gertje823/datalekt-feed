@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval?datalekt=7fd44c0c4c877fb548ad8b2087f1871173bb879eb9aa989b110fae7f24a1365c",
+        "url": "https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval",
+        "title": "Cyberaanval op Skal in 2022 legt biologische certificering zes weken stil",
+        "date_published": "2025-03-05T10:53:00Z",
+        "date_modified": "2025-03-05T10:53:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Skal Biocontrole | Overheid: Zelfstandige bestuursorganen | 03-03-2025 | DataLekt.nl: In 2022 werd Skal, de Nederlandse toezichthouder op de biologische keten, getroffen door een cyberaanval op een managed service provider. Hierdoor lagen de primaire processen van registreren, certificeren en toezicht houden zes weken vrijwel volledig stil, wat leidde tot het niet behalen van inspectiedoelen en \u20ac92.000 aan extra kosten. De aanval veroorzaakte ernstige verstoringen in de inspecties van biologische bedrijven."
+    },
+    {
         "id": "https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval?datalekt=ef40efd924f93e268fd8b93361a59df0945efcf49651440f4ae7278aa8e629af",
         "url": "https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval",
         "title": "DigiD tijdelijk onbereikbaar door DDoS-aanval",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Bergerhof Mobiliteitsgroep | Vervoer en opslag | 10-12-2024 | DataLekt.nl: De criminele organisatie Medusa heeft op het darkweb aangekondigd dat zij Bergerhof Mobiliteitsgroep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/868556/Autoriteit+Persoonsgegevens+verstuurde+nieuwsbrieven+met+trackingpixel?channel=rss&amp;datalekt=160937ac4d348a9724196af33d88c40413354662b1996ef782b8f144b91d8815",
-        "url": "https://www.security.nl/posting/868556/Autoriteit+Persoonsgegevens+verstuurde+nieuwsbrieven+met+trackingpixel?channel=rss",
-        "title": "Autoriteit Persoonsgegevens overtreedt eigen beleid met trackingpixels in nieuwsbrieven",
-        "date_published": "2024-12-12T09:21:00Z",
-        "date_modified": "2024-12-12T09:21:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Autoriteit Persoonsgegevens (AP) | Overheid: Zelfstandige bestuursorganen | 10-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft onbedoeld trackingpixels gebruikt in nieuwsbrieven, waarmee werd bijgehouden of ontvangers deze openden. Dit gebeurde ondanks het eigen beleid tegen tracking. De AP heeft de trackingpixels inmiddels gedeactiveerd en de verzamelde gegevens vernietigd. Het incident benadrukt het belang van zorgvuldigheid bij dataverwerking, zelfs binnen een toezichthoudende instantie. (Bron: security.nl)"
     }
 ]
