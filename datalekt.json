@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/879866/DigiD+was+door+ddos-aanval+korte+tijd+%27beperkt+beschikbaar%27?datalekt=e4580f868d72962575b3fe5ae99d69d7f599c5aaed9775be41305acda999563c",
+        "url": "https://www.security.nl/posting/879866/DigiD+was+door+ddos-aanval+korte+tijd+%27beperkt+beschikbaar%27",
+        "title": "DigiD en gerelateerde diensten kortstondig beperkt beschikbaar door ddos-aanval\u200b",
+        "date_published": "2025-03-14T10:02:00Z",
+        "date_modified": "2025-03-14T10:02:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 13-03-2025 | DataLekt.nl: Op donderdag 13 maart 2025 waren DigiD en aanverwante diensten zoals DigiD Machtigen, BSNk, Digipoort en MijnOverheid tijdelijk beperkt beschikbaar door een ddos-aanval. De storing begon rond 15.00 uur en was binnen veertig minuten verholpen. Tijdens deze periode konden gebruikers mogelijk niet inloggen met hun DigiD. Op Allestoringen.nl werden meer dan drieduizend meldingen van problemen met de overheidsinlogdienst geregistreerd. Eerder deze maand en in januari ondervond DigiD ook al hinder van soortgelijke aanvallen. (Bron: security.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html?datalekt=5378562c56222634800935c48be308d50d88cbb4d70da0898fdabfeac970d8de",
         "url": "https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html",
         "title": " Belastingdienst overtrad privacywet met gebruik van Risico Analyse Model",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "IJskoud | Logies-, maaltijd- en drankverstrekking | 17-12-2024 | DataLekt.nl: Op 14 juni 2024 werd IJskoud getroffen door een hack bij hun hostingpartij, uitgevoerd door de LockBit 3.0-groep. Hierdoor waren servers, back-ups en data versleuteld met ransomware. IJskoud en 23 andere klanten, waarvan 10 ernstige schade ondervonden, kregen te maken met een losgeldeis van 1 miljoen dollar. IJskoud was het zwaarst getroffen, omdat hun systemen maatwerk waren. Het bedrijf kon 12 dagen lang nauwelijks werken en moest vertrouwen op noodprocedures en het geheugen van technici. De financi\u00eble en operationele impact was groot. Het datalek is gemeld bij de Autoriteit Persoonsgegevens. (Bron: digitaltrustcenter.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/leidschendam-voorburg/brieven-en-e-mails-van-bewoners-per-ongeluk-een-heel-weekend-op-de-site-van-de-gemeente-te-lezen~af29aa35/?datalekt=2e3e1f26322692d3d5f1f2a80b61a8ebacae35243a6af565a48c5b2ad1f2a5e7",
-        "url": "https://www.ad.nl/leidschendam-voorburg/brieven-en-e-mails-van-bewoners-per-ongeluk-een-heel-weekend-op-de-site-van-de-gemeente-te-lezen~af29aa35/",
-        "title": "Datalek bij gemeente Leidschendam-Voorburg: brieven en e-mails een weekend openbaar",
-        "date_published": "2024-12-18T18:28:00Z",
-        "date_modified": "2024-12-18T18:28:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Leidschendam-Voorburg | Overheid: Gemeenten | 17-12-2024 | DataLekt.nl: De gemeente Leidschendam-Voorburg heeft een datalek gemeld waarbij niet-openbare brieven en e-mails van bewoners, belangengroepen en overheden van 6 tot 9 december openbaar te lezen waren op de gemeentelijke website. De gelekte documenten bevatten in sommige gevallen contactgegevens. Het incident werd veroorzaakt door een menselijke fout bij het uploaden van documenten. De gemeente heeft maatregelen genomen om herhaling te voorkomen en het datalek gemeld bij de Autoriteit Persoonsgegevens. Bewoners kunnen contact opnemen met de functionaris gegevensbescherming voor meer informatie. (Bron: ad.nl)"
     }
 ]
