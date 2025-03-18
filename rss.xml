@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 14 Mar 2025 12:37:05 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 12:39:19 +0000</lastBuildDate>
+		<item>
+			<title>GraphicWorld getroffen door ransomware aanval van de criminele organisatie Akira</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>GraphicWorld Print &amp;amp;amp; Packaging | Groot- en detailhandel | 11-03-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij GraphicWorld heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=0735530a75c4f6f2dc97cf45444c4be1609f843aab6c4013a1fd312ed9d5185f</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>DigiD en gerelateerde diensten kortstondig beperkt beschikbaar door ddos-aanval​</title>
 			<link>https://www.security.nl/posting/879866/DigiD+was+door+ddos-aanval+korte+tijd+%27beperkt+beschikbaar%27</link>
@@ -59,8 +67,8 @@
 		<item>
 			<title>Cyberaanval op Skal in 2022 legt biologische certificering zes weken stil</title>
 			<link>https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval</link>
-			<description>Skal Biocontrole | Overheid: Zelfstandige bestuursorganen | 03-03-2025 | DataLekt.nl: In 2022 werd Skal, de Nederlandse toezichthouder op de biologische keten, getroffen door een cyberaanval op een managed service provider. Hierdoor lagen de primaire processen van registreren, certificeren en toezicht houden zes weken vrijwel volledig stil, wat leidde tot het niet behalen van inspectiedoelen en €92.000 aan extra kosten. De aanval veroorzaakte ernstige verstoringen in de inspecties van biologische bedrijven.</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval?datalekt=7fd44c0c4c877fb548ad8b2087f1871173bb879eb9aa989b110fae7f24a1365c</guid>
+			<description>Skal Biocontrole | Overheid: Zelfstandige bestuursorganen | 03-03-2025 | DataLekt.nl: In 2022 werd Skal, de Nederlandse toezichthouder op de biologische keten, getroffen door een cyberaanval op een managed service provider. Hierdoor lagen de primaire processen van registreren, certificeren en toezicht houden zes weken vrijwel volledig stil, wat leidde tot het niet behalen van inspectiedoelen en €92.000 aan extra kosten. De aanval veroorzaakte ernstige verstoringen in de inspecties van biologische bedrijven. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval?datalekt=dfa745a92b88ad24e016a1e28e6cbd57caabcccb3660ae815c628ec32a3556d8</guid>
 			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -203,8 +211,8 @@
 		<item>
 			<title>Gemeente Meerssen lekt persoonsgegevens van medewerkers door fout bij ict-leverancier</title>
 			<link>https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier</link>
-			<description>Gemeente Meerssen | Overheid: Gemeenten | 06-02-2025 | DataLekt.nl: De gemeente Meerssen heeft persoonsgegevens van huidige en voormalige medewerkers gelekt nadat een externe ict-leverancier een update uitvoerde. Hierdoor werden oude intranetpagina&amp;#039;s openbaar via Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen genomen om dit te corrigeren, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor significante schade door het datalek. Het incident is gemeld bij de Autoriteit Persoonsgegevens.</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=e65e4b43252d81f0985b52b58997488f60623ba1c0f845516722e4e8618ea9fd</guid>
+			<description>Gemeente Meerssen | Overheid: Gemeenten | 06-02-2025 | DataLekt.nl: De gemeente Meerssen heeft persoonsgegevens van huidige en voormalige medewerkers gelekt nadat een externe ict-leverancier een update uitvoerde. Hierdoor werden oude intranetpagina&amp;#039;s openbaar via Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen genomen om dit te corrigeren, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor significante schade door het datalek. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=f06d3987ddaaa6e08967674fd4ad133f4a34c5b23d74e18398a82001df7e628c</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -291,8 +299,8 @@
 		<item>
 			<title>Website gemeente Veendam onbereikbaar door DDoS-aanval</title>
 			<link>https://www.parkstadveendam.nl/node/34117</link>
-			<description>Gemeente Veendam | Overheid: Gemeenten | 24-01-2025 | DataLekt.nl: Sinds enkele dagen ondervindt de website van de gemeente Veendam problemen met de formulieren, en sinds donderdagmiddag is de site geheel of gedeeltelijk onbereikbaar. De gemeente meldt op Facebook dat dit te wijten is aan een technische storing en dat er hard aan een oplossing wordt gewerkt. Vrijdagmorgen was de website nog steeds niet bereikbaar. Er is geen informatie beschikbaar over de oorzaak van de storing, de mogelijke betrokkenheid van aanvallers, of de omvang van de eventuele schade.</description>
-			<guid isPermaLink="false">https://www.parkstadveendam.nl/node/34117?datalekt=cd9879fd185cf994f7a23dc49cefd439b050133670c3ea01999ef69fd95911ca</guid>
+			<description>Gemeente Veendam | Overheid: Gemeenten | 24-01-2025 | DataLekt.nl: Sinds enkele dagen ondervindt de website van de gemeente Veendam problemen met de formulieren, en sinds donderdagmiddag is de site geheel of gedeeltelijk onbereikbaar. De gemeente meldt op Facebook dat dit te wijten is aan een technische storing en dat er hard aan een oplossing wordt gewerkt. Vrijdagmorgen was de website nog steeds niet bereikbaar. Er is geen informatie beschikbaar over de oorzaak van de storing, de mogelijke betrokkenheid van aanvallers, of de omvang van de eventuele schade. (Bron: parkstadveendam.nl)</description>
+			<guid isPermaLink="false">https://www.parkstadveendam.nl/node/34117?datalekt=303a281e6608e8349ef5c921d218c99dda19a3631f8d905a3d1c32e8791f12da</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -798,14 +806,6 @@
 			<description>23 onbekende organisaties | Overige dienstverlening | 17-12-2024 | DataLekt.nl: Bij een hack op een hostingpartij zijn 24 bedrijven getroffen door ransomware, waaronder IJskoud, dat het zwaarst werd geraakt. De LockBit 3.0-groep versleutelde servers, back-ups en data van 10 klanten en eiste 1 miljoen dollar losgeld. De aanval had verstrekkende gevolgen: bedrijven konden niet werken en verloren cruciale gegevens. Sommige organisaties moesten wekenlang noodprocedures gebruiken en aanzienlijke kosten maken om systemen te herstellen. De hostingpartij bood ondersteuning, maar de omvang van de schade blijft groot. Het incident toont de risico’s van gedeelde ICT-infrastructuur. (Bron: digitaltrustcenter.nl)</description>
 			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=452a1498483f45c1c199093654f161baaa410fcabbaeb77704d6ffcecb3f7ab8</guid>
 			<category>Overige dienstverlening </category>
-			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hack bij hostingpartij vergrendelt ICT-systemen van IJskoud en 23 andere klanten</title>
-			<link>https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter</link>
-			<description>IJskoud | Logies-, maaltijd- en drankverstrekking | 17-12-2024 | DataLekt.nl: Op 14 juni 2024 werd IJskoud getroffen door een hack bij hun hostingpartij, uitgevoerd door de LockBit 3.0-groep. Hierdoor waren servers, back-ups en data versleuteld met ransomware. IJskoud en 23 andere klanten, waarvan 10 ernstige schade ondervonden, kregen te maken met een losgeldeis van 1 miljoen dollar. IJskoud was het zwaarst getroffen, omdat hun systemen maatwerk waren. Het bedrijf kon 12 dagen lang nauwelijks werken en moest vertrouwen op noodprocedures en het geheugen van technici. De financiële en operationele impact was groot. Het datalek is gemeld bij de Autoriteit Persoonsgegevens. (Bron: digitaltrustcenter.nl)</description>
-			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=931bed78f618cd575c79a4961a33322c751ed8460e42dd5d508fe9a0adb1c27c</guid>
-			<category>Logies-, maaltijd- en drankverstrekking </category>
 			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>

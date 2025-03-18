@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=0735530a75c4f6f2dc97cf45444c4be1609f843aab6c4013a1fd312ed9d5185f",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "GraphicWorld getroffen door ransomware aanval van de criminele organisatie Akira",
+        "date_published": "2025-03-18T13:33:00Z",
+        "date_modified": "2025-03-18T13:33:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "GraphicWorld Print &amp;amp; Packaging | Groot- en detailhandel | 11-03-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij GraphicWorld heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/879866/DigiD+was+door+ddos-aanval+korte+tijd+%27beperkt+beschikbaar%27?datalekt=e4580f868d72962575b3fe5ae99d69d7f599c5aaed9775be41305acda999563c",
         "url": "https://www.security.nl/posting/879866/DigiD+was+door+ddos-aanval+korte+tijd+%27beperkt+beschikbaar%27",
         "title": "DigiD en gerelateerde diensten kortstondig beperkt beschikbaar door ddos-aanval\u200b",
@@ -78,7 +91,7 @@
         "content_text": "Onbekende organisatie | Overige dienstverlening | 04-03-2025 | DataLekt.nl: Een bedrijf heeft per abuis een e-mail gestuurd naar een ex-werknemer zonder geldige grondslag, wat een overtreding van de AVG inhoudt. De Autoriteit Persoonsgegevens (AP) besloot niet handhavend op te treden vanwege de geringe ernst van de overtreding en het ontbreken van nadelige gevolgen voor de ex-werknemer. De ex-werknemer tekende beroep aan tegen dit besluit, maar de rechtbank Rotterdam oordeelde dat de AP terecht heeft gehandeld en dat verdere maatregelen niet noodzakelijk zijn. (Bron: security.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval?datalekt=7fd44c0c4c877fb548ad8b2087f1871173bb879eb9aa989b110fae7f24a1365c",
+        "id": "https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval?datalekt=dfa745a92b88ad24e016a1e28e6cbd57caabcccb3660ae815c628ec32a3556d8",
         "url": "https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval",
         "title": "Cyberaanval op Skal in 2022 legt biologische certificering zes weken stil",
         "date_published": "2025-03-05T10:53:00Z",
@@ -88,7 +101,7 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Skal Biocontrole | Overheid: Zelfstandige bestuursorganen | 03-03-2025 | DataLekt.nl: In 2022 werd Skal, de Nederlandse toezichthouder op de biologische keten, getroffen door een cyberaanval op een managed service provider. Hierdoor lagen de primaire processen van registreren, certificeren en toezicht houden zes weken vrijwel volledig stil, wat leidde tot het niet behalen van inspectiedoelen en \u20ac92.000 aan extra kosten. De aanval veroorzaakte ernstige verstoringen in de inspecties van biologische bedrijven."
+        "content_text": "Skal Biocontrole | Overheid: Zelfstandige bestuursorganen | 03-03-2025 | DataLekt.nl: In 2022 werd Skal, de Nederlandse toezichthouder op de biologische keten, getroffen door een cyberaanval op een managed service provider. Hierdoor lagen de primaire processen van registreren, certificeren en toezicht houden zes weken vrijwel volledig stil, wat leidde tot het niet behalen van inspectiedoelen en \u20ac92.000 aan extra kosten. De aanval veroorzaakte ernstige verstoringen in de inspecties van biologische bedrijven. (Bron: security.nl)"
     },
     {
         "id": "https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval?datalekt=ef40efd924f93e268fd8b93361a59df0945efcf49651440f4ae7278aa8e629af",
@@ -312,7 +325,7 @@
         "content_text": "Gemeente Venlo | Overheid: Gemeenten | 08-02-2025 | DataLekt.nl: De gemeente Venlo heeft in strijd met de AVG persoonsgegevens van bezwaarmakers gedeeld met VidaXL, terwijl deze bezwaarmakers niet-ontvankelijk waren verklaard. Ondanks kritiek van deskundigen en een klacht bij de Autoriteit Persoonsgegevens (AP) op 8 augustus 2023, blijft de gemeente bij haar standpunt dat dit toegestaan was. De AP gaf op 6 februari 2025 aan de klacht niet verder te onderzoeken wegens capaciteitsgebrek, maar bewaart deze voor mogelijk toekomstig onderzoek. De AP stuurt een brief aan de gemeente Venlo om de privacyregels toe te lichten en naleving te eisen. (Bron: horstaandemaas.sp.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=e65e4b43252d81f0985b52b58997488f60623ba1c0f845516722e4e8618ea9fd",
+        "id": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=f06d3987ddaaa6e08967674fd4ad133f4a34c5b23d74e18398a82001df7e628c",
         "url": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier",
         "title": "Gemeente Meerssen lekt persoonsgegevens van medewerkers door fout bij ict-leverancier",
         "date_published": "2025-02-09T10:19:00Z",
@@ -322,7 +335,7 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Meerssen | Overheid: Gemeenten | 06-02-2025 | DataLekt.nl: De gemeente Meerssen heeft persoonsgegevens van huidige en voormalige medewerkers gelekt nadat een externe ict-leverancier een update uitvoerde. Hierdoor werden oude intranetpagina&#039;s openbaar via Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen genomen om dit te corrigeren, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor significante schade door het datalek. Het incident is gemeld bij de Autoriteit Persoonsgegevens."
+        "content_text": "Gemeente Meerssen | Overheid: Gemeenten | 06-02-2025 | DataLekt.nl: De gemeente Meerssen heeft persoonsgegevens van huidige en voormalige medewerkers gelekt nadat een externe ict-leverancier een update uitvoerde. Hierdoor werden oude intranetpagina&#039;s openbaar via Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen genomen om dit te corrigeren, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor significante schade door het datalek. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)"
     },
     {
         "id": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=789df8bae17a8c5c6b8d4344721ead93eec2139b32bd83620d6dc163e23c4934",
@@ -455,7 +468,7 @@
         "content_text": "Gemeente Amersfoort | Overheid: Gemeenten | 27-01-2025 | DataLekt.nl: In december 2024 werden duizenden inwoners van Amersfoort getroffen door een datalek bij een andere leverancier van de gemeente. Persoonsgegevens werden langer dan toegestaan bewaard in afwachting van een cloudmigratie. Het IT-bedrijf Centric meldde dat een kwetsbaarheid in een testserver met Cleo-software werd misbruikt door de ransomwarebende Clop, die gegevens van tientallen organisaties zou hebben buitgemaakt. Hoewel Centric stelt dat alleen testdata is getroffen en er geen impact was op productiesystemen, verschenen de gestolen gegevens op een ransomwarewebsite. De gemeente overweegt de schade te verhalen op de leverancier. (Bron: binnenlandsbestuur.nl)"
     },
     {
-        "id": "https://www.parkstadveendam.nl/node/34117?datalekt=cd9879fd185cf994f7a23dc49cefd439b050133670c3ea01999ef69fd95911ca",
+        "id": "https://www.parkstadveendam.nl/node/34117?datalekt=303a281e6608e8349ef5c921d218c99dda19a3631f8d905a3d1c32e8791f12da",
         "url": "https://www.parkstadveendam.nl/node/34117",
         "title": "Website gemeente Veendam onbereikbaar door DDoS-aanval",
         "date_published": "2025-01-29T14:07:00Z",
@@ -465,7 +478,7 @@
             "name": "parkstadveendam.nl"
         },
         "content_html": "",
-        "content_text": "Gemeente Veendam | Overheid: Gemeenten | 24-01-2025 | DataLekt.nl: Sinds enkele dagen ondervindt de website van de gemeente Veendam problemen met de formulieren, en sinds donderdagmiddag is de site geheel of gedeeltelijk onbereikbaar. De gemeente meldt op Facebook dat dit te wijten is aan een technische storing en dat er hard aan een oplossing wordt gewerkt. Vrijdagmorgen was de website nog steeds niet bereikbaar. Er is geen informatie beschikbaar over de oorzaak van de storing, de mogelijke betrokkenheid van aanvallers, of de omvang van de eventuele schade."
+        "content_text": "Gemeente Veendam | Overheid: Gemeenten | 24-01-2025 | DataLekt.nl: Sinds enkele dagen ondervindt de website van de gemeente Veendam problemen met de formulieren, en sinds donderdagmiddag is de site geheel of gedeeltelijk onbereikbaar. De gemeente meldt op Facebook dat dit te wijten is aan een technische storing en dat er hard aan een oplossing wordt gewerkt. Vrijdagmorgen was de website nog steeds niet bereikbaar. Er is geen informatie beschikbaar over de oorzaak van de storing, de mogelijke betrokkenheid van aanvallers, of de omvang van de eventuele schade. (Bron: parkstadveendam.nl)"
     },
     {
         "id": "https://www.ed.nl/eindhoven/eindhoven-de-mist-in-met-laptops-voor-clientenraad-mogelijk-datalek-gemeld-bij-privacywaakhond~ac15a4ef/?datalekt=c0b5d4c39942db576a59e223cbbb4e7fbc61fe52ffb1e3879858f470cd14f168",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "23 onbekende organisaties | Overige dienstverlening | 17-12-2024 | DataLekt.nl: Bij een hack op een hostingpartij zijn 24 bedrijven getroffen door ransomware, waaronder IJskoud, dat het zwaarst werd geraakt. De LockBit 3.0-groep versleutelde servers, back-ups en data van 10 klanten en eiste 1 miljoen dollar losgeld. De aanval had verstrekkende gevolgen: bedrijven konden niet werken en verloren cruciale gegevens. Sommige organisaties moesten wekenlang noodprocedures gebruiken en aanzienlijke kosten maken om systemen te herstellen. De hostingpartij bood ondersteuning, maar de omvang van de schade blijft groot. Het incident toont de risico\u2019s van gedeelde ICT-infrastructuur. (Bron: digitaltrustcenter.nl)"
-    },
-    {
-        "id": "https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=931bed78f618cd575c79a4961a33322c751ed8460e42dd5d508fe9a0adb1c27c",
-        "url": "https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter",
-        "title": "Hack bij hostingpartij vergrendelt ICT-systemen van IJskoud en 23 andere klanten",
-        "date_published": "2024-12-18T19:41:00Z",
-        "date_modified": "2024-12-18T19:41:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "digitaltrustcenter.nl"
-        },
-        "content_html": "",
-        "content_text": "IJskoud | Logies-, maaltijd- en drankverstrekking | 17-12-2024 | DataLekt.nl: Op 14 juni 2024 werd IJskoud getroffen door een hack bij hun hostingpartij, uitgevoerd door de LockBit 3.0-groep. Hierdoor waren servers, back-ups en data versleuteld met ransomware. IJskoud en 23 andere klanten, waarvan 10 ernstige schade ondervonden, kregen te maken met een losgeldeis van 1 miljoen dollar. IJskoud was het zwaarst getroffen, omdat hun systemen maatwerk waren. Het bedrijf kon 12 dagen lang nauwelijks werken en moest vertrouwen op noodprocedures en het geheugen van technici. De financi\u00eble en operationele impact was groot. Het datalek is gemeld bij de Autoriteit Persoonsgegevens. (Bron: digitaltrustcenter.nl)"
     }
 ]
