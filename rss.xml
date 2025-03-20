@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 18 Mar 2025 12:39:19 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 20 Mar 2025 12:37:26 +0000</lastBuildDate>
+		<item>
+			<title>De Huismeesters waarschuwt huurders na mogelijke datalek door cyberaanval bij onderhoudspartner Nijhuis Bouw</title>
+			<link>https://www.ad.nl/groningen/computersysteem-nijhuis-bouw-aangevallen-mogelijke-datalek-van-huurders-de-huismeesters-groningen~a1c8a183/</link>
+			<description>De Huismeesters | Verhuur van en handel in onroerend goed | 18-03-2025 | DataLekt.nl: In februari 2025 is onderhoudspartner Nijhuis Bouw getroffen door een cyberaanval waarbij mogelijk persoonsgegevens van huurders van De Huismeesters in Groningen zijn gelekt. Het gaat om namen, e-mailadressen en telefoonnummers. Hoewel niet zeker is dat de gegevens zijn gestolen, worden huurders uit voorzorg per brief geïnformeerd en gewaarschuwd voor misbruik. De Huismeesters heeft de Autoriteit Persoonsgegevens op de hoogte gebracht en extra beveiligingsmaatregelen zijn genomen. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/groningen/computersysteem-nijhuis-bouw-aangevallen-mogelijke-datalek-van-huurders-de-huismeesters-groningen~a1c8a183/?datalekt=eb310f1e4a29f33a576949fd7ecce5598a713593e47edb20d957f788bdb57a35</guid>
+			<category>Verhuur van en handel in onroerend goed </category>
+			<pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>GraphicWorld getroffen door ransomware aanval van de criminele organisatie Akira</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -798,14 +806,6 @@
 			<description>Onbekende ICT organisatie | Informatie en communicatie | 17-12-2024 | DataLekt.nl: Een hostingpartij werd op 14 juni 2024 getroffen door een hack van de LockBit 3.0-groep, die servers, back-ups en data van 24 klanten versleutelde met ransomware. Tien organisaties, waaronder IJskoud, ondervonden ernstige schade door de aanval. De hostingpartij zette een nieuwe omgeving op voor herstel, maar erkent dat het incident vooral klanten met maatwerkoplossingen zwaar trof. Door een gebrek aan strikte data-isolatie konden criminelen grote schade aanrichten. De leverancier heeft verbeteringen aangekondigd, waaronder een strengere scheiding van klantdata en verbeterde back-upstrategieën. (Bron: digitaltrustcenter.nl)</description>
 			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=898fed5820130e254a537b112c1c5f5070ee8991eb0698dcda1abf0bcf8c726d</guid>
 			<category>Informatie en communicatie </category>
-			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hack bij hostingpartij raakt 24 bedrijven: ransomware legt ICT-systemen plat</title>
-			<link>https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter</link>
-			<description>23 onbekende organisaties | Overige dienstverlening | 17-12-2024 | DataLekt.nl: Bij een hack op een hostingpartij zijn 24 bedrijven getroffen door ransomware, waaronder IJskoud, dat het zwaarst werd geraakt. De LockBit 3.0-groep versleutelde servers, back-ups en data van 10 klanten en eiste 1 miljoen dollar losgeld. De aanval had verstrekkende gevolgen: bedrijven konden niet werken en verloren cruciale gegevens. Sommige organisaties moesten wekenlang noodprocedures gebruiken en aanzienlijke kosten maken om systemen te herstellen. De hostingpartij bood ondersteuning, maar de omvang van de schade blijft groot. Het incident toont de risico’s van gedeelde ICT-infrastructuur. (Bron: digitaltrustcenter.nl)</description>
-			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=452a1498483f45c1c199093654f161baaa410fcabbaeb77704d6ffcecb3f7ab8</guid>
-			<category>Overige dienstverlening </category>
 			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
