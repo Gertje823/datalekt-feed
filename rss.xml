@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 21 Mar 2025 12:38:02 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 21 Mar 2025 18:26:58 +0000</lastBuildDate>
 		<item>
 			<title>Haagse agent krijgt taakstraf na onrechtmatig opzoeken van privé-informatie in politiesystemen</title>
 			<link>https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie/</link>
@@ -689,14 +689,6 @@
 			<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Overheid, technologie en andere sectoren berispt voor AVG-overtredingen in 2024</title>
-			<link>https://www.autoriteitpersoonsgegevens.nl/over-de-autoriteit-persoonsgegevens/register-berispingen</link>
-			<description>Onbekende organisaties | Overige dienstverlening | 31-12-2024 | DataLekt.nl: In 2024 heeft de Autoriteit Persoonsgegevens zeven berispingen uitgedeeld aan organisaties in diverse sectoren, waaronder overheid, technologie, zorg, onderwijs en zakelijke dienstverlening. De overtredingen betroffen onder meer het zonder grondslag delen van strafrechtelijke gegevens, onrechtmatige internationale gegevensdoorgifte, te lange opslag van persoonsgegevens, en toegang tot medische gegevens zonder expliciete toestemming. Daarnaast werden verwijder- en inzageverzoeken niet tijdig of volledig afgehandeld. Deze incidenten tonen het belang aan van zorgvuldige verwerking van persoonsgegevens en naleving van AVG-regels. (Bron: autoriteitpersoonsgegevens.nl)</description>
-			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/over-de-autoriteit-persoonsgegevens/register-berispingen?datalekt=e11048f168cddb2b68d8be043adc38e13333cd655be3c02b9a7480706cf8f24c</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Politie bewaart ten onrechte gegevens van bijna twintigduizend voormalige verdachten</title>
 			<link>https://www.nporadio1.nl/nieuws/binnenland/dc5cd0a8-e431-4156-b04b-51537cf10e9f/achterstallig-onderhoud-in-database-van-politie-is-ernstige-overtreding-van-privacywetgeving</link>
 			<description>Nationale Politie | Overheid: Politie en brandweer | 27-12-2024 | DataLekt.nl: De politie heeft van bijna twintigduizend mensen onterecht gegevens zoals vingerafdrukken, persoonsgegevens en foto&amp;#039;s in hun database behouden. Deze gegevens hadden gewist moeten worden na seponering van zaken, maar dit gebeurt onvoldoende door achterstallig onderhoud. De Autoriteit Persoonsgegevens noemt dit een ernstige overtreding van de privacywetgeving. De fout kan leiden tot onterechte verdenkingen bij toekomstige aanhoudingen. Justitie en politie werken aan een oplossing, maar dit zal meer dan een jaar duren vanwege de complexiteit. Burgers kunnen zelf navraag doen bij de politie over opgeslagen gegevens. (Bron: nporadio1.nl)</description>
@@ -805,6 +797,14 @@
 			<link>https://tweakers.net/nieuws/229908/ap-geeft-netflix-4-komma-75-miljoen-euro-avg-boete-voor-slecht-privacybeleid.html</link>
 			<description>Netflix | Informatie en communicatie | 18-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Netflix een boete van 4,75 miljoen euro opgelegd wegens meerdere schendingen van de AVG. Het privacybeleid van Netflix was onduidelijk over gegevensverwerking, adverteerders en bewaartermijnen. Ook voldeden inzageverzoeken niet aan de AVG-regels. Deze overtredingen vonden plaats tussen 2018 en 2020, maar Netflix heeft in 2022 verbeteringen doorgevoerd. De boete valt lager uit doordat Netflix meewerkte aan het onderzoek. De overtredingen raken een groot aantal EU-klanten vanwege Netflix&amp;#039; omvang. (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/229908/ap-geeft-netflix-4-komma-75-miljoen-euro-avg-boete-voor-slecht-privacybeleid.html?datalekt=c2c285f62b9d7db64c24cf3b516c682a1bc4f62f3fc8696143d9fc9136224407</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Hack op hostingpartij leidt tot ransomware bij 24 klanten, inclusief maatwerkoplossingen</title>
+			<link>https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter</link>
+			<description>Onbekende ICT organisatie | Informatie en communicatie | 17-12-2024 | DataLekt.nl: Een hostingpartij werd op 14 juni 2024 getroffen door een hack van de LockBit 3.0-groep, die servers, back-ups en data van 24 klanten versleutelde met ransomware. Tien organisaties, waaronder IJskoud, ondervonden ernstige schade door de aanval. De hostingpartij zette een nieuwe omgeving op voor herstel, maar erkent dat het incident vooral klanten met maatwerkoplossingen zwaar trof. Door een gebrek aan strikte data-isolatie konden criminelen grote schade aanrichten. De leverancier heeft verbeteringen aangekondigd, waaronder een strengere scheiding van klantdata en verbeterde back-upstrategieën. (Bron: digitaltrustcenter.nl)</description>
+			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=898fed5820130e254a537b112c1c5f5070ee8991eb0698dcda1abf0bcf8c726d</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
