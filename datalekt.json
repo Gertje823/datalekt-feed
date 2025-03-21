@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie/?datalekt=0743b75ca0550c2b976d1c2dc1729a5b4c7f6087f42abf72b72fd326f8ec14ce",
+        "url": "https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie/",
+        "title": "Haagse agent krijgt taakstraf na onrechtmatig opzoeken van priv\u00e9-informatie in politiesystemen",
+        "date_published": "2025-03-21T12:34:00Z",
+        "date_modified": "2025-03-21T12:34:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "beveiligingnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 20-03-2025 | DataLekt.nl: Een 36-jarige politieagent uit Den Haag heeft een taakstraf van dertig uur gekregen voor computervredebreuk na vier keer zonder geldige reden priv\u00e9-informatie op te zoeken in politiesystemen. De agent gebruikte de systemen voor persoonlijke belangen, wat volgens het Openbaar Ministerie een ernstig misdrijf is vanwege het risico op privacyschending en lekken van politie-informatie. De agent heeft de straf geaccepteerd. (Bron: beveiligingnieuws.nl)"
+    },
+    {
         "id": "https://www.ad.nl/groningen/computersysteem-nijhuis-bouw-aangevallen-mogelijke-datalek-van-huurders-de-huismeesters-groningen~a1c8a183/?datalekt=eb310f1e4a29f33a576949fd7ecce5598a713593e47edb20d957f788bdb57a35",
         "url": "https://www.ad.nl/groningen/computersysteem-nijhuis-bouw-aangevallen-mogelijke-datalek-van-huurders-de-huismeesters-groningen~a1c8a183/",
         "title": "De Huismeesters waarschuwt huurders na mogelijke datalek door cyberaanval bij onderhoudspartner Nijhuis Bouw",
@@ -39,9 +52,9 @@
         "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 13-03-2025 | DataLekt.nl: Op donderdag 13 maart 2025 waren DigiD en aanverwante diensten zoals DigiD Machtigen, BSNk, Digipoort en MijnOverheid tijdelijk beperkt beschikbaar door een ddos-aanval. De storing begon rond 15.00 uur en was binnen veertig minuten verholpen. Tijdens deze periode konden gebruikers mogelijk niet inloggen met hun DigiD. Op Allestoringen.nl werden meer dan drieduizend meldingen van problemen met de overheidsinlogdienst geregistreerd. Eerder deze maand en in januari ondervond DigiD ook al hinder van soortgelijke aanvallen. (Bron: security.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html?datalekt=5378562c56222634800935c48be308d50d88cbb4d70da0898fdabfeac970d8de",
+        "id": "https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html?datalekt=44be56c338fb63b3c91ad22e7f322cb623f93b3be1b89803bee35dcbac54f144",
         "url": "https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html",
-        "title": " Belastingdienst overtrad privacywet met gebruik van Risico Analyse Model",
+        "title": "Belastingdienst overtrad privacywet met gebruik van Risico Analyse Model",
         "date_published": "2025-03-08T14:20:00Z",
         "date_modified": "2025-03-08T14:20:00Z",
         "language": "nl-nl",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Netflix | Informatie en communicatie | 18-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Netflix een boete van 4,75 miljoen euro opgelegd wegens meerdere schendingen van de AVG. Het privacybeleid van Netflix was onduidelijk over gegevensverwerking, adverteerders en bewaartermijnen. Ook voldeden inzageverzoeken niet aan de AVG-regels. Deze overtredingen vonden plaats tussen 2018 en 2020, maar Netflix heeft in 2022 verbeteringen doorgevoerd. De boete valt lager uit doordat Netflix meewerkte aan het onderzoek. De overtredingen raken een groot aantal EU-klanten vanwege Netflix&#039; omvang. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=898fed5820130e254a537b112c1c5f5070ee8991eb0698dcda1abf0bcf8c726d",
-        "url": "https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter",
-        "title": "Hack op hostingpartij leidt tot ransomware bij 24 klanten, inclusief maatwerkoplossingen",
-        "date_published": "2024-12-18T19:45:00Z",
-        "date_modified": "2024-12-18T19:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "digitaltrustcenter.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende ICT organisatie | Informatie en communicatie | 17-12-2024 | DataLekt.nl: Een hostingpartij werd op 14 juni 2024 getroffen door een hack van de LockBit 3.0-groep, die servers, back-ups en data van 24 klanten versleutelde met ransomware. Tien organisaties, waaronder IJskoud, ondervonden ernstige schade door de aanval. De hostingpartij zette een nieuwe omgeving op voor herstel, maar erkent dat het incident vooral klanten met maatwerkoplossingen zwaar trof. Door een gebrek aan strikte data-isolatie konden criminelen grote schade aanrichten. De leverancier heeft verbeteringen aangekondigd, waaronder een strengere scheiding van klantdata en verbeterde back-upstrategie\u00ebn. (Bron: digitaltrustcenter.nl)"
     }
 ]

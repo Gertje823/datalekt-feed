@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 20 Mar 2025 12:37:26 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 21 Mar 2025 12:38:02 +0000</lastBuildDate>
+		<item>
+			<title>Haagse agent krijgt taakstraf na onrechtmatig opzoeken van privé-informatie in politiesystemen</title>
+			<link>https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie/</link>
+			<description>Nationale Politie | Overheid: Politie en brandweer | 20-03-2025 | DataLekt.nl: Een 36-jarige politieagent uit Den Haag heeft een taakstraf van dertig uur gekregen voor computervredebreuk na vier keer zonder geldige reden privé-informatie op te zoeken in politiesystemen. De agent gebruikte de systemen voor persoonlijke belangen, wat volgens het Openbaar Ministerie een ernstig misdrijf is vanwege het risico op privacyschending en lekken van politie-informatie. De agent heeft de straf geaccepteerd. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie/?datalekt=0743b75ca0550c2b976d1c2dc1729a5b4c7f6087f42abf72b72fd326f8ec14ce</guid>
+			<category>Overheid: Politie en brandweer </category>
+			<pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>De Huismeesters waarschuwt huurders na mogelijke datalek door cyberaanval bij onderhoudspartner Nijhuis Bouw</title>
 			<link>https://www.ad.nl/groningen/computersysteem-nijhuis-bouw-aangevallen-mogelijke-datalek-van-huurders-de-huismeesters-groningen~a1c8a183/</link>
@@ -33,10 +41,10 @@
 			<pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title> Belastingdienst overtrad privacywet met gebruik van Risico Analyse Model</title>
+			<title>Belastingdienst overtrad privacywet met gebruik van Risico Analyse Model</title>
 			<link>https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html</link>
 			<description>Belastingdienst | Overheid: Organisatieonderdeel | 07-03-2025 | DataLekt.nl: De Belastingdienst heeft twintig jaar lang het Risico Analyse Model (RAM) gebruikt, een systeem dat gegevens uit diverse bronnen verzamelde en analyseerde om mogelijke fraude op te sporen. Volgens een onderzoek van KPMG voldeed RAM niet aan de toen geldende privacywetgeving, beveiligingsvoorschriften en archiveringsregels. Het systeem werd in mei 2018 uitgeschakeld, vlak voor de invoering van de Algemene Verordening Gegevensbescherming (AVG). Staatssecretaris Van Oostenbruggen betreurt het gebruik van RAM en heeft aangekondigd te onderzoeken of grondrechten zijn geschonden door het gebruik van nationaliteit in de selectiecriteria. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html?datalekt=5378562c56222634800935c48be308d50d88cbb4d70da0898fdabfeac970d8de</guid>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html?datalekt=44be56c338fb63b3c91ad22e7f322cb623f93b3be1b89803bee35dcbac54f144</guid>
 			<category>Overheid: Organisatieonderdeel </category>
 			<pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -797,14 +805,6 @@
 			<link>https://tweakers.net/nieuws/229908/ap-geeft-netflix-4-komma-75-miljoen-euro-avg-boete-voor-slecht-privacybeleid.html</link>
 			<description>Netflix | Informatie en communicatie | 18-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Netflix een boete van 4,75 miljoen euro opgelegd wegens meerdere schendingen van de AVG. Het privacybeleid van Netflix was onduidelijk over gegevensverwerking, adverteerders en bewaartermijnen. Ook voldeden inzageverzoeken niet aan de AVG-regels. Deze overtredingen vonden plaats tussen 2018 en 2020, maar Netflix heeft in 2022 verbeteringen doorgevoerd. De boete valt lager uit doordat Netflix meewerkte aan het onderzoek. De overtredingen raken een groot aantal EU-klanten vanwege Netflix&amp;#039; omvang. (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/229908/ap-geeft-netflix-4-komma-75-miljoen-euro-avg-boete-voor-slecht-privacybeleid.html?datalekt=c2c285f62b9d7db64c24cf3b516c682a1bc4f62f3fc8696143d9fc9136224407</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hack op hostingpartij leidt tot ransomware bij 24 klanten, inclusief maatwerkoplossingen</title>
-			<link>https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter</link>
-			<description>Onbekende ICT organisatie | Informatie en communicatie | 17-12-2024 | DataLekt.nl: Een hostingpartij werd op 14 juni 2024 getroffen door een hack van de LockBit 3.0-groep, die servers, back-ups en data van 24 klanten versleutelde met ransomware. Tien organisaties, waaronder IJskoud, ondervonden ernstige schade door de aanval. De hostingpartij zette een nieuwe omgeving op voor herstel, maar erkent dat het incident vooral klanten met maatwerkoplossingen zwaar trof. Door een gebrek aan strikte data-isolatie konden criminelen grote schade aanrichten. De leverancier heeft verbeteringen aangekondigd, waaronder een strengere scheiding van klantdata en verbeterde back-upstrategieën. (Bron: digitaltrustcenter.nl)</description>
-			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=898fed5820130e254a537b112c1c5f5070ee8991eb0698dcda1abf0bcf8c726d</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
