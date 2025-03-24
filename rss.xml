@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 21 Mar 2025 18:26:58 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 24 Mar 2025 12:40:20 +0000</lastBuildDate>
+		<item>
+			<title>DigiD opnieuw onbereikbaar door DDoS-aanval, overheidsdiensten zoals MijnOverheid getroffen</title>
+			<link>https://tweakers.net/nieuws/233152/digid-was-zondagochtend-niet-bruikbaar-door-ddos-aanval.html</link>
+			<description>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 23-03-2025 | DataLekt.nl: Op 23 maart 2025 was DigiD zondagochtend onbruikbaar door een DDoS-aanval. De storing begon rond 08.20 uur en werd om 10.05 uur opgelost. Hierdoor waren ook overheidsdiensten zoals MijnOverheid slecht bereikbaar en functioneerde de DigiD-app niet. Gebruikers kregen time-outs en konden geen verificatiecode opvragen. Het is onbekend wie achter de herhaalde aanvallen zit. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/233152/digid-was-zondagochtend-niet-bruikbaar-door-ddos-aanval.html?datalekt=9d59d9d6bace9f81b3ffbadfd726e8a8cc254574bebabd1cbeef792602b0fa9a</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>DDoS-aanval legt DigiD opnieuw plat en verhindert inloggen bij Belastingdienst en andere overheidsdiensten</title>
+			<link>https://nos.nl/artikel/2560424-digid-opnieuw-tijdelijk-onbereikbaar-geweest-door-ddos-aanval</link>
+			<description>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 20-03-2025 | DataLekt.nl: Op 20 maart 2025 werd DigiD opnieuw getroffen door een DDoS-aanval waardoor burgers tijdelijk niet konden inloggen bij onder meer de Belastingdienst, DUO, UWV en ziekenhuizen. De aanval begon rond 10.15 uur en was drie kwartier later verholpen. Het is onbekend wie achter de aanval zit. Eerder deze maand veroorzaakten soortgelijke aanvallen al urenlange storingen bij DigiD. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2560424-digid-opnieuw-tijdelijk-onbereikbaar-geweest-door-ddos-aanval?datalekt=deffcdca4d22e1067a778bee123efb65939ba579a66a66c75781d0f5091c707b</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Haagse agent krijgt taakstraf na onrechtmatig opzoeken van privé-informatie in politiesystemen</title>
 			<link>https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie/</link>
@@ -790,22 +806,6 @@
 			<description>Kandelaar Elektrotechniek | Bouwnijverheid | 14-12-2024 | DataLekt.nl: De criminele organisatie BlackLock (Eldorado) heeft op het darkweb aangekondigd dat zij Kandelaar Elektrotechniek heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4e6e86d570dad3dc34c1ed3ae95690dd1b6af2b32723a468b797e4ed369beba5</guid>
 			<category>Bouwnijverheid </category>
-			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Autoriteit Persoonsgegevens legt Netflix boete op van 4,75 miljoen euro voor schending AVG-regels</title>
-			<link>https://tweakers.net/nieuws/229908/ap-geeft-netflix-4-komma-75-miljoen-euro-avg-boete-voor-slecht-privacybeleid.html</link>
-			<description>Netflix | Informatie en communicatie | 18-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Netflix een boete van 4,75 miljoen euro opgelegd wegens meerdere schendingen van de AVG. Het privacybeleid van Netflix was onduidelijk over gegevensverwerking, adverteerders en bewaartermijnen. Ook voldeden inzageverzoeken niet aan de AVG-regels. Deze overtredingen vonden plaats tussen 2018 en 2020, maar Netflix heeft in 2022 verbeteringen doorgevoerd. De boete valt lager uit doordat Netflix meewerkte aan het onderzoek. De overtredingen raken een groot aantal EU-klanten vanwege Netflix&amp;#039; omvang. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/229908/ap-geeft-netflix-4-komma-75-miljoen-euro-avg-boete-voor-slecht-privacybeleid.html?datalekt=c2c285f62b9d7db64c24cf3b516c682a1bc4f62f3fc8696143d9fc9136224407</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hack op hostingpartij leidt tot ransomware bij 24 klanten, inclusief maatwerkoplossingen</title>
-			<link>https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter</link>
-			<description>Onbekende ICT organisatie | Informatie en communicatie | 17-12-2024 | DataLekt.nl: Een hostingpartij werd op 14 juni 2024 getroffen door een hack van de LockBit 3.0-groep, die servers, back-ups en data van 24 klanten versleutelde met ransomware. Tien organisaties, waaronder IJskoud, ondervonden ernstige schade door de aanval. De hostingpartij zette een nieuwe omgeving op voor herstel, maar erkent dat het incident vooral klanten met maatwerkoplossingen zwaar trof. Door een gebrek aan strikte data-isolatie konden criminelen grote schade aanrichten. De leverancier heeft verbeteringen aangekondigd, waaronder een strengere scheiding van klantdata en verbeterde back-upstrategieën. (Bron: digitaltrustcenter.nl)</description>
-			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ijskoud-slachtoffer-van-hack-bij-datacenter?datalekt=898fed5820130e254a537b112c1c5f5070ee8991eb0698dcda1abf0bcf8c726d</guid>
-			<category>Informatie en communicatie </category>
 			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
