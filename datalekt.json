@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling?datalekt=dbe9247bcc136377f0a7decc8d90dc1a6e2282de1032d98c8a69149066498e1c",
+        "url": "https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling",
+        "title": "Nederlandse onderzoeksinstelling lekt gegevens van 35.000 onderzoekers via kwetsbare database op hackerforum",
+        "date_published": "2025-03-26T10:20:00Z",
+        "date_modified": "2025-03-26T10:20:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitleaders.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende onderzoeksinstelling | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 25-03-2025 | DataLekt.nl: Op 25 maart 2025 werd bekend dat een Nederlandse onderzoeksinstelling persoonsgegevens van ruim 35.000 onderzoekers heeft gelekt. Telefoonnummers, e-mailadressen en zwak versleutelde wachtwoorden doken op in een .sql-database op besloten hackerforums in het Deep Web. De verouderde SHA1-versleuteling maakt de gegevens kwetsbaar voor misbruik, zoals phishing of accountovername. Het Centrum voor Cybersecurity, Veiligheid en Technologie (CCVT) ontdekte het lek en adviseerde direct maatregelen om verdere schade te beperken. (Bron: dutchitleaders.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/233152/digid-was-zondagochtend-niet-bruikbaar-door-ddos-aanval.html?datalekt=9d59d9d6bace9f81b3ffbadfd726e8a8cc254574bebabd1cbeef792602b0fa9a",
         "url": "https://tweakers.net/nieuws/233152/digid-was-zondagochtend-niet-bruikbaar-door-ddos-aanval.html",
         "title": "DigiD opnieuw onbereikbaar door DDoS-aanval, overheidsdiensten zoals MijnOverheid getroffen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Spong Advocaten | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 14-12-2024 | DataLekt.nl: Een advocatenkantoor ontving een e-mail met de dreiging dat hun verdediging van een verdachte in de Tarwekamp-zaak gevolgen zou hebben en dat een hackersgroep zou worden ingeschakeld. Kort daarna kreeg het kantoor binnen enkele minuten meer dan 10.000 e-mails. De afzender beweerde namens de bewoners en slachtoffers van de Tarwekamp in Den Haag te spreken, maar hun identiteit is onbekend. Het Openbaar Ministerie neemt de zaak serieus en onderzoekt de bedreiging. Er is geen melding gemaakt van financi\u00eble schade of getroffen personen. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4e6e86d570dad3dc34c1ed3ae95690dd1b6af2b32723a468b797e4ed369beba5",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Kandelaar Elektrotechniek getroffen door ransomware aanval van de criminele organisatie BlackLock (Eldorado)",
-        "date_published": "2024-12-18T20:12:00Z",
-        "date_modified": "2024-12-18T20:12:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Kandelaar Elektrotechniek | Bouwnijverheid | 14-12-2024 | DataLekt.nl: De criminele organisatie BlackLock (Eldorado) heeft op het darkweb aangekondigd dat zij Kandelaar Elektrotechniek heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]

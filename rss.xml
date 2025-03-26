@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 24 Mar 2025 12:40:20 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 26 Mar 2025 12:39:29 +0000</lastBuildDate>
+		<item>
+			<title>Nederlandse onderzoeksinstelling lekt gegevens van 35.000 onderzoekers via kwetsbare database op hackerforum</title>
+			<link>https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling</link>
+			<description>Onbekende onderzoeksinstelling | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 25-03-2025 | DataLekt.nl: Op 25 maart 2025 werd bekend dat een Nederlandse onderzoeksinstelling persoonsgegevens van ruim 35.000 onderzoekers heeft gelekt. Telefoonnummers, e-mailadressen en zwak versleutelde wachtwoorden doken op in een .sql-database op besloten hackerforums in het Deep Web. De verouderde SHA1-versleuteling maakt de gegevens kwetsbaar voor misbruik, zoals phishing of accountovername. Het Centrum voor Cybersecurity, Veiligheid en Technologie (CCVT) ontdekte het lek en adviseerde direct maatregelen om verdere schade te beperken. (Bron: dutchitleaders.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling?datalekt=dbe9247bcc136377f0a7decc8d90dc1a6e2282de1032d98c8a69149066498e1c</guid>
+			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>DigiD opnieuw onbereikbaar door DDoS-aanval, overheidsdiensten zoals MijnOverheid getroffen</title>
 			<link>https://tweakers.net/nieuws/233152/digid-was-zondagochtend-niet-bruikbaar-door-ddos-aanval.html</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://nos.nl/artikel/2548276-advocaat-spong-cyberaanval-vanwege-bijstand-aan-tarwekamp-verdachte?datalekt=a98da853732ad587bda1d05d5df4faadc53a93b941a8aec7b904f2dafbcd655b</guid>
 			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
 			<pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Kandelaar Elektrotechniek getroffen door ransomware aanval van de criminele organisatie BlackLock (Eldorado)</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Kandelaar Elektrotechniek | Bouwnijverheid | 14-12-2024 | DataLekt.nl: De criminele organisatie BlackLock (Eldorado) heeft op het darkweb aangekondigd dat zij Kandelaar Elektrotechniek heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4e6e86d570dad3dc34c1ed3ae95690dd1b6af2b32723a468b797e4ed369beba5</guid>
-			<category>Bouwnijverheid </category>
-			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
