@@ -1,5 +1,70 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ad04c2e853f93185e2b56d6d90831d5fab42bb04261740e2ba0338a60372d61c",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Kyocera Document Solutions Europe getroffen door ransomware aanval van de criminele organisatie Kill Security",
+        "date_published": "2025-04-03T14:28:00Z",
+        "date_modified": "2025-04-03T14:28:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Kyocera Document Solutions Europe | Groot- en detailhandel | 31-03-2025 | DataLekt.nl: De criminele organisatie Kill Security heeft op het darkweb aangekondigd dat zij Kyocera Document Solutions Europe heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=36d0405a61fb8daa143ed62b14b402b7e7c2dfb2bcbd5dc1b7e2f0dbda5567a6",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Assisi getroffen door ransomware aanval van de criminele organisatie Ransomhub",
+        "date_published": "2025-04-03T14:27:00Z",
+        "date_modified": "2025-04-03T14:27:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Assisi | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 29-03-2025 | DataLekt.nl: De criminele organisatie Ransomhub heeft op het darkweb aangekondigd dat zij Assisi heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=80c8044136c669c300a38338c1cb7f674fbf345a108c8513e8442aa71dfc46bb",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Stuwarooij getroffen door ransomware aanval van de criminele organisatie Frag",
+        "date_published": "2025-04-03T14:26:00Z",
+        "date_modified": "2025-04-03T14:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Stuwarooij | Bouwnijverheid | 25-03-2025 | DataLekt.nl: De criminele organisatie Frag heeft op het darkweb aangekondigd dat zij Stuwarooij heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4ac78db0513eb26587e708814fa2edd6e4496387367079e49f4460aede546bb2",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Koninklijke Lemkes getroffen door ransomware aanval van de criminele organisatie CL0P",
+        "date_published": "2025-04-03T14:25:00Z",
+        "date_modified": "2025-04-03T14:25:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Koninklijke Lemkes | Groot- en detailhandel | 25-03-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Koninklijke Lemkes heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html?datalekt=d699c9e8c219aa92e9f6b6e30c62d8444ab671aad5f898d5d44933d2ff0687f6",
+        "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html",
+        "title": "Datalek bij Zaffier: retourenveloppen met financi\u00eble gegevens van 93 inwoners mogelijk onveilig verwerkt",
+        "date_published": "2025-04-03T14:19:00Z",
+        "date_modified": "2025-04-03T14:19:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "noordhollandsdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "Zaffier | Overige dienstverlening | 01-04-2025 | DataLekt.nl: Op 1 april 2025 werd bekend dat Zaffier in de regio Alkmaar een datalek heeft veroorzaakt waarbij gevoelige financi\u00eble informatie van 93 inwoners mogelijk op straat is beland. De betrokkenen moesten persoonlijke gegevens opsturen voor een heronderzoek naar hun uitkering, maar ontvingen daarvoor onjuist geadresseerde retourenveloppen. Hierdoor bestond het risico dat gegevens bij verkeerde ontvangers terechtkwamen. (Bron: noordhollandsdagblad.nl)"
+    },
+    {
         "id": "https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling?datalekt=dbe9247bcc136377f0a7decc8d90dc1a6e2282de1032d98c8a69149066498e1c",
         "url": "https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling",
         "title": "Nederlandse onderzoeksinstelling lekt gegevens van 35.000 onderzoekers via kwetsbare database op hackerforum",
@@ -1233,70 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Hervormde Gemeente Nijkerk | Overige dienstverlening | 21-12-2024 | DataLekt.nl: De Hervormde Gemeente Nijkerk is recent getroffen door een hack op het Kerkelijk Bureau. Hierdoor zijn e-mails verzonden naar diverse personen binnen en buiten de organisatie. Er is geen gevoelige persoonlijke informatie gelekt. De Autoriteit Persoonsgegevens is ge\u00efnformeerd, en extra beveiligingsmaatregelen zijn genomen, zoals de invoering van tweefactorauthenticatie (2FA). Gebruikers van het e-mailadres @hervormdnijkerk.nl wordt geadviseerd hun wachtwoord direct te wijzigen. (Bron: hervormdnijkerk.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/869775/Helft+overheidsdomeinen+voldoet+niet+aan+afgesproken+veiligheidsstandaarden?datalekt=5a5f0ad3944b2fdc4b6b9466d48d26b15faf42056e0c013058ad87facf7d0dcc",
-        "url": "https://www.security.nl/posting/869775/Helft+overheidsdomeinen+voldoet+niet+aan+afgesproken+veiligheidsstandaarden",
-        "title": "Helft van overheidsdomeinen voldoet niet aan veiligheidsstandaarden volgens Forum Standaardisatie",
-        "date_published": "2024-12-23T14:43:00Z",
-        "date_modified": "2024-12-23T14:43:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende overheidsorganisaties | Overheid: Ministeries | 19-12-2024 | DataLekt.nl: De helft van de overheidsdomeinen voldoet niet aan de afgesproken veiligheidsstandaarden, blijkt uit onderzoek van het Forum Standaardisatie. Dit vergroot risico\u2019s op phishing, afluisteren en andere aanvallen. Voor webstandaarden zoals DNSSEC en HSTS blijft vooral de centrale overheid achter, terwijl voor e-mailstandaarden als DKIM en DMARC decentrale overheden tekortschieten. Het Forum adviseert snelle implementatie van veiligheidsmaatregelen en een reductie van het aantal domeinnamen om risico\u2019s te beperken. Ook wordt handhaving van verplichte standaarden aanbevolen. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.oost.nl/nieuws/3164216/ambtenaren-almelo-klikken-massaal-op-phishinglink-31-voerde-ook-inloggegevens-in?datalekt=9ee76ae88fe09cf2b43d2388bed3a2e180d7164d27059c29ba607338d371ac23",
-        "url": "https://www.oost.nl/nieuws/3164216/ambtenaren-almelo-klikken-massaal-op-phishinglink-31-voerde-ook-inloggegevens-in",
-        "title": "Phishingtest onthult zwakke informatiebeveiliging bij gemeente Almelo",
-        "date_published": "2024-12-23T14:42:00Z",
-        "date_modified": "2024-12-23T14:42:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "oost.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Almelo | Overheid: Gemeenten | 18-12-2024 | DataLekt.nl: Een phishingtest uitgevoerd bij de gemeente Almelo door onderzoeksbureau Hoffmann toont aan dat 40% van de medewerkers op een phishinglink klikte en 31% inloggegevens invoerde. De test, in opdracht van de rekenkamer, benadrukt een gebrek aan bewustzijn en kennis rondom informatiebeveiliging. Daarnaast rapporteerde slechts 1,8% de verdachte e-mail. Het rapport concludeert dat er te weinig aandacht is besteed aan informatiebeveiliging, ondanks de erkenning van het belang ervan binnen de organisatie. Momenteel werkt de gemeente aan basiskennis en cultuurverandering om de situatie te verbeteren. (Bron: oost.nl)"
-    },
-    {
-        "id": "https://bnext.nl/nieuws/cyberaanval?datalekt=96ff23374619dd31169caca648b2c9bf46ed52f0e4a8cfad5af35b05587d19f4",
-        "url": "https://bnext.nl/nieuws/cyberaanval",
-        "title": "Cyberaanval op Bnext onderzocht op mogelijke datadiefstal",
-        "date_published": "2024-12-23T14:41:00Z",
-        "date_modified": "2024-12-23T14:41:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "bnext.nl"
-        },
-        "content_html": "",
-        "content_text": "Bnext.nl | Water, afval- en afvalwaterbeheer en sanering | 18-12-2024 | DataLekt.nl: Op 18 december 2024 werd Bnext getroffen door een cyberaanval. Na ontdekking nam de organisatie direct maatregelen en startte een onderzoek naar de impact en mogelijke diefstal van privacygevoelige gegevens. Voor zover bekend hebben de dienstverlening en bedrijfsprocessen geen hinder ondervonden. Indien blijkt dat gegevens zijn gestolen, worden betrokkenen zo snel mogelijk ge\u00efnformeerd. Bnext betreurt het incident en benadrukt zijn inzet op informatiebeveiliging en gegevensbescherming. (Bron: bnext.nl)"
-    },
-    {
-        "id": "https://www.omroepwest.nl/nieuws/4917477/risicos-door-thuiswerkende-ambtenaar-onvoldoende-oog-voor-informatiebeveiliging?datalekt=160225aa845bfbc6de7df9ea59b07cac3d8d1aac70f9a9279d88b57a388ed955",
-        "url": "https://www.omroepwest.nl/nieuws/4917477/risicos-door-thuiswerkende-ambtenaar-onvoldoende-oog-voor-informatiebeveiliging",
-        "title": "Gemeente Den Haag heeft onvoldoende aandacht voor risico\u2019s bij mobiel werken",
-        "date_published": "2024-12-23T14:40:00Z",
-        "date_modified": "2024-12-23T14:40:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepwest.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Den Haag | Overheid: Gemeenten | 16-12-2024 | DataLekt.nl: De Rekenkamer Den Haag concludeert in het rapport Veilig op afstand dat de gemeente Den Haag kwetsbaarheden in informatiebeveiliging heeft door onvoldoende aandacht voor veilig mobiel werken. Ambtenaren werken vaak buiten het stadhuis, met apparaten zoals laptops en smartphones. Dit brengt risico&#039;s zoals virussen en datalekken met zich mee, vooral bij gevoelige informatie. De gemeente mist verplichte trainingen, beleid en goed beheer van apparaten. Hoewel geen directe dreigingen zijn vastgesteld, zijn maatregelen zoals aangescherpte toegangscontroles en trainingen in ontwikkeling. Het college herkent de bevindingen en werkt aan verbeteringen. (Bron: omroepwest.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2548276-advocaat-spong-cyberaanval-vanwege-bijstand-aan-tarwekamp-verdachte?datalekt=a98da853732ad587bda1d05d5df4faadc53a93b941a8aec7b904f2dafbcd655b",
-        "url": "https://nos.nl/artikel/2548276-advocaat-spong-cyberaanval-vanwege-bijstand-aan-tarwekamp-verdachte",
-        "title": "Advocaat ontvangt duizenden e-mails na dreiging vanwege verdediging Tarwekamp-verdachte",
-        "date_published": "2024-12-19T09:29:00Z",
-        "date_modified": "2024-12-19T09:29:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Spong Advocaten | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 14-12-2024 | DataLekt.nl: Een advocatenkantoor ontving een e-mail met de dreiging dat hun verdediging van een verdachte in de Tarwekamp-zaak gevolgen zou hebben en dat een hackersgroep zou worden ingeschakeld. Kort daarna kreeg het kantoor binnen enkele minuten meer dan 10.000 e-mails. De afzender beweerde namens de bewoners en slachtoffers van de Tarwekamp in Den Haag te spreken, maar hun identiteit is onbekend. Het Openbaar Ministerie neemt de zaak serieus en onderzoekt de bedreiging. Er is geen melding gemaakt van financi\u00eble schade of getroffen personen. (Bron: nos.nl)"
     }
 ]
