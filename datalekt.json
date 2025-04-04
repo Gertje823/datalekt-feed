@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/233504/contactlenzenwebshop-lensdeal-waarschuwt-klanten-voor-gestolen-wachtwoorden.html?datalekt=c52c3dcaf2135b7606ea0cc3f04b0d174dc15a686018c4fc8ad3cdb5324e4f82",
+        "url": "https://tweakers.net/nieuws/233504/contactlenzenwebshop-lensdeal-waarschuwt-klanten-voor-gestolen-wachtwoorden.html",
+        "title": "Lensdeal waarschuwt 115.000 klanten voor gestolen gegevens na datalek in oude testdatabase",
+        "date_published": "2025-04-04T13:21:00Z",
+        "date_modified": "2025-04-04T13:21:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Lensdeal | Groot- en detailhandel | 03-04-2025 | DataLekt.nl: Op 3 april 2025 werd bekend dat contactlenzenwebshop Lensdeal is getroffen door een datalek waarbij gegevens van ruim 115.000 klanten op een hackersforum zijn geplaatst. Het gaat om informatie uit een oude testdatabase, waaronder namen, e-mailadressen, geboortedata en mogelijk wachtwoorden. Financi\u00eble gegevens zijn volgens het bedrijf niet geraakt. Lensdeal onderzoekt samen met de politie en Autoriteit Persoonsgegevens de toedracht en roept klanten op hun wachtwoord te wijzigen. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=ad04c2e853f93185e2b56d6d90831d5fab42bb04261740e2ba0338a60372d61c",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Kyocera Document Solutions Europe getroffen door ransomware aanval van de criminele organisatie Kill Security",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Aalberts hfc | Industrie | 23-12-2024 | DataLekt.nl: De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij Aalberts hfc (Flamco) heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://hervormdnijkerk.nl/bericht-met-betrekking-tot-datalek/?datalekt=54bf2ab4bd96ed39d703ae88efce60effa8340c06a886d7251819a821f972482",
-        "url": "https://hervormdnijkerk.nl/bericht-met-betrekking-tot-datalek/",
-        "title": "Hervormde Gemeente Nijkerk getroffen door hack; geen gevoelige gegevens gelekt",
-        "date_published": "2024-12-24T11:30:00Z",
-        "date_modified": "2024-12-24T11:30:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "hervormdnijkerk.nl"
-        },
-        "content_html": "",
-        "content_text": "Hervormde Gemeente Nijkerk | Overige dienstverlening | 21-12-2024 | DataLekt.nl: De Hervormde Gemeente Nijkerk is recent getroffen door een hack op het Kerkelijk Bureau. Hierdoor zijn e-mails verzonden naar diverse personen binnen en buiten de organisatie. Er is geen gevoelige persoonlijke informatie gelekt. De Autoriteit Persoonsgegevens is ge\u00efnformeerd, en extra beveiligingsmaatregelen zijn genomen, zoals de invoering van tweefactorauthenticatie (2FA). Gebruikers van het e-mailadres @hervormdnijkerk.nl wordt geadviseerd hun wachtwoord direct te wijzigen. (Bron: hervormdnijkerk.nl)"
     }
 ]
