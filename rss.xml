@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 04 Apr 2025 12:39:24 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 06 Apr 2025 01:43:16 +0000</lastBuildDate>
+		<item>
+			<title>Argeweb getroffen door aanhoudende DDoS-aanvallen waardoor hostingdiensten langdurig verstoord zijn</title>
+			<link>https://www.dutchitchannel.nl/news/605898/webhoster-argeweb-kampt-met-problemen-door-ddos-aanvallen</link>
+			<description>Argeweb | Informatie en communicatie | 03-04-2025 | DataLekt.nl: Webhoster Argeweb, onderdeel van Yourhosting, werd eind maart 2025 slachtoffer van terugkerende DDoS-aanvallen. Sinds 25 maart ondervonden klanten problemen bij het bereiken van websites door storingen op DNS-servers. Yourhosting nam maatregelen, maar meldde op 1 april dat de aanvallen aanhielden. Extra beveiliging is sindsdien ingezet om de verstoringen tegen te gaan. De exacte herkomst van de aanvallen is onbekend. (Bron: dutchitchannel.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/605898/webhoster-argeweb-kampt-met-problemen-door-ddos-aanvallen?datalekt=699b7755ed0ec277e49c1cfbcf35d84ef6e4d315a65069501d07089a2138ebe1</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Lensdeal waarschuwt 115.000 klanten voor gestolen gegevens na datalek in oude testdatabase</title>
 			<link>https://tweakers.net/nieuws/233504/contactlenzenwebshop-lensdeal-waarschuwt-klanten-voor-gestolen-wachtwoorden.html</link>
@@ -782,14 +790,6 @@
 			<description>Coolblue | Groot- en detailhandel | 24-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Coolblue een boete van 40.000 euro opgelegd wegens het verzamelen van gebruikersgegevens via cookies zonder expliciete toestemming. In 2020 stelde Coolblue vooraf aangevinkte vakjes in voor cookie-toestemming, wat in strijd is met de AVG. Ondanks een waarschuwing in 2019 bleek bij controles in april en mei 2020 dat de werkwijze nog niet was aangepast. Coolblue paste de cookietoepassing in juni 2020 aan, waardoor de boete lager uitviel. Het incident benadrukt het belang van actieve toestemming bij gegevensverzameling. (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/230090/coolblue-krijgt-boete-van-ap-voor-plaatsen-cookies-zonder-toestemming-gebruiker.html?datalekt=890f016ede173487bcfb83d3a3305064663b2aef3bec50bec017d317c48320e2</guid>
 			<category>Groot- en detailhandel </category>
-			<pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Aalberts hfc (Flamco) getroffen door ransomware aanval van de criminele organisatie Qilin</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Aalberts hfc | Industrie | 23-12-2024 | DataLekt.nl: De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij Aalberts hfc (Flamco) heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=fdd9e3c3f37b7523bfdb4775d817652293d4ecc11b9d240433953b9bdc9e1dee</guid>
-			<category>Industrie </category>
 			<pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
