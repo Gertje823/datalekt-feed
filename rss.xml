@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 06 Apr 2025 01:43:16 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 07 Apr 2025 18:27:54 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Arnhem getroffen door datalek na ransomware-aanval op ict-leverancier; gevoelige gegevens online gepubliceerd</title>
+			<link>https://www.security.nl/posting/878120/</link>
+			<description>Gemeente Arnhem | Overheid: Gemeenten | 28-02-2025 | DataLekt.nl: In februari 2025 maakte de gemeente Arnhem bekend dat gevoelige persoonsgegevens van tientallen inwoners zijn gelekt na een ransomware-aanval op een ICT-leverancier. Een deel van de gestolen gegevens werd eind januari online gepubliceerd. De gemeente heeft het datalek gemeld bij de Autoriteit Persoonsgegevens en aangifte gedaan. Getroffen inwoners zijn geïnformeerd en hulp is aangeboden. Het is niet bekend welke gegevens exact zijn buitgemaakt. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/878120/?datalekt=3b87dcbaf25d30bfc3ff94b4bac2180a3cb78ac721718035bb03d3c55baddd1b</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>ICT-leverancier doelwit van ransomware-aanval waarbij persoonsgegevens werden buitgemaakt</title>
+			<link>https://www.security.nl/posting/878120/</link>
+			<description>Onbekende ICT organisatie | Informatie en communicatie | 28-02-2025 | DataLekt.nl: Een onbekende ICT-leverancier van de gemeente Arnhem is in januari 2025 slachtoffer geworden van een ransomware-aanval, waarbij gevoelige persoonsgegevens van tientallen inwoners zijn gestolen en deels online zijn gepubliceerd. Na ontdekking werden de hackers uit het systeem gezet en volgden technische herstelmaatregelen. Het datalek is gemeld bij de Autoriteit Persoonsgegevens en er is aangifte gedaan. De leverancier werkte samen met de gemeente om de omvang van de publicatie vast te stellen. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/878120/?datalekt=a97b71f92307b0c85674e129319fdf8bc2d8cd9634bcac000406d22fa4936006</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Argeweb getroffen door aanhoudende DDoS-aanvallen waardoor hostingdiensten langdurig verstoord zijn</title>
 			<link>https://www.dutchitchannel.nl/news/605898/webhoster-argeweb-kampt-met-problemen-door-ddos-aanvallen</link>
@@ -315,8 +331,8 @@
 		<item>
 			<title>ICT-leverancier veroorzaakt datalek bij gemeente Meerssen na foutieve update</title>
 			<link>https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier</link>
-			<description>Onbekende ICT leverancier | Informatie en communicatie | 06-02-2025 | DataLekt.nl: Een onbekende ICT-leverancier heeft bij een update voor de gemeente Meerssen onbedoeld persoonsgegevens van huidige en voormalige medewerkers openbaar gemaakt. Door de fout werden oude intranetpagina’s geïndexeerd door Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen getroffen om het lek te dichten, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor misbruik van de gelekte gegevens. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=789df8bae17a8c5c6b8d4344721ead93eec2139b32bd83620d6dc163e23c4934</guid>
+			<description>Onbekende ICT organisatie | Informatie en communicatie | 06-02-2025 | DataLekt.nl: Een onbekende ICT-leverancier heeft bij een update voor de gemeente Meerssen onbedoeld persoonsgegevens van huidige en voormalige medewerkers openbaar gemaakt. Door de fout werden oude intranetpagina’s geïndexeerd door Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen getroffen om het lek te dichten, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor misbruik van de gelekte gegevens. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=6d6e187af01a9ae7051a3fd153504ce7bb90d240fce1ce22857e592a83739fd6</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -775,22 +791,6 @@
 			<guid isPermaLink="false">https://www.nporadio1.nl/nieuws/binnenland/dc5cd0a8-e431-4156-b04b-51537cf10e9f/achterstallig-onderhoud-in-database-van-politie-is-ernstige-overtreding-van-privacywetgeving?datalekt=08e6168e28d6bd13ca919d8cd0399ee236defdc30c2415d4eb7600af9c89a42f</guid>
 			<category>Overheid: Politie en brandweer </category>
 			<pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Bouwmarkt Groenhart getroffen door ransomwareaanval; klantgegevens buitgemaakt</title>
-			<link>https://tweakers.net/nieuws/230092/bouwmarkt-groenhart-getroffen-door-ransomwareaanval-gegevens-klanten-gestolen.html</link>
-			<description>Groenhart | Groot- en detailhandel | 24-12-2024 | DataLekt.nl: De Noord-Hollandse bouwmarkt Groenhart is slachtoffer geworden van een ransomwareaanval, waarbij zakelijke e-mailadressen en kopieën van facturen van klanten zijn gestolen. De aanval werd op vrijdag 22 december 2024 ontdekt, en de systemen van Groenhart zijn nog offline. Het bedrijf heeft een melding gedaan bij de Autoriteit Persoonsgegevens en adviseert klanten om alert te zijn op phishing en verdachte communicatie. Er lijkt geen verlies van ordergegevens te zijn door de beschikbaarheid van back-ups. De identiteit van de daders is onbekend, en een onderzoek naar de aanval loopt nog. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/230092/bouwmarkt-groenhart-getroffen-door-ransomwareaanval-gegevens-klanten-gestolen.html?datalekt=5246c4570cde8883fee5ce01c67b2639afe9f81824dd44061a0cd4da20f9a213</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Coolblue beboet door Autoriteit Persoonsgegevens voor gebruik cookies zonder toestemming</title>
-			<link>https://tweakers.net/nieuws/230090/coolblue-krijgt-boete-van-ap-voor-plaatsen-cookies-zonder-toestemming-gebruiker.html</link>
-			<description>Coolblue | Groot- en detailhandel | 24-12-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Coolblue een boete van 40.000 euro opgelegd wegens het verzamelen van gebruikersgegevens via cookies zonder expliciete toestemming. In 2020 stelde Coolblue vooraf aangevinkte vakjes in voor cookie-toestemming, wat in strijd is met de AVG. Ondanks een waarschuwing in 2019 bleek bij controles in april en mei 2020 dat de werkwijze nog niet was aangepast. Coolblue paste de cookietoepassing in juni 2020 aan, waardoor de boete lager uitviel. Het incident benadrukt het belang van actieve toestemming bij gegevensverzameling. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/230090/coolblue-krijgt-boete-van-ap-voor-plaatsen-cookies-zonder-toestemming-gebruiker.html?datalekt=890f016ede173487bcfb83d3a3305064663b2aef3bec50bec017d317c48320e2</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>UWV meldt 769 datalekken in 2024, waaronder vier met grote impact</title>
