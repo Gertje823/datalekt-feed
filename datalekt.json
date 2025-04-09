@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=79ab21a7e0dc0c11facd4f154de00ee9c7362b335828fe707477594d4c763e2a",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Thiekon Constructie getroffen door ransomware aanval van de criminele organisatie Incransom",
+        "date_published": "2025-04-09T11:47:00Z",
+        "date_modified": "2025-04-09T11:47:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Thiekon Constructie | Bouwnijverheid | 08-04-2025 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij Thiekon Constructie heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/878120/?datalekt=3b87dcbaf25d30bfc3ff94b4bac2180a3cb78ac721718035bb03d3c55baddd1b",
         "url": "https://www.security.nl/posting/878120/",
         "title": "Gemeente Arnhem getroffen door datalek na ransomware-aanval op ict-leverancier; gevoelige gegevens online gepubliceerd",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Nationale Politie | Overheid: Politie en brandweer | 27-12-2024 | DataLekt.nl: De politie heeft van bijna twintigduizend mensen onterecht gegevens zoals vingerafdrukken, persoonsgegevens en foto&#039;s in hun database behouden. Deze gegevens hadden gewist moeten worden na seponering van zaken, maar dit gebeurt onvoldoende door achterstallig onderhoud. De Autoriteit Persoonsgegevens noemt dit een ernstige overtreding van de privacywetgeving. De fout kan leiden tot onterechte verdenkingen bij toekomstige aanhoudingen. Justitie en politie werken aan een oplossing, maar dit zal meer dan een jaar duren vanwege de complexiteit. Burgers kunnen zelf navraag doen bij de politie over opgeslagen gegevens. (Bron: nporadio1.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/869884/UWV+meldde+dit+jaar+al+769+datalekken+bij+AP%2C+vier+met+grote+impact?datalekt=b87245bef41411a932bf11f853e2858735a0f0d86fecf2380d27e64d884fa8a0",
-        "url": "https://www.security.nl/posting/869884/UWV+meldde+dit+jaar+al+769+datalekken+bij+AP%2C+vier+met+grote+impact",
-        "title": "UWV meldt 769 datalekken in 2024, waaronder vier met grote impact",
-        "date_published": "2024-12-23T14:44:00Z",
-        "date_modified": "2024-12-25T10:40:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 20-12-2024 | DataLekt.nl: In de eerste tien maanden van 2024 heeft het UWV 769 datalekken bij de Autoriteit Persoonsgegevens gemeld, waarvan vier met grote impact. Een van deze incidenten betrof een inbraak op een videoplatform, waarbij gegevens van 378 cli\u00ebnten, tolken en UWV-medewerkers mogelijk zijn buitgemaakt. Daarnaast werden op 4 mei via werk.nl 150.000 cv&#039;s ongeoorloofd bekeken en mogelijk gedownload. Ook gingen door een brand in een bestelbus fysieke dossiers verloren, en zorgde een verouderde applicatie bij de Belastingdienst voor dubbele aangiftes, wat leidde tot mogelijke fouten in inkomensgegevens. Het UWV heeft de betrokkenen ge\u00efnformeerd en stelt dat de gevolgen voor uitkeringsgerechtigden beperkt waren. (Bron: security.nl)"
     }
 ]
