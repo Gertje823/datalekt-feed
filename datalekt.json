@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://pvo-nl.nl/ervaringen/ondernemer-jose-werd-slachtoffer-van-factuurfraude-klant-betaalde-een-hacker-in-plaats-van-haar/?datalekt=928ee7aa043c73cbca4eff4c47790a000ab0d9f8a5793d918eeb3b2c59db3fb4",
+        "url": "https://pvo-nl.nl/ervaringen/ondernemer-jose-werd-slachtoffer-van-factuurfraude-klant-betaalde-een-hacker-in-plaats-van-haar/",
+        "title": "Boomkwekerij Huijbregts slachtoffer van factuurfraude na e-mailinbraak door hacker",
+        "date_published": "2025-04-10T16:45:00Z",
+        "date_modified": "2025-04-10T16:45:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "pvo-nl.nl"
+        },
+        "content_html": "",
+        "content_text": "Boomkwekerij Huijbregts | Landbouw, bosbouw en visserij | 08-04-2025 | DataLekt.nl: In april 2025 werd bekend dat Boomkwekerij Huijbregts slachtoffer is geworden van factuurfraude. Een hacker kreeg toegang tot het e-mailverkeer met een klant en onderschepte een factuur, waarbij alleen het rekeningnummer werd aangepast. Hierdoor werd een groot bedrag overgemaakt naar een buitenlandse rekening in plaats van naar de kwekerij. De systemen van Huijbregts zelf bleken niet gehackt, maar het financi\u00eble verlies was aanzienlijk. De onderneming waarschuwt andere bedrijven alert te zijn. (Bron: pvo-nl.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=79ab21a7e0dc0c11facd4f154de00ee9c7362b335828fe707477594d4c763e2a",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Thiekon Constructie getroffen door ransomware aanval van de criminele organisatie Incransom",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Universiteit Maastricht | Onderwijs | 30-12-2024 | DataLekt.nl: Op 30 december 2024 werd Universiteit Maastricht getroffen door een vermoedelijke DDoS-aanval, waardoor delen van de website tijdelijk onbereikbaar waren. ICT-medewerkers wisten de aanval te stoppen door kwaadaardige adressen te blokkeren. De daders van de aanval zijn nog onbekend. De aanval valt op omdat deze plaatsvond exact vijf jaar na een eerdere hack waarbij de universiteit losgeld in Bitcoin betaalde. Door de stijgende Bitcoin-waarde behaalde de universiteit later een financieel voordeel. (Bron: denieuwestermaastricht.nl)"
-    },
-    {
-        "id": "https://www.nporadio1.nl/nieuws/binnenland/dc5cd0a8-e431-4156-b04b-51537cf10e9f/achterstallig-onderhoud-in-database-van-politie-is-ernstige-overtreding-van-privacywetgeving?datalekt=08e6168e28d6bd13ca919d8cd0399ee236defdc30c2415d4eb7600af9c89a42f",
-        "url": "https://www.nporadio1.nl/nieuws/binnenland/dc5cd0a8-e431-4156-b04b-51537cf10e9f/achterstallig-onderhoud-in-database-van-politie-is-ernstige-overtreding-van-privacywetgeving",
-        "title": "Politie bewaart ten onrechte gegevens van bijna twintigduizend voormalige verdachten",
-        "date_published": "2024-12-30T09:52:00Z",
-        "date_modified": "2024-12-30T09:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nporadio1.nl"
-        },
-        "content_html": "",
-        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 27-12-2024 | DataLekt.nl: De politie heeft van bijna twintigduizend mensen onterecht gegevens zoals vingerafdrukken, persoonsgegevens en foto&#039;s in hun database behouden. Deze gegevens hadden gewist moeten worden na seponering van zaken, maar dit gebeurt onvoldoende door achterstallig onderhoud. De Autoriteit Persoonsgegevens noemt dit een ernstige overtreding van de privacywetgeving. De fout kan leiden tot onterechte verdenkingen bij toekomstige aanhoudingen. Justitie en politie werken aan een oplossing, maar dit zal meer dan een jaar duren vanwege de complexiteit. Burgers kunnen zelf navraag doen bij de politie over opgeslagen gegevens. (Bron: nporadio1.nl)"
     }
 ]

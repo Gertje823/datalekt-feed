@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 09 Apr 2025 12:40:39 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 10 Apr 2025 18:25:47 +0000</lastBuildDate>
+		<item>
+			<title>Boomkwekerij Huijbregts slachtoffer van factuurfraude na e-mailinbraak door hacker</title>
+			<link>https://pvo-nl.nl/ervaringen/ondernemer-jose-werd-slachtoffer-van-factuurfraude-klant-betaalde-een-hacker-in-plaats-van-haar/</link>
+			<description>Boomkwekerij Huijbregts | Landbouw, bosbouw en visserij | 08-04-2025 | DataLekt.nl: In april 2025 werd bekend dat Boomkwekerij Huijbregts slachtoffer is geworden van factuurfraude. Een hacker kreeg toegang tot het e-mailverkeer met een klant en onderschepte een factuur, waarbij alleen het rekeningnummer werd aangepast. Hierdoor werd een groot bedrag overgemaakt naar een buitenlandse rekening in plaats van naar de kwekerij. De systemen van Huijbregts zelf bleken niet gehackt, maar het financiële verlies was aanzienlijk. De onderneming waarschuwt andere bedrijven alert te zijn. (Bron: pvo-nl.nl)</description>
+			<guid isPermaLink="false">https://pvo-nl.nl/ervaringen/ondernemer-jose-werd-slachtoffer-van-factuurfraude-klant-betaalde-een-hacker-in-plaats-van-haar/?datalekt=928ee7aa043c73cbca4eff4c47790a000ab0d9f8a5793d918eeb3b2c59db3fb4</guid>
+			<category>Landbouw, bosbouw en visserij </category>
+			<pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Thiekon Constructie getroffen door ransomware aanval van de criminele organisatie Incransom</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -791,14 +799,6 @@
 			<guid isPermaLink="false">https://www.denieuwestermaastricht.nl/digitale-aanval-op-universiteit-maastricht/?datalekt=e4178ebbc06b9b8a17792109a7fcd46e99168c6ec230094db3c38975a3005b7e</guid>
 			<category>Onderwijs </category>
 			<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Politie bewaart ten onrechte gegevens van bijna twintigduizend voormalige verdachten</title>
-			<link>https://www.nporadio1.nl/nieuws/binnenland/dc5cd0a8-e431-4156-b04b-51537cf10e9f/achterstallig-onderhoud-in-database-van-politie-is-ernstige-overtreding-van-privacywetgeving</link>
-			<description>Nationale Politie | Overheid: Politie en brandweer | 27-12-2024 | DataLekt.nl: De politie heeft van bijna twintigduizend mensen onterecht gegevens zoals vingerafdrukken, persoonsgegevens en foto&amp;#039;s in hun database behouden. Deze gegevens hadden gewist moeten worden na seponering van zaken, maar dit gebeurt onvoldoende door achterstallig onderhoud. De Autoriteit Persoonsgegevens noemt dit een ernstige overtreding van de privacywetgeving. De fout kan leiden tot onterechte verdenkingen bij toekomstige aanhoudingen. Justitie en politie werken aan een oplossing, maar dit zal meer dan een jaar duren vanwege de complexiteit. Burgers kunnen zelf navraag doen bij de politie over opgeslagen gegevens. (Bron: nporadio1.nl)</description>
-			<guid isPermaLink="false">https://www.nporadio1.nl/nieuws/binnenland/dc5cd0a8-e431-4156-b04b-51537cf10e9f/achterstallig-onderhoud-in-database-van-politie-is-ernstige-overtreding-van-privacywetgeving?datalekt=08e6168e28d6bd13ca919d8cd0399ee236defdc30c2415d4eb7600af9c89a42f</guid>
-			<category>Overheid: Politie en brandweer </category>
-			<pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Website gemeenteraad Almere gehackt; mogelijk gegevens gestolen</title>
