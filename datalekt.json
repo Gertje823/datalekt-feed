@@ -1,5 +1,57 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=208e80bbdee852c40bc62ac6ad42bf2f36502b6673989d9003f8f7348b704396",
+        "url": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html",
+        "title": "Ministerie van Klimaat en Groene Groei betrokken bij datalek",
+        "date_published": "2025-04-11T13:10:00Z",
+        "date_modified": "2025-04-11T13:10:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Klimaat en Groene Groei | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Het Ministerie van Klimaat en Groene Groei is betrokken bij een datalek waarbij ambtenarennamen en e-mailadressen zijn uitgelekt via metadata in documenten op overheidssites. De metadata had bij publicatie verwijderd moeten worden, maar dat gebeurde niet. De oorzaak en omvang van het lek worden nog onderzocht. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=85cfafe650d17379b8a7dc88920b0ad8241f1411a0cd15dac084f1e23304acfa",
+        "url": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html",
+        "title": "Metadatafout leidt tot datalek bij Ministerie van Binnenlandse Zaken",
+        "date_published": "2025-04-11T13:09:00Z",
+        "date_modified": "2025-04-11T13:09:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Door een fout bij het verwijderen van metadata in gepubliceerde documenten zijn namen en e-mailadressen van ambtenaren van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties uitgelekt. Het is nog onduidelijk hoeveel documenten zijn getroffen. De fout kan het gevolg zijn van een technische of menselijke oorzaak. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=32f93a2b0588c9982cd6aa268d6ea8eb6c70d7b588a2224f1c61c2a10d663e4a",
+        "url": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html",
+        "title": "Ministerie van Economische Zaken lekt namen en e-mailadressen van ambtenaren",
+        "date_published": "2025-04-11T13:08:00Z",
+        "date_modified": "2025-04-11T13:08:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Economische Zaken | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Bij het Ministerie van Economische Zaken zijn namen en e-mailadressen van ambtenaren uitgelekt doordat metadata bij het publiceren van documenten op overheidswebsites niet correct werd verwijderd. Deze fout maakte het mogelijk om te achterhalen wie documenten had opgesteld. De omvang van het datalek is nog onbekend en wordt onderzocht. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://www.security.nl/posting/883608/Logius%3A+DigiD+%27beperkt+beschikbaar%27+als+gevolg+van+ddos-aanvallen?datalekt=d37ea2d74f6b5bf1110c52369a5b29f3c91c5e249c3a7cd213fe18a51b3fe69a",
+        "url": "https://www.security.nl/posting/883608/Logius%3A+DigiD+%27beperkt+beschikbaar%27+als+gevolg+van+ddos-aanvallen",
+        "title": "DigiD opnieuw tijdelijk onbereikbaar door slimme en gerichte DDoS-aanvallen op overheidsdiensten",
+        "date_published": "2025-04-11T13:07:00Z",
+        "date_modified": "2025-04-11T13:07:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 09-04-2025 | DataLekt.nl: Op 9 april 2025 werd DigiD wederom beperkt beschikbaar door een DDoS-aanval, waarbij duizenden gebruikers inlogproblemen meldden. Beheerder Logius constateert sinds januari een nieuw type aanval: slimmer, gerichter en moeilijker te detecteren. Deze aanvallen veroorzaken kortdurende storingen, met ditmaal een onderbreking van ruim twee uur. DigiD was rond 14.46 uur weer bereikbaar. Logius werkt aan aangepaste verdedigingsstrategie\u00ebn. (Bron: security.nl)"
+    },
+    {
         "id": "https://pvo-nl.nl/ervaringen/ondernemer-jose-werd-slachtoffer-van-factuurfraude-klant-betaalde-een-hacker-in-plaats-van-haar/?datalekt=928ee7aa043c73cbca4eff4c47790a000ab0d9f8a5793d918eeb3b2c59db3fb4",
         "url": "https://pvo-nl.nl/ervaringen/ondernemer-jose-werd-slachtoffer-van-factuurfraude-klant-betaalde-een-hacker-in-plaats-van-haar/",
         "title": "Boomkwekerij Huijbregts slachtoffer van factuurfraude na e-mailinbraak door hacker",
@@ -1246,57 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Podotherapie Hermanns | Gezondheids- en welzijnszorg | 13-01-2025 | DataLekt.nl: Podotherapie Hermanns, met 250 locaties in Nederland en 4 in Maastricht, meldde een datalek waarbij toegang werd verkregen tot klantgegevens zoals adressen, telefoonnummers, BSN&#039;s en declaratiegegevens. Medische gegevens bleven veilig in een aparte omgeving. Het incident is gemeld bij de Autoriteit Persoonsgegevens en de politie. Klanten worden geadviseerd alert te zijn op phishing en verdachte activiteiten bij zorgverzekeraars te controleren. Het onderzoek naar het incident loopt, en klanten worden persoonlijk ge\u00efnformeerd indien hun gegevens daadwerkelijk zijn ingezien. (Bron: rtvmaastricht.nl)"
-    },
-    {
-        "id": "https://dtvnieuws.nl/nieuws/artikel/universiteit-jheronimus-academy-of-data-science-in-den-bosch-heeft-last-van-cyberaanval?datalekt=26bee081869b4b7b0ee4ae07570b5f3524799901edec89480dcb8ad71c79972c",
-        "url": "https://dtvnieuws.nl/nieuws/artikel/universiteit-jheronimus-academy-of-data-science-in-den-bosch-heeft-last-van-cyberaanval",
-        "title": "Cyberaanval legt onderwijs stil bij Jheronimus Academy of Data Science in Den Bosch",
-        "date_published": "2025-01-15T19:45:00Z",
-        "date_modified": "2025-01-15T19:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dtvnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Jheronimus Academy of Data Science (JADS) | Onderwijs | 13-01-2025 | DataLekt.nl: De Jheronimus Academy of Data Science (JADS) in Den Bosch is indirect getroffen door een cyberaanval, waardoor het computernetwerk offline is gehaald om ergere gevolgen te voorkomen. Hierdoor zijn lessen geschrapt, en studenten kunnen geen gebruik maken van wifi, e-mail of Microsoft Teams. De aanval lijkt afkomstig van georganiseerde misdaad, en er wordt forensisch onderzoek uitgevoerd. Hoewel de impact momenteel beperkt blijft tot het stilleggen van het onderwijs, blijft waakzaamheid geboden. De JADS is afhankelijk van het netwerk van de TU Eindhoven waar de cyberaanval plaatsvond. (Bron: dtvnieuws.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4a95a14d50e5a62ff3e64d9d3182759fcc598a3c507d4b0bd591cf75a5a0ebb7",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Aalberts Bnext getroffen door ransomware aanval van de criminele organisatie BlackBasta",
-        "date_published": "2025-01-12T15:35:00Z",
-        "date_modified": "2025-01-12T15:35:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Bnext | Water, afval- en afvalwaterbeheer en sanering | 11-01-2025 | DataLekt.nl: De criminele organisatie BlackBasta heeft op het darkweb aangekondigd dat zij Bnext heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6341248/x-account-van-klm-gehackt-berichten-over-cryptovaluta-verspreid.html?datalekt=c215d39740e6c89a29d4746896767bb89aafb27bb8ade5c0ca96800681a7d643",
-        "url": "https://www.nu.nl/tech/6341248/x-account-van-klm-gehackt-berichten-over-cryptovaluta-verspreid.html",
-        "title": "X-account van KLM gehackt; berichten over cryptovaluta verspreid",
-        "date_published": "2025-01-07T12:28:00Z",
-        "date_modified": "2025-01-07T12:28:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Koninklijke Luchtvaart Maatschappij (KLM) | Vervoer en opslag | 04-01-2025 | DataLekt.nl: Het X-account van KLM werd begin januari 2025 gehackt, waarbij drie berichten over cryptovaluta werden geplaatst. De berichten verwezen naar de cryptomunt Solana en een cryptoplatform, met teksten die cryptohandel en AI-agents benadrukten. KLM heeft het account hersteld en extra beveiligingsmaatregelen genomen om toekomstige hacks te voorkomen. De luchtvaartmaatschappij onderzoekt de daders. Er zijn geen klantgegevens gelekt, en KLM gebruikt X sinds 2023 niet meer voor klantenservice. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.denieuwestermaastricht.nl/digitale-aanval-op-universiteit-maastricht/?datalekt=e4178ebbc06b9b8a17792109a7fcd46e99168c6ec230094db3c38975a3005b7e",
-        "url": "https://www.denieuwestermaastricht.nl/digitale-aanval-op-universiteit-maastricht/",
-        "title": "DDoS-aanval op Universiteit Maastricht veroorzaakt weinig impact",
-        "date_published": "2025-01-02T14:19:00Z",
-        "date_modified": "2025-01-02T14:19:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "denieuwestermaastricht.nl"
-        },
-        "content_html": "",
-        "content_text": "Universiteit Maastricht | Onderwijs | 30-12-2024 | DataLekt.nl: Op 30 december 2024 werd Universiteit Maastricht getroffen door een vermoedelijke DDoS-aanval, waardoor delen van de website tijdelijk onbereikbaar waren. ICT-medewerkers wisten de aanval te stoppen door kwaadaardige adressen te blokkeren. De daders van de aanval zijn nog onbekend. De aanval valt op omdat deze plaatsvond exact vijf jaar na een eerdere hack waarbij de universiteit losgeld in Bitcoin betaalde. Door de stijgende Bitcoin-waarde behaalde de universiteit later een financieel voordeel. (Bron: denieuwestermaastricht.nl)"
     }
 ]

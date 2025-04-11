@@ -7,7 +7,39 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 10 Apr 2025 18:25:47 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 11 Apr 2025 12:39:51 +0000</lastBuildDate>
+		<item>
+			<title>Ministerie van Klimaat en Groene Groei betrokken bij datalek</title>
+			<link>https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html</link>
+			<description>Ministerie van Klimaat en Groene Groei | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Het Ministerie van Klimaat en Groene Groei is betrokken bij een datalek waarbij ambtenarennamen en e-mailadressen zijn uitgelekt via metadata in documenten op overheidssites. De metadata had bij publicatie verwijderd moeten worden, maar dat gebeurde niet. De oorzaak en omvang van het lek worden nog onderzocht. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=208e80bbdee852c40bc62ac6ad42bf2f36502b6673989d9003f8f7348b704396</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Metadatafout leidt tot datalek bij Ministerie van Binnenlandse Zaken</title>
+			<link>https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html</link>
+			<description>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Door een fout bij het verwijderen van metadata in gepubliceerde documenten zijn namen en e-mailadressen van ambtenaren van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties uitgelekt. Het is nog onduidelijk hoeveel documenten zijn getroffen. De fout kan het gevolg zijn van een technische of menselijke oorzaak. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=85cfafe650d17379b8a7dc88920b0ad8241f1411a0cd15dac084f1e23304acfa</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ministerie van Economische Zaken lekt namen en e-mailadressen van ambtenaren</title>
+			<link>https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html</link>
+			<description>Ministerie van Economische Zaken | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Bij het Ministerie van Economische Zaken zijn namen en e-mailadressen van ambtenaren uitgelekt doordat metadata bij het publiceren van documenten op overheidswebsites niet correct werd verwijderd. Deze fout maakte het mogelijk om te achterhalen wie documenten had opgesteld. De omvang van het datalek is nog onbekend en wordt onderzocht. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=32f93a2b0588c9982cd6aa268d6ea8eb6c70d7b588a2224f1c61c2a10d663e4a</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>DigiD opnieuw tijdelijk onbereikbaar door slimme en gerichte DDoS-aanvallen op overheidsdiensten</title>
+			<link>https://www.security.nl/posting/883608/Logius%3A+DigiD+%27beperkt+beschikbaar%27+als+gevolg+van+ddos-aanvallen</link>
+			<description>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 09-04-2025 | DataLekt.nl: Op 9 april 2025 werd DigiD wederom beperkt beschikbaar door een DDoS-aanval, waarbij duizenden gebruikers inlogproblemen meldden. Beheerder Logius constateert sinds januari een nieuw type aanval: slimmer, gerichter en moeilijker te detecteren. Deze aanvallen veroorzaken kortdurende storingen, met ditmaal een onderbreking van ruim twee uur. DigiD was rond 14.46 uur weer bereikbaar. Logius werkt aan aangepaste verdedigingsstrategieën. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/883608/Logius%3A+DigiD+%27beperkt+beschikbaar%27+als+gevolg+van+ddos-aanvallen?datalekt=d37ea2d74f6b5bf1110c52369a5b29f3c91c5e249c3a7cd213fe18a51b3fe69a</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Boomkwekerij Huijbregts slachtoffer van factuurfraude na e-mailinbraak door hacker</title>
 			<link>https://pvo-nl.nl/ervaringen/ondernemer-jose-werd-slachtoffer-van-factuurfraude-klant-betaalde-een-hacker-in-plaats-van-haar/</link>
@@ -761,44 +793,12 @@
 			<pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Cyberaanval legt onderwijs stil bij Jheronimus Academy of Data Science in Den Bosch</title>
-			<link>https://dtvnieuws.nl/nieuws/artikel/universiteit-jheronimus-academy-of-data-science-in-den-bosch-heeft-last-van-cyberaanval</link>
-			<description>Jheronimus Academy of Data Science (JADS) | Onderwijs | 13-01-2025 | DataLekt.nl: De Jheronimus Academy of Data Science (JADS) in Den Bosch is indirect getroffen door een cyberaanval, waardoor het computernetwerk offline is gehaald om ergere gevolgen te voorkomen. Hierdoor zijn lessen geschrapt, en studenten kunnen geen gebruik maken van wifi, e-mail of Microsoft Teams. De aanval lijkt afkomstig van georganiseerde misdaad, en er wordt forensisch onderzoek uitgevoerd. Hoewel de impact momenteel beperkt blijft tot het stilleggen van het onderwijs, blijft waakzaamheid geboden. De JADS is afhankelijk van het netwerk van de TU Eindhoven waar de cyberaanval plaatsvond. (Bron: dtvnieuws.nl)</description>
-			<guid isPermaLink="false">https://dtvnieuws.nl/nieuws/artikel/universiteit-jheronimus-academy-of-data-science-in-den-bosch-heeft-last-van-cyberaanval?datalekt=26bee081869b4b7b0ee4ae07570b5f3524799901edec89480dcb8ad71c79972c</guid>
-			<category>Onderwijs </category>
-			<pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
 			<link>https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html</link>
 			<description>Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld geëist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=1e3b53e5e6667f2a6795e3d54ba6eba7577ea64181354e4f27128e991bfd6002</guid>
 			<category>Onderwijs </category>
 			<pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Aalberts Bnext getroffen door ransomware aanval van de criminele organisatie BlackBasta</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Bnext | Water, afval- en afvalwaterbeheer en sanering | 11-01-2025 | DataLekt.nl: De criminele organisatie BlackBasta heeft op het darkweb aangekondigd dat zij Bnext heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4a95a14d50e5a62ff3e64d9d3182759fcc598a3c507d4b0bd591cf75a5a0ebb7</guid>
-			<category>Water, afval- en afvalwaterbeheer en sanering </category>
-			<pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>X-account van KLM gehackt; berichten over cryptovaluta verspreid</title>
-			<link>https://www.nu.nl/tech/6341248/x-account-van-klm-gehackt-berichten-over-cryptovaluta-verspreid.html</link>
-			<description>Koninklijke Luchtvaart Maatschappij (KLM) | Vervoer en opslag | 04-01-2025 | DataLekt.nl: Het X-account van KLM werd begin januari 2025 gehackt, waarbij drie berichten over cryptovaluta werden geplaatst. De berichten verwezen naar de cryptomunt Solana en een cryptoplatform, met teksten die cryptohandel en AI-agents benadrukten. KLM heeft het account hersteld en extra beveiligingsmaatregelen genomen om toekomstige hacks te voorkomen. De luchtvaartmaatschappij onderzoekt de daders. Er zijn geen klantgegevens gelekt, en KLM gebruikt X sinds 2023 niet meer voor klantenservice. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6341248/x-account-van-klm-gehackt-berichten-over-cryptovaluta-verspreid.html?datalekt=c215d39740e6c89a29d4746896767bb89aafb27bb8ade5c0ca96800681a7d643</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DDoS-aanval op Universiteit Maastricht veroorzaakt weinig impact</title>
-			<link>https://www.denieuwestermaastricht.nl/digitale-aanval-op-universiteit-maastricht/</link>
-			<description>Universiteit Maastricht | Onderwijs | 30-12-2024 | DataLekt.nl: Op 30 december 2024 werd Universiteit Maastricht getroffen door een vermoedelijke DDoS-aanval, waardoor delen van de website tijdelijk onbereikbaar waren. ICT-medewerkers wisten de aanval te stoppen door kwaadaardige adressen te blokkeren. De daders van de aanval zijn nog onbekend. De aanval valt op omdat deze plaatsvond exact vijf jaar na een eerdere hack waarbij de universiteit losgeld in Bitcoin betaalde. Door de stijgende Bitcoin-waarde behaalde de universiteit later een financieel voordeel. (Bron: denieuwestermaastricht.nl)</description>
-			<guid isPermaLink="false">https://www.denieuwestermaastricht.nl/digitale-aanval-op-universiteit-maastricht/?datalekt=e4178ebbc06b9b8a17792109a7fcd46e99168c6ec230094db3c38975a3005b7e</guid>
-			<category>Onderwijs </category>
-			<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Website gemeenteraad Almere gehackt; mogelijk gegevens gestolen</title>
