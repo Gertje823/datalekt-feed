@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 11 Apr 2025 12:39:51 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 15 Apr 2025 12:40:31 +0000</lastBuildDate>
 		<item>
 			<title>Ministerie van Klimaat en Groene Groei betrokken bij datalek</title>
 			<link>https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html</link>
@@ -785,14 +785,6 @@
 			<pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Datalek bij podotherapeut Hermanns treft duizenden klanten</title>
-			<link>https://rtvmaastricht.nl/nieuws/artikel/datalek-bij-podotherapeut-hermanns</link>
-			<description>Podotherapie Hermanns | Gezondheids- en welzijnszorg | 13-01-2025 | DataLekt.nl: Podotherapie Hermanns, met 250 locaties in Nederland en 4 in Maastricht, meldde een datalek waarbij toegang werd verkregen tot klantgegevens zoals adressen, telefoonnummers, BSN&amp;#039;s en declaratiegegevens. Medische gegevens bleven veilig in een aparte omgeving. Het incident is gemeld bij de Autoriteit Persoonsgegevens en de politie. Klanten worden geadviseerd alert te zijn op phishing en verdachte activiteiten bij zorgverzekeraars te controleren. Het onderzoek naar het incident loopt, en klanten worden persoonlijk geïnformeerd indien hun gegevens daadwerkelijk zijn ingezien. (Bron: rtvmaastricht.nl)</description>
-			<guid isPermaLink="false">https://rtvmaastricht.nl/nieuws/artikel/datalek-bij-podotherapeut-hermanns?datalekt=56cc2343c4d5222d85286d5ac8f5707896079ec644de731060702ff5f268936d</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
 			<link>https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html</link>
 			<description>Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld geëist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] (Bron: tweakers.net)</description>
@@ -807,6 +799,14 @@
 			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen?datalekt=c090d0e938180bc6b776da88fc234033e3858f0d2eaf2737db274ed117e843b0</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>
+			<link>https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954</link>
+			<description>Ministerie van Sociale Zaken en Werkgelegenheid (SZW) | Overheid: Ministeries | 20-09-2023 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) onderzoekt het Ministerie van Sociale Zaken wegens onrechtmatige en geheime onderzoeken naar Nederlandse moslims, voornamelijk salafisten. Het ministerie wordt bekritiseerd voor het niet actief informeren van de getroffen burgers over schendingen van hun grondrechten. Ondanks aandringen van de AP, is het ministerie niet van plan om de getroffen burgers te informeren. Deze praktijken worden omschreven als een &amp;quot;zorgelijke ontwikkeling&amp;quot;, en er zijn zorgen over mogelijke schadeclaims van de getroffen burgers. [Update: Op 19 maart 2024 is bekend geworden dat 12 mensen een excuusbrief hebben ontvangen.] [Update: Op 12 april 2025 heeft de Autoriteit Persoonsgegevens bepaald dat het ministerie de onrechtmatig verkregen persoonsgegevens binnen twee maanden moet vernietigen.] (Bron: nrc.nl, nu.nl, ad.nl)</description>
+			<guid isPermaLink="false">https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954?datalekt=f733212b08abf78f2c3d8b7105665ecc809e45cc1619a3894d0c0346b900e56f</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954?datalekt=f733212b08abf78f2c3d8b7105665ecc809e45cc1619a3894d0c0346b900e56f",
+        "url": "https://www.nrc.nl/nieuws/2023/09/20/autoriteit-persoonsgegevens-stelt-onderzoek-in-naar-ministerie-van-sociale-zaken-vanwege-privacyschendingen-moslimgemeenschap-a4174954",
+        "title": "Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap",
+        "date_published": "2023-09-23T14:00:00Z",
+        "date_modified": "2025-04-15T09:27:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nrc.nl"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Sociale Zaken en Werkgelegenheid (SZW) | Overheid: Ministeries | 20-09-2023 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) onderzoekt het Ministerie van Sociale Zaken wegens onrechtmatige en geheime onderzoeken naar Nederlandse moslims, voornamelijk salafisten. Het ministerie wordt bekritiseerd voor het niet actief informeren van de getroffen burgers over schendingen van hun grondrechten. Ondanks aandringen van de AP, is het ministerie niet van plan om de getroffen burgers te informeren. Deze praktijken worden omschreven als een &quot;zorgelijke ontwikkeling&quot;, en er zijn zorgen over mogelijke schadeclaims van de getroffen burgers. [Update: Op 19 maart 2024 is bekend geworden dat 12 mensen een excuusbrief hebben ontvangen.] [Update: Op 12 april 2025 heeft de Autoriteit Persoonsgegevens bepaald dat het ministerie de onrechtmatig verkregen persoonsgegevens binnen twee maanden moet vernietigen.] (Bron: nrc.nl, nu.nl, ad.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=208e80bbdee852c40bc62ac6ad42bf2f36502b6673989d9003f8f7348b704396",
         "url": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html",
         "title": "Ministerie van Klimaat en Groene Groei betrokken bij datalek",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Onbekende gemeente | Overheid: Gemeenten | 09-01-2025 | DataLekt.nl: De Rechtbank Noord-Nederland heeft geoordeeld dat een livestream van een dorpskern, uitgezonden door een organisatie, onrechtmatig persoonsgegevens verwerkte. De beelden schonden de privacyrechten van omwonenden en voorbijgangers, omdat de verwerking geen gerechtvaardigd belang had volgens de AVG. De Autoriteit Persoonsgegevens legde een boete van \u20ac500 op, die door de rechtbank werd bevestigd maar verlaagd vanwege de overschrijding van de redelijke termijn met twee jaar en vijf maanden. De rechtbank benadrukte dat minder ingrijpende alternatieven beschikbaar waren voor het promotionele doel van de livestream. (Bron: itenrecht.nl)"
-    },
-    {
-        "id": "https://rtvmaastricht.nl/nieuws/artikel/datalek-bij-podotherapeut-hermanns?datalekt=56cc2343c4d5222d85286d5ac8f5707896079ec644de731060702ff5f268936d",
-        "url": "https://rtvmaastricht.nl/nieuws/artikel/datalek-bij-podotherapeut-hermanns",
-        "title": "Datalek bij podotherapeut Hermanns treft duizenden klanten",
-        "date_published": "2025-01-15T20:15:00Z",
-        "date_modified": "2025-01-15T20:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtvmaastricht.nl"
-        },
-        "content_html": "",
-        "content_text": "Podotherapie Hermanns | Gezondheids- en welzijnszorg | 13-01-2025 | DataLekt.nl: Podotherapie Hermanns, met 250 locaties in Nederland en 4 in Maastricht, meldde een datalek waarbij toegang werd verkregen tot klantgegevens zoals adressen, telefoonnummers, BSN&#039;s en declaratiegegevens. Medische gegevens bleven veilig in een aparte omgeving. Het incident is gemeld bij de Autoriteit Persoonsgegevens en de politie. Klanten worden geadviseerd alert te zijn op phishing en verdachte activiteiten bij zorgverzekeraars te controleren. Het onderzoek naar het incident loopt, en klanten worden persoonlijk ge\u00efnformeerd indien hun gegevens daadwerkelijk zijn ingezien. (Bron: rtvmaastricht.nl)"
     }
 ]
