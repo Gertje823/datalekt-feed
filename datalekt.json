@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.rijnmond.nl/nieuws/1998404/vrouw-krijgt-ontslag-voor-datalek-bij-alarmcentrale-iedereen-doet-het?datalekt=c6d7fee9691da75c7a76fc3729c9f5bf831a88d2188d67b9c2c953438635f218",
+        "url": "https://www.rijnmond.nl/nieuws/1998404/vrouw-krijgt-ontslag-voor-datalek-bij-alarmcentrale-iedereen-doet-het",
+        "title": "Medewerkster alarmcentrale ontslagen na opzettelijk datalek via RDW-gegevens voor priv\u00e9doeleinden",
+        "date_published": "2025-04-17T18:35:00Z",
+        "date_modified": "2025-04-17T18:35:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rijnmond.nl"
+        },
+        "content_html": "",
+        "content_text": "SOS International | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 17-04-2025 | DataLekt.nl: In september 2024 werd bij SOS International, een alarmcentrale in Capelle aan den IJssel, een ernstig datalek ontdekt, nadat een medewerkster zonder zakelijke reden persoonsgegevens opvroeg via de RDW en doorgaf aan bekenden. De vrouw had eerder al familieleden geholpen op soortgelijke wijze. Ze werd op staande voet ontslagen en kreeg geen schadevergoeding. De rechter bevestigde dat ze de geheimhoudingsregels had overtreden. De alarmcentrale meldt dat alle vereiste stappen zijn genomen na het incident. (Bron: rijnmond.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=bbf052b8e26fa84e90d81ffa3d557aa0f5b10364097de4388acef96b988b1edf",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Koninklijke Ahold Delhaize getroffen door ransomware aanval van de criminele organisatie Incransom",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Fontys Hogeschool | Onderwijs | 15-01-2025 | DataLekt.nl: Fontys Hogeschool kampte met een urenlange netwerkstoring door een DDoS-aanval op het SURF-netwerk, dat onderwijsinstellingen in de regio ondersteunt. Hierdoor konden 43.000 studenten en medewerkers tijdelijk geen verbinding maken. Lesgeven bleef mogelijk, en het netwerk is inmiddels stabiel. De aanval richtte zich niet op Fontys zelf en staat los van eerdere incidenten bij andere instellingen. De identiteit van de aanvallers is onbekend. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval?datalekt=e3189dd4ea48ef833bbeba6ffdaf3080d0115eee0ff0bfd769ec8c45ec4461a9",
-        "url": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval",
-        "title": "DDoS-aanval op SURF-netwerk verstoort ICT bij onderwijsinstellingen in regio",
-        "date_published": "2025-01-16T10:31:00Z",
-        "date_modified": "2025-01-16T10:31:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "SURF | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Het SURF-netwerk, een gemeenschappelijk ICT-platform voor onderwijs- en onderzoeksinstellingen, werd getroffen door een DDoS-aanval. Dit leidde tot verstoringen bij Fontys Hogeschool, Tilburg University en Universiteit Maastricht. Ruim 43.000 studenten en medewerkers van Fontys hadden tijdelijk geen toegang tot het computernetwerk, terwijl storingen ook andere instellingen troffen. Het netwerk is inmiddels hersteld. De aanval was niet specifiek gericht op \u00e9\u00e9n instelling, en de identiteit van de daders is onbekend. (Bron: nos.nl)"
     }
 ]
