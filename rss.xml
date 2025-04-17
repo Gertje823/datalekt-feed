@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 15 Apr 2025 12:40:31 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 17 Apr 2025 12:40:19 +0000</lastBuildDate>
+		<item>
+			<title>Koninklijke Ahold Delhaize getroffen door ransomware aanval van de criminele organisatie Incransom</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij Koninklijke Ahold Delhaize heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=bbf052b8e26fa84e90d81ffa3d557aa0f5b10364097de4388acef96b988b1edf</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bunq vergoedt in 2024 ruim 10 miljoen euro aan slachtoffers van phishing en bankhelpdeskfraude</title>
+			<link>https://www.security.nl/posting/884343/Bunq+betaalde+slachtoffers+van+phishing+vorig+jaar+10+miljoen+euro</link>
+			<description>Bunq | Financiële instellingen | 16-04-2025 | DataLekt.nl: In 2024 keerde Bunq tien miljoen euro uit aan klanten die slachtoffer werden van phishing en bankhelpdeskfraude, een forse stijging ten opzichte van 203.000 euro in 2023. De bank paste zijn coulancebeleid aan en vergoedt nu ook gevallen zonder juridisch recht op compensatie, mits sprake is van tegenspoed. Bunq neemt voortaan verantwoordelijkheid ongeacht of het om phishing of spoofing gaat, maar uit zorgen over klantgedrag en social engineering. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/884343/Bunq+betaalde+slachtoffers+van+phishing+vorig+jaar+10+miljoen+euro?datalekt=e1af35037390b9f417421a4213dae247f61bf6b50eedca177b51c1bd83f0a719</guid>
+			<category>Financiële instellingen </category>
+			<pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>AP waarschuwt 50 organisaties voor misleidende cookiebanners en dreigt met boetes bij uitblijven aanpassing</title>
+			<link>https://www.autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-50-organisaties-om-misleidende-cookiebanner</link>
+			<description>50 onbekende organisaties | Overige dienstverlening | 15-04-2025 | DataLekt.nl: Op 15 april 2025 heeft de Autoriteit Persoonsgegevens 50 Nederlandse organisaties – waaronder webwinkels, mediabedrijven en verzekeraars – gewaarschuwd voor het gebruik van misleidende cookiebanners. Veel van deze websites plaatsen tracking cookies zonder geldige toestemming of maken het weigeren nodeloos ingewikkeld. Organisaties krijgen drie maanden om hun werkwijze aan te passen, anders volgt een onderzoek en mogelijk een boete. (Bron: autoriteitpersoonsgegevens.nl)</description>
+			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-50-organisaties-om-misleidende-cookiebanner?datalekt=c7129bb6d5e2c290cd7c60eac84827a638e2e9241e6556878269a5c987267265</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ministerie van Klimaat en Groene Groei betrokken bij datalek</title>
 			<link>https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html</link>
@@ -758,30 +782,6 @@
 			<description>SURF | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Het SURF-netwerk, een gemeenschappelijk ICT-platform voor onderwijs- en onderzoeksinstellingen, werd getroffen door een DDoS-aanval. Dit leidde tot verstoringen bij Fontys Hogeschool, Tilburg University en Universiteit Maastricht. Ruim 43.000 studenten en medewerkers van Fontys hadden tijdelijk geen toegang tot het computernetwerk, terwijl storingen ook andere instellingen troffen. Het netwerk is inmiddels hersteld. De aanval was niet specifiek gericht op één instelling, en de identiteit van de daders is onbekend. (Bron: nos.nl)</description>
 			<guid isPermaLink="false">https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval?datalekt=e3189dd4ea48ef833bbeba6ffdaf3080d0115eee0ff0bfd769ec8c45ec4461a9</guid>
 			<category>Informatie en communicatie </category>
-			<pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DigiD onbereikbaar door grootschalige DDoS-aanvallen op systemen van Logius</title>
-			<link>https://www.nu.nl/tech/6342417/problemen-bij-digid-dinsdag-veroorzaakt-door-grootschalige-ddos-aanvallen.html</link>
-			<description>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 15-01-2025 | DataLekt.nl: Op dinsdag 14 januari 2025 werden de diensten van DigiD, onderdeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, verstoord door grootschalige DDoS-aanvallen op de systemen van Logius. De aanval, die begon rond 11:25 uur en duurde tot laat in de avond, veroorzaakte een overbelasting van netwerken, waardoor veel gebruikers niet konden inloggen op publieke diensten. Dit had grote gevolgen voor burgers die afhankelijk zijn van DigiD voor overheidszaken. Er zijn geen details over de daders of schade bekendgemaakt. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6342417/problemen-bij-digid-dinsdag-veroorzaakt-door-grootschalige-ddos-aanvallen.html?datalekt=f9f236705b0235b042e64ed6145ef8adc9a45e62392242f81f4d7cf1ea817fe1</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Logius getroffen door uitzonderlijk zware DDoS-aanvallen, DigiD tijdelijk onbereikbaar</title>
-			<link>https://www.nu.nl/tech/6342417/problemen-bij-digid-dinsdag-veroorzaakt-door-grootschalige-ddos-aanvallen.html</link>
-			<description>Logius | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Op dinsdag 14 januari 2025 heeft een uitzonderlijk zware DDoS-aanval de digitale systemen van Logius getroffen, waaronder DigiD. De aanval begon rond 11:25 uur en leidde tot een overbelasting van netwerken door een extreem hoog volume aan verkeer. Hierdoor waren DigiD en andere diensten tijdelijk niet bereikbaar, wat grote gevolgen had voor gebruikers. Logius onderzoekt de aanval en bekijkt welke maatregelen nodig zijn om toekomstige verstoringen te voorkomen. Details over de daders of financiële schade zijn niet bekendgemaakt. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6342417/problemen-bij-digid-dinsdag-veroorzaakt-door-grootschalige-ddos-aanvallen.html?datalekt=9869d1b97943d2c9a2a6b23d8be7d01745ca720ac76a3c4666394178c6c47cc0</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rechtbank matigt boete AP voor onrechtmatige livestream met privacy-inbreuken</title>
-			<link>https://www.itenrecht.nl/artikelen/rechtbank-bevestigt-onrechtmatigheid-livestream-en-matigt-boete-ap-wegens-lange-procedureduur</link>
-			<description>Onbekende gemeente | Overheid: Gemeenten | 09-01-2025 | DataLekt.nl: De Rechtbank Noord-Nederland heeft geoordeeld dat een livestream van een dorpskern, uitgezonden door een organisatie, onrechtmatig persoonsgegevens verwerkte. De beelden schonden de privacyrechten van omwonenden en voorbijgangers, omdat de verwerking geen gerechtvaardigd belang had volgens de AVG. De Autoriteit Persoonsgegevens legde een boete van €500 op, die door de rechtbank werd bevestigd maar verlaagd vanwege de overschrijding van de redelijke termijn met twee jaar en vijf maanden. De rechtbank benadrukte dat minder ingrijpende alternatieven beschikbaar waren voor het promotionele doel van de livestream. (Bron: itenrecht.nl)</description>
-			<guid isPermaLink="false">https://www.itenrecht.nl/artikelen/rechtbank-bevestigt-onrechtmatigheid-livestream-en-matigt-boete-ap-wegens-lange-procedureduur?datalekt=3d6c84b78e040e0397581772e66ec8d9f70a4f83661de851449e4fa7f306e651</guid>
-			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
