@@ -1,5 +1,200 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=a5b0be355f44822694d054b6032feb7bfa8043ac171bd77c0d09f62af75c0feb",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Ministerie van Volkshuisvesting en Ruimtelijke Ordening getroffen door datalek met persoonsgegevens in metadata",
+        "date_published": "2025-04-20T12:41:00Z",
+        "date_modified": "2025-04-20T12:41:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Volkshuisvesting en Ruimtelijke Ordening (VRO) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Ook het Ministerie van Volkshuisvesting en Ruimtelijke Ordening is getroffen door het metadata-datalek waarbij persoonsgegevens van ambtenaren zichtbaar bleven in gepubliceerde Woo-documenten. De metadata werd niet goed verwijderd voor publicatie op onder meer open.overheid.nl. De ministeries hebben melding gedaan bij de AP en werken mee aan de rijksbrede herstelmaatregelen. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=b2e517d8d5723ed2b62c2a411d17f648aeb1312e02ef48b6d4db7de1916d0a41",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Ministerie van VWS betrokken bij rijksbreed datalek via metadata in openbare documenten",
+        "date_published": "2025-04-20T12:40:00Z",
+        "date_modified": "2025-04-20T12:40:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Volksgezondheid, Welzijn en Sport (VWS) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Bij het Ministerie van Volksgezondheid, Welzijn en Sport zijn persoonsgegevens van ambtenaren per ongeluk zichtbaar gebleven in metadata van gepubliceerde Woo-documenten. Het datalek is gemeld bij de AP. Maatregelen worden genomen om herhaling te voorkomen. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=9c93b9e7df40893ff04c08ff2b66087ae9411c908e1599686c210e2ab87fcb91",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Ministerie van Sociale Zaken getroffen door metadata-datalek met persoonsgegevens van ambtenaren",
+        "date_published": "2025-04-20T12:39:00Z",
+        "date_modified": "2025-04-20T12:39:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Sociale Zaken en Werkgelegenheid (SZW) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Het Ministerie van Sociale Zaken en Werkgelegenheid is betrokken bij het datalek waarbij in metadata van openbare documenten persoonsgegevens van ambtenaren zichtbaar bleven. Het lek betreft alle ministeries en is gemeld bij de Autoriteit Persoonsgegevens. Een centraal team co\u00f6rdineert het herstel. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=eec1ac0622e7afabf2071088dcb08638e6cf659707a47733e6cdf8f513c17e17",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Ministerie van OCW onderdeel van metadata-datalek met zichtbare persoonsgegevens in overheidsdocumenten",
+        "date_published": "2025-04-20T12:38:00Z",
+        "date_modified": "2025-04-20T12:38:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Het Ministerie van Onderwijs, Cultuur en Wetenschap is getroffen door een rijksbreed datalek waarbij metadata met persoonsgegevens zoals namen en gebruikersnamen van ambtenaren niet werd verwijderd bij publicatie. In 23% van de documenten zijn fouten aangetroffen. Onderzoek loopt. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=0403c9dfb2e713cf4b971744ca93617be101d81d1d2a4d3472b67d3455da6a89",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Ministerie van LVVN getroffen door datalek via metadata in openbaar gemaakte documenten",
+        "date_published": "2025-04-20T12:37:00Z",
+        "date_modified": "2025-04-20T12:37:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Ook het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur is onderdeel van het metadata-datalek waarbij ambtenarengegevens onbedoeld openbaar werden. De fout ontstond bij publicatie van documenten via platforms zoals open.overheid.nl. De AP is ge\u00efnformeerd en schadebeperking is in gang gezet. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=034a4fafea3d04605719273f6ee40237099fd2e6dcf9171bd523b26532e19a8b",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Datalek treft Ministerie van Justitie en Veiligheid: metadata maakt ambtenarengegevens zichtbaar",
+        "date_published": "2025-04-20T12:36:00Z",
+        "date_modified": "2025-04-20T12:36:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Justitie en Veiligheid (JenV) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Door een fout in de verwerking van metadata bij publicatie van overheidsdocumenten zijn ook bij het Ministerie van Justitie en Veiligheid persoonsgegevens van ambtenaren gelekt. De informatie was zichtbaar in gepubliceerde Woo-documenten. De oorzaak wordt onderzocht en herstelmaatregelen zijn in gang gezet. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=ee2370187903540e85805747e0dabec6c677932c35bdc5b5e8c25fad6186c453",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Ministerie van Infrastructuur en Waterstaat getroffen door rijksbreed metadata-datalek",
+        "date_published": "2025-04-20T12:35:00Z",
+        "date_modified": "2025-04-20T12:35:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Infrastructuur en Waterstaat (IenW) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Het datalek met zichtbaar gebleven persoonsgegevens in documentmetadata heeft ook het Ministerie van Infrastructuur en Waterstaat geraakt. Via openbaarheidssites werden ambtenaren identificeerbaar. De gegevens betroffen o.a. namen en gebruikersnamen. De aanpak wordt geco\u00f6rdineerd door een centraal calamiteitenteam. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=84bed5a2271fad99b6b6f86a0cfdc03e5cb08c4fd6eb5a9d3d4e47e750d20372",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Ministerie van Financi\u00ebn betrokken bij metadata-datalek met zichtbare persoonsgegevens ambtenaren",
+        "date_published": "2025-04-20T12:34:00Z",
+        "date_modified": "2025-04-20T12:34:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Financi\u00ebn (Fin) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Ook bij het Ministerie van Financi\u00ebn bleken namen van ambtenaren in metadata van openbare documenten zichtbaar, wat leidde tot een breed datalek binnen de Rijksoverheid. De metadata was niet correct verwijderd voor publicatie. Het lek is gemeld bij de AP en er worden preventieve maatregelen genomen. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=48ce7853a918e6e8b753aac2140045da1e416cd7551462cfa3e0f167f0a5e869",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Persoonsgegevens ambtenaren Ministerie van Defensie onbedoeld openbaar door foutieve metadata",
+        "date_published": "2025-04-20T12:33:00Z",
+        "date_modified": "2025-04-20T12:33:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Defensie (Def) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Het Ministerie van Defensie is getroffen door een datalek waarbij metadata met persoonsgegevens van medewerkers, zoals namen en gebruikersnamen, niet goed werd verwijderd voor publicatie. De documenten waren via overheidssites toegankelijk. Een rijksbreed calamiteitenteam werkt aan het beperken van de schade. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=9a2cbcfebc651b4e7c3582c039713c57316bed4b17c7f3d9b173fc84c7676db8",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Ministerie van Buitenlandse Zaken betrokken bij datalek door blootgelegde ambtenarengegevens in metadata",
+        "date_published": "2025-04-20T12:32:00Z",
+        "date_modified": "2025-04-20T12:32:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Buitenlandse Zaken (BZ) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Door onjuist gestripte metadata in openbare documenten zijn ook bij het Ministerie van Buitenlandse Zaken persoonsgegevens van ambtenaren onbedoeld gepubliceerd. De gegevens verschenen op onder andere open.overheid.nl. Het datalek is gemeld bij de Autoriteit Persoonsgegevens en maakt deel uit van een rijksbrede aanpak onder leiding van de CISO Rijk. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=fa27bb5e60f7470141366267876c3e66a695c5d65a610ba208d81a100831e5e1",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Ministerie van Asiel en Migratie betrokken bij metadata-datalek met openbaar gemaakte ambtenarengegevens",
+        "date_published": "2025-04-20T12:31:00Z",
+        "date_modified": "2025-04-20T12:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Asiel en Migratie (AenM) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Het Ministerie van Asiel en Migratie is betrokken bij het rijksbrede datalek waarbij metadata in documenten op overheidssites persoonsgegevens van ambtenaren bevatte. Door onjuiste anonimisering waren namen, gebruikersnamen en soms telefoonnummers openbaar zichtbaar. Het datalek is gemeld bij de Autoriteit Persoonsgegevens en valt onder een centrale aanpak geco\u00f6rdineerd door de CISO Rijk. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=6ca1769696fd8caf098d173a26716da80b3d81f74ff337a4cbfdf0d3d2fc0097",
+        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
+        "title": "Ministerie van Algemene Zaken betrokken bij datalek door onjuiste metadata in openbare documenten",
+        "date_published": "2025-04-20T12:30:00Z",
+        "date_modified": "2025-04-20T12:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ministerie van Algemene Zaken (AZ) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Ook het Ministerie van Algemene Zaken is betrokken bij het metadata-datalek waarbij persoonsgegevens van ambtenaren, zoals namen en telefoonnummers, onbedoeld zichtbaar waren in gepubliceerde documenten. Het lek ontstond door onjuist verwijderde metadata bij publicatie op overheidssites. Alle ministeries hebben melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://nos.nl/artikel/2563941-datalek-bij-fontys-onder-meer-medische-gegevens-studenten-in-te-zien?datalekt=16b63c52c0c7efd6f96006fc34440eeaec9379dbf19d152fd1faef5c86635a95",
+        "url": "https://nos.nl/artikel/2563941-datalek-bij-fontys-onder-meer-medische-gegevens-studenten-in-te-zien",
+        "title": "Fontys Hogescholen erkent groot datalek: medische en persoonlijke gegevens studenten per ongeluk openbaar op intranet",
+        "date_published": "2025-04-19T14:38:00Z",
+        "date_modified": "2025-04-19T14:38:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "Fontys Hogeschool | Onderwijs | 18-04-2025 | DataLekt.nl: Fontys Hogescholen is getroffen door een ernstig datalek waarbij medische en persoonlijke gegevens van studenten toegankelijk waren via het intranet. Aanmelders voor cursussen kregen toegang tot interne documenten met onder meer pasfoto\u2019s, adressen, e-mails en verslagen met gevoelige informatie zoals mentale problemen. Het lek ontstond doordat medewerkers per ongeluk bestanden openbaar deelden. Fontys heeft de documenten inmiddels afgeschermd en excuses aangeboden. (Bron: nos.nl)"
+    },
+    {
+        "id": "https://ibestuur.nl/artikel/politie-haalt-woo-documenten-offline/?datalekt=bc8f9a580618392d14bdca153dfc09b1d2b169f25ab8f867c083eaf39459d1b8",
+        "url": "https://ibestuur.nl/artikel/politie-haalt-woo-documenten-offline/",
+        "title": "Politie haalt Woo-documenten offline na datalek door onjuiste anonimisering en zichtbare metadata",
+        "date_published": "2025-04-19T14:37:00Z",
+        "date_modified": "2025-04-19T14:37:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ibestuur.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 16-04-2025 | DataLekt.nl: In april 2025 heeft de politie Woo-documenten van haar website verwijderd nadat bleek dat zwartgelakte informatie eenvoudig terug te halen was door de bestanden in Word te openen. Het betrof onder andere documenten met gegevens over snelheidscontroles en politiemedewerkers. Ook bleek gevoelige informatie zichtbaar via de metadata. Het incident is bij de Autoriteit Persoonsgegevens gemeld als datalek. De documenten worden pas opnieuw gepubliceerd na grondige controle. (Bron: ibestuur.nl)"
+    },
+    {
+        "id": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/?datalekt=4cb3644eca03452856a4451631ff1730af0d0ad4e707eb5ddfba66c4f1095000",
+        "url": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/",
+        "title": "Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen",
+        "date_published": "2025-04-17T09:02:00Z",
+        "date_modified": "2025-04-19T14:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. (Bron: ad.nl)"
+    },
+    {
         "id": "https://www.rijnmond.nl/nieuws/1998404/vrouw-krijgt-ontslag-voor-datalek-bij-alarmcentrale-iedereen-doet-het?datalekt=c6d7fee9691da75c7a76fc3729c9f5bf831a88d2188d67b9c2c953438635f218",
         "url": "https://www.rijnmond.nl/nieuws/1998404/vrouw-krijgt-ontslag-voor-datalek-bij-alarmcentrale-iedereen-doet-het",
         "title": "Medewerkster alarmcentrale ontslagen na opzettelijk datalek via RDW-gegevens voor priv\u00e9doeleinden",
@@ -11,19 +206,6 @@
         },
         "content_html": "",
         "content_text": "SOS International | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 17-04-2025 | DataLekt.nl: In september 2024 werd bij SOS International, een alarmcentrale in Capelle aan den IJssel, een ernstig datalek ontdekt, nadat een medewerkster zonder zakelijke reden persoonsgegevens opvroeg via de RDW en doorgaf aan bekenden. De vrouw had eerder al familieleden geholpen op soortgelijke wijze. Ze werd op staande voet ontslagen en kreeg geen schadevergoeding. De rechter bevestigde dat ze de geheimhoudingsregels had overtreden. De alarmcentrale meldt dat alle vereiste stappen zijn genomen na het incident. (Bron: rijnmond.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=bbf052b8e26fa84e90d81ffa3d557aa0f5b10364097de4388acef96b988b1edf",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Koninklijke Ahold Delhaize getroffen door ransomware aanval van de criminele organisatie Incransom",
-        "date_published": "2025-04-17T09:02:00Z",
-        "date_modified": "2025-04-17T09:02:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij Koninklijke Ahold Delhaize heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
         "id": "https://www.security.nl/posting/884343/Bunq+betaalde+slachtoffers+van+phishing+vorig+jaar+10+miljoen+euro?datalekt=e1af35037390b9f417421a4213dae247f61bf6b50eedca177b51c1bd83f0a719",
@@ -65,7 +247,7 @@
         "content_text": "Ministerie van Sociale Zaken en Werkgelegenheid (SZW) | Overheid: Ministeries | 20-09-2023 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) onderzoekt het Ministerie van Sociale Zaken wegens onrechtmatige en geheime onderzoeken naar Nederlandse moslims, voornamelijk salafisten. Het ministerie wordt bekritiseerd voor het niet actief informeren van de getroffen burgers over schendingen van hun grondrechten. Ondanks aandringen van de AP, is het ministerie niet van plan om de getroffen burgers te informeren. Deze praktijken worden omschreven als een &quot;zorgelijke ontwikkeling&quot;, en er zijn zorgen over mogelijke schadeclaims van de getroffen burgers. [Update: Op 19 maart 2024 is bekend geworden dat 12 mensen een excuusbrief hebben ontvangen.] [Update: Op 12 april 2025 heeft de Autoriteit Persoonsgegevens bepaald dat het ministerie de onrechtmatig verkregen persoonsgegevens binnen twee maanden moet vernietigen.] (Bron: nrc.nl, nu.nl, ad.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=208e80bbdee852c40bc62ac6ad42bf2f36502b6673989d9003f8f7348b704396",
+        "id": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=b338878134df7c471afa562e5815c7e6dffea5a085b430ffd0ebece4b9aa2514",
         "url": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html",
         "title": "Ministerie van Klimaat en Groene Groei betrokken bij datalek",
         "date_published": "2025-04-11T13:10:00Z",
@@ -75,10 +257,10 @@
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Ministerie van Klimaat en Groene Groei | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Het Ministerie van Klimaat en Groene Groei is betrokken bij een datalek waarbij ambtenarennamen en e-mailadressen zijn uitgelekt via metadata in documenten op overheidssites. De metadata had bij publicatie verwijderd moeten worden, maar dat gebeurde niet. De oorzaak en omvang van het lek worden nog onderzocht. (Bron: tweakers.net)"
+        "content_text": "Ministerie van Klimaat en Groene Groei (KGG) | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Het Ministerie van Klimaat en Groene Groei is betrokken bij een datalek waarbij ambtenarennamen en e-mailadressen zijn uitgelekt via metadata in documenten op overheidssites. De metadata had bij publicatie verwijderd moeten worden, maar dat gebeurde niet. De oorzaak en omvang van het lek worden nog onderzocht. (Bron: tweakers.net)"
     },
     {
-        "id": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=85cfafe650d17379b8a7dc88920b0ad8241f1411a0cd15dac084f1e23304acfa",
+        "id": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=b787ed86cb79041daef9a6d54d9e97e4e8f8b95c50166fdc3718444bed0132fb",
         "url": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html",
         "title": "Metadatafout leidt tot datalek bij Ministerie van Binnenlandse Zaken",
         "date_published": "2025-04-11T13:09:00Z",
@@ -88,10 +270,10 @@
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Door een fout bij het verwijderen van metadata in gepubliceerde documenten zijn namen en e-mailadressen van ambtenaren van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties uitgelekt. Het is nog onduidelijk hoeveel documenten zijn getroffen. De fout kan het gevolg zijn van een technische of menselijke oorzaak. (Bron: tweakers.net)"
+        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Door een fout bij het verwijderen van metadata in gepubliceerde documenten zijn namen en e-mailadressen van ambtenaren van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties uitgelekt. Het is nog onduidelijk hoeveel documenten zijn getroffen. De fout kan het gevolg zijn van een technische of menselijke oorzaak. (Bron: tweakers.net)"
     },
     {
-        "id": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=32f93a2b0588c9982cd6aa268d6ea8eb6c70d7b588a2224f1c61c2a10d663e4a",
+        "id": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html?datalekt=7e8f1774780c2bc64915798ffaae892685fb4e36375f76fcd8613e3ee021968b",
         "url": "https://tweakers.net/nieuws/233842/groot-datalek-bij-ministeries-blijkt-uit-namen-van-ambtenaren-te-bestaan.html",
         "title": "Ministerie van Economische Zaken lekt namen en e-mailadressen van ambtenaren",
         "date_published": "2025-04-11T13:08:00Z",
@@ -101,10 +283,10 @@
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Ministerie van Economische Zaken | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Bij het Ministerie van Economische Zaken zijn namen en e-mailadressen van ambtenaren uitgelekt doordat metadata bij het publiceren van documenten op overheidswebsites niet correct werd verwijderd. Deze fout maakte het mogelijk om te achterhalen wie documenten had opgesteld. De omvang van het datalek is nog onbekend en wordt onderzocht. (Bron: tweakers.net)"
+        "content_text": "Ministerie van Economische Zaken (EZ) | Overheid: Ministeries | 11-04-2025 | DataLekt.nl: Bij het Ministerie van Economische Zaken zijn namen en e-mailadressen van ambtenaren uitgelekt doordat metadata bij het publiceren van documenten op overheidswebsites niet correct werd verwijderd. Deze fout maakte het mogelijk om te achterhalen wie documenten had opgesteld. De omvang van het datalek is nog onbekend en wordt onderzocht. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.security.nl/posting/883608/Logius%3A+DigiD+%27beperkt+beschikbaar%27+als+gevolg+van+ddos-aanvallen?datalekt=d37ea2d74f6b5bf1110c52369a5b29f3c91c5e249c3a7cd213fe18a51b3fe69a",
+        "id": "https://www.security.nl/posting/883608/Logius%3A+DigiD+%27beperkt+beschikbaar%27+als+gevolg+van+ddos-aanvallen?datalekt=58e733fd6e0e0f37cda6023089b1968f7825e7c983952e42b6103df64f5bf615",
         "url": "https://www.security.nl/posting/883608/Logius%3A+DigiD+%27beperkt+beschikbaar%27+als+gevolg+van+ddos-aanvallen",
         "title": "DigiD opnieuw tijdelijk onbereikbaar door slimme en gerichte DDoS-aanvallen op overheidsdiensten",
         "date_published": "2025-04-11T13:07:00Z",
@@ -114,7 +296,7 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 09-04-2025 | DataLekt.nl: Op 9 april 2025 werd DigiD wederom beperkt beschikbaar door een DDoS-aanval, waarbij duizenden gebruikers inlogproblemen meldden. Beheerder Logius constateert sinds januari een nieuw type aanval: slimmer, gerichter en moeilijker te detecteren. Deze aanvallen veroorzaken kortdurende storingen, met ditmaal een onderbreking van ruim twee uur. DigiD was rond 14.46 uur weer bereikbaar. Logius werkt aan aangepaste verdedigingsstrategie\u00ebn. (Bron: security.nl)"
+        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 09-04-2025 | DataLekt.nl: Op 9 april 2025 werd DigiD wederom beperkt beschikbaar door een DDoS-aanval, waarbij duizenden gebruikers inlogproblemen meldden. Beheerder Logius constateert sinds januari een nieuw type aanval: slimmer, gerichter en moeilijker te detecteren. Deze aanvallen veroorzaken kortdurende storingen, met ditmaal een onderbreking van ruim twee uur. DigiD was rond 14.46 uur weer bereikbaar. Logius werkt aan aangepaste verdedigingsstrategie\u00ebn. (Bron: security.nl)"
     },
     {
         "id": "https://pvo-nl.nl/ervaringen/ondernemer-jose-werd-slachtoffer-van-factuurfraude-klant-betaalde-een-hacker-in-plaats-van-haar/?datalekt=928ee7aa043c73cbca4eff4c47790a000ab0d9f8a5793d918eeb3b2c59db3fb4",
@@ -273,7 +455,7 @@
         "content_text": "Onbekende onderzoeksinstelling | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 25-03-2025 | DataLekt.nl: Op 25 maart 2025 werd bekend dat een Nederlandse onderzoeksinstelling persoonsgegevens van ruim 35.000 onderzoekers heeft gelekt. Telefoonnummers, e-mailadressen en zwak versleutelde wachtwoorden doken op in een .sql-database op besloten hackerforums in het Deep Web. De verouderde SHA1-versleuteling maakt de gegevens kwetsbaar voor misbruik, zoals phishing of accountovername. Het Centrum voor Cybersecurity, Veiligheid en Technologie (CCVT) ontdekte het lek en adviseerde direct maatregelen om verdere schade te beperken. (Bron: dutchitleaders.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/233152/digid-was-zondagochtend-niet-bruikbaar-door-ddos-aanval.html?datalekt=9d59d9d6bace9f81b3ffbadfd726e8a8cc254574bebabd1cbeef792602b0fa9a",
+        "id": "https://tweakers.net/nieuws/233152/digid-was-zondagochtend-niet-bruikbaar-door-ddos-aanval.html?datalekt=d560308bc6003aa2eede55f8c305563ca46cd5230b8fe11beab97d28236255f0",
         "url": "https://tweakers.net/nieuws/233152/digid-was-zondagochtend-niet-bruikbaar-door-ddos-aanval.html",
         "title": "DigiD opnieuw onbereikbaar door DDoS-aanval, overheidsdiensten zoals MijnOverheid getroffen",
         "date_published": "2025-03-24T09:56:00Z",
@@ -283,10 +465,10 @@
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 23-03-2025 | DataLekt.nl: Op 23 maart 2025 was DigiD zondagochtend onbruikbaar door een DDoS-aanval. De storing begon rond 08.20 uur en werd om 10.05 uur opgelost. Hierdoor waren ook overheidsdiensten zoals MijnOverheid slecht bereikbaar en functioneerde de DigiD-app niet. Gebruikers kregen time-outs en konden geen verificatiecode opvragen. Het is onbekend wie achter de herhaalde aanvallen zit. (Bron: tweakers.net)"
+        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 23-03-2025 | DataLekt.nl: Op 23 maart 2025 was DigiD zondagochtend onbruikbaar door een DDoS-aanval. De storing begon rond 08.20 uur en werd om 10.05 uur opgelost. Hierdoor waren ook overheidsdiensten zoals MijnOverheid slecht bereikbaar en functioneerde de DigiD-app niet. Gebruikers kregen time-outs en konden geen verificatiecode opvragen. Het is onbekend wie achter de herhaalde aanvallen zit. (Bron: tweakers.net)"
     },
     {
-        "id": "https://nos.nl/artikel/2560424-digid-opnieuw-tijdelijk-onbereikbaar-geweest-door-ddos-aanval?datalekt=deffcdca4d22e1067a778bee123efb65939ba579a66a66c75781d0f5091c707b",
+        "id": "https://nos.nl/artikel/2560424-digid-opnieuw-tijdelijk-onbereikbaar-geweest-door-ddos-aanval?datalekt=804847f071ea6fa405ea2876629d1305aa23887d885f4d4d2b0f7f3d41539693",
         "url": "https://nos.nl/artikel/2560424-digid-opnieuw-tijdelijk-onbereikbaar-geweest-door-ddos-aanval",
         "title": "DDoS-aanval legt DigiD opnieuw plat en verhindert inloggen bij Belastingdienst en andere overheidsdiensten",
         "date_published": "2025-03-24T09:55:00Z",
@@ -296,7 +478,7 @@
             "name": "nos.nl"
         },
         "content_html": "",
-        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 20-03-2025 | DataLekt.nl: Op 20 maart 2025 werd DigiD opnieuw getroffen door een DDoS-aanval waardoor burgers tijdelijk niet konden inloggen bij onder meer de Belastingdienst, DUO, UWV en ziekenhuizen. De aanval begon rond 10.15 uur en was drie kwartier later verholpen. Het is onbekend wie achter de aanval zit. Eerder deze maand veroorzaakten soortgelijke aanvallen al urenlange storingen bij DigiD. (Bron: nos.nl)"
+        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 20-03-2025 | DataLekt.nl: Op 20 maart 2025 werd DigiD opnieuw getroffen door een DDoS-aanval waardoor burgers tijdelijk niet konden inloggen bij onder meer de Belastingdienst, DUO, UWV en ziekenhuizen. De aanval begon rond 10.15 uur en was drie kwartier later verholpen. Het is onbekend wie achter de aanval zit. Eerder deze maand veroorzaakten soortgelijke aanvallen al urenlange storingen bij DigiD. (Bron: nos.nl)"
     },
     {
         "id": "https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie/?datalekt=0743b75ca0550c2b976d1c2dc1729a5b4c7f6087f42abf72b72fd326f8ec14ce",
@@ -338,7 +520,7 @@
         "content_text": "GraphicWorld Print &amp;amp; Packaging | Groot- en detailhandel | 11-03-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij GraphicWorld heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/879866/DigiD+was+door+ddos-aanval+korte+tijd+%27beperkt+beschikbaar%27?datalekt=e4580f868d72962575b3fe5ae99d69d7f599c5aaed9775be41305acda999563c",
+        "id": "https://www.security.nl/posting/879866/DigiD+was+door+ddos-aanval+korte+tijd+%27beperkt+beschikbaar%27?datalekt=b3adb6bbba9e6da3647f2edab951e56e8c08d88426627298ca3a1b5cb8dce825",
         "url": "https://www.security.nl/posting/879866/DigiD+was+door+ddos-aanval+korte+tijd+%27beperkt+beschikbaar%27",
         "title": "DigiD en gerelateerde diensten kortstondig beperkt beschikbaar door ddos-aanval\u200b",
         "date_published": "2025-03-14T10:02:00Z",
@@ -348,7 +530,7 @@
             "name": "security.nl"
         },
         "content_html": "",
-        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 13-03-2025 | DataLekt.nl: Op donderdag 13 maart 2025 waren DigiD en aanverwante diensten zoals DigiD Machtigen, BSNk, Digipoort en MijnOverheid tijdelijk beperkt beschikbaar door een ddos-aanval. De storing begon rond 15.00 uur en was binnen veertig minuten verholpen. Tijdens deze periode konden gebruikers mogelijk niet inloggen met hun DigiD. Op Allestoringen.nl werden meer dan drieduizend meldingen van problemen met de overheidsinlogdienst geregistreerd. Eerder deze maand en in januari ondervond DigiD ook al hinder van soortgelijke aanvallen. (Bron: security.nl)"
+        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 13-03-2025 | DataLekt.nl: Op donderdag 13 maart 2025 waren DigiD en aanverwante diensten zoals DigiD Machtigen, BSNk, Digipoort en MijnOverheid tijdelijk beperkt beschikbaar door een ddos-aanval. De storing begon rond 15.00 uur en was binnen veertig minuten verholpen. Tijdens deze periode konden gebruikers mogelijk niet inloggen met hun DigiD. Op Allestoringen.nl werden meer dan drieduizend meldingen van problemen met de overheidsinlogdienst geregistreerd. Eerder deze maand en in januari ondervond DigiD ook al hinder van soortgelijke aanvallen. (Bron: security.nl)"
     },
     {
         "id": "https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html?datalekt=44be56c338fb63b3c91ad22e7f322cb623f93b3be1b89803bee35dcbac54f144",
@@ -429,7 +611,7 @@
         "content_text": "Skal Biocontrole | Overheid: Zelfstandige bestuursorganen | 03-03-2025 | DataLekt.nl: In 2022 werd Skal, de Nederlandse toezichthouder op de biologische keten, getroffen door een cyberaanval op een managed service provider. Hierdoor lagen de primaire processen van registreren, certificeren en toezicht houden zes weken vrijwel volledig stil, wat leidde tot het niet behalen van inspectiedoelen en \u20ac92.000 aan extra kosten. De aanval veroorzaakte ernstige verstoringen in de inspecties van biologische bedrijven. (Bron: security.nl)"
     },
     {
-        "id": "https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval?datalekt=ef40efd924f93e268fd8b93361a59df0945efcf49651440f4ae7278aa8e629af",
+        "id": "https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval?datalekt=15426383dac0527889f357214e094ef47f74fb1e3e6cf485c3439225149aa3d2",
         "url": "https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval",
         "title": "DigiD tijdelijk onbereikbaar door DDoS-aanval",
         "date_published": "2025-03-03T13:04:00Z",
@@ -439,7 +621,7 @@
             "name": "nos.nl"
         },
         "content_html": "",
-        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 03-03-2025 | DataLekt.nl: Op maandag 3 maart 2025 werd DigiD getroffen door een DDoS-aanval, waardoor gebruikers urenlang niet konden inloggen bij overheidsdiensten zoals de Belastingdienst en gemeenten. Bij een DDoS-aanval wordt een server overspoeld met veel dataverkeer, wat leidt tot overbelasting en onbereikbaarheid. De aanval veroorzaakte hinder voor burgers die publieke diensten wilden gebruiken. Het is nog onbekend wie verantwoordelijk is voor de aanval; beheerder Logius onderzoekt de zaak. (Bron: nos.nl)"
+        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 03-03-2025 | DataLekt.nl: Op maandag 3 maart 2025 werd DigiD getroffen door een DDoS-aanval, waardoor gebruikers urenlang niet konden inloggen bij overheidsdiensten zoals de Belastingdienst en gemeenten. Bij een DDoS-aanval wordt een server overspoeld met veel dataverkeer, wat leidt tot overbelasting en onbereikbaarheid. De aanval veroorzaakte hinder voor burgers die publieke diensten wilden gebruiken. Het is nog onbekend wie verantwoordelijk is voor de aanval; beheerder Logius onderzoekt de zaak. (Bron: nos.nl)"
     },
     {
         "id": "https://www.woonmensen.nl/over-ons/nieuws/nieuwsbericht/kreeg-je-bericht-van-nijhuis-over-een-datalek-wij-leggen-het-uit?datalekt=44b50052304bd268e775aa26eddc61ecdab3791a65acf5420778003d65805e8e",
@@ -1116,187 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Hogeschool Utrecht | Onderwijs | 17-01-2025 | DataLekt.nl: Hogeschool Utrecht (HU) en andere Nederlandse onderwijsinstellingen werden donderdag getroffen door een landelijke DDoS-aanval op het SURF-netwerk. Deze aanval veroorzaakte trage of onbereikbare internetverbindingen, wat ook leidde tot verstoringen in HU-systemen zoals EENHU en MyHU. SURF, dat alle universiteiten, hogescholen en universitaire ziekenhuizen ondersteunt, ondervond zelf ook problemen door het intensieve netwerkverkeer. De aanval, die woensdag begon en donderdag escaleerde, stopte kort na 14:00 uur. SURF heeft maatregelen genomen om toekomstige aanvallen te beperken en staat in contact met het Nationaal Cyber Security Centrum (NCSC). (Bron: trajectum.hu.nl)"
-    },
-    {
-        "id": "https://www.omroepzeeland.nl/nieuws/17152619/ddos-aanval-op-hz-en-ucr-verholpen-printen-verliep-traag-en-koffie-betalen-ging-lastig?datalekt=6c227683686ec4883e410f4fb3d5839100f2ad0bdf18d298b219577637311d56",
-        "url": "https://www.omroepzeeland.nl/nieuws/17152619/ddos-aanval-op-hz-en-ucr-verholpen-printen-verliep-traag-en-koffie-betalen-ging-lastig",
-        "title": "DDoS-aanval verstoort betalingen en printservices bij University College Roosevelt",
-        "date_published": "2025-01-18T12:10:00Z",
-        "date_modified": "2025-01-18T12:10:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepzeeland.nl"
-        },
-        "content_html": "",
-        "content_text": "University College Roosevelt (Franklin) | Onderwijs | 16-01-2025 | DataLekt.nl: Op 16 januari 2025 werd University College Roosevelt getroffen door een DDoS-aanval, waardoor het printen van documenten en betalingen ernstig vertraagd werden. Studenten en medewerkers kampten met ongemakken door trage systemen. Er is geen informatie beschikbaar over de verantwoordelijken of de impact op financieel vlak. De instelling heeft de aanval aangepakt en de dienstverlening hersteld. (Bron: omroepzeeland.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/230886/surf-en-onderwijsinstellingen-opnieuw-getroffen-door-ddos-aanval.html?datalekt=3b3c4ba9d7753e5e12b6f37a001f8c77678d828adb96f601908e348c461692a2",
-        "url": "https://tweakers.net/nieuws/230886/surf-en-onderwijsinstellingen-opnieuw-getroffen-door-ddos-aanval.html",
-        "title": "DDoS-aanvallen verstoren internet bij SURF en onderwijsinstellingen in Nederland",
-        "date_published": "2025-01-18T12:09:00Z",
-        "date_modified": "2025-01-18T12:09:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "SURF | Informatie en communicatie | 16-01-2025 | DataLekt.nl: Op 16 januari 2025 werden SURF en onderwijsinstellingen in Nederland getroffen door een omvangrijke DDoS-aanval, die leidde tot trage of onbereikbare internetverbindingen. De aanval richtte zich op het zuiden van Nederland, maar had ook gevolgen voor andere delen van het netwerk. SURF ondervindt dagelijks DDoS-aanvallen, maar deze was aanzienlijk groter dan normaal. Filteren van het verkeer bleek lastig, en het oplossen van de problemen vergde tijd. De aanval volgde op een soortgelijke aanval de dag ervoor, maar betrof een andere bron. Het exacte motief of de daders zijn nog onbekend. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.omroepbrabant.nl/nieuws/4627079/cyberaanval-bij-scholen-en-ziekenhuis-voorbij-systemen-weer-hersteld?datalekt=f435c6fdf05742d6c150368d795d308e657464c1ba4cab4e6c89b85d126e73ba",
-        "url": "https://www.omroepbrabant.nl/nieuws/4627079/cyberaanval-bij-scholen-en-ziekenhuis-voorbij-systemen-weer-hersteld",
-        "title": "DDoS-aanval op SURF-netwerk veroorzaakt ongemak bij Summa College",
-        "date_published": "2025-01-18T12:08:00Z",
-        "date_modified": "2025-01-18T12:08:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepbrabant.nl"
-        },
-        "content_html": "",
-        "content_text": "Summa College | Onderwijs | 16-01-2025 | DataLekt.nl: Het Summa College in Eindhoven werd donderdagochtend getroffen door de gevolgen van een omvangrijke DDoS-aanval op het SURF-netwerk. Studenten en docenten hadden door de aanval veel ongemak, maar konden rond vier uur \u2019s middags weer volledig gebruikmaken van de systemen. SURF, dat het netwerk beheert voor onderwijs- en onderzoeksinstellingen, heeft maatregelen genomen om nieuwe aanvallen te voorkomen. Over de daders of het motief is niets bekend, en er is geen aangifte gedaan. Het betrof een aanval van uitzonderlijke schaal. (Bron: omroepbrabant.nl)"
-    },
-    {
-        "id": "https://www.omroepbrabant.nl/nieuws/4627079/cyberaanval-bij-scholen-en-ziekenhuis-voorbij-systemen-weer-hersteld?datalekt=e1579ec5c4fbd18f4a2fd6bb4fc85ebb5fc4419879c38cbd439db2e53ff476bf",
-        "url": "https://www.omroepbrabant.nl/nieuws/4627079/cyberaanval-bij-scholen-en-ziekenhuis-voorbij-systemen-weer-hersteld",
-        "title": "DDoS-aanval vertraagt systemen M\u00e1xima Medisch Centrum, pati\u00ebntenzorg bleef gewaarborgd",
-        "date_published": "2025-01-18T12:07:00Z",
-        "date_modified": "2025-01-18T12:07:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepbrabant.nl"
-        },
-        "content_html": "",
-        "content_text": "M\u00e1xima Medisch Centrum | Gezondheids- en welzijnszorg | 16-01-2025 | DataLekt.nl: Het M\u00e1xima Medisch Centrum in Eindhoven en Veldhoven ondervond donderdagochtend door een grote DDoS-aanval op het SURF-netwerk vertraagde systemen. De aanval had geen impact op de pati\u00ebntenzorg, die ongehinderd doorging. SURF, dat het gezamenlijke computernetwerk van onder meer ziekenhuizen beheert, meldde dat de systemen rond vier uur \u2019s middags volledig hersteld waren. Om nieuwe aanvallen te voorkomen, zijn preventieve maatregelen genomen. Er is geen informatie over de daders of hun motief, en er is nog geen aangifte gedaan. Het betrof een zeer omvangrijke aanval. (Bron: omroepbrabant.nl)"
-    },
-    {
-        "id": "https://www.omroepzeeland.nl/nieuws/17152619/ddos-aanval-op-hz-en-ucr-verholpen-printen-verliep-traag-en-koffie-betalen-ging-lastig?datalekt=0b44147e446da6337ffeac16308940fc85ab6bc73aa1433a0dbbf2bcbfe77f04",
-        "url": "https://www.omroepzeeland.nl/nieuws/17152619/ddos-aanval-op-hz-en-ucr-verholpen-printen-verliep-traag-en-koffie-betalen-ging-lastig",
-        "title": "DDoS-aanval op HZ University verstoort printen en betaalservices",
-        "date_published": "2025-01-18T12:06:00Z",
-        "date_modified": "2025-01-18T12:06:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepzeeland.nl"
-        },
-        "content_html": "",
-        "content_text": "HZ University | Onderwijs | 16-01-2025 | DataLekt.nl: Op 16 januari 2025 werd HZ University of Applied Sciences getroffen door een DDoS-aanval, waardoor diensten zoals printen en betalingen verstoord raakten. Medewerkers en studenten ondervonden hinder door trage systemen en beperkte toegang tot bepaalde diensten. Details over de daders of financi\u00eble schade zijn niet bekendgemaakt. De instelling heeft actie ondernomen om de aanval te verhelpen en de dienstverlening te herstellen. (Bron: omroepzeeland.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/872684/Logius%3A+DigiD+gisteren+opnieuw+doelwit+van+grootschalige+ddos-aanval?datalekt=949380dc6cae3bd4046c50a61b263df262043a0387df1b8a6cf8f4596a516ac8",
-        "url": "https://www.security.nl/posting/872684/Logius%3A+DigiD+gisteren+opnieuw+doelwit+van+grootschalige+ddos-aanval",
-        "title": "DigiD tijdelijk onbereikbaar door grootschalige DDoS-aanval op Logius-diensten",
-        "date_published": "2025-01-18T12:05:00Z",
-        "date_modified": "2025-01-18T12:05:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Overheid: Ministeries | 16-01-2025 | DataLekt.nl: Op 15 januari 2025 was DigiD, de inlogdienst voor overheidsdiensten, tijdelijk niet beschikbaar door een grootschalige DDoS-aanval gericht op de infrastructuur van Logius. Door de aanval werd het netwerk overbelast, ondanks de inzet van geavanceerde DDoS-bescherming. Logius onderzoekt het incident en werkt aan maatregelen om de beveiliging van DigiD en andere diensten verder te verbeteren. Gebruikers hebben geen toegang gehad tot DigiD gedurende meer dan een uur. Over mogelijke schade of de verantwoordelijke partij is geen verdere informatie bekendgemaakt. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/872684/Logius%3A+DigiD+gisteren+opnieuw+doelwit+van+grootschalige+ddos-aanval?datalekt=3b8c1d02242bcc84f65e9905c641a317c02a168a6e483c9521276110984a8051",
-        "url": "https://www.security.nl/posting/872684/Logius%3A+DigiD+gisteren+opnieuw+doelwit+van+grootschalige+ddos-aanval",
-        "title": "Logius onderzoekt uitzonderlijke DDoS-aanval op DigiD en andere diensten",
-        "date_published": "2025-01-18T12:04:00Z",
-        "date_modified": "2025-01-18T12:04:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Logius | Informatie en communicatie | 16-01-2025 | DataLekt.nl: Op 15 januari 2025 werden DigiD en andere Logius-diensten tijdelijk onbereikbaar door een uitzonderlijk grote DDoS-aanval. Ondanks de gebruikelijke bescherming tegen dergelijke aanvallen, leidde de omvang en complexiteit tot een tijdelijke uitval van ruim een uur. Logius neemt bescherming af van twee gespecialiseerde leveranciers en onderzoekt hoe de beveiliging verder kan worden verbeterd. De aanvallen, die deze week meerdere keren plaatsvonden, hebben geen blijvende schade veroorzaakt. Er is geen informatie beschikbaar over de dader of de precieze motivatie achter de aanval. (Bron: security.nl)"
-    },
-    {
-        "id": "https://profielen.hr.nl/2025/enorme-ddos-aanval-op-onderwijs-ook-merkbaar-op-hogeschool-rotterdam/?datalekt=e12caaa7eaf1dcd26092946fd0b54b6aac05a7b30bee6db7a3599089283a9654",
-        "url": "https://profielen.hr.nl/2025/enorme-ddos-aanval-op-onderwijs-ook-merkbaar-op-hogeschool-rotterdam/",
-        "title": "Enorme DDoS-aanval op onderwijs raakt Hogeschool Rotterdam en andere instellingen in Nederland",
-        "date_published": "2025-01-18T12:03:00Z",
-        "date_modified": "2025-01-18T12:03:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "hr.nl"
-        },
-        "content_html": "",
-        "content_text": "Hogeschool Rotterdam | Onderwijs | 16-01-2025 | DataLekt.nl: Op 15 en 16 januari 2025 werden diverse onderwijsinstellingen, waaronder Hogeschool Rotterdam, getroffen door een grootschalige DDoS-aanval. De aanval, die zich richtte op het netwerk van SURF, had een landelijke impact doordat instellingen met elkaar verbonden zijn. Instellingen in het zuiden, zoals Fontys, werden het zwaarst getroffen. Wifi, telefoons en andere systemen vielen tijdelijk uit. Hoewel SURF dagelijks aanvallen afslaat, was de omvang van deze aanval uitzonderlijk groot. De aanvallers zijn onbekend. Onderwijsinstellingen werken intensief samen om de digitale weerbaarheid te versterken. (Bron: profielen.hr.nl)"
-    },
-    {
-        "id": "https://www.resource-online.nl/index.php/2025/01/16/hacker-ontdekt-kwetsbaarheden-in-hr-applicatie/?datalekt=99b67a588dd2d325a6fe83a47ae5b7337287dabcbf27bc54d8c8b298a4cfdd98",
-        "url": "https://www.resource-online.nl/index.php/2025/01/16/hacker-ontdekt-kwetsbaarheden-in-hr-applicatie/",
-        "title": "Hacker ontdekt kwetsbaarheden in HR-applicatie van Wageningen University &amp;amp; Research",
-        "date_published": "2025-01-18T12:02:00Z",
-        "date_modified": "2025-01-18T12:02:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "resource-online.nl"
-        },
-        "content_html": "",
-        "content_text": "Wageningen University &amp;amp; Research (WUR) | Onderwijs | 16-01-2025 | DataLekt.nl: In mei 2024 ontdekte een ethische hacker een datalek in de HR-applicatie van Wageningen University &amp;amp; Research (WUR), waarbij gegevens zoals BSN-nummers van 1.500 personen toegankelijk waren via een publiek script. Hoewel het lek direct werd gedicht, vond een externe test in december nieuwe kwetsbaarheden. Hierdoor konden documenten kort worden ingezien bij upload. Er is geen bewijs van misbruik, maar 18.000 (oud)-medewerkers zijn ge\u00efnformeerd. De Autoriteit Persoonsgegevens werd ingelicht en de applicatie wordt uitgefaseerd. Een veiliger oplossing heeft prioriteit. (Bron: resource-online.nl)"
-    },
-    {
-        "id": "https://www.resource-online.nl/index.php/2025/01/16/hacker-ontdekt-kwetsbaarheden-in-hr-applicatie/?datalekt=c0d9ca5a59dbeed7ffb660e035a2539845591f30c00aa9117e3c8d0bb6905426",
-        "url": "https://www.resource-online.nl/index.php/2025/01/16/hacker-ontdekt-kwetsbaarheden-in-hr-applicatie/",
-        "title": "Kwetsbaarheden in HR-applicatie leggen aandachtspunten bloot voor gebruikers van Mendix-platform",
-        "date_published": "2025-01-18T12:01:00Z",
-        "date_modified": "2025-01-18T12:01:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "resource-online.nl"
-        },
-        "content_html": "",
-        "content_text": "Mendix Technology | Informatie en communicatie | 16-01-2025 | DataLekt.nl: Een ethische hacker ontdekte kwetsbaarheden in een HR-applicatie van Wageningen University &amp;amp; Research (WUR), gebouwd op het Mendix-platform. In mei 2024 bleek gevoelige informatie toegankelijk door een publiek script. Hoewel WUR snel een fix doorvoerde, toonde een externe test in december aanvullende risico\u2019s, waarbij documenten tijdelijk zichtbaar waren tijdens uploads. Mendix benadrukt het belang van correcte implementatie en monitoring door gebruikers. WUR heeft de Autoriteit Persoonsgegevens ge\u00efnformeerd en besloten de toepassing stop te zetten. Mendix ondersteunt klanten bij het waarborgen van beveiliging in applicaties. (Bron: resource-online.nl)"
-    },
-    {
-        "id": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop?datalekt=88448bc6741940ae8b3d19589744d0a6b96354b8626774b6e76bbc173911e01c",
-        "url": "https://www.bnr.nl/nieuws/tech-innovatie/10564779/locatiegegevens-gebruikers-buienalarm-online-te-koop",
-        "title": "Locatiegegevens van Buienalarm-gebruikers illegaal verkocht via Amerikaanse datahandelaar",
-        "date_published": "2025-01-18T12:00:00Z",
-        "date_modified": "2025-01-18T12:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "bnr.nl"
-        },
-        "content_html": "",
-        "content_text": "Infoplaza | Informatie en communicatie | 15-01-2025 | DataLekt.nl: Miljoenen locatiegegevens van gebruikers van Buienalarm, beheerd door Infoplaza, zijn zonder toestemming online verkocht door de Amerikaanse datahandelaar Datastream Group via Datarade. Deze gegevens, soms gekoppeld aan unieke reclame-ID\u2019s, maken het mogelijk gebruikers te identificeren. De data zijn vermoedelijk verzameld via realtime bidding-advertenties. Infoplaza ontkent betrokkenheid, maar privacy-experts noemen het incident illegaal en een ernstige privacyschending. Ondanks toezeggingen van justitie begin 2024 is er weinig verbeterd in de aanpak van dergelijke datalekken. (Bron: bnr.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval?datalekt=e1d73890e9e2acce5da2f4894e14089db3d9c2d4ba5d845f8a4845f27332f9f0",
-        "url": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval",
-        "title": "University getroffen door DDoS-aanval op SURF-netwerk",
-        "date_published": "2025-01-16T10:34:00Z",
-        "date_modified": "2025-01-16T10:34:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Tilburg University | Onderwijs | 15-01-2025 | DataLekt.nl: Een DDoS-aanval op het SURF-netwerk, een gemeenschappelijk ICT-platform voor onderwijsinstellingen, veroorzaakte tijdelijke storingen bij Tilburg University. Ook Fontys Hogeschool en Universiteit Maastricht werden getroffen. Hoewel de aanval netwerkproblemen veroorzaakte, zijn de storingen inmiddels opgelost. De aanval richtte zich niet specifiek op Tilburg University, en de identiteit van de daders is onbekend. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval?datalekt=503e1e1da1c60a79759f8a7d487735d85e59dc6bab9dad1e179ed03c64131023",
-        "url": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval",
-        "title": "DDoS-aanval op SURF-netwerk veroorzaakt storingen bij Universiteit Maastricht",
-        "date_published": "2025-01-16T10:33:00Z",
-        "date_modified": "2025-01-16T10:33:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Universiteit Maastricht | Onderwijs | 15-01-2025 | DataLekt.nl: Universiteit Maastricht ondervond netwerkproblemen door een DDoS-aanval op het SURF-netwerk, een gedeelde ICT-infrastructuur voor onderwijsinstellingen. Naast de universiteit werden ook Fontys Hogeschool en Tilburg University getroffen. De aanval zorgde voor tijdelijke netwerkuitval, maar de situatie is inmiddels hersteld. De aanval was niet specifiek gericht op een van de instellingen, en de daders blijven onbekend. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval?datalekt=cfcd60aed31ee47808ab0358e39d2bbc10a99cd917fcae08f66eed78bcd58450",
-        "url": "https://nos.nl/artikel/2551918-computernetwerk-tilburgse-hogeschool-urenlang-onbereikbaar-door-ddos-aanval",
-        "title": "Fontys Hogeschool urenlang getroffen door DDoS-aanval op SURF-netwerk",
-        "date_published": "2025-01-16T10:32:00Z",
-        "date_modified": "2025-01-16T10:32:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Fontys Hogeschool | Onderwijs | 15-01-2025 | DataLekt.nl: Fontys Hogeschool kampte met een urenlange netwerkstoring door een DDoS-aanval op het SURF-netwerk, dat onderwijsinstellingen in de regio ondersteunt. Hierdoor konden 43.000 studenten en medewerkers tijdelijk geen verbinding maken. Lesgeven bleef mogelijk, en het netwerk is inmiddels stabiel. De aanval richtte zich niet op Fontys zelf en staat los van eerdere incidenten bij andere instellingen. De identiteit van de aanvallers is onbekend. (Bron: nos.nl)"
     }
 ]
