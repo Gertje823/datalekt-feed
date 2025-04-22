@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 20 Apr 2025 12:36:10 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 22 Apr 2025 12:40:30 +0000</lastBuildDate>
+		<item>
+			<title>Odido (voorheen T-Mobile) getroffen door datalek via telecomdealer: klantgegevens misbruikt voor sim-swapping</title>
+			<link>https://www.security.nl/posting/884874/Eigenaar+belwinkel+faciliteerde+sim-swapping+voor+het+stelen+van+cryptovaluta</link>
+			<description>Odido | Informatie en communicatie | 20-04-2025 | DataLekt.nl: In april 2025 werd bekend dat telecombedrijf Odido (voorheen T-Mobile) is getroffen door een datalek waarbij klantgegevens via bevoegde toegang zijn misbruikt voor sim-swapping en cryptodiefstal. Medewerkers van een T-Mobile-winkel en een externe dealer verleenden bewust toegang tot systemen als Salesforce, TAS en KMT. Criminelen gebruikten deze toegang om 06-nummers over te zetten en zo onder andere tweefactorauthenticatie te omzeilen. Minstens acht personen werden slachtoffer van accountovernames en financieel verlies. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/884874/Eigenaar+belwinkel+faciliteerde+sim-swapping+voor+het+stelen+van+cryptovaluta?datalekt=c3ead705ba13c45133ff171e01fc1d381bc4229dbc9a5439e5ca117f49662778</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>DDoS-aanvallen op Adyen verstoren betalingsverkeer en toegang tot klantdiensten</title>
+			<link>https://www.security.nl/posting/884986/Adyen%3A+ddos-aanvallen+verstoorden+verwerken+van+betalingen+bij+klanten</link>
+			<description>Adyen | Financiële instellingen | 22-04-2025 | DataLekt.nl: Op 21 april 2025 werd betalingsverwerker Adyen getroffen door meerdere DDoS-aanvallen, wat leidde tot verstoringen bij het verwerken van betalingen via Europese endpoints. Klanten kregen te maken met foutmeldingen en trage reacties. Ook werden onboarding, API&amp;#039;s en klantomgevingen tijdelijk getroffen. De eerste aanval begon rond 19.00 uur; de laatste update om 03.30 uur meldde volledige herstel van de diensten. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/884986/Adyen%3A+ddos-aanvallen+verstoorden+verwerken+van+betalingen+bij+klanten?datalekt=52751d50d79348107b9b24ce77143f6e95436829a323a9e33ae2c349d2b1d218</guid>
+			<category>Financiële instellingen </category>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ministerie van Volkshuisvesting en Ruimtelijke Ordening getroffen door datalek met persoonsgegevens in metadata</title>
 			<link>https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html</link>
@@ -767,22 +783,6 @@
 			<guid isPermaLink="false">https://www.ru.nl/over-ons/nieuws/trage-internetverbinding-door-landelijke-ddos-aanval-op-surf?datalekt=94ca8468e793bfc195216aec484e0fcd80961d26158483a3f18a9e79ee10fa86</guid>
 			<category>Onderwijs </category>
 			<pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DDoS-aanval raakt Nederlandse onderwijsinstellingen voor derde dag op rij via SURF-netwerk</title>
-			<link>https://tweakers.net/nieuws/230922/nederlandse-onderwijsinstellingen-hebben-voor-derde-dag-last-van-ddos-aanval.html</link>
-			<description>SURF | Informatie en communicatie | 17-01-2025 | DataLekt.nl: Nederlandse onderwijsinstellingen ervaren voor de derde dag op rij storingen door een DDoS-aanval op het SURF-netwerk, dat de ICT-infrastructuur voor onderwijs en onderzoek beheert. De aanval begon woensdagochtend en ging door in de nachten en ochtenden daarna, met meldingen van netwerkproblemen bij instellingen zoals Fontys en Eduroam. Het gaat om grootschalige, geografisch verspreide aanvallen. SURF onderzoekt de effectiviteit van eerder genomen mitigerende maatregelen. Er zijn geen aanwijzingen dat deze aanval verband houdt met de recente cyberaanval op de TU Eindhoven. Er is geen melding van financiële schade of getroffen personen. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/230922/nederlandse-onderwijsinstellingen-hebben-voor-derde-dag-last-van-ddos-aanval.html?datalekt=fb73b47499695492ef1f6ad248561d365ca9e7384ea736fb436e69ae940d2c5b</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hogeschool Utrecht getroffen door landelijke DDoS-aanval op SURF-netwerk</title>
-			<link>https://trajectum.hu.nl/ook-hu-geraakt-door-landelijke-ddos-aanval-hoger-onderwijs/</link>
-			<description>Hogeschool Utrecht | Onderwijs | 17-01-2025 | DataLekt.nl: Hogeschool Utrecht (HU) en andere Nederlandse onderwijsinstellingen werden donderdag getroffen door een landelijke DDoS-aanval op het SURF-netwerk. Deze aanval veroorzaakte trage of onbereikbare internetverbindingen, wat ook leidde tot verstoringen in HU-systemen zoals EENHU en MyHU. SURF, dat alle universiteiten, hogescholen en universitaire ziekenhuizen ondersteunt, ondervond zelf ook problemen door het intensieve netwerkverkeer. De aanval, die woensdag begon en donderdag escaleerde, stopte kort na 14:00 uur. SURF heeft maatregelen genomen om toekomstige aanvallen te beperken en staat in contact met het Nationaal Cyber Security Centrum (NCSC). (Bron: trajectum.hu.nl)</description>
-			<guid isPermaLink="false">https://trajectum.hu.nl/ook-hu-geraakt-door-landelijke-ddos-aanval-hoger-onderwijs/?datalekt=981bc83fc14e92806f525ebb54203e49877d57cd8aef905ca4a717545e64528b</guid>
-			<category>Onderwijs </category>
-			<pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
