@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html?datalekt=a0f6977bf4f62eb401a186e3b37001090e06a30db326174202e075099e02bf6a",
+        "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html",
+        "title": "Datalek bij Zaffier: retourenveloppen met financi\u00eble gegevens van 93 inwoners mogelijk onveilig verwerkt",
+        "date_published": "2025-04-03T14:19:00Z",
+        "date_modified": "2025-04-23T15:48:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "noordhollandsdagblad.nl"
+        },
+        "content_html": "",
+        "content_text": "Zaffier | Overige dienstverlening | 01-04-2025 | DataLekt.nl: Op 1 april 2025 werd bekend dat Zaffier in de regio Alkmaar een datalek heeft veroorzaakt waarbij gevoelige financi\u00eble informatie van 93 inwoners mogelijk op straat is beland. De betrokkenen moesten persoonlijke gegevens opsturen voor een heronderzoek naar hun uitkering, maar ontvingen daarvoor onjuist geadresseerde retourenveloppen. Hierdoor bestond het risico dat gegevens bij verkeerde ontvangers terechtkwamen. [Update: Op 20 april 2025 is bekend geworden dat er geen priv\u00e9gegevens van inwoners regio Alkmaar in verkeerde handen zijn terechtgekomen.] (Bron: noordhollandsdagblad.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/884874/Eigenaar+belwinkel+faciliteerde+sim-swapping+voor+het+stelen+van+cryptovaluta?datalekt=c3ead705ba13c45133ff171e01fc1d381bc4229dbc9a5439e5ca117f49662778",
         "url": "https://www.security.nl/posting/884874/Eigenaar+belwinkel+faciliteerde+sim-swapping+voor+het+stelen+van+cryptovaluta",
         "title": "Odido (voorheen T-Mobile) getroffen door datalek via telecomdealer: klantgegevens misbruikt voor sim-swapping",
@@ -453,19 +466,6 @@
         },
         "content_html": "",
         "content_text": "Koninklijke Lemkes | Groot- en detailhandel | 25-03-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Koninklijke Lemkes heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html?datalekt=d699c9e8c219aa92e9f6b6e30c62d8444ab671aad5f898d5d44933d2ff0687f6",
-        "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html",
-        "title": "Datalek bij Zaffier: retourenveloppen met financi\u00eble gegevens van 93 inwoners mogelijk onveilig verwerkt",
-        "date_published": "2025-04-03T14:19:00Z",
-        "date_modified": "2025-04-03T14:19:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "noordhollandsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "Zaffier | Overige dienstverlening | 01-04-2025 | DataLekt.nl: Op 1 april 2025 werd bekend dat Zaffier in de regio Alkmaar een datalek heeft veroorzaakt waarbij gevoelige financi\u00eble informatie van 93 inwoners mogelijk op straat is beland. De betrokkenen moesten persoonlijke gegevens opsturen voor een heronderzoek naar hun uitkering, maar ontvingen daarvoor onjuist geadresseerde retourenveloppen. Hierdoor bestond het risico dat gegevens bij verkeerde ontvangers terechtkwamen. (Bron: noordhollandsdagblad.nl)"
     },
     {
         "id": "https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling?datalekt=dbe9247bcc136377f0a7decc8d90dc1a6e2282de1032d98c8a69149066498e1c",

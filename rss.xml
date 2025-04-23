@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 22 Apr 2025 12:40:30 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 18:29:50 +0000</lastBuildDate>
 		<item>
 			<title>Odido (voorheen T-Mobile) getroffen door datalek via telecomdealer: klantgegevens misbruikt voor sim-swapping</title>
 			<link>https://www.security.nl/posting/884874/Eigenaar+belwinkel+faciliteerde+sim-swapping+voor+het+stelen+van+cryptovaluta</link>
@@ -283,8 +283,8 @@
 		<item>
 			<title>Datalek bij Zaffier: retourenveloppen met financiële gegevens van 93 inwoners mogelijk onveilig verwerkt</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html</link>
-			<description>Zaffier | Overige dienstverlening | 01-04-2025 | DataLekt.nl: Op 1 april 2025 werd bekend dat Zaffier in de regio Alkmaar een datalek heeft veroorzaakt waarbij gevoelige financiële informatie van 93 inwoners mogelijk op straat is beland. De betrokkenen moesten persoonlijke gegevens opsturen voor een heronderzoek naar hun uitkering, maar ontvingen daarvoor onjuist geadresseerde retourenveloppen. Hierdoor bestond het risico dat gegevens bij verkeerde ontvangers terechtkwamen. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html?datalekt=d699c9e8c219aa92e9f6b6e30c62d8444ab671aad5f898d5d44933d2ff0687f6</guid>
+			<description>Zaffier | Overige dienstverlening | 01-04-2025 | DataLekt.nl: Op 1 april 2025 werd bekend dat Zaffier in de regio Alkmaar een datalek heeft veroorzaakt waarbij gevoelige financiële informatie van 93 inwoners mogelijk op straat is beland. De betrokkenen moesten persoonlijke gegevens opsturen voor een heronderzoek naar hun uitkering, maar ontvingen daarvoor onjuist geadresseerde retourenveloppen. Hierdoor bestond het risico dat gegevens bij verkeerde ontvangers terechtkwamen. [Update: Op 20 april 2025 is bekend geworden dat er geen privégegevens van inwoners regio Alkmaar in verkeerde handen zijn terechtgekomen.] (Bron: noordhollandsdagblad.nl)</description>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html?datalekt=a0f6977bf4f62eb401a186e3b37001090e06a30db326174202e075099e02bf6a</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
