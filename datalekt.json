@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/?datalekt=33ecf99e0c12522491f947ae36a2744e5f5087c003a639809a74e0fb6cf08329",
+        "url": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/",
+        "title": "Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen",
+        "date_published": "2025-04-17T09:02:00Z",
+        "date_modified": "2025-04-24T11:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. [Update: Op 22 april 2025 is ook bekend geworden dat salarisgegevens en namen van medewerkers zijn gelekt.] (Bron: ad.nl)"
+    },
+    {
         "id": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html?datalekt=a0f6977bf4f62eb401a186e3b37001090e06a30db326174202e075099e02bf6a",
         "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html",
         "title": "Datalek bij Zaffier: retourenveloppen met financi\u00eble gegevens van 93 inwoners mogelijk onveilig verwerkt",
@@ -219,19 +232,6 @@
         },
         "content_html": "",
         "content_text": "Nationale Politie | Overheid: Politie en brandweer | 16-04-2025 | DataLekt.nl: In april 2025 heeft de politie Woo-documenten van haar website verwijderd nadat bleek dat zwartgelakte informatie eenvoudig terug te halen was door de bestanden in Word te openen. Het betrof onder andere documenten met gegevens over snelheidscontroles en politiemedewerkers. Ook bleek gevoelige informatie zichtbaar via de metadata. Het incident is bij de Autoriteit Persoonsgegevens gemeld als datalek. De documenten worden pas opnieuw gepubliceerd na grondige controle. (Bron: ibestuur.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/?datalekt=4cb3644eca03452856a4451631ff1730af0d0ad4e707eb5ddfba66c4f1095000",
-        "url": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/",
-        "title": "Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen",
-        "date_published": "2025-04-17T09:02:00Z",
-        "date_modified": "2025-04-19T14:31:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. (Bron: ad.nl)"
     },
     {
         "id": "https://www.rijnmond.nl/nieuws/1998404/vrouw-krijgt-ontslag-voor-datalek-bij-alarmcentrale-iedereen-doet-het?datalekt=c6d7fee9691da75c7a76fc3729c9f5bf831a88d2188d67b9c2c953438635f218",
