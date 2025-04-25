@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.vpro.nl/argos/lees/onderwerpen/algoritme/2023/fouten-bij-totstandkoming-data-experiment-ggz.html?datalekt=d1e1dacde1b101bddedb0180fca4e974a04d4f41ca687be0210cd435945f6bfc",
+        "url": "https://www.vpro.nl/argos/lees/onderwerpen/algoritme/2023/fouten-bij-totstandkoming-data-experiment-ggz.html",
+        "title": "Fouten in dataverzameling door Nederlandse Zorgautoriteit in GGZ-sector",
+        "date_published": "2023-09-01T09:52:00Z",
+        "date_modified": "2025-04-25T16:47:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vpro.nl"
+        },
+        "content_html": "",
+        "content_text": "Nederlandse Zorgautoriteit (NZa) | Overheid: Zelfstandige bestuursorganen | 31-08-2023 | DataLekt.nl: Sinds 1 juli verzamelt de Nederlandse Zorgautoriteit (NZa) persoonlijke gegevens van alle GGZ-pati\u00ebnten in Nederland via de HONOS+lijsten, vragenlijsten met gevoelige informatie. Deze data, afkomstig van circa 800 duizend pati\u00ebnten, dient voor de ontwikkeling van een nieuw algoritme ter verbetering van de zorg. Echter, er zijn fouten gemaakt bij het invoeren van deze lijsten. Uit mailwisselingen tussen de NZa en de Autoriteit Persoonsgegevens (AP) blijkt dat de NZa de AP onvoldoende heeft ge\u00efnformeerd over de privacyrisico&#039;s van deze maatregel. [Update: Op 23 april 2025 heeft de rechter bepaald dat NZa gegevens van pati\u00ebnten bij psychiaters en psychologen mocht opvragen.] (Bron: vpro.nl)"
+    },
+    {
+        "id": "https://www.digitaltrustcenter.nl/ondernemersverhalen/hoe-een-hack-een-brabantse-plantenkwekerij-bijna-stillegde?datalekt=3cab586cbf0e0e30fbdab0e6055bfff2964045aae00a16dfb70ce7d65d6e4db3",
+        "url": "https://www.digitaltrustcenter.nl/ondernemersverhalen/hoe-een-hack-een-brabantse-plantenkwekerij-bijna-stillegde",
+        "title": "Kwekerij de Groot uit Prinsenbeek getroffen door ransomware-aanval; geautomatiseerde bedrijfsvoering bijna volledig stilgelegd",
+        "date_published": "2025-04-25T16:41:00Z",
+        "date_modified": "2025-04-25T16:41:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "digitaltrustcenter.nl"
+        },
+        "content_html": "",
+        "content_text": "Kwekerij de Groot | Landbouw, bosbouw en visserij | 24-04-2025 | DataLekt.nl: Kwekerij de Groot, een Brabantse plantenkwekerij in Prinsenbeek, werd getroffen door een ransomware-aanval waarbij centrale configuratiebestanden van het geautomatiseerde teeltsysteem werden versleuteld. Door het faillissement van de oorspronkelijke softwareleverancier was herstel lastig en risicovol. De back-ups bleken ook besmet, waardoor \u00e9\u00e9n systeemfout de hele bedrijfsvoering had kunnen stilleggen. Dankzij recente cloudmigraties kon een deel van de bedrijfsfuncties worden hervat. Er is aangifte gedaan en inmiddels zijn extra maatregelen genomen. (Bron: digitaltrustcenter.nl)"
+    },
+    {
         "id": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/?datalekt=33ecf99e0c12522491f947ae36a2744e5f5087c003a639809a74e0fb6cf08329",
         "url": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/",
         "title": "Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Wageningen University &amp;amp; Research (WUR) | Onderwijs | 17-01-2025 | DataLekt.nl: Wageningen University &amp;amp; Research (WUR) ondervond meerdere dagen hinder door DDoS-aanvallen, waardoor het internet traag was of uitviel. Vooral thuiswerkers meldden problemen, hoewel veel medewerkers weinig hinder ervaarden. Er zijn geen extra maatregelen genomen, en het onderwijs gaat door zoals gepland. De aanvallen bestookten het netwerk met overmatig dataverkeer, waardoor systemen overbelast raakten. Surf, de overkoepelende IT-organisatie, onderzoekt de situatie en heeft aangifte gedaan. Wie verantwoordelijk is voor de aanvallen, is niet bekend. Er is geen melding van grote schade. (Bron: gelderlander.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/872820/Rechter+verlaagt+bestuurlijke+AVG-boete+voor+livestream+in+Fries+dorp?datalekt=6436aafb1d18ed922a92db92d60f317b44b67e19203e97dc22e89922c9a1b194",
-        "url": "https://www.security.nl/posting/872820/Rechter+verlaagt+bestuurlijke+AVG-boete+voor+livestream+in+Fries+dorp",
-        "title": "Rechter verlaagt AVG-boete voor livestream van dorpsbeelden door inwoner Fries dorp",
-        "date_published": "2025-01-19T17:02:00Z",
-        "date_modified": "2025-01-19T17:02:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende individu | Huishoudens als werkgever | 17-01-2025 | DataLekt.nl: Een inwoner van een Fries dorp plaatste in 2014 en 2016 twee camera&#039;s om een livestream van het dorp uit te zenden. Naar aanleiding van klachten stelde de Autoriteit Persoonsgegevens (AP) in 2019 een onderzoek in en concludeerde dat de vrouw onrechtmatig persoonsgegevens verwerkte. In 2021 legde de AP een boete van 500 euro op, die in 2022 werd bevestigd. De vrouw stopte in september 2022 met de livestream en ging in beroep. De rechter oordeelde dat de AP terecht handelde, maar vanwege de lange duur van de procedure werd de boete met 25% verlaagd tot 375 euro. Daarnaast moet de AP de proceskosten van circa 3200 euro vergoeden. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.ru.nl/over-ons/nieuws/trage-internetverbinding-door-landelijke-ddos-aanval-op-surf?datalekt=94ca8468e793bfc195216aec484e0fcd80961d26158483a3f18a9e79ee10fa86",
-        "url": "https://www.ru.nl/over-ons/nieuws/trage-internetverbinding-door-landelijke-ddos-aanval-op-surf",
-        "title": "DDoS-aanvallen op SURF leiden tot verstoringen en phishing bij Radboud Universiteit",
-        "date_published": "2025-01-19T17:00:00Z",
-        "date_modified": "2025-01-19T17:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ru.nl"
-        },
-        "content_html": "",
-        "content_text": "Radboud Universiteit | Onderwijs | 16-01-2025 | DataLekt.nl: Op 16 en 17 januari 2025 werd het netwerk van SURF, de ICT-co\u00f6peratie voor onderwijs- en onderzoeksinstellingen, getroffen door meerdere DDoS-aanvallen. Dit veroorzaakte trage internetverbindingen op campussen, zoals bij de Radboud Universiteit. Parallel aan de aanvallen werd een phishingcampagne binnen de universiteit waargenomen. SURF en de universiteit namen maatregelen, zoals verbeterde inlogbeveiliging bij eduVPN, en adviseren waakzaamheid tegen phishingmails. Momenteel worden digitale toetsen uitgevoerd met aangepaste procedures. De aanvallers of omvang van de schade zijn niet bekendgemaakt. (Bron: ru.nl)"
     }
 ]
