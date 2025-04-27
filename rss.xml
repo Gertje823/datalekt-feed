@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 25 Apr 2025 18:27:52 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 27 Apr 2025 18:25:48 +0000</lastBuildDate>
+		<item>
+			<title>Website Almelo Events gehackt: bezoekers kregen webwinkel voor erectiepillen en vibrators te zien</title>
+			<link>https://www.tubantia.nl/almelo/erectiepillen-en-vibrators-in-plaats-van-een-plekje-op-de-almelose-oranjemarkt~a8f3fad6/</link>
+			<description>Stichting Almelo Events | Cultuur, sport en recreatie | 24-04-2025 | DataLekt.nl: In april 2025 werd de website van Almelo Events gehackt, waardoor bezoekers die zich wilden inschrijven voor de Oranjemarkt op Koningsdag werden doorgestuurd naar een site voor erectiepillen en vibrators. De website lag dagenlang plat tijdens de Paasdagen. Herstel kostte de organisatie 250 euro. De oorzaak en herkomst van de hack zijn onbekend. Ondanks het incident verwacht Almelo Events een geslaagde Koningsdag. (Bron: tubantia.nl)</description>
+			<guid isPermaLink="false">https://www.tubantia.nl/almelo/erectiepillen-en-vibrators-in-plaats-van-een-plekje-op-de-almelose-oranjemarkt~a8f3fad6/?datalekt=c1be2162443e3364ace9d74ece78c27cf3b78563c144314544cd425b97fa0a12</guid>
+			<category>Cultuur, sport en recreatie </category>
+			<pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Kwekerij de Groot uit Prinsenbeek getroffen door ransomware-aanval; geautomatiseerde bedrijfsvoering bijna volledig stilgelegd</title>
 			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/hoe-een-hack-een-brabantse-plantenkwekerij-bijna-stillegde</link>
@@ -766,14 +774,6 @@
 			<description>Radboudumc | Gezondheids- en welzijnszorg | 17-01-2025 | DataLekt.nl: Het Radboudumc in Nijmegen werd getroffen door DDoS-aanvallen, waardoor medewerkers hinder ondervonden van trage internetverbindingen. Voor patiënten waren er geen gevolgen. De aanvallen maakten gebruik van overmatig dataverkeer om systemen te overbelasten. Surf, de overkoepelende IT-organisatie, heeft maatregelen genomen en doet aangifte bij de politie. Het motief en de daders achter de aanvallen zijn onbekend. Er is geen melding van financiële schade of ernstige verstoringen in de zorg. (Bron: gelderlander.nl)</description>
 			<guid isPermaLink="false">https://www.gelderlander.nl/nijmegen/universiteiten-in-nijmegen-en-wageningen-opnieuw-last-van-ddos-aanvallen-internet-is-traag-of-valt-uit~a46ef3c0/?datalekt=9c9e0f003a0013bbb500369b5fc26bcb9e4d03deb5fdbfff22a6f0745dfd38bc</guid>
 			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DDoS-aanvallen verstoren internet bij Wageningen University &amp;amp;amp; Research</title>
-			<link>https://www.gelderlander.nl/nijmegen/universiteiten-in-nijmegen-en-wageningen-opnieuw-last-van-ddos-aanvallen-internet-is-traag-of-valt-uit~a46ef3c0/</link>
-			<description>Wageningen University &amp;amp;amp; Research (WUR) | Onderwijs | 17-01-2025 | DataLekt.nl: Wageningen University &amp;amp;amp; Research (WUR) ondervond meerdere dagen hinder door DDoS-aanvallen, waardoor het internet traag was of uitviel. Vooral thuiswerkers meldden problemen, hoewel veel medewerkers weinig hinder ervaarden. Er zijn geen extra maatregelen genomen, en het onderwijs gaat door zoals gepland. De aanvallen bestookten het netwerk met overmatig dataverkeer, waardoor systemen overbelast raakten. Surf, de overkoepelende IT-organisatie, onderzoekt de situatie en heeft aangifte gedaan. Wie verantwoordelijk is voor de aanvallen, is niet bekend. Er is geen melding van grote schade. (Bron: gelderlander.nl)</description>
-			<guid isPermaLink="false">https://www.gelderlander.nl/nijmegen/universiteiten-in-nijmegen-en-wageningen-opnieuw-last-van-ddos-aanvallen-internet-is-traag-of-valt-uit~a46ef3c0/?datalekt=04fe36cf779ae33ce899aa2db19f8f0d261b9e0537e8edbc4492eaff523323f5</guid>
-			<category>Onderwijs </category>
 			<pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
