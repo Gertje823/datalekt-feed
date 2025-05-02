@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 28 Apr 2025 18:29:08 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 02 May 2025 12:40:01 +0000</lastBuildDate>
+		<item>
+			<title>NRC getroffen door ddos-aanval: website en app tijdelijk slecht bereikbaar</title>
+			<link>https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html</link>
+			<description>NRC | Informatie en communicatie | 30-04-2025 | DataLekt.nl: Op 30 april 2025 werd NRC slachtoffer van een ddos-aanval waardoor de website en app van de krant tijdelijk slecht bereikbaar waren. Bij deze aanval werd de server overspoeld met dataverkeer vanuit een netwerk van gehackte apparaten, waardoor gebruikers onder andere inlogproblemen ervoeren. De krant werkt aan een oplossing. De dader is nog onbekend. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html?datalekt=dad3fb7f089ffacf9d029668ea84863e54e3bf86761d5ffe092594740c3c746f</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Tilburg slachtoffer van ddos-aanval door pro-Russische hackersgroep NoName</title>
 			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
@@ -783,14 +791,6 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=1e3b53e5e6667f2a6795e3d54ba6eba7577ea64181354e4f27128e991bfd6002</guid>
 			<category>Onderwijs </category>
 			<pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Website gemeenteraad Almere gehackt; mogelijk gegevens gestolen</title>
-			<link>https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen</link>
-			<description>Gemeente Almere | Overheid: Gemeenten | 18-12-2024 | DataLekt.nl: De website van de gemeenteraad van Almere is gehackt, waardoor mogelijk persoonlijke gegevens zijn gestolen. De aanval werd ontdekt nadat de website onbereikbaar werd. Het is nog onduidelijk wie er achter de hack zit en hoeveel mensen zijn getroffen. De gemeente onderzoekt de zaak en heeft de Autoriteit Persoonsgegevens geïnformeerd. [Update: Op 23 januari is bekend geworden dat de hack 2.200 gebruikers getroffen heeft.] (Bron: omroepflevoland.nl)</description>
-			<guid isPermaLink="false">https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen?datalekt=c090d0e938180bc6b776da88fc234033e3858f0d2eaf2737db274ed117e843b0</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>

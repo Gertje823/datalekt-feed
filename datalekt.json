@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html?datalekt=dad3fb7f089ffacf9d029668ea84863e54e3bf86761d5ffe092594740c3c746f",
+        "url": "https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html",
+        "title": "NRC getroffen door ddos-aanval: website en app tijdelijk slecht bereikbaar",
+        "date_published": "2025-05-02T09:22:00Z",
+        "date_modified": "2025-05-02T09:22:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "NRC | Informatie en communicatie | 30-04-2025 | DataLekt.nl: Op 30 april 2025 werd NRC slachtoffer van een ddos-aanval waardoor de website en app van de krant tijdelijk slecht bereikbaar waren. Bij deze aanval werd de server overspoeld met dataverkeer vanuit een netwerk van gehackte apparaten, waardoor gebruikers onder andere inlogproblemen ervoeren. De krant werkt aan een oplossing. De dader is nog onbekend. (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=1b05625590b441de71441f10adadc1a771fbe3f208ed1e801d5f85887d5284f7",
         "url": "https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html",
         "title": "Gemeente Tilburg slachtoffer van ddos-aanval door pro-Russische hackersgroep NoName",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Welhof | Groot- en detailhandel | 22-01-2025 | DataLekt.nl: Eind 2023 heeft de Nederlandse webshop Welhof een datalek ervaren waarbij persoonsgegevens van ruim 107.000 klanten zijn gelekt, waaronder namen, adressen, e-mailadressen, telefoonnummers en bestelnummers. Rekeningnummers en wachtwoorden zijn niet gelekt. Welhof vermoedt een cyberbeveiligingsincident en onderzoekt de zaak. Hoe aanvallers toegang hebben gekregen, is onbekend. Zeventig procent van de gelekte e-mailadressen stond al in eerdere datalekken. De gegevens zijn toegevoegd aan Have I Been Pwned. Klanten wordt aangeraden alert te zijn op phishing. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen?datalekt=c090d0e938180bc6b776da88fc234033e3858f0d2eaf2737db274ed117e843b0",
-        "url": "https://www.omroepflevoland.nl/nieuws/408984/website-van-almeerse-gemeenteraad-gehackt-mogelijk-gegevens-gestolen",
-        "title": "Website gemeenteraad Almere gehackt; mogelijk gegevens gestolen",
-        "date_published": "2024-12-19T13:30:00Z",
-        "date_modified": "2025-01-24T09:29:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepflevoland.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Almere | Overheid: Gemeenten | 18-12-2024 | DataLekt.nl: De website van de gemeenteraad van Almere is gehackt, waardoor mogelijk persoonlijke gegevens zijn gestolen. De aanval werd ontdekt nadat de website onbereikbaar werd. Het is nog onduidelijk wie er achter de hack zit en hoeveel mensen zijn getroffen. De gemeente onderzoekt de zaak en heeft de Autoriteit Persoonsgegevens ge\u00efnformeerd. [Update: Op 23 januari is bekend geworden dat de hack 2.200 gebruikers getroffen heeft.] (Bron: omroepflevoland.nl)"
     }
 ]
