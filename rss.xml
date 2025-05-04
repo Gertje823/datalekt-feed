@@ -7,7 +7,39 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 02 May 2025 12:40:01 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 04 May 2025 12:38:02 +0000</lastBuildDate>
+		<item>
+			<title>Slijterij Groningen bekritiseerd om &amp;#039;Wall of Shame&amp;#039; met foto&amp;#039;s winkeldieven</title>
+			<link>https://www.rtvnoord.nl/misdaad/1297709/fotos-van-winkeldieven-op-ruit-zijn-verboden-maar-slijterij-groningen-kan-rekenen-op-steun</link>
+			<description>Slijterij Groningen | Groot- en detailhandel | 01-05-2025 | DataLekt.nl: Slijterij Groningen heeft foto’s van vermeende winkeldieven zichtbaar op de winkelruit geplaatst, wat volgens de Autoriteit Persoonsgegevens (AP) in strijd is met de AVG. De AP stelt dat zulke openbare beeldpublicaties mensen onterecht kunnen stigmatiseren en dat alleen een rechter schuld mag vaststellen. Ondanks de juridische bezwaren weigert de winkelier de foto&amp;#039;s te verwijderen en ontvangt hij brede publieke steun. Politie en Openbaar Ministerie erkennen dat de actie onrechtmatig is, maar verwijzen voor handhaving naar de AP. (Bron: rtvnoord.nl)</description>
+			<guid isPermaLink="false">https://www.rtvnoord.nl/misdaad/1297709/fotos-van-winkeldieven-op-ruit-zijn-verboden-maar-slijterij-groningen-kan-rekenen-op-steun?datalekt=d59948ab0edf09cd21b3ae89093879eda0b1f7673550438b1b95514ca5a14733</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Corendon tijdelijk offline door Russische ddos-aanval</title>
+			<link>https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers</link>
+			<description>Corendon | Vervoer en opslag | 02-05-2025 | DataLekt.nl: Vervoerder Arriva werd op 1 mei 2025 getroffen door een ddos-aanval van de pro-Russische groepering NoName05716. Hoewel de aanval vooraf werd aangekondigd, leidde deze tot beperkte beschikbaarheid van de website. De aanval was onderdeel van een bredere campagne tegen Nederlandse organisaties. (Bron: dutchitchannel.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers?datalekt=6954d043d458bdfe547c6fd9e261cb2c9ec5c5d55b153acd6b12831d9805b617</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Website Arriva deels onbereikbaar door gerichte ddos-aanval</title>
+			<link>https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers</link>
+			<description>Arriva | Vervoer en opslag | 02-05-2025 | DataLekt.nl: Op 1 mei 2025 werd reisorganisatie Corendon slachtoffer van een ddos-aanval uitgevoerd door het Russische hackerscollectief NoName05716. De website was vanaf 08:00 uur enkele uren volledig onbereikbaar. Deze aanval volgde op eerdere acties van de groep gericht op Nederlandse overheidswebsites. (Bron: dutchitchannel.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers?datalekt=06ae688f03542040cb0dcac11cc188f456dd67048cbd74bc7fb004aea9f1f395</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ushio Europe getroffen door ransomware aanval van de criminele organisatie TERMITE</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Ushio Europe | Industrie | 29-04-2025 | DataLekt.nl: De criminele organisatie TERMITE heeft op het darkweb aangekondigd dat zij Ushio Europe heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1c8bb520a56adb6e044d4ee28aa0e360677a54a3983661cb6ae4492bdf0c61e7</guid>
+			<category>Industrie </category>
+			<pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>NRC getroffen door ddos-aanval: website en app tijdelijk slecht bereikbaar</title>
 			<link>https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html</link>
@@ -745,43 +777,11 @@
 			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Datalek bij failliete zonnepaneleninstallateur BonGo Solar, politie verricht arrestatie</title>
-			<link>https://solarmagazine.nl/nieuws-zonne-energie/i39564/datalek-bij-failliete-installateur-zonnepanelen-bongo-solar-politie-verricht-arrestatie</link>
-			<description>BonGo Solar | Industrie | 24-01-2025 | DataLekt.nl: Bij de failliete zonnepaneleninstallateur BonGo Solar is een datalek ontdekt nadat klanten ongevraagd werden benaderd door concurrerende bedrijven. Curator Bert Jansen heeft aangifte gedaan van computervredebreuk en melding gemaakt bij de Autoriteit Persoonsgegevens. Afgelopen zomer toonden ruim 50 partijen interesse in het klantenbestand, maar de verkoop werd tegengehouden door privacywetgeving. Ondanks dit zijn klantgegevens toch zonder toestemming gebruikt. De politie heeft een verdachte aangehouden en voert strafrechtelijk onderzoek uit. Er zijn geen garanties of onderhoudsmogelijkheden meer voor klanten vanwege het faillissement. (Bron: solarmagazine.nl)</description>
-			<guid isPermaLink="false">https://solarmagazine.nl/nieuws-zonne-energie/i39564/datalek-bij-failliete-installateur-zonnepanelen-bongo-solar-politie-verricht-arrestatie?datalekt=2a6c5336e8158f6ae923b7dd5af6813b80c12f19a58a8196946968fe5d4b9b71</guid>
-			<category>Industrie </category>
-			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Kooijman Vianen getroffen door ransomware aanval van de criminele organisatie Fog</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Kooijman Vianen | Groot- en detailhandel | 23-01-2025 | DataLekt.nl: De criminele organisatie Fog heeft op het darkweb aangekondigd dat zij Kooijman Vianen heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=0d695da6f64130b60f7f5e1749b8063c0c958e22ed766f13f0baefe581c6d33c</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Russische hackersgroep Clop steelt klantgegevens van Centric via lek in Cleo-software</title>
 			<link>https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek</link>
 			<description>Centric | Informatie en communicatie | 24-01-2024 | DataLekt.nl: In december 2024 wisten Russische cybercriminelen van de Clop-groep in te breken bij Centric via een kwetsbaarheid in de software van Cleo, een Amerikaanse leverancier van bestandsoverdrachtsoftware. De aanval werd pas in januari 2025 bekend, nadat Clop losgeld eiste en begon met het publiceren van gegevens van bedrijven die niet betaalden. Volgens Centric zijn alleen testomgevingen getroffen en is slechts een beperkt aantal privacygevoelige gegevens van één klant gecompromitteerd. Het bedrijf heeft melding gedaan bij de Autoriteit Persoonsgegevens. [Update: Op 29 januari 2025 is het artikel bijgewerkt aan de hand van een nieuwe bron.] (Bron: fd.nl)</description>
 			<guid isPermaLink="false">https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek?datalekt=c5d241a88b041ac2b5ad05d9ca93aeb383677e659f39badb395c12c027c6bc45</guid>
 			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>C3Group getroffen door ransomware aanval van de criminele organisatie Clop</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>C3Group | Informatie en communicatie | 23-01-2025 | DataLekt.nl: De criminele organisatie Clop heeft op het darkweb aangekondigd dat zij C3Group heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=373490b639259242609420796f42ec4afe36aa48a7b266b6f5baa535b595a6f8</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij webshop Welhof treft meer dan 107.000 klanten</title>
-			<link>https://www.security.nl/posting/873371/Nederlandse+webshop+Welhof+lekte+gegevens+107_000+klanten</link>
-			<description>Welhof | Groot- en detailhandel | 22-01-2025 | DataLekt.nl: Eind 2023 heeft de Nederlandse webshop Welhof een datalek ervaren waarbij persoonsgegevens van ruim 107.000 klanten zijn gelekt, waaronder namen, adressen, e-mailadressen, telefoonnummers en bestelnummers. Rekeningnummers en wachtwoorden zijn niet gelekt. Welhof vermoedt een cyberbeveiligingsincident en onderzoekt de zaak. Hoe aanvallers toegang hebben gekregen, is onbekend. Zeventig procent van de gelekte e-mailadressen stond al in eerdere datalekken. De gegevens zijn toegevoegd aan Have I Been Pwned. Klanten wordt aangeraden alert te zijn op phishing. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/873371/Nederlandse+webshop+Welhof+lekte+gegevens+107_000+klanten?datalekt=ba995bb7959229982a423e91d9de278e931ef977f27b86cd98f74054c64109a5</guid>
-			<category>Groot- en detailhandel </category>
 			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>

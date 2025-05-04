@@ -1,5 +1,57 @@
 [
     {
+        "id": "https://www.rtvnoord.nl/misdaad/1297709/fotos-van-winkeldieven-op-ruit-zijn-verboden-maar-slijterij-groningen-kan-rekenen-op-steun?datalekt=d59948ab0edf09cd21b3ae89093879eda0b1f7673550438b1b95514ca5a14733",
+        "url": "https://www.rtvnoord.nl/misdaad/1297709/fotos-van-winkeldieven-op-ruit-zijn-verboden-maar-slijterij-groningen-kan-rekenen-op-steun",
+        "title": "Slijterij Groningen bekritiseerd om &#039;Wall of Shame&#039; met foto&#039;s winkeldieven",
+        "date_published": "2025-05-04T13:14:00Z",
+        "date_modified": "2025-05-04T13:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvnoord.nl"
+        },
+        "content_html": "",
+        "content_text": "Slijterij Groningen | Groot- en detailhandel | 01-05-2025 | DataLekt.nl: Slijterij Groningen heeft foto\u2019s van vermeende winkeldieven zichtbaar op de winkelruit geplaatst, wat volgens de Autoriteit Persoonsgegevens (AP) in strijd is met de AVG. De AP stelt dat zulke openbare beeldpublicaties mensen onterecht kunnen stigmatiseren en dat alleen een rechter schuld mag vaststellen. Ondanks de juridische bezwaren weigert de winkelier de foto&#039;s te verwijderen en ontvangt hij brede publieke steun. Politie en Openbaar Ministerie erkennen dat de actie onrechtmatig is, maar verwijzen voor handhaving naar de AP. (Bron: rtvnoord.nl)"
+    },
+    {
+        "id": "https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers?datalekt=6954d043d458bdfe547c6fd9e261cb2c9ec5c5d55b153acd6b12831d9805b617",
+        "url": "https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers",
+        "title": "Corendon tijdelijk offline door Russische ddos-aanval",
+        "date_published": "2025-05-04T13:06:00Z",
+        "date_modified": "2025-05-04T13:06:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitchannel.nl"
+        },
+        "content_html": "",
+        "content_text": "Corendon | Vervoer en opslag | 02-05-2025 | DataLekt.nl: Vervoerder Arriva werd op 1 mei 2025 getroffen door een ddos-aanval van de pro-Russische groepering NoName05716. Hoewel de aanval vooraf werd aangekondigd, leidde deze tot beperkte beschikbaarheid van de website. De aanval was onderdeel van een bredere campagne tegen Nederlandse organisaties. (Bron: dutchitchannel.nl)"
+    },
+    {
+        "id": "https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers?datalekt=06ae688f03542040cb0dcac11cc188f456dd67048cbd74bc7fb004aea9f1f395",
+        "url": "https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers",
+        "title": "Website Arriva deels onbereikbaar door gerichte ddos-aanval",
+        "date_published": "2025-05-04T13:05:00Z",
+        "date_modified": "2025-05-04T13:05:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitchannel.nl"
+        },
+        "content_html": "",
+        "content_text": "Arriva | Vervoer en opslag | 02-05-2025 | DataLekt.nl: Op 1 mei 2025 werd reisorganisatie Corendon slachtoffer van een ddos-aanval uitgevoerd door het Russische hackerscollectief NoName05716. De website was vanaf 08:00 uur enkele uren volledig onbereikbaar. Deze aanval volgde op eerdere acties van de groep gericht op Nederlandse overheidswebsites. (Bron: dutchitchannel.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1c8bb520a56adb6e044d4ee28aa0e360677a54a3983661cb6ae4492bdf0c61e7",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Ushio Europe getroffen door ransomware aanval van de criminele organisatie TERMITE",
+        "date_published": "2025-05-04T13:02:00Z",
+        "date_modified": "2025-05-04T13:02:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Ushio Europe | Industrie | 29-04-2025 | DataLekt.nl: De criminele organisatie TERMITE heeft op het darkweb aangekondigd dat zij Ushio Europe heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html?datalekt=dad3fb7f089ffacf9d029668ea84863e54e3bf86761d5ffe092594740c3c746f",
         "url": "https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html",
         "title": "NRC getroffen door ddos-aanval: website en app tijdelijk slecht bereikbaar",
@@ -1246,57 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld ge\u00ebist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://solarmagazine.nl/nieuws-zonne-energie/i39564/datalek-bij-failliete-installateur-zonnepanelen-bongo-solar-politie-verricht-arrestatie?datalekt=2a6c5336e8158f6ae923b7dd5af6813b80c12f19a58a8196946968fe5d4b9b71",
-        "url": "https://solarmagazine.nl/nieuws-zonne-energie/i39564/datalek-bij-failliete-installateur-zonnepanelen-bongo-solar-politie-verricht-arrestatie",
-        "title": "Datalek bij failliete zonnepaneleninstallateur BonGo Solar, politie verricht arrestatie",
-        "date_published": "2025-01-24T15:07:00Z",
-        "date_modified": "2025-01-24T15:07:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "solarmagazine.nl"
-        },
-        "content_html": "",
-        "content_text": "BonGo Solar | Industrie | 24-01-2025 | DataLekt.nl: Bij de failliete zonnepaneleninstallateur BonGo Solar is een datalek ontdekt nadat klanten ongevraagd werden benaderd door concurrerende bedrijven. Curator Bert Jansen heeft aangifte gedaan van computervredebreuk en melding gemaakt bij de Autoriteit Persoonsgegevens. Afgelopen zomer toonden ruim 50 partijen interesse in het klantenbestand, maar de verkoop werd tegengehouden door privacywetgeving. Ondanks dit zijn klantgegevens toch zonder toestemming gebruikt. De politie heeft een verdachte aangehouden en voert strafrechtelijk onderzoek uit. Er zijn geen garanties of onderhoudsmogelijkheden meer voor klanten vanwege het faillissement. (Bron: solarmagazine.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=0d695da6f64130b60f7f5e1749b8063c0c958e22ed766f13f0baefe581c6d33c",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Kooijman Vianen getroffen door ransomware aanval van de criminele organisatie Fog",
-        "date_published": "2025-01-24T12:05:00Z",
-        "date_modified": "2025-01-24T12:05:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Kooijman Vianen | Groot- en detailhandel | 23-01-2025 | DataLekt.nl: De criminele organisatie Fog heeft op het darkweb aangekondigd dat zij Kooijman Vianen heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=373490b639259242609420796f42ec4afe36aa48a7b266b6f5baa535b595a6f8",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "C3Group getroffen door ransomware aanval van de criminele organisatie Clop",
-        "date_published": "2025-01-24T12:03:00Z",
-        "date_modified": "2025-01-24T12:03:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "C3Group | Informatie en communicatie | 23-01-2025 | DataLekt.nl: De criminele organisatie Clop heeft op het darkweb aangekondigd dat zij C3Group heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/873371/Nederlandse+webshop+Welhof+lekte+gegevens+107_000+klanten?datalekt=ba995bb7959229982a423e91d9de278e931ef977f27b86cd98f74054c64109a5",
-        "url": "https://www.security.nl/posting/873371/Nederlandse+webshop+Welhof+lekte+gegevens+107_000+klanten",
-        "title": "Datalek bij webshop Welhof treft meer dan 107.000 klanten",
-        "date_published": "2025-01-24T09:35:00Z",
-        "date_modified": "2025-01-24T09:35:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Welhof | Groot- en detailhandel | 22-01-2025 | DataLekt.nl: Eind 2023 heeft de Nederlandse webshop Welhof een datalek ervaren waarbij persoonsgegevens van ruim 107.000 klanten zijn gelekt, waaronder namen, adressen, e-mailadressen, telefoonnummers en bestelnummers. Rekeningnummers en wachtwoorden zijn niet gelekt. Welhof vermoedt een cyberbeveiligingsincident en onderzoekt de zaak. Hoe aanvallers toegang hebben gekregen, is onbekend. Zeventig procent van de gelekte e-mailadressen stond al in eerdere datalekken. De gegevens zijn toegevoegd aan Have I Been Pwned. Klanten wordt aangeraden alert te zijn op phishing. (Bron: security.nl)"
     }
 ]
