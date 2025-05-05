@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep?datalekt=75f5194a2672e8cd8152e8c9e0fabc10c63da6916814c74b2b432585b0366b4b",
+        "url": "https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep",
+        "title": "Meer dan vijftig Nederlandse websites getroffen door geco\u00f6rdineerde DDoS-aanval NoName057(16)",
+        "date_published": "2025-05-05T11:05:00Z",
+        "date_modified": "2025-05-05T11:05:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "36 onbekende organisaties | Overige dienstverlening | 03-05-2025 | DataLekt.nl: In de week van 28 april tot 3 mei 2025 werden meer dan vijftig Nederlandse websites getroffen door een reeks DDoS-aanvallen, uitgevoerd door de pro-Russische hackersgroep NoName057(16). De aanvallen richtten zich op overheidswebsites, vervoersbedrijven en mediaplatforms, en volgden op Nederlandse kabinetssteun aan Oekra\u00efne. Het Nationaal Cyber Security Centrum (NCSC) monitort de situatie. (Bron: nos.nl)"
+    },
+    {
+        "id": "https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep?datalekt=faedb589d7594d210a5150d62c79ce86ce1b99befc7c60f760e6e654380ed653",
+        "url": "https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep",
+        "title": "GVB tijdelijk onbereikbaar door DDoS-aanval pro-Russische groep",
+        "date_published": "2025-05-05T11:04:00Z",
+        "date_modified": "2025-05-05T11:04:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "GVB | Vervoer en opslag | 03-05-2025 | DataLekt.nl: Het GVB, de openbaar vervoerder voor de regio Amsterdam, werd deze week slachtoffer van een DDoS-aanval uitgevoerd door de pro-Russische hackersgroep NoName057(16). De aanval maakte de website tijdelijk onbereikbaar. De hackersgroep voert sinds de Russische inval in Oekra\u00efne gerichte aanvallen uit op organisaties in NAVO-landen, vaak als reactie op politieke steunmaatregelen aan Oekra\u00efne. (Bron: nos.nl)"
+    },
+    {
         "id": "https://www.rtvnoord.nl/misdaad/1297709/fotos-van-winkeldieven-op-ruit-zijn-verboden-maar-slijterij-groningen-kan-rekenen-op-steun?datalekt=d59948ab0edf09cd21b3ae89093879eda0b1f7673550438b1b95514ca5a14733",
         "url": "https://www.rtvnoord.nl/misdaad/1297709/fotos-van-winkeldieven-op-ruit-zijn-verboden-maar-slijterij-groningen-kan-rekenen-op-steun",
         "title": "Slijterij Groningen bekritiseerd om &#039;Wall of Shame&#039; met foto&#039;s winkeldieven",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Epona | Informatie en communicatie | 16-01-2025 | DataLekt.nl: Epona, leverancier van contact- en documentbeheersystemen, is getroffen door een ransomware-aanval gericht op het &#039;Contactmanager&#039;-systeem. Dit systeem bevat contactgegevens van klanten. Het doel van de aanval was het eisen van losgeld, niet het stelen van data. Hoewel de aanvallers mogelijk toegang hebben gehad tot gegevens, is er geen bewijs dat deze zijn ingezien of buitgemaakt. Dossiergegevens binnen klantomgevingen zijn niet getroffen. Epona heeft direct maatregelen genomen, zoals het uitschakelen van systemen en wachtwoordwijzigingen, om verdere schade te voorkomen. (Bron: ak-advocaten.eu)"
-    },
-    {
-        "id": "https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek?datalekt=c5d241a88b041ac2b5ad05d9ca93aeb383677e659f39badb395c12c027c6bc45",
-        "url": "https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek",
-        "title": "Russische hackersgroep Clop steelt klantgegevens van Centric via lek in Cleo-software",
-        "date_published": "2025-01-24T12:04:00Z",
-        "date_modified": "2025-01-29T13:38:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "fd.nl"
-        },
-        "content_html": "",
-        "content_text": "Centric | Informatie en communicatie | 24-01-2024 | DataLekt.nl: In december 2024 wisten Russische cybercriminelen van de Clop-groep in te breken bij Centric via een kwetsbaarheid in de software van Cleo, een Amerikaanse leverancier van bestandsoverdrachtsoftware. De aanval werd pas in januari 2025 bekend, nadat Clop losgeld eiste en begon met het publiceren van gegevens van bedrijven die niet betaalden. Volgens Centric zijn alleen testomgevingen getroffen en is slechts een beperkt aantal privacygevoelige gegevens van \u00e9\u00e9n klant gecompromitteerd. Het bedrijf heeft melding gedaan bij de Autoriteit Persoonsgegevens. [Update: Op 29 januari 2025 is het artikel bijgewerkt aan de hand van een nieuwe bron.] (Bron: fd.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=1e3b53e5e6667f2a6795e3d54ba6eba7577ea64181354e4f27128e991bfd6002",
-        "url": "https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html",
-        "title": "Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil",
-        "date_published": "2025-01-12T15:37:00Z",
-        "date_modified": "2025-01-29T13:08:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld ge\u00ebist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] (Bron: tweakers.net)"
     }
 ]

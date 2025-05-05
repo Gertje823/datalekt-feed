@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 04 May 2025 12:38:02 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 05 May 2025 12:41:25 +0000</lastBuildDate>
+		<item>
+			<title>Meer dan vijftig Nederlandse websites getroffen door gecoördineerde DDoS-aanval NoName057(16)</title>
+			<link>https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep</link>
+			<description>36 onbekende organisaties | Overige dienstverlening | 03-05-2025 | DataLekt.nl: In de week van 28 april tot 3 mei 2025 werden meer dan vijftig Nederlandse websites getroffen door een reeks DDoS-aanvallen, uitgevoerd door de pro-Russische hackersgroep NoName057(16). De aanvallen richtten zich op overheidswebsites, vervoersbedrijven en mediaplatforms, en volgden op Nederlandse kabinetssteun aan Oekraïne. Het Nationaal Cyber Security Centrum (NCSC) monitort de situatie. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep?datalekt=75f5194a2672e8cd8152e8c9e0fabc10c63da6916814c74b2b432585b0366b4b</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>GVB tijdelijk onbereikbaar door DDoS-aanval pro-Russische groep</title>
+			<link>https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep</link>
+			<description>GVB | Vervoer en opslag | 03-05-2025 | DataLekt.nl: Het GVB, de openbaar vervoerder voor de regio Amsterdam, werd deze week slachtoffer van een DDoS-aanval uitgevoerd door de pro-Russische hackersgroep NoName057(16). De aanval maakte de website tijdelijk onbereikbaar. De hackersgroep voert sinds de Russische inval in Oekraïne gerichte aanvallen uit op organisaties in NAVO-landen, vaak als reactie op politieke steunmaatregelen aan Oekraïne. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep?datalekt=faedb589d7594d210a5150d62c79ce86ce1b99befc7c60f760e6e654380ed653</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Slijterij Groningen bekritiseerd om &amp;#039;Wall of Shame&amp;#039; met foto&amp;#039;s winkeldieven</title>
 			<link>https://www.rtvnoord.nl/misdaad/1297709/fotos-van-winkeldieven-op-ruit-zijn-verboden-maar-slijterij-groningen-kan-rekenen-op-steun</link>
@@ -775,22 +791,6 @@
 			<guid isPermaLink="false">https://ak-advocaten.eu/home/epona-faq/?datalekt=1b4978e86045d6b7c17c81ed666080b54580673c34b32c1a3adffc0aba34dc68</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Russische hackersgroep Clop steelt klantgegevens van Centric via lek in Cleo-software</title>
-			<link>https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek</link>
-			<description>Centric | Informatie en communicatie | 24-01-2024 | DataLekt.nl: In december 2024 wisten Russische cybercriminelen van de Clop-groep in te breken bij Centric via een kwetsbaarheid in de software van Cleo, een Amerikaanse leverancier van bestandsoverdrachtsoftware. De aanval werd pas in januari 2025 bekend, nadat Clop losgeld eiste en begon met het publiceren van gegevens van bedrijven die niet betaalden. Volgens Centric zijn alleen testomgevingen getroffen en is slechts een beperkt aantal privacygevoelige gegevens van één klant gecompromitteerd. Het bedrijf heeft melding gedaan bij de Autoriteit Persoonsgegevens. [Update: Op 29 januari 2025 is het artikel bijgewerkt aan de hand van een nieuwe bron.] (Bron: fd.nl)</description>
-			<guid isPermaLink="false">https://fd.nl/bedrijfsleven/1543474/russische-cybercriminelen-konden-data-centric-stelen-door-softwarelek?datalekt=c5d241a88b041ac2b5ad05d9ca93aeb383677e659f39badb395c12c027c6bc45</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
-			<link>https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html</link>
-			<description>Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld geëist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=1e3b53e5e6667f2a6795e3d54ba6eba7577ea64181354e4f27128e991bfd6002</guid>
-			<category>Onderwijs </category>
-			<pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>
