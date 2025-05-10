@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=85f42aef304a1beee060b61b7526dd6aaa818773d2a03fa5e90d998e3a431b7e",
+        "url": "https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html",
+        "title": "Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil",
+        "date_published": "2025-01-12T15:37:00Z",
+        "date_modified": "2025-05-10T17:15:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld ge\u00ebist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari 2025 is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] [Update: Op 9 mei 2025 meldde TU/e dat het ontbreken van mfa op de vpn mogelijk toegang gaf tot het netwerk. Er is inmiddels een nieuwe vpn met mfa en betere monitoring ingevoerd.] (Bron: tweakers.net / computable.nl)"
+    },
+    {
+        "id": "https://beveiligingnieuws.nl/boa-voor-rechter-om-lekken-persoonsgegevens-aan-criminelen/?datalekt=13553891209e413f845a7adee617f354f4d1fa94aaf6c48dfc7d05b040149bba",
+        "url": "https://beveiligingnieuws.nl/boa-voor-rechter-om-lekken-persoonsgegevens-aan-criminelen/",
+        "title": "Gemeente Amsterdam getroffen door ernstig datalek: boa lekte persoonsgegevens aan criminelen",
+        "date_published": "2025-05-10T17:10:00Z",
+        "date_modified": "2025-05-10T17:10:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "beveiligingnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 08-05-2025 | DataLekt.nl: In mei 2025 werd bekend dat een buitengewoon opsporingsambtenaar (boa) van de gemeente Amsterdam jarenlang vertrouwelijke persoonsgegevens uit gemeentelijke systemen deelde met criminelen. De gelekte gegevens leidden tot ernstige incidenten, waaronder een woningbeschieting met een AK-47. Tegen de vrouw is vier jaar cel ge\u00ebist, waarvan \u00e9\u00e9n voorwaardelijk. Zij zou onder meer adressen hebben opgezocht op basis van kentekens en BSN&#039;s. Het Openbaar Ministerie spreekt van een levensgevaarlijk datalek binnen het ambtenarenapparaat. (Bron: beveiligingnieuws.nl)"
+    },
+    {
         "id": "https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep?datalekt=75f5194a2672e8cd8152e8c9e0fabc10c63da6916814c74b2b432585b0366b4b",
         "url": "https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep",
         "title": "Meer dan vijftig Nederlandse websites getroffen door geco\u00f6rdineerde DDoS-aanval NoName057(16)",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Veendam | Overheid: Gemeenten | 24-01-2025 | DataLekt.nl: Sinds enkele dagen ondervindt de website van de gemeente Veendam problemen met de formulieren, en sinds donderdagmiddag is de site geheel of gedeeltelijk onbereikbaar. De gemeente meldt op Facebook dat dit te wijten is aan een technische storing en dat er hard aan een oplossing wordt gewerkt. Vrijdagmorgen was de website nog steeds niet bereikbaar. Er is geen informatie beschikbaar over de oorzaak van de storing, de mogelijke betrokkenheid van aanvallers, of de omvang van de eventuele schade. (Bron: parkstadveendam.nl)"
-    },
-    {
-        "id": "https://www.ed.nl/eindhoven/eindhoven-de-mist-in-met-laptops-voor-clientenraad-mogelijk-datalek-gemeld-bij-privacywaakhond~ac15a4ef/?datalekt=c0b5d4c39942db576a59e223cbbb4e7fbc61fe52ffb1e3879858f470cd14f168",
-        "url": "https://www.ed.nl/eindhoven/eindhoven-de-mist-in-met-laptops-voor-clientenraad-mogelijk-datalek-gemeld-bij-privacywaakhond~ac15a4ef/",
-        "title": "Gemeente Eindhoven meldt mogelijk datalek door ongeoorloofde toegang via laptops cli\u00ebntenraad",
-        "date_published": "2025-01-29T14:06:00Z",
-        "date_modified": "2025-01-29T14:06:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ed.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 23-01-2025 | DataLekt.nl: De gemeente Eindhoven heeft een mogelijk datalek gemeld bij de Autoriteit Persoonsgegevens nadat bleek dat leden van de Cli\u00ebntenraad Sociaal Domein via gemeentelijke laptops toegang hadden tot meer persoonsgegevens dan noodzakelijk. De laptops, die in november waren verstrekt, werden op 20 december afgesloten vanwege een beveiligingsprobleem. Het is onduidelijk of gevoelige informatie daadwerkelijk is ingezien. De gemeente heeft maatregelen genomen en onderzoekt verdere verbeteringen in het privacybeleid. De Autoriteit Persoonsgegevens houdt de gemeente al langer in de gaten wegens eerdere privacykwesties. (Bron: ed.nl)"
-    },
-    {
-        "id": "https://ak-advocaten.eu/home/epona-faq/?datalekt=1b4978e86045d6b7c17c81ed666080b54580673c34b32c1a3adffc0aba34dc68",
-        "url": "https://ak-advocaten.eu/home/epona-faq/",
-        "title": "Ransomware-aanval op Epona mogelijk impact op contactgegevens van klanten",
-        "date_published": "2025-01-29T14:05:00Z",
-        "date_modified": "2025-01-29T14:05:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ak-advocaten.eu"
-        },
-        "content_html": "",
-        "content_text": "Epona | Informatie en communicatie | 16-01-2025 | DataLekt.nl: Epona, leverancier van contact- en documentbeheersystemen, is getroffen door een ransomware-aanval gericht op het &#039;Contactmanager&#039;-systeem. Dit systeem bevat contactgegevens van klanten. Het doel van de aanval was het eisen van losgeld, niet het stelen van data. Hoewel de aanvallers mogelijk toegang hebben gehad tot gegevens, is er geen bewijs dat deze zijn ingezien of buitgemaakt. Dossiergegevens binnen klantomgevingen zijn niet getroffen. Epona heeft direct maatregelen genomen, zoals het uitschakelen van systemen en wachtwoordwijzigingen, om verdere schade te voorkomen. (Bron: ak-advocaten.eu)"
     }
 ]
