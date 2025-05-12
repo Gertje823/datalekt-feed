@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.nieuws030.nl/nieuws/ook-gemeente-utrecht-doelwit-van-ddos-aanval/?datalekt=5f9f0747eee39f5ef7049f049e28b08dde763ccd2ae5e822b46f1868398c54f0",
+        "url": "https://www.nieuws030.nl/nieuws/ook-gemeente-utrecht-doelwit-van-ddos-aanval/",
+        "title": "Gemeente Utrecht getroffen door DDoS-aanval van Russische hackersgroep NoName057(16)",
+        "date_published": "2025-05-12T10:44:00Z",
+        "date_modified": "2025-05-12T10:44:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nieuws030.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Utrecht | Overheid: Gemeenten | 10-05-2025 | DataLekt.nl: In mei 2025 werd bekend dat ook de gemeente Utrecht doelwit is geweest van DDoS-aanvallen, vermoedelijk uitgevoerd door de Russische hackersgroep NoName057(16). De aanval leidde tot ernstige prestatieproblemen op de website, mogelijk als onderdeel van een bredere golf aanvallen op Nederlandse overheidswebsites. In totaal werden websites van twintig gemeenten en provincies getroffen. (Bron: nieuws030.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1d773739348252133cd039c49da7d95e5bc67765bad64c18ee8a0fb7241cd8fd",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "ABFIAD Groep getroffen door ransomware aanval van de criminele organisatie Safepay",
+        "date_published": "2025-05-12T10:39:00Z",
+        "date_modified": "2025-05-12T10:39:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "ABFIAD Groep | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 11-05-2025 | DataLekt.nl: De criminele organisatie Safepay heeft op het darkweb aangekondigd dat zij ABFIAD Groep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=85f42aef304a1beee060b61b7526dd6aaa818773d2a03fa5e90d998e3a431b7e",
         "url": "https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html",
         "title": "Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Amersfoort | Overheid: Gemeenten | 27-01-2025 | DataLekt.nl: Een cyberaanval op een voormalige leverancier van de gemeente Amersfoort heeft geleid tot een datalek waarbij persoonsgegevens uit een testomgeving zijn buitgemaakt. Kwaadwillenden maakten misbruik van een zwakke plek in de software en verkregen toegang tot de naam, geslacht, burgerservicenummer en geboortedatum van 13 huidige en 7 voormalige inwoners, waaronder vier overleden personen. De gemeente heeft de betrokkenen ge\u00efnformeerd en een melding gedaan bij de Autoriteit Persoonsgegevens. Het contract met de leverancier wordt niet verlengd en de resterende gegevens worden in februari verwijderd. (Bron: binnenlandsbestuur.nl)"
-    },
-    {
-        "id": "https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier?datalekt=a61c0c4a8f1df9f0eab68460a43f9a683594aac10a29f07d0c18efc4e9bf2293",
-        "url": "https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier",
-        "title": "Datalek bij Gemeente Amersfoort door kwetsbaarheid in Centric-testserver",
-        "date_published": "2025-01-29T14:08:00Z",
-        "date_modified": "2025-01-29T14:08:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "binnenlandsbestuur.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Amersfoort | Overheid: Gemeenten | 27-01-2025 | DataLekt.nl: In december 2024 werden duizenden inwoners van Amersfoort getroffen door een datalek bij een andere leverancier van de gemeente. Persoonsgegevens werden langer dan toegestaan bewaard in afwachting van een cloudmigratie. Het IT-bedrijf Centric meldde dat een kwetsbaarheid in een testserver met Cleo-software werd misbruikt door de ransomwarebende Clop, die gegevens van tientallen organisaties zou hebben buitgemaakt. Hoewel Centric stelt dat alleen testdata is getroffen en er geen impact was op productiesystemen, verschenen de gestolen gegevens op een ransomwarewebsite. De gemeente overweegt de schade te verhalen op de leverancier. (Bron: binnenlandsbestuur.nl)"
-    },
-    {
-        "id": "https://www.parkstadveendam.nl/node/34117?datalekt=303a281e6608e8349ef5c921d218c99dda19a3631f8d905a3d1c32e8791f12da",
-        "url": "https://www.parkstadveendam.nl/node/34117",
-        "title": "Website gemeente Veendam onbereikbaar door DDoS-aanval",
-        "date_published": "2025-01-29T14:07:00Z",
-        "date_modified": "2025-01-29T14:07:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "parkstadveendam.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Veendam | Overheid: Gemeenten | 24-01-2025 | DataLekt.nl: Sinds enkele dagen ondervindt de website van de gemeente Veendam problemen met de formulieren, en sinds donderdagmiddag is de site geheel of gedeeltelijk onbereikbaar. De gemeente meldt op Facebook dat dit te wijten is aan een technische storing en dat er hard aan een oplossing wordt gewerkt. Vrijdagmorgen was de website nog steeds niet bereikbaar. Er is geen informatie beschikbaar over de oorzaak van de storing, de mogelijke betrokkenheid van aanvallers, of de omvang van de eventuele schade. (Bron: parkstadveendam.nl)"
     }
 ]

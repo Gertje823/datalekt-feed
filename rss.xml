@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 10 May 2025 18:25:26 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 12 May 2025 12:43:34 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Utrecht getroffen door DDoS-aanval van Russische hackersgroep NoName057(16)</title>
+			<link>https://www.nieuws030.nl/nieuws/ook-gemeente-utrecht-doelwit-van-ddos-aanval/</link>
+			<description>Gemeente Utrecht | Overheid: Gemeenten | 10-05-2025 | DataLekt.nl: In mei 2025 werd bekend dat ook de gemeente Utrecht doelwit is geweest van DDoS-aanvallen, vermoedelijk uitgevoerd door de Russische hackersgroep NoName057(16). De aanval leidde tot ernstige prestatieproblemen op de website, mogelijk als onderdeel van een bredere golf aanvallen op Nederlandse overheidswebsites. In totaal werden websites van twintig gemeenten en provincies getroffen. (Bron: nieuws030.nl)</description>
+			<guid isPermaLink="false">https://www.nieuws030.nl/nieuws/ook-gemeente-utrecht-doelwit-van-ddos-aanval/?datalekt=5f9f0747eee39f5ef7049f049e28b08dde763ccd2ae5e822b46f1868398c54f0</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>ABFIAD Groep getroffen door ransomware aanval van de criminele organisatie Safepay</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>ABFIAD Groep | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 11-05-2025 | DataLekt.nl: De criminele organisatie Safepay heeft op het darkweb aangekondigd dat zij ABFIAD Groep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1d773739348252133cd039c49da7d95e5bc67765bad64c18ee8a0fb7241cd8fd</guid>
+			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Amsterdam getroffen door ernstig datalek: boa lekte persoonsgegevens aan criminelen</title>
 			<link>https://beveiligingnieuws.nl/boa-voor-rechter-om-lekken-persoonsgegevens-aan-criminelen/</link>
@@ -765,22 +781,6 @@
 			<link>https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier</link>
 			<description>Gemeente Amersfoort | Overheid: Gemeenten | 27-01-2025 | DataLekt.nl: Een cyberaanval op een voormalige leverancier van de gemeente Amersfoort heeft geleid tot een datalek waarbij persoonsgegevens uit een testomgeving zijn buitgemaakt. Kwaadwillenden maakten misbruik van een zwakke plek in de software en verkregen toegang tot de naam, geslacht, burgerservicenummer en geboortedatum van 13 huidige en 7 voormalige inwoners, waaronder vier overleden personen. De gemeente heeft de betrokkenen geïnformeerd en een melding gedaan bij de Autoriteit Persoonsgegevens. Het contract met de leverancier wordt niet verlengd en de resterende gegevens worden in februari verwijderd. (Bron: binnenlandsbestuur.nl)</description>
 			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier?datalekt=e03806a795d0ec9809bb7d7cad7b22f7ca2de9bc1a599aa880ca0da39cd89868</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Gemeente Amersfoort door kwetsbaarheid in Centric-testserver</title>
-			<link>https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier</link>
-			<description>Gemeente Amersfoort | Overheid: Gemeenten | 27-01-2025 | DataLekt.nl: In december 2024 werden duizenden inwoners van Amersfoort getroffen door een datalek bij een andere leverancier van de gemeente. Persoonsgegevens werden langer dan toegestaan bewaard in afwachting van een cloudmigratie. Het IT-bedrijf Centric meldde dat een kwetsbaarheid in een testserver met Cleo-software werd misbruikt door de ransomwarebende Clop, die gegevens van tientallen organisaties zou hebben buitgemaakt. Hoewel Centric stelt dat alleen testdata is getroffen en er geen impact was op productiesystemen, verschenen de gestolen gegevens op een ransomwarewebsite. De gemeente overweegt de schade te verhalen op de leverancier. (Bron: binnenlandsbestuur.nl)</description>
-			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier?datalekt=a61c0c4a8f1df9f0eab68460a43f9a683594aac10a29f07d0c18efc4e9bf2293</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Website gemeente Veendam onbereikbaar door DDoS-aanval</title>
-			<link>https://www.parkstadveendam.nl/node/34117</link>
-			<description>Gemeente Veendam | Overheid: Gemeenten | 24-01-2025 | DataLekt.nl: Sinds enkele dagen ondervindt de website van de gemeente Veendam problemen met de formulieren, en sinds donderdagmiddag is de site geheel of gedeeltelijk onbereikbaar. De gemeente meldt op Facebook dat dit te wijten is aan een technische storing en dat er hard aan een oplossing wordt gewerkt. Vrijdagmorgen was de website nog steeds niet bereikbaar. Er is geen informatie beschikbaar over de oorzaak van de storing, de mogelijke betrokkenheid van aanvallers, of de omvang van de eventuele schade. (Bron: parkstadveendam.nl)</description>
-			<guid isPermaLink="false">https://www.parkstadveendam.nl/node/34117?datalekt=303a281e6608e8349ef5c921d218c99dda19a3631f8d905a3d1c32e8791f12da</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
