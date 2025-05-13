@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 12 May 2025 12:43:34 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 13 May 2025 12:43:54 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Amsterdam getroffen door ernstig datalek: ambtenaar verkocht adressen aan criminelen</title>
+			<link>https://beveiligingnieuws.nl/slachtoffers-explosies-gevonden-via-corrupte-ambtenaar/</link>
+			<description>Gemeente Amsterdam | Overheid: Gemeenten | 12-05-2025 | DataLekt.nl: In mei 2025 is een 46-jarige administratief medewerker van de gemeente Amsterdam aangehouden wegens het verkopen van persoonsgegevens uit gemeentelijke systemen, waaronder de Basisregistratie Personen (BRP). De gelekte gegevens zouden door criminele netwerken zijn gebruikt om adressen te selecteren voor explosies en ander geweld, ook buiten Amsterdam. Het Openbaar Ministerie verdenkt de ambtenaar van corruptie en medeplichtigheid. De datalekken zouden over langere tijd hebben plaatsgevonden. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/slachtoffers-explosies-gevonden-via-corrupte-ambtenaar/?datalekt=eec9b74dc68c03ad6ce72800bb8d162ba2aeeb5787a117c5b944f3ab9574fb31</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Utrecht getroffen door DDoS-aanval van Russische hackersgroep NoName057(16)</title>
 			<link>https://www.nieuws030.nl/nieuws/ook-gemeente-utrecht-doelwit-van-ddos-aanval/</link>
@@ -775,14 +783,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/874511/Gemeente+Deventer+lekt+door+e-mailfout+BSN-nummer+achthonderd+mensen?datalekt=a85f353296971eddcd638f2bb366a9f3cb4bce55d0a6f6cd541e99d1b93d4e20</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek door cyberaanval op voormalig leverancier van Gemeente Amersfoort</title>
-			<link>https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier</link>
-			<description>Gemeente Amersfoort | Overheid: Gemeenten | 27-01-2025 | DataLekt.nl: Een cyberaanval op een voormalige leverancier van de gemeente Amersfoort heeft geleid tot een datalek waarbij persoonsgegevens uit een testomgeving zijn buitgemaakt. Kwaadwillenden maakten misbruik van een zwakke plek in de software en verkregen toegang tot de naam, geslacht, burgerservicenummer en geboortedatum van 13 huidige en 7 voormalige inwoners, waaronder vier overleden personen. De gemeente heeft de betrokkenen geïnformeerd en een melding gedaan bij de Autoriteit Persoonsgegevens. Het contract met de leverancier wordt niet verlengd en de resterende gegevens worden in februari verwijderd. (Bron: binnenlandsbestuur.nl)</description>
-			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/gegevens-gestolen-uit-testomgeving-voormalig-leverancier?datalekt=e03806a795d0ec9809bb7d7cad7b22f7ca2de9bc1a599aa880ca0da39cd89868</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
