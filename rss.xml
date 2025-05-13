@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 13 May 2025 12:43:54 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 13 May 2025 18:29:15 +0000</lastBuildDate>
+		<item>
+			<title>Dansschool Dans Fit Fun twee jaar buitengesloten na hack van Facebookpagina</title>
+			<link>https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers</link>
+			<description>Dans Fit Fun | Groot- en detailhandel | 03-05-2025 | DataLekt.nl: Dansschool Dans Fit Fun uit Roosendaal is al sinds 2023 de toegang kwijt tot haar zakelijke Facebookpagina na een hack. De pagina werd overgenomen en gevuld met misleidende content en links naar online games. Pogingen om de pagina terug te krijgen mislukten, terwijl Meta de eigenaar beschuldigde van fraude. De dansschool is tot op heden de controle over het account kwijt. (Bron: rtl.nl)</description>
+			<guid isPermaLink="false">https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers?datalekt=d3df65e3ec4e6d06a90f21e430936a9c52324ee6a1af0c87aa814658b18d9aa8</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Facebookhack legt jonge onderneming Boutoi maandenlang plat</title>
+			<link>https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers</link>
+			<description>Boutoi | Cultuur, sport en recreatie | 03-05-2025 | DataLekt.nl: In april 2024 verloor een Nederlandse startup de toegang tot zijn zakelijke Facebookpagina nadat een hacker zichzelf beheerder had gemaakt. Via het account werden ongewenste advertenties geplaatst en werd de gekoppelde creditcard misbruikt. Pas na acht maanden werd de pagina hersteld. De onderneming liep in die periode naar schatting 200.000 euro omzet mis. Het verlies aan toegang tot het verkoopkanaal had langdurige impact. (Bron: rtl.nl)</description>
+			<guid isPermaLink="false">https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers?datalekt=d8375254d69fa096b1cfdbe44a83ac8a9287e5648cbb05fa6e84a82dc11383c8</guid>
+			<category>Cultuur, sport en recreatie </category>
+			<pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Amsterdam getroffen door ernstig datalek: ambtenaar verkocht adressen aan criminelen</title>
 			<link>https://beveiligingnieuws.nl/slachtoffers-explosies-gevonden-via-corrupte-ambtenaar/</link>
@@ -767,22 +783,6 @@
 			<guid isPermaLink="false">https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/?datalekt=427352f93788bc9cf0659136a683636c4fa50755f84629f17e02a9bef5178088</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DDoS-aanval op Cruks veroorzaakt landelijke storing bij Nederlandse goksites tijdens Champions League-avond</title>
-			<link>https://www.beste-bookmakers.nl/wedtips/storing-cruks-legt-goksites-plat-op-historische-avond-champions-league</link>
-			<description>Kansspelautoriteit | Overheid: Zelfstandige bestuursorganen | 04-02-2025 | DataLekt.nl: Op woensdag 29 januari 2025 legde een DDoS-aanval op het Centraal Register Uitsluiting Kansspelen (Cruks) van de Kansspelautoriteit meerdere Nederlandse goksites plat, waaronder Toto en Unibet. Hierdoor konden duizenden spelers niet inloggen, met bijna 3.600 meldingen bij Toto en 1.739 bij Unibet. De aanval zorgde voor een overbelasting van Cruks, waardoor verplichte controles bij bookmakers niet konden worden uitgevoerd. Dit gebeurde op een avond met achttien gelijktijdige Champions League-wedstrijden, wat tot grote frustratie bij gebruikers leidde. De verantwoordelijke aanvallers zijn onbekend. (Bron: beste-bookmakers.nl)</description>
-			<guid isPermaLink="false">https://www.beste-bookmakers.nl/wedtips/storing-cruks-legt-goksites-plat-op-historische-avond-champions-league?datalekt=2326a557f5290b24ba31cc673151bd4771698d5244690035f5d96ee7cac3ab7a</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Deventer lekt per ongeluk BSN-gegevens van 800 cliënten door e-mailfout</title>
-			<link>https://www.security.nl/posting/874511/Gemeente+Deventer+lekt+door+e-mailfout+BSN-nummer+achthonderd+mensen</link>
-			<description>Gemeente Deventer | Overheid: Gemeenten | 31-01-2025 | DataLekt.nl: De gemeente Deventer heeft door een e-mailfout de BSN-nummers, namen, geboortedata en financiële gegevens van 800 cliënten van het Budget Advies Bureau (BAD) gelekt. Een medewerker verstuurde per ongeluk een bestand met deze gevoelige gegevens naar een verkeerd e-mailadres. De ontvanger heeft aangegeven het bestand te hebben verwijderd. De getroffen personen zijn per brief geïnformeerd en excuses zijn aangeboden. De Autoriteit Persoonsgegevens is op de hoogte gesteld, en de gemeente onderzoekt verbetermaatregelen om herhaling te voorkomen. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/874511/Gemeente+Deventer+lekt+door+e-mailfout+BSN-nummer+achthonderd+mensen?datalekt=a85f353296971eddcd638f2bb366a9f3cb4bce55d0a6f6cd541e99d1b93d4e20</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
