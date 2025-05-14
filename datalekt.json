@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/178068/nederlandse-organisatie-voor-wetenschappelijk-onderzoek-is-gehackt.html?datalekt=edc48ac98e942379b1028b8b095b48e579ecc014ac5c2b9ed99a97ad8a739445",
+        "url": "https://tweakers.net/nieuws/178068/nederlandse-organisatie-voor-wetenschappelijk-onderzoek-is-gehackt.html",
+        "title": "Hack treft Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "date_published": "2021-10-01T00:00:00Z",
+        "date_modified": "2025-05-14T11:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) | Overheid: Zelfstandige bestuursorganen | 14-02-2021 | DataLekt.nl: De Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) heeft te maken gehad met een cyberaanval van de criminele groep DoppelPaymer. Als gevolg hiervan zijn de applicaties binnen het netwerk van NWO tijdelijk onbereikbaar. Om verdere risico&#039;s te beperken, heeft de organisatie besloten om subsidieaanvragen tijdelijk stop te zetten. Er is geen specifieke informatie verstrekt over de aanvaller of de omvang van de schade, noch over het aantal getroffen individuen. [Update: Op 12 mei 2025 is bekend geworden dat in Moldavi\u00eb een 45-jarige verdachte is aangehouden voor de cyberaanval op NWO in 2021. Hij wordt ervan verdacht de organisatie te hebben gehackt en afgeperst.] (Bron: tweakers.net)"
+    },
+    {
         "id": "https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers?datalekt=d3df65e3ec4e6d06a90f21e430936a9c52324ee6a1af0c87aa814658b18d9aa8",
         "url": "https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers",
         "title": "Dansschool Dans Fit Fun twee jaar buitengesloten na hack van Facebookpagina",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Stichting Kringloop Zwolle | Groot- en detailhandel | 03-02-2025 | DataLekt.nl: Stichting Kringloop Zwolle ondervond op 3 februari 2025 hinder door een cyberaanval op KPRS, het logistieke systeem geleverd door Idea-X. Hierdoor konden klanten geen afspraken maken en lag het online plansysteem plat. De organisatie meldde op Facebook dat de aanval was bedoeld om klantgegevens te beschermen, waardoor toegang tot het systeem tijdelijk werd geblokkeerd. Inmiddels functioneert het systeem weer, maar de impact op de bestellingen en leveringen is nog onduidelijk. (Bron: destentor.nl)"
-    },
-    {
-        "id": "https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/?datalekt=427352f93788bc9cf0659136a683636c4fa50755f84629f17e02a9bef5178088",
-        "url": "https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/",
-        "title": "Cyberaanval op Idea-X legt KPRS-logistieksysteem kringloopwinkels plat",
-        "date_published": "2025-02-05T15:09:00Z",
-        "date_modified": "2025-02-05T15:09:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "destentor.nl"
-        },
-        "content_html": "",
-        "content_text": "Idea-X | Informatie en communicatie | 03-02-2025 | DataLekt.nl: Op 3 februari 2025 werd Idea-X, de leverancier van het Kringloop, Planning &amp;amp; Registratie Systeem (KPRS), getroffen door een cyberaanval. Hierdoor konden aangesloten kringloopwinkels tijdelijk geen afspraken maken of leveringen regelen. Idea-X bevestigde de aanval en wist het systeem later op de dag te herstellen. Het is onduidelijk of er gegevens zijn buitgemaakt en wie achter de aanval zit. De verstoring leidde tot problemen bij onder andere Stichting Kringloop Zwolle en Het Goed. (Bron: destentor.nl)"
     }
 ]

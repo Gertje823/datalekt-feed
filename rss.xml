@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 13 May 2025 18:29:15 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 14 May 2025 12:42:07 +0000</lastBuildDate>
 		<item>
 			<title>Dansschool Dans Fit Fun twee jaar buitengesloten na hack van Facebookpagina</title>
 			<link>https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers</link>
@@ -777,14 +777,6 @@
 			<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Cyberaanval op Idea-X legt KPRS-logistieksysteem kringloopwinkels plat</title>
-			<link>https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/</link>
-			<description>Idea-X | Informatie en communicatie | 03-02-2025 | DataLekt.nl: Op 3 februari 2025 werd Idea-X, de leverancier van het Kringloop, Planning &amp;amp;amp; Registratie Systeem (KPRS), getroffen door een cyberaanval. Hierdoor konden aangesloten kringloopwinkels tijdelijk geen afspraken maken of leveringen regelen. Idea-X bevestigde de aanval en wist het systeem later op de dag te herstellen. Het is onduidelijk of er gegevens zijn buitgemaakt en wie achter de aanval zit. De verstoring leidde tot problemen bij onder andere Stichting Kringloop Zwolle en Het Goed. (Bron: destentor.nl)</description>
-			<guid isPermaLink="false">https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/?datalekt=427352f93788bc9cf0659136a683636c4fa50755f84629f17e02a9bef5178088</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
 			<link>https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html</link>
 			<description>Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld geëist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari 2025 is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] [Update: Op 9 mei 2025 meldde TU/e dat het ontbreken van mfa op de vpn mogelijk toegang gaf tot het netwerk. Er is inmiddels een nieuwe vpn met mfa en betere monitoring ingevoerd.] (Bron: tweakers.net / computable.nl)</description>
@@ -807,6 +799,14 @@
 			<guid isPermaLink="false">https://www.vpro.nl/argos/lees/onderwerpen/algoritme/2023/fouten-bij-totstandkoming-data-experiment-ggz.html?datalekt=d1e1dacde1b101bddedb0180fca4e974a04d4f41ca687be0210cd435945f6bfc</guid>
 			<category>Overheid: Zelfstandige bestuursorganen </category>
 			<pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Hack treft Nederlandse Organisatie voor Wetenschappelijk Onderzoek</title>
+			<link>https://tweakers.net/nieuws/178068/nederlandse-organisatie-voor-wetenschappelijk-onderzoek-is-gehackt.html</link>
+			<description>Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) | Overheid: Zelfstandige bestuursorganen | 14-02-2021 | DataLekt.nl: De Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) heeft te maken gehad met een cyberaanval van de criminele groep DoppelPaymer. Als gevolg hiervan zijn de applicaties binnen het netwerk van NWO tijdelijk onbereikbaar. Om verdere risico&amp;#039;s te beperken, heeft de organisatie besloten om subsidieaanvragen tijdelijk stop te zetten. Er is geen specifieke informatie verstrekt over de aanvaller of de omvang van de schade, noch over het aantal getroffen individuen. [Update: Op 12 mei 2025 is bekend geworden dat in Moldavië een 45-jarige verdachte is aangehouden voor de cyberaanval op NWO in 2021. Hij wordt ervan verdacht de organisatie te hebben gehackt en afgeperst.] (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/178068/nederlandse-organisatie-voor-wetenschappelijk-onderzoek-is-gehackt.html?datalekt=edc48ac98e942379b1028b8b095b48e579ecc014ac5c2b9ed99a97ad8a739445</guid>
+			<category>Overheid: Zelfstandige bestuursorganen </category>
+			<pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
