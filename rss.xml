@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 14 May 2025 12:42:07 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 20 May 2025 12:44:20 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Dantumadiel lekt gevoelige gegevens via ongeclaimde .nl-domeinnaam</title>
+			<link>https://tweakers.net/nieuws/235194/omrop-fryslan-onderschept-gegevens-door-ontbrekende-domeinnaam-dantumadiel.html</link>
+			<description>Gemeente Dantumadiel | Overheid: Gemeenten | 20-05-2025 | DataLekt.nl: In mei 2025 werd bekend dat de gemeente Dantumadiel jarenlang vertrouwelijke e-mails liet lekken doordat ze het domein dantumadiel.nl niet had vastgelegd, terwijl het adres wel in officiële communicatie werd gebruikt. De omroep Omrop Fryslân registreerde het domein en ontving binnen tien dagen 36 e-mails met onder andere BSN-nummers, jeugdhulpdossiers en personeelsinformatie. De gemeente gebruikte sinds 2017 het .frl-domein, maar publiceerde nog .nl-adressen. Er is een datalek gemeld bij de AP. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/235194/omrop-fryslan-onderschept-gegevens-door-ontbrekende-domeinnaam-dantumadiel.html?datalekt=bdb2919c2f214c9cde5cde8f05fbb2532a108d88baf105266c66de9aa9098c35</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Dansschool Dans Fit Fun twee jaar buitengesloten na hack van Facebookpagina</title>
 			<link>https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers</link>
@@ -765,14 +773,6 @@
 			<link>https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/</link>
 			<description>Het Goed | Groot- en detailhandel | 03-02-2025 | DataLekt.nl: Het Goed werd op 3 februari 2025 getroffen door een verstoring in het bezorgsysteem als gevolg van een cyberaanval op KPRS, het logistieke systeem van leverancier Idea-X. Hierdoor konden klanten tijdelijk geen bestellingen of transporten plannen. Medewerkers van het callcenter ontvingen veel vragen en klachten van klanten die door de storing werden getroffen. KPRS wist het systeem later op de dag te herstellen, maar de impact op geplande leveringen blijft onduidelijk. (Bron: destentor.nl)</description>
 			<guid isPermaLink="false">https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/?datalekt=120a8442636141cc187a1c7f2afec8d8a55990ef361a345d10eadeeeea8f5a5c</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op KPRS verstoort bestellingen bij Stichting Kringloop Zwolle</title>
-			<link>https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/</link>
-			<description>Stichting Kringloop Zwolle | Groot- en detailhandel | 03-02-2025 | DataLekt.nl: Stichting Kringloop Zwolle ondervond op 3 februari 2025 hinder door een cyberaanval op KPRS, het logistieke systeem geleverd door Idea-X. Hierdoor konden klanten geen afspraken maken en lag het online plansysteem plat. De organisatie meldde op Facebook dat de aanval was bedoeld om klantgegevens te beschermen, waardoor toegang tot het systeem tijdelijk werd geblokkeerd. Inmiddels functioneert het systeem weer, maar de impact op de bestellingen en leveringen is nog onduidelijk. (Bron: destentor.nl)</description>
-			<guid isPermaLink="false">https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/?datalekt=a2b222fb2532f63f83b13a500e1398943489cef321edab388986ffffe03e70a2</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
