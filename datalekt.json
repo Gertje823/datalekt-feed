@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/888837/UWV+meldde+vorig+jaar+900+datalekken+bij+Autoriteit+Persoonsgegevens?datalekt=32f9605de9add15193eef5ebb0d1ff2676b9a7b49a949d4485f066462e775c59",
+        "url": "https://www.security.nl/posting/888837/UWV+meldde+vorig+jaar+900+datalekken+bij+Autoriteit+Persoonsgegevens",
+        "title": "UWV meldde in 2024 ruim 900 datalekken, waaronder grootschalig lek via Werk.nl",
+        "date_published": "2025-05-23T12:08:00Z",
+        "date_modified": "2025-05-23T12:08:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 22-05-2025 | DataLekt.nl: In 2024 meldde het UWV in totaal 919 datalekken bij de Autoriteit Persoonsgegevens, waarvan 334 formeel meldplichtig waren. E\u00e9n groot incident betrof Werk.nl, waar via \u00e9\u00e9n werkgeversaccount toegang werd verkregen tot 150.000 cv&#039;s. Mogelijk zijn deze gegevens gedownload. Naar aanleiding hiervan heeft UWV maatregelen genomen, zoals het afschermen van persoonsgegevens in cv\u2019s en het invoeren van strengere technische controles. (Bron: security.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/235194/omrop-fryslan-onderschept-gegevens-door-ontbrekende-domeinnaam-dantumadiel.html?datalekt=bdb2919c2f214c9cde5cde8f05fbb2532a108d88baf105266c66de9aa9098c35",
         "url": "https://tweakers.net/nieuws/235194/omrop-fryslan-onderschept-gegevens-door-ontbrekende-domeinnaam-dantumadiel.html",
         "title": "Gemeente Dantumadiel lekt gevoelige gegevens via ongeclaimde .nl-domeinnaam",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Madia | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 05-02-2025 | DataLekt.nl: De criminele organisatie Fog heeft op het darkweb aangekondigd dat zij Madia heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/?datalekt=120a8442636141cc187a1c7f2afec8d8a55990ef361a345d10eadeeeea8f5a5c",
-        "url": "https://www.destentor.nl/economie/cyberaanval-treft-kringlopen-ik-snap-dat-het-vervelend-is-maar-ik-kan-er-ook-niets-aan-doen~a661860b/",
-        "title": "Cyberaanval op KPRS verstoort bezorgsysteem van Het Goed",
-        "date_published": "2025-02-05T15:11:00Z",
-        "date_modified": "2025-02-05T15:11:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "destentor.nl"
-        },
-        "content_html": "",
-        "content_text": "Het Goed | Groot- en detailhandel | 03-02-2025 | DataLekt.nl: Het Goed werd op 3 februari 2025 getroffen door een verstoring in het bezorgsysteem als gevolg van een cyberaanval op KPRS, het logistieke systeem van leverancier Idea-X. Hierdoor konden klanten tijdelijk geen bestellingen of transporten plannen. Medewerkers van het callcenter ontvingen veel vragen en klachten van klanten die door de storing werden getroffen. KPRS wist het systeem later op de dag te herstellen, maar de impact op geplande leveringen blijft onduidelijk. (Bron: destentor.nl)"
     }
 ]
