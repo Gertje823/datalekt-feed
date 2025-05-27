@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=84507a755146766d8f05be7273b7ae3cdd51894c0fb7232dfbab9e4bda0bfc7d",
+        "url": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html",
+        "title": "Gegevens van ruim 63.000 politiemedewerkers gestolen bij grote hack",
+        "date_published": "2024-09-27T15:31:00Z",
+        "date_modified": "2025-05-27T16:15:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 63.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. [Update: Op 27 mei 2025 is bekend geworden dat een vermoedelijk door Rusland gesteunde hackersgroep, Laundry Bear, verantwoordelijk wordt gehouden voor de aanval.] (Bron: nu.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/888837/UWV+meldde+vorig+jaar+900+datalekken+bij+Autoriteit+Persoonsgegevens?datalekt=32f9605de9add15193eef5ebb0d1ff2676b9a7b49a949d4485f066462e775c59",
         "url": "https://www.security.nl/posting/888837/UWV+meldde+vorig+jaar+900+datalekken+bij+Autoriteit+Persoonsgegevens",
         "title": "UWV meldde in 2024 ruim 900 datalekken, waaronder grootschalig lek via Werk.nl",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "NG-BLU Networks | Informatie en communicatie | 06-02-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij NG-BLU Networks heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d07b9731475037a5d024d1bd6f083b182bbac4b66e65dfca629f30482f082e37",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Madia getroffen door ransomware aanval van de criminele organisatie Fog",
-        "date_published": "2025-02-05T15:16:00Z",
-        "date_modified": "2025-02-05T15:16:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Madia | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 05-02-2025 | DataLekt.nl: De criminele organisatie Fog heeft op het darkweb aangekondigd dat zij Madia heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]
