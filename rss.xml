@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 27 May 2025 18:28:47 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 05 Jun 2025 12:43:53 +0000</lastBuildDate>
+		<item>
+			<title>UWV lekt gezondheidsgegevens van cliënten door e-mailfouten</title>
+			<link>https://www.security.nl/posting/890740/UWV+lekte+door+fout+bij+versturen+van+e-mail+gezondheidsgegevens+cli%C3%ABnten</link>
+			<description>Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 04-06-2025 | DataLekt.nl: Het UWV heeft in januari en februari 2025 tweemaal gezondheidsgegevens van cliënten gelekt door menselijke fouten bij het versturen van e-mails. In het eerste geval werd een interne e-mail met een bijlage vol persoonsgegevens per ongeluk naar een cliënt gestuurd, die aangaf het bericht ongeopend te hebben verwijderd. In het tweede incident werden bestanden met gegevens van 158 personen naar een verkeerde ontvanger verzonden, die ook meldde de bestanden direct te hebben verwijderd. Het UWV meldde beide datalekken aan de Autoriteit Persoonsgegevens, maar informeerde bij het tweede incident de betrokkenen niet vanwege een ingeschatte minimale impact. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/890740/UWV+lekte+door+fout+bij+versturen+van+e-mail+gezondheidsgegevens+cli%C3%ABnten?datalekt=b663740a63cbd177611b307c397ddc4bb298e4fb91fd3bbc4ab2f17850b4cb65</guid>
+			<category>Overheid: Zelfstandige bestuursorganen </category>
+			<pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>4Motive getroffen door ransomware aanval van de criminele organisatie Space Bears</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>4Motive | Groot- en detailhandel | 22-05-2025 | DataLekt.nl: De criminele organisatie Space Bears heeft op het darkweb aangekondigd dat zij 4Motive heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4c1ab87bf6c8cfae51550ff2f35f9cd627fe1c6f22110bb05e3fe23f91e8b640</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>UWV meldde in 2024 ruim 900 datalekken, waaronder grootschalig lek via Werk.nl</title>
 			<link>https://www.security.nl/posting/888837/UWV+meldde+vorig+jaar+900+datalekken+bij+Autoriteit+Persoonsgegevens</link>
@@ -751,22 +767,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=f06d3987ddaaa6e08967674fd4ad133f4a34c5b23d74e18398a82001df7e628c</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>ICT-leverancier veroorzaakt datalek bij gemeente Meerssen na foutieve update</title>
-			<link>https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier</link>
-			<description>Onbekende ICT organisatie | Informatie en communicatie | 06-02-2025 | DataLekt.nl: Een onbekende ICT-leverancier heeft bij een update voor de gemeente Meerssen onbedoeld persoonsgegevens van huidige en voormalige medewerkers openbaar gemaakt. Door de fout werden oude intranetpagina’s geïndexeerd door Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen getroffen om het lek te dichten, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor misbruik van de gelekte gegevens. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=6d6e187af01a9ae7051a3fd153504ce7bb90d240fce1ce22857e592a83739fd6</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>NG-BLU Networks getroffen door ransomware aanval van de criminele organisatie Akira</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>NG-BLU Networks | Informatie en communicatie | 06-02-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij NG-BLU Networks heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=bf9b504a233004b0fa8c8b8eb37e0e445ef9e09bc1160970a055f3dc4ef27842</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
