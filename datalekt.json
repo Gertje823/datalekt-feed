@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/789992/Maritiem+dienstverlener+Royal+Dirkzwager+getroffen+door+ransomware?datalekt=b855cb6f09195b30380cdb00b4aa5faaf8aea27fe01d2e542e9184ef96ce721f",
+        "url": "https://www.security.nl/posting/789992/Maritiem+dienstverlener+Royal+Dirkzwager+getroffen+door+ransomware",
+        "title": "Royal Dirkzwager getroffen door Play-ransomware; persoonlijke gegevens buitgemaakt",
+        "date_published": "2023-03-20T00:00:00Z",
+        "date_modified": "2025-06-06T10:08:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Royal Dirkzwager | Vervoer en opslag | 20-03-2023 | DataLekt.nl: De Nederlandse maritiem dienstverlener Royal Dirkzwager werd begin maart slachtoffer van de Play-ransomware, dezelfde ransomware die eerder gemeente Antwerpen en hostingbedrijf Rackspace trof. Door deze cyberaanval konden verschillende diensten, zoals het real-time overzicht van aankomende schepen en de ROAM-service voor scheepsverkeermonitoring, niet worden aangeboden aan klanten. Royal Dirkzwager meldde dat documenten van hun netwerk waren gestolen. De criminelen achter de Play-ransomware claimden verantwoordelijkheid voor de aanval en gaven aan persoonlijke informatie, waaronder identiteitsbewijzen en bedrijfsinformatie, te hebben buitgemaakt. [Update: Op 3 juni 2025 is bekend geworden dat de ransomware-aanval op Royal Dirkzwager werd uitgevoerd via een bruteforce-aanval op een onvoldoende beveiligde cloudomgeving, waarbij onbeperkte inlogpogingen mogelijk waren.] (Bron: security.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/890740/UWV+lekte+door+fout+bij+versturen+van+e-mail+gezondheidsgegevens+cli%C3%ABnten?datalekt=b663740a63cbd177611b307c397ddc4bb298e4fb91fd3bbc4ab2f17850b4cb65",
         "url": "https://www.security.nl/posting/890740/UWV+lekte+door+fout+bij+versturen+van+e-mail+gezondheidsgegevens+cli%C3%ABnten",
         "title": "UWV lekt gezondheidsgegevens van cli\u00ebnten door e-mailfouten",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Venlo | Overheid: Gemeenten | 08-02-2025 | DataLekt.nl: De gemeente Venlo heeft in strijd met de AVG persoonsgegevens van bezwaarmakers gedeeld met VidaXL, terwijl deze bezwaarmakers niet-ontvankelijk waren verklaard. Ondanks kritiek van deskundigen en een klacht bij de Autoriteit Persoonsgegevens (AP) op 8 augustus 2023, blijft de gemeente bij haar standpunt dat dit toegestaan was. De AP gaf op 6 februari 2025 aan de klacht niet verder te onderzoeken wegens capaciteitsgebrek, maar bewaart deze voor mogelijk toekomstig onderzoek. De AP stuurt een brief aan de gemeente Venlo om de privacyregels toe te lichten en naleving te eisen. (Bron: horstaandemaas.sp.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier?datalekt=f06d3987ddaaa6e08967674fd4ad133f4a34c5b23d74e18398a82001df7e628c",
-        "url": "https://www.security.nl/posting/875194/Gemeente+Meerssen+lekt+gegevens+personeel+na+update+van+ict-leverancier",
-        "title": "Gemeente Meerssen lekt persoonsgegevens van medewerkers door fout bij ict-leverancier",
-        "date_published": "2025-02-09T10:19:00Z",
-        "date_modified": "2025-02-09T10:19:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Meerssen | Overheid: Gemeenten | 06-02-2025 | DataLekt.nl: De gemeente Meerssen heeft persoonsgegevens van huidige en voormalige medewerkers gelekt nadat een externe ict-leverancier een update uitvoerde. Hierdoor werden oude intranetpagina&#039;s openbaar via Google, waardoor namen, geboortedata, mobiele nummers en werkgerelateerde e-mailadressen zichtbaar waren. De leverancier heeft maatregelen genomen om dit te corrigeren, en de gemeente heeft de zoekresultaten laten verwijderen. Er zijn geen aanwijzingen voor significante schade door het datalek. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)"
     }
 ]
