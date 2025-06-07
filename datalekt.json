@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/890959/150+Nederlandse+gemeenten+betrokken+bij+ransomware-incidenten?datalekt=ef224546440ddf06188860fba297cb9c9691a2cc1402400238a3955716cfa932",
+        "url": "https://www.security.nl/posting/890959/150+Nederlandse+gemeenten+betrokken+bij+ransomware-incidenten",
+        "title": "Meer dan 150 Nederlandse gemeenten getroffen door ransomware via leveranciers",
+        "date_published": "2025-06-07T10:24:00Z",
+        "date_modified": "2025-06-07T10:24:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "150 onbekende gemeenten | Overheid: Gemeenten | 05-06-2025 | DataLekt.nl: In de jaren 2023 en 2024 zijn ruim 150 Nederlandse gemeenten direct of indirect getroffen door ransomware-incidenten, vooral via aanvallen op leveranciers zoals printservicebureaus en clouddienstverleners. De Informatiebeveiligingsdienst van de VNG stelt dat deze aanvallen vaak het gevolg zijn van kwetsbare systemen en buitgemaakte inloggegevens, eerder dan gerichte aanvallen. Omdat steeds meer ICT-diensten worden uitbesteed, vormen incidenten in de toeleveringsketen een toenemende dreiging. Ransomware en phishing bij leveranciers leidden regelmatig tot verstoringen en datalekken bij meerdere gemeenten. De IBD adviseert gemeenten om duidelijke beveiligingsafspraken te maken met leveranciers en zich intern goed voor te bereiden op incidenten. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/789992/Maritiem+dienstverlener+Royal+Dirkzwager+getroffen+door+ransomware?datalekt=b855cb6f09195b30380cdb00b4aa5faaf8aea27fe01d2e542e9184ef96ce721f",
         "url": "https://www.security.nl/posting/789992/Maritiem+dienstverlener+Royal+Dirkzwager+getroffen+door+ransomware",
         "title": "Royal Dirkzwager getroffen door Play-ransomware; persoonlijke gegevens buitgemaakt",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "GGNet | Gezondheids- en welzijnszorg | 10-02-2025 | DataLekt.nl: Tien medewerkers van GGNet hebben zonder toestemming het medisch dossier van een oud-profvoetballer ingezien na zijn spoedopname op de crisisafdeling. Dit interne datalek werd ontdekt door de instelling, die enkele medewerkers op staande voet ontsloeg en anderen een laatste waarschuwing gaf. Er zijn zorgen dat vertrouwelijke gegevens mogelijk zijn gedeeld binnen priv\u00e9kringen. Een van de ontslagen medewerkers vocht haar ontslag aan, maar de rechter vernietigde het ontslag wegens een gebrek aan een duidelijk sanctiebeleid. GGNet moest haar salaris doorbetalen en een transitievergoeding van \u20ac21.000 betalen. (Bron: tubantia.nl)"
-    },
-    {
-        "id": "https://horstaandemaas.sp.nl/nieuws/2025/02/brief-autoriteit-persoonsgegevens-ap-aan-gemeente-venlo-over-overtreden-pryvacyregels?datalekt=7194c8c82b9a7e0128b9566c7110aa38916101e42260e77546139beb1592f7d8",
-        "url": "https://horstaandemaas.sp.nl/nieuws/2025/02/brief-autoriteit-persoonsgegevens-ap-aan-gemeente-venlo-over-overtreden-pryvacyregels",
-        "title": "Gemeente Venlo deelde onterecht persoonsgegevens bezwaarmakers met VidaXL",
-        "date_published": "2025-02-10T09:26:00Z",
-        "date_modified": "2025-02-10T09:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "sp.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Venlo | Overheid: Gemeenten | 08-02-2025 | DataLekt.nl: De gemeente Venlo heeft in strijd met de AVG persoonsgegevens van bezwaarmakers gedeeld met VidaXL, terwijl deze bezwaarmakers niet-ontvankelijk waren verklaard. Ondanks kritiek van deskundigen en een klacht bij de Autoriteit Persoonsgegevens (AP) op 8 augustus 2023, blijft de gemeente bij haar standpunt dat dit toegestaan was. De AP gaf op 6 februari 2025 aan de klacht niet verder te onderzoeken wegens capaciteitsgebrek, maar bewaart deze voor mogelijk toekomstig onderzoek. De AP stuurt een brief aan de gemeente Venlo om de privacyregels toe te lichten en naleving te eisen. (Bron: horstaandemaas.sp.nl)"
     }
 ]

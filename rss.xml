@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 06 Jun 2025 12:42:11 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 07 Jun 2025 12:39:07 +0000</lastBuildDate>
+		<item>
+			<title>Meer dan 150 Nederlandse gemeenten getroffen door ransomware via leveranciers</title>
+			<link>https://www.security.nl/posting/890959/150+Nederlandse+gemeenten+betrokken+bij+ransomware-incidenten</link>
+			<description>150 onbekende gemeenten | Overheid: Gemeenten | 05-06-2025 | DataLekt.nl: In de jaren 2023 en 2024 zijn ruim 150 Nederlandse gemeenten direct of indirect getroffen door ransomware-incidenten, vooral via aanvallen op leveranciers zoals printservicebureaus en clouddienstverleners. De Informatiebeveiligingsdienst van de VNG stelt dat deze aanvallen vaak het gevolg zijn van kwetsbare systemen en buitgemaakte inloggegevens, eerder dan gerichte aanvallen. Omdat steeds meer ICT-diensten worden uitbesteed, vormen incidenten in de toeleveringsketen een toenemende dreiging. Ransomware en phishing bij leveranciers leidden regelmatig tot verstoringen en datalekken bij meerdere gemeenten. De IBD adviseert gemeenten om duidelijke beveiligingsafspraken te maken met leveranciers en zich intern goed voor te bereiden op incidenten. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/890959/150+Nederlandse+gemeenten+betrokken+bij+ransomware-incidenten?datalekt=ef224546440ddf06188860fba297cb9c9691a2cc1402400238a3955716cfa932</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>UWV lekt gezondheidsgegevens van cliënten door e-mailfouten</title>
 			<link>https://www.security.nl/posting/890740/UWV+lekte+door+fout+bij+versturen+van+e-mail+gezondheidsgegevens+cli%C3%ABnten</link>
@@ -751,14 +759,6 @@
 			<guid isPermaLink="false">https://www.tubantia.nl/binnenland/medewerkers-ggz-kliniek-gluren-stiekem-in-dossier-oud-profvoetballer-na-spoedopname-op-crisisafdeling~afea4c55/?datalekt=bf3a1f5b7adf9bfd0c98a41d97268c5bd8551599953f6c3e21a89914a21063c9</guid>
 			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Venlo deelde onterecht persoonsgegevens bezwaarmakers met VidaXL</title>
-			<link>https://horstaandemaas.sp.nl/nieuws/2025/02/brief-autoriteit-persoonsgegevens-ap-aan-gemeente-venlo-over-overtreden-pryvacyregels</link>
-			<description>Gemeente Venlo | Overheid: Gemeenten | 08-02-2025 | DataLekt.nl: De gemeente Venlo heeft in strijd met de AVG persoonsgegevens van bezwaarmakers gedeeld met VidaXL, terwijl deze bezwaarmakers niet-ontvankelijk waren verklaard. Ondanks kritiek van deskundigen en een klacht bij de Autoriteit Persoonsgegevens (AP) op 8 augustus 2023, blijft de gemeente bij haar standpunt dat dit toegestaan was. De AP gaf op 6 februari 2025 aan de klacht niet verder te onderzoeken wegens capaciteitsgebrek, maar bewaart deze voor mogelijk toekomstig onderzoek. De AP stuurt een brief aan de gemeente Venlo om de privacyregels toe te lichten en naleving te eisen. (Bron: horstaandemaas.sp.nl)</description>
-			<guid isPermaLink="false">https://horstaandemaas.sp.nl/nieuws/2025/02/brief-autoriteit-persoonsgegevens-ap-aan-gemeente-venlo-over-overtreden-pryvacyregels?datalekt=7194c8c82b9a7e0128b9566c7110aa38916101e42260e77546139beb1592f7d8</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
