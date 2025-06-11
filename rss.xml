@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 07 Jun 2025 12:39:07 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 11 Jun 2025 12:44:44 +0000</lastBuildDate>
+		<item>
+			<title>Unibet moet gokgegevens verstrekken na uitspraak rechtbank Amsterdam</title>
+			<link>https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/</link>
+			<description>Unibet | Cultuur, sport en recreatie | 10-06-2025 | DataLekt.nl: De Rechtbank Amsterdam heeft op 22 mei 2025 bepaald dat Unibet, via haar voormalige houdstermaatschappij Trannel Limited International, een speler inzage moet geven in zijn gokgegevens. Dit volgde op een civiel AVG-verzoek van de speler, nadat Unibet inzage weigerde en zich beriep op Europese en Maltese wetgeving. De rechter oordeelde dat deze weigering onterecht was en legde een dwangsom op van € 250 per dag met een maximum van € 10.000. Unibet is gevestigd op Malta, maar handelt op de Nederlandse markt onder vergunning van de Kansspelautoriteit. De uitspraak onderstreept dat het doel van een AVG-verzoek geen reden mag zijn om inzage te weigeren. (Bron: casinonieuws.nl)</description>
+			<guid isPermaLink="false">https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/?datalekt=7863658263a2b59dc53d46fcc815f9d9bef871bd1c3be44241290b6e89fb9410</guid>
+			<category>Cultuur, sport en recreatie </category>
+			<pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>RMC lijdt €217.000 schade door kopieerbare rfid-laaddruppels van Ecotap</title>
+			<link>https://tweakers.net/nieuws/235980/vervoersbedrijf-rmc-loopt-217000-euro-schade-op-door-fraude-met-rfid-laadcodes.html</link>
+			<description>RMC Rotterdam | Vervoer en opslag | 10-06-2025 | DataLekt.nl: Het Rotterdamse vervoersbedrijf RMC is slachtoffer geworden van grootschalige fraude met rfid-laaddruppels van leverancier Ecotap. De unieke codes van deze druppels, gebruikt voor het opladen van elektrische voertuigen, bleken eenvoudig te kopiëren en werden meer dan 11.000 keer misbruikt sinds januari 2024. Hierdoor ontstond een schade van €217.000. De fraude bleef onopgemerkt tot het bedrijf laadsessies in het buitenland signaleerde, terwijl RMC alleen in Nederland actief is. RMC houdt Ecotap verantwoordelijk vanwege gebrekkige beveiliging, maar Ecotap wijst op het eigen toezicht van RMC. De politie ziet onvoldoende bewijs voor onderzoek. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/235980/vervoersbedrijf-rmc-loopt-217000-euro-schade-op-door-fraude-met-rfid-laadcodes.html?datalekt=243b3a5dad65d48570d1ee5ff0d754c2858b8a70e147ae2ed9d1a817fceef3e4</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Meer dan 150 Nederlandse gemeenten getroffen door ransomware via leveranciers</title>
 			<link>https://www.security.nl/posting/890959/150+Nederlandse+gemeenten+betrokken+bij+ransomware-incidenten</link>
@@ -743,22 +759,6 @@
 			<guid isPermaLink="false">https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein?datalekt=4d23d080016fd72e7c981f819f6579aeea2f4967dd5ecd529a9e6f4ec82ada9e</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Arlan Groep getroffen door ransomware aanval van de criminele organisatie CL0P</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Arlan Groep | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 10-02-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Arlan Groep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=98db7f2ec82fa5fdc0744a9ffd01590492cef1b60408fa765de9b131834266b5</guid>
-			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
-			<pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Medewerkers GGNet onrechtmatig dossier oud-profvoetballer ingezien, meerdere ontslagen</title>
-			<link>https://www.tubantia.nl/binnenland/medewerkers-ggz-kliniek-gluren-stiekem-in-dossier-oud-profvoetballer-na-spoedopname-op-crisisafdeling~afea4c55/</link>
-			<description>GGNet | Gezondheids- en welzijnszorg | 10-02-2025 | DataLekt.nl: Tien medewerkers van GGNet hebben zonder toestemming het medisch dossier van een oud-profvoetballer ingezien na zijn spoedopname op de crisisafdeling. Dit interne datalek werd ontdekt door de instelling, die enkele medewerkers op staande voet ontsloeg en anderen een laatste waarschuwing gaf. Er zijn zorgen dat vertrouwelijke gegevens mogelijk zijn gedeeld binnen privékringen. Een van de ontslagen medewerkers vocht haar ontslag aan, maar de rechter vernietigde het ontslag wegens een gebrek aan een duidelijk sanctiebeleid. GGNet moest haar salaris doorbetalen en een transitievergoeding van €21.000 betalen. (Bron: tubantia.nl)</description>
-			<guid isPermaLink="false">https://www.tubantia.nl/binnenland/medewerkers-ggz-kliniek-gluren-stiekem-in-dossier-oud-profvoetballer-na-spoedopname-op-crisisafdeling~afea4c55/?datalekt=bf3a1f5b7adf9bfd0c98a41d97268c5bd8551599953f6c3e21a89914a21063c9</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
