@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html?datalekt=bb1fc08f2e0a608b34b00b84f3769bca861338d393bd7d77e7861277ad7890c7",
+        "url": "https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html",
+        "title": "Kruidvat krijgt boete voor plaatsing trackingcookies zonder toestemming",
+        "date_published": "2024-07-17T11:50:00Z",
+        "date_modified": "2025-06-14T16:34:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Kruidvat | Groot- en detailhandel | 16-07-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft drogisterij Kruidvat, onderdeel van AS Watson, een boete van 600.000 euro opgelegd voor het plaatsen van trackingcookies zonder juiste toestemming. Kruidvat schond hiermee de AVG door standaard aangevinkte vakjes te gebruiken in hun cookiebanner, waardoor klanten niet vrijelijk hun toestemming konden geven. Dit betrof gevoelige informatie zoals aankopen van zwangerschapstests en medicatie. Na onderzoek vanaf eind 2019, bleek Kruidvat pas vanaf oktober 2020 de wetgeving correct te volgen. AS Watson is in beroep gegaan tegen de boete. [Update: Op 13 juni 2025 heeft de AP bekend gemaakt dat de boete is verlaagd van 600.000 naar 50.000 euro.] (Bron: tweakers.net)"
+    },
+    {
         "id": "https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/?datalekt=7863658263a2b59dc53d46fcc815f9d9bef871bd1c3be44241290b6e89fb9410",
         "url": "https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/",
         "title": "Unibet moet gokgegevens verstrekken na uitspraak rechtbank Amsterdam",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Microsoft | Informatie en communicatie | 13-02-2025 | DataLekt.nl: Microsoft en dochteronderneming LinkedIn moeten 50.000 euro betalen aan een Nederlandse LinkedIn-gebruiker omdat zij trackingcookies plaatsten zonder toestemming. De rechtbank had in juni 2024 bepaald dat LinkedIn moest stoppen met het plaatsen en uitlezen van trackingcookies, op straffe van een dwangsom van 500 euro per overtreding, met een maximum van 25.000 euro per bedrijf. LinkedIn en Microsoft gingen echter door met het plaatsen van cookies, waarna de rechter hen verplichtte het maximale bedrag te betalen. De bedrijven betwisten de uitspraak en stellen dat er geen trackingcookies zijn gebruikt. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein?datalekt=4d23d080016fd72e7c981f819f6579aeea2f4967dd5ecd529a9e6f4ec82ada9e",
-        "url": "https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein",
-        "title": "Gemeente Nieuwegein verliest notitieblokken met gevoelige gegevens bij verhuizing",
-        "date_published": "2025-02-13T10:21:00Z",
-        "date_modified": "2025-02-13T10:21:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtvutrecht.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Nieuwegein | Overheid: Gemeenten | 10-02-2025 | DataLekt.nl: Tijdens de verhuizing van de afdeling Geynwijs van de gemeente Nieuwegein zijn vijf notitieblokken met persoonsgegevens van 417 inwoners zoekgeraakt. De notitieblokken bevatten mogelijk namen, adressen, telefoonnummers en informatie over de woonsituatie en medische situatie van betrokkenen. Vermoedelijk is een bak met de notitieblokken per ongeluk als oud papier vernietigd, maar dit kan niet worden bevestigd. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en getroffen inwoners gewaarschuwd om alert te zijn op mogelijk misbruik. Er zijn maatregelen genomen om herhaling te voorkomen. (Bron: rtvutrecht.nl)"
     }
 ]

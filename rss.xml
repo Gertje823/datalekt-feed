@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 11 Jun 2025 12:44:44 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 14 Jun 2025 18:26:49 +0000</lastBuildDate>
 		<item>
 			<title>Unibet moet gokgegevens verstrekken na uitspraak rechtbank Amsterdam</title>
 			<link>https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/</link>
@@ -753,14 +753,6 @@
 			<pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Gemeente Nieuwegein verliest notitieblokken met gevoelige gegevens bij verhuizing</title>
-			<link>https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein</link>
-			<description>Gemeente Nieuwegein | Overheid: Gemeenten | 10-02-2025 | DataLekt.nl: Tijdens de verhuizing van de afdeling Geynwijs van de gemeente Nieuwegein zijn vijf notitieblokken met persoonsgegevens van 417 inwoners zoekgeraakt. De notitieblokken bevatten mogelijk namen, adressen, telefoonnummers en informatie over de woonsituatie en medische situatie van betrokkenen. Vermoedelijk is een bak met de notitieblokken per ongeluk als oud papier vernietigd, maar dit kan niet worden bevestigd. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en getroffen inwoners gewaarschuwd om alert te zijn op mogelijk misbruik. Er zijn maatregelen genomen om herhaling te voorkomen. (Bron: rtvutrecht.nl)</description>
-			<guid isPermaLink="false">https://www.rtvutrecht.nl/nieuws/3851834/kladblokken-met-persoonsgegevens-kwijtgeraakt-bij-verhuizing-afdeling-gemeente-nieuwegein?datalekt=4d23d080016fd72e7c981f819f6579aeea2f4967dd5ecd529a9e6f4ec82ada9e</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
 			<link>https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html</link>
 			<description>Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld geëist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari 2025 is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] [Update: Op 9 mei 2025 meldde TU/e dat het ontbreken van mfa op de vpn mogelijk toegang gaf tot het netwerk. Er is inmiddels een nieuwe vpn met mfa en betere monitoring ingevoerd.] (Bron: tweakers.net / computable.nl)</description>
@@ -775,6 +767,14 @@
 			<guid isPermaLink="false">https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=84507a755146766d8f05be7273b7ae3cdd51894c0fb7232dfbab9e4bda0bfc7d</guid>
 			<category>Overheid: Politie en brandweer </category>
 			<pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Kruidvat krijgt boete voor plaatsing trackingcookies zonder toestemming</title>
+			<link>https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html</link>
+			<description>Kruidvat | Groot- en detailhandel | 16-07-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft drogisterij Kruidvat, onderdeel van AS Watson, een boete van 600.000 euro opgelegd voor het plaatsen van trackingcookies zonder juiste toestemming. Kruidvat schond hiermee de AVG door standaard aangevinkte vakjes te gebruiken in hun cookiebanner, waardoor klanten niet vrijelijk hun toestemming konden geven. Dit betrof gevoelige informatie zoals aankopen van zwangerschapstests en medicatie. Na onderzoek vanaf eind 2019, bleek Kruidvat pas vanaf oktober 2020 de wetgeving correct te volgen. AS Watson is in beroep gegaan tegen de boete. [Update: Op 13 juni 2025 heeft de AP bekend gemaakt dat de boete is verlaagd van 600.000 naar 50.000 euro.] (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html?datalekt=bb1fc08f2e0a608b34b00b84f3769bca861338d393bd7d77e7861277ad7890c7</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>
