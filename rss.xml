@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 14 Jun 2025 18:26:49 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 17 Jun 2025 12:45:33 +0000</lastBuildDate>
+		<item>
+			<title>Ab Ovo getroffen door ransomware aanval van de criminele organisatie Akira</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Ab Ovo | Informatie en communicatie | 16-06-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij Ab Ovo heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f62befc8833915a5111a8cc53ebae6044721ec4a39f95885000e3e274a24d572</guid>
+			<category>Informatie en communicatie </category>
+			<pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Unibet moet gokgegevens verstrekken na uitspraak rechtbank Amsterdam</title>
 			<link>https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/</link>
@@ -743,14 +751,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c24090a84fbfde9f652cb512303688a8d1e50a6704e4b68c5bedd7a5b8c42186</guid>
 			<category>Vervoer en opslag </category>
 			<pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Microsoft moet 50.000 euro betalen aan Nederlandse LinkedIn-gebruiker wegens illegale trackingcookies</title>
-			<link>https://tweakers.net/nieuws/231840/microsoft-moet-linkedin-gebruiker-50000-euro-betalen-na-inzet-trackingcookies.html</link>
-			<description>Microsoft | Informatie en communicatie | 13-02-2025 | DataLekt.nl: Microsoft en dochteronderneming LinkedIn moeten 50.000 euro betalen aan een Nederlandse LinkedIn-gebruiker omdat zij trackingcookies plaatsten zonder toestemming. De rechtbank had in juni 2024 bepaald dat LinkedIn moest stoppen met het plaatsen en uitlezen van trackingcookies, op straffe van een dwangsom van 500 euro per overtreding, met een maximum van 25.000 euro per bedrijf. LinkedIn en Microsoft gingen echter door met het plaatsen van cookies, waarna de rechter hen verplichtte het maximale bedrag te betalen. De bedrijven betwisten de uitspraak en stellen dat er geen trackingcookies zijn gebruikt. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/231840/microsoft-moet-linkedin-gebruiker-50000-euro-betalen-na-inzet-trackingcookies.html?datalekt=35efd4d2bb6718f2d5e3bc98aef850528edb245765d0d664a228b20ca6d2d45e</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>

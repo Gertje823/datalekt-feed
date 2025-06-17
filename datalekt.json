@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f62befc8833915a5111a8cc53ebae6044721ec4a39f95885000e3e274a24d572",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Ab Ovo getroffen door ransomware aanval van de criminele organisatie Akira",
+        "date_published": "2025-06-17T12:58:00Z",
+        "date_modified": "2025-06-17T12:58:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Ab Ovo | Informatie en communicatie | 16-06-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij Ab Ovo heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html?datalekt=bb1fc08f2e0a608b34b00b84f3769bca861338d393bd7d77e7861277ad7890c7",
         "url": "https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html",
         "title": "Kruidvat krijgt boete voor plaatsing trackingcookies zonder toestemming",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ben Becker Internationaal Transportbedrijf | Vervoer en opslag | 10-02-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Ben Becker Internationaal Transportbedrijf heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/231840/microsoft-moet-linkedin-gebruiker-50000-euro-betalen-na-inzet-trackingcookies.html?datalekt=35efd4d2bb6718f2d5e3bc98aef850528edb245765d0d664a228b20ca6d2d45e",
-        "url": "https://tweakers.net/nieuws/231840/microsoft-moet-linkedin-gebruiker-50000-euro-betalen-na-inzet-trackingcookies.html",
-        "title": "Microsoft moet 50.000 euro betalen aan Nederlandse LinkedIn-gebruiker wegens illegale trackingcookies",
-        "date_published": "2025-02-14T14:46:00Z",
-        "date_modified": "2025-02-14T14:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Microsoft | Informatie en communicatie | 13-02-2025 | DataLekt.nl: Microsoft en dochteronderneming LinkedIn moeten 50.000 euro betalen aan een Nederlandse LinkedIn-gebruiker omdat zij trackingcookies plaatsten zonder toestemming. De rechtbank had in juni 2024 bepaald dat LinkedIn moest stoppen met het plaatsen en uitlezen van trackingcookies, op straffe van een dwangsom van 500 euro per overtreding, met een maximum van 25.000 euro per bedrijf. LinkedIn en Microsoft gingen echter door met het plaatsen van cookies, waarna de rechter hen verplichtte het maximale bedrag te betalen. De bedrijven betwisten de uitspraak en stellen dat er geen trackingcookies zijn gebruikt. (Bron: tweakers.net)"
     }
 ]
