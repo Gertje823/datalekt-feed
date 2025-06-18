@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 17 Jun 2025 12:45:33 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 18 Jun 2025 12:45:21 +0000</lastBuildDate>
+		<item>
+			<title>Pluryn meldt datalek na verlies onbeveiligde USB-stick met gevoelige gegevens</title>
+			<link>https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html</link>
+			<description>Pluryn | Gezondheids- en welzijnszorg | 17-06-2025 | DataLekt.nl: Zorgorganisatie Pluryn heeft een datalek gemeld na het verlies van een onbeveiligde USB-stick in de week van 9 juni 2025. Op de stick stonden persoonsgegevens van cliënten en medewerkers, waaronder namen, adressen en burgerservicenummers. Mogelijk betroffen de gegevens ook voormalige cliënten en werknemers. De organisatie heeft melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt het incident met hulp van een externe partij, die nagaat of de gegevens bijvoorbeeld online circuleren. Getroffenen worden vanaf 17 juni geïnformeerd. Pluryn neemt aanvullende maatregelen om medewerkers te instrueren over gegevensveiligheid en wil het informatiebeleid aanscherpen. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html?datalekt=af977e5fc328cc66396e249b35ff9eceb3b4b114d66d291c575db2756b9443fc</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ab Ovo getroffen door ransomware aanval van de criminele organisatie Akira</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -743,14 +751,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/876549/NCSC%3A+121+Nederlandse+bedrijven+vorig+jaar+slachtoffer+van+ransomware?datalekt=11d5e5f7334b3cd4b4e98294c231ebcb6effd05588fa05f32d0a79f872f615e2</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ben Becker Internationaal Transportbedrijf getroffen door ransomware aanval van de criminele organisatie CL0P</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Ben Becker Internationaal Transportbedrijf | Vervoer en opslag | 10-02-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Ben Becker Internationaal Transportbedrijf heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c24090a84fbfde9f652cb512303688a8d1e50a6704e4b68c5bedd7a5b8c42186</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>

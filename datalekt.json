@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html?datalekt=af977e5fc328cc66396e249b35ff9eceb3b4b114d66d291c575db2756b9443fc",
+        "url": "https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html",
+        "title": "Pluryn meldt datalek na verlies onbeveiligde USB-stick met gevoelige gegevens",
+        "date_published": "2025-06-18T14:21:00Z",
+        "date_modified": "2025-06-18T14:21:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Pluryn | Gezondheids- en welzijnszorg | 17-06-2025 | DataLekt.nl: Zorgorganisatie Pluryn heeft een datalek gemeld na het verlies van een onbeveiligde USB-stick in de week van 9 juni 2025. Op de stick stonden persoonsgegevens van cli\u00ebnten en medewerkers, waaronder namen, adressen en burgerservicenummers. Mogelijk betroffen de gegevens ook voormalige cli\u00ebnten en werknemers. De organisatie heeft melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt het incident met hulp van een externe partij, die nagaat of de gegevens bijvoorbeeld online circuleren. Getroffenen worden vanaf 17 juni ge\u00efnformeerd. Pluryn neemt aanvullende maatregelen om medewerkers te instrueren over gegevensveiligheid en wil het informatiebeleid aanscherpen. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f62befc8833915a5111a8cc53ebae6044721ec4a39f95885000e3e274a24d572",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Ab Ovo getroffen door ransomware aanval van de criminele organisatie Akira",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Onbekende organisaties | Overige dienstverlening | 17-02-2025 | DataLekt.nl: In 2024 werden 121 Nederlandse bedrijven en organisaties slachtoffer van ransomware, meldt het Nationaal Cyber Security Centrum (NCSC). In 38% van de gevallen kregen aanvallers toegang door accounts over te nemen, terwijl 33% het gevolg was van misbruikte softwarekwetsbaarheden. De Cactus-ransomware veroorzaakte een aanzienlijk aantal incidenten, vaak door misbruik van kwetsbaarheden in Qlik Sense. Bijna een kwart van de getroffen organisaties bevond zich in de ICT-sector. Het NCSC benadrukt het belang van het nemen van basisbeveiligingsmaatregelen en het doen van aangifte bij de politie na een aanval. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=c24090a84fbfde9f652cb512303688a8d1e50a6704e4b68c5bedd7a5b8c42186",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Ben Becker Internationaal Transportbedrijf getroffen door ransomware aanval van de criminele organisatie CL0P",
-        "date_published": "2025-02-17T16:40:00Z",
-        "date_modified": "2025-02-17T16:40:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Ben Becker Internationaal Transportbedrijf | Vervoer en opslag | 10-02-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Ben Becker Internationaal Transportbedrijf heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]
