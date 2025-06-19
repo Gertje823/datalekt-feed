@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten?datalekt=1a9a0c1227c28da6f2de2b3fea6f04622d5d461d9a577ed05b4b81fbc9df01e0",
+        "url": "https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten",
+        "title": "Cyberaanval op Center Parcs treft boekingssysteem en 20.000 klanten",
+        "date_published": "2025-06-19T09:54:00Z",
+        "date_modified": "2025-06-19T09:54:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitchannel.nl"
+        },
+        "content_html": "",
+        "content_text": "Center Parcs | Cultuur, sport en recreatie | 16-06-2025 | DataLekt.nl: Op 4 juni 2025 is Center Parcs getroffen door een cyberaanval op een systeem dat werd gebruikt voor telefonische boekingen. Bij deze aanval zijn persoonsgegevens van circa 20.000 klanten in Europa buitgemaakt, waaronder namen, e-mailadressen en boekingsgegevens zoals reserveringsnummers, locaties en verblijfsduur. Gevoelige informatie zoals financi\u00eble data, wachtwoorden, telefoonnummers of adressen zijn volgens het bedrijf niet gelekt. De aanval werd op 6 juni gestopt en het incident is gemeld aan de Franse privacytoezichthouder CNIL. Klanten zijn inmiddels ge\u00efnformeerd en Center Parcs overweegt een klacht in te dienen bij de politie. (Bron: dutchitchannel.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html?datalekt=af977e5fc328cc66396e249b35ff9eceb3b4b114d66d291c575db2756b9443fc",
         "url": "https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html",
         "title": "Pluryn meldt datalek na verlies onbeveiligde USB-stick met gevoelige gegevens",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Onbekende zorgorganisaties | Gezondheids- en welzijnszorg | 18-02-2025 | DataLekt.nl: Op een rommelmarkt ontdekte een koper harde schijven vol gevoelige medische gegevens, waaronder BSN-nummers, medicatiehistorie en adresgegevens van pati\u00ebnten. De data, afkomstig van het opgeheven bedrijf Nortade ICT Solutions, werd niet gewist voordat de schijven werden doorverkocht. Vermoedelijk zijn de schijven via een faillissementsverkoop in omloop gekomen. De koper waarschuwde getroffen zorginstellingen en de Autoriteit Persoonsgegevens. (Bron: omroepbrabant.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/876549/NCSC%3A+121+Nederlandse+bedrijven+vorig+jaar+slachtoffer+van+ransomware?datalekt=11d5e5f7334b3cd4b4e98294c231ebcb6effd05588fa05f32d0a79f872f615e2",
-        "url": "https://www.security.nl/posting/876549/NCSC%3A+121+Nederlandse+bedrijven+vorig+jaar+slachtoffer+van+ransomware",
-        "title": "NCSC: 121 Nederlandse bedrijven in 2024 getroffen door ransomware-aanvallen",
-        "date_published": "2025-02-19T15:02:00Z",
-        "date_modified": "2025-02-19T15:02:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende organisaties | Overige dienstverlening | 17-02-2025 | DataLekt.nl: In 2024 werden 121 Nederlandse bedrijven en organisaties slachtoffer van ransomware, meldt het Nationaal Cyber Security Centrum (NCSC). In 38% van de gevallen kregen aanvallers toegang door accounts over te nemen, terwijl 33% het gevolg was van misbruikte softwarekwetsbaarheden. De Cactus-ransomware veroorzaakte een aanzienlijk aantal incidenten, vaak door misbruik van kwetsbaarheden in Qlik Sense. Bijna een kwart van de getroffen organisaties bevond zich in de ICT-sector. Het NCSC benadrukt het belang van het nemen van basisbeveiligingsmaatregelen en het doen van aangifte bij de politie na een aanval. (Bron: security.nl)"
     }
 ]
