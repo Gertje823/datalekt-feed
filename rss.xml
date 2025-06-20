@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 19 Jun 2025 12:44:17 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 20 Jun 2025 12:43:41 +0000</lastBuildDate>
+		<item>
+			<title>Festival op de Ring deelt per ongeluk e-mailadressen van klagende bezoekers in massamail</title>
+			<link>https://www.telegraaf.nl/binnenland/chaos-compleet-bij-kaartverkoop-festival-op-de-ring-in-amsterdam-pechvogels-getroffen-door-datalek/72492616.html</link>
+			<description>Gemeente Amsterdam | Overheid: Gemeenten | 18-06-2025 | DataLekt.nl: De organisatie van het Festival op de Ring (gemeente Amsterdam, Tribe Company, Kingcanary, BEE‑Agency, Backbone International en Skills Crowd Management) in Amsterdam heeft dinsdag per ongeluk de e-mailadressen van 92 personen gedeeld door hen allemaal zichtbaar te maken in een massale e-mail. Deze mensen hadden eerder geklaagd over problemen bij het verkrijgen van tickets voor het gratis festival op de A10. In plaats van een oplossing ontvingen zij een algemene mail waarin hun adressen onbedoeld voor alle ontvangers zichtbaar waren. De organisatie noemt het een menselijke fout en heeft later excuses aangeboden met het verzoek de e-mail te verwijderen. (Bron: telegraaf.nl)</description>
+			<guid isPermaLink="false">https://www.telegraaf.nl/binnenland/chaos-compleet-bij-kaartverkoop-festival-op-de-ring-in-amsterdam-pechvogels-getroffen-door-datalek/72492616.html?datalekt=0aca9fa2244699e87d2807622d5dbf84dabf6d7495c78edbbee7153d3d7842b5</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval op Center Parcs treft boekingssysteem en 20.000 klanten</title>
 			<link>https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten</link>
@@ -743,14 +751,6 @@
 			<guid isPermaLink="false">https://www.volkshuisvesting.nl/over-ons/nieuws/datalek-bij-aannemer-nijhuis-apeldoorn/?datalekt=6852b793f33c7f185f06e7fd7362712b93fb86b932df15f747d02431cc97f556</guid>
 			<category>Bouwnijverheid </category>
 			<pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Medische gegevens van patiënten op ongewipe harde schijven verkocht op rommelmarkt</title>
-			<link>https://www.omroepbrabant.nl/nieuws/4643495/harde-schijven-vol-medische-data-verkocht-op-rommelmarkt</link>
-			<description>Onbekende zorgorganisaties | Gezondheids- en welzijnszorg | 18-02-2025 | DataLekt.nl: Op een rommelmarkt ontdekte een koper harde schijven vol gevoelige medische gegevens, waaronder BSN-nummers, medicatiehistorie en adresgegevens van patiënten. De data, afkomstig van het opgeheven bedrijf Nortade ICT Solutions, werd niet gewist voordat de schijven werden doorverkocht. Vermoedelijk zijn de schijven via een faillissementsverkoop in omloop gekomen. De koper waarschuwde getroffen zorginstellingen en de Autoriteit Persoonsgegevens. (Bron: omroepbrabant.nl)</description>
-			<guid isPermaLink="false">https://www.omroepbrabant.nl/nieuws/4643495/harde-schijven-vol-medische-data-verkocht-op-rommelmarkt?datalekt=d9357ea5bf5a842cf033d0e01c7ab4a7b4e13b736d8e989e4853a979b2afe636</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>

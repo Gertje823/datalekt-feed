@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.telegraaf.nl/binnenland/chaos-compleet-bij-kaartverkoop-festival-op-de-ring-in-amsterdam-pechvogels-getroffen-door-datalek/72492616.html?datalekt=0aca9fa2244699e87d2807622d5dbf84dabf6d7495c78edbbee7153d3d7842b5",
+        "url": "https://www.telegraaf.nl/binnenland/chaos-compleet-bij-kaartverkoop-festival-op-de-ring-in-amsterdam-pechvogels-getroffen-door-datalek/72492616.html",
+        "title": "Festival op de Ring deelt per ongeluk e-mailadressen van klagende bezoekers in massamail",
+        "date_published": "2025-06-20T12:27:00Z",
+        "date_modified": "2025-06-20T12:27:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "telegraaf.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 18-06-2025 | DataLekt.nl: De organisatie van het Festival op de Ring (gemeente Amsterdam, Tribe Company, Kingcanary, BEE\u2011Agency, Backbone International en Skills Crowd Management) in Amsterdam heeft dinsdag per ongeluk de e-mailadressen van 92 personen gedeeld door hen allemaal zichtbaar te maken in een massale e-mail. Deze mensen hadden eerder geklaagd over problemen bij het verkrijgen van tickets voor het gratis festival op de A10. In plaats van een oplossing ontvingen zij een algemene mail waarin hun adressen onbedoeld voor alle ontvangers zichtbaar waren. De organisatie noemt het een menselijke fout en heeft later excuses aangeboden met het verzoek de e-mail te verwijderen. (Bron: telegraaf.nl)"
+    },
+    {
         "id": "https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten?datalekt=1a9a0c1227c28da6f2de2b3fea6f04622d5d461d9a577ed05b4b81fbc9df01e0",
         "url": "https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten",
         "title": "Cyberaanval op Center Parcs treft boekingssysteem en 20.000 klanten",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Nijhuis Bouw Apeldoorn | Bouwnijverheid | 18-02-2025 | DataLekt.nl: Begin februari 2025 heeft Nijhuis Bouw Apeldoorn een datalek gemeld bij Volkshuisvesting Arnhem. Hierbij zijn mogelijk persoonsgegevens van (ex-)huurders en medewerkers gelekt, waaronder namen, adressen, e-mailadressen en telefoonnummers. Bankgegevens en wachtwoorden zijn niet betrokken. Nijhuis heeft direct maatregelen genomen om de toegang tot de gegevens te stoppen en herhaling te voorkomen. Volkshuisvesting Arnhem heeft het incident gemeld bij de Autoriteit Persoonsgegevens. Betrokkenen lopen geen directe schade, maar worden gewaarschuwd voor phishing. (Bron: volkshuisvesting.nl)"
-    },
-    {
-        "id": "https://www.omroepbrabant.nl/nieuws/4643495/harde-schijven-vol-medische-data-verkocht-op-rommelmarkt?datalekt=d9357ea5bf5a842cf033d0e01c7ab4a7b4e13b736d8e989e4853a979b2afe636",
-        "url": "https://www.omroepbrabant.nl/nieuws/4643495/harde-schijven-vol-medische-data-verkocht-op-rommelmarkt",
-        "title": "Medische gegevens van pati\u00ebnten op ongewipe harde schijven verkocht op rommelmarkt",
-        "date_published": "2025-02-19T15:03:00Z",
-        "date_modified": "2025-02-19T15:03:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepbrabant.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende zorgorganisaties | Gezondheids- en welzijnszorg | 18-02-2025 | DataLekt.nl: Op een rommelmarkt ontdekte een koper harde schijven vol gevoelige medische gegevens, waaronder BSN-nummers, medicatiehistorie en adresgegevens van pati\u00ebnten. De data, afkomstig van het opgeheven bedrijf Nortade ICT Solutions, werd niet gewist voordat de schijven werden doorverkocht. Vermoedelijk zijn de schijven via een faillissementsverkoop in omloop gekomen. De koper waarschuwde getroffen zorginstellingen en de Autoriteit Persoonsgegevens. (Bron: omroepbrabant.nl)"
     }
 ]
