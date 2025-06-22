@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan?datalekt=5b45a73f4551a1271fa4fa3939f670c948fb7e265ae65b20eb76bc68973db9ee",
+        "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan",
+        "title": "Politie bewaart gegevens langer dan wettelijk toegestaan ondanks risico\u2019s voor burgers",
+        "date_published": "2025-06-22T19:38:00Z",
+        "date_modified": "2025-06-22T19:38:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "autoriteitpersoonsgegevens.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 19-06-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft de Tweede Kamer ge\u00efnformeerd dat de politie structureel gegevens bewaart van miljoenen onschuldige burgers, terwijl de wettelijke termijnen daarvoor zijn overschreden. Het betreft onder andere notities over burenruzies of verkeerszaken die volgens de wet na 5 tot 10 jaar vernietigd moeten worden. De minister van Justitie en Veiligheid accepteert deze overtreding sinds 2019 in afwachting van wetswijzigingen die tot op heden uitblijven. De AP benadrukt dat dit ernstige risico\u2019s voor de privacy van betrokkenen met zich meebrengt. (Bron: autoriteitpersoonsgegevens.nl)"
+    },
+    {
         "id": "https://www.telegraaf.nl/binnenland/chaos-compleet-bij-kaartverkoop-festival-op-de-ring-in-amsterdam-pechvogels-getroffen-door-datalek/72492616.html?datalekt=0aca9fa2244699e87d2807622d5dbf84dabf6d7495c78edbbee7153d3d7842b5",
         "url": "https://www.telegraaf.nl/binnenland/chaos-compleet-bij-kaartverkoop-festival-op-de-ring-in-amsterdam-pechvogels-getroffen-door-datalek/72492616.html",
         "title": "Festival op de Ring deelt per ongeluk e-mailadressen van klagende bezoekers in massamail",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Volkshuisvesting Arnhem | Verhuur van en handel in onroerend goed | 18-02-2025 | DataLekt.nl: Begin februari 2025 heeft Volkshuisvesting Arnhem een melding ontvangen van Nijhuis Bouw Apeldoorn over een datalek waarbij mogelijk persoonsgegevens van (ex-)huurders en medewerkers zijn gelekt. De gelekte gegevens betreffen namen, adressen, e-mailadressen en telefoonnummers, maar geen bankgegevens of wachtwoorden. Nijhuis heeft direct maatregelen genomen en een onderzoek ingesteld. Volkshuisvesting Arnhem heeft het incident gemeld bij de Autoriteit Persoonsgegevens en volgt de situatie nauwlettend. Betrokkenen worden geadviseerd alert te zijn op phishingberichten en oplichting. (Bron: volkshuisvesting.nl)"
-    },
-    {
-        "id": "https://www.volkshuisvesting.nl/over-ons/nieuws/datalek-bij-aannemer-nijhuis-apeldoorn/?datalekt=6852b793f33c7f185f06e7fd7362712b93fb86b932df15f747d02431cc97f556",
-        "url": "https://www.volkshuisvesting.nl/over-ons/nieuws/datalek-bij-aannemer-nijhuis-apeldoorn/",
-        "title": "Datalek bij aannemer Nijhuis Apeldoorn raakt persoonsgegevens van (ex-)huurders en medewerkers",
-        "date_published": "2025-02-20T10:24:00Z",
-        "date_modified": "2025-02-20T10:24:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "volkshuisvesting.nl"
-        },
-        "content_html": "",
-        "content_text": "Nijhuis Bouw Apeldoorn | Bouwnijverheid | 18-02-2025 | DataLekt.nl: Begin februari 2025 heeft Nijhuis Bouw Apeldoorn een datalek gemeld bij Volkshuisvesting Arnhem. Hierbij zijn mogelijk persoonsgegevens van (ex-)huurders en medewerkers gelekt, waaronder namen, adressen, e-mailadressen en telefoonnummers. Bankgegevens en wachtwoorden zijn niet betrokken. Nijhuis heeft direct maatregelen genomen om de toegang tot de gegevens te stoppen en herhaling te voorkomen. Volkshuisvesting Arnhem heeft het incident gemeld bij de Autoriteit Persoonsgegevens. Betrokkenen lopen geen directe schade, maar worden gewaarschuwd voor phishing. (Bron: volkshuisvesting.nl)"
     }
 ]
