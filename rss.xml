@@ -7,7 +7,55 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 22 Jun 2025 18:27:52 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 25 Jun 2025 12:46:26 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Delft getroffen door vermoedelijke DDoS-aanval op dienstverlener NotuBiz</title>
+			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
+			<description>Gemeente Delft | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 ondervond de gemeente Delft hinder bij het publiceren van raadsstukken via NotuBiz. De verstoring werd vermoedelijk veroorzaakt door een aanval van de pro-Russische groep NoName, die bekend staat om het uitvoeren van DDoS-aanvallen tegen Westerse overheden. De aanval leidde tot trage of onbereikbare webpagina’s en vond plaats tijdens verhoogde waakzaamheid rondom de NAVO-top in Den Haag. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=d0402ad306a64ee6f9cc7baea7a819b0cb537a790037e6f2cdfe7ce1dfc8689e</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Den Bosch kampt met vertraging op website na vermoedelijke cyberaanval via NotuBiz</title>
+			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
+			<description>Gemeente Den Bosch | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 was de website van de gemeente Den Bosch, met name de pagina’s met raadsstukken, slecht bereikbaar. De verstoring werd veroorzaakt door een vermoedelijke aanval op dienstverlener NotuBiz, uitgevoerd door de pro-Russische hackersgroep NoName. De aanval leidde tot overbelasting van de systemen, wat past binnen een bredere golf van cyberaanvallen rond de NAVO-top in Den Haag. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=509fa4f9c596957a2ee21e1c40ad9cb03f031ecff9486e736a2d6db8ad77bf2e</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Den Haag meldt ontoegankelijke websites door vermoedelijke aanval op leveranciers</title>
+			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
+			<description>Gemeente Den Haag | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 gaf de gemeente Den Haag aan dat meerdere leveranciers hinder ondervonden van een grote hoeveelheid netwerkverkeer, waardoor verschillende gemeentelijke websites tijdelijk slecht bereikbaar waren. De digitale verstoring lijkt verband te houden met een vermoedelijke aanval van de pro-Russische hackersgroep NoName, die bekend staat om DDoS-aanvallen gericht op overheden in NAVO-landen. De aanval vond plaats in aanloop naar de NAVO-top in Den Haag. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=09011e7a9b2aceb2fb14587a06fa704eeb315225ecd26919c227c7b20dd52c67</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Provincie Overijssel getroffen door digitale verstoring na vermoedelijke aanval via NotuBiz</title>
+			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
+			<description>Provincie Overijssel | Overheid: Provincies | 23-06-2025 | DataLekt.nl: De provincie Overijssel kreeg op 23 juni 2025 te maken met problemen bij de toegankelijkheid van Statenstukken via NotuBiz. De storing werd vermoedelijk veroorzaakt door een aanval van de pro-Russische hackersgroep NoName, die grote hoeveelheden netwerkverkeer gebruikte om systemen te overbelasten. De aanval past binnen een breder patroon van cyberaanvallen rondom de NAVO-top in Den Haag. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=7600dbdb05e04ff09fc65c36b2c7de53c1fed3780a89c00ec124b4c72adefc41</guid>
+			<category>Overheid: Provincies </category>
+			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Provincie Zuid-Holland slecht bereikbaar door vermoedelijke DDoS-aanval via NotuBiz door pro-Russische hackers</title>
+			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
+			<description>Provincie Zuid-Holland | Overheid: Provincies | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 ondervond de provincie Zuid-Holland problemen met de bereikbaarheid van pagina’s met Statenstukken. De storing werd vermoedelijk veroorzaakt door een digitale aanval via de dienstverlener NotuBiz, waarbij pro-Russische hackersgroep NoName een grote hoeveelheid netwerkverkeer richting de systemen veroorzaakte. Hierdoor raakten overheidswebsites traag of onbereikbaar. De aanval lijkt onderdeel van een bredere campagne rondom de NAVO-top in Den Haag. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=059234889afda65234c7cc6be7891c387ccabf4487f8070fbae27eff3e6a38f9</guid>
+			<category>Overheid: Provincies </category>
+			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Alphen aan den Rijn meldt datalek na doorsturen vertrouwelijke documenten vanuit e-mailbox oud-bestuurder</title>
+			<link>https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/</link>
+			<description>Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Vanuit de e-mailbox van een oud-bestuurder van de gemeente Alphen aan den Rijn zijn vertrouwelijke documenten doorgestuurd naar privé-e-mailadressen van de betrokkene. Het gaat onder meer om informatie over jeugdzorg, waaronder klachten, vragen en verzoeken van vertrouwelijke aard. De situatie kwam aan het licht na een WOO-verzoek en intern onderzoek. Burgemeester Rehwinkel heeft aangifte gedaan bij de politie en melding gemaakt bij de Autoriteit Persoonsgegevens. Betrokken ouders zijn geïnformeerd en geadviseerd alert te zijn op misbruik van hun gegevens. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/?datalekt=a3b2c689d916a5d43dd413bcf5213f21425baf7420ed97e0293cb9aa1a7ec9c6</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Politie bewaart gegevens langer dan wettelijk toegestaan ondanks risico’s voor burgers</title>
 			<link>https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan</link>
@@ -703,54 +751,6 @@
 			<guid isPermaLink="false">https://www.woonmensen.nl/over-ons/nieuws/nieuwsbericht/kreeg-je-bericht-van-nijhuis-over-een-datalek-wij-leggen-het-uit?datalekt=44b50052304bd268e775aa26eddc61ecdab3791a65acf5420778003d65805e8e</guid>
 			<category>Verhuur van en handel in onroerend goed </category>
 			<pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Nijhuis Bouw treft persoonsgegevens van Vivare-huurders</title>
-			<link>https://www.vivare.nl/nieuws/datalek-bij-nijhuis-bouw</link>
-			<description>Vivare | Verhuur van en handel in onroerend goed | 28-02-2025 | DataLekt.nl: In februari 2025 is het computersysteem van aannemer Nijhuis Bouw B.V., die samenwerkt met woningcorporatie Vivare, aangevallen. Hierdoor zijn mogelijk persoonsgegevens van Vivare-huurders, zoals voor- en achternaam, e-mailadres en telefoonnummer, gelekt. Hoewel niet zeker is of deze gegevens daadwerkelijk zijn gestolen, is het belangrijk alert te blijven op onverwachte communicatie en geen gevoelige informatie te delen. Vivare heeft melding gedaan bij de Autoriteit Persoonsgegevens en Nijhuis heeft maatregelen genomen om herhaling te voorkomen. (Bron: vivare.nl)</description>
-			<guid isPermaLink="false">https://www.vivare.nl/nieuws/datalek-bij-nijhuis-bouw?datalekt=cc445ea7fc1f59c84f92e89c1f2882c3802f2cef19d470a09bb899df9dc8ad59</guid>
-			<category>Verhuur van en handel in onroerend goed </category>
-			<pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ransomware-aanval legt groene hostingprovider Bitless plat na kwetsbaarheid in software</title>
-			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/internetcriminelen-leggen-groen-hostingbedrijf-plat</link>
-			<description>Bitless | Informatie en communicatie | 25-02-2025 | DataLekt.nl: In oktober 2024 werd Bitless, een duurzame hostingprovider, getroffen door een ransomware-aanval nadat twee hackersgroepen misbruik maakten van een onbekende kwetsbaarheid in de software van de hostingomgeving. De aanval werd pas volledig duidelijk na een notificatie van het Digital Trust Center (DTC). Hackers versleutelden bestanden en eisten losgeld, maar eigenaar Nathan Waelkens weigerde te betalen. Ondanks zijn inspanningen kon hij de systemen niet zelfstandig herstellen, waardoor hij met hulp van een andere hostingpartij alle klanten naar een nieuwe server moest verhuizen. De aanval leidde tot ernstige imagoschade en verlies van de helft van zijn klantenbestand. (Bron: digitaltrustcenter.nl)</description>
-			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ondernemersverhalen/internetcriminelen-leggen-groen-hostingbedrijf-plat?datalekt=7c9f02e25873fe9e5dfca552e52e4ab8ce805fc3d9e79567587fcbb7b62c910c</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Technische storing bij leverancier veroorzaakt mogelijk datalek bij gemeente Land van Cuijk</title>
-			<link>https://www.kliknieuwsdemaasdriehoek.nl/nieuws/algemeen/233303/mogelijk-datalek-bij-gemeente-land-van-cuijk</link>
-			<description>Gemeente Land van Cuijk | Overheid: Gemeenten | 21-02-2025 | DataLekt.nl: Door een technische storing bij een leverancier zijn 2.140 aanslagbiljetten van de gemeente Land van Cuijk verkeerd geadresseerd. Op de envelop ontbrak de huisletter of toevoeging, terwijl het adres op het biljet zelf correct was. Hierdoor hebben sommige inwoners hun aanslag niet ontvangen en anderen mogelijk meerdere exemplaren. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en betrokkenen per brief geïnformeerd. Ontvangers van foutieve biljetten worden gevraagd deze gratis terug te sturen. De gemeente biedt excuses aan voor de overlast. (Bron: kliknieuwsdemaasdriehoek.nl)</description>
-			<guid isPermaLink="false">https://www.kliknieuwsdemaasdriehoek.nl/nieuws/algemeen/233303/mogelijk-datalek-bij-gemeente-land-van-cuijk?datalekt=a2abeef82e3a35d4345900f11f6e83925d02a30adc561e4f11c716e4e2d8d7e4</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gegevens van 250 huurders van Stadgenoot online gepubliceerd na datalek</title>
-			<link>https://www.dutchitleaders.nl/news/596653/vermeend-datalek-bij-eigen-haard-blijkt-oud-datalek-bij-stadgenoot-te-zijn</link>
-			<description>Stadgenoot | Verhuur van en handel in onroerend goed | 19-02-2025 | DataLekt.nl: In 2021 werd woningcorporatie Stadgenoot getroffen door een datalek, waarbij gegevens van ongeveer 30.000 huurders werden gestolen. Onlangs zijn gegevens van 250 huurders en oud-huurders online gepubliceerd, aanvankelijk toegeschreven aan Eigen Haard. Na onderzoek bleek deze informatie afkomstig te zijn van het eerdere datalek bij Stadgenoot. De gelekte data omvatten namen, adressen, telefoonnummers en e-mailadressen uit 2016, verkregen via een applicatie van een externe leverancier. Stadgenoot heeft destijds de betrokkenen geïnformeerd en melding gemaakt bij de Autoriteit Persoonsgegevens. Dit incident benadrukt dat gestolen gegevens langdurig online kunnen circuleren. [Update: Op 25 februari 2025 is bekendgemaakt dat het datalek betrekking had op Stadgenoot en niet op Eigen Haard.] (Bron: dutchitleaders.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitleaders.nl/news/596653/vermeend-datalek-bij-eigen-haard-blijkt-oud-datalek-bij-stadgenoot-te-zijn?datalekt=6bd17d3a28210ac3fbd9a2eee88f420c78588af8056f73c01b9c84cd581b8930</guid>
-			<category>Verhuur van en handel in onroerend goed </category>
-			<pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Autoschade Pippel getroffen door ransomware aanval van de criminele organisatie Lynx</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Autoschade Pippel | Groot- en detailhandel | 17-02-2025 | DataLekt.nl: De criminele organisatie Lynx heeft op het darkweb aangekondigd dat zij Autoschade Pippel heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6c9a3126e459bea52f5543c9f90bcfcbec234952841bbe2042ebf98dbb67fda2</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Nijhuis Bouw Apeldoorn treft persoonsgegevens van (ex-)huurders en medewerkers Volkshuisvesting Arnhem</title>
-			<link>https://www.volkshuisvesting.nl/over-ons/nieuws/datalek-bij-aannemer-nijhuis-apeldoorn/</link>
-			<description>Volkshuisvesting Arnhem | Verhuur van en handel in onroerend goed | 18-02-2025 | DataLekt.nl: Begin februari 2025 heeft Volkshuisvesting Arnhem een melding ontvangen van Nijhuis Bouw Apeldoorn over een datalek waarbij mogelijk persoonsgegevens van (ex-)huurders en medewerkers zijn gelekt. De gelekte gegevens betreffen namen, adressen, e-mailadressen en telefoonnummers, maar geen bankgegevens of wachtwoorden. Nijhuis heeft direct maatregelen genomen en een onderzoek ingesteld. Volkshuisvesting Arnhem heeft het incident gemeld bij de Autoriteit Persoonsgegevens en volgt de situatie nauwlettend. Betrokkenen worden geadviseerd alert te zijn op phishingberichten en oplichting. (Bron: volkshuisvesting.nl)</description>
-			<guid isPermaLink="false">https://www.volkshuisvesting.nl/over-ons/nieuws/datalek-bij-aannemer-nijhuis-apeldoorn/?datalekt=28a2849cb5e04d1d33985cb1b16553f0c9f99de2a6368fcdfab7f0c6f7bcab12</guid>
-			<category>Verhuur van en handel in onroerend goed </category>
-			<pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
