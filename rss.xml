@@ -7,7 +7,39 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 25 Jun 2025 12:46:26 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 26 Jun 2025 12:45:01 +0000</lastBuildDate>
+		<item>
+			<title>Elf Zeeuwse gemeenten tijdelijk onbereikbaar door vermoedelijke ddos-aanval op NotuBiz</title>
+			<link>https://www.omroepzeeland.nl/nieuws/17569728/websites-gemeenten-doen-het-weer-na-vermoedelijke-aanval-van-russische-hackers</link>
+			<description>11 onbekende Zeeuwse gemeenten | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Elf van de dertien Zeeuwse gemeenten waren op maandag tijdelijk niet in staat om vergaderstukken via het systeem van NotuBiz toegankelijk te maken. De leverancier kampte met een grote hoeveelheid netwerkverkeer, mogelijk als gevolg van een ddos-aanval. De pro-Russische hackersgroep NoName05716 wordt genoemd als mogelijke dader; zij claimden eerder die dag via Telegram de aanval. Bezoekers ondervonden lange laadtijden en wachtrijen. Rond het einde van de middag waren de systemen weer bereikbaar. De aanval hangt mogelijk samen met verhoogde cyberdreiging rond de NAVO-top in Den Haag. (Bron: omroepzeeland.nl)</description>
+			<guid isPermaLink="false">https://www.omroepzeeland.nl/nieuws/17569728/websites-gemeenten-doen-het-weer-na-vermoedelijke-aanval-van-russische-hackers?datalekt=7f9daedb6206ca4cfc0f6bdbe5b5d03ab5046260e36aa16fe5d7883610a6e09a</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Purmerend getroffen door vermoedelijke ddos-aanval op raadsinformatiesysteem NotuBiz</title>
+			<link>https://regiopurmerend.nl/2025/06/23/cyberaanval-legt-raadsinformatiesysteem-plat-ook-purmerend-getroffen/</link>
+			<description>Gemeente Purmerend | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Het raadsinformatiesysteem van de gemeente Purmerend was maandag tijdelijk onbereikbaar door een landelijke digitale verstoring bij leverancier NotuBiz. Door een grote hoeveelheid netwerkverkeer, vermoedelijk afkomstig van een cyberaanval, konden gebruikers geen toegang krijgen tot gemeenteraadsstukken. De Russische hackersgroep NoName057(16) claimde via Telegram de aanval. Hoewel NotuBiz nog geen definitieve bevestiging gaf dat het om een ddos-aanval ging, wijst alles daarop. De firewall blokkeerde het verdachte verkeer, maar legitieme gebruikers kwamen hierdoor in de wachtrij terecht. Rond 16:00 uur werd de dienst hersteld. (Bron: regiopurmerend.nl)</description>
+			<guid isPermaLink="false">https://regiopurmerend.nl/2025/06/23/cyberaanval-legt-raadsinformatiesysteem-plat-ook-purmerend-getroffen/?datalekt=c6d2af5b5189f7bc5961214d7c876e82465b15d690611b3cb696e38fea159aa7</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Waddinxveen ondervindt hinder van ddos-aanval op raadsinformatiesysteem NotuBiz</title>
+			<link>https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/</link>
+			<description>Gemeente Waddinxveen | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Door een ddos-aanval op het digitale raadsinformatiesysteem NotuBiz is de gemeente Waddinxveen niet in staat om raadsstukken online beschikbaar te stellen. De aanval werd opgeëist door de Russische hackersgroep NoName05716. Hoewel de inhoud van de documenten niet verloren is gegaan, zorgt de overbelasting van het systeem voor lange wachttijden. Dit vormt een risico tijdens raadsvergaderingen, omdat het systeem dan volledig afhankelijk is van digitale toegang. De aanval vindt plaats in een periode van verhoogde cyberdreiging in verband met de NAVO-top in Den Haag. (Bron: gouweijsselnieuws.nl)</description>
+			<guid isPermaLink="false">https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/?datalekt=a7a2b9362e8bc3b693d28516748b399acdae875f7036b19de1fc4d620474985d</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Zuidplas getroffen door ddos-aanval op NotuBiz-systeem</title>
+			<link>https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/</link>
+			<description>Gemeente Zuidplas | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: De gemeente Zuidplas is getroffen door een ddos-aanval gericht op NotuBiz, het digitale systeem voor raadsinformatie. Door de aanval, opgeëist door de Russische hackersgroep NoName05716, zijn raadsstukken momenteel niet toegankelijk. Het systeem kampt met een grote wachtrij, maar er zijn geen documenten verloren gegaan. De aanval valt samen met verhoogde dreiging rond de NAVO-top in Den Haag. Indien zo’n aanval plaatsvindt tijdens een raadsvergadering, kan dit ernstige verstoringen veroorzaken aangezien het systeem volledig digitaal functioneert. (Bron: gouweijsselnieuws.nl)</description>
+			<guid isPermaLink="false">https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/?datalekt=10d0265ac621acc1eb16674107806412d2309511f138a33b1b4919d81eaf32d7</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Delft getroffen door vermoedelijke DDoS-aanval op dienstverlener NotuBiz</title>
 			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
@@ -719,38 +751,6 @@
 			<guid isPermaLink="false">https://www.consumentenbond.nl/acties-claims/nieuws/2025/onderzoek-cookies-nog-steeds-teveel-opgedrongen?datalekt=740ab34f38920b5cb9b7f5e1bd4d094a1a44bd5905bed02a1726ab6b17a87ce4</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rechter: AP hoeft niet op te treden tegen bedrijf na onterechte e-mail aan ex-werknemer</title>
-			<link>https://www.security.nl/posting/878560/AP+hoeft+niet+op+te+treden+tegen+bedrijf+dat+ex-werknemer+e-mail+stuurde</link>
-			<description>Onbekende organisatie | Overige dienstverlening | 04-03-2025 | DataLekt.nl: Een bedrijf heeft per abuis een e-mail gestuurd naar een ex-werknemer zonder geldige grondslag, wat een overtreding van de AVG inhoudt. De Autoriteit Persoonsgegevens (AP) besloot niet handhavend op te treden vanwege de geringe ernst van de overtreding en het ontbreken van nadelige gevolgen voor de ex-werknemer. De ex-werknemer tekende beroep aan tegen dit besluit, maar de rechtbank Rotterdam oordeelde dat de AP terecht heeft gehandeld en dat verdere maatregelen niet noodzakelijk zijn. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/878560/AP+hoeft+niet+op+te+treden+tegen+bedrijf+dat+ex-werknemer+e-mail+stuurde?datalekt=aa594a58d6204329b0b83550a295eed9a1380404c57c03c9dece3f028e345a04</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval op Skal in 2022 legt biologische certificering zes weken stil</title>
-			<link>https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval</link>
-			<description>Skal Biocontrole | Overheid: Zelfstandige bestuursorganen | 03-03-2025 | DataLekt.nl: In 2022 werd Skal, de Nederlandse toezichthouder op de biologische keten, getroffen door een cyberaanval op een managed service provider. Hierdoor lagen de primaire processen van registreren, certificeren en toezicht houden zes weken vrijwel volledig stil, wat leidde tot het niet behalen van inspectiedoelen en €92.000 aan extra kosten. De aanval veroorzaakte ernstige verstoringen in de inspecties van biologische bedrijven. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval?datalekt=dfa745a92b88ad24e016a1e28e6cbd57caabcccb3660ae815c628ec32a3556d8</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DigiD tijdelijk onbereikbaar door DDoS-aanval</title>
-			<link>https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval</link>
-			<description>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 03-03-2025 | DataLekt.nl: Op maandag 3 maart 2025 werd DigiD getroffen door een DDoS-aanval, waardoor gebruikers urenlang niet konden inloggen bij overheidsdiensten zoals de Belastingdienst en gemeenten. Bij een DDoS-aanval wordt een server overspoeld met veel dataverkeer, wat leidt tot overbelasting en onbereikbaarheid. De aanval veroorzaakte hinder voor burgers die publieke diensten wilden gebruiken. Het is nog onbekend wie verantwoordelijk is voor de aanval; beheerder Logius onderzoekt de zaak. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval?datalekt=15426383dac0527889f357214e094ef47f74fb1e3e6cf485c3439225149aa3d2</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Nijhuis treft De Woonmensen en huurders</title>
-			<link>https://www.woonmensen.nl/over-ons/nieuws/nieuwsbericht/kreeg-je-bericht-van-nijhuis-over-een-datalek-wij-leggen-het-uit</link>
-			<description>Woonmensen | Verhuur van en handel in onroerend goed | 28-02-2025 | DataLekt.nl: Aannemer Nijhuis Bouw, partner van woningcorporatie De Woonmensen, heeft een datalek ontdekt waarbij persoonsgegevens van (ex-)huurders en medewerkers mogelijk zijn gelekt. Het betreft gegevens zoals naam, adres, e-mailadres en telefoonnummer; bankgegevens en wachtwoorden zijn niet betrokken. Hoewel er geen directe schade is voor de betrokkenen, wordt geadviseerd alert te zijn op phishingpogingen en verdachte communicatie. Nijhuis heeft na ontdekking direct maatregelen genomen om verdere toegang tot de gegevens te voorkomen en herhaling te voorkomen. De Autoriteit Persoonsgegevens is op de hoogte gebracht van het incident. (Bron: woonmensen.nl)</description>
-			<guid isPermaLink="false">https://www.woonmensen.nl/over-ons/nieuws/nieuwsbericht/kreeg-je-bericht-van-nijhuis-over-een-datalek-wij-leggen-het-uit?datalekt=44b50052304bd268e775aa26eddc61ecdab3791a65acf5420778003d65805e8e</guid>
-			<category>Verhuur van en handel in onroerend goed </category>
-			<pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>

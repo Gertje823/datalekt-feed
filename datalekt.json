@@ -1,5 +1,57 @@
 [
     {
+        "id": "https://www.omroepzeeland.nl/nieuws/17569728/websites-gemeenten-doen-het-weer-na-vermoedelijke-aanval-van-russische-hackers?datalekt=7f9daedb6206ca4cfc0f6bdbe5b5d03ab5046260e36aa16fe5d7883610a6e09a",
+        "url": "https://www.omroepzeeland.nl/nieuws/17569728/websites-gemeenten-doen-het-weer-na-vermoedelijke-aanval-van-russische-hackers",
+        "title": "Elf Zeeuwse gemeenten tijdelijk onbereikbaar door vermoedelijke ddos-aanval op NotuBiz",
+        "date_published": "2025-06-26T10:03:00Z",
+        "date_modified": "2025-06-26T10:03:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepzeeland.nl"
+        },
+        "content_html": "",
+        "content_text": "11 onbekende Zeeuwse gemeenten | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Elf van de dertien Zeeuwse gemeenten waren op maandag tijdelijk niet in staat om vergaderstukken via het systeem van NotuBiz toegankelijk te maken. De leverancier kampte met een grote hoeveelheid netwerkverkeer, mogelijk als gevolg van een ddos-aanval. De pro-Russische hackersgroep NoName05716 wordt genoemd als mogelijke dader; zij claimden eerder die dag via Telegram de aanval. Bezoekers ondervonden lange laadtijden en wachtrijen. Rond het einde van de middag waren de systemen weer bereikbaar. De aanval hangt mogelijk samen met verhoogde cyberdreiging rond de NAVO-top in Den Haag. (Bron: omroepzeeland.nl)"
+    },
+    {
+        "id": "https://regiopurmerend.nl/2025/06/23/cyberaanval-legt-raadsinformatiesysteem-plat-ook-purmerend-getroffen/?datalekt=c6d2af5b5189f7bc5961214d7c876e82465b15d690611b3cb696e38fea159aa7",
+        "url": "https://regiopurmerend.nl/2025/06/23/cyberaanval-legt-raadsinformatiesysteem-plat-ook-purmerend-getroffen/",
+        "title": "Gemeente Purmerend getroffen door vermoedelijke ddos-aanval op raadsinformatiesysteem NotuBiz",
+        "date_published": "2025-06-26T10:02:00Z",
+        "date_modified": "2025-06-26T10:02:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "regiopurmerend.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Purmerend | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Het raadsinformatiesysteem van de gemeente Purmerend was maandag tijdelijk onbereikbaar door een landelijke digitale verstoring bij leverancier NotuBiz. Door een grote hoeveelheid netwerkverkeer, vermoedelijk afkomstig van een cyberaanval, konden gebruikers geen toegang krijgen tot gemeenteraadsstukken. De Russische hackersgroep NoName057(16) claimde via Telegram de aanval. Hoewel NotuBiz nog geen definitieve bevestiging gaf dat het om een ddos-aanval ging, wijst alles daarop. De firewall blokkeerde het verdachte verkeer, maar legitieme gebruikers kwamen hierdoor in de wachtrij terecht. Rond 16:00 uur werd de dienst hersteld. (Bron: regiopurmerend.nl)"
+    },
+    {
+        "id": "https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/?datalekt=a7a2b9362e8bc3b693d28516748b399acdae875f7036b19de1fc4d620474985d",
+        "url": "https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/",
+        "title": "Gemeente Waddinxveen ondervindt hinder van ddos-aanval op raadsinformatiesysteem NotuBiz",
+        "date_published": "2025-06-26T10:01:00Z",
+        "date_modified": "2025-06-26T10:01:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "gouweijsselnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Waddinxveen | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Door een ddos-aanval op het digitale raadsinformatiesysteem NotuBiz is de gemeente Waddinxveen niet in staat om raadsstukken online beschikbaar te stellen. De aanval werd opge\u00ebist door de Russische hackersgroep NoName05716. Hoewel de inhoud van de documenten niet verloren is gegaan, zorgt de overbelasting van het systeem voor lange wachttijden. Dit vormt een risico tijdens raadsvergaderingen, omdat het systeem dan volledig afhankelijk is van digitale toegang. De aanval vindt plaats in een periode van verhoogde cyberdreiging in verband met de NAVO-top in Den Haag. (Bron: gouweijsselnieuws.nl)"
+    },
+    {
+        "id": "https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/?datalekt=10d0265ac621acc1eb16674107806412d2309511f138a33b1b4919d81eaf32d7",
+        "url": "https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/",
+        "title": "Gemeente Zuidplas getroffen door ddos-aanval op NotuBiz-systeem",
+        "date_published": "2025-06-26T10:00:00Z",
+        "date_modified": "2025-06-26T10:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "gouweijsselnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Zuidplas | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: De gemeente Zuidplas is getroffen door een ddos-aanval gericht op NotuBiz, het digitale systeem voor raadsinformatie. Door de aanval, opge\u00ebist door de Russische hackersgroep NoName05716, zijn raadsstukken momenteel niet toegankelijk. Het systeem kampt met een grote wachtrij, maar er zijn geen documenten verloren gegaan. De aanval valt samen met verhoogde dreiging rond de NAVO-top in Den Haag. Indien zo\u2019n aanval plaatsvindt tijdens een raadsvergadering, kan dit ernstige verstoringen veroorzaken aangezien het systeem volledig digitaal functioneert. (Bron: gouweijsselnieuws.nl)"
+    },
+    {
         "id": "https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=d0402ad306a64ee6f9cc7baea7a819b0cb537a790037e6f2cdfe7ce1dfc8689e",
         "url": "https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/",
         "title": "Gemeente Delft getroffen door vermoedelijke DDoS-aanval op dienstverlener NotuBiz",
@@ -1246,57 +1298,5 @@
         },
         "content_html": "",
         "content_text": "DPG Media | Informatie en communicatie | 06-03-2025 | DataLekt.nl: Uit een onderzoek van de Consumentenbond blijkt dat DPG Media, eigenaar van websites zoals nu.nl, volkskrant.nl en ad.nl, de privacywet overtreedt door het gebruik van misleidende cookiebanners. Bij deze banners is de optie om cookies te weigeren minder zichtbaar en moeilijker toegankelijk dan de acceptatieknop, wat in strijd is met de Algemene Verordening Gegevensbescherming (AVG). Deze praktijken schenden de privacy van gebruikers en zijn in strijd met de Europese privacywetgeving. (Bron: consumentenbond.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/878560/AP+hoeft+niet+op+te+treden+tegen+bedrijf+dat+ex-werknemer+e-mail+stuurde?datalekt=aa594a58d6204329b0b83550a295eed9a1380404c57c03c9dece3f028e345a04",
-        "url": "https://www.security.nl/posting/878560/AP+hoeft+niet+op+te+treden+tegen+bedrijf+dat+ex-werknemer+e-mail+stuurde",
-        "title": "Rechter: AP hoeft niet op te treden tegen bedrijf na onterechte e-mail aan ex-werknemer",
-        "date_published": "2025-03-08T14:15:00Z",
-        "date_modified": "2025-03-08T14:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende organisatie | Overige dienstverlening | 04-03-2025 | DataLekt.nl: Een bedrijf heeft per abuis een e-mail gestuurd naar een ex-werknemer zonder geldige grondslag, wat een overtreding van de AVG inhoudt. De Autoriteit Persoonsgegevens (AP) besloot niet handhavend op te treden vanwege de geringe ernst van de overtreding en het ontbreken van nadelige gevolgen voor de ex-werknemer. De ex-werknemer tekende beroep aan tegen dit besluit, maar de rechtbank Rotterdam oordeelde dat de AP terecht heeft gehandeld en dat verdere maatregelen niet noodzakelijk zijn. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval?datalekt=dfa745a92b88ad24e016a1e28e6cbd57caabcccb3660ae815c628ec32a3556d8",
-        "url": "https://www.security.nl/posting/878403/Biologische+toezichthouder+Skal+lag+in+2022+zes+weken+plat+door+cyberaanval",
-        "title": "Cyberaanval op Skal in 2022 legt biologische certificering zes weken stil",
-        "date_published": "2025-03-05T10:53:00Z",
-        "date_modified": "2025-03-05T10:53:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Skal Biocontrole | Overheid: Zelfstandige bestuursorganen | 03-03-2025 | DataLekt.nl: In 2022 werd Skal, de Nederlandse toezichthouder op de biologische keten, getroffen door een cyberaanval op een managed service provider. Hierdoor lagen de primaire processen van registreren, certificeren en toezicht houden zes weken vrijwel volledig stil, wat leidde tot het niet behalen van inspectiedoelen en \u20ac92.000 aan extra kosten. De aanval veroorzaakte ernstige verstoringen in de inspecties van biologische bedrijven. (Bron: security.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval?datalekt=15426383dac0527889f357214e094ef47f74fb1e3e6cf485c3439225149aa3d2",
-        "url": "https://nos.nl/artikel/2558020-inloggen-bij-digid-urenlang-niet-mogelijk-door-ddos-aanval",
-        "title": "DigiD tijdelijk onbereikbaar door DDoS-aanval",
-        "date_published": "2025-03-03T13:04:00Z",
-        "date_modified": "2025-03-03T13:04:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 03-03-2025 | DataLekt.nl: Op maandag 3 maart 2025 werd DigiD getroffen door een DDoS-aanval, waardoor gebruikers urenlang niet konden inloggen bij overheidsdiensten zoals de Belastingdienst en gemeenten. Bij een DDoS-aanval wordt een server overspoeld met veel dataverkeer, wat leidt tot overbelasting en onbereikbaarheid. De aanval veroorzaakte hinder voor burgers die publieke diensten wilden gebruiken. Het is nog onbekend wie verantwoordelijk is voor de aanval; beheerder Logius onderzoekt de zaak. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://www.woonmensen.nl/over-ons/nieuws/nieuwsbericht/kreeg-je-bericht-van-nijhuis-over-een-datalek-wij-leggen-het-uit?datalekt=44b50052304bd268e775aa26eddc61ecdab3791a65acf5420778003d65805e8e",
-        "url": "https://www.woonmensen.nl/over-ons/nieuws/nieuwsbericht/kreeg-je-bericht-van-nijhuis-over-een-datalek-wij-leggen-het-uit",
-        "title": "Datalek bij Nijhuis treft De Woonmensen en huurders",
-        "date_published": "2025-03-02T10:49:00Z",
-        "date_modified": "2025-03-02T10:49:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "woonmensen.nl"
-        },
-        "content_html": "",
-        "content_text": "Woonmensen | Verhuur van en handel in onroerend goed | 28-02-2025 | DataLekt.nl: Aannemer Nijhuis Bouw, partner van woningcorporatie De Woonmensen, heeft een datalek ontdekt waarbij persoonsgegevens van (ex-)huurders en medewerkers mogelijk zijn gelekt. Het betreft gegevens zoals naam, adres, e-mailadres en telefoonnummer; bankgegevens en wachtwoorden zijn niet betrokken. Hoewel er geen directe schade is voor de betrokkenen, wordt geadviseerd alert te zijn op phishingpogingen en verdachte communicatie. Nijhuis heeft na ontdekking direct maatregelen genomen om verdere toegang tot de gegevens te voorkomen en herhaling te voorkomen. De Autoriteit Persoonsgegevens is op de hoogte gebracht van het incident. (Bron: woonmensen.nl)"
     }
 ]
