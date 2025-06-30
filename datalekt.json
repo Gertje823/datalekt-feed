@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/?datalekt=f6ca61c8bf2cdaf494d2dd7dfcc87be37898c44d537fd5b7f4a729e6ba044ead",
+        "url": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/",
+        "title": "Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen",
+        "date_published": "2025-04-17T09:02:00Z",
+        "date_modified": "2025-06-30T10:09:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. [Update: Op 22 april 2025 is ook bekend geworden dat salarisgegevens en namen van medewerkers zijn gelekt.] [Update: Op 27 juni 2025 werd gemeld dat bij de ransomware-aanval, die rond 5 november 2024 plaatsvond, persoonlijke gegevens van meer dan 2,2 miljoen mensen zijn buitgemaakt.] (Bron: ad.nl)"
+    },
+    {
         "id": "https://www.omroepzeeland.nl/nieuws/17569728/websites-gemeenten-doen-het-weer-na-vermoedelijke-aanval-van-russische-hackers?datalekt=7f9daedb6206ca4cfc0f6bdbe5b5d03ab5046260e36aa16fe5d7883610a6e09a",
         "url": "https://www.omroepzeeland.nl/nieuws/17569728/websites-gemeenten-doen-het-weer-na-vermoedelijke-aanval-van-russische-hackers",
         "title": "Elf Zeeuwse gemeenten tijdelijk onbereikbaar door vermoedelijke ddos-aanval op NotuBiz",
@@ -687,19 +700,6 @@
         },
         "content_html": "",
         "content_text": "Kwekerij de Groot | Landbouw, bosbouw en visserij | 24-04-2025 | DataLekt.nl: Kwekerij de Groot, een Brabantse plantenkwekerij in Prinsenbeek, werd getroffen door een ransomware-aanval waarbij centrale configuratiebestanden van het geautomatiseerde teeltsysteem werden versleuteld. Door het faillissement van de oorspronkelijke softwareleverancier was herstel lastig en risicovol. De back-ups bleken ook besmet, waardoor \u00e9\u00e9n systeemfout de hele bedrijfsvoering had kunnen stilleggen. Dankzij recente cloudmigraties kon een deel van de bedrijfsfuncties worden hervat. Er is aangifte gedaan en inmiddels zijn extra maatregelen genomen. (Bron: digitaltrustcenter.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/?datalekt=33ecf99e0c12522491f947ae36a2744e5f5087c003a639809a74e0fb6cf08329",
-        "url": "https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/",
-        "title": "Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen",
-        "date_published": "2025-04-17T09:02:00Z",
-        "date_modified": "2025-04-24T11:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. [Update: Op 22 april 2025 is ook bekend geworden dat salarisgegevens en namen van medewerkers zijn gelekt.] (Bron: ad.nl)"
     },
     {
         "id": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html?datalekt=a0f6977bf4f62eb401a186e3b37001090e06a30db326174202e075099e02bf6a",
