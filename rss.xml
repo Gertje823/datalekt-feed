@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 30 Jun 2025 12:45:11 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 05 Jul 2025 12:40:06 +0000</lastBuildDate>
+		<item>
+			<title>Autoriteit Persoonsgegevens rapporteert verdubbeling datadiefstal via ransomware in 2024</title>
+			<link>https://autoriteitpersoonsgegevens.nl/actueel/ap-datadiefstal-door-cybercriminelen-verdubbeld</link>
+			<description>Onbekende organisaties | Overige dienstverlening | 04-07-2025 | DataLekt.nl: In haar jaarlijkse rapportage over datalekken meldt de Autoriteit Persoonsgegevens (AP) dat het aantal gevallen van datadiefstal door cybercriminelen in 2024 bijna is verdubbeld ten opzichte van 2023. Veel van deze incidenten gebeurden via ransomware-aanvallen, waarbij systemen worden versleuteld en data wordt gestolen. In 2024 waren er minstens 112 succesvolle aanvallen met gemiddeld meer dan 100.000 euro schade per getroffen organisatie. Een communicatiebedrijf meldde dat circa 1,5 miljoen mensen indirect slachtoffer werden. De AP roept organisaties op hun beveiliging te verbeteren en dataveiligheid centraal te stellen in hun organisatiecultuur. (Bron: autoriteitpersoonsgegevens.nl)</description>
+			<guid isPermaLink="false">https://autoriteitpersoonsgegevens.nl/actueel/ap-datadiefstal-door-cybercriminelen-verdubbeld?datalekt=2eb7f2596ac084899ee72bac4137d880d631a82d91f8138a54c3e62b9fca290b</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Elf Zeeuwse gemeenten tijdelijk onbereikbaar door vermoedelijke ddos-aanval op NotuBiz</title>
 			<link>https://www.omroepzeeland.nl/nieuws/17569728/websites-gemeenten-doen-het-weer-na-vermoedelijke-aanval-van-russische-hackers</link>
@@ -741,14 +749,6 @@
 			<link>https://www.consumentenbond.nl/acties-claims/nieuws/2025/onderzoek-cookies-nog-steeds-teveel-opgedrongen</link>
 			<description>Mediahuis Nederland | Informatie en communicatie | 06-03-2025 | DataLekt.nl: Volgens een onderzoek van de Consumentenbond maakt Mediahuis, eigenaar van nrc.nl, telegraaf.nl en dumpert.nl, gebruik van onjuiste cookiebanners die het weigeren van cookies bemoeilijken. Deze banners maken de optie om cookies te weigeren minder zichtbaar of verbergen deze achter extra klikken, wat in strijd is met de Algemene Verordening Gegevensbescherming (AVG). Deze werkwijze schaadt de privacy van gebruikers en overtreedt de Europese privacywetgeving. (Bron: consumentenbond.nl)</description>
 			<guid isPermaLink="false">https://www.consumentenbond.nl/acties-claims/nieuws/2025/onderzoek-cookies-nog-steeds-teveel-opgedrongen?datalekt=e9efcfa5316800ec6a5a17e6b3a29a48948727bfd042d43f61b1b1b932a0a269</guid>
-			<category>Informatie en communicatie </category>
-			<pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DPG Media overtreedt privacywet met misleidende cookiebanners</title>
-			<link>https://www.consumentenbond.nl/acties-claims/nieuws/2025/onderzoek-cookies-nog-steeds-teveel-opgedrongen</link>
-			<description>DPG Media | Informatie en communicatie | 06-03-2025 | DataLekt.nl: Uit een onderzoek van de Consumentenbond blijkt dat DPG Media, eigenaar van websites zoals nu.nl, volkskrant.nl en ad.nl, de privacywet overtreedt door het gebruik van misleidende cookiebanners. Bij deze banners is de optie om cookies te weigeren minder zichtbaar en moeilijker toegankelijk dan de acceptatieknop, wat in strijd is met de Algemene Verordening Gegevensbescherming (AVG). Deze praktijken schenden de privacy van gebruikers en zijn in strijd met de Europese privacywetgeving. (Bron: consumentenbond.nl)</description>
-			<guid isPermaLink="false">https://www.consumentenbond.nl/acties-claims/nieuws/2025/onderzoek-cookies-nog-steeds-teveel-opgedrongen?datalekt=740ab34f38920b5cb9b7f5e1bd4d094a1a44bd5905bed02a1726ab6b17a87ce4</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
 		</item>
