@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer?datalekt=5db00398aeb314215635740972f5d549704a3e99546f9d0a159b21ab0b94e149",
+        "url": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer",
+        "title": "Stichting Oud Lemmer beboet voor onrechtmatig livestreamen van camerabeelden openbare ruimte",
+        "date_published": "2025-07-09T16:52:00Z",
+        "date_modified": "2025-07-09T16:52:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "autoriteitpersoonsgegevens.nl"
+        },
+        "content_html": "",
+        "content_text": "Stichting Oud Lemmer | Cultuur, sport en recreatie | 09-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Stichting Oud Lemmer een boete van \u20ac500 opgelegd wegens het verwerken van persoonsgegevens zonder wettelijke grondslag. De stichting plaatste twee camera\u2019s gericht op de openbare ruimte in Lemmer, waarvan de beelden 24/7 live werden gestreamd via een website. Hierbij kwamen personen en woningen herkenbaar in beeld. De AP oordeelde dat de stichting ten onrechte een beroep deed op het gerechtvaardigd belang en dat de privacybelangen van betrokkenen zwaarder wegen. De stichting kreeg daarnaast een last onder dwangsom opgelegd van maximaal \u20ac2.000 om de beelden aan te passen of de camera\u2019s te verwijderen. (Bron: autoriteitpersoonsgegevens.nl)"
+    },
+    {
+        "id": "https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/?datalekt=6664c46fc5e33d74f2708c7a88b594a09d6e09973e61caaf99200b89eee1fafa",
+        "url": "https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/",
+        "title": "Gemeente Alphen aan den Rijn meldt datalek na doorsturen vertrouwelijke documenten vanuit e-mailbox oud-bestuurder",
+        "date_published": "2025-06-25T13:55:00Z",
+        "date_modified": "2025-07-09T16:50:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Vanuit de e-mailbox van een oud-bestuurder van de gemeente Alphen aan den Rijn zijn vertrouwelijke documenten doorgestuurd naar priv\u00e9-e-mailadressen van de betrokkene. Het gaat onder meer om informatie over jeugdzorg, waaronder klachten, vragen en verzoeken van vertrouwelijke aard. De situatie kwam aan het licht na een WOO-verzoek en intern onderzoek. Burgemeester Rehwinkel heeft aangifte gedaan bij de politie en melding gemaakt bij de Autoriteit Persoonsgegevens. Betrokken ouders zijn ge\u00efnformeerd en geadviseerd alert te zijn op misbruik van hun gegevens. [Update: Op 9 juli 2025 is bekend geworden dat de gemeente aangifte bij de politie heeft gedaan.] (Bron: ad.nl)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/236922/distributeur-ingram-micro-is-getroffen-door-ransomware.html?datalekt=04a6ce690cec1bb0a63fba7dc8eef3f2a46e469475ab4107625aaa0a82534d3e",
+        "url": "https://tweakers.net/nieuws/236922/distributeur-ingram-micro-is-getroffen-door-ransomware.html",
+        "title": "Ransomware-aanval treft distributeur Ingram Micro via vermoedelijke kwetsbaarheid in vpn-software",
+        "date_published": "2025-07-09T16:47:00Z",
+        "date_modified": "2025-07-09T16:47:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Ingram Micro Netherlands | Groot- en detailhandel | 07-07-2025 | DataLekt.nl: Ingram Micro, een van de grootste digitale distributeurs wereldwijd, is getroffen door een ransomware-aanval waarbij interne systemen zijn aangetast. Het bedrijf bevestigt de aanval maar onthult geen details over de impact of het ge\u00ebiste losgeld. De ransomwaregroep SafePay wordt genoemd als mogelijke dader, en volgens bronnen zou de aanval zijn uitgevoerd via een kwetsbaarheid in de GlobalProtect-vpn. Door de aanval werken klantplatforms als Xvantage en Impulse mogelijk niet goed. Het is onduidelijk of gegevens zijn buitgemaakt of hoeveel systemen zijn versleuteld. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://autoriteitpersoonsgegevens.nl/actueel/ap-datadiefstal-door-cybercriminelen-verdubbeld?datalekt=2eb7f2596ac084899ee72bac4137d880d631a82d91f8138a54c3e62b9fca290b",
         "url": "https://autoriteitpersoonsgegevens.nl/actueel/ap-datadiefstal-door-cybercriminelen-verdubbeld",
         "title": "Autoriteit Persoonsgegevens rapporteert verdubbeling datadiefstal via ransomware in 2024",
@@ -141,19 +180,6 @@
         },
         "content_html": "",
         "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 ondervond de provincie Zuid-Holland problemen met de bereikbaarheid van pagina\u2019s met Statenstukken. De storing werd vermoedelijk veroorzaakt door een digitale aanval via de dienstverlener NotuBiz, waarbij pro-Russische hackersgroep NoName een grote hoeveelheid netwerkverkeer richting de systemen veroorzaakte. Hierdoor raakten overheidswebsites traag of onbereikbaar. De aanval lijkt onderdeel van een bredere campagne rondom de NAVO-top in Den Haag. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/?datalekt=a3b2c689d916a5d43dd413bcf5213f21425baf7420ed97e0293cb9aa1a7ec9c6",
-        "url": "https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/",
-        "title": "Gemeente Alphen aan den Rijn meldt datalek na doorsturen vertrouwelijke documenten vanuit e-mailbox oud-bestuurder",
-        "date_published": "2025-06-25T13:55:00Z",
-        "date_modified": "2025-06-25T13:55:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Vanuit de e-mailbox van een oud-bestuurder van de gemeente Alphen aan den Rijn zijn vertrouwelijke documenten doorgestuurd naar priv\u00e9-e-mailadressen van de betrokkene. Het gaat onder meer om informatie over jeugdzorg, waaronder klachten, vragen en verzoeken van vertrouwelijke aard. De situatie kwam aan het licht na een WOO-verzoek en intern onderzoek. Burgemeester Rehwinkel heeft aangifte gedaan bij de politie en melding gemaakt bij de Autoriteit Persoonsgegevens. Betrokken ouders zijn ge\u00efnformeerd en geadviseerd alert te zijn op misbruik van hun gegevens. (Bron: ad.nl)"
     },
     {
         "id": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan?datalekt=5b45a73f4551a1271fa4fa3939f670c948fb7e265ae65b20eb76bc68973db9ee",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 07-03-2025 | DataLekt.nl: De Belastingdienst heeft twintig jaar lang het Risico Analyse Model (RAM) gebruikt, een systeem dat gegevens uit diverse bronnen verzamelde en analyseerde om mogelijke fraude op te sporen. Volgens een onderzoek van KPMG voldeed RAM niet aan de toen geldende privacywetgeving, beveiligingsvoorschriften en archiveringsregels. Het systeem werd in mei 2018 uitgeschakeld, vlak voor de invoering van de Algemene Verordening Gegevensbescherming (AVG). Staatssecretaris Van Oostenbruggen betreurt het gebruik van RAM en heeft aangekondigd te onderzoeken of grondrechten zijn geschonden door het gebruik van nationaliteit in de selectiecriteria. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.security.nl/posting/878993/Rabobank+moet+slachtoffers+%E2%80%98bank-aan-huis-fraude%E2%80%99+100_000+euro+vergoeden?datalekt=5393bbb6a84f12a75c3cefe52204dd41c58ed524dae0ace37a5329fe36527013",
-        "url": "https://www.security.nl/posting/878993/Rabobank+moet+slachtoffers+%E2%80%98bank-aan-huis-fraude%E2%80%99+100_000+euro+vergoeden",
-        "title": "Rabobank moet echtpaar 100.000 euro vergoeden na bank-aan-huisfraude",
-        "date_published": "2025-03-08T14:19:00Z",
-        "date_modified": "2025-03-08T14:19:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Rabobank | Financi\u00eble instellingen | 07-03-2025 | DataLekt.nl: Begin 2023 ontving een echtpaar een sms over verdachte activiteiten op hun rekening en werd gevraagd contact op te nemen via een opgegeven telefoonnummer. Bij het bellen kregen ze een oplichter aan de lijn die zich voordeed als Rabobank-medewerker en hen overtuigde hun bankpassen en pincodes af te geven aan een handlanger die bij hen thuis langskwam. Hierdoor konden de oplichters in korte tijd 150.000 euro van hun rekening halen. De Commissie van Beroep van het Kifid oordeelde dat Rabobank 100.000 euro van deze schade moet vergoeden, mede vanwege tekortkomingen in het fraudedetectiesysteem van de bank. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.consumentenbond.nl/acties-claims/nieuws/2025/onderzoek-cookies-nog-steeds-teveel-opgedrongen?datalekt=e9efcfa5316800ec6a5a17e6b3a29a48948727bfd042d43f61b1b1b932a0a269",
-        "url": "https://www.consumentenbond.nl/acties-claims/nieuws/2025/onderzoek-cookies-nog-steeds-teveel-opgedrongen",
-        "title": "Mediahuis schendt privacywet met onjuiste cookiebanners",
-        "date_published": "2025-03-08T14:18:00Z",
-        "date_modified": "2025-03-08T14:18:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "consumentenbond.nl"
-        },
-        "content_html": "",
-        "content_text": "Mediahuis Nederland | Informatie en communicatie | 06-03-2025 | DataLekt.nl: Volgens een onderzoek van de Consumentenbond maakt Mediahuis, eigenaar van nrc.nl, telegraaf.nl en dumpert.nl, gebruik van onjuiste cookiebanners die het weigeren van cookies bemoeilijken. Deze banners maken de optie om cookies te weigeren minder zichtbaar of verbergen deze achter extra klikken, wat in strijd is met de Algemene Verordening Gegevensbescherming (AVG). Deze werkwijze schaadt de privacy van gebruikers en overtreedt de Europese privacywetgeving. (Bron: consumentenbond.nl)"
     }
 ]
