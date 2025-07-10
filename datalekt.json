@@ -1,5 +1,57 @@
 [
     {
+        "id": "https://beveiligingnieuws.nl/rol-bij-schenden-ambtsgeheim-politieagent-bestraft/?datalekt=b0cf3ecabba8514a4d8d284d5deb38740e73cd67ca4a2c75c37245806d0c1887",
+        "url": "https://beveiligingnieuws.nl/rol-bij-schenden-ambtsgeheim-politieagent-bestraft/",
+        "title": "Politie Amsterdam getroffen door datalek via misbruik accounts door collega-agent",
+        "date_published": "2025-07-10T14:37:00Z",
+        "date_modified": "2025-07-10T14:37:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "beveiligingnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie en brandweer | 09-07-2025 | DataLekt.nl: Een voormalig politieagent van de eenheid Amsterdam is veroordeeld tot 18 maanden gevangenisstraf wegens het schenden van het ambtsgeheim, computervredebreuk, omkoping en misbruik van collega-accounts. Tussen september 2022 en april 2024 gaf hij op verzoek van zijn broer vertrouwelijke informatie uit politiesystemen door aan criminelen, tegen betaling. De agent gebruikte zonder toestemming de inloggegevens van collega\u2019s om informatie over kentekens en personen op te vragen. De zaak kwam aan het licht nadat politieonderzoek verdere misdrijven wist te voorkomen. (Bron: beveiligingnieuws.nl)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html?datalekt=43cc890e6206e0ea917eef327366f5dff359172d880273e4d77fce886d65abcf",
+        "url": "https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html",
+        "title": "Pluryn meldt datalek na verlies onbeveiligde USB-stick met gevoelige gegevens",
+        "date_published": "2025-06-18T14:21:00Z",
+        "date_modified": "2025-07-10T14:36:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Pluryn | Gezondheids- en welzijnszorg | 17-06-2025 | DataLekt.nl: Zorgorganisatie Pluryn heeft een datalek gemeld na het verlies van een onbeveiligde USB-stick in de week van 9 juni 2025. Op de stick stonden persoonsgegevens van cli\u00ebnten en medewerkers, waaronder namen, adressen en burgerservicenummers. Mogelijk betroffen de gegevens ook voormalige cli\u00ebnten en werknemers. De organisatie heeft melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt het incident met hulp van een externe partij, die nagaat of de gegevens bijvoorbeeld online circuleren. Getroffenen worden vanaf 17 juni ge\u00efnformeerd. Pluryn neemt aanvullende maatregelen om medewerkers te instrueren over gegevensveiligheid en wil het informatiebeleid aanscherpen. [Update: Op 9 juli 2025 is bekend geworden dat de verloren USB-stick van Pluryn persoonsgegevens bevat van vrijwel alle cli\u00ebnten en medewerkers uit de afgelopen 25 jaar, waaronder gevoelige informatie zoals bsn\u2019s, betaalgegevens en medische zorggegevens.] (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://www.security.nl/posting/895367/FG%3A+gemeente+Almere+beschermt+persoonsgegevens+burgers+onvoldoende?datalekt=0babb284610e57e47f4b5e17b057738cd8714bfff53be389a88c9807c564f15f",
+        "url": "https://www.security.nl/posting/895367/FG%3A+gemeente+Almere+beschermt+persoonsgegevens+burgers+onvoldoende",
+        "title": "Gemeente Almere schiet in 2024 tekort in bescherming persoonsgegevens en naleving privacywetgeving",
+        "date_published": "2025-07-10T14:36:00Z",
+        "date_modified": "2025-07-10T14:36:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Almere | Informatie en communicatie | 08-07-2025 | DataLekt.nl: De Functionaris Gegevensbescherming van de gemeente Almere stelt in de Privacy Jaarrapportage 2024 dat de gemeente persoonsgegevens van burgers onvoldoende beschermt. Er is gebrekkige registratie van datalekken, preventieve maatregelen ontbreken of worden niet opgevolgd en meldingen van datalekken gebeuren vaak te laat. Bovendien zijn verplichte DPIA\u2019s voor risicovolle verwerkingen niet uitgevoerd, ondanks eerder gestelde doelen. De gemeente erkent de tekortkomingen en geeft aan dat er vooruitgang is geboekt, maar dat het gewenste volwassenheidsniveau rond privacybescherming nog niet is bereikt. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/895389/Haarlem+meldt+grote+toename+van+datalekmeldingen+na+komst+%27meldknop%27?datalekt=40be957ad1e5c531b68bf048e58b99a31a673192a9906eba18ee0557561d57df",
+        "url": "https://www.security.nl/posting/895389/Haarlem+meldt+grote+toename+van+datalekmeldingen+na+komst+%27meldknop%27",
+        "title": "Gemeente Haarlem ziet stijging in datalekmeldingen na invoering intranetknop in 2024",
+        "date_published": "2025-07-10T14:35:00Z",
+        "date_modified": "2025-07-10T14:35:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Haarlem | Overheid: Gemeenten | 08-07-2025 | DataLekt.nl: De gemeente Haarlem heeft in 2024 een forse toename in datalekmeldingen geregistreerd, met name na de introductie van een &#039;meldknop&#039; op het intranet in oktober. Deze knop vereenvoudigde het meldproces, wat leidde tot een piek in interne meldingen, gevolgd door een afname. In totaal rapporteerde het gemeentepersoneel 61 incidenten, waarvan 17 aan de Autoriteit Persoonsgegevens werden gemeld. De meeste gevallen betroffen verloren mobiele apparaten, die na melding op afstand werden gewist. Andere incidenten gingen over verkeerd verzonden e-mails en bijlagen. De FG benadrukt het belang van voortdurende bewustwording rond meldplicht. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer?datalekt=5db00398aeb314215635740972f5d549704a3e99546f9d0a159b21ab0b94e149",
         "url": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer",
         "title": "Stichting Oud Lemmer beboet voor onrechtmatig livestreamen van camerabeelden openbare ruimte",
@@ -219,19 +271,6 @@
         },
         "content_html": "",
         "content_text": "Center Parcs | Cultuur, sport en recreatie | 16-06-2025 | DataLekt.nl: Op 4 juni 2025 is Center Parcs getroffen door een cyberaanval op een systeem dat werd gebruikt voor telefonische boekingen. Bij deze aanval zijn persoonsgegevens van circa 20.000 klanten in Europa buitgemaakt, waaronder namen, e-mailadressen en boekingsgegevens zoals reserveringsnummers, locaties en verblijfsduur. Gevoelige informatie zoals financi\u00eble data, wachtwoorden, telefoonnummers of adressen zijn volgens het bedrijf niet gelekt. De aanval werd op 6 juni gestopt en het incident is gemeld aan de Franse privacytoezichthouder CNIL. Klanten zijn inmiddels ge\u00efnformeerd en Center Parcs overweegt een klacht in te dienen bij de politie. (Bron: dutchitchannel.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html?datalekt=af977e5fc328cc66396e249b35ff9eceb3b4b114d66d291c575db2756b9443fc",
-        "url": "https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html",
-        "title": "Pluryn meldt datalek na verlies onbeveiligde USB-stick met gevoelige gegevens",
-        "date_published": "2025-06-18T14:21:00Z",
-        "date_modified": "2025-06-18T14:21:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Pluryn | Gezondheids- en welzijnszorg | 17-06-2025 | DataLekt.nl: Zorgorganisatie Pluryn heeft een datalek gemeld na het verlies van een onbeveiligde USB-stick in de week van 9 juni 2025. Op de stick stonden persoonsgegevens van cli\u00ebnten en medewerkers, waaronder namen, adressen en burgerservicenummers. Mogelijk betroffen de gegevens ook voormalige cli\u00ebnten en werknemers. De organisatie heeft melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt het incident met hulp van een externe partij, die nagaat of de gegevens bijvoorbeeld online circuleren. Getroffenen worden vanaf 17 juni ge\u00efnformeerd. Pluryn neemt aanvullende maatregelen om medewerkers te instrueren over gegevensveiligheid en wil het informatiebeleid aanscherpen. (Bron: tweakers.net)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f62befc8833915a5111a8cc53ebae6044721ec4a39f95885000e3e274a24d572",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "De Huismeesters | Verhuur van en handel in onroerend goed | 18-03-2025 | DataLekt.nl: In februari 2025 is onderhoudspartner Nijhuis Bouw getroffen door een cyberaanval waarbij mogelijk persoonsgegevens van huurders van De Huismeesters in Groningen zijn gelekt. Het gaat om namen, e-mailadressen en telefoonnummers. Hoewel niet zeker is dat de gegevens zijn gestolen, worden huurders uit voorzorg per brief ge\u00efnformeerd en gewaarschuwd voor misbruik. De Huismeesters heeft de Autoriteit Persoonsgegevens op de hoogte gebracht en extra beveiligingsmaatregelen zijn genomen. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=0735530a75c4f6f2dc97cf45444c4be1609f843aab6c4013a1fd312ed9d5185f",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "GraphicWorld getroffen door ransomware aanval van de criminele organisatie Akira",
-        "date_published": "2025-03-18T13:33:00Z",
-        "date_modified": "2025-03-18T13:33:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "GraphicWorld Print &amp;amp; Packaging | Groot- en detailhandel | 11-03-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij GraphicWorld heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/879866/DigiD+was+door+ddos-aanval+korte+tijd+%27beperkt+beschikbaar%27?datalekt=b3adb6bbba9e6da3647f2edab951e56e8c08d88426627298ca3a1b5cb8dce825",
-        "url": "https://www.security.nl/posting/879866/DigiD+was+door+ddos-aanval+korte+tijd+%27beperkt+beschikbaar%27",
-        "title": "DigiD en gerelateerde diensten kortstondig beperkt beschikbaar door ddos-aanval\u200b",
-        "date_published": "2025-03-14T10:02:00Z",
-        "date_modified": "2025-03-14T10:02:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 13-03-2025 | DataLekt.nl: Op donderdag 13 maart 2025 waren DigiD en aanverwante diensten zoals DigiD Machtigen, BSNk, Digipoort en MijnOverheid tijdelijk beperkt beschikbaar door een ddos-aanval. De storing begon rond 15.00 uur en was binnen veertig minuten verholpen. Tijdens deze periode konden gebruikers mogelijk niet inloggen met hun DigiD. Op Allestoringen.nl werden meer dan drieduizend meldingen van problemen met de overheidsinlogdienst geregistreerd. Eerder deze maand en in januari ondervond DigiD ook al hinder van soortgelijke aanvallen. (Bron: security.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html?datalekt=44be56c338fb63b3c91ad22e7f322cb623f93b3be1b89803bee35dcbac54f144",
-        "url": "https://tweakers.net/nieuws/232636/belastingdienst-schond-privacywet-met-risico-analyse-model-database.html",
-        "title": "Belastingdienst overtrad privacywet met gebruik van Risico Analyse Model",
-        "date_published": "2025-03-08T14:20:00Z",
-        "date_modified": "2025-03-08T14:20:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 07-03-2025 | DataLekt.nl: De Belastingdienst heeft twintig jaar lang het Risico Analyse Model (RAM) gebruikt, een systeem dat gegevens uit diverse bronnen verzamelde en analyseerde om mogelijke fraude op te sporen. Volgens een onderzoek van KPMG voldeed RAM niet aan de toen geldende privacywetgeving, beveiligingsvoorschriften en archiveringsregels. Het systeem werd in mei 2018 uitgeschakeld, vlak voor de invoering van de Algemene Verordening Gegevensbescherming (AVG). Staatssecretaris Van Oostenbruggen betreurt het gebruik van RAM en heeft aangekondigd te onderzoeken of grondrechten zijn geschonden door het gebruik van nationaliteit in de selectiecriteria. (Bron: tweakers.net)"
     }
 ]
