@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 10 Jul 2025 12:46:55 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 14 Jul 2025 12:47:38 +0000</lastBuildDate>
+		<item>
+			<title>Belastingdienst moet twee interne systemen uitschakelen wegens ernstige privacyschendingen</title>
+			<link>https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html</link>
+			<description>Belastingdienst | Overheid: Organisatieonderdeel | 10-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens verplicht de Belastingdienst om de systemen Informatiesjabloon en Klantbeeld Toezicht Applicatie vóór 15 oktober 2025 uit te faseren. Deze systemen maken het mogelijk voor alle 18.000 medewerkers om toegang te krijgen tot gevoelige persoonsgegevens, waaronder indirect iemands seksuele geaardheid. De gegevens verlaten bovendien het beveiligde netwerk van de dienst, waardoor controle ontbreekt. De maatregel volgt op een onderzoek naar privacyschendingen binnen zes datasystemen van de fiscus, gestart na eerdere onthullingen over het RAM-model. Eerdere schendingen leidden al tot miljoenenboetes. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html?datalekt=06f99ec198f9fa6b143fea8a018c82e7275a8da9fefb740c1e85f26dee741ed6</guid>
+			<category>Overheid: Organisatieonderdeel </category>
+			<pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Zorginstellingen en onderwijsinstellingen getroffen door grootschalige fraude met valse EVC-certificaten</title>
+			<link>https://beveiligingnieuws.nl/grootschalige-fraude-met-zorgcertificaten-beeindigd/</link>
+			<description>Onbekende zorgorganisaties | Gezondheids- en welzijnszorg | 10-07-2025 | DataLekt.nl: De politie heeft drie verdachten aangehouden in een grootschalige fraudezaak waarbij tussen de 800 en 1200 vervalste EVC-certificaten zijn verhandeld. Deze certificaten, die normaal praktische ervaring in de zorg aantonen, werden via malafide bureaus zonder vakkennis verkocht en ingewisseld voor erkende diploma’s bij onderwijsinstellingen. Hierdoor konden personen met een crimineel verleden werken in de zorgsector. De Inspectie Gezondheidszorg en Jeugd waarschuwde eerder al voor risico’s voor cliëntveiligheid. Het aantal dubieuze EVC-bureaus is fors gestegen en ook meer dan vijftig jeugdzorgmedewerkers zijn al uit het kwaliteitsregister geschrapt. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/grootschalige-fraude-met-zorgcertificaten-beeindigd/?datalekt=89b12cfcf3b7daf0252c59a75a8390fe460da420059ae4a09eff910dd9a08b97</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Montferland slachtoffer van hack op Facebook</title>
+			<link>https://www.gld.nl/nieuws/8336825/facebookpaginas-gemeente-montferland-gehackt</link>
+			<description>Gemeente Montferland | Overheid: Gemeenten | 10-07-2025 | DataLekt.nl: De gemeente Montferland ontdekte op 10 juli 2025 dat hackers zich toegang hadden verschaft tot twee lokale Facebookpagina’s (&amp;#039;s‑Heerenberg‑Oost en Lengel), waarbij onder meer de profielfoto werd gewijzigd naar een Britse podotherapeut uit Birmingham en een video over schoenen werd geplaatst. Volgens medewerkers gebeurde het volgens hen binnen enkele seconden. De gemeente meldt de hack bij Facebook en onderzoekt de herkomst, maar weet nog niet wie erachter zit en heeft geen aanwijzingen voor verdere schade. (Bron: gld.nl)</description>
+			<guid isPermaLink="false">https://www.gld.nl/nieuws/8336825/facebookpaginas-gemeente-montferland-gehackt?datalekt=2f5226b4874aee84d765b21e6fbba0d0e899b760e0ed74c01ff8f78566c64f25</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Politie Amsterdam getroffen door datalek via misbruik accounts door collega-agent</title>
 			<link>https://beveiligingnieuws.nl/rol-bij-schenden-ambtsgeheim-politieagent-bestraft/</link>
@@ -721,44 +745,20 @@
 			<pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>DigiD opnieuw onbereikbaar door DDoS-aanval, overheidsdiensten zoals MijnOverheid getroffen</title>
-			<link>https://tweakers.net/nieuws/233152/digid-was-zondagochtend-niet-bruikbaar-door-ddos-aanval.html</link>
-			<description>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 23-03-2025 | DataLekt.nl: Op 23 maart 2025 was DigiD zondagochtend onbruikbaar door een DDoS-aanval. De storing begon rond 08.20 uur en werd om 10.05 uur opgelost. Hierdoor waren ook overheidsdiensten zoals MijnOverheid slecht bereikbaar en functioneerde de DigiD-app niet. Gebruikers kregen time-outs en konden geen verificatiecode opvragen. Het is onbekend wie achter de herhaalde aanvallen zit. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/233152/digid-was-zondagochtend-niet-bruikbaar-door-ddos-aanval.html?datalekt=d560308bc6003aa2eede55f8c305563ca46cd5230b8fe11beab97d28236255f0</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DDoS-aanval legt DigiD opnieuw plat en verhindert inloggen bij Belastingdienst en andere overheidsdiensten</title>
-			<link>https://nos.nl/artikel/2560424-digid-opnieuw-tijdelijk-onbereikbaar-geweest-door-ddos-aanval</link>
-			<description>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) | Overheid: Ministeries | 20-03-2025 | DataLekt.nl: Op 20 maart 2025 werd DigiD opnieuw getroffen door een DDoS-aanval waardoor burgers tijdelijk niet konden inloggen bij onder meer de Belastingdienst, DUO, UWV en ziekenhuizen. De aanval begon rond 10.15 uur en was drie kwartier later verholpen. Het is onbekend wie achter de aanval zit. Eerder deze maand veroorzaakten soortgelijke aanvallen al urenlange storingen bij DigiD. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2560424-digid-opnieuw-tijdelijk-onbereikbaar-geweest-door-ddos-aanval?datalekt=804847f071ea6fa405ea2876629d1305aa23887d885f4d4d2b0f7f3d41539693</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Haagse agent krijgt taakstraf na onrechtmatig opzoeken van privé-informatie in politiesystemen</title>
-			<link>https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie/</link>
-			<description>Nationale Politie | Overheid: Politie en brandweer | 20-03-2025 | DataLekt.nl: Een 36-jarige politieagent uit Den Haag heeft een taakstraf van dertig uur gekregen voor computervredebreuk na vier keer zonder geldige reden privé-informatie op te zoeken in politiesystemen. De agent gebruikte de systemen voor persoonlijke belangen, wat volgens het Openbaar Ministerie een ernstig misdrijf is vanwege het risico op privacyschending en lekken van politie-informatie. De agent heeft de straf geaccepteerd. (Bron: beveiligingnieuws.nl)</description>
-			<guid isPermaLink="false">https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie/?datalekt=0743b75ca0550c2b976d1c2dc1729a5b4c7f6087f42abf72b72fd326f8ec14ce</guid>
-			<category>Overheid: Politie en brandweer </category>
-			<pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>De Huismeesters waarschuwt huurders na mogelijke datalek door cyberaanval bij onderhoudspartner Nijhuis Bouw</title>
-			<link>https://www.ad.nl/groningen/computersysteem-nijhuis-bouw-aangevallen-mogelijke-datalek-van-huurders-de-huismeesters-groningen~a1c8a183/</link>
-			<description>De Huismeesters | Verhuur van en handel in onroerend goed | 18-03-2025 | DataLekt.nl: In februari 2025 is onderhoudspartner Nijhuis Bouw getroffen door een cyberaanval waarbij mogelijk persoonsgegevens van huurders van De Huismeesters in Groningen zijn gelekt. Het gaat om namen, e-mailadressen en telefoonnummers. Hoewel niet zeker is dat de gegevens zijn gestolen, worden huurders uit voorzorg per brief geïnformeerd en gewaarschuwd voor misbruik. De Huismeesters heeft de Autoriteit Persoonsgegevens op de hoogte gebracht en extra beveiligingsmaatregelen zijn genomen. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/groningen/computersysteem-nijhuis-bouw-aangevallen-mogelijke-datalek-van-huurders-de-huismeesters-groningen~a1c8a183/?datalekt=eb310f1e4a29f33a576949fd7ecce5598a713593e47edb20d957f788bdb57a35</guid>
-			<category>Verhuur van en handel in onroerend goed </category>
-			<pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
 			<link>https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html</link>
 			<description>Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld geëist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari 2025 is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] [Update: Op 9 mei 2025 meldde TU/e dat het ontbreken van mfa op de vpn mogelijk toegang gaf tot het netwerk. Er is inmiddels een nieuwe vpn met mfa en betere monitoring ingevoerd.] (Bron: tweakers.net / computable.nl)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=85f42aef304a1beee060b61b7526dd6aaa818773d2a03fa5e90d998e3a431b7e</guid>
 			<category>Onderwijs </category>
 			<pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>ASML slachtoffer van bedrijfsspionage door Russische oud-medewerker</title>
+			<link>https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/</link>
+			<description>ASML | Industrie | 09-12-2024 | DataLekt.nl: ASML is opnieuw getroffen door bedrijfsspionage. Een voormalige Russische medewerker zou vertrouwelijke handleidingen van ASML en dochterbedrijf Mapper hebben gestolen en verkocht aan Russische partijen, wat hem tienduizenden euro’s opleverde. Dit incident volgt na een eerdere zaak in 2023 waarbij een Chinese medewerker broncodes stal. ASML heeft aangifte gedaan en de verdachte verschijnt voor de rechter. De financiële schade voor ASML en het aantal getroffen partijen is onbekend. [Update: Op 10 juli 2025 heeft de rechtbank de voormalige medewerker veroordeeld tot drie jaar cel wegens computervredebreuk en het delen van chiptechnologie met Rusland, waarmee hij Europese sancties heeft geschonden.] (Bron: computable.nl)</description>
+			<guid isPermaLink="false">https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/?datalekt=2a8aaa5f16284e3427060cd7f48fd34ed1ff7115e165b8b8b1dc8b210596da9e</guid>
+			<category>Industrie </category>
+			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Gegevens van ruim 63.000 politiemedewerkers gestolen bij grote hack</title>
