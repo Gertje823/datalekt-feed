@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 14 Jul 2025 12:47:38 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 18 Jul 2025 12:49:13 +0000</lastBuildDate>
+		<item>
+			<title>Huurcommissie lekt persoonsgegevens door fout in openbaar register</title>
+			<link>https://www.huurcommissie.nl/actueel/nieuws/2025/07/16/datalek-openbaar-register-huurcommissie</link>
+			<description>Huurcommissie | Overheid: Zelfstandige bestuursorganen | 16-07-2025 | DataLekt.nl: De Huurcommissie heeft tijdens onderhoud aan haar Openbaar register vastgesteld dat in circa 350 uitspraken per abuis namen van huurders of verhuurders zichtbaar waren. Deze persoonsgegevens horen niet thuis in het register en vormen daarmee een datalek. Daarnaast onderzoekt de Huurcommissie nog een tweede groep uitspraken waarin indirect herleidbare informatie kan staan. De direct betrokkenen zijn persoonlijk geïnformeerd, en er zijn geen aanwijzingen dat de gegevens zijn misbruikt. Wel waarschuwt de Huurcommissie voor mogelijke phishing. Na melding bij de Autoriteit Persoonsgegevens zijn interne processen aangescherpt om herhaling te voorkomen. (Bron: huurcommissie.nl)</description>
+			<guid isPermaLink="false">https://www.huurcommissie.nl/actueel/nieuws/2025/07/16/datalek-openbaar-register-huurcommissie?datalekt=c205a48c659e69685c1ae05584f03f77c202bedbf3ac867ab36a37c9baf35270</guid>
+			<category>Overheid: Zelfstandige bestuursorganen </category>
+			<pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Belastingdienst moet twee interne systemen uitschakelen wegens ernstige privacyschendingen</title>
 			<link>https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html</link>
@@ -735,14 +743,6 @@
 			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html?datalekt=a0f6977bf4f62eb401a186e3b37001090e06a30db326174202e075099e02bf6a</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Nederlandse onderzoeksinstelling lekt gegevens van 35.000 onderzoekers via kwetsbare database op hackerforum</title>
-			<link>https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling</link>
-			<description>Onbekende onderzoeksinstelling | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 25-03-2025 | DataLekt.nl: Op 25 maart 2025 werd bekend dat een Nederlandse onderzoeksinstelling persoonsgegevens van ruim 35.000 onderzoekers heeft gelekt. Telefoonnummers, e-mailadressen en zwak versleutelde wachtwoorden doken op in een .sql-database op besloten hackerforums in het Deep Web. De verouderde SHA1-versleuteling maakt de gegevens kwetsbaar voor misbruik, zoals phishing of accountovername. Het Centrum voor Cybersecurity, Veiligheid en Technologie (CCVT) ontdekte het lek en adviseerde direct maatregelen om verdere schade te beperken. (Bron: dutchitleaders.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling?datalekt=dbe9247bcc136377f0a7decc8d90dc1a6e2282de1032d98c8a69149066498e1c</guid>
-			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
-			<pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>

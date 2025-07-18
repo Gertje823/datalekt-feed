@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.huurcommissie.nl/actueel/nieuws/2025/07/16/datalek-openbaar-register-huurcommissie?datalekt=c205a48c659e69685c1ae05584f03f77c202bedbf3ac867ab36a37c9baf35270",
+        "url": "https://www.huurcommissie.nl/actueel/nieuws/2025/07/16/datalek-openbaar-register-huurcommissie",
+        "title": "Huurcommissie lekt persoonsgegevens door fout in openbaar register",
+        "date_published": "2025-07-18T13:38:00Z",
+        "date_modified": "2025-07-18T13:38:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "huurcommissie.nl"
+        },
+        "content_html": "",
+        "content_text": "Huurcommissie | Overheid: Zelfstandige bestuursorganen | 16-07-2025 | DataLekt.nl: De Huurcommissie heeft tijdens onderhoud aan haar Openbaar register vastgesteld dat in circa 350 uitspraken per abuis namen van huurders of verhuurders zichtbaar waren. Deze persoonsgegevens horen niet thuis in het register en vormen daarmee een datalek. Daarnaast onderzoekt de Huurcommissie nog een tweede groep uitspraken waarin indirect herleidbare informatie kan staan. De direct betrokkenen zijn persoonlijk ge\u00efnformeerd, en er zijn geen aanwijzingen dat de gegevens zijn misbruikt. Wel waarschuwt de Huurcommissie voor mogelijke phishing. Na melding bij de Autoriteit Persoonsgegevens zijn interne processen aangescherpt om herhaling te voorkomen. (Bron: huurcommissie.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html?datalekt=06f99ec198f9fa6b143fea8a018c82e7275a8da9fefb740c1e85f26dee741ed6",
         "url": "https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html",
         "title": "Belastingdienst moet twee interne systemen uitschakelen wegens ernstige privacyschendingen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Koninklijke Lemkes | Groot- en detailhandel | 25-03-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Koninklijke Lemkes heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling?datalekt=dbe9247bcc136377f0a7decc8d90dc1a6e2282de1032d98c8a69149066498e1c",
-        "url": "https://www.dutchitleaders.nl/news/602657/persoonsgegevens-van-ruim-35-000-onderzoekers-gelekt-via-nederlandse-onderzoeksinstelling",
-        "title": "Nederlandse onderzoeksinstelling lekt gegevens van 35.000 onderzoekers via kwetsbare database op hackerforum",
-        "date_published": "2025-03-26T10:20:00Z",
-        "date_modified": "2025-03-26T10:20:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitleaders.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende onderzoeksinstelling | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 25-03-2025 | DataLekt.nl: Op 25 maart 2025 werd bekend dat een Nederlandse onderzoeksinstelling persoonsgegevens van ruim 35.000 onderzoekers heeft gelekt. Telefoonnummers, e-mailadressen en zwak versleutelde wachtwoorden doken op in een .sql-database op besloten hackerforums in het Deep Web. De verouderde SHA1-versleuteling maakt de gegevens kwetsbaar voor misbruik, zoals phishing of accountovername. Het Centrum voor Cybersecurity, Veiligheid en Technologie (CCVT) ontdekte het lek en adviseerde direct maatregelen om verdere schade te beperken. (Bron: dutchitleaders.nl)"
     }
 ]
