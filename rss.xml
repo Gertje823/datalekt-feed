@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 18 Jul 2025 12:49:13 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 22 Jul 2025 12:49:15 +0000</lastBuildDate>
+		<item>
+			<title>Openbaar Ministerie koppelt digitale werkomgeving los door kritiek lek in citrix-software</title>
+			<link>https://tweakers.net/nieuws/237276/om-gaat-offline-door-beveiligingsprobleem-datalek-niet-uitgesloten.html</link>
+			<description>Openbaar Ministerie | Overheid: Organisatieonderdeel | 18-07-2025 | DataLekt.nl: Het Nederlandse Openbaar Ministerie (OM) heeft op vrijdag 18 juli 2025 uit voorzorg zijn digitale werkomgeving van het internet losgekoppeld vanwege een ernstig beveiligingsprobleem in Citrix NetScaler-software. De kwetsbaarheid, bekend als CVE-2025-5777 met een CVSS-score van 9,3, stelt aanvallers in staat om via een fout in de authenticatieprocedure gevoelige gegevens zoals inlogtokens te bemachtigen. Het lek wordt actief misbruikt en er zijn signalen dat ook het OM doelwit is geweest. Werken op afstand is sindsdien niet meer mogelijk, en een datalek wordt niet uitgesloten. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/237276/om-gaat-offline-door-beveiligingsprobleem-datalek-niet-uitgesloten.html?datalekt=b30765512af3a75d386aa577e9bd2b2ffa4d36cdc208e49cece6483c51062c64</guid>
+			<category>Overheid: Organisatieonderdeel </category>
+			<pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Huurcommissie lekt persoonsgegevens door fout in openbaar register</title>
 			<link>https://www.huurcommissie.nl/actueel/nieuws/2025/07/16/datalek-openbaar-register-huurcommissie</link>
@@ -721,22 +729,6 @@
 			<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Stuwarooij getroffen door ransomware aanval van de criminele organisatie Frag</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Stuwarooij | Bouwnijverheid | 25-03-2025 | DataLekt.nl: De criminele organisatie Frag heeft op het darkweb aangekondigd dat zij Stuwarooij heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=80c8044136c669c300a38338c1cb7f674fbf345a108c8513e8442aa71dfc46bb</guid>
-			<category>Bouwnijverheid </category>
-			<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Koninklijke Lemkes getroffen door ransomware aanval van de criminele organisatie CL0P</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Koninklijke Lemkes | Groot- en detailhandel | 25-03-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Koninklijke Lemkes heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4ac78db0513eb26587e708814fa2edd6e4496387367079e49f4460aede546bb2</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Datalek bij Zaffier: retourenveloppen met financiële gegevens van 93 inwoners mogelijk onveilig verwerkt</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html</link>
 			<description>Zaffier | Overige dienstverlening | 01-04-2025 | DataLekt.nl: Op 1 april 2025 werd bekend dat Zaffier in de regio Alkmaar een datalek heeft veroorzaakt waarbij gevoelige financiële informatie van 93 inwoners mogelijk op straat is beland. De betrokkenen moesten persoonlijke gegevens opsturen voor een heronderzoek naar hun uitkering, maar ontvingen daarvoor onjuist geadresseerde retourenveloppen. Hierdoor bestond het risico dat gegevens bij verkeerde ontvangers terechtkwamen. [Update: Op 20 april 2025 is bekend geworden dat er geen privégegevens van inwoners regio Alkmaar in verkeerde handen zijn terechtgekomen.] (Bron: noordhollandsdagblad.nl)</description>
@@ -775,6 +767,14 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/224396/ap-geeft-kruidvat-boete-voor-zonder-toestemming-plaatsen-van-trackingcookies.html?datalekt=bb1fc08f2e0a608b34b00b84f3769bca861338d393bd7d77e7861277ad7890c7</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek</title>
+			<link>https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht</link>
+			<description>Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&amp;#039;s en paspoortkopieën toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en noodmaatregelen voor beveiliging toegepast. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. [Update: Op 12 juli 2024 is bekend geworden dat het om 50 miljoen documenten gaat en dat het nog 1,5 jaar duurt voordat het lek definitief opgelost is.] [Update: Op 18 juli 2025 is bekend geworden dat het lek zo goed als gedicht is.] (Bron: binnenlandsbestuur.nl)</description>
+			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=42497ca6e1a7a9874e249c60d836e66f809656246fa1ced0011915da3da0316f</guid>
+			<category>Overheid: Provincies </category>
+			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Onderzoek naar Ministerie van Sociale Zaken wegens privacyschendingen moslimgemeenschap</title>

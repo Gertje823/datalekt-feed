@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/237276/om-gaat-offline-door-beveiligingsprobleem-datalek-niet-uitgesloten.html?datalekt=b30765512af3a75d386aa577e9bd2b2ffa4d36cdc208e49cece6483c51062c64",
+        "url": "https://tweakers.net/nieuws/237276/om-gaat-offline-door-beveiligingsprobleem-datalek-niet-uitgesloten.html",
+        "title": "Openbaar Ministerie koppelt digitale werkomgeving los door kritiek lek in citrix-software",
+        "date_published": "2025-07-22T10:34:00Z",
+        "date_modified": "2025-07-22T10:34:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Openbaar Ministerie | Overheid: Organisatieonderdeel | 18-07-2025 | DataLekt.nl: Het Nederlandse Openbaar Ministerie (OM) heeft op vrijdag 18 juli 2025 uit voorzorg zijn digitale werkomgeving van het internet losgekoppeld vanwege een ernstig beveiligingsprobleem in Citrix NetScaler-software. De kwetsbaarheid, bekend als CVE-2025-5777 met een CVSS-score van 9,3, stelt aanvallers in staat om via een fout in de authenticatieprocedure gevoelige gegevens zoals inlogtokens te bemachtigen. Het lek wordt actief misbruikt en er zijn signalen dat ook het OM doelwit is geweest. Werken op afstand is sindsdien niet meer mogelijk, en een datalek wordt niet uitgesloten. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=42497ca6e1a7a9874e249c60d836e66f809656246fa1ced0011915da3da0316f",
+        "url": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht",
+        "title": "Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek",
+        "date_published": "2024-04-13T12:01:00Z",
+        "date_modified": "2025-07-22T10:33:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "binnenlandsbestuur.nl"
+        },
+        "content_html": "",
+        "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&#039;s en paspoortkopie\u00ebn toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en noodmaatregelen voor beveiliging toegepast. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. [Update: Op 12 juli 2024 is bekend geworden dat het om 50 miljoen documenten gaat en dat het nog 1,5 jaar duurt voordat het lek definitief opgelost is.] [Update: Op 18 juli 2025 is bekend geworden dat het lek zo goed als gedicht is.] (Bron: binnenlandsbestuur.nl)"
+    },
+    {
         "id": "https://www.huurcommissie.nl/actueel/nieuws/2025/07/16/datalek-openbaar-register-huurcommissie?datalekt=c205a48c659e69685c1ae05584f03f77c202bedbf3ac867ab36a37c9baf35270",
         "url": "https://www.huurcommissie.nl/actueel/nieuws/2025/07/16/datalek-openbaar-register-huurcommissie",
         "title": "Huurcommissie lekt persoonsgegevens door fout in openbaar register",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Assisi | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 29-03-2025 | DataLekt.nl: De criminele organisatie Ransomhub heeft op het darkweb aangekondigd dat zij Assisi heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=80c8044136c669c300a38338c1cb7f674fbf345a108c8513e8442aa71dfc46bb",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Stuwarooij getroffen door ransomware aanval van de criminele organisatie Frag",
-        "date_published": "2025-04-03T14:26:00Z",
-        "date_modified": "2025-04-03T14:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Stuwarooij | Bouwnijverheid | 25-03-2025 | DataLekt.nl: De criminele organisatie Frag heeft op het darkweb aangekondigd dat zij Stuwarooij heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4ac78db0513eb26587e708814fa2edd6e4496387367079e49f4460aede546bb2",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Koninklijke Lemkes getroffen door ransomware aanval van de criminele organisatie CL0P",
-        "date_published": "2025-04-03T14:25:00Z",
-        "date_modified": "2025-04-03T14:25:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Koninklijke Lemkes | Groot- en detailhandel | 25-03-2025 | DataLekt.nl: De criminele organisatie CL0P heeft op het darkweb aangekondigd dat zij Koninklijke Lemkes heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]
