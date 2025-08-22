@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 21 Aug 2025 01:42:15 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 22 Aug 2025 01:42:37 +0000</lastBuildDate>
+		<item>
+			<title>Translink getroffen door misbruik van kwetsbaarheid in ov-betaalsystemen</title>
+			<link>https://tweakers.net/nieuws/238244/rechter-veroordeelt-man-die-gratis-reisde-door-kwetsbaarheid-translink-systemen.html</link>
+			<description>Translink | Vervoer en opslag | 20-08-2025 | DataLekt.nl: Een man uit Beverwijk is door de politierechter in Haarlem veroordeeld voor het herhaaldelijk misbruiken van een kwetsbaarheid in de systemen van Translink, de beheerder van de OV-chipkaart. Tussen 2020 en 2023 gebruikte hij een Chinese NFC-chip om reisgegevens van ov-kaarten te kopiëren en saldo toe te voegen zonder te betalen, waardoor hij jarenlang gratis kon reizen. Hoewel hij beweerde als klokkenluider te willen wijzen op de slechte beveiliging, maakte hij geen gebruik van het officiële meldproces. De rechter legde hem een voorwaardelijke geldboete van 2000 euro op. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/238244/rechter-veroordeelt-man-die-gratis-reisde-door-kwetsbaarheid-translink-systemen.html?datalekt=d02d179f20498dc09b5ba28f00a9ecce69bc82b90051729761af98c158855f76</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij Clinical Diagnostics onthult adressen van vrouwen uit blijf-van-mijn-huizen</title>
 			<link>https://www.rtl.nl/nieuws/binnenland/artikel/5523135/datalek-laboratorium-blijf-van-mijn-lijf-huis-medische-gegevens</link>
@@ -705,22 +713,6 @@
 			<pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Ministerie van OCW onderdeel van metadata-datalek met zichtbare persoonsgegevens in overheidsdocumenten</title>
-			<link>https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html</link>
-			<description>Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Het Ministerie van Onderwijs, Cultuur en Wetenschap is getroffen door een rijksbreed datalek waarbij metadata met persoonsgegevens zoals namen en gebruikersnamen van ambtenaren niet werd verwijderd bij publicatie. In 23% van de documenten zijn fouten aangetroffen. Onderzoek loopt. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=eec1ac0622e7afabf2071088dcb08638e6cf659707a47733e6cdf8f513c17e17</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ministerie van LVVN getroffen door datalek via metadata in openbaar gemaakte documenten</title>
-			<link>https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html</link>
-			<description>Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Ook het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur is onderdeel van het metadata-datalek waarbij ambtenarengegevens onbedoeld openbaar werden. De fout ontstond bij publicatie van documenten via platforms zoals open.overheid.nl. De AP is geïnformeerd en schadebeperking is in gang gezet. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=0403c9dfb2e713cf4b971744ca93617be101d81d1d2a4d3472b67d3455da6a89</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
 			<link>https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/</link>
 			<description>Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. [Update: Op 22 april 2025 is ook bekend geworden dat salarisgegevens en namen van medewerkers zijn gelekt.] [Update: Op 27 juni 2025 werd gemeld dat bij de ransomware-aanval, die rond 5 november 2024 plaatsvond, persoonlijke gegevens van meer dan 2,2 miljoen mensen zijn buitgemaakt.] (Bron: ad.nl)</description>
@@ -759,6 +751,14 @@
 			<guid isPermaLink="false">https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=84507a755146766d8f05be7273b7ae3cdd51894c0fb7232dfbab9e4bda0bfc7d</guid>
 			<category>Overheid: Politie en brandweer </category>
 			<pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Enviem vordert schadevergoeding na ransomware-aanval door gebrekkige beveiliging I-Beheer</title>
+			<link>https://www.security.nl/posting/857577/Ict-bedrijf+aansprakelijk+voor+schade+van+ransomware-aanval+bij+klant</link>
+			<description>Enviem | Overige dienstverlening | 11-09-2024 | DataLekt.nl: Enviem, een klant van een ict-bedrijf I-Beheer in Coevorden werd in 2019 slachtoffer van een ransomware-aanval door inadequate beveiligingsmaatregelen van de dienstverlener. Aanvallers verkregen toegang via slecht beveiligde systemen, waaronder open RDP-poorten. De klant leed aanzienlijke schade door versleutelde bestanden en onbruikbare back-ups en eiste één miljoen euro aan schadevergoeding. De rechtbank kende echter slechts 50.000 euro toe, omdat niet alle claims werden onderbouwd. Het incident benadrukt de verantwoordelijkheid van ICT-dienstverleners in het beschermen van klantgegevens. [Update: Op 10 september 2024 zijn in de rechtbank stukken de getroffen organisatie en diens dienstverlener bekend gemaakt.] (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/857577/Ict-bedrijf+aansprakelijk+voor+schade+van+ransomware-aanval+bij+klant?datalekt=c02e80c705a2e27689bdb1abac3615961a70afc283b256c076ff0673d24ed345</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Kruidvat krijgt boete voor plaatsing trackingcookies zonder toestemming</title>

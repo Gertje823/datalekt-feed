@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/238244/rechter-veroordeelt-man-die-gratis-reisde-door-kwetsbaarheid-translink-systemen.html?datalekt=d02d179f20498dc09b5ba28f00a9ecce69bc82b90051729761af98c158855f76",
+        "url": "https://tweakers.net/nieuws/238244/rechter-veroordeelt-man-die-gratis-reisde-door-kwetsbaarheid-translink-systemen.html",
+        "title": "Translink getroffen door misbruik van kwetsbaarheid in ov-betaalsystemen",
+        "date_published": "2025-08-21T20:38:00Z",
+        "date_modified": "2025-08-21T20:38:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Translink | Vervoer en opslag | 20-08-2025 | DataLekt.nl: Een man uit Beverwijk is door de politierechter in Haarlem veroordeeld voor het herhaaldelijk misbruiken van een kwetsbaarheid in de systemen van Translink, de beheerder van de OV-chipkaart. Tussen 2020 en 2023 gebruikte hij een Chinese NFC-chip om reisgegevens van ov-kaarten te kopi\u00ebren en saldo toe te voegen zonder te betalen, waardoor hij jarenlang gratis kon reizen. Hoewel hij beweerde als klokkenluider te willen wijzen op de slechte beveiliging, maakte hij geen gebruik van het offici\u00eble meldproces. De rechter legde hem een voorwaardelijke geldboete van 2000 euro op. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://www.security.nl/posting/857577/Ict-bedrijf+aansprakelijk+voor+schade+van+ransomware-aanval+bij+klant?datalekt=c02e80c705a2e27689bdb1abac3615961a70afc283b256c076ff0673d24ed345",
+        "url": "https://www.security.nl/posting/857577/Ict-bedrijf+aansprakelijk+voor+schade+van+ransomware-aanval+bij+klant",
+        "title": "Enviem vordert schadevergoeding na ransomware-aanval door gebrekkige beveiliging I-Beheer",
+        "date_published": "2024-09-17T10:51:00Z",
+        "date_modified": "2025-08-21T20:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Enviem | Overige dienstverlening | 11-09-2024 | DataLekt.nl: Enviem, een klant van een ict-bedrijf I-Beheer in Coevorden werd in 2019 slachtoffer van een ransomware-aanval door inadequate beveiligingsmaatregelen van de dienstverlener. Aanvallers verkregen toegang via slecht beveiligde systemen, waaronder open RDP-poorten. De klant leed aanzienlijke schade door versleutelde bestanden en onbruikbare back-ups en eiste \u00e9\u00e9n miljoen euro aan schadevergoeding. De rechtbank kende echter slechts 50.000 euro toe, omdat niet alle claims werden onderbouwd. Het incident benadrukt de verantwoordelijkheid van ICT-dienstverleners in het beschermen van klantgegevens. [Update: Op 10 september 2024 zijn in de rechtbank stukken de getroffen organisatie en diens dienstverlener bekend gemaakt.] (Bron: security.nl)"
+    },
+    {
         "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine?datalekt=bc5a3f4ee977b7f66115525287c665f51ad6e98059d81541f5a6fa3eae441de3",
         "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine",
         "title": "Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ministerie van Sociale Zaken en Werkgelegenheid (SZW) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Het Ministerie van Sociale Zaken en Werkgelegenheid is betrokken bij het datalek waarbij in metadata van openbare documenten persoonsgegevens van ambtenaren zichtbaar bleven. Het lek betreft alle ministeries en is gemeld bij de Autoriteit Persoonsgegevens. Een centraal team co\u00f6rdineert het herstel. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=eec1ac0622e7afabf2071088dcb08638e6cf659707a47733e6cdf8f513c17e17",
-        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
-        "title": "Ministerie van OCW onderdeel van metadata-datalek met zichtbare persoonsgegevens in overheidsdocumenten",
-        "date_published": "2025-04-20T12:38:00Z",
-        "date_modified": "2025-04-20T12:38:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Het Ministerie van Onderwijs, Cultuur en Wetenschap is getroffen door een rijksbreed datalek waarbij metadata met persoonsgegevens zoals namen en gebruikersnamen van ambtenaren niet werd verwijderd bij publicatie. In 23% van de documenten zijn fouten aangetroffen. Onderzoek loopt. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=0403c9dfb2e713cf4b971744ca93617be101d81d1d2a4d3472b67d3455da6a89",
-        "url": "https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html",
-        "title": "Ministerie van LVVN getroffen door datalek via metadata in openbaar gemaakte documenten",
-        "date_published": "2025-04-20T12:37:00Z",
-        "date_modified": "2025-04-20T12:37:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Ook het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur is onderdeel van het metadata-datalek waarbij ambtenarengegevens onbedoeld openbaar werden. De fout ontstond bij publicatie van documenten via platforms zoals open.overheid.nl. De AP is ge\u00efnformeerd en schadebeperking is in gang gezet. (Bron: tweakers.net)"
     }
 ]
