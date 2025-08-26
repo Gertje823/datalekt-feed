@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 22 Aug 2025 01:42:37 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 26 Aug 2025 12:46:25 +0000</lastBuildDate>
+		<item>
+			<title>Welzijnsorganisatie WijZijn maakt per ongeluk 500 e-mailadressen van mantelzorgers openbaar</title>
+			<link>https://www.bndestem.nl/steenbergen/welzijnsorganisatie-wijzijn-verstuurt-500-e-mailadressen-van-mantelzorgers-zichtbaar-menselijke-fout~ae0dc4c9/</link>
+			<description>WijZijn | Gezondheids- en welzijnszorg | 22-08-2025 | DataLekt.nl: Welzijnsorganisatie WijZijn heeft bij het versturen van een e-mail over het failliete Groupcard per ongeluk vijfhonderd e-mailadressen van mantelzorgers in de gemeente Steenbergen zichtbaar gemaakt. De adressen werden in het ‘aan’-veld geplaatst in plaats van in de bcc, waardoor alle ontvangers elkaars adres konden zien. Het datalek is door WijZijn zelf ontdekt en gemeld bij de Autoriteit Persoonsgegevens. Ontvangers kregen een herstelmail met het verzoek de eerdere mail te verwijderen. De organisatie onderzoekt hoe soortgelijke fouten in de toekomst kunnen worden voorkomen. (Bron: bndestem.nl)</description>
+			<guid isPermaLink="false">https://www.bndestem.nl/steenbergen/welzijnsorganisatie-wijzijn-verstuurt-500-e-mailadressen-van-mantelzorgers-zichtbaar-menselijke-fout~ae0dc4c9/?datalekt=04c805431fe9a64de6baccdf7538cd7872a29631ec6dddf9ced87729c5996a98</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Eindhoven meldde publicatie van geheime verhuisvergoeding woonwagenfamilie alsnog als datalek</title>
+			<link>https://www.bd.nl/eindhoven/gemeenteblunder-met-verhuisvergoeding-voor-eindhovense-woonwagenfamilie-toch-gemeld-als-datalek~a8c948f3d/</link>
+			<description>Gemeente Eindhoven | Overheid: Gemeenten | 22-08-2025 | DataLekt.nl: De gemeente Eindhoven publiceerde op 3 juli per ongeluk een adviesnota met daarin bedragen voor de verhuiskostenvergoeding van vijf woonwagenhuishoudens en het honorarium van hun adviseur, terwijl hierover geheimhouding was opgelegd. In eerste instantie vond de gemeente het risico te laag om te melden, maar op 11 juli werd het incident alsnog officieel aangemerkt als een datalek en gemeld bij de Autoriteit Persoonsgegevens. Omdat het datalek pas na meer dan 72 uur werd gemeld, handelt de gemeente in strijd met de meldplicht. Eindhoven stond eerder al onder verscherpt toezicht van de AP vanwege problemen met datalekken. Het gaat om een menselijke fout; bewoners zijn geïnformeerd en hebben excuses gekregen. (Bron: bd.nl)</description>
+			<guid isPermaLink="false">https://www.bd.nl/eindhoven/gemeenteblunder-met-verhuisvergoeding-voor-eindhovense-woonwagenfamilie-toch-gemeld-als-datalek~a8c948f3d/?datalekt=9c12b9ba5b779270a71ffe1654e5474090e8967b3aa7b185d93ff73bf857459a</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Translink getroffen door misbruik van kwetsbaarheid in ov-betaalsystemen</title>
 			<link>https://tweakers.net/nieuws/238244/rechter-veroordeelt-man-die-gratis-reisde-door-kwetsbaarheid-translink-systemen.html</link>
@@ -91,8 +107,8 @@
 		<item>
 			<title>Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens</title>
 			<link>https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine</link>
-			<description>Clinical Diagnostics | Gezondheids- en welzijnszorg | 11-08-2025 | DataLekt.nl: Hackers hebben bij laboratorium Clinical Diagnostics medische en persoonsgegevens buitgemaakt van honderden duizenden patiënten. Naast gegevens van 485.000 vrouwen uit het bevolkingsonderzoek naar baarmoederhalskanker gaat het ook om data van huid-, urine-, penis-, vagina-, anus- en wondvochtonderzoeken. De gestolen informatie bevat namen, adressen, geboortedata, burgerservicenummers, onderzoeksuitslagen en adviezen. Een deel van de data, waaronder gegevens van minstens 53.516 huisartsenpatiënten, is al gepubliceerd op het dark web. Volgens de criminelen gaat het in totaal om 300 gigabyte aan gegevens, waarvan tot nu toe slechts een fractie online staat. De onderzoeken zijn uitgevoerd in ziekenhuizen, klinieken en via huisartsen tussen 2022 en 2025. [Update: Op 13 augustus 2025 is bekend geworden dat het om een ransomware aanval ging waarbij losgeld betaald is.] [Update: Op 18 augustus 2025 is bekend geworden dat het losgeld van 1 miljoen euro nog niet betaald is aan Nova, en dat Nova dreigt met publiceren van de gestolen data.] (Bron: rtl.nl)</description>
-			<guid isPermaLink="false">https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine?datalekt=bc5a3f4ee977b7f66115525287c665f51ad6e98059d81541f5a6fa3eae441de3</guid>
+			<description>Clinical Diagnostics | Gezondheids- en welzijnszorg | 11-08-2025 | DataLekt.nl: Hackers hebben bij laboratorium Clinical Diagnostics medische en persoonsgegevens buitgemaakt van honderden duizenden patiënten. Naast gegevens van 485.000 vrouwen uit het bevolkingsonderzoek naar baarmoederhalskanker gaat het ook om data van huid-, urine-, penis-, vagina-, anus- en wondvochtonderzoeken. De gestolen informatie bevat namen, adressen, geboortedata, burgerservicenummers, onderzoeksuitslagen en adviezen. Een deel van de data, waaronder gegevens van minstens 53.516 huisartsenpatiënten, is al gepubliceerd op het dark web. Volgens de criminelen gaat het in totaal om 300 gigabyte aan gegevens, waarvan tot nu toe slechts een fractie online staat. De onderzoeken zijn uitgevoerd in ziekenhuizen, klinieken en via huisartsen tussen 2022 en 2025. [Update: Op 13 augustus 2025 is bekend geworden dat het om een ransomware aanval ging waarbij losgeld betaald is.] [Update: Op 18 augustus 2025 is bekend geworden dat het losgeld van 1 miljoen euro nog niet betaald is aan Nova, en dat Nova dreigt met publiceren van de gestolen data.] [Update: Op 22 augustus heeft de criminele organisatie Nova bekend gemaakt dat de gestolen data verwijderd is. Er is losgeld betaald.] (Bron: rtl.nl)</description>
+			<guid isPermaLink="false">https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine?datalekt=05b516339b0224260dad2f91791601dbfca5db6b493a94c5013e2d9cf0f6807e</guid>
 			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -693,22 +709,6 @@
 			<link>https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html</link>
 			<description>Ministerie van Volkshuisvesting en Ruimtelijke Ordening (VRO) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Ook het Ministerie van Volkshuisvesting en Ruimtelijke Ordening is getroffen door het metadata-datalek waarbij persoonsgegevens van ambtenaren zichtbaar bleven in gepubliceerde Woo-documenten. De metadata werd niet goed verwijderd voor publicatie op onder meer open.overheid.nl. De ministeries hebben melding gedaan bij de AP en werken mee aan de rijksbrede herstelmaatregelen. (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=a5b0be355f44822694d054b6032feb7bfa8043ac171bd77c0d09f62af75c0feb</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ministerie van VWS betrokken bij rijksbreed datalek via metadata in openbare documenten</title>
-			<link>https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html</link>
-			<description>Ministerie van Volksgezondheid, Welzijn en Sport (VWS) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Bij het Ministerie van Volksgezondheid, Welzijn en Sport zijn persoonsgegevens van ambtenaren per ongeluk zichtbaar gebleven in metadata van gepubliceerde Woo-documenten. Het datalek is gemeld bij de AP. Maatregelen worden genomen om herhaling te voorkomen. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=b2e517d8d5723ed2b62c2a411d17f648aeb1312e02ef48b6d4db7de1916d0a41</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ministerie van Sociale Zaken getroffen door metadata-datalek met persoonsgegevens van ambtenaren</title>
-			<link>https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html</link>
-			<description>Ministerie van Sociale Zaken en Werkgelegenheid (SZW) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Het Ministerie van Sociale Zaken en Werkgelegenheid is betrokken bij het datalek waarbij in metadata van openbare documenten persoonsgegevens van ambtenaren zichtbaar bleven. Het lek betreft alle ministeries en is gemeld bij de Autoriteit Persoonsgegevens. Een centraal team coördineert het herstel. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=9c93b9e7df40893ff04c08ff2b66087ae9411c908e1599686c210e2ab87fcb91</guid>
 			<category>Overheid: Ministeries </category>
 			<pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
