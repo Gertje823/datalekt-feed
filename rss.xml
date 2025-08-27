@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 26 Aug 2025 12:46:25 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 27 Aug 2025 12:42:01 +0000</lastBuildDate>
+		<item>
+			<title>Knas lekt persoonsgegevens door foutieve publicatie van Excel-bestand met wereldbekerinschrijvingen</title>
+			<link>https://www.knas.nl/node/3896</link>
+			<description>KNAS | Cultuur, sport en recreatie | 25-08-2025 | DataLekt.nl: Tussen 18 en 20 augustus heeft de Koninklijke Nederlandse Algemene Schermbond (KNAS) per ongeluk een Excel-bestand online gezet met meer persoonsgegevens dan bedoeld. Het bestand stond op de inschrijfpagina voor wereldbekerwedstrijden en bevatte gegevens die normaal niet zichtbaar zijn in de gebruikelijke PDF-versie. Op 25 augustus zijn de betrokken schermers geïnformeerd over het datalek. De KNAS biedt excuses aan en benadrukt dat zorgvuldig met persoonsgegevens wordt omgegaan. (Bron: knas.nl)</description>
+			<guid isPermaLink="false">https://www.knas.nl/node/3896?datalekt=dd5233451f84a9a37f3fd26624023691a7e0f6233779cee569c97313564e8d3f</guid>
+			<category>Cultuur, sport en recreatie </category>
+			<pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Zoetermeer lekt persoonsgegevens bewoners Schansbaan door foutieve publicatie</title>
+			<link>https://www.ad.nl/zoetermeer/geschrokken-raadsleden-willen-onderzoek-naar-datalek-schansbaan-en-excuses-aan-bewoners~a10535bb/</link>
+			<description>Gemeente Zoetermeer | Overheid: Gemeenten | 26-08-2025 | DataLekt.nl: Bij de gemeente Zoetermeer zijn wekenlang persoonsgegevens van ruim vijftig bewoners van de Schansbaan openbaar geweest via de gemeentelijke website. Het betrof ondertekenaars van een burgerinitiatief, waarvan mobiele nummers, geboortedata, adressen, e-mailadressen en zelfs handtekeningen zichtbaar waren. De gegevens stonden vanaf half juli tot eind augustus online doordat een verkeerde bijlage was gepubliceerd. Na ontdekking verwijderde de gemeente de bestanden en meldde het datalek bij de Autoriteit Persoonsgegevens. Privacyexperts waarschuwen voor identiteitsfraude en lokale politici eisen excuses, een grondig onderzoek en betere waarborgen om herhaling te voorkomen. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/zoetermeer/geschrokken-raadsleden-willen-onderzoek-naar-datalek-schansbaan-en-excuses-aan-bewoners~a10535bb/?datalekt=19f80ec97afd03240ec126e527d65bcb3fd421b1aba8f561a6f3df2114ca0c92</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Welzijnsorganisatie WijZijn maakt per ongeluk 500 e-mailadressen van mantelzorgers openbaar</title>
 			<link>https://www.bndestem.nl/steenbergen/welzijnsorganisatie-wijzijn-verstuurt-500-e-mailadressen-van-mantelzorgers-zichtbaar-menselijke-fout~ae0dc4c9/</link>
@@ -695,22 +711,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/884874/Eigenaar+belwinkel+faciliteerde+sim-swapping+voor+het+stelen+van+cryptovaluta?datalekt=c3ead705ba13c45133ff171e01fc1d381bc4229dbc9a5439e5ca117f49662778</guid>
 			<category>Informatie en communicatie </category>
 			<pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DDoS-aanvallen op Adyen verstoren betalingsverkeer en toegang tot klantdiensten</title>
-			<link>https://www.security.nl/posting/884986/Adyen%3A+ddos-aanvallen+verstoorden+verwerken+van+betalingen+bij+klanten</link>
-			<description>Adyen | Financiële instellingen | 22-04-2025 | DataLekt.nl: Op 21 april 2025 werd betalingsverwerker Adyen getroffen door meerdere DDoS-aanvallen, wat leidde tot verstoringen bij het verwerken van betalingen via Europese endpoints. Klanten kregen te maken met foutmeldingen en trage reacties. Ook werden onboarding, API&amp;#039;s en klantomgevingen tijdelijk getroffen. De eerste aanval begon rond 19.00 uur; de laatste update om 03.30 uur meldde volledige herstel van de diensten. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/884986/Adyen%3A+ddos-aanvallen+verstoorden+verwerken+van+betalingen+bij+klanten?datalekt=52751d50d79348107b9b24ce77143f6e95436829a323a9e33ae2c349d2b1d218</guid>
-			<category>Financiële instellingen </category>
-			<pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ministerie van Volkshuisvesting en Ruimtelijke Ordening getroffen door datalek met persoonsgegevens in metadata</title>
-			<link>https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html</link>
-			<description>Ministerie van Volkshuisvesting en Ruimtelijke Ordening (VRO) | Overheid: Ministeries | 18-04-2025 | DataLekt.nl: Ook het Ministerie van Volkshuisvesting en Ruimtelijke Ordening is getroffen door het metadata-datalek waarbij persoonsgegevens van ambtenaren zichtbaar bleven in gepubliceerde Woo-documenten. De metadata werd niet goed verwijderd voor publicatie op onder meer open.overheid.nl. De ministeries hebben melding gedaan bij de AP en werken mee aan de rijksbrede herstelmaatregelen. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/234130/datalek-met-persoonsgegevens-ambtenaren-treft-alle-nederlandse-ministeries.html?datalekt=a5b0be355f44822694d054b6032feb7bfa8043ac171bd77c0d09f62af75c0feb</guid>
-			<category>Overheid: Ministeries </category>
-			<pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
