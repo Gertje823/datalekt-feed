@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine?datalekt=28568feddf7f41576438bdaae4418aa9c73ce98377df0bcd1ed1105cadf8094b",
+        "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine",
+        "title": "Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens",
+        "date_published": "2025-08-12T16:20:00Z",
+        "date_modified": "2025-08-30T19:10:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtl.nl"
+        },
+        "content_html": "",
+        "content_text": "Clinical Diagnostics | Gezondheids- en welzijnszorg | 11-08-2025 | DataLekt.nl: Hackers hebben bij laboratorium Clinical Diagnostics medische en persoonsgegevens buitgemaakt van honderden duizenden pati\u00ebnten. Naast gegevens van 485.000 vrouwen uit het bevolkingsonderzoek naar baarmoederhalskanker gaat het ook om data van huid-, urine-, penis-, vagina-, anus- en wondvochtonderzoeken. De gestolen informatie bevat namen, adressen, geboortedata, burgerservicenummers, onderzoeksuitslagen en adviezen. Een deel van de data, waaronder gegevens van minstens 53.516 huisartsenpati\u00ebnten, is al gepubliceerd op het dark web. Volgens de criminelen gaat het in totaal om 300 gigabyte aan gegevens, waarvan tot nu toe slechts een fractie online staat. De onderzoeken zijn uitgevoerd in ziekenhuizen, klinieken en via huisartsen tussen 2022 en 2025. [Update: Op 13 augustus 2025 is bekend geworden dat het om een ransomware aanval ging.] [Update: Op 18 augustus 2025 is bekend geworden dat het losgeld van 1 miljoen euro nog niet betaald is aan Nova, en dat Nova dreigt met publiceren van de gestolen data.] [Update: Op 22 augustus heeft de criminele organisatie Nova bekend gemaakt dat de gestolen data verwijderd is. Er is losgeld betaald.] [Update: Op 29 augustus 2025 heeft Clinical Diagnostics bekend gemaakt dat data van 850.000 patienten zijn gestolen.] (Bron: rtl.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=22ee71d8fc74191fe5e149bd3824f1a488a5beeae6b2a221131b584bb2629c10",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "CoCo Yachts getroffen door ransomware aanval van de criminele organisatie Cephalus",
+        "date_published": "2025-08-30T19:03:00Z",
+        "date_modified": "2025-08-30T19:03:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "CoCo Yachts | Groot- en detailhandel | 28-08-2025 | DataLekt.nl: De criminele organisatie Cephalus heeft op het darkweb aangekondigd dat zij CoCo Yachts heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.knas.nl/node/3896?datalekt=dd5233451f84a9a37f3fd26624023691a7e0f6233779cee569c97313564e8d3f",
         "url": "https://www.knas.nl/node/3896",
         "title": "Knas lekt persoonsgegevens door foutieve publicatie van Excel-bestand met wereldbekerinschrijvingen",
@@ -50,19 +76,6 @@
         },
         "content_html": "",
         "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 22-08-2025 | DataLekt.nl: De gemeente Eindhoven publiceerde op 3 juli per ongeluk een adviesnota met daarin bedragen voor de verhuiskostenvergoeding van vijf woonwagenhuishoudens en het honorarium van hun adviseur, terwijl hierover geheimhouding was opgelegd. In eerste instantie vond de gemeente het risico te laag om te melden, maar op 11 juli werd het incident alsnog officieel aangemerkt als een datalek en gemeld bij de Autoriteit Persoonsgegevens. Omdat het datalek pas na meer dan 72 uur werd gemeld, handelt de gemeente in strijd met de meldplicht. Eindhoven stond eerder al onder verscherpt toezicht van de AP vanwege problemen met datalekken. Het gaat om een menselijke fout; bewoners zijn ge\u00efnformeerd en hebben excuses gekregen. (Bron: bd.nl)"
-    },
-    {
-        "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine?datalekt=05b516339b0224260dad2f91791601dbfca5db6b493a94c5013e2d9cf0f6807e",
-        "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine",
-        "title": "Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens",
-        "date_published": "2025-08-12T16:20:00Z",
-        "date_modified": "2025-08-26T14:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtl.nl"
-        },
-        "content_html": "",
-        "content_text": "Clinical Diagnostics | Gezondheids- en welzijnszorg | 11-08-2025 | DataLekt.nl: Hackers hebben bij laboratorium Clinical Diagnostics medische en persoonsgegevens buitgemaakt van honderden duizenden pati\u00ebnten. Naast gegevens van 485.000 vrouwen uit het bevolkingsonderzoek naar baarmoederhalskanker gaat het ook om data van huid-, urine-, penis-, vagina-, anus- en wondvochtonderzoeken. De gestolen informatie bevat namen, adressen, geboortedata, burgerservicenummers, onderzoeksuitslagen en adviezen. Een deel van de data, waaronder gegevens van minstens 53.516 huisartsenpati\u00ebnten, is al gepubliceerd op het dark web. Volgens de criminelen gaat het in totaal om 300 gigabyte aan gegevens, waarvan tot nu toe slechts een fractie online staat. De onderzoeken zijn uitgevoerd in ziekenhuizen, klinieken en via huisartsen tussen 2022 en 2025. [Update: Op 13 augustus 2025 is bekend geworden dat het om een ransomware aanval ging waarbij losgeld betaald is.] [Update: Op 18 augustus 2025 is bekend geworden dat het losgeld van 1 miljoen euro nog niet betaald is aan Nova, en dat Nova dreigt met publiceren van de gestolen data.] [Update: Op 22 augustus heeft de criminele organisatie Nova bekend gemaakt dat de gestolen data verwijderd is. Er is losgeld betaald.] (Bron: rtl.nl)"
     },
     {
         "id": "https://tweakers.net/nieuws/238244/rechter-veroordeelt-man-die-gratis-reisde-door-kwetsbaarheid-translink-systemen.html?datalekt=d02d179f20498dc09b5ba28f00a9ecce69bc82b90051729761af98c158855f76",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Zaffier | Overige dienstverlening | 01-04-2025 | DataLekt.nl: Op 1 april 2025 werd bekend dat Zaffier in de regio Alkmaar een datalek heeft veroorzaakt waarbij gevoelige financi\u00eble informatie van 93 inwoners mogelijk op straat is beland. De betrokkenen moesten persoonlijke gegevens opsturen voor een heronderzoek naar hun uitkering, maar ontvingen daarvoor onjuist geadresseerde retourenveloppen. Hierdoor bestond het risico dat gegevens bij verkeerde ontvangers terechtkwamen. [Update: Op 20 april 2025 is bekend geworden dat er geen priv\u00e9gegevens van inwoners regio Alkmaar in verkeerde handen zijn terechtgekomen.] (Bron: noordhollandsdagblad.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/884874/Eigenaar+belwinkel+faciliteerde+sim-swapping+voor+het+stelen+van+cryptovaluta?datalekt=c3ead705ba13c45133ff171e01fc1d381bc4229dbc9a5439e5ca117f49662778",
-        "url": "https://www.security.nl/posting/884874/Eigenaar+belwinkel+faciliteerde+sim-swapping+voor+het+stelen+van+cryptovaluta",
-        "title": "Odido (voorheen T-Mobile) getroffen door datalek via telecomdealer: klantgegevens misbruikt voor sim-swapping",
-        "date_published": "2025-04-22T13:25:00Z",
-        "date_modified": "2025-04-22T13:25:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Odido | Informatie en communicatie | 20-04-2025 | DataLekt.nl: In april 2025 werd bekend dat telecombedrijf Odido (voorheen T-Mobile) is getroffen door een datalek waarbij klantgegevens via bevoegde toegang zijn misbruikt voor sim-swapping en cryptodiefstal. Medewerkers van een T-Mobile-winkel en een externe dealer verleenden bewust toegang tot systemen als Salesforce, TAS en KMT. Criminelen gebruikten deze toegang om 06-nummers over te zetten en zo onder andere tweefactorauthenticatie te omzeilen. Minstens acht personen werden slachtoffer van accountovernames en financieel verlies. (Bron: security.nl)"
     }
 ]
