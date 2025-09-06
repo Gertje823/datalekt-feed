@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 01 Sep 2025 01:53:57 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 06 Sep 2025 18:25:06 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij zorgverzekeraar CZ door technisch probleem bij externe IT-dienstverlener</title>
+			<link>https://www.dutchitchannel.nl/news/700812/datalek-bij-zorgverzekeraar-cz</link>
+			<description>CZ | Financiële instellingen | 04-09-2025 | DataLekt.nl: Zorgverzekeraar CZ is op 21 augustus 2025 getroffen door een datalek nadat door een technisch probleem in de MijnCZ-omgeving berichten zichtbaar waren voor andere verzekerden. Het incident werd veroorzaakt door een fout bij een externe IT-dienstverlener. In totaal zijn 105 klanten getroffen; zij konden korte tijd persoonlijke berichten van anderen inzien. CZ sloot de toegang tot MijnCZ direct af, loste het probleem snel op en informeerde de betrokkenen persoonlijk via telefoon en brief. Het is niet duidelijk welke aanvullende ondersteuning de verzekeraar biedt. (Bron: dutchitchannel.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/700812/datalek-bij-zorgverzekeraar-cz?datalekt=5e70bdc057e6d573c98a8ee1e3d4cf98755d01dfaab354f8cfaf2f0237679138</guid>
+			<category>Financiële instellingen </category>
+			<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Van der Valk Hotel Zuidas getroffen door datalek na phishingaanval op medewerkers</title>
+			<link>https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht</link>
+			<description>Van der Valk Hotel Zuidas | Logies-, maaltijd- en drankverstrekking | 04-09-2025 | DataLekt.nl: Het Van der Valk Hotel Zuidas is getroffen door een datalek waarbij persoonsgegevens van 302 klanten zijn buitgemaakt. Hackers wisten via een nagemaakte inlogpagina de inloggegevens van medewerkers te verkrijgen en kregen zo toegang tot adressen, telefoonnummers en boekingsgegevens van gasten. Met deze informatie konden oplichters zich geloofwaardig voordoen als het hotel en klanten benaderen. Ten minste één klant is hierdoor opgelicht en verloor 200 euro na het invoeren van haar creditcardgegevens via een nepbericht. Het hotel heeft klanten geïnformeerd en de Autoriteit Persoonsgegevens ingelicht. (Bron: nhnieuws.nl)</description>
+			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=7ba5c4bf66d4311a792bf885dad8af5f2dafecd729fbcd67db751b5a78c0bca1</guid>
+			<category>Logies-, maaltijd- en drankverstrekking </category>
+			<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>CoCo Yachts getroffen door ransomware aanval van de criminele organisatie Cephalus</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -705,28 +721,12 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Kwekerij de Groot uit Prinsenbeek getroffen door ransomware-aanval; geautomatiseerde bedrijfsvoering bijna volledig stilgelegd</title>
-			<link>https://www.digitaltrustcenter.nl/ondernemersverhalen/hoe-een-hack-een-brabantse-plantenkwekerij-bijna-stillegde</link>
-			<description>Kwekerij de Groot | Landbouw, bosbouw en visserij | 24-04-2025 | DataLekt.nl: Kwekerij de Groot, een Brabantse plantenkwekerij in Prinsenbeek, werd getroffen door een ransomware-aanval waarbij centrale configuratiebestanden van het geautomatiseerde teeltsysteem werden versleuteld. Door het faillissement van de oorspronkelijke softwareleverancier was herstel lastig en risicovol. De back-ups bleken ook besmet, waardoor één systeemfout de hele bedrijfsvoering had kunnen stilleggen. Dankzij recente cloudmigraties kon een deel van de bedrijfsfuncties worden hervat. Er is aangifte gedaan en inmiddels zijn extra maatregelen genomen. (Bron: digitaltrustcenter.nl)</description>
-			<guid isPermaLink="false">https://www.digitaltrustcenter.nl/ondernemersverhalen/hoe-een-hack-een-brabantse-plantenkwekerij-bijna-stillegde?datalekt=3cab586cbf0e0e30fbdab0e6055bfff2964045aae00a16dfb70ce7d65d6e4db3</guid>
-			<category>Landbouw, bosbouw en visserij </category>
-			<pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
 			<link>https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/</link>
 			<description>Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. [Update: Op 22 april 2025 is ook bekend geworden dat salarisgegevens en namen van medewerkers zijn gelekt.] [Update: Op 27 juni 2025 werd gemeld dat bij de ransomware-aanval, die rond 5 november 2024 plaatsvond, persoonlijke gegevens van meer dan 2,2 miljoen mensen zijn buitgemaakt.] (Bron: ad.nl)</description>
 			<guid isPermaLink="false">https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/?datalekt=f6ca61c8bf2cdaf494d2dd7dfcc87be37898c44d537fd5b7f4a729e6ba044ead</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Zaffier: retourenveloppen met financiële gegevens van 93 inwoners mogelijk onveilig verwerkt</title>
-			<link>https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html</link>
-			<description>Zaffier | Overige dienstverlening | 01-04-2025 | DataLekt.nl: Op 1 april 2025 werd bekend dat Zaffier in de regio Alkmaar een datalek heeft veroorzaakt waarbij gevoelige financiële informatie van 93 inwoners mogelijk op straat is beland. De betrokkenen moesten persoonlijke gegevens opsturen voor een heronderzoek naar hun uitkering, maar ontvingen daarvoor onjuist geadresseerde retourenveloppen. Hierdoor bestond het risico dat gegevens bij verkeerde ontvangers terechtkwamen. [Update: Op 20 april 2025 is bekend geworden dat er geen privégegevens van inwoners regio Alkmaar in verkeerde handen zijn terechtgekomen.] (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html?datalekt=a0f6977bf4f62eb401a186e3b37001090e06a30db326174202e075099e02bf6a</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>

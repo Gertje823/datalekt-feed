@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.dutchitchannel.nl/news/700812/datalek-bij-zorgverzekeraar-cz?datalekt=5e70bdc057e6d573c98a8ee1e3d4cf98755d01dfaab354f8cfaf2f0237679138",
+        "url": "https://www.dutchitchannel.nl/news/700812/datalek-bij-zorgverzekeraar-cz",
+        "title": "Datalek bij zorgverzekeraar CZ door technisch probleem bij externe IT-dienstverlener",
+        "date_published": "2025-09-06T14:44:00Z",
+        "date_modified": "2025-09-06T14:44:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitchannel.nl"
+        },
+        "content_html": "",
+        "content_text": "CZ | Financi\u00eble instellingen | 04-09-2025 | DataLekt.nl: Zorgverzekeraar CZ is op 21 augustus 2025 getroffen door een datalek nadat door een technisch probleem in de MijnCZ-omgeving berichten zichtbaar waren voor andere verzekerden. Het incident werd veroorzaakt door een fout bij een externe IT-dienstverlener. In totaal zijn 105 klanten getroffen; zij konden korte tijd persoonlijke berichten van anderen inzien. CZ sloot de toegang tot MijnCZ direct af, loste het probleem snel op en informeerde de betrokkenen persoonlijk via telefoon en brief. Het is niet duidelijk welke aanvullende ondersteuning de verzekeraar biedt. (Bron: dutchitchannel.nl)"
+    },
+    {
+        "id": "https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=7ba5c4bf66d4311a792bf885dad8af5f2dafecd729fbcd67db751b5a78c0bca1",
+        "url": "https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht",
+        "title": "Van der Valk Hotel Zuidas getroffen door datalek na phishingaanval op medewerkers",
+        "date_published": "2025-09-06T14:43:00Z",
+        "date_modified": "2025-09-06T14:43:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nhnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Van der Valk Hotel Zuidas | Logies-, maaltijd- en drankverstrekking | 04-09-2025 | DataLekt.nl: Het Van der Valk Hotel Zuidas is getroffen door een datalek waarbij persoonsgegevens van 302 klanten zijn buitgemaakt. Hackers wisten via een nagemaakte inlogpagina de inloggegevens van medewerkers te verkrijgen en kregen zo toegang tot adressen, telefoonnummers en boekingsgegevens van gasten. Met deze informatie konden oplichters zich geloofwaardig voordoen als het hotel en klanten benaderen. Ten minste \u00e9\u00e9n klant is hierdoor opgelicht en verloor 200 euro na het invoeren van haar creditcardgegevens via een nepbericht. Het hotel heeft klanten ge\u00efnformeerd en de Autoriteit Persoonsgegevens ingelicht. (Bron: nhnieuws.nl)"
+    },
+    {
         "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine?datalekt=44b2d00da75c4ad2e9f381ade101de85dabf1c6f1959616337536cae95fe3c59",
         "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine",
         "title": "Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Nederlandse Zorgautoriteit (NZa) | Overheid: Zelfstandige bestuursorganen | 31-08-2023 | DataLekt.nl: Sinds 1 juli verzamelt de Nederlandse Zorgautoriteit (NZa) persoonlijke gegevens van alle GGZ-pati\u00ebnten in Nederland via de HONOS+lijsten, vragenlijsten met gevoelige informatie. Deze data, afkomstig van circa 800 duizend pati\u00ebnten, dient voor de ontwikkeling van een nieuw algoritme ter verbetering van de zorg. Echter, er zijn fouten gemaakt bij het invoeren van deze lijsten. Uit mailwisselingen tussen de NZa en de Autoriteit Persoonsgegevens (AP) blijkt dat de NZa de AP onvoldoende heeft ge\u00efnformeerd over de privacyrisico&#039;s van deze maatregel. [Update: Op 23 april 2025 heeft de rechter bepaald dat NZa gegevens van pati\u00ebnten bij psychiaters en psychologen mocht opvragen.] (Bron: vpro.nl)"
-    },
-    {
-        "id": "https://www.digitaltrustcenter.nl/ondernemersverhalen/hoe-een-hack-een-brabantse-plantenkwekerij-bijna-stillegde?datalekt=3cab586cbf0e0e30fbdab0e6055bfff2964045aae00a16dfb70ce7d65d6e4db3",
-        "url": "https://www.digitaltrustcenter.nl/ondernemersverhalen/hoe-een-hack-een-brabantse-plantenkwekerij-bijna-stillegde",
-        "title": "Kwekerij de Groot uit Prinsenbeek getroffen door ransomware-aanval; geautomatiseerde bedrijfsvoering bijna volledig stilgelegd",
-        "date_published": "2025-04-25T16:41:00Z",
-        "date_modified": "2025-04-25T16:41:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "digitaltrustcenter.nl"
-        },
-        "content_html": "",
-        "content_text": "Kwekerij de Groot | Landbouw, bosbouw en visserij | 24-04-2025 | DataLekt.nl: Kwekerij de Groot, een Brabantse plantenkwekerij in Prinsenbeek, werd getroffen door een ransomware-aanval waarbij centrale configuratiebestanden van het geautomatiseerde teeltsysteem werden versleuteld. Door het faillissement van de oorspronkelijke softwareleverancier was herstel lastig en risicovol. De back-ups bleken ook besmet, waardoor \u00e9\u00e9n systeemfout de hele bedrijfsvoering had kunnen stilleggen. Dankzij recente cloudmigraties kon een deel van de bedrijfsfuncties worden hervat. Er is aangifte gedaan en inmiddels zijn extra maatregelen genomen. (Bron: digitaltrustcenter.nl)"
-    },
-    {
-        "id": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html?datalekt=a0f6977bf4f62eb401a186e3b37001090e06a30db326174202e075099e02bf6a",
-        "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/pijnlijk-datalek-bij-zaffier.-financiele-gegevens-van-bijna-honderd-mensen-dreigen-door-verkeerde-retourenvelop-op-straat-te-belanden/52542506.html",
-        "title": "Datalek bij Zaffier: retourenveloppen met financi\u00eble gegevens van 93 inwoners mogelijk onveilig verwerkt",
-        "date_published": "2025-04-03T14:19:00Z",
-        "date_modified": "2025-04-23T15:48:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "noordhollandsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "Zaffier | Overige dienstverlening | 01-04-2025 | DataLekt.nl: Op 1 april 2025 werd bekend dat Zaffier in de regio Alkmaar een datalek heeft veroorzaakt waarbij gevoelige financi\u00eble informatie van 93 inwoners mogelijk op straat is beland. De betrokkenen moesten persoonlijke gegevens opsturen voor een heronderzoek naar hun uitkering, maar ontvingen daarvoor onjuist geadresseerde retourenveloppen. Hierdoor bestond het risico dat gegevens bij verkeerde ontvangers terechtkwamen. [Update: Op 20 april 2025 is bekend geworden dat er geen priv\u00e9gegevens van inwoners regio Alkmaar in verkeerde handen zijn terechtgekomen.] (Bron: noordhollandsdagblad.nl)"
     }
 ]
