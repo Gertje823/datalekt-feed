@@ -7,21 +7,21 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 06 Sep 2025 18:25:06 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 08 Sep 2025 18:30:10 +0000</lastBuildDate>
 		<item>
 			<title>Datalek bij zorgverzekeraar CZ door technisch probleem bij externe IT-dienstverlener</title>
 			<link>https://www.dutchitchannel.nl/news/700812/datalek-bij-zorgverzekeraar-cz</link>
-			<description>CZ | Financiële instellingen | 04-09-2025 | DataLekt.nl: Zorgverzekeraar CZ is op 21 augustus 2025 getroffen door een datalek nadat door een technisch probleem in de MijnCZ-omgeving berichten zichtbaar waren voor andere verzekerden. Het incident werd veroorzaakt door een fout bij een externe IT-dienstverlener. In totaal zijn 105 klanten getroffen; zij konden korte tijd persoonlijke berichten van anderen inzien. CZ sloot de toegang tot MijnCZ direct af, loste het probleem snel op en informeerde de betrokkenen persoonlijk via telefoon en brief. Het is niet duidelijk welke aanvullende ondersteuning de verzekeraar biedt. (Bron: dutchitchannel.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/700812/datalek-bij-zorgverzekeraar-cz?datalekt=5e70bdc057e6d573c98a8ee1e3d4cf98755d01dfaab354f8cfaf2f0237679138</guid>
-			<category>Financiële instellingen </category>
+			<description>CZ | Financiële diensten | 04-09-2025 | DataLekt.nl: Zorgverzekeraar CZ is op 21 augustus 2025 getroffen door een datalek nadat door een technisch probleem in de MijnCZ-omgeving berichten zichtbaar waren voor andere verzekerden. Het incident werd veroorzaakt door een fout bij een externe IT-dienstverlener. In totaal zijn 105 klanten getroffen; zij konden korte tijd persoonlijke berichten van anderen inzien. CZ sloot de toegang tot MijnCZ direct af, loste het probleem snel op en informeerde de betrokkenen persoonlijk via telefoon en brief. Het is niet duidelijk welke aanvullende ondersteuning de verzekeraar biedt. (Bron: dutchitchannel.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/700812/datalek-bij-zorgverzekeraar-cz?datalekt=27a3626f49255192e9d6d111daec806b1a8c7c02d503a4044066a9e82f18e3e9</guid>
+			<category>Financiële diensten </category>
 			<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Van der Valk Hotel Zuidas getroffen door datalek na phishingaanval op medewerkers</title>
 			<link>https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht</link>
-			<description>Van der Valk Hotel Zuidas | Logies-, maaltijd- en drankverstrekking | 04-09-2025 | DataLekt.nl: Het Van der Valk Hotel Zuidas is getroffen door een datalek waarbij persoonsgegevens van 302 klanten zijn buitgemaakt. Hackers wisten via een nagemaakte inlogpagina de inloggegevens van medewerkers te verkrijgen en kregen zo toegang tot adressen, telefoonnummers en boekingsgegevens van gasten. Met deze informatie konden oplichters zich geloofwaardig voordoen als het hotel en klanten benaderen. Ten minste één klant is hierdoor opgelicht en verloor 200 euro na het invoeren van haar creditcardgegevens via een nepbericht. Het hotel heeft klanten geïnformeerd en de Autoriteit Persoonsgegevens ingelicht. (Bron: nhnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=7ba5c4bf66d4311a792bf885dad8af5f2dafecd729fbcd67db751b5a78c0bca1</guid>
-			<category>Logies-, maaltijd- en drankverstrekking </category>
+			<description>Van der Valk Hotel Zuidas | Horeca | 04-09-2025 | DataLekt.nl: Het Van der Valk Hotel Zuidas is getroffen door een datalek waarbij persoonsgegevens van 302 klanten zijn buitgemaakt. Hackers wisten via een nagemaakte inlogpagina de inloggegevens van medewerkers te verkrijgen en kregen zo toegang tot adressen, telefoonnummers en boekingsgegevens van gasten. Met deze informatie konden oplichters zich geloofwaardig voordoen als het hotel en klanten benaderen. Ten minste één klant is hierdoor opgelicht en verloor 200 euro na het invoeren van haar creditcardgegevens via een nepbericht. Het hotel heeft klanten geïnformeerd en de Autoriteit Persoonsgegevens ingelicht. (Bron: nhnieuws.nl)</description>
+			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=14235aac658c74acd61bf3d1624b9c66ba968df280a4a6df914e7a91ec9f9ae0</guid>
+			<category>Horeca </category>
 			<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -35,9 +35,9 @@
 		<item>
 			<title>Knas lekt persoonsgegevens door foutieve publicatie van Excel-bestand met wereldbekerinschrijvingen</title>
 			<link>https://www.knas.nl/node/3896</link>
-			<description>KNAS | Cultuur, sport en recreatie | 25-08-2025 | DataLekt.nl: Tussen 18 en 20 augustus heeft de Koninklijke Nederlandse Algemene Schermbond (KNAS) per ongeluk een Excel-bestand online gezet met meer persoonsgegevens dan bedoeld. Het bestand stond op de inschrijfpagina voor wereldbekerwedstrijden en bevatte gegevens die normaal niet zichtbaar zijn in de gebruikelijke PDF-versie. Op 25 augustus zijn de betrokken schermers geïnformeerd over het datalek. De KNAS biedt excuses aan en benadrukt dat zorgvuldig met persoonsgegevens wordt omgegaan. (Bron: knas.nl)</description>
-			<guid isPermaLink="false">https://www.knas.nl/node/3896?datalekt=dd5233451f84a9a37f3fd26624023691a7e0f6233779cee569c97313564e8d3f</guid>
-			<category>Cultuur, sport en recreatie </category>
+			<description>KNAS | Kunst, cultuur en recreatie | 25-08-2025 | DataLekt.nl: Tussen 18 en 20 augustus heeft de Koninklijke Nederlandse Algemene Schermbond (KNAS) per ongeluk een Excel-bestand online gezet met meer persoonsgegevens dan bedoeld. Het bestand stond op de inschrijfpagina voor wereldbekerwedstrijden en bevatte gegevens die normaal niet zichtbaar zijn in de gebruikelijke PDF-versie. Op 25 augustus zijn de betrokken schermers geïnformeerd over het datalek. De KNAS biedt excuses aan en benadrukt dat zorgvuldig met persoonsgegevens wordt omgegaan. (Bron: knas.nl)</description>
+			<guid isPermaLink="false">https://www.knas.nl/node/3896?datalekt=2a1d14b6e830922ef17c53dfa41046f3874994dc986d6a609f7b72ab230b1c1f</guid>
+			<category>Kunst, cultuur en recreatie </category>
 			<pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -91,9 +91,9 @@
 		<item>
 			<title>Autoriteit Persoonsgegevens beboet curator voor verkoop harde schijf met medische gegevens, rechter verlaagt boete</title>
 			<link>https://tweakers.net/nieuws/238074/ap-deelt-eerste-boete-aan-individu-uit-maar-rechter-verlaagt-boetebedrag.html</link>
-			<description>Onbekende curator | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 14-08-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens legde in mei 2020 een boete van 310.000 euro op aan een faillissementscurator die een server met harde schijf vol medische gegevens van een failliete zorginstelling had verkocht. Na bezwaar werd het bedrag verlaagd naar 148.750 euro. De curator stapte naar de rechter, die oordeelde dat de boete terecht was, maar te hoog. De rechter verlaagde het bedrag naar 58.125 euro, onder meer omdat de curator deels maatregelen had genomen en de AP veel te traag handelde. Het is de eerste keer dat de AP een boete aan een natuurlijk persoon oplegt; in dit geval trad de betrokkene op in een professionele hoedanigheid als curator. Het incident begon in 2018 na een tip van een koper van de faillissementsboedel. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/238074/ap-deelt-eerste-boete-aan-individu-uit-maar-rechter-verlaagt-boetebedrag.html?datalekt=b785da4cf80078bffdcfb00d237898c72714f7e9f70e5a1fb1525f382e2da8cd</guid>
-			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<description>Onbekende curator | Wetenschap, techniek en specialistische diensten | 14-08-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens legde in mei 2020 een boete van 310.000 euro op aan een faillissementscurator die een server met harde schijf vol medische gegevens van een failliete zorginstelling had verkocht. Na bezwaar werd het bedrag verlaagd naar 148.750 euro. De curator stapte naar de rechter, die oordeelde dat de boete terecht was, maar te hoog. De rechter verlaagde het bedrag naar 58.125 euro, onder meer omdat de curator deels maatregelen had genomen en de AP veel te traag handelde. Het is de eerste keer dat de AP een boete aan een natuurlijk persoon oplegt; in dit geval trad de betrokkene op in een professionele hoedanigheid als curator. Het incident begon in 2018 na een tip van een koper van de faillissementsboedel. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/238074/ap-deelt-eerste-boete-aan-individu-uit-maar-rechter-verlaagt-boetebedrag.html?datalekt=509f0bbbcda6528e7ffd42d3d1ed34d2588542f5ef869372cbd9b7128578c575</guid>
+			<category>Wetenschap, techniek en specialistische diensten </category>
 			<pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -219,9 +219,9 @@
 		<item>
 			<title>DDoS‑aanval op AZFanpage‑forum vanuit Brazilië, Bangkok en Bangladesh verstoort inlogsessies</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/alkmaar/ddos-cyberaanval-op-azfanpage-forum-vanuit-brazilie-bangkok-en-bangladesh-13-miljoen-keer-tegelijk-foutief-ingelogd/80596989.html</link>
-			<description>AZFanpage | Informatie en communicatie | 29-07-2025 | DataLekt.nl: Het AZFanpage‑forum, verbonden aan de voetbalclub AZ in Alkmaar, werd op 29‑07‑2025 getroffen door een grootschalige DDoS‑aanval. Criminelen vanuit Brazilië, Bangkok en Bangladesh logden gezamenlijk ongeveer 1,3 miljoen foutieve inlogpogingen tegelijkertijd uit, waardoor het forum onbereikbaar werd. Het incident lijkt veroorzaakt door kwaadwillende derden die trafiek uit verschillende geografische locaties gebruikten om de service te overbelasten. Van datalekken of verdere schade is niets gemeld. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/alkmaar/ddos-cyberaanval-op-azfanpage-forum-vanuit-brazilie-bangkok-en-bangladesh-13-miljoen-keer-tegelijk-foutief-ingelogd/80596989.html?datalekt=3d41953a9e86deb842395140ea26247438c45f19af334a7521b88ebf53ee2c28</guid>
-			<category>Informatie en communicatie </category>
+			<description>AZFanpage | Media en inhoud | 29-07-2025 | DataLekt.nl: Het AZFanpage‑forum, verbonden aan de voetbalclub AZ in Alkmaar, werd op 29‑07‑2025 getroffen door een grootschalige DDoS‑aanval. Criminelen vanuit Brazilië, Bangkok en Bangladesh logden gezamenlijk ongeveer 1,3 miljoen foutieve inlogpogingen tegelijkertijd uit, waardoor het forum onbereikbaar werd. Het incident lijkt veroorzaakt door kwaadwillende derden die trafiek uit verschillende geografische locaties gebruikten om de service te overbelasten. Van datalekken of verdere schade is niets gemeld. (Bron: noordhollandsdagblad.nl)</description>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/alkmaar/ddos-cyberaanval-op-azfanpage-forum-vanuit-brazilie-bangkok-en-bangladesh-13-miljoen-keer-tegelijk-foutief-ingelogd/80596989.html?datalekt=f12103d7da9174639e96d2527d75e8e1d770b7757e477ff5a1171b8b1a1098d4</guid>
+			<category>Media en inhoud </category>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -259,9 +259,9 @@
 		<item>
 			<title>Buienradar van RTL Nederland tijdelijk onbereikbaar door DDoS-aanval</title>
 			<link>https://www.droidapp.nl/nieuws/buienradar-kampt-met-storing-21-juli/</link>
-			<description>RTL Nederland | Informatie en communicatie | 21-07-2025 | DataLekt.nl: Buienradar, een populaire weerapplicatie van RTL Nederland, is op 21 juli getroffen door een DDoS-aanval, waardoor zowel de app als de website tijdelijk slecht of niet bereikbaar waren. Door de aanval werd een enorme hoeveelheid verkeer naar de servers gestuurd, wat resulteerde in overbelasting van het systeem. De dienst meldde dat de functionaliteit beperkt beschikbaar was en werkt aan een oplossing, al is nog onbekend wanneer het probleem volledig is opgelost. (Bron: droidapp.nl)</description>
-			<guid isPermaLink="false">https://www.droidapp.nl/nieuws/buienradar-kampt-met-storing-21-juli/?datalekt=2885e65a58da354d56cc79b3bb0ac7d258aba6774015e3fefcf42a2916006cd4</guid>
-			<category>Informatie en communicatie </category>
+			<description>RTL Nederland | Media en inhoud | 21-07-2025 | DataLekt.nl: Buienradar, een populaire weerapplicatie van RTL Nederland, is op 21 juli getroffen door een DDoS-aanval, waardoor zowel de app als de website tijdelijk slecht of niet bereikbaar waren. Door de aanval werd een enorme hoeveelheid verkeer naar de servers gestuurd, wat resulteerde in overbelasting van het systeem. De dienst meldde dat de functionaliteit beperkt beschikbaar was en werkt aan een oplossing, al is nog onbekend wanneer het probleem volledig is opgelost. (Bron: droidapp.nl)</description>
+			<guid isPermaLink="false">https://www.droidapp.nl/nieuws/buienradar-kampt-met-storing-21-juli/?datalekt=91f415f0c52bd9f4146222fb726d45b7c15c071475bcfcedfcf9ff3ea603f338</guid>
+			<category>Media en inhoud </category>
 			<pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -315,9 +315,9 @@
 		<item>
 			<title>Gemeente Almere schiet in 2024 tekort in bescherming persoonsgegevens en naleving privacywetgeving</title>
 			<link>https://www.security.nl/posting/895367/FG%3A+gemeente+Almere+beschermt+persoonsgegevens+burgers+onvoldoende</link>
-			<description>Gemeente Almere | Informatie en communicatie | 08-07-2025 | DataLekt.nl: De Functionaris Gegevensbescherming van de gemeente Almere stelt in de Privacy Jaarrapportage 2024 dat de gemeente persoonsgegevens van burgers onvoldoende beschermt. Er is gebrekkige registratie van datalekken, preventieve maatregelen ontbreken of worden niet opgevolgd en meldingen van datalekken gebeuren vaak te laat. Bovendien zijn verplichte DPIA’s voor risicovolle verwerkingen niet uitgevoerd, ondanks eerder gestelde doelen. De gemeente erkent de tekortkomingen en geeft aan dat er vooruitgang is geboekt, maar dat het gewenste volwassenheidsniveau rond privacybescherming nog niet is bereikt. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/895367/FG%3A+gemeente+Almere+beschermt+persoonsgegevens+burgers+onvoldoende?datalekt=0babb284610e57e47f4b5e17b057738cd8714bfff53be389a88c9807c564f15f</guid>
-			<category>Informatie en communicatie </category>
+			<description>Gemeente Almere | ICT en telecommunicatie | 08-07-2025 | DataLekt.nl: De Functionaris Gegevensbescherming van de gemeente Almere stelt in de Privacy Jaarrapportage 2024 dat de gemeente persoonsgegevens van burgers onvoldoende beschermt. Er is gebrekkige registratie van datalekken, preventieve maatregelen ontbreken of worden niet opgevolgd en meldingen van datalekken gebeuren vaak te laat. Bovendien zijn verplichte DPIA’s voor risicovolle verwerkingen niet uitgevoerd, ondanks eerder gestelde doelen. De gemeente erkent de tekortkomingen en geeft aan dat er vooruitgang is geboekt, maar dat het gewenste volwassenheidsniveau rond privacybescherming nog niet is bereikt. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/895367/FG%3A+gemeente+Almere+beschermt+persoonsgegevens+burgers+onvoldoende?datalekt=79d4c3a937611eaadeb202d1977089d2384fbf186bff243b49fd6bee24984fe4</guid>
+			<category>ICT en telecommunicatie </category>
 			<pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -331,9 +331,9 @@
 		<item>
 			<title>Stichting Oud Lemmer beboet voor onrechtmatig livestreamen van camerabeelden openbare ruimte</title>
 			<link>https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer</link>
-			<description>Stichting Oud Lemmer | Cultuur, sport en recreatie | 09-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Stichting Oud Lemmer een boete van €500 opgelegd wegens het verwerken van persoonsgegevens zonder wettelijke grondslag. De stichting plaatste twee camera’s gericht op de openbare ruimte in Lemmer, waarvan de beelden 24/7 live werden gestreamd via een website. Hierbij kwamen personen en woningen herkenbaar in beeld. De AP oordeelde dat de stichting ten onrechte een beroep deed op het gerechtvaardigd belang en dat de privacybelangen van betrokkenen zwaarder wegen. De stichting kreeg daarnaast een last onder dwangsom opgelegd van maximaal €2.000 om de beelden aan te passen of de camera’s te verwijderen. (Bron: autoriteitpersoonsgegevens.nl)</description>
-			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer?datalekt=5db00398aeb314215635740972f5d549704a3e99546f9d0a159b21ab0b94e149</guid>
-			<category>Cultuur, sport en recreatie </category>
+			<description>Stichting Oud Lemmer | Kunst, cultuur en recreatie | 09-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Stichting Oud Lemmer een boete van €500 opgelegd wegens het verwerken van persoonsgegevens zonder wettelijke grondslag. De stichting plaatste twee camera’s gericht op de openbare ruimte in Lemmer, waarvan de beelden 24/7 live werden gestreamd via een website. Hierbij kwamen personen en woningen herkenbaar in beeld. De AP oordeelde dat de stichting ten onrechte een beroep deed op het gerechtvaardigd belang en dat de privacybelangen van betrokkenen zwaarder wegen. De stichting kreeg daarnaast een last onder dwangsom opgelegd van maximaal €2.000 om de beelden aan te passen of de camera’s te verwijderen. (Bron: autoriteitpersoonsgegevens.nl)</description>
+			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer?datalekt=e0095593eb353a96d0fff53c437fae665c06dfb69a0b29adc8b84c9961c1728d</guid>
+			<category>Kunst, cultuur en recreatie </category>
 			<pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -451,9 +451,9 @@
 		<item>
 			<title>Cyberaanval op Center Parcs treft boekingssysteem en 20.000 klanten</title>
 			<link>https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten</link>
-			<description>Center Parcs | Cultuur, sport en recreatie | 16-06-2025 | DataLekt.nl: Op 4 juni 2025 is Center Parcs getroffen door een cyberaanval op een systeem dat werd gebruikt voor telefonische boekingen. Bij deze aanval zijn persoonsgegevens van circa 20.000 klanten in Europa buitgemaakt, waaronder namen, e-mailadressen en boekingsgegevens zoals reserveringsnummers, locaties en verblijfsduur. Gevoelige informatie zoals financiële data, wachtwoorden, telefoonnummers of adressen zijn volgens het bedrijf niet gelekt. De aanval werd op 6 juni gestopt en het incident is gemeld aan de Franse privacytoezichthouder CNIL. Klanten zijn inmiddels geïnformeerd en Center Parcs overweegt een klacht in te dienen bij de politie. (Bron: dutchitchannel.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten?datalekt=1a9a0c1227c28da6f2de2b3fea6f04622d5d461d9a577ed05b4b81fbc9df01e0</guid>
-			<category>Cultuur, sport en recreatie </category>
+			<description>Center Parcs | Kunst, cultuur en recreatie | 16-06-2025 | DataLekt.nl: Op 4 juni 2025 is Center Parcs getroffen door een cyberaanval op een systeem dat werd gebruikt voor telefonische boekingen. Bij deze aanval zijn persoonsgegevens van circa 20.000 klanten in Europa buitgemaakt, waaronder namen, e-mailadressen en boekingsgegevens zoals reserveringsnummers, locaties en verblijfsduur. Gevoelige informatie zoals financiële data, wachtwoorden, telefoonnummers of adressen zijn volgens het bedrijf niet gelekt. De aanval werd op 6 juni gestopt en het incident is gemeld aan de Franse privacytoezichthouder CNIL. Klanten zijn inmiddels geïnformeerd en Center Parcs overweegt een klacht in te dienen bij de politie. (Bron: dutchitchannel.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten?datalekt=f88a388b46015598a3c8a8febba019a24bdcab35d14ba94efd2dae2e997eab2c</guid>
+			<category>Kunst, cultuur en recreatie </category>
 			<pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -467,17 +467,17 @@
 		<item>
 			<title>Ab Ovo getroffen door ransomware aanval van de criminele organisatie Akira</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Ab Ovo | Informatie en communicatie | 16-06-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij Ab Ovo heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f62befc8833915a5111a8cc53ebae6044721ec4a39f95885000e3e274a24d572</guid>
-			<category>Informatie en communicatie </category>
+			<description>Ab Ovo | ICT en telecommunicatie | 16-06-2025 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij Ab Ovo heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=3e07324112362a103fe4571b354bed99664116d597c30ac5eda49861c9253b8a</guid>
+			<category>ICT en telecommunicatie </category>
 			<pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Unibet moet gokgegevens verstrekken na uitspraak rechtbank Amsterdam</title>
 			<link>https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/</link>
-			<description>Unibet | Cultuur, sport en recreatie | 10-06-2025 | DataLekt.nl: De Rechtbank Amsterdam heeft op 22 mei 2025 bepaald dat Unibet, via haar voormalige houdstermaatschappij Trannel Limited International, een speler inzage moet geven in zijn gokgegevens. Dit volgde op een civiel AVG-verzoek van de speler, nadat Unibet inzage weigerde en zich beriep op Europese en Maltese wetgeving. De rechter oordeelde dat deze weigering onterecht was en legde een dwangsom op van € 250 per dag met een maximum van € 10.000. Unibet is gevestigd op Malta, maar handelt op de Nederlandse markt onder vergunning van de Kansspelautoriteit. De uitspraak onderstreept dat het doel van een AVG-verzoek geen reden mag zijn om inzage te weigeren. (Bron: casinonieuws.nl)</description>
-			<guid isPermaLink="false">https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/?datalekt=7863658263a2b59dc53d46fcc815f9d9bef871bd1c3be44241290b6e89fb9410</guid>
-			<category>Cultuur, sport en recreatie </category>
+			<description>Unibet | Kunst, cultuur en recreatie | 10-06-2025 | DataLekt.nl: De Rechtbank Amsterdam heeft op 22 mei 2025 bepaald dat Unibet, via haar voormalige houdstermaatschappij Trannel Limited International, een speler inzage moet geven in zijn gokgegevens. Dit volgde op een civiel AVG-verzoek van de speler, nadat Unibet inzage weigerde en zich beriep op Europese en Maltese wetgeving. De rechter oordeelde dat deze weigering onterecht was en legde een dwangsom op van € 250 per dag met een maximum van € 10.000. Unibet is gevestigd op Malta, maar handelt op de Nederlandse markt onder vergunning van de Kansspelautoriteit. De uitspraak onderstreept dat het doel van een AVG-verzoek geen reden mag zijn om inzage te weigeren. (Bron: casinonieuws.nl)</description>
+			<guid isPermaLink="false">https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/?datalekt=daa8187b6e37202d09ad6b51e8e0947ca87b5f3772b8141395fa2c49cfcf1463</guid>
+			<category>Kunst, cultuur en recreatie </category>
 			<pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -539,9 +539,9 @@
 		<item>
 			<title>Facebookhack legt jonge onderneming Boutoi maandenlang plat</title>
 			<link>https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers</link>
-			<description>Boutoi | Cultuur, sport en recreatie | 03-05-2025 | DataLekt.nl: In april 2024 verloor een Nederlandse startup de toegang tot zijn zakelijke Facebookpagina nadat een hacker zichzelf beheerder had gemaakt. Via het account werden ongewenste advertenties geplaatst en werd de gekoppelde creditcard misbruikt. Pas na acht maanden werd de pagina hersteld. De onderneming liep in die periode naar schatting 200.000 euro omzet mis. Het verlies aan toegang tot het verkoopkanaal had langdurige impact. (Bron: rtl.nl)</description>
-			<guid isPermaLink="false">https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers?datalekt=d8375254d69fa096b1cfdbe44a83ac8a9287e5648cbb05fa6e84a82dc11383c8</guid>
-			<category>Cultuur, sport en recreatie </category>
+			<description>Boutoi | Kunst, cultuur en recreatie | 03-05-2025 | DataLekt.nl: In april 2024 verloor een Nederlandse startup de toegang tot zijn zakelijke Facebookpagina nadat een hacker zichzelf beheerder had gemaakt. Via het account werden ongewenste advertenties geplaatst en werd de gekoppelde creditcard misbruikt. Pas na acht maanden werd de pagina hersteld. De onderneming liep in die periode naar schatting 200.000 euro omzet mis. Het verlies aan toegang tot het verkoopkanaal had langdurige impact. (Bron: rtl.nl)</description>
+			<guid isPermaLink="false">https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers?datalekt=9bc69f1a5ab4286b81f383ff907f0f82b93d132687da1a0085bfb0d1b2d886e3</guid>
+			<category>Kunst, cultuur en recreatie </category>
 			<pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -563,9 +563,9 @@
 		<item>
 			<title>ABFIAD Groep getroffen door ransomware aanval van de criminele organisatie Safepay</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>ABFIAD Groep | Advisering, onderzoek en overige specialistische zakelijke dienstverlening | 11-05-2025 | DataLekt.nl: De criminele organisatie Safepay heeft op het darkweb aangekondigd dat zij ABFIAD Groep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1d773739348252133cd039c49da7d95e5bc67765bad64c18ee8a0fb7241cd8fd</guid>
-			<category>Advisering, onderzoek en overige specialistische zakelijke dienstverlening </category>
+			<description>ABFIAD Groep | Wetenschap, techniek en specialistische diensten | 11-05-2025 | DataLekt.nl: De criminele organisatie Safepay heeft op het darkweb aangekondigd dat zij ABFIAD Groep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=02db817dedd28963c9d6c4361dd587f1595dace58072b677f44f2c698a5f8a25</guid>
+			<category>Wetenschap, techniek en specialistische diensten </category>
 			<pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -627,9 +627,9 @@
 		<item>
 			<title>NRC getroffen door ddos-aanval: website en app tijdelijk slecht bereikbaar</title>
 			<link>https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html</link>
-			<description>NRC | Informatie en communicatie | 30-04-2025 | DataLekt.nl: Op 30 april 2025 werd NRC slachtoffer van een ddos-aanval waardoor de website en app van de krant tijdelijk slecht bereikbaar waren. Bij deze aanval werd de server overspoeld met dataverkeer vanuit een netwerk van gehackte apparaten, waardoor gebruikers onder andere inlogproblemen ervoeren. De krant werkt aan een oplossing. De dader is nog onbekend. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html?datalekt=dad3fb7f089ffacf9d029668ea84863e54e3bf86761d5ffe092594740c3c746f</guid>
-			<category>Informatie en communicatie </category>
+			<description>NRC | Media en inhoud | 30-04-2025 | DataLekt.nl: Op 30 april 2025 werd NRC slachtoffer van een ddos-aanval waardoor de website en app van de krant tijdelijk slecht bereikbaar waren. Bij deze aanval werd de server overspoeld met dataverkeer vanuit een netwerk van gehackte apparaten, waardoor gebruikers onder andere inlogproblemen ervoeren. De krant werkt aan een oplossing. De dader is nog onbekend. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html?datalekt=c4130a781d32adc2219b6c8853e3e623aacd205d285a39175b98c9471bcdea47</guid>
+			<category>Media en inhoud </category>
 			<pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -715,9 +715,9 @@
 		<item>
 			<title>Website Almelo Events gehackt: bezoekers kregen webwinkel voor erectiepillen en vibrators te zien</title>
 			<link>https://www.tubantia.nl/almelo/erectiepillen-en-vibrators-in-plaats-van-een-plekje-op-de-almelose-oranjemarkt~a8f3fad6/</link>
-			<description>Stichting Almelo Events | Cultuur, sport en recreatie | 24-04-2025 | DataLekt.nl: In april 2025 werd de website van Almelo Events gehackt, waardoor bezoekers die zich wilden inschrijven voor de Oranjemarkt op Koningsdag werden doorgestuurd naar een site voor erectiepillen en vibrators. De website lag dagenlang plat tijdens de Paasdagen. Herstel kostte de organisatie 250 euro. De oorzaak en herkomst van de hack zijn onbekend. Ondanks het incident verwacht Almelo Events een geslaagde Koningsdag. (Bron: tubantia.nl)</description>
-			<guid isPermaLink="false">https://www.tubantia.nl/almelo/erectiepillen-en-vibrators-in-plaats-van-een-plekje-op-de-almelose-oranjemarkt~a8f3fad6/?datalekt=c1be2162443e3364ace9d74ece78c27cf3b78563c144314544cd425b97fa0a12</guid>
-			<category>Cultuur, sport en recreatie </category>
+			<description>Stichting Almelo Events | Kunst, cultuur en recreatie | 24-04-2025 | DataLekt.nl: In april 2025 werd de website van Almelo Events gehackt, waardoor bezoekers die zich wilden inschrijven voor de Oranjemarkt op Koningsdag werden doorgestuurd naar een site voor erectiepillen en vibrators. De website lag dagenlang plat tijdens de Paasdagen. Herstel kostte de organisatie 250 euro. De oorzaak en herkomst van de hack zijn onbekend. Ondanks het incident verwacht Almelo Events een geslaagde Koningsdag. (Bron: tubantia.nl)</description>
+			<guid isPermaLink="false">https://www.tubantia.nl/almelo/erectiepillen-en-vibrators-in-plaats-van-een-plekje-op-de-almelose-oranjemarkt~a8f3fad6/?datalekt=c2b148c60f7bab502e86af64d7c6ab296a0e0a4c05a743fc765b933b150efb02</guid>
+			<category>Kunst, cultuur en recreatie </category>
 			<pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -787,9 +787,9 @@
 		<item>
 			<title>Datadiefstal bij Haarlems bedrijf door 25-jarige man uit Purmerend</title>
 			<link>https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/man-25-uit-purmerend-aangehouden-voor-hack-van-honderdduizenden-klantgegevens-bij-bedrijf-in-haarlem/11554585.html</link>
-			<description>VodafoneZiggo | Informatie en communicatie | 05-05-2023 | DataLekt.nl: Een 25-jarige man uit Purmerend is aangehouden wegens verdenking van datadiefstal bij een onbekend bedrijf in Haarlem. De verdachte dreigde de gestolen gegevens openbaar te maken of te verkopen als er niet vóór 5 mei een losgeld van 50.000 euro in bitcoins werd betaald. Het specifieke bedrijf en de aard van de gestolen gegevens zijn niet bekendgemaakt door de politie, daar dit deel uitmaakt van het lopende onderzoek. Het bedrijf heeft eerder deze week aangifte gedaan bij de politie na ontvangst van de losgeldeis. De exacte datum van de cyberaanval is onbekend. [Update: Op 30 juli 2025 is bekend geworden dat VodafoneZiggo de getroffen organisatie is.] (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/man-25-uit-purmerend-aangehouden-voor-hack-van-honderdduizenden-klantgegevens-bij-bedrijf-in-haarlem/11554585.html?datalekt=bec9c0e54ef887de2326622ee1e9b3493b1031c869f49cd0a620444e9724d366</guid>
-			<category>Informatie en communicatie </category>
+			<description>VodafoneZiggo | ICT en telecommunicatie | 05-05-2023 | DataLekt.nl: Een 25-jarige man uit Purmerend is aangehouden wegens verdenking van datadiefstal bij een onbekend bedrijf in Haarlem. De verdachte dreigde de gestolen gegevens openbaar te maken of te verkopen als er niet vóór 5 mei een losgeld van 50.000 euro in bitcoins werd betaald. Het specifieke bedrijf en de aard van de gestolen gegevens zijn niet bekendgemaakt door de politie, daar dit deel uitmaakt van het lopende onderzoek. Het bedrijf heeft eerder deze week aangifte gedaan bij de politie na ontvangst van de losgeldeis. De exacte datum van de cyberaanval is onbekend. [Update: Op 30 juli 2025 is bekend geworden dat VodafoneZiggo de getroffen organisatie is.] (Bron: noordhollandsdagblad.nl)</description>
+			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/man-25-uit-purmerend-aangehouden-voor-hack-van-honderdduizenden-klantgegevens-bij-bedrijf-in-haarlem/11554585.html?datalekt=d3ec97d4bd9cb6c8a9f2817a7be79ec6506d22929fdfd577228ba2309da4c320</guid>
+			<category>ICT en telecommunicatie </category>
 			<pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
