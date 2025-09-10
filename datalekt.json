@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=031a01cd0e23b6f98eb832aaf70441a036c4cb33b20f0b6e23805667b8d66cf0",
+        "url": "https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht",
+        "title": "Van der Valk getroffen door datalek na phishingaanval op medewerkers",
+        "date_published": "2025-09-06T14:43:00Z",
+        "date_modified": "2025-09-09T13:20:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nhnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Van der Valk | Horeca | 04-09-2025 | DataLekt.nl: Het Van der Valk is getroffen door een datalek waarbij persoonsgegevens van 302 klanten zijn buitgemaakt. Hackers wisten via een nagemaakte inlogpagina de inloggegevens van medewerkers te verkrijgen en kregen zo toegang tot adressen, telefoonnummers en boekingsgegevens van gasten. Met deze informatie konden oplichters zich geloofwaardig voordoen als het hotel en klanten benaderen. Ten minste \u00e9\u00e9n klant is hierdoor opgelicht en verloor 200 euro na het invoeren van haar creditcardgegevens via een nepbericht. Het hotel heeft klanten ge\u00efnformeerd en de Autoriteit Persoonsgegevens ingelicht. [Update: Op 8 september 2025 is bekend geworden dat het datalek groter is en meerdere locaties heeft getroffen.] (Bron: nhnieuws.nl)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/238510/kleine-nederlandse-providers-waren-volgens-aivd-doelwit-van-chinese-hackersgroep.html?datalekt=799b4837290dac90cce7f6affea98cec720cae985e11095b6cfef86f39852b25",
+        "url": "https://tweakers.net/nieuws/238510/kleine-nederlandse-providers-waren-volgens-aivd-doelwit-van-chinese-hackersgroep.html",
+        "title": "Kleine Nederlandse internet- en hostingproviders doelwit van Chinese hackersgroep Salt Typhoon",
+        "date_published": "2025-09-09T13:16:00Z",
+        "date_modified": "2025-09-09T13:16:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Onbekende ISP en hostingproviders | ICT en telecommunicatie | 28-08-2025 | DataLekt.nl: De AIVD en MIVD hebben vastgesteld dat kleine Nederlandse internetservice- en hostingproviders doelwit zijn geweest van cyberaanvallen door de Chinese hackersgroep Salt Typhoon. De aanvallers verkregen toegang tot routers van deze providers, maar er zijn geen aanwijzingen dat zij verder in de interne netwerken zijn doorgedrongen. Eerder was al bekend dat dezelfde groep langdurig toegang had tot netwerken van grote Amerikaanse providers. Hoewel de focus volgens de inlichtingendiensten op de VS lag, benadrukken zij dat het aantal cyberoperaties met Nederlandse doelwitten toeneemt. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://www.dutchitchannel.nl/news/700812/datalek-bij-zorgverzekeraar-cz?datalekt=27a3626f49255192e9d6d111daec806b1a8c7c02d503a4044066a9e82f18e3e9",
         "url": "https://www.dutchitchannel.nl/news/700812/datalek-bij-zorgverzekeraar-cz",
         "title": "Datalek bij zorgverzekeraar CZ door technisch probleem bij externe IT-dienstverlener",
@@ -11,19 +37,6 @@
         },
         "content_html": "",
         "content_text": "CZ | Financi\u00eble diensten | 04-09-2025 | DataLekt.nl: Zorgverzekeraar CZ is op 21 augustus 2025 getroffen door een datalek nadat door een technisch probleem in de MijnCZ-omgeving berichten zichtbaar waren voor andere verzekerden. Het incident werd veroorzaakt door een fout bij een externe IT-dienstverlener. In totaal zijn 105 klanten getroffen; zij konden korte tijd persoonlijke berichten van anderen inzien. CZ sloot de toegang tot MijnCZ direct af, loste het probleem snel op en informeerde de betrokkenen persoonlijk via telefoon en brief. Het is niet duidelijk welke aanvullende ondersteuning de verzekeraar biedt. (Bron: dutchitchannel.nl)"
-    },
-    {
-        "id": "https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=14235aac658c74acd61bf3d1624b9c66ba968df280a4a6df914e7a91ec9f9ae0",
-        "url": "https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht",
-        "title": "Van der Valk Hotel Zuidas getroffen door datalek na phishingaanval op medewerkers",
-        "date_published": "2025-09-06T14:43:00Z",
-        "date_modified": "2025-09-06T14:43:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nhnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Van der Valk Hotel Zuidas | Horeca | 04-09-2025 | DataLekt.nl: Het Van der Valk Hotel Zuidas is getroffen door een datalek waarbij persoonsgegevens van 302 klanten zijn buitgemaakt. Hackers wisten via een nagemaakte inlogpagina de inloggegevens van medewerkers te verkrijgen en kregen zo toegang tot adressen, telefoonnummers en boekingsgegevens van gasten. Met deze informatie konden oplichters zich geloofwaardig voordoen als het hotel en klanten benaderen. Ten minste \u00e9\u00e9n klant is hierdoor opgelicht en verloor 200 euro na het invoeren van haar creditcardgegevens via een nepbericht. Het hotel heeft klanten ge\u00efnformeerd en de Autoriteit Persoonsgegevens ingelicht. (Bron: nhnieuws.nl)"
     },
     {
         "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine?datalekt=44b2d00da75c4ad2e9f381ade101de85dabf1c6f1959616337536cae95fe3c59",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Stichting Almelo Events | Kunst, cultuur en recreatie | 24-04-2025 | DataLekt.nl: In april 2025 werd de website van Almelo Events gehackt, waardoor bezoekers die zich wilden inschrijven voor de Oranjemarkt op Koningsdag werden doorgestuurd naar een site voor erectiepillen en vibrators. De website lag dagenlang plat tijdens de Paasdagen. Herstel kostte de organisatie 250 euro. De oorzaak en herkomst van de hack zijn onbekend. Ondanks het incident verwacht Almelo Events een geslaagde Koningsdag. (Bron: tubantia.nl)"
-    },
-    {
-        "id": "https://www.vpro.nl/argos/lees/onderwerpen/algoritme/2023/fouten-bij-totstandkoming-data-experiment-ggz.html?datalekt=d1e1dacde1b101bddedb0180fca4e974a04d4f41ca687be0210cd435945f6bfc",
-        "url": "https://www.vpro.nl/argos/lees/onderwerpen/algoritme/2023/fouten-bij-totstandkoming-data-experiment-ggz.html",
-        "title": "Fouten in dataverzameling door Nederlandse Zorgautoriteit in GGZ-sector",
-        "date_published": "2023-09-01T09:52:00Z",
-        "date_modified": "2025-04-25T16:47:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpro.nl"
-        },
-        "content_html": "",
-        "content_text": "Nederlandse Zorgautoriteit (NZa) | Overheid: Zelfstandige bestuursorganen | 31-08-2023 | DataLekt.nl: Sinds 1 juli verzamelt de Nederlandse Zorgautoriteit (NZa) persoonlijke gegevens van alle GGZ-pati\u00ebnten in Nederland via de HONOS+lijsten, vragenlijsten met gevoelige informatie. Deze data, afkomstig van circa 800 duizend pati\u00ebnten, dient voor de ontwikkeling van een nieuw algoritme ter verbetering van de zorg. Echter, er zijn fouten gemaakt bij het invoeren van deze lijsten. Uit mailwisselingen tussen de NZa en de Autoriteit Persoonsgegevens (AP) blijkt dat de NZa de AP onvoldoende heeft ge\u00efnformeerd over de privacyrisico&#039;s van deze maatregel. [Update: Op 23 april 2025 heeft de rechter bepaald dat NZa gegevens van pati\u00ebnten bij psychiaters en psychologen mocht opvragen.] (Bron: vpro.nl)"
     }
 ]

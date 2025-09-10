@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 08 Sep 2025 18:30:10 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 10 Sep 2025 01:35:55 +0000</lastBuildDate>
+		<item>
+			<title>Kleine Nederlandse internet- en hostingproviders doelwit van Chinese hackersgroep Salt Typhoon</title>
+			<link>https://tweakers.net/nieuws/238510/kleine-nederlandse-providers-waren-volgens-aivd-doelwit-van-chinese-hackersgroep.html</link>
+			<description>Onbekende ISP en hostingproviders | ICT en telecommunicatie | 28-08-2025 | DataLekt.nl: De AIVD en MIVD hebben vastgesteld dat kleine Nederlandse internetservice- en hostingproviders doelwit zijn geweest van cyberaanvallen door de Chinese hackersgroep Salt Typhoon. De aanvallers verkregen toegang tot routers van deze providers, maar er zijn geen aanwijzingen dat zij verder in de interne netwerken zijn doorgedrongen. Eerder was al bekend dat dezelfde groep langdurig toegang had tot netwerken van grote Amerikaanse providers. Hoewel de focus volgens de inlichtingendiensten op de VS lag, benadrukken zij dat het aantal cyberoperaties met Nederlandse doelwitten toeneemt. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/238510/kleine-nederlandse-providers-waren-volgens-aivd-doelwit-van-chinese-hackersgroep.html?datalekt=799b4837290dac90cce7f6affea98cec720cae985e11095b6cfef86f39852b25</guid>
+			<category>ICT en telecommunicatie </category>
+			<pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij zorgverzekeraar CZ door technisch probleem bij externe IT-dienstverlener</title>
 			<link>https://www.dutchitchannel.nl/news/700812/datalek-bij-zorgverzekeraar-cz</link>
@@ -17,10 +25,10 @@
 			<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Van der Valk Hotel Zuidas getroffen door datalek na phishingaanval op medewerkers</title>
+			<title>Van der Valk getroffen door datalek na phishingaanval op medewerkers</title>
 			<link>https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht</link>
-			<description>Van der Valk Hotel Zuidas | Horeca | 04-09-2025 | DataLekt.nl: Het Van der Valk Hotel Zuidas is getroffen door een datalek waarbij persoonsgegevens van 302 klanten zijn buitgemaakt. Hackers wisten via een nagemaakte inlogpagina de inloggegevens van medewerkers te verkrijgen en kregen zo toegang tot adressen, telefoonnummers en boekingsgegevens van gasten. Met deze informatie konden oplichters zich geloofwaardig voordoen als het hotel en klanten benaderen. Ten minste één klant is hierdoor opgelicht en verloor 200 euro na het invoeren van haar creditcardgegevens via een nepbericht. Het hotel heeft klanten geïnformeerd en de Autoriteit Persoonsgegevens ingelicht. (Bron: nhnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=14235aac658c74acd61bf3d1624b9c66ba968df280a4a6df914e7a91ec9f9ae0</guid>
+			<description>Van der Valk | Horeca | 04-09-2025 | DataLekt.nl: Het Van der Valk is getroffen door een datalek waarbij persoonsgegevens van 302 klanten zijn buitgemaakt. Hackers wisten via een nagemaakte inlogpagina de inloggegevens van medewerkers te verkrijgen en kregen zo toegang tot adressen, telefoonnummers en boekingsgegevens van gasten. Met deze informatie konden oplichters zich geloofwaardig voordoen als het hotel en klanten benaderen. Ten minste één klant is hierdoor opgelicht en verloor 200 euro na het invoeren van haar creditcardgegevens via een nepbericht. Het hotel heeft klanten geïnformeerd en de Autoriteit Persoonsgegevens ingelicht. [Update: Op 8 september 2025 is bekend geworden dat het datalek groter is en meerdere locaties heeft getroffen.] (Bron: nhnieuws.nl)</description>
+			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=031a01cd0e23b6f98eb832aaf70441a036c4cb33b20f0b6e23805667b8d66cf0</guid>
 			<category>Horeca </category>
 			<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -775,14 +783,6 @@
 			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=42497ca6e1a7a9874e249c60d836e66f809656246fa1ced0011915da3da0316f</guid>
 			<category>Overheid: Provincies </category>
 			<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Fouten in dataverzameling door Nederlandse Zorgautoriteit in GGZ-sector</title>
-			<link>https://www.vpro.nl/argos/lees/onderwerpen/algoritme/2023/fouten-bij-totstandkoming-data-experiment-ggz.html</link>
-			<description>Nederlandse Zorgautoriteit (NZa) | Overheid: Zelfstandige bestuursorganen | 31-08-2023 | DataLekt.nl: Sinds 1 juli verzamelt de Nederlandse Zorgautoriteit (NZa) persoonlijke gegevens van alle GGZ-patiënten in Nederland via de HONOS+lijsten, vragenlijsten met gevoelige informatie. Deze data, afkomstig van circa 800 duizend patiënten, dient voor de ontwikkeling van een nieuw algoritme ter verbetering van de zorg. Echter, er zijn fouten gemaakt bij het invoeren van deze lijsten. Uit mailwisselingen tussen de NZa en de Autoriteit Persoonsgegevens (AP) blijkt dat de NZa de AP onvoldoende heeft geïnformeerd over de privacyrisico&amp;#039;s van deze maatregel. [Update: Op 23 april 2025 heeft de rechter bepaald dat NZa gegevens van patiënten bij psychiaters en psychologen mocht opvragen.] (Bron: vpro.nl)</description>
-			<guid isPermaLink="false">https://www.vpro.nl/argos/lees/onderwerpen/algoritme/2023/fouten-bij-totstandkoming-data-experiment-ggz.html?datalekt=d1e1dacde1b101bddedb0180fca4e974a04d4f41ca687be0210cd435945f6bfc</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Datadiefstal bij Haarlems bedrijf door 25-jarige man uit Purmerend</title>
