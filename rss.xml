@@ -7,7 +7,47 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 10 Sep 2025 01:35:55 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 17 Sep 2025 01:35:25 +0000</lastBuildDate>
+		<item>
+			<title>Jansen Furniture getroffen door ransomware aanval van de criminele organisatie Imncrew</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Jansen Furniture | Groot- en detailhandel | 16-09-2025 | DataLekt.nl: De criminele organisatie Imncrew heeft op het darkweb aangekondigd dat zij Jansen Furniture heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1eb5f2445069ab6f9c5d4a2b527113dfd33af3cb0b5732e60f1bc64b5e66b8d6</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ferus Smit getroffen door ransomware aanval van de criminele organisatie Warlock</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Ferus Smit | Vervoer en opslag | 16-09-2025 | DataLekt.nl: De criminele organisatie Warlock heeft op het darkweb aangekondigd dat zij Ferus Smit heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=30b307227be224e253ca907187c474ffdde845d72ccb38a3d4100950ac532b30</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>CAS Exhibition Partners getroffen door ransomware aanval van de criminele organisatie Lynx</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>CAS Exhibition Partners | Verhuur en zakelijke dienstverlening | 15-09-2025 | DataLekt.nl: De criminele organisatie Lynx heeft op het darkweb aangekondigd dat zij CAS Exhibition Partners heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a05c3705a8ef441707ac8034e133570a44aff9ecdc4868dea4cac6a991982154</guid>
+			<category>Verhuur en zakelijke dienstverlening </category>
+			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Venlogistics getroffen door ransomware aanval van de criminele organisatie Incransom</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Venlogistics | Vervoer en opslag | 15-09-2025 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij Venlogistics heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f6a445be162dcdc05a5c893470dae20fd1f146072186559bcfa50526239ef428</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ddos-aanvallen op Rijksoverheid via ict-dienstverlener SSC-ICT hinderen thuiswerken ambtenaren</title>
+			<link>https://tweakers.net/nieuws/239138/ddos-aanvallen-op-nederlandse-overheid-hinderen-thuiswerkende-ambtenaren.html</link>
+			<description>Rijksoverheid | Overheid: Ministeries | 15-09-2025 | DataLekt.nl: De Rijksoverheid is getroffen door aanhoudende ddos-aanvallen die het thuiswerken van ambtenaren ernstig hinderen. Ministeries hebben hun medewerkers geadviseerd op kantoor te werken, omdat de aanvallen de vpn-verbindingen en toegang tot netwerkschijven verstoren. Volgens het ministerie van Binnenlandse Zaken vinden de aanvallen vooral buiten kantooruren plaats en lijken ze gericht op ict-dienstverlener SSC-ICT, die onder BZK valt en voorzieningen levert aan de Rijksoverheid. De herkomst, doelwitten en motieven van de aanvallers zijn onbekend. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/239138/ddos-aanvallen-op-nederlandse-overheid-hinderen-thuiswerkende-ambtenaren.html?datalekt=503ce6faea017b43869b4e72e5596dbcc078e94b8674b942660e595bade94000</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Kleine Nederlandse internet- en hostingproviders doelwit van Chinese hackersgroep Salt Typhoon</title>
 			<link>https://tweakers.net/nieuws/238510/kleine-nederlandse-providers-waren-volgens-aivd-doelwit-van-chinese-hackersgroep.html</link>
@@ -687,46 +727,6 @@
 			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=065049d6eff39cb6f4a7fa48ae93921227959bc07818e8caf2f0a7e0d87f15dd</guid>
 			<category>Overheid: Provincies </category>
 			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Provincie Drenthe getroffen door ddos-aanval van pro-Russische hackersgroep NoName</title>
-			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
-			<description>Provincie Drenthe | Overheid: Provincies | 28-04-2025 | DataLekt.nl: Op 28 april 2025 was de website van de provincie Drenthe tijdelijk niet of slecht bereikbaar door een ddos-aanval van hackersgroep NoName. De aanval was gericht tegen Nederlandse steun aan Oekraïne. De website werd later die dag weer toegankelijk gemaakt. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=9a418e228a60db0d3b6c768f15a271612204ed0f6103b17f073f77a5eb6da2c3</guid>
-			<category>Overheid: Provincies </category>
-			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ddos-aanval door Russische hackersgroep NoName legt website provincie Zeeland tijdelijk plat</title>
-			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
-			<description>Provincie Zeeland | Overheid: Provincies | 28-04-2025 | DataLekt.nl: De website van de provincie Zeeland werd op 28 april 2025 getroffen door een ddos-aanval, uitgevoerd door de pro-Russische groep NoName. De aanval leidde tot onbereikbaarheid van de website als reactie op militaire steun van Nederland aan Oekraïne. De problemen werden dezelfde middag verholpen. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=28761f13c78be4af1233504bf92e0cf5300e0bd57c0b2a17c2ac2c7da6511971</guid>
-			<category>Overheid: Provincies </category>
-			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Provincie Noord-Holland doelwit van ddos-aanval door pro-Russische groep NoName na steun aan Oekraïne</title>
-			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
-			<description>Provincie Noord-Holland | Overheid: Provincies | 28-04-2025 | DataLekt.nl: De provincie Noord-Holland was op 28 april 2025 slachtoffer van een ddos-aanval door de pro-Russische hackersgroep NoName. Door de aanval was de website slecht bereikbaar. De aanval was een vergelding voor de Nederlandse militaire steun aan Oekraïne. De website was in de loop van de middag hersteld. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=c72459634d31387a614b6bf2050dd2ac66f7f73af54e1bbd3be54dfe679dacf2</guid>
-			<category>Overheid: Provincies </category>
-			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Provincie Groningen tijdelijk offline door ddos-aanval van pro-Russische hackersgroep NoName</title>
-			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
-			<description>Provincie Groningen | Overheid: Provincies | 28-04-2025 | DataLekt.nl: Op 28 april 2025 werd de website van de provincie Groningen getroffen door een ddos-aanval, opgeëist door de Russische hackersgroep NoName. De aanval had als doel het verstoren van websites vanwege Nederlandse militaire steun aan Oekraïne. Door de aanval was de website tijdelijk slecht bereikbaar. Rond 14.00 uur was de site weer operationeel. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=c9b239f841cac954a4dd4557ba0ce88d486bca9b139ebcc7fd5403cd7d005c5f</guid>
-			<category>Overheid: Provincies </category>
-			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Website Almelo Events gehackt: bezoekers kregen webwinkel voor erectiepillen en vibrators te zien</title>
-			<link>https://www.tubantia.nl/almelo/erectiepillen-en-vibrators-in-plaats-van-een-plekje-op-de-almelose-oranjemarkt~a8f3fad6/</link>
-			<description>Stichting Almelo Events | Kunst, cultuur en recreatie | 24-04-2025 | DataLekt.nl: In april 2025 werd de website van Almelo Events gehackt, waardoor bezoekers die zich wilden inschrijven voor de Oranjemarkt op Koningsdag werden doorgestuurd naar een site voor erectiepillen en vibrators. De website lag dagenlang plat tijdens de Paasdagen. Herstel kostte de organisatie 250 euro. De oorzaak en herkomst van de hack zijn onbekend. Ondanks het incident verwacht Almelo Events een geslaagde Koningsdag. (Bron: tubantia.nl)</description>
-			<guid isPermaLink="false">https://www.tubantia.nl/almelo/erectiepillen-en-vibrators-in-plaats-van-een-plekje-op-de-almelose-oranjemarkt~a8f3fad6/?datalekt=c2b148c60f7bab502e86af64d7c6ab296a0e0a4c05a743fc765b933b150efb02</guid>
-			<category>Kunst, cultuur en recreatie </category>
-			<pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
