@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 19 Sep 2025 01:38:10 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 19 Sep 2025 12:41:27 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Losser laat kiezerslijst met persoonsgegevens rondslingeren door procedurefouten bij verkiezingen</title>
+			<link>https://www.tubantia.nl/losser/gevoelige-kiezerslijst-van-losser-duikt-op-na-reeks-procedurefouten~a4b46de8/</link>
+			<description>Gemeente Losser | Overheid: Gemeenten | 18-09-2025 | DataLekt.nl: Bij de voorbereiding van de komende verkiezingen is een kiezerslijst met persoonsgegevens van 103 inwoners van Losser teruggevonden in een stemkoffer. Het document, het ‘Register Ongeldige Stempassen’ van de Europese verkiezingen 2024, had volgens de Kieswet al vernietigd moeten zijn. De lijst bevatte namen, geboortedata, stempasnummers en redenen van ongeldigheid van stempassen. Door fouten bij zowel het verzamelen als het leeghalen van stemkoffers bleef de lijst bestaan. De gemeenten Losser en Enschede erkennen de fouten en hebben het incident gemeld bij de Autoriteit Persoonsgegevens. (Bron: tubantia.nl)</description>
+			<guid isPermaLink="false">https://www.tubantia.nl/losser/gevoelige-kiezerslijst-van-losser-duikt-op-na-reeks-procedurefouten~a4b46de8/?datalekt=ccea9e7222c9f513d16596cecdaa4108468da70fb3543b2c75f466019ed4dceb</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Zoetermeer lekt persoonsgegevens van ondertekenaars burgerinitiatief door foutieve publicatie</title>
+			<link>https://www.zoetermeeractief.nl/nieuwshome/actueel/29294-excuses-van-gemeente-voor-datalek-burgerinitiatief</link>
+			<description>Gemeente Zoetermeer | Overheid: Gemeenten | 28-09-2025 | DataLekt.nl: De gemeente Zoetermeer heeft per ongeluk persoonsgegevens van tientallen bewoners openbaar gemaakt. Bij de publicatie van een raadsdocument over een burgerinitiatief voor meer parkeerruimte in Noordhove werd op 17 juli 2025 een verkeerde bijlage toegevoegd aan het openbare raadsinformatiesysteem. In plaats van het parkeeronderzoek werd het originele burgerinitiatief gepubliceerd, waarin naam, adres, geboortedatum en handtekening van ondertekenaars stonden. De fout werd pas op 21 augustus 2025 ontdekt door een journalist van het AD, waarna de gegevens zijn verwijderd en melding is gedaan bij de Autoriteit Persoonsgegevens. Betrokken bewoners hebben een excuusbrief ontvangen en zijn gewaarschuwd alert te zijn op mogelijk misbruik. (Bron: zoetermeeractief.nl)</description>
+			<guid isPermaLink="false">https://www.zoetermeeractief.nl/nieuwshome/actueel/29294-excuses-van-gemeente-voor-datalek-burgerinitiatief?datalekt=c2de259fe21470233456931518a4bf3ecc230f378d0177aafbde12a4083b01cc</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Alphen aan den Rijn meldt datalek in jeugdzorg door onbevoegde inzage medewerker</title>
 			<link>https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5134603/nieuw-datalek-in-alphense-jeugdzorg-medewerker-bekeek-dossiers-zonder-bevoe</link>
@@ -710,22 +726,6 @@
 			<description>Gemeente Breda | Overheid: Gemeenten | 28-04-2025 | DataLekt.nl: De gemeente Breda werd op 28 april 2025 getroffen door een ddos-aanval van hackersgroep NoName. De aanval verstoorde tijdelijk de bereikbaarheid van de website als reactie op de militaire steun van Nederland aan Oekraïne. De website was later op de dag weer beschikbaar. (Bron: nu.nl)</description>
 			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=db83b05c2fb0eeddbf999e3fa8e2ef82c0723c9683d550143988653e0f1acd45</guid>
 			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Apeldoorn getroffen door ddos-aanval van pro-Russische hackers als vergelding voor steun aan Oekraïne</title>
-			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
-			<description>Gemeente Apeldoorn | Overheid: Gemeenten | 28-04-2025 | DataLekt.nl: Op 28 april 2025 werd de website van de gemeente Apeldoorn tijdelijk slecht bereikbaar na een ddos-aanval uitgevoerd door de Russische hackersgroep NoName. De aanval vond plaats in reactie op Nederlandse militaire steun aan Oekraïne. De website was rond 14.00 uur weer hersteld. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=f5ef4ee2a8da04e6605e905f6d5b9117034737ebd4ab1479818f9dedb9ae12bd</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Provincie Noord-Brabant onder vuur van Russische hackersgroep NoName door ddos-aanval</title>
-			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
-			<description>Provincie Noord-Brabant | Overheid: Provincies | 28-04-2025 | DataLekt.nl: De website van de provincie Noord-Brabant werd op 28 april 2025 getroffen door een ddos-aanval uitgevoerd door de Russische hackersgroep NoName. De aanval leidde tot tijdelijke problemen met de bereikbaarheid van de website, maar de situatie werd dezelfde dag hersteld. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=7df74c6cce702ba0b53c6f78273394c0efd48c0612c181a31f9c9c21f035db50</guid>
-			<category>Overheid: Provincies </category>
 			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
