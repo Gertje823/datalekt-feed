@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 17 Sep 2025 01:35:25 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 19 Sep 2025 01:38:10 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Alphen aan den Rijn meldt datalek in jeugdzorg door onbevoegde inzage medewerker</title>
+			<link>https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5134603/nieuw-datalek-in-alphense-jeugdzorg-medewerker-bekeek-dossiers-zonder-bevoe</link>
+			<description>Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 17-09-2025 | DataLekt.nl: Binnen de jeugdzorg van Alphen aan den Rijn is een nieuw datalek ontdekt doordat een medewerker zonder de juiste bevoegdheid vertrouwelijke dossiers heeft ingezien. Het incident werd bekend tijdens een onderzoek naar ambtshalve verlengingen van jeugdhulp. De gemeente heeft het datalek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt welke informatie precies is ingezien en of cliënten geïnformeerd moeten worden. Ouders zijn inmiddels op de hoogte gebracht. Het college sluit aangifte niet uit, maar acht dit vooralsnog niet waarschijnlijk. De kwestie leidt tot zorgen in de lokale politiek over de bescherming van gevoelige gegevens van jongeren en gezinnen. (Bron: nieuwsinalphen.nl)</description>
+			<guid isPermaLink="false">https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5134603/nieuw-datalek-in-alphense-jeugdzorg-medewerker-bekeek-dossiers-zonder-bevoe?datalekt=add03a46e2a6805a3a6c2c9ce61698eb3ac0f56273d47050e0f9f022978b2f05</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Jansen Furniture getroffen door ransomware aanval van de criminele organisatie Imncrew</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -717,14 +725,6 @@
 			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
 			<description>Provincie Noord-Brabant | Overheid: Provincies | 28-04-2025 | DataLekt.nl: De website van de provincie Noord-Brabant werd op 28 april 2025 getroffen door een ddos-aanval uitgevoerd door de Russische hackersgroep NoName. De aanval leidde tot tijdelijke problemen met de bereikbaarheid van de website, maar de situatie werd dezelfde dag hersteld. (Bron: nu.nl)</description>
 			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=7df74c6cce702ba0b53c6f78273394c0efd48c0612c181a31f9c9c21f035db50</guid>
-			<category>Overheid: Provincies </category>
-			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Provincie Overijssel slachtoffer van ddos-aanval door pro-Russische hackersgroep NoName</title>
-			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
-			<description>Provincie Overijssel | Overheid: Provincies | 28-04-2025 | DataLekt.nl: De provincie Overijssel ondervond op 28 april 2025 een ddos-aanval die leidde tot de tijdelijke onbereikbaarheid van de website. De Russische groep NoName eiste de aanval op als vergelding voor Nederlandse militaire steun aan Oekraïne. De site was later die middag weer bereikbaar. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=065049d6eff39cb6f4a7fa48ae93921227959bc07818e8caf2f0a7e0d87f15dd</guid>
 			<category>Overheid: Provincies </category>
 			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
