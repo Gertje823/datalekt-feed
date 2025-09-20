@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.tubantia.nl/tech/werknemer-hackt-fietsvoordeelshop-nl-wordt-betrapt-en-komt-met-smoes-over-pizza-avondje-met-vriendin~ac5cfade/?datalekt=9a4e07fd810d6b34d0e1c72853e0c5990464d0e172e941dd6368f5a8ee149986",
+        "url": "https://www.tubantia.nl/tech/werknemer-hackt-fietsvoordeelshop-nl-wordt-betrapt-en-komt-met-smoes-over-pizza-avondje-met-vriendin~ac5cfade/",
+        "title": "Werknemer van Fietsvoordeelshop.nl probeert via usb-hack bedrijfsservers te besmetten en neemt laptop mee",
+        "date_published": "2025-09-20T12:54:00Z",
+        "date_modified": "2025-09-20T12:54:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tubantia.nl"
+        },
+        "content_html": "",
+        "content_text": "Fietsvoordeelshop.nl | Groot- en detailhandel | 18-09-2025 | DataLekt.nl: Op 5 juni 2025 werd Fietsvoordeelshop.nl getroffen door een interne hackpoging. Een medewerker probeerde via een usb-stick malware te installeren op twee bedrijfs\u00adlaptops, waarmee ransomware of fraude mogelijk zou worden. E\u00e9n laptop verdween en bleek later buiten het bedrijfsnetwerk actief. Camerabeelden tonen dat de werknemer de enige aanwezige was. Hij ontkende en verklaarde dat hij pizza had besteld, maar de rechter achtte dit ongeloofwaardig. Het ontslag op staande voet werd bevestigd en de werknemer moet bijna 1000 euro proceskosten betalen. (Bron: tubantia.nl)"
+    },
+    {
         "id": "https://www.tubantia.nl/losser/gevoelige-kiezerslijst-van-losser-duikt-op-na-reeks-procedurefouten~a4b46de8/?datalekt=ccea9e7222c9f513d16596cecdaa4108468da70fb3543b2c75f466019ed4dceb",
         "url": "https://www.tubantia.nl/losser/gevoelige-kiezerslijst-van-losser-duikt-op-na-reeks-procedurefouten~a4b46de8/",
         "title": "Gemeente Losser laat kiezerslijst met persoonsgegevens rondslingeren door procedurefouten bij verkiezingen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Nijmegen | Overheid: Gemeenten | 28-04-2025 | DataLekt.nl: De gemeente Nijmegen werd op 28 april 2025 het doelwit van een ddos-aanval door de Russische hackersgroep NoName. Hierdoor was de website tijdelijk slecht bereikbaar. De aanval hing samen met Nederlandse steun aan Oekra\u00efne. Herstel volgde later die dag. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=db83b05c2fb0eeddbf999e3fa8e2ef82c0723c9683d550143988653e0f1acd45",
-        "url": "https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html",
-        "title": "Gemeente Breda tijdelijk offline door ddos-aanval van Russische hackersgroep NoName",
-        "date_published": "2025-04-28T15:20:00Z",
-        "date_modified": "2025-04-28T15:20:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Breda | Overheid: Gemeenten | 28-04-2025 | DataLekt.nl: De gemeente Breda werd op 28 april 2025 getroffen door een ddos-aanval van hackersgroep NoName. De aanval verstoorde tijdelijk de bereikbaarheid van de website als reactie op de militaire steun van Nederland aan Oekra\u00efne. De website was later op de dag weer beschikbaar. (Bron: nu.nl)"
     }
 ]
