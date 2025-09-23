@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 20 Sep 2025 12:37:57 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 23 Sep 2025 01:36:19 +0000</lastBuildDate>
+		<item>
+			<title>Vurbis getroffen door datalek waarbij klantgegevens te koop zijn aangeboden op forum</title>
+			<link>https://www.ccinfo.nl/het-cyber-journaal/2711936_vurbis-en-kering-getroffen-door-datalekken-en-kwetsbaarheden-in-watchguard-en-linux-verhogen-wereldwijde-dreigingen</link>
+			<description>Vurbis | ICT en telecommunicatie | 18-09-2025 | DataLekt.nl: Het Nederlandse IT-dienstverleningsbedrijf Vurbis uit Den Bosch is getroffen door een datalek waarbij persoonlijke gegevens van gebruikers, zoals e-mailadressen, telefoonnummers en bedrijfsinformatie, op een forum te koop zijn aangeboden voor 100 dollar per dataset. Ook zijn aanwijzingen gevonden dat MD5-hashes van wachtwoorden zijn gelekt, wat wijst op een ernstige kwetsbaarheid in de beveiliging. Het incident roept zorgen op over de reactie van Vurbis, omdat meerdere pogingen om contact op te nemen zonder resultaat zijn gebleven. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/het-cyber-journaal/2711936_vurbis-en-kering-getroffen-door-datalekken-en-kwetsbaarheden-in-watchguard-en-linux-verhogen-wereldwijde-dreigingen?datalekt=fe7e6b4692c5b3b010877fc6442121d4323bf315f96ba8198cf296c7561c908e</guid>
+			<category>ICT en telecommunicatie </category>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Werknemer van Fietsvoordeelshop.nl probeert via usb-hack bedrijfsservers te besmetten en neemt laptop mee</title>
 			<link>https://www.tubantia.nl/tech/werknemer-hackt-fietsvoordeelshop-nl-wordt-betrapt-en-komt-met-smoes-over-pizza-avondje-met-vriendin~ac5cfade/</link>
@@ -717,14 +725,6 @@
 			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
 			<description>Gemeente Tilburg | Overheid: Gemeenten | 28-04-2025 | DataLekt.nl: Op 28 april 2025 werd de website van de gemeente Tilburg getroffen door een ddos-aanval uitgevoerd door hackersgroep NoName. De aanval verstoorde tijdelijk de bereikbaarheid van de website vanwege vergelding voor Nederlandse militaire steun aan Oekraïne. Rond 14.00 uur was de site weer operationeel. (Bron: nu.nl)</description>
 			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=1b05625590b441de71441f10adadc1a771fbe3f208ed1e801d5f85887d5284f7</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Website gemeente Nijmegen onbereikbaar door ddos-aanval pro-Russische hackersgroep NoName</title>
-			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
-			<description>Gemeente Nijmegen | Overheid: Gemeenten | 28-04-2025 | DataLekt.nl: De gemeente Nijmegen werd op 28 april 2025 het doelwit van een ddos-aanval door de Russische hackersgroep NoName. Hierdoor was de website tijdelijk slecht bereikbaar. De aanval hing samen met Nederlandse steun aan Oekraïne. Herstel volgde later die dag. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=d9cd1f17dcf6d7dde6b3f9462019f05d72d105e20958cc8ea9404de2003cef6d</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 		</item>

@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/het-cyber-journaal/2711936_vurbis-en-kering-getroffen-door-datalekken-en-kwetsbaarheden-in-watchguard-en-linux-verhogen-wereldwijde-dreigingen?datalekt=fe7e6b4692c5b3b010877fc6442121d4323bf315f96ba8198cf296c7561c908e",
+        "url": "https://www.ccinfo.nl/het-cyber-journaal/2711936_vurbis-en-kering-getroffen-door-datalekken-en-kwetsbaarheden-in-watchguard-en-linux-verhogen-wereldwijde-dreigingen",
+        "title": "Vurbis getroffen door datalek waarbij klantgegevens te koop zijn aangeboden op forum",
+        "date_published": "2025-09-22T09:12:00Z",
+        "date_modified": "2025-09-22T09:12:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Vurbis | ICT en telecommunicatie | 18-09-2025 | DataLekt.nl: Het Nederlandse IT-dienstverleningsbedrijf Vurbis uit Den Bosch is getroffen door een datalek waarbij persoonlijke gegevens van gebruikers, zoals e-mailadressen, telefoonnummers en bedrijfsinformatie, op een forum te koop zijn aangeboden voor 100 dollar per dataset. Ook zijn aanwijzingen gevonden dat MD5-hashes van wachtwoorden zijn gelekt, wat wijst op een ernstige kwetsbaarheid in de beveiliging. Het incident roept zorgen op over de reactie van Vurbis, omdat meerdere pogingen om contact op te nemen zonder resultaat zijn gebleven. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.tubantia.nl/tech/werknemer-hackt-fietsvoordeelshop-nl-wordt-betrapt-en-komt-met-smoes-over-pizza-avondje-met-vriendin~ac5cfade/?datalekt=9a4e07fd810d6b34d0e1c72853e0c5990464d0e172e941dd6368f5a8ee149986",
         "url": "https://www.tubantia.nl/tech/werknemer-hackt-fietsvoordeelshop-nl-wordt-betrapt-en-komt-met-smoes-over-pizza-avondje-met-vriendin~ac5cfade/",
         "title": "Werknemer van Fietsvoordeelshop.nl probeert via usb-hack bedrijfsservers te besmetten en neemt laptop mee",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Tilburg | Overheid: Gemeenten | 28-04-2025 | DataLekt.nl: Op 28 april 2025 werd de website van de gemeente Tilburg getroffen door een ddos-aanval uitgevoerd door hackersgroep NoName. De aanval verstoorde tijdelijk de bereikbaarheid van de website vanwege vergelding voor Nederlandse militaire steun aan Oekra\u00efne. Rond 14.00 uur was de site weer operationeel. (Bron: nu.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=d9cd1f17dcf6d7dde6b3f9462019f05d72d105e20958cc8ea9404de2003cef6d",
-        "url": "https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html",
-        "title": "Website gemeente Nijmegen onbereikbaar door ddos-aanval pro-Russische hackersgroep NoName",
-        "date_published": "2025-04-28T15:21:00Z",
-        "date_modified": "2025-04-28T15:21:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Nijmegen | Overheid: Gemeenten | 28-04-2025 | DataLekt.nl: De gemeente Nijmegen werd op 28 april 2025 het doelwit van een ddos-aanval door de Russische hackersgroep NoName. Hierdoor was de website tijdelijk slecht bereikbaar. De aanval hing samen met Nederlandse steun aan Oekra\u00efne. Herstel volgde later die dag. (Bron: nu.nl)"
     }
 ]
