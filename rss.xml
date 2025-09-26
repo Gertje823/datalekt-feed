@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 23 Sep 2025 01:36:19 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 26 Sep 2025 01:37:31 +0000</lastBuildDate>
+		<item>
+			<title>Rijksorganisaties getroffen door hack via Citrix-lek</title>
+			<link>https://www.dutchitchannel.nl/news/711310/minister-enkele-rijksorganisaties-getroffen-door-hack-via-citrix-lek</link>
+			<description>Rijksoverheid | Overheid: Ministeries | 23-09-2025 | DataLekt.nl: Enkele rijksorganisaties zijn gehackt via een kwetsbaarheid in Citrix NetScaler die op 16 juli 2025 bekend werd. Hetzelfde lek werd eerder misbruikt bij een aanval op het Openbaar Ministerie. Volgens demissionair minister Van Oosten van Justitie en Veiligheid zijn er bij meerdere rijksorganisaties sporen van compromittering aangetroffen. Om welke organisaties het gaat, is niet bekendgemaakt. Mitigerende maatregelen zijn genomen en onderzoek loopt nog. Er zijn vooralsnog geen aanwijzingen dat andere overheidsorganisaties zijn getroffen. (Bron: dutchitchannel.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/711310/minister-enkele-rijksorganisaties-getroffen-door-hack-via-citrix-lek?datalekt=6d34b79c41c61885af03fa1b8d462afa8661527738bb431c5cad54cc35d63de9</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Vurbis getroffen door datalek waarbij klantgegevens te koop zijn aangeboden op forum</title>
 			<link>https://www.ccinfo.nl/het-cyber-journaal/2711936_vurbis-en-kering-getroffen-door-datalekken-en-kwetsbaarheden-in-watchguard-en-linux-verhogen-wereldwijde-dreigingen</link>
@@ -719,14 +727,6 @@
 			<guid isPermaLink="false">https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html?datalekt=c4130a781d32adc2219b6c8853e3e623aacd205d285a39175b98c9471bcdea47</guid>
 			<category>Media en inhoud </category>
 			<pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Tilburg slachtoffer van ddos-aanval door pro-Russische hackersgroep NoName</title>
-			<link>https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html</link>
-			<description>Gemeente Tilburg | Overheid: Gemeenten | 28-04-2025 | DataLekt.nl: Op 28 april 2025 werd de website van de gemeente Tilburg getroffen door een ddos-aanval uitgevoerd door hackersgroep NoName. De aanval verstoorde tijdelijk de bereikbaarheid van de website vanwege vergelding voor Nederlandse militaire steun aan Oekraïne. Rond 14.00 uur was de site weer operationeel. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6354029/websites-van-provincies-en-gemeenten-doelwit-van-russische-cyberaanval.html?datalekt=1b05625590b441de71441f10adadc1a771fbe3f208ed1e801d5f85887d5284f7</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
