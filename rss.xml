@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 26 Sep 2025 01:37:31 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 28 Sep 2025 01:45:35 +0000</lastBuildDate>
+		<item>
+			<title>Libréon getroffen door phishingaanval waarbij accounts ondanks MFA zijn misbruikt</title>
+			<link>https://www.linkedin.com/posts/kwouters1_cybersecurity-phishing-incidentresponse-activity-7377349831608049664-p_B1/</link>
+			<description>Libréon | Onderwijs | 26-09-2025 | DataLekt.nl: Begin september werd Libréon slachtoffer van een geavanceerde phishingaanval waarbij een e-mail vanuit een gehackt collega-account naar meer dan 200 personen werd gestuurd en doorverwees naar een valse inlogpagina. Ondanks snelle actie bleek een week later dat ook andere accounts waren overgenomen. De aanval maakte gebruik van een Adversary in The Middle-techniek, waarmee zelfs multifactorauthenticatie werd omzeild. Libréon schakelde direct de functionaris gegevensbescherming, School-CERT van Kennisnet en later forensisch onderzoekers van Attic Security in. Alle medewerkers zijn geïnformeerd en extra maatregelen zijn doorgevoerd. Dankzij snelle samenwerking werd het incident binnen enkele dagen onder controle gebracht. (Bron: linkedin.com)</description>
+			<guid isPermaLink="false">https://www.linkedin.com/posts/kwouters1_cybersecurity-phishing-incidentresponse-activity-7377349831608049664-p_B1/?datalekt=5ee76511f33112941d8e9d38c5a351f74fa3b5c3d5cb1fe4f8aeb96d0006ab7e</guid>
+			<category>Onderwijs </category>
+			<pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Rijksorganisaties getroffen door hack via Citrix-lek</title>
 			<link>https://www.dutchitchannel.nl/news/711310/minister-enkele-rijksorganisaties-getroffen-door-hack-via-citrix-lek</link>
@@ -323,8 +331,8 @@
 		<item>
 			<title>Gemeente Midden-Delfland openbaart per ongeluk persoonsgegevens van bezwaarmakers bij asielzoekerscentrum</title>
 			<link>https://wos.nl/nieuws/artikel/midden-delfland-onthulde-persoonsgegevens-van-bezwaarmakers</link>
-			<description>Gemeente Midden-Delfland | Overheid: Gemeenten | 30-07-2025 | DataLekt.nl: Op maandag zijn via de website van de gemeente Midden-Delfland per ongeluk de persoonsgegevens van 133 inwoners openbaar gemaakt. De gegevens — waaronder naam, adres en woonplaats — stonden in een bijlage bij een bericht aan de gemeenteraad over ingediende bezwaarschriften tegen een omgevingsvergunning voor een asielzoekerscentrum. De fout werd veroorzaakt door een menselijke vergissing. De bijlage is dinsdag verwijderd en vervangen door een geanonimiseerde versie. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en stuurt de betrokken inwoners een brief met uitleg. (Bron: wos.nl)</description>
-			<guid isPermaLink="false">https://wos.nl/nieuws/artikel/midden-delfland-onthulde-persoonsgegevens-van-bezwaarmakers?datalekt=b1fe69bfcef7ab195c0ef8f61cf37507a5c48c7cd5440b58286473d2540695e1</guid>
+			<description>Gemeente Midden-Delfland | Overheid: Gemeenten | 30-07-2025 | DataLekt.nl: Op maandag zijn via de website van de gemeente Midden-Delfland per ongeluk de persoonsgegevens van 133 inwoners openbaar gemaakt. De gegevens — waaronder naam, adres en woonplaats — stonden in een bijlage bij een bericht aan de gemeenteraad over ingediende bezwaarschriften tegen een omgevingsvergunning voor een asielzoekerscentrum. De fout werd veroorzaakt door een menselijke vergissing. De bijlage is dinsdag verwijderd en vervangen door een geanonimiseerde versie. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en stuurt de betrokken inwoners een brief met uitleg. [Update: Op 24 september 2025 is bekend geworden dat de onderzoekskosten 33.335 euro zijn.] (Bron: wos.nl)</description>
+			<guid isPermaLink="false">https://wos.nl/nieuws/artikel/midden-delfland-onthulde-persoonsgegevens-van-bezwaarmakers?datalekt=70cd6493094377cb6c0ea4a60045df074e2a6b26cd6f77370d3780023cf2c920</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -713,22 +721,6 @@
 			<pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Ushio Europe getroffen door ransomware aanval van de criminele organisatie TERMITE</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Ushio Europe | Industrie | 29-04-2025 | DataLekt.nl: De criminele organisatie TERMITE heeft op het darkweb aangekondigd dat zij Ushio Europe heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1c8bb520a56adb6e044d4ee28aa0e360677a54a3983661cb6ae4492bdf0c61e7</guid>
-			<category>Industrie </category>
-			<pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>NRC getroffen door ddos-aanval: website en app tijdelijk slecht bereikbaar</title>
-			<link>https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html</link>
-			<description>NRC | Media en inhoud | 30-04-2025 | DataLekt.nl: Op 30 april 2025 werd NRC slachtoffer van een ddos-aanval waardoor de website en app van de krant tijdelijk slecht bereikbaar waren. Bij deze aanval werd de server overspoeld met dataverkeer vanuit een netwerk van gehackte apparaten, waardoor gebruikers onder andere inlogproblemen ervoeren. De krant werkt aan een oplossing. De dader is nog onbekend. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/media/6354264/website-en-app-nrc-slecht-bereikbaar-door-cyberaanval.html?datalekt=c4130a781d32adc2219b6c8853e3e623aacd205d285a39175b98c9471bcdea47</guid>
-			<category>Media en inhoud </category>
-			<pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
 			<link>https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/</link>
 			<description>Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. [Update: Op 22 april 2025 is ook bekend geworden dat salarisgegevens en namen van medewerkers zijn gelekt.] [Update: Op 27 juni 2025 werd gemeld dat bij de ransomware-aanval, die rond 5 november 2024 plaatsvond, persoonlijke gegevens van meer dan 2,2 miljoen mensen zijn buitgemaakt.] (Bron: ad.nl)</description>
@@ -799,6 +791,14 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/789992/Maritiem+dienstverlener+Royal+Dirkzwager+getroffen+door+ransomware?datalekt=b855cb6f09195b30380cdb00b4aa5faaf8aea27fe01d2e542e9184ef96ce721f</guid>
 			<category>Vervoer en opslag </category>
 			<pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>DPG Media beboet voor onterechte ID-verificatie bij AVG-verzoeken</title>
+			<link>https://tweakers.net/nieuws/193636/dpg-media-krijgt-avg-boete-van-525000-euro-voor-onterecht-vragen-van-id-bewijs.html</link>
+			<description>DPG Media | Media en inhoud | 24-02-2022 | DataLekt.nl: Uitgever DPG Media heeft een boete van 525.000 euro ontvangen wegens het onterecht vragen van een identiteitsbewijs aan klanten die inzage wilden in hun persoonlijke gegevens. Hiermee heeft DPG Media volgens de autoriteiten onnodige hindernissen gecreëerd voor klanten die hun AVG-rechten wilden uitoefenen. Het is niet duidelijk hoeveel klanten hierdoor zijn getroffen of wat de exacte motieven van DPG Media waren voor deze handelswijze. [Update: Op 18 augustus 2023 heeft de rechter de boete geschrapt. De AP gaat in beroep.] [Update: Op 24 september 2025 is bekend geworden dat de rechter de boete heeft gezet op 265.500.] (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/193636/dpg-media-krijgt-avg-boete-van-525000-euro-voor-onterecht-vragen-van-id-bewijs.html?datalekt=f7e5f1c76d59ffa2f2a3ed2ddf209e22b621a37b59679f5896cacea5aef7e92e</guid>
+			<category>Media en inhoud </category>
+			<pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Hack treft Nederlandse Organisatie voor Wetenschappelijk Onderzoek</title>
