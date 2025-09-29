@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 28 Sep 2025 01:45:35 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 29 Sep 2025 01:40:05 +0000</lastBuildDate>
+		<item>
+			<title>Ongeoorloofde toegang tot patiëntendossier bij ggz-instelling Antes door honderden medewerkers</title>
+			<link>https://www.trouw.nl/zorg/honderden-ggz-medewerkers-keken-in-het-dossier-van-wendy-alsof-mensen-ongevraagd-je-huis-binnenstappen~b8d4d866/</link>
+			<description>Antes | Gezondheids- en welzijnszorg | 10-09-2025 | DataLekt.nl: Bij ggz-instelling Antes werd het patiëntendossier van een vrouw met een alcoholverslaving door 363 medewerkers ingezien, variërend van stagiaires tot bestuurders. De documenten bevatten zeer gevoelige informatie, zoals therapieverslagen, psychiatrische rapporten en meldingen over huiselijk geweld. Volgens de wet mogen alleen leden van het behandelteam dergelijke gegevens bekijken, maar het systeem van Antes waarschuwde niet bij ongeoorloofd inloggen. Als verklaring voert de instelling persoonsverwisseling aan, omdat ook de zus van de patiënte gelijktijdig in behandeling was. De Autoriteit Persoonsgegevens onderzoekt de zaak en de vrouw eist 25.000 euro schadevergoeding. (Bron: trouw.nl)</description>
+			<guid isPermaLink="false">https://www.trouw.nl/zorg/honderden-ggz-medewerkers-keken-in-het-dossier-van-wendy-alsof-mensen-ongevraagd-je-huis-binnenstappen~b8d4d866/?datalekt=6a3899c0b50a3a3857767448d094e1d8512b0e66dda22924a2950600877ba3a6</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Libréon getroffen door phishingaanval waarbij accounts ondanks MFA zijn misbruikt</title>
 			<link>https://www.linkedin.com/posts/kwouters1_cybersecurity-phishing-incidentresponse-activity-7377349831608049664-p_B1/</link>
@@ -709,14 +717,6 @@
 			<link>https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers</link>
 			<description>Corendon | Vervoer en opslag | 02-05-2025 | DataLekt.nl: Vervoerder Arriva werd op 1 mei 2025 getroffen door een ddos-aanval van de pro-Russische groepering NoName05716. Hoewel de aanval vooraf werd aangekondigd, leidde deze tot beperkte beschikbaarheid van de website. De aanval was onderdeel van een bredere campagne tegen Nederlandse organisaties. (Bron: dutchitchannel.nl)</description>
 			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers?datalekt=6954d043d458bdfe547c6fd9e261cb2c9ec5c5d55b153acd6b12831d9805b617</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Website Arriva deels onbereikbaar door gerichte ddos-aanval</title>
-			<link>https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers</link>
-			<description>Arriva | Vervoer en opslag | 02-05-2025 | DataLekt.nl: Op 1 mei 2025 werd reisorganisatie Corendon slachtoffer van een ddos-aanval uitgevoerd door het Russische hackerscollectief NoName05716. De website was vanaf 08:00 uur enkele uren volledig onbereikbaar. Deze aanval volgde op eerdere acties van de groep gericht op Nederlandse overheidswebsites. (Bron: dutchitchannel.nl)</description>
-			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers?datalekt=06ae688f03542040cb0dcac11cc188f456dd67048cbd74bc7fb004aea9f1f395</guid>
 			<category>Vervoer en opslag </category>
 			<pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
 		</item>
