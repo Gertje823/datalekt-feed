@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=829f95d7a87f6b17f17bc70f93ff778db0f36ee8bfde39b755055b57369f44fa",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "FysioRoadMap getroffen door ransomware aanval van de criminele organisatie Nova",
+        "date_published": "2025-09-29T12:03:00Z",
+        "date_modified": "2025-09-29T12:03:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "FysioRoadMap | ICT en telecommunicatie | 28-09-2025 | DataLekt.nl: De criminele organisatie Nova heeft op het darkweb aangekondigd dat zij FysioRoadMap heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.trouw.nl/zorg/honderden-ggz-medewerkers-keken-in-het-dossier-van-wendy-alsof-mensen-ongevraagd-je-huis-binnenstappen~b8d4d866/?datalekt=6a3899c0b50a3a3857767448d094e1d8512b0e66dda22924a2950600877ba3a6",
         "url": "https://www.trouw.nl/zorg/honderden-ggz-medewerkers-keken-in-het-dossier-van-wendy-alsof-mensen-ongevraagd-je-huis-binnenstappen~b8d4d866/",
         "title": "Ongeoorloofde toegang tot pati\u00ebntendossier bij ggz-instelling Antes door honderden medewerkers",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Slijterij Groningen | Groot- en detailhandel | 01-05-2025 | DataLekt.nl: Slijterij Groningen heeft foto\u2019s van vermeende winkeldieven zichtbaar op de winkelruit geplaatst, wat volgens de Autoriteit Persoonsgegevens (AP) in strijd is met de AVG. De AP stelt dat zulke openbare beeldpublicaties mensen onterecht kunnen stigmatiseren en dat alleen een rechter schuld mag vaststellen. Ondanks de juridische bezwaren weigert de winkelier de foto&#039;s te verwijderen en ontvangt hij brede publieke steun. Politie en Openbaar Ministerie erkennen dat de actie onrechtmatig is, maar verwijzen voor handhaving naar de AP. (Bron: rtvnoord.nl)"
-    },
-    {
-        "id": "https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers?datalekt=6954d043d458bdfe547c6fd9e261cb2c9ec5c5d55b153acd6b12831d9805b617",
-        "url": "https://www.dutchitchannel.nl/news/622313/corendon-en-arriva-doelwit-van-russische-ddos-aanvallers",
-        "title": "Corendon tijdelijk offline door Russische ddos-aanval",
-        "date_published": "2025-05-04T13:06:00Z",
-        "date_modified": "2025-05-04T13:06:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitchannel.nl"
-        },
-        "content_html": "",
-        "content_text": "Corendon | Vervoer en opslag | 02-05-2025 | DataLekt.nl: Vervoerder Arriva werd op 1 mei 2025 getroffen door een ddos-aanval van de pro-Russische groepering NoName05716. Hoewel de aanval vooraf werd aangekondigd, leidde deze tot beperkte beschikbaarheid van de website. De aanval was onderdeel van een bredere campagne tegen Nederlandse organisaties. (Bron: dutchitchannel.nl)"
     }
 ]
