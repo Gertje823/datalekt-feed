@@ -7,13 +7,21 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 30 Sep 2025 01:35:40 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 01 Oct 2025 12:44:31 +0000</lastBuildDate>
 		<item>
-			<title>FysioRoadMap getroffen door ransomware aanval van de criminele organisatie Nova</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>FysioRoadMap | ICT en telecommunicatie | 28-09-2025 | DataLekt.nl: De criminele organisatie Nova heeft op het darkweb aangekondigd dat zij FysioRoadMap heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=829f95d7a87f6b17f17bc70f93ff778db0f36ee8bfde39b755055b57369f44fa</guid>
-			<category>ICT en telecommunicatie </category>
+			<title>Provincie Utrecht lekt persoonsgegevens via Woo-verzoek in wolvendossier</title>
+			<link>https://nos.nl/artikel/2584584-datalek-bij-provincie-utrecht-gegevens-van-betrokkenen-wolvendossier-op-straat</link>
+			<description>Provincie Utrecht | Overheid: Provincies | 29-09-2025 | DataLekt.nl: Bij de provincie Utrecht zijn door een datalek contactgegevens van betrokkenen bij het wolvendossier openbaar geworden. Het lek ontstond toen een burger via een Woo-verzoek documenten ontving waarin per ongeluk namen, e-mailadressen en soms telefoonnummers van beleidsmedewerkers, juristen, communicatieadviseurs en boswachters waren opgenomen. RTV Utrecht ontdekte dit nadat het de documenten had ingezien. Hoe vaak de informatie is geraadpleegd, is onbekend. De provincie heeft de documenten offline gehaald, betrokkenen geïnformeerd, de burger gevraagd de bestanden te vernietigen en melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2584584-datalek-bij-provincie-utrecht-gegevens-van-betrokkenen-wolvendossier-op-straat?datalekt=5788196e34b55729f84ded85ca4e64d4bb8d8562b8121577530f0d93685c6ba4</guid>
+			<category>Overheid: Provincies </category>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Nederlandse fysiotherapiepraktijk getroffen door Nova ransomware-aanval; FysioRoadMap blijft buiten schot</title>
+			<link>https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/2729681_fysioroadmap-getroffen-door-nova-ransomware-aanval-nederlandse-fysiotherapeuten-slachtoffer-van-datalek</link>
+			<description>Onbekende fysiotherapiepraktijk | Gezondheids- en welzijnszorg | 28-09-2025 | DataLekt.nl: Op 28 september 2025 is een Nederlandse fysiotherapiepraktijk slachtoffer geworden van een ransomware-aanval door de hackersgroep Nova. Aanvankelijk werd gedacht dat softwareleverancier FysioRoadMap zelf geraakt was, maar later onderzoek bevestigde dat hun centrale systemen veilig zijn gebleven. De criminelen kregen via gestolen inloggegevens toegang tot de RDP-archiefomgeving van de praktijk. Daarbij werd 10 GB aan gevoelige patiëntgegevens buitgemaakt, waaronder meer dan 20.000 documenten met BSN-nummers, telefoonnummers, medische gegevens en foto’s. FysioRoadMap en Z-CERT ondersteunen de getroffen praktijk bij herstel en monitoring, maar de aanval is beperkt tot de praktijk zelf. [Update: Op 30 september 2025 is bekend geworden dat FysioRoadMap zelf niet getroffen was. Dit is gecorrigeerd in het bericht.] (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/2729681_fysioroadmap-getroffen-door-nova-ransomware-aanval-nederlandse-fysiotherapeuten-slachtoffer-van-datalek?datalekt=bf055530c55eddd60b924396590df6ca4d5c3893d456a2bea614c9fc0eec98c3</guid>
+			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -711,14 +719,6 @@
 			<guid isPermaLink="false">https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep?datalekt=faedb589d7594d210a5150d62c79ce86ce1b99befc7c60f760e6e654380ed653</guid>
 			<category>Vervoer en opslag </category>
 			<pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Slijterij Groningen bekritiseerd om &amp;#039;Wall of Shame&amp;#039; met foto&amp;#039;s winkeldieven</title>
-			<link>https://www.rtvnoord.nl/misdaad/1297709/fotos-van-winkeldieven-op-ruit-zijn-verboden-maar-slijterij-groningen-kan-rekenen-op-steun</link>
-			<description>Slijterij Groningen | Groot- en detailhandel | 01-05-2025 | DataLekt.nl: Slijterij Groningen heeft foto’s van vermeende winkeldieven zichtbaar op de winkelruit geplaatst, wat volgens de Autoriteit Persoonsgegevens (AP) in strijd is met de AVG. De AP stelt dat zulke openbare beeldpublicaties mensen onterecht kunnen stigmatiseren en dat alleen een rechter schuld mag vaststellen. Ondanks de juridische bezwaren weigert de winkelier de foto&amp;#039;s te verwijderen en ontvangt hij brede publieke steun. Politie en Openbaar Ministerie erkennen dat de actie onrechtmatig is, maar verwijzen voor handhaving naar de AP. (Bron: rtvnoord.nl)</description>
-			<guid isPermaLink="false">https://www.rtvnoord.nl/misdaad/1297709/fotos-van-winkeldieven-op-ruit-zijn-verboden-maar-slijterij-groningen-kan-rekenen-op-steun?datalekt=d59948ab0edf09cd21b3ae89093879eda0b1f7673550438b1b95514ca5a14733</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
