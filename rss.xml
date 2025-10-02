@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 01 Oct 2025 12:44:31 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 02 Oct 2025 12:40:24 +0000</lastBuildDate>
+		<item>
+			<title>Politieke partijen overtreden opnieuw privacyregels bij online campagnes</title>
+			<link>https://www.binnenlandsbestuur.nl/digitaal/wederom-overtreden-politieke-partijen-privacyregels</link>
+			<description>Onbekende politieke partijen | Overig: Politieke partijen | 30-09-2025 | DataLekt.nl: Tijdens de verkiezingscampagnes blijkt dat meerdere politieke partijen opnieuw persoonsgegevens van kiezers onrechtmatig verwerken via trackingpixels, profilering en advertentietargeting. Ondanks herhaalde waarschuwingen van de Autoriteit Persoonsgegevens blijven deze praktijken terugkeren, terwijl ingrijpen door de toezichthouder uitblijft. Deskundigen waarschuwen dat dit de eerlijkheid van verkiezingen kan ondermijnen en het vertrouwen in het democratisch proces schaadt. De AP heeft alle partijen een brief gestuurd waarin wordt gewezen op de bestaande regels en de nieuwe Europese verordening voor politieke reclame die vanaf 10 oktober 2025 van kracht wordt. (Bron: binnenlandsbestuur.nl)</description>
+			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/digitaal/wederom-overtreden-politieke-partijen-privacyregels?datalekt=31de355d7bd60b0dc722ab020e355705a1e58090db797433a10304fc97d63e09</guid>
+			<category>Overig: Politieke partijen </category>
+			<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Provincie Utrecht lekt persoonsgegevens via Woo-verzoek in wolvendossier</title>
 			<link>https://nos.nl/artikel/2584584-datalek-bij-provincie-utrecht-gegevens-van-betrokkenen-wolvendossier-op-straat</link>
@@ -219,9 +227,9 @@
 		<item>
 			<title>Autoriteit Persoonsgegevens beboet curator voor verkoop harde schijf met medische gegevens, rechter verlaagt boete</title>
 			<link>https://tweakers.net/nieuws/238074/ap-deelt-eerste-boete-aan-individu-uit-maar-rechter-verlaagt-boetebedrag.html</link>
-			<description>Onbekende curator | Wetenschap, techniek en specialistische diensten | 14-08-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens legde in mei 2020 een boete van 310.000 euro op aan een faillissementscurator die een server met harde schijf vol medische gegevens van een failliete zorginstelling had verkocht. Na bezwaar werd het bedrag verlaagd naar 148.750 euro. De curator stapte naar de rechter, die oordeelde dat de boete terecht was, maar te hoog. De rechter verlaagde het bedrag naar 58.125 euro, onder meer omdat de curator deels maatregelen had genomen en de AP veel te traag handelde. Het is de eerste keer dat de AP een boete aan een natuurlijk persoon oplegt; in dit geval trad de betrokkene op in een professionele hoedanigheid als curator. Het incident begon in 2018 na een tip van een koper van de faillissementsboedel. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/238074/ap-deelt-eerste-boete-aan-individu-uit-maar-rechter-verlaagt-boetebedrag.html?datalekt=509f0bbbcda6528e7ffd42d3d1ed34d2588542f5ef869372cbd9b7128578c575</guid>
-			<category>Wetenschap, techniek en specialistische diensten </category>
+			<description>Onbekende curator | Overig: Natuurlijk persoon | 14-08-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens legde in mei 2020 een boete van 310.000 euro op aan een faillissementscurator die een server met harde schijf vol medische gegevens van een failliete zorginstelling had verkocht. Na bezwaar werd het bedrag verlaagd naar 148.750 euro. De curator stapte naar de rechter, die oordeelde dat de boete terecht was, maar te hoog. De rechter verlaagde het bedrag naar 58.125 euro, onder meer omdat de curator deels maatregelen had genomen en de AP veel te traag handelde. Het is de eerste keer dat de AP een boete aan een natuurlijk persoon oplegt; in dit geval trad de betrokkene op in een professionele hoedanigheid als curator. Het incident begon in 2018 na een tip van een koper van de faillissementsboedel. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/238074/ap-deelt-eerste-boete-aan-individu-uit-maar-rechter-verlaagt-boetebedrag.html?datalekt=d5a62aa4e2d9ea360ccb1011b7df63d20fd95db827d3b45ddc5e28e3eb702f1c</guid>
+			<category>Overig: Natuurlijk persoon </category>
 			<pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -307,9 +315,9 @@
 		<item>
 			<title>Politie Amsterdam getroffen door datalek door intern misbruik politieagent</title>
 			<link>https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken/Rechtbank-Amsterdam/Nieuws/Paginas/Schenden-van-het-ambtsgeheim-en-computervredebreuk-door-politieagent-bestraft.aspx</link>
-			<description>Politie Amsterdam | Overheid: Politie en brandweer | 05-08-2025 | DataLekt.nl: Een politieagent van de politie Amsterdam is veroordeeld voor het schenden van het ambtsgeheim en computervredebreuk nadat hij tussen juni 2021 en oktober 2023 zonder geldige reden vertrouwelijke informatie uit politiesystemen raadpleegde. Hij verzamelde gegevens over familieleden, collega’s, en opsporingsonderzoeken, en deelde deze vervolgens met vrienden, onder meer over spraakmakende zaken zoals de gijzeling in de Apple Store en de moord op Peter R. de Vries. De rechtbank oordeelde dat hij misbruik maakte van zijn machtspositie en legde een taakstraf van 240 uur en een voorwaardelijke gevangenisstraf van één maand op. (Bron: rechtspraak.nl)</description>
-			<guid isPermaLink="false">https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken/Rechtbank-Amsterdam/Nieuws/Paginas/Schenden-van-het-ambtsgeheim-en-computervredebreuk-door-politieagent-bestraft.aspx?datalekt=34b676713a0f73342ce4619c394aca013a89fa9709f09d1a506e77e5d61afe30</guid>
-			<category>Overheid: Politie en brandweer </category>
+			<description>Politie Amsterdam | Overheid: Politie | 05-08-2025 | DataLekt.nl: Een politieagent van de politie Amsterdam is veroordeeld voor het schenden van het ambtsgeheim en computervredebreuk nadat hij tussen juni 2021 en oktober 2023 zonder geldige reden vertrouwelijke informatie uit politiesystemen raadpleegde. Hij verzamelde gegevens over familieleden, collega’s, en opsporingsonderzoeken, en deelde deze vervolgens met vrienden, onder meer over spraakmakende zaken zoals de gijzeling in de Apple Store en de moord op Peter R. de Vries. De rechtbank oordeelde dat hij misbruik maakte van zijn machtspositie en legde een taakstraf van 240 uur en een voorwaardelijke gevangenisstraf van één maand op. (Bron: rechtspraak.nl)</description>
+			<guid isPermaLink="false">https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken/Rechtbank-Amsterdam/Nieuws/Paginas/Schenden-van-het-ambtsgeheim-en-computervredebreuk-door-politieagent-bestraft.aspx?datalekt=e72402678d903906a96f91579e48fbebeef2f5518ed0555bd5f9c2f9be762ef1</guid>
+			<category>Overheid: Politie </category>
 			<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -435,9 +443,9 @@
 		<item>
 			<title>Politie Amsterdam getroffen door datalek via misbruik accounts door collega-agent</title>
 			<link>https://beveiligingnieuws.nl/rol-bij-schenden-ambtsgeheim-politieagent-bestraft/</link>
-			<description>Politie Amsterdam | Overheid: Politie en brandweer | 09-07-2025 | DataLekt.nl: Een voormalig politieagent van de eenheid Amsterdam is veroordeeld tot 18 maanden gevangenisstraf wegens het schenden van het ambtsgeheim, computervredebreuk, omkoping en misbruik van collega-accounts. Tussen september 2022 en april 2024 gaf hij op verzoek van zijn broer vertrouwelijke informatie uit politiesystemen door aan criminelen, tegen betaling. De agent gebruikte zonder toestemming de inloggegevens van collega’s om informatie over kentekens en personen op te vragen. De zaak kwam aan het licht nadat politieonderzoek verdere misdrijven wist te voorkomen. (Bron: beveiligingnieuws.nl)</description>
-			<guid isPermaLink="false">https://beveiligingnieuws.nl/rol-bij-schenden-ambtsgeheim-politieagent-bestraft/?datalekt=16076cd0aa771bbda4ff0c12d3d1a86ca5636fb1bbbdd34d4ecdba8094ce6512</guid>
-			<category>Overheid: Politie en brandweer </category>
+			<description>Politie Amsterdam | Overheid: Politie | 09-07-2025 | DataLekt.nl: Een voormalig politieagent van de eenheid Amsterdam is veroordeeld tot 18 maanden gevangenisstraf wegens het schenden van het ambtsgeheim, computervredebreuk, omkoping en misbruik van collega-accounts. Tussen september 2022 en april 2024 gaf hij op verzoek van zijn broer vertrouwelijke informatie uit politiesystemen door aan criminelen, tegen betaling. De agent gebruikte zonder toestemming de inloggegevens van collega’s om informatie over kentekens en personen op te vragen. De zaak kwam aan het licht nadat politieonderzoek verdere misdrijven wist te voorkomen. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/rol-bij-schenden-ambtsgeheim-politieagent-bestraft/?datalekt=5e7461c3a35d35acb76ae01f95adc2e2f10e8f2b46e0539d1ac29688dea80673</guid>
+			<category>Overheid: Politie </category>
 			<pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -563,9 +571,9 @@
 		<item>
 			<title>Politie bewaart gegevens langer dan wettelijk toegestaan ondanks risico’s voor burgers</title>
 			<link>https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan</link>
-			<description>Nationale Politie | Overheid: Politie en brandweer | 19-06-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft de Tweede Kamer geïnformeerd dat de politie structureel gegevens bewaart van miljoenen onschuldige burgers, terwijl de wettelijke termijnen daarvoor zijn overschreden. Het betreft onder andere notities over burenruzies of verkeerszaken die volgens de wet na 5 tot 10 jaar vernietigd moeten worden. De minister van Justitie en Veiligheid accepteert deze overtreding sinds 2019 in afwachting van wetswijzigingen die tot op heden uitblijven. De AP benadrukt dat dit ernstige risico’s voor de privacy van betrokkenen met zich meebrengt. (Bron: autoriteitpersoonsgegevens.nl)</description>
-			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan?datalekt=5b45a73f4551a1271fa4fa3939f670c948fb7e265ae65b20eb76bc68973db9ee</guid>
-			<category>Overheid: Politie en brandweer </category>
+			<description>Nationale Politie | Overheid: Politie | 19-06-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft de Tweede Kamer geïnformeerd dat de politie structureel gegevens bewaart van miljoenen onschuldige burgers, terwijl de wettelijke termijnen daarvoor zijn overschreden. Het betreft onder andere notities over burenruzies of verkeerszaken die volgens de wet na 5 tot 10 jaar vernietigd moeten worden. De minister van Justitie en Veiligheid accepteert deze overtreding sinds 2019 in afwachting van wetswijzigingen die tot op heden uitblijven. De AP benadrukt dat dit ernstige risico’s voor de privacy van betrokkenen met zich meebrengt. (Bron: autoriteitpersoonsgegevens.nl)</description>
+			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan?datalekt=d005e2c79eae6710a9a34b3886e63ba8c39159d5759d6eac51bfba026a034751</guid>
+			<category>Overheid: Politie </category>
 			<pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -713,14 +721,6 @@
 			<pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>GVB tijdelijk onbereikbaar door DDoS-aanval pro-Russische groep</title>
-			<link>https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep</link>
-			<description>GVB | Vervoer en opslag | 03-05-2025 | DataLekt.nl: Het GVB, de openbaar vervoerder voor de regio Amsterdam, werd deze week slachtoffer van een DDoS-aanval uitgevoerd door de pro-Russische hackersgroep NoName057(16). De aanval maakte de website tijdelijk onbereikbaar. De hackersgroep voert sinds de Russische inval in Oekraïne gerichte aanvallen uit op organisaties in NAVO-landen, vaak als reactie op politieke steunmaatregelen aan Oekraïne. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep?datalekt=faedb589d7594d210a5150d62c79ce86ce1b99befc7c60f760e6e654380ed653</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
 			<link>https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/</link>
 			<description>Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. [Update: Op 22 april 2025 is ook bekend geworden dat salarisgegevens en namen van medewerkers zijn gelekt.] [Update: Op 27 juni 2025 werd gemeld dat bij de ransomware-aanval, die rond 5 november 2024 plaatsvond, persoonlijke gegevens van meer dan 2,2 miljoen mensen zijn buitgemaakt.] (Bron: ad.nl)</description>
@@ -747,9 +747,9 @@
 		<item>
 			<title>Gegevens van ruim 63.000 politiemedewerkers gestolen bij grote hack</title>
 			<link>https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html</link>
-			<description>Nationale Politie | Overheid: Politie en brandweer | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 63.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. [Update: Op 27 mei 2025 is bekend geworden dat een vermoedelijk door Rusland gesteunde hackersgroep, Laundry Bear, verantwoordelijk wordt gehouden voor de aanval.] (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=84507a755146766d8f05be7273b7ae3cdd51894c0fb7232dfbab9e4bda0bfc7d</guid>
-			<category>Overheid: Politie en brandweer </category>
+			<description>Nationale Politie | Overheid: Politie | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 63.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. [Update: Op 27 mei 2025 is bekend geworden dat een vermoedelijk door Rusland gesteunde hackersgroep, Laundry Bear, verantwoordelijk wordt gehouden voor de aanval.] (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=1a14ebe83633349639805635252562b5fbfa36399ba71ddd50ebb54e8bbf0c74</guid>
+			<category>Overheid: Politie </category>
 			<pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
