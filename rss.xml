@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 07 Oct 2025 01:36:31 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 07 Oct 2025 12:42:41 +0000</lastBuildDate>
+		<item>
+			<title>Sunweb getroffen door datalek waarbij klantgegevens werden misbruikt voor phishingmails</title>
+			<link>https://tweakers.net/nieuws/239986/sunweb-bevestigt-datalek-klanten-kregen-betalingsverzoeken-voor-hun-reis.html</link>
+			<description>Sunweb Group | Verhuur en zakelijke dienstverlening | 06-10-2025 | DataLekt.nl: Reisorganisatie Sunweb Group is getroffen door een datalek nadat criminelen toegang kregen tot klantgegevens via een Nederlands systeem van het bedrijf. Daarbij werden onder meer namen, e-mailadressen, telefoonnummers en boekingsinformatie, inclusief reisdata en bestemmingen, buitgemaakt. Vanaf 30 september zijn deze gegevens misbruikt in phishingmails waarin klanten werd gevraagd om hun reis te bevestigen en een betaling te doen. Sunweb heeft klanten gewaarschuwd dat dergelijke betaalverzoeken vals zijn en meldt dat meerdere systemen inmiddels zijn versterkt. De Autoriteit Persoonsgegevens is ingelicht over het incident. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/239986/sunweb-bevestigt-datalek-klanten-kregen-betalingsverzoeken-voor-hun-reis.html?datalekt=ebd096842a2c937908d1e6de49a7a486dcf7ee0a19d44f40ff424c1d71b86245</guid>
+			<category>Verhuur en zakelijke dienstverlening </category>
+			<pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Teeuwissen Rioolreiniging getroffen door ransomware aanval van de criminele organisatie Devman</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -711,14 +719,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=02db817dedd28963c9d6c4361dd587f1595dace58072b677f44f2c698a5f8a25</guid>
 			<category>Wetenschap, techniek en specialistische diensten </category>
 			<pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Amsterdam getroffen door ernstig datalek: boa lekte persoonsgegevens aan criminelen</title>
-			<link>https://beveiligingnieuws.nl/boa-voor-rechter-om-lekken-persoonsgegevens-aan-criminelen/</link>
-			<description>Gemeente Amsterdam | Overheid: Gemeenten | 08-05-2025 | DataLekt.nl: In mei 2025 werd bekend dat een buitengewoon opsporingsambtenaar (boa) van de gemeente Amsterdam jarenlang vertrouwelijke persoonsgegevens uit gemeentelijke systemen deelde met criminelen. De gelekte gegevens leidden tot ernstige incidenten, waaronder een woningbeschieting met een AK-47. Tegen de vrouw is vier jaar cel geëist, waarvan één voorwaardelijk. Zij zou onder meer adressen hebben opgezocht op basis van kentekens en BSN&amp;#039;s. Het Openbaar Ministerie spreekt van een levensgevaarlijk datalek binnen het ambtenarenapparaat. (Bron: beveiligingnieuws.nl)</description>
-			<guid isPermaLink="false">https://beveiligingnieuws.nl/boa-voor-rechter-om-lekken-persoonsgegevens-aan-criminelen/?datalekt=13553891209e413f845a7adee617f354f4d1fa94aaf6c48dfc7d05b040149bba</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>

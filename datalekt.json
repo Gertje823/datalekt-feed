@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/239986/sunweb-bevestigt-datalek-klanten-kregen-betalingsverzoeken-voor-hun-reis.html?datalekt=ebd096842a2c937908d1e6de49a7a486dcf7ee0a19d44f40ff424c1d71b86245",
+        "url": "https://tweakers.net/nieuws/239986/sunweb-bevestigt-datalek-klanten-kregen-betalingsverzoeken-voor-hun-reis.html",
+        "title": "Sunweb getroffen door datalek waarbij klantgegevens werden misbruikt voor phishingmails",
+        "date_published": "2025-10-07T12:39:00Z",
+        "date_modified": "2025-10-07T12:39:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Sunweb Group | Verhuur en zakelijke dienstverlening | 06-10-2025 | DataLekt.nl: Reisorganisatie Sunweb Group is getroffen door een datalek nadat criminelen toegang kregen tot klantgegevens via een Nederlands systeem van het bedrijf. Daarbij werden onder meer namen, e-mailadressen, telefoonnummers en boekingsinformatie, inclusief reisdata en bestemmingen, buitgemaakt. Vanaf 30 september zijn deze gegevens misbruikt in phishingmails waarin klanten werd gevraagd om hun reis te bevestigen en een betaling te doen. Sunweb heeft klanten gewaarschuwd dat dergelijke betaalverzoeken vals zijn en meldt dat meerdere systemen inmiddels zijn versterkt. De Autoriteit Persoonsgegevens is ingelicht over het incident. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4010ad4319183c312626289ec83b8c1942ba5099a3c7d7024bed23db1a388fd3",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Teeuwissen Rioolreiniging getroffen door ransomware aanval van de criminele organisatie Devman",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld ge\u00ebist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari 2025 is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] [Update: Op 9 mei 2025 meldde TU/e dat het ontbreken van mfa op de vpn mogelijk toegang gaf tot het netwerk. Er is inmiddels een nieuwe vpn met mfa en betere monitoring ingevoerd.] (Bron: tweakers.net / computable.nl)"
-    },
-    {
-        "id": "https://beveiligingnieuws.nl/boa-voor-rechter-om-lekken-persoonsgegevens-aan-criminelen/?datalekt=13553891209e413f845a7adee617f354f4d1fa94aaf6c48dfc7d05b040149bba",
-        "url": "https://beveiligingnieuws.nl/boa-voor-rechter-om-lekken-persoonsgegevens-aan-criminelen/",
-        "title": "Gemeente Amsterdam getroffen door ernstig datalek: boa lekte persoonsgegevens aan criminelen",
-        "date_published": "2025-05-10T17:10:00Z",
-        "date_modified": "2025-05-10T17:10:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "beveiligingnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 08-05-2025 | DataLekt.nl: In mei 2025 werd bekend dat een buitengewoon opsporingsambtenaar (boa) van de gemeente Amsterdam jarenlang vertrouwelijke persoonsgegevens uit gemeentelijke systemen deelde met criminelen. De gelekte gegevens leidden tot ernstige incidenten, waaronder een woningbeschieting met een AK-47. Tegen de vrouw is vier jaar cel ge\u00ebist, waarvan \u00e9\u00e9n voorwaardelijk. Zij zou onder meer adressen hebben opgezocht op basis van kentekens en BSN&#039;s. Het Openbaar Ministerie spreekt van een levensgevaarlijk datalek binnen het ambtenarenapparaat. (Bron: beveiligingnieuws.nl)"
     }
 ]
