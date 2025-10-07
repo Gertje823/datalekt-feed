@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 02 Oct 2025 12:40:24 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 07 Oct 2025 01:36:31 +0000</lastBuildDate>
+		<item>
+			<title>Teeuwissen Rioolreiniging getroffen door ransomware aanval van de criminele organisatie Devman</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Teeuwissen Rioolreiniging | Water en afvalbeheer | 03-10-2025 | DataLekt.nl: De criminele organisatie Devman heeft op het darkweb aangekondigd dat zij Teeuwissen Rioolreiniging heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4010ad4319183c312626289ec83b8c1942ba5099a3c7d7024bed23db1a388fd3</guid>
+			<category>Water en afvalbeheer </category>
+			<pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Politieke partijen overtreden opnieuw privacyregels bij online campagnes</title>
 			<link>https://www.binnenlandsbestuur.nl/digitaal/wederom-overtreden-politieke-partijen-privacyregels</link>
@@ -711,14 +719,6 @@
 			<guid isPermaLink="false">https://beveiligingnieuws.nl/boa-voor-rechter-om-lekken-persoonsgegevens-aan-criminelen/?datalekt=13553891209e413f845a7adee617f354f4d1fa94aaf6c48dfc7d05b040149bba</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Meer dan vijftig Nederlandse websites getroffen door gecoördineerde DDoS-aanval NoName057(16)</title>
-			<link>https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep</link>
-			<description>36 onbekende organisaties | Overige dienstverlening | 03-05-2025 | DataLekt.nl: In de week van 28 april tot 3 mei 2025 werden meer dan vijftig Nederlandse websites getroffen door een reeks DDoS-aanvallen, uitgevoerd door de pro-Russische hackersgroep NoName057(16). De aanvallen richtten zich op overheidswebsites, vervoersbedrijven en mediaplatforms, en volgden op Nederlandse kabinetssteun aan Oekraïne. Het Nationaal Cyber Security Centrum (NCSC) monitort de situatie. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2565889-ruim-vijftig-websites-nederland-deze-week-doelwit-pro-russische-hackersgroep?datalekt=75f5194a2672e8cd8152e8c9e0fabc10c63da6916814c74b2b432585b0366b4b</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
