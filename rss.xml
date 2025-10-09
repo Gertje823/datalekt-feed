@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 07 Oct 2025 12:42:41 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 09 Oct 2025 01:37:23 +0000</lastBuildDate>
+		<item>
+			<title>Financieel administrateur pleegt grootschalige fraude met klantgegevens bij DELA</title>
+			<link>https://www.nu.nl/economie/6371614/grootschalige-fraude-gepleegd-door-administrateur-bij-uitvaartorganisatie-dela.html</link>
+			<description>DELA | Financiële diensten | 07-10-2025 | DataLekt.nl: Bij uitvaartorganisatie DELA is tussen 2021 en begin 2022 grootschalige fraude gepleegd door een financieel administrateur binnen Yarden, het uitvaartbedrijf dat DELA kort daarvoor had overgenomen. De medewerker speelde vertrouwelijke klant- en leveranciersgegevens door en liet ruim 80.000 euro aan frauduleuze betalingen uitvoeren. De fraude kwam aan het licht toen een betaling terechtkwam op een onbekend KNAB-rekeningnummer. Na zijn bekentenis werd de werknemer ontslagen, en DELA deed aangifte. De civiele rechter veroordeelde hem in 2024 tot terugbetaling van 84.000 euro. DELA heeft inmiddels haar interne controles aangescherpt. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/economie/6371614/grootschalige-fraude-gepleegd-door-administrateur-bij-uitvaartorganisatie-dela.html?datalekt=06724cfb6cc45bbde37107f9c9d5f9a50b57a01d057316583b10fb5bfa964b76</guid>
+			<category>Financiële diensten </category>
+			<pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Sunweb getroffen door datalek waarbij klantgegevens werden misbruikt voor phishingmails</title>
 			<link>https://tweakers.net/nieuws/239986/sunweb-bevestigt-datalek-klanten-kregen-betalingsverzoeken-voor-hun-reis.html</link>
@@ -727,14 +735,6 @@
 			<guid isPermaLink="false">https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/?datalekt=f6ca61c8bf2cdaf494d2dd7dfcc87be37898c44d537fd5b7f4a729e6ba044ead</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil</title>
-			<link>https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html</link>
-			<description>Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld geëist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari 2025 is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] [Update: Op 9 mei 2025 meldde TU/e dat het ontbreken van mfa op de vpn mogelijk toegang gaf tot het netwerk. Er is inmiddels een nieuwe vpn met mfa en betere monitoring ingevoerd.] (Bron: tweakers.net / computable.nl)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=85f42aef304a1beee060b61b7526dd6aaa818773d2a03fa5e90d998e3a431b7e</guid>
-			<category>Onderwijs </category>
-			<pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>ASML slachtoffer van bedrijfsspionage door Russische oud-medewerker</title>

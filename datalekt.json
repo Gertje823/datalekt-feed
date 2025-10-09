@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.nu.nl/economie/6371614/grootschalige-fraude-gepleegd-door-administrateur-bij-uitvaartorganisatie-dela.html?datalekt=06724cfb6cc45bbde37107f9c9d5f9a50b57a01d057316583b10fb5bfa964b76",
+        "url": "https://www.nu.nl/economie/6371614/grootschalige-fraude-gepleegd-door-administrateur-bij-uitvaartorganisatie-dela.html",
+        "title": "Financieel administrateur pleegt grootschalige fraude met klantgegevens bij DELA",
+        "date_published": "2025-10-08T10:35:00Z",
+        "date_modified": "2025-10-08T10:35:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "DELA | Financi\u00eble diensten | 07-10-2025 | DataLekt.nl: Bij uitvaartorganisatie DELA is tussen 2021 en begin 2022 grootschalige fraude gepleegd door een financieel administrateur binnen Yarden, het uitvaartbedrijf dat DELA kort daarvoor had overgenomen. De medewerker speelde vertrouwelijke klant- en leveranciersgegevens door en liet ruim 80.000 euro aan frauduleuze betalingen uitvoeren. De fraude kwam aan het licht toen een betaling terechtkwam op een onbekend KNAB-rekeningnummer. Na zijn bekentenis werd de werknemer ontslagen, en DELA deed aangifte. De civiele rechter veroordeelde hem in 2024 tot terugbetaling van 84.000 euro. DELA heeft inmiddels haar interne controles aangescherpt. (Bron: nu.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/239986/sunweb-bevestigt-datalek-klanten-kregen-betalingsverzoeken-voor-hun-reis.html?datalekt=ebd096842a2c937908d1e6de49a7a486dcf7ee0a19d44f40ff424c1d71b86245",
         "url": "https://tweakers.net/nieuws/239986/sunweb-bevestigt-datalek-klanten-kregen-betalingsverzoeken-voor-hun-reis.html",
         "title": "Sunweb getroffen door datalek waarbij klantgegevens werden misbruikt voor phishingmails",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "ABFIAD Groep | Wetenschap, techniek en specialistische diensten | 11-05-2025 | DataLekt.nl: De criminele organisatie Safepay heeft op het darkweb aangekondigd dat zij ABFIAD Groep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html?datalekt=85f42aef304a1beee060b61b7526dd6aaa818773d2a03fa5e90d998e3a431b7e",
-        "url": "https://tweakers.net/nieuws/230730/technische-universiteit-eindhoven-schort-onderwijs-op-na-cyberaanval.html",
-        "title": "Cyberaanval legt onderwijs en netwerken Technische Universiteit Eindhoven stil",
-        "date_published": "2025-01-12T15:37:00Z",
-        "date_modified": "2025-05-10T17:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Technische Universiteit Eindhoven (TU/e) | Onderwijs | 12-01-2025 | DataLekt.nl: De Technische Universiteit Eindhoven (TU/e) heeft op zondag haar netwerken afgesloten na een cyberaanval. Het is onduidelijk wat voor aanval het betreft, maar volgens de universiteit is er geen contact met hackers en wordt er geen losgeld ge\u00ebist. Studenten en werknemers kunnen de campus betreden, maar hebben geen toegang tot e-mail, het wifinetwerk en communicatietools. Het onderwijs is stilgelegd tot minimaal dinsdag, terwijl de ICT-afdeling het incident onderzoekt. [Update: Op 24 januari 2025 is bekend geworden dat de inbrekers gestolen logingegevens hebben gebruikt. TU/e is een week lang stilgelegd.] [Update: Op 9 mei 2025 meldde TU/e dat het ontbreken van mfa op de vpn mogelijk toegang gaf tot het netwerk. Er is inmiddels een nieuwe vpn met mfa en betere monitoring ingevoerd.] (Bron: tweakers.net / computable.nl)"
     }
 ]
