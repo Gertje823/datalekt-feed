@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 09 Oct 2025 01:37:23 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 11 Oct 2025 01:26:20 +0000</lastBuildDate>
+		<item>
+			<title>Albert Schweitzer Ziekenhuis ontslaat twee medewerkers wegens ongeoorloofde inzage in 1.100 patiëntendossiers</title>
+			<link>https://www.nu.nl/binnenland/6371804/ziekenhuis-ontslaat-twee-medewerkers-die-ongeoorloofd-in-1100-dossiers-keken.html</link>
+			<description>Albert Schweitzer Ziekenhuis | Gezondheids- en welzijnszorg | 09-10-2025 | DataLekt.nl: Het Albert Schweitzer Ziekenhuis heeft twee medewerkers ontslagen omdat zij zonder toestemming in ruim 1.100 patiëntendossiers hebben gekeken. De overtreding kwam aan het licht tijdens een interne controle. Een van de medewerkers bekeek onder meer de dossiers van mensen uit zijn eigen omgeving, terwijl de ander vanuit een niet-zorgfunctie beperkte toegang had tot persoonsgegevens zoals namen en adressen. Het ziekenhuis heeft de betrokken patiënten geïnformeerd en melding gedaan bij de Autoriteit Persoonsgegevens en de Inspectie Gezondheidszorg en Jeugd. De interne controles worden aangescherpt. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/binnenland/6371804/ziekenhuis-ontslaat-twee-medewerkers-die-ongeoorloofd-in-1100-dossiers-keken.html?datalekt=339a01d63db372fb3bc9cea32736be6a533a789bba38aec16376d56c1744e73c</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bedrijven in Volendam getroffen door ransomware na hack bij ICT-dienstverlener SMILE Computers</title>
+			<link>https://nos.nl/regio/noord-holland/artikel/681947-hack-in-volendam-begon-bij-lokaal-ict-bedrijf</link>
+			<description>Onbekend aantal bedrijven | Overige dienstverlening | 08-10-2025 | DataLekt.nl: Een onbekend aantal bedrijven in Volendam is getroffen door een ransomware-aanval nadat hackers via een kwetsbaarheid bij hun ICT-dienstverlener, SMILE Computers, toegang kregen tot hun servers. De criminelen versleutelden gegevens en eisten losgeld, met bedragen tot 5.000 euro. Geen van de getroffen organisaties heeft betaald. SMILE Computers ondersteunt de herstelwerkzaamheden, zoals het terugzetten van back-ups en herinstallatie van servers. De politie onderzoekt het incident. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/regio/noord-holland/artikel/681947-hack-in-volendam-begon-bij-lokaal-ict-bedrijf?datalekt=c8d0ccc193603940b36b511b297abe85894dc07979830b95f3b20fe1c6e119e4</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Beveiligingslek bij SMILE Computers maakte ransomware-aanval op klanten mogelijk</title>
+			<link>https://nos.nl/regio/noord-holland/artikel/681947-hack-in-volendam-begon-bij-lokaal-ict-bedrijf</link>
+			<description>SMILE Computers | ICT en telecommunicatie | 08-10-2025 | DataLekt.nl: Hackers hebben misbruik gemaakt van een beveiligingsfout in de software van het Volendamse ICT-bedrijf SMILE Computers, waardoor zij toegang kregen tot klantomgevingen. Via dit lek konden de aanvallers doordringen tot servers van aangesloten bedrijven, waar vervolgens ransomware werd geplaatst. SMILE Computers zelf lijkt niet te zijn gegijzeld, maar fungeerde als toegangspunt tot de getroffen klanten. Het bedrijf heeft aangifte gedaan en melding gemaakt bij de Autoriteit Persoonsgegevens. De politie onderzoekt de zaak via de cybercrime-afdeling. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/regio/noord-holland/artikel/681947-hack-in-volendam-begon-bij-lokaal-ict-bedrijf?datalekt=5fb49fb42d6f25895294eba17e6e046ca7b4e970e144a8b6ca570c68682eb0d1</guid>
+			<category>ICT en telecommunicatie </category>
+			<pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Financieel administrateur pleegt grootschalige fraude met klantgegevens bij DELA</title>
 			<link>https://www.nu.nl/economie/6371614/grootschalige-fraude-gepleegd-door-administrateur-bij-uitvaartorganisatie-dela.html</link>
@@ -703,30 +727,6 @@
 			<guid isPermaLink="false">https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers?datalekt=9bc69f1a5ab4286b81f383ff907f0f82b93d132687da1a0085bfb0d1b2d886e3</guid>
 			<category>Kunst, cultuur en recreatie </category>
 			<pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Amsterdam getroffen door ernstig datalek: ambtenaar verkocht adressen aan criminelen</title>
-			<link>https://beveiligingnieuws.nl/slachtoffers-explosies-gevonden-via-corrupte-ambtenaar/</link>
-			<description>Gemeente Amsterdam | Overheid: Gemeenten | 12-05-2025 | DataLekt.nl: In mei 2025 is een 46-jarige administratief medewerker van de gemeente Amsterdam aangehouden wegens het verkopen van persoonsgegevens uit gemeentelijke systemen, waaronder de Basisregistratie Personen (BRP). De gelekte gegevens zouden door criminele netwerken zijn gebruikt om adressen te selecteren voor explosies en ander geweld, ook buiten Amsterdam. Het Openbaar Ministerie verdenkt de ambtenaar van corruptie en medeplichtigheid. De datalekken zouden over langere tijd hebben plaatsgevonden. (Bron: beveiligingnieuws.nl)</description>
-			<guid isPermaLink="false">https://beveiligingnieuws.nl/slachtoffers-explosies-gevonden-via-corrupte-ambtenaar/?datalekt=eec9b74dc68c03ad6ce72800bb8d162ba2aeeb5787a117c5b944f3ab9574fb31</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Utrecht getroffen door DDoS-aanval van Russische hackersgroep NoName057(16)</title>
-			<link>https://www.nieuws030.nl/nieuws/ook-gemeente-utrecht-doelwit-van-ddos-aanval/</link>
-			<description>Gemeente Utrecht | Overheid: Gemeenten | 10-05-2025 | DataLekt.nl: In mei 2025 werd bekend dat ook de gemeente Utrecht doelwit is geweest van DDoS-aanvallen, vermoedelijk uitgevoerd door de Russische hackersgroep NoName057(16). De aanval leidde tot ernstige prestatieproblemen op de website, mogelijk als onderdeel van een bredere golf aanvallen op Nederlandse overheidswebsites. In totaal werden websites van twintig gemeenten en provincies getroffen. (Bron: nieuws030.nl)</description>
-			<guid isPermaLink="false">https://www.nieuws030.nl/nieuws/ook-gemeente-utrecht-doelwit-van-ddos-aanval/?datalekt=5f9f0747eee39f5ef7049f049e28b08dde763ccd2ae5e822b46f1868398c54f0</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>ABFIAD Groep getroffen door ransomware aanval van de criminele organisatie Safepay</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>ABFIAD Groep | Wetenschap, techniek en specialistische diensten | 11-05-2025 | DataLekt.nl: De criminele organisatie Safepay heeft op het darkweb aangekondigd dat zij ABFIAD Groep heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=02db817dedd28963c9d6c4361dd587f1595dace58072b677f44f2c698a5f8a25</guid>
-			<category>Wetenschap, techniek en specialistische diensten </category>
-			<pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
