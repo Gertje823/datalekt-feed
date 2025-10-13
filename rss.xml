@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 11 Oct 2025 01:26:20 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 13 Oct 2025 01:44:20 +0000</lastBuildDate>
+		<item>
+			<title>Den Hartogh Logistics getroffen door ransomware aanval van de criminele organisatie Anubis</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Den Hartogh Logistics | Vervoer en opslag | 11-10-2025 | DataLekt.nl: De criminele organisatie Anubis heeft op het darkweb aangekondigd dat zij Den Hartogh Logistics heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8b65a057d166adfab03a056795cf7b1c02068cb295e1e1091879ba2973bf8ef8</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Albert Schweitzer Ziekenhuis ontslaat twee medewerkers wegens ongeoorloofde inzage in 1.100 patiëntendossiers</title>
 			<link>https://www.nu.nl/binnenland/6371804/ziekenhuis-ontslaat-twee-medewerkers-die-ongeoorloofd-in-1100-dossiers-keken.html</link>
@@ -718,14 +726,6 @@
 			<description>Dans Fit Fun | Groot- en detailhandel | 03-05-2025 | DataLekt.nl: Dansschool Dans Fit Fun uit Roosendaal is al sinds 2023 de toegang kwijt tot haar zakelijke Facebookpagina na een hack. De pagina werd overgenomen en gevuld met misleidende content en links naar online games. Pogingen om de pagina terug te krijgen mislukten, terwijl Meta de eigenaar beschuldigde van fraude. De dansschool is tot op heden de controle over het account kwijt. (Bron: rtl.nl)</description>
 			<guid isPermaLink="false">https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers?datalekt=d3df65e3ec4e6d06a90f21e430936a9c52324ee6a1af0c87aa814658b18d9aa8</guid>
 			<category>Groot- en detailhandel </category>
-			<pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Facebookhack legt jonge onderneming Boutoi maandenlang plat</title>
-			<link>https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers</link>
-			<description>Boutoi | Kunst, cultuur en recreatie | 03-05-2025 | DataLekt.nl: In april 2024 verloor een Nederlandse startup de toegang tot zijn zakelijke Facebookpagina nadat een hacker zichzelf beheerder had gemaakt. Via het account werden ongewenste advertenties geplaatst en werd de gekoppelde creditcard misbruikt. Pas na acht maanden werd de pagina hersteld. De onderneming liep in die periode naar schatting 200.000 euro omzet mis. Het verlies aan toegang tot het verkoopkanaal had langdurige impact. (Bron: rtl.nl)</description>
-			<guid isPermaLink="false">https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers?datalekt=9bc69f1a5ab4286b81f383ff907f0f82b93d132687da1a0085bfb0d1b2d886e3</guid>
-			<category>Kunst, cultuur en recreatie </category>
 			<pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
