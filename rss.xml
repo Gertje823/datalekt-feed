@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 13 Oct 2025 01:44:20 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 15 Oct 2025 01:40:52 +0000</lastBuildDate>
+		<item>
+			<title>Bun getroffen door ransomware aanval van de criminele organisatie ThreeAM</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Bun | Onroerend goed | 13-10-2025 | DataLekt.nl: De criminele organisatie ThreeAM heeft op het darkweb aangekondigd dat zij Bun heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6eb52402750407c1f69211bd2459ceb8150cc01c28d678361946e7a1341e31ac</guid>
+			<category>Onroerend goed </category>
+			<pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Den Hartogh Logistics getroffen door ransomware aanval van de criminele organisatie Anubis</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -719,14 +727,6 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/235194/omrop-fryslan-onderschept-gegevens-door-ontbrekende-domeinnaam-dantumadiel.html?datalekt=bdb2919c2f214c9cde5cde8f05fbb2532a108d88baf105266c66de9aa9098c35</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Dansschool Dans Fit Fun twee jaar buitengesloten na hack van Facebookpagina</title>
-			<link>https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers</link>
-			<description>Dans Fit Fun | Groot- en detailhandel | 03-05-2025 | DataLekt.nl: Dansschool Dans Fit Fun uit Roosendaal is al sinds 2023 de toegang kwijt tot haar zakelijke Facebookpagina na een hack. De pagina werd overgenomen en gevuld met misleidende content en links naar online games. Pogingen om de pagina terug te krijgen mislukten, terwijl Meta de eigenaar beschuldigde van fraude. De dansschool is tot op heden de controle over het account kwijt. (Bron: rtl.nl)</description>
-			<guid isPermaLink="false">https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers?datalekt=d3df65e3ec4e6d06a90f21e430936a9c52324ee6a1af0c87aa814658b18d9aa8</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>

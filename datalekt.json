@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6eb52402750407c1f69211bd2459ceb8150cc01c28d678361946e7a1341e31ac",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Bun getroffen door ransomware aanval van de criminele organisatie ThreeAM",
+        "date_published": "2025-10-14T11:11:00Z",
+        "date_modified": "2025-10-14T11:11:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Bun | Onroerend goed | 13-10-2025 | DataLekt.nl: De criminele organisatie ThreeAM heeft op het darkweb aangekondigd dat zij Bun heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8b65a057d166adfab03a056795cf7b1c02068cb295e1e1091879ba2973bf8ef8",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Den Hartogh Logistics getroffen door ransomware aanval van de criminele organisatie Anubis",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) | Overheid: Zelfstandige bestuursorganen | 14-02-2021 | DataLekt.nl: De Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) heeft te maken gehad met een cyberaanval van de criminele groep DoppelPaymer. Als gevolg hiervan zijn de applicaties binnen het netwerk van NWO tijdelijk onbereikbaar. Om verdere risico&#039;s te beperken, heeft de organisatie besloten om subsidieaanvragen tijdelijk stop te zetten. Er is geen specifieke informatie verstrekt over de aanvaller of de omvang van de schade, noch over het aantal getroffen individuen. [Update: Op 12 mei 2025 is bekend geworden dat in Moldavi\u00eb een 45-jarige verdachte is aangehouden voor de cyberaanval op NWO in 2021. Hij wordt ervan verdacht de organisatie te hebben gehackt en afgeperst.] (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers?datalekt=d3df65e3ec4e6d06a90f21e430936a9c52324ee6a1af0c87aa814658b18d9aa8",
-        "url": "https://www.rtl.nl/nieuws/onderzoek/artikel/5506912/facebookhacks-treffen-ondernemers",
-        "title": "Dansschool Dans Fit Fun twee jaar buitengesloten na hack van Facebookpagina",
-        "date_published": "2025-05-13T15:46:00Z",
-        "date_modified": "2025-05-13T15:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtl.nl"
-        },
-        "content_html": "",
-        "content_text": "Dans Fit Fun | Groot- en detailhandel | 03-05-2025 | DataLekt.nl: Dansschool Dans Fit Fun uit Roosendaal is al sinds 2023 de toegang kwijt tot haar zakelijke Facebookpagina na een hack. De pagina werd overgenomen en gevuld met misleidende content en links naar online games. Pogingen om de pagina terug te krijgen mislukten, terwijl Meta de eigenaar beschuldigde van fraude. De dansschool is tot op heden de controle over het account kwijt. (Bron: rtl.nl)"
     }
 ]
