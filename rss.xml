@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 15 Oct 2025 01:40:52 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 16 Oct 2025 01:39:49 +0000</lastBuildDate>
+		<item>
+			<title>IGJ: huisartsenspoedposten voldoen niet aan normen voor databeveiliging</title>
+			<link>https://nos.nl/artikel/2586333-inspectie-huisartsenspoedposten-hebben-databeveiliging-niet-op-orde</link>
+			<description>43 onbekende huisartsenspoedposten | Gezondheids- en welzijnszorg | 13-10-2025 | DataLekt.nl: Uit onderzoek van de Inspectie Gezondheidszorg en Jeugd (IGJ) blijkt dat 43 van de 49 organisaties die in Nederland huisartsenspoedposten beheren, niet voldoen aan de wettelijke normen voor databeveiliging. De tekortkomingen betreffen onder meer toegangsbeheer tot patiëntgegevens en het beperken van risico’s op diefstal of verlies van data. Slechts zes organisaties konden aantonen dat zij hun beveiliging onafhankelijk hebben laten certificeren. De IGJ eist dat de overige organisaties maatregelen nemen om hun databeveiliging op orde te brengen en blijft de voortgang volgen. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2586333-inspectie-huisartsenspoedposten-hebben-databeveiliging-niet-op-orde?datalekt=028390af2654b933c2e35ee70d6dcc41ce971d77cac1f348eb4f8ca3dbdb8461</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil</title>
+			<link>https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html</link>
+			<description>Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. (Bron: lc.nl)</description>
+			<guid isPermaLink="false">https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=5eb7f2a8df8057b016d89937e0e7399468a99bc675c7d0b51e7fa8ab561e62f9</guid>
+			<category>Water en afvalbeheer </category>
+			<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>RIVM haalt website offline na hack via kwetsbaarheid in webformulier</title>
+			<link>https://tweakers.net/nieuws/240300/rivm-haalt-website-offline-na-hack-via-webformulier.html</link>
+			<description>Rijksinstituut voor Volksgezondheid en Milieu (RIVM) | Overheid: Agentschappen | 14-10-2025 | DataLekt.nl: Het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) heeft op dinsdag 14 oktober 2025 zijn website tijdelijk offline gehaald nadat hackers via een lek in een webformulier toegang kregen tot het systeem. Door de kwetsbaarheid in gebruikte plug-ins konden aanvallers artikelen met desinformatie op de website plaatsen. Nadat een Reddit-gebruiker de manipulatie opmerkte, besloot het RIVM de site uit voorzorg te sluiten en de technische beveiliging te controleren. Later die dag werd de website weer online gezet, nadat de kwetsbaarheid was verholpen. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/240300/rivm-haalt-website-offline-na-hack-via-webformulier.html?datalekt=2b848e97fe6ea22a178caeb98117bc124b1a837897b08667614871ab0eec0a22</guid>
+			<category>Overheid: Agentschappen </category>
+			<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Bun getroffen door ransomware aanval van de criminele organisatie ThreeAM</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -713,22 +737,6 @@
 			<pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>UWV meldde in 2024 ruim 900 datalekken, waaronder grootschalig lek via Werk.nl</title>
-			<link>https://www.security.nl/posting/888837/UWV+meldde+vorig+jaar+900+datalekken+bij+Autoriteit+Persoonsgegevens</link>
-			<description>Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 22-05-2025 | DataLekt.nl: In 2024 meldde het UWV in totaal 919 datalekken bij de Autoriteit Persoonsgegevens, waarvan 334 formeel meldplichtig waren. Eén groot incident betrof Werk.nl, waar via één werkgeversaccount toegang werd verkregen tot 150.000 cv&amp;#039;s. Mogelijk zijn deze gegevens gedownload. Naar aanleiding hiervan heeft UWV maatregelen genomen, zoals het afschermen van persoonsgegevens in cv’s en het invoeren van strengere technische controles. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/888837/UWV+meldde+vorig+jaar+900+datalekken+bij+Autoriteit+Persoonsgegevens?datalekt=32f9605de9add15193eef5ebb0d1ff2676b9a7b49a949d4485f066462e775c59</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Dantumadiel lekt gevoelige gegevens via ongeclaimde .nl-domeinnaam</title>
-			<link>https://tweakers.net/nieuws/235194/omrop-fryslan-onderschept-gegevens-door-ontbrekende-domeinnaam-dantumadiel.html</link>
-			<description>Gemeente Dantumadiel | Overheid: Gemeenten | 20-05-2025 | DataLekt.nl: In mei 2025 werd bekend dat de gemeente Dantumadiel jarenlang vertrouwelijke e-mails liet lekken doordat ze het domein dantumadiel.nl niet had vastgelegd, terwijl het adres wel in officiële communicatie werd gebruikt. De omroep Omrop Fryslân registreerde het domein en ontving binnen tien dagen 36 e-mails met onder andere BSN-nummers, jeugdhulpdossiers en personeelsinformatie. De gemeente gebruikte sinds 2017 het .frl-domein, maar publiceerde nog .nl-adressen. Er is een datalek gemeld bij de AP. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/235194/omrop-fryslan-onderschept-gegevens-door-ontbrekende-domeinnaam-dantumadiel.html?datalekt=bdb2919c2f214c9cde5cde8f05fbb2532a108d88baf105266c66de9aa9098c35</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
 			<link>https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/</link>
 			<description>Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. [Update: Op 22 april 2025 is ook bekend geworden dat salarisgegevens en namen van medewerkers zijn gelekt.] [Update: Op 27 juni 2025 werd gemeld dat bij de ransomware-aanval, die rond 5 november 2024 plaatsvond, persoonlijke gegevens van meer dan 2,2 miljoen mensen zijn buitgemaakt.] (Bron: ad.nl)</description>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/193636/dpg-media-krijgt-avg-boete-van-525000-euro-voor-onterecht-vragen-van-id-bewijs.html?datalekt=f7e5f1c76d59ffa2f2a3ed2ddf209e22b621a37b59679f5896cacea5aef7e92e</guid>
 			<category>Media en inhoud </category>
 			<pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hack treft Nederlandse Organisatie voor Wetenschappelijk Onderzoek</title>
-			<link>https://tweakers.net/nieuws/178068/nederlandse-organisatie-voor-wetenschappelijk-onderzoek-is-gehackt.html</link>
-			<description>Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) | Overheid: Zelfstandige bestuursorganen | 14-02-2021 | DataLekt.nl: De Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) heeft te maken gehad met een cyberaanval van de criminele groep DoppelPaymer. Als gevolg hiervan zijn de applicaties binnen het netwerk van NWO tijdelijk onbereikbaar. Om verdere risico&amp;#039;s te beperken, heeft de organisatie besloten om subsidieaanvragen tijdelijk stop te zetten. Er is geen specifieke informatie verstrekt over de aanvaller of de omvang van de schade, noch over het aantal getroffen individuen. [Update: Op 12 mei 2025 is bekend geworden dat in Moldavië een 45-jarige verdachte is aangehouden voor de cyberaanval op NWO in 2021. Hij wordt ervan verdacht de organisatie te hebben gehackt en afgeperst.] (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/178068/nederlandse-organisatie-voor-wetenschappelijk-onderzoek-is-gehackt.html?datalekt=edc48ac98e942379b1028b8b095b48e579ecc014ac5c2b9ed99a97ad8a739445</guid>
-			<category>Overheid: Zelfstandige bestuursorganen </category>
-			<pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
