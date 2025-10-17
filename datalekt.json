@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/240356/directie-bitvavo-had-jarenlang-toegang-tot-data-van-klanten.html?datalekt=f02532498abb3598e2dfc679aa2efbc1c9510a1af01b9a3c97fd4833e794765b",
+        "url": "https://tweakers.net/nieuws/240356/directie-bitvavo-had-jarenlang-toegang-tot-data-van-klanten.html",
+        "title": "Directie van Bitvavo had jarenlang ongeoorloofde toegang tot klantgegevens",
+        "date_published": "2025-10-16T09:19:00Z",
+        "date_modified": "2025-10-16T09:19:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Bitvavo | Financi\u00eble diensten | 15-10-2025 | DataLekt.nl: De directie van de Amsterdamse cryptobeurs Bitvavo had tot het voorjaar van 2024 toegang tot persoonlijke gegevens en rekeningen van klanten. Volgens Bitvavo was dat aanvankelijk nodig om te helpen bij klantregistraties en vragen, maar experts stellen dat deze werkwijze in strijd kan zijn met de privacywetgeving. De oud-ceo zou in 2022 hebben gesuggereerd toegang te hebben tot klantdata, waarna Bitvavo na zijn vertrek een integriteitsonderzoek startte door Stibbe en PwC. De Autoriteit Persoonsgegevens benadrukt dat bedrijven controles moeten aanscherpen bij ongeoorloofde inzagepogingen. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://nos.nl/artikel/2586333-inspectie-huisartsenspoedposten-hebben-databeveiliging-niet-op-orde?datalekt=028390af2654b933c2e35ee70d6dcc41ce971d77cac1f348eb4f8ca3dbdb8461",
         "url": "https://nos.nl/artikel/2586333-inspectie-huisartsenspoedposten-hebben-databeveiliging-niet-op-orde",
         "title": "IGJ: huisartsenspoedposten voldoen niet aan normen voor databeveiliging",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "4Motive | Groot- en detailhandel | 22-05-2025 | DataLekt.nl: De criminele organisatie Space Bears heeft op het darkweb aangekondigd dat zij 4Motive heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=1a14ebe83633349639805635252562b5fbfa36399ba71ddd50ebb54e8bbf0c74",
-        "url": "https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html",
-        "title": "Gegevens van ruim 63.000 politiemedewerkers gestolen bij grote hack",
-        "date_published": "2024-09-27T15:31:00Z",
-        "date_modified": "2025-05-27T16:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Nationale Politie | Overheid: Politie | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 63.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. [Update: Op 27 mei 2025 is bekend geworden dat een vermoedelijk door Rusland gesteunde hackersgroep, Laundry Bear, verantwoordelijk wordt gehouden voor de aanval.] (Bron: nu.nl)"
     }
 ]

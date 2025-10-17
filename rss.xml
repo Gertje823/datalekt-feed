@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 16 Oct 2025 01:39:49 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 17 Oct 2025 01:38:45 +0000</lastBuildDate>
+		<item>
+			<title>Directie van Bitvavo had jarenlang ongeoorloofde toegang tot klantgegevens</title>
+			<link>https://tweakers.net/nieuws/240356/directie-bitvavo-had-jarenlang-toegang-tot-data-van-klanten.html</link>
+			<description>Bitvavo | Financiële diensten | 15-10-2025 | DataLekt.nl: De directie van de Amsterdamse cryptobeurs Bitvavo had tot het voorjaar van 2024 toegang tot persoonlijke gegevens en rekeningen van klanten. Volgens Bitvavo was dat aanvankelijk nodig om te helpen bij klantregistraties en vragen, maar experts stellen dat deze werkwijze in strijd kan zijn met de privacywetgeving. De oud-ceo zou in 2022 hebben gesuggereerd toegang te hebben tot klantdata, waarna Bitvavo na zijn vertrek een integriteitsonderzoek startte door Stibbe en PwC. De Autoriteit Persoonsgegevens benadrukt dat bedrijven controles moeten aanscherpen bij ongeoorloofde inzagepogingen. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/240356/directie-bitvavo-had-jarenlang-toegang-tot-data-van-klanten.html?datalekt=f02532498abb3598e2dfc679aa2efbc1c9510a1af01b9a3c97fd4833e794765b</guid>
+			<category>Financiële diensten </category>
+			<pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>IGJ: huisartsenspoedposten voldoen niet aan normen voor databeveiliging</title>
 			<link>https://nos.nl/artikel/2586333-inspectie-huisartsenspoedposten-hebben-databeveiliging-niet-op-orde</link>
@@ -751,14 +759,6 @@
 			<guid isPermaLink="false">https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/?datalekt=2a8aaa5f16284e3427060cd7f48fd34ed1ff7115e165b8b8b1dc8b210596da9e</guid>
 			<category>Industrie </category>
 			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gegevens van ruim 63.000 politiemedewerkers gestolen bij grote hack</title>
-			<link>https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html</link>
-			<description>Nationale Politie | Overheid: Politie | 27-09-2024 | DataLekt.nl: Door een hack bij een externe leverancier die diensten verleent aan de politie, zijn de namen van alle meer dan 63.000 politiemedewerkers buitgemaakt. De aanval richtte zich op een IT-systeem dat wordt gebruikt voor personeelsadministratie. De hackers kregen toegang tot gevoelige gegevens, maar het is nog onduidelijk of er andere informatie is gestolen. Dit datalek kan ernstige gevolgen hebben voor de veiligheid van de medewerkers. De aanval lijkt te zijn uitgevoerd door een georganiseerde criminele groep, maar de daders zijn nog onbekend. [Update: Op 27 mei 2025 is bekend geworden dat een vermoedelijk door Rusland gesteunde hackersgroep, Laundry Bear, verantwoordelijk wordt gehouden voor de aanval.] (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/tech/6329744/namen-van-alle-politiemedewerkers-buitgemaakt-bij-hack.html?datalekt=1a14ebe83633349639805635252562b5fbfa36399ba71ddd50ebb54e8bbf0c74</guid>
-			<category>Overheid: Politie </category>
-			<pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Enviem vordert schadevergoeding na ransomware-aanval door gebrekkige beveiliging I-Beheer</title>
