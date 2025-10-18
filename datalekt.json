@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html?datalekt=e2d15a00fc12f1b047c8a1fa84b7b231813c6efb1b18dd448b27fc7c9d44e39c",
+        "url": "https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html",
+        "title": "AP legde Experian in 2023 boete en dwangsom op vanwege privacywet-overtreding",
+        "date_published": "2024-11-01T12:30:00Z",
+        "date_modified": "2025-10-17T14:47:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Experian | Verhuur en zakelijke dienstverlening | 31-10-2024 | DataLekt.nl: In 2023 heeft de Autoriteit Persoonsgegevens (AP) Experian, een Iers kredietinformatiebedrijf, een boete en dwangsom opgelegd wegens het schenden van de AVG. Experian verzamelde zonder gerechtvaardigd belang persoonsgegevens voor commerci\u00eble doeleinden en informeerde betrokkenen onjuist. Hoewel het exacte boetebedrag niet bekend is, kan het volgens het Financieel Dagblad oplopen tot vier procent van Experians wereldwijde omzet. Het bedrijf vecht de sancties aan en stelt dat de AP\u2019s strikte interpretatie van de AVG afwijkt van andere Europese landen. Het recente oordeel van het Europees Hof bekritiseert de strikte aanpak van de AP. [Update: Op 17 oktober 2025 heeft de Autoriteit Persoonsgegevens bekend gemaakt dat de boete vastgesteld is op 2,7 miljoen euro.] (Bron: tweakers.net)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/240356/directie-bitvavo-had-jarenlang-toegang-tot-data-van-klanten.html?datalekt=f02532498abb3598e2dfc679aa2efbc1c9510a1af01b9a3c97fd4833e794765b",
         "url": "https://tweakers.net/nieuws/240356/directie-bitvavo-had-jarenlang-toegang-tot-data-van-klanten.html",
         "title": "Directie van Bitvavo had jarenlang ongeoorloofde toegang tot klantgegevens",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 04-06-2025 | DataLekt.nl: Het UWV heeft in januari en februari 2025 tweemaal gezondheidsgegevens van cli\u00ebnten gelekt door menselijke fouten bij het versturen van e-mails. In het eerste geval werd een interne e-mail met een bijlage vol persoonsgegevens per ongeluk naar een cli\u00ebnt gestuurd, die aangaf het bericht ongeopend te hebben verwijderd. In het tweede incident werden bestanden met gegevens van 158 personen naar een verkeerde ontvanger verzonden, die ook meldde de bestanden direct te hebben verwijderd. Het UWV meldde beide datalekken aan de Autoriteit Persoonsgegevens, maar informeerde bij het tweede incident de betrokkenen niet vanwege een ingeschatte minimale impact. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4c1ab87bf6c8cfae51550ff2f35f9cd627fe1c6f22110bb05e3fe23f91e8b640",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "4Motive getroffen door ransomware aanval van de criminele organisatie Space Bears",
-        "date_published": "2025-06-05T11:17:00Z",
-        "date_modified": "2025-06-05T11:17:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "4Motive | Groot- en detailhandel | 22-05-2025 | DataLekt.nl: De criminele organisatie Space Bears heeft op het darkweb aangekondigd dat zij 4Motive heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]

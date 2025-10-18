@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 17 Oct 2025 01:38:45 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 18 Oct 2025 01:26:44 +0000</lastBuildDate>
 		<item>
 			<title>Directie van Bitvavo had jarenlang ongeoorloofde toegang tot klantgegevens</title>
 			<link>https://tweakers.net/nieuws/240356/directie-bitvavo-had-jarenlang-toegang-tot-data-van-klanten.html</link>
@@ -737,14 +737,6 @@
 			<pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>4Motive getroffen door ransomware aanval van de criminele organisatie Space Bears</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>4Motive | Groot- en detailhandel | 22-05-2025 | DataLekt.nl: De criminele organisatie Space Bears heeft op het darkweb aangekondigd dat zij 4Motive heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4c1ab87bf6c8cfae51550ff2f35f9cd627fe1c6f22110bb05e3fe23f91e8b640</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
 			<link>https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/</link>
 			<description>Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. [Update: Op 22 april 2025 is ook bekend geworden dat salarisgegevens en namen van medewerkers zijn gelekt.] [Update: Op 27 juni 2025 werd gemeld dat bij de ransomware-aanval, die rond 5 november 2024 plaatsvond, persoonlijke gegevens van meer dan 2,2 miljoen mensen zijn buitgemaakt.] (Bron: ad.nl)</description>
@@ -759,6 +751,14 @@
 			<guid isPermaLink="false">https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/?datalekt=2a8aaa5f16284e3427060cd7f48fd34ed1ff7115e165b8b8b1dc8b210596da9e</guid>
 			<category>Industrie </category>
 			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>AP legde Experian in 2023 boete en dwangsom op vanwege privacywet-overtreding</title>
+			<link>https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html</link>
+			<description>Experian | Verhuur en zakelijke dienstverlening | 31-10-2024 | DataLekt.nl: In 2023 heeft de Autoriteit Persoonsgegevens (AP) Experian, een Iers kredietinformatiebedrijf, een boete en dwangsom opgelegd wegens het schenden van de AVG. Experian verzamelde zonder gerechtvaardigd belang persoonsgegevens voor commerciële doeleinden en informeerde betrokkenen onjuist. Hoewel het exacte boetebedrag niet bekend is, kan het volgens het Financieel Dagblad oplopen tot vier procent van Experians wereldwijde omzet. Het bedrijf vecht de sancties aan en stelt dat de AP’s strikte interpretatie van de AVG afwijkt van andere Europese landen. Het recente oordeel van het Europees Hof bekritiseert de strikte aanpak van de AP. [Update: Op 17 oktober 2025 heeft de Autoriteit Persoonsgegevens bekend gemaakt dat de boete vastgesteld is op 2,7 miljoen euro.] (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html?datalekt=e2d15a00fc12f1b047c8a1fa84b7b231813c6efb1b18dd448b27fc7c9d44e39c</guid>
+			<category>Verhuur en zakelijke dienstverlening </category>
+			<pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Enviem vordert schadevergoeding na ransomware-aanval door gebrekkige beveiliging I-Beheer</title>
