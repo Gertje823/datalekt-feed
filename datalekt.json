@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.security.nl/posting/591381/AP+onderzoekt+handel+in+persoonsgegevens+door+tennisbond+KNLTB?datalekt=64d8d855eb85e86f4987fea1a07d3f6019e3f7385f2fb55c57e8c52c3549ee67",
+        "url": "https://www.security.nl/posting/591381/AP+onderzoekt+handel+in+persoonsgegevens+door+tennisbond+KNLTB",
+        "title": "AP start onderzoek naar gegevenshandel door tennisbond KNLTB",
+        "date_published": "2021-10-01T00:00:00Z",
+        "date_modified": "2025-10-19T14:51:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Koninklijke Nederlandse Lawn Tennisbond (KNLTB) | Kunst, cultuur, sport en recreatie | 18-12-2018 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) is een onderzoek begonnen naar de tennisbond KNLTB vanwege de handel in persoonsgegevens. Dit volgt na klachten van sportbondleden over ongewenste belacties en reclame. Voorzitter van de AP, Aleid Wolfsen, benadrukt dat sportbonden persoonsgegevens mogen gebruiken voor operationele doeleinden, maar niet voor verkoop zonder uitdrukkelijke toestemming. De KNLTB heeft aangekondigd haar beleid aan te scherpen en zal alleen nog belacties uitvoeren met voorafgaande toestemming van leden. De bond werkt mee aan het onderzoek en wacht de resultaten af. [Update: Op 3 maart 2020 heeft de AP een boete van 525.000 EUR opgelegd.] [Update: Op 18 oktober 2025 is bekend geworden dat de Autoriteit Persoonsgegevens en de KNLTB hun rechtszaak hebben be\u00ebindigd na een uitspraak van het Europees Hof van Justitie. De boete van 525.000 euro wordt gehalveerd tot 250.000 euro, waarbij de KNLTB erkent dat zij onjuist heeft gehandeld.] (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/binnenland/6372769/door-ambtenaar-gelekte-informatie-leidde-mogelijk-tot-95-incidenten-in-amsterdam.html?datalekt=3fbdd68b49d57fc8fbd7bb75101609f8ac7816e88aa269a3649c655822a6f8ff",
+        "url": "https://www.nu.nl/binnenland/6372769/door-ambtenaar-gelekte-informatie-leidde-mogelijk-tot-95-incidenten-in-amsterdam.html",
+        "title": "Gemeente Amsterdam getroffen door datalek door ambtenaar die vertrouwelijke gegevens aan criminelen doorspeelde",
+        "date_published": "2025-10-19T14:47:00Z",
+        "date_modified": "2025-10-19T14:47:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 17-10-2025 | DataLekt.nl: Een ambtenaar van de gemeente Amsterdam heeft volgens het Openbaar Ministerie vertrouwelijke persoonsgegevens uit gemeentelijke computersystemen gelekt aan het criminele circuit. De man, een 57-jarige medewerker, zou vanaf augustus 2024 duizenden zoekopdrachten hebben uitgevoerd om adres- en persoonsinformatie door te spelen aan twee afnemers. Deze gegevens zouden in verband staan met zeker 95 geweldsincidenten, waaronder explosies, beschietingen en pogingen tot moord. De ambtenaar handelde bewust en ook buiten werktijden. Het lek kwam aan het licht na onderzoek door justitie, waarna de ambtenaar in mei 2025 werd aangehouden. (Bron: nu.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html?datalekt=e2d15a00fc12f1b047c8a1fa84b7b231813c6efb1b18dd448b27fc7c9d44e39c",
         "url": "https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html",
         "title": "AP legde Experian in 2023 boete en dwangsom op vanwege privacywet-overtreding",
@@ -468,7 +494,7 @@
         "content_text": "CoCo Yachts | Groot- en detailhandel | 28-08-2025 | DataLekt.nl: De criminele organisatie Cephalus heeft op het darkweb aangekondigd dat zij CoCo Yachts heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.knas.nl/node/3896?datalekt=2a1d14b6e830922ef17c53dfa41046f3874994dc986d6a609f7b72ab230b1c1f",
+        "id": "https://www.knas.nl/node/3896?datalekt=bd3ea625576543a6fa68c41b4aee5ee27e5c1a24811ed1cd72957021f6a98ea3",
         "url": "https://www.knas.nl/node/3896",
         "title": "Knas lekt persoonsgegevens door foutieve publicatie van Excel-bestand met wereldbekerinschrijvingen",
         "date_published": "2025-08-27T11:58:00Z",
@@ -478,7 +504,7 @@
             "name": "knas.nl"
         },
         "content_html": "",
-        "content_text": "KNAS | Kunst, cultuur en recreatie | 25-08-2025 | DataLekt.nl: Tussen 18 en 20 augustus heeft de Koninklijke Nederlandse Algemene Schermbond (KNAS) per ongeluk een Excel-bestand online gezet met meer persoonsgegevens dan bedoeld. Het bestand stond op de inschrijfpagina voor wereldbekerwedstrijden en bevatte gegevens die normaal niet zichtbaar zijn in de gebruikelijke PDF-versie. Op 25 augustus zijn de betrokken schermers ge\u00efnformeerd over het datalek. De KNAS biedt excuses aan en benadrukt dat zorgvuldig met persoonsgegevens wordt omgegaan. (Bron: knas.nl)"
+        "content_text": "KNAS | Kunst, cultuur, sport en recreatie | 25-08-2025 | DataLekt.nl: Tussen 18 en 20 augustus heeft de Koninklijke Nederlandse Algemene Schermbond (KNAS) per ongeluk een Excel-bestand online gezet met meer persoonsgegevens dan bedoeld. Het bestand stond op de inschrijfpagina voor wereldbekerwedstrijden en bevatte gegevens die normaal niet zichtbaar zijn in de gebruikelijke PDF-versie. Op 25 augustus zijn de betrokken schermers ge\u00efnformeerd over het datalek. De KNAS biedt excuses aan en benadrukt dat zorgvuldig met persoonsgegevens wordt omgegaan. (Bron: knas.nl)"
     },
     {
         "id": "https://www.ad.nl/zoetermeer/geschrokken-raadsleden-willen-onderzoek-naar-datalek-schansbaan-en-excuses-aan-bewoners~a10535bb/?datalekt=19f80ec97afd03240ec126e527d65bcb3fd421b1aba8f561a6f3df2114ca0c92",
@@ -988,7 +1014,7 @@
         "content_text": "Gemeente Haarlem | Overheid: Gemeenten | 08-07-2025 | DataLekt.nl: De gemeente Haarlem heeft in 2024 een forse toename in datalekmeldingen geregistreerd, met name na de introductie van een &#039;meldknop&#039; op het intranet in oktober. Deze knop vereenvoudigde het meldproces, wat leidde tot een piek in interne meldingen, gevolgd door een afname. In totaal rapporteerde het gemeentepersoneel 61 incidenten, waarvan 17 aan de Autoriteit Persoonsgegevens werden gemeld. De meeste gevallen betroffen verloren mobiele apparaten, die na melding op afstand werden gewist. Andere incidenten gingen over verkeerd verzonden e-mails en bijlagen. De FG benadrukt het belang van voortdurende bewustwording rond meldplicht. (Bron: security.nl)"
     },
     {
-        "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer?datalekt=e0095593eb353a96d0fff53c437fae665c06dfb69a0b29adc8b84c9961c1728d",
+        "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer?datalekt=86da3e708f8e3b0c97187de035b9b7cc8cd70af37d7bd1bde39830d37510935f",
         "url": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer",
         "title": "Stichting Oud Lemmer beboet voor onrechtmatig livestreamen van camerabeelden openbare ruimte",
         "date_published": "2025-07-09T16:52:00Z",
@@ -998,7 +1024,7 @@
             "name": "autoriteitpersoonsgegevens.nl"
         },
         "content_html": "",
-        "content_text": "Stichting Oud Lemmer | Kunst, cultuur en recreatie | 09-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Stichting Oud Lemmer een boete van \u20ac500 opgelegd wegens het verwerken van persoonsgegevens zonder wettelijke grondslag. De stichting plaatste twee camera\u2019s gericht op de openbare ruimte in Lemmer, waarvan de beelden 24/7 live werden gestreamd via een website. Hierbij kwamen personen en woningen herkenbaar in beeld. De AP oordeelde dat de stichting ten onrechte een beroep deed op het gerechtvaardigd belang en dat de privacybelangen van betrokkenen zwaarder wegen. De stichting kreeg daarnaast een last onder dwangsom opgelegd van maximaal \u20ac2.000 om de beelden aan te passen of de camera\u2019s te verwijderen. (Bron: autoriteitpersoonsgegevens.nl)"
+        "content_text": "Stichting Oud Lemmer | Kunst, cultuur, sport en recreatie | 09-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Stichting Oud Lemmer een boete van \u20ac500 opgelegd wegens het verwerken van persoonsgegevens zonder wettelijke grondslag. De stichting plaatste twee camera\u2019s gericht op de openbare ruimte in Lemmer, waarvan de beelden 24/7 live werden gestreamd via een website. Hierbij kwamen personen en woningen herkenbaar in beeld. De AP oordeelde dat de stichting ten onrechte een beroep deed op het gerechtvaardigd belang en dat de privacybelangen van betrokkenen zwaarder wegen. De stichting kreeg daarnaast een last onder dwangsom opgelegd van maximaal \u20ac2.000 om de beelden aan te passen of de camera\u2019s te verwijderen. (Bron: autoriteitpersoonsgegevens.nl)"
     },
     {
         "id": "https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/?datalekt=6664c46fc5e33d74f2708c7a88b594a09d6e09973e61caaf99200b89eee1fafa",
@@ -1196,7 +1222,7 @@
         "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 18-06-2025 | DataLekt.nl: De organisatie van het Festival op de Ring (gemeente Amsterdam, Tribe Company, Kingcanary, BEE\u2011Agency, Backbone International en Skills Crowd Management) in Amsterdam heeft dinsdag per ongeluk de e-mailadressen van 92 personen gedeeld door hen allemaal zichtbaar te maken in een massale e-mail. Deze mensen hadden eerder geklaagd over problemen bij het verkrijgen van tickets voor het gratis festival op de A10. In plaats van een oplossing ontvingen zij een algemene mail waarin hun adressen onbedoeld voor alle ontvangers zichtbaar waren. De organisatie noemt het een menselijke fout en heeft later excuses aangeboden met het verzoek de e-mail te verwijderen. (Bron: telegraaf.nl)"
     },
     {
-        "id": "https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten?datalekt=f88a388b46015598a3c8a8febba019a24bdcab35d14ba94efd2dae2e997eab2c",
+        "id": "https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten?datalekt=30a633a4ee374b7e8f0f1a6df5ad08138351133bed3f8b943582afe70228b6dd",
         "url": "https://www.dutchitchannel.nl/news/648745/datalek-bij-center-parcs-treft-zeker-20-000-klanten",
         "title": "Cyberaanval op Center Parcs treft boekingssysteem en 20.000 klanten",
         "date_published": "2025-06-19T09:54:00Z",
@@ -1206,7 +1232,7 @@
             "name": "dutchitchannel.nl"
         },
         "content_html": "",
-        "content_text": "Center Parcs | Kunst, cultuur en recreatie | 16-06-2025 | DataLekt.nl: Op 4 juni 2025 is Center Parcs getroffen door een cyberaanval op een systeem dat werd gebruikt voor telefonische boekingen. Bij deze aanval zijn persoonsgegevens van circa 20.000 klanten in Europa buitgemaakt, waaronder namen, e-mailadressen en boekingsgegevens zoals reserveringsnummers, locaties en verblijfsduur. Gevoelige informatie zoals financi\u00eble data, wachtwoorden, telefoonnummers of adressen zijn volgens het bedrijf niet gelekt. De aanval werd op 6 juni gestopt en het incident is gemeld aan de Franse privacytoezichthouder CNIL. Klanten zijn inmiddels ge\u00efnformeerd en Center Parcs overweegt een klacht in te dienen bij de politie. (Bron: dutchitchannel.nl)"
+        "content_text": "Center Parcs | Kunst, cultuur, sport en recreatie | 16-06-2025 | DataLekt.nl: Op 4 juni 2025 is Center Parcs getroffen door een cyberaanval op een systeem dat werd gebruikt voor telefonische boekingen. Bij deze aanval zijn persoonsgegevens van circa 20.000 klanten in Europa buitgemaakt, waaronder namen, e-mailadressen en boekingsgegevens zoals reserveringsnummers, locaties en verblijfsduur. Gevoelige informatie zoals financi\u00eble data, wachtwoorden, telefoonnummers of adressen zijn volgens het bedrijf niet gelekt. De aanval werd op 6 juni gestopt en het incident is gemeld aan de Franse privacytoezichthouder CNIL. Klanten zijn inmiddels ge\u00efnformeerd en Center Parcs overweegt een klacht in te dienen bij de politie. (Bron: dutchitchannel.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=3e07324112362a103fe4571b354bed99664116d597c30ac5eda49861c9253b8a",
@@ -1235,7 +1261,7 @@
         "content_text": "Kruidvat | Groot- en detailhandel | 16-07-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft drogisterij Kruidvat, onderdeel van AS Watson, een boete van 600.000 euro opgelegd voor het plaatsen van trackingcookies zonder juiste toestemming. Kruidvat schond hiermee de AVG door standaard aangevinkte vakjes te gebruiken in hun cookiebanner, waardoor klanten niet vrijelijk hun toestemming konden geven. Dit betrof gevoelige informatie zoals aankopen van zwangerschapstests en medicatie. Na onderzoek vanaf eind 2019, bleek Kruidvat pas vanaf oktober 2020 de wetgeving correct te volgen. AS Watson is in beroep gegaan tegen de boete. [Update: Op 13 juni 2025 heeft de AP bekend gemaakt dat de boete is verlaagd van 600.000 naar 50.000 euro.] (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/?datalekt=daa8187b6e37202d09ad6b51e8e0947ca87b5f3772b8141395fa2c49cfcf1463",
+        "id": "https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/?datalekt=e34d64bf6cd61a3202f85d79e2f0ac903f291496b09d337c8efc376c206e2dc4",
         "url": "https://www.casinonieuws.nl/online/rechtbank-amsterdam-inzage-unibet/",
         "title": "Unibet moet gokgegevens verstrekken na uitspraak rechtbank Amsterdam",
         "date_published": "2025-06-11T12:05:00Z",
@@ -1245,7 +1271,7 @@
             "name": "casinonieuws.nl"
         },
         "content_html": "",
-        "content_text": "Unibet | Kunst, cultuur en recreatie | 10-06-2025 | DataLekt.nl: De Rechtbank Amsterdam heeft op 22 mei 2025 bepaald dat Unibet, via haar voormalige houdstermaatschappij Trannel Limited International, een speler inzage moet geven in zijn gokgegevens. Dit volgde op een civiel AVG-verzoek van de speler, nadat Unibet inzage weigerde en zich beriep op Europese en Maltese wetgeving. De rechter oordeelde dat deze weigering onterecht was en legde een dwangsom op van \u20ac 250 per dag met een maximum van \u20ac 10.000. Unibet is gevestigd op Malta, maar handelt op de Nederlandse markt onder vergunning van de Kansspelautoriteit. De uitspraak onderstreept dat het doel van een AVG-verzoek geen reden mag zijn om inzage te weigeren. (Bron: casinonieuws.nl)"
+        "content_text": "Unibet | Kunst, cultuur, sport en recreatie | 10-06-2025 | DataLekt.nl: De Rechtbank Amsterdam heeft op 22 mei 2025 bepaald dat Unibet, via haar voormalige houdstermaatschappij Trannel Limited International, een speler inzage moet geven in zijn gokgegevens. Dit volgde op een civiel AVG-verzoek van de speler, nadat Unibet inzage weigerde en zich beriep op Europese en Maltese wetgeving. De rechter oordeelde dat deze weigering onterecht was en legde een dwangsom op van \u20ac 250 per dag met een maximum van \u20ac 10.000. Unibet is gevestigd op Malta, maar handelt op de Nederlandse markt onder vergunning van de Kansspelautoriteit. De uitspraak onderstreept dat het doel van een AVG-verzoek geen reden mag zijn om inzage te weigeren. (Bron: casinonieuws.nl)"
     },
     {
         "id": "https://tweakers.net/nieuws/235980/vervoersbedrijf-rmc-loopt-217000-euro-schade-op-door-fraude-met-rfid-laadcodes.html?datalekt=243b3a5dad65d48570d1ee5ff0d754c2858b8a70e147ae2ed9d1a817fceef3e4",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "150 onbekende gemeenten | Overheid: Gemeenten | 05-06-2025 | DataLekt.nl: In de jaren 2023 en 2024 zijn ruim 150 Nederlandse gemeenten direct of indirect getroffen door ransomware-incidenten, vooral via aanvallen op leveranciers zoals printservicebureaus en clouddienstverleners. De Informatiebeveiligingsdienst van de VNG stelt dat deze aanvallen vaak het gevolg zijn van kwetsbare systemen en buitgemaakte inloggegevens, eerder dan gerichte aanvallen. Omdat steeds meer ICT-diensten worden uitbesteed, vormen incidenten in de toeleveringsketen een toenemende dreiging. Ransomware en phishing bij leveranciers leidden regelmatig tot verstoringen en datalekken bij meerdere gemeenten. De IBD adviseert gemeenten om duidelijke beveiligingsafspraken te maken met leveranciers en zich intern goed voor te bereiden op incidenten. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/789992/Maritiem+dienstverlener+Royal+Dirkzwager+getroffen+door+ransomware?datalekt=b855cb6f09195b30380cdb00b4aa5faaf8aea27fe01d2e542e9184ef96ce721f",
-        "url": "https://www.security.nl/posting/789992/Maritiem+dienstverlener+Royal+Dirkzwager+getroffen+door+ransomware",
-        "title": "Royal Dirkzwager getroffen door Play-ransomware; persoonlijke gegevens buitgemaakt",
-        "date_published": "2023-03-20T00:00:00Z",
-        "date_modified": "2025-06-06T10:08:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Royal Dirkzwager | Vervoer en opslag | 20-03-2023 | DataLekt.nl: De Nederlandse maritiem dienstverlener Royal Dirkzwager werd begin maart slachtoffer van de Play-ransomware, dezelfde ransomware die eerder gemeente Antwerpen en hostingbedrijf Rackspace trof. Door deze cyberaanval konden verschillende diensten, zoals het real-time overzicht van aankomende schepen en de ROAM-service voor scheepsverkeermonitoring, niet worden aangeboden aan klanten. Royal Dirkzwager meldde dat documenten van hun netwerk waren gestolen. De criminelen achter de Play-ransomware claimden verantwoordelijkheid voor de aanval en gaven aan persoonlijke informatie, waaronder identiteitsbewijzen en bedrijfsinformatie, te hebben buitgemaakt. [Update: Op 3 juni 2025 is bekend geworden dat de ransomware-aanval op Royal Dirkzwager werd uitgevoerd via een bruteforce-aanval op een onvoldoende beveiligde cloudomgeving, waarbij onbeperkte inlogpogingen mogelijk waren.] (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/890740/UWV+lekte+door+fout+bij+versturen+van+e-mail+gezondheidsgegevens+cli%C3%ABnten?datalekt=b663740a63cbd177611b307c397ddc4bb298e4fb91fd3bbc4ab2f17850b4cb65",
-        "url": "https://www.security.nl/posting/890740/UWV+lekte+door+fout+bij+versturen+van+e-mail+gezondheidsgegevens+cli%C3%ABnten",
-        "title": "UWV lekt gezondheidsgegevens van cli\u00ebnten door e-mailfouten",
-        "date_published": "2025-06-05T11:42:00Z",
-        "date_modified": "2025-06-05T11:42:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Uitkeringsinstituut Werknemersverzekeringen (UWV) | Overheid: Zelfstandige bestuursorganen | 04-06-2025 | DataLekt.nl: Het UWV heeft in januari en februari 2025 tweemaal gezondheidsgegevens van cli\u00ebnten gelekt door menselijke fouten bij het versturen van e-mails. In het eerste geval werd een interne e-mail met een bijlage vol persoonsgegevens per ongeluk naar een cli\u00ebnt gestuurd, die aangaf het bericht ongeopend te hebben verwijderd. In het tweede incident werden bestanden met gegevens van 158 personen naar een verkeerde ontvanger verzonden, die ook meldde de bestanden direct te hebben verwijderd. Het UWV meldde beide datalekken aan de Autoriteit Persoonsgegevens, maar informeerde bij het tweede incident de betrokkenen niet vanwege een ingeschatte minimale impact. (Bron: security.nl)"
     }
 ]
