@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 21 Oct 2025 01:41:34 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 24 Oct 2025 01:36:42 +0000</lastBuildDate>
 		<item>
 			<title>Nieuw Sociaal Contract past website aan na klacht over trackingcookies zonder toestemming</title>
 			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
@@ -105,10 +105,10 @@
 			<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Bun getroffen door ransomware aanval van de criminele organisatie ThreeAM</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Bun | Onroerend goed | 13-10-2025 | DataLekt.nl: De criminele organisatie ThreeAM heeft op het darkweb aangekondigd dat zij Bun heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6eb52402750407c1f69211bd2459ceb8150cc01c28d678361946e7a1341e31ac</guid>
+			<title>Franchisenemer Bun van Albert Heijn getroffen door ransomware-aanval</title>
+			<link>https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en</link>
+			<description>Bun | Onroerend goed | 13-10-2025 | DataLekt.nl: De grootste franchisenemer van Albert Heijn, Bun, is op 13 oktober 2025 getroffen door een ransomware-aanval waarbij cybercriminelen personeelsdossiers, paspoortkopieën, bankrekeningnummers en medische gegevens van medewerkers en oud-medewerkers hebben gestolen. Een deel van de buitgemaakte data, naar schatting 20 procent, is inmiddels gepubliceerd op het dark web. De aanvallers dreigen meer informatie openbaar te maken als er geen losgeld wordt betaald. In totaal gaat het vermoedelijk om duizenden getroffen (oud-)medewerkers van de 26 filialen van Bun. [Update: Op 23 oktober 2025 zijn er meer details in de media bekend geworden, waarmee de bron is veranderd van ccinfo.nl naar rlt.nl.] (Bron: rtl.nl)</description>
+			<guid isPermaLink="false">https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en?datalekt=8ab5ba533df09a95a115d580e101b4e5def82e8469d5c4fca1bf582c008f77fa</guid>
 			<category>Onroerend goed </category>
 			<pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
 		</item>

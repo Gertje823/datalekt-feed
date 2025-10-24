@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en?datalekt=8ab5ba533df09a95a115d580e101b4e5def82e8469d5c4fca1bf582c008f77fa",
+        "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en",
+        "title": "Franchisenemer Bun van Albert Heijn getroffen door ransomware-aanval",
+        "date_published": "2025-10-14T11:11:00Z",
+        "date_modified": "2025-10-23T15:33:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtl.nl"
+        },
+        "content_html": "",
+        "content_text": "Bun | Onroerend goed | 13-10-2025 | DataLekt.nl: De grootste franchisenemer van Albert Heijn, Bun, is op 13 oktober 2025 getroffen door een ransomware-aanval waarbij cybercriminelen personeelsdossiers, paspoortkopie\u00ebn, bankrekeningnummers en medische gegevens van medewerkers en oud-medewerkers hebben gestolen. Een deel van de buitgemaakte data, naar schatting 20 procent, is inmiddels gepubliceerd op het dark web. De aanvallers dreigen meer informatie openbaar te maken als er geen losgeld wordt betaald. In totaal gaat het vermoedelijk om duizenden getroffen (oud-)medewerkers van de 26 filialen van Bun. [Update: Op 23 oktober 2025 zijn er meer details in de media bekend geworden, waarmee de bron is veranderd van ccinfo.nl naar rlt.nl.] (Bron: rtl.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=ce145ca155a12179f8535db570d817b18f3b72e9044860d9bb2723d201ecf7d4",
         "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
         "title": "Nieuw Sociaal Contract past website aan na klacht over trackingcookies zonder toestemming",
@@ -180,19 +193,6 @@
         },
         "content_html": "",
         "content_text": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM) | Overheid: Agentschappen | 14-10-2025 | DataLekt.nl: Het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) heeft op dinsdag 14 oktober 2025 zijn website tijdelijk offline gehaald nadat hackers via een lek in een webformulier toegang kregen tot het systeem. Door de kwetsbaarheid in gebruikte plug-ins konden aanvallers artikelen met desinformatie op de website plaatsen. Nadat een Reddit-gebruiker de manipulatie opmerkte, besloot het RIVM de site uit voorzorg te sluiten en de technische beveiliging te controleren. Later die dag werd de website weer online gezet, nadat de kwetsbaarheid was verholpen. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=6eb52402750407c1f69211bd2459ceb8150cc01c28d678361946e7a1341e31ac",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Bun getroffen door ransomware aanval van de criminele organisatie ThreeAM",
-        "date_published": "2025-10-14T11:11:00Z",
-        "date_modified": "2025-10-14T11:11:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Bun | Onroerend goed | 13-10-2025 | DataLekt.nl: De criminele organisatie ThreeAM heeft op het darkweb aangekondigd dat zij Bun heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8b65a057d166adfab03a056795cf7b1c02068cb295e1e1091879ba2973bf8ef8",
