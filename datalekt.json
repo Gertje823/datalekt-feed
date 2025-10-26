@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/?datalekt=945feba3acfbf2ef9177e8ae8cde0c25a8688082ad29c5819609aca052a3ba0a",
+        "url": "https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/",
+        "title": "Gemeente Katwijk meldt datalek door foutieve gegevens van Zorg en Zekerheid in schuldensignalering",
+        "date_published": "2025-10-26T14:14:00Z",
+        "date_modified": "2025-10-26T14:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvkatwijk.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Katwijk | Overheid: Gemeenten | 24-10-2025 | DataLekt.nl: De gemeente Katwijk heeft een datalek gemeld bij de Autoriteit Persoonsgegevens nadat 148 inwoners begin oktober 2025 ten onrechte een bericht ontvingen over een vermeende betalingsachterstand. De fout ontstond doordat zorgverzekeraar Zorg en Zekerheid op 25 september een onjuiste lijst met namen aanleverde. Op basis daarvan verstuurde de gemeente op 1 oktober berichten aan inwoners. Na ontdekking verwijderde Katwijk de gegevens en Zorg en Zekerheid stuurde op 17 oktober een excuusbrief. De gemeente scherpt haar controles op schuldensignalering aan om herhaling te voorkomen. (Bron: rtvkatwijk.nl)"
+    },
+    {
         "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en?datalekt=8ab5ba533df09a95a115d580e101b4e5def82e8469d5c4fca1bf582c008f77fa",
         "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en",
         "title": "Franchisenemer Bun van Albert Heijn getroffen door ransomware-aanval",
@@ -169,7 +182,7 @@
         "content_text": "43 onbekende huisartsenspoedposten | Gezondheids- en welzijnszorg | 13-10-2025 | DataLekt.nl: Uit onderzoek van de Inspectie Gezondheidszorg en Jeugd (IGJ) blijkt dat 43 van de 49 organisaties die in Nederland huisartsenspoedposten beheren, niet voldoen aan de wettelijke normen voor databeveiliging. De tekortkomingen betreffen onder meer toegangsbeheer tot pati\u00ebntgegevens en het beperken van risico\u2019s op diefstal of verlies van data. Slechts zes organisaties konden aantonen dat zij hun beveiliging onafhankelijk hebben laten certificeren. De IGJ eist dat de overige organisaties maatregelen nemen om hun databeveiliging op orde te brengen en blijft de voortgang volgen. (Bron: nos.nl)"
     },
     {
-        "id": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=5eb7f2a8df8057b016d89937e0e7399468a99bc675c7d0b51e7fa8ab561e62f9",
+        "id": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=ace18946d78949051ed2c2caf21bde38f487253b864f7c90591de348f5ce4878",
         "url": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html",
         "title": "Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil",
         "date_published": "2025-10-15T11:35:00Z",
@@ -179,7 +192,7 @@
             "name": "lc.nl"
         },
         "content_html": "",
-        "content_text": "Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. (Bron: lc.nl)"
+        "content_text": "Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen van de groep Qilin hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. (Bron: lc.nl)"
     },
     {
         "id": "https://tweakers.net/nieuws/240300/rivm-haalt-website-offline-na-hack-via-webformulier.html?datalekt=2b848e97fe6ea22a178caeb98117bc124b1a837897b08667614871ab0eec0a22",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 ondervond de provincie Zuid-Holland problemen met de bereikbaarheid van pagina\u2019s met Statenstukken. De storing werd vermoedelijk veroorzaakt door een digitale aanval via de dienstverlener NotuBiz, waarbij pro-Russische hackersgroep NoName een grote hoeveelheid netwerkverkeer richting de systemen veroorzaakte. Hierdoor raakten overheidswebsites traag of onbereikbaar. De aanval lijkt onderdeel van een bredere campagne rondom de NAVO-top in Den Haag. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan?datalekt=d005e2c79eae6710a9a34b3886e63ba8c39159d5759d6eac51bfba026a034751",
-        "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan",
-        "title": "Politie bewaart gegevens langer dan wettelijk toegestaan ondanks risico\u2019s voor burgers",
-        "date_published": "2025-06-22T19:38:00Z",
-        "date_modified": "2025-06-22T19:38:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "autoriteitpersoonsgegevens.nl"
-        },
-        "content_html": "",
-        "content_text": "Nationale Politie | Overheid: Politie | 19-06-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft de Tweede Kamer ge\u00efnformeerd dat de politie structureel gegevens bewaart van miljoenen onschuldige burgers, terwijl de wettelijke termijnen daarvoor zijn overschreden. Het betreft onder andere notities over burenruzies of verkeerszaken die volgens de wet na 5 tot 10 jaar vernietigd moeten worden. De minister van Justitie en Veiligheid accepteert deze overtreding sinds 2019 in afwachting van wetswijzigingen die tot op heden uitblijven. De AP benadrukt dat dit ernstige risico\u2019s voor de privacy van betrokkenen met zich meebrengt. (Bron: autoriteitpersoonsgegevens.nl)"
     }
 ]

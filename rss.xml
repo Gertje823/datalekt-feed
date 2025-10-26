@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 24 Oct 2025 01:36:42 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 26 Oct 2025 18:28:02 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Katwijk meldt datalek door foutieve gegevens van Zorg en Zekerheid in schuldensignalering</title>
+			<link>https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/</link>
+			<description>Gemeente Katwijk | Overheid: Gemeenten | 24-10-2025 | DataLekt.nl: De gemeente Katwijk heeft een datalek gemeld bij de Autoriteit Persoonsgegevens nadat 148 inwoners begin oktober 2025 ten onrechte een bericht ontvingen over een vermeende betalingsachterstand. De fout ontstond doordat zorgverzekeraar Zorg en Zekerheid op 25 september een onjuiste lijst met namen aanleverde. Op basis daarvan verstuurde de gemeente op 1 oktober berichten aan inwoners. Na ontdekking verwijderde Katwijk de gegevens en Zorg en Zekerheid stuurde op 17 oktober een excuusbrief. De gemeente scherpt haar controles op schuldensignalering aan om herhaling te voorkomen. (Bron: rtvkatwijk.nl)</description>
+			<guid isPermaLink="false">https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/?datalekt=945feba3acfbf2ef9177e8ae8cde0c25a8688082ad29c5819609aca052a3ba0a</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Nieuw Sociaal Contract past website aan na klacht over trackingcookies zonder toestemming</title>
 			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
@@ -91,8 +99,8 @@
 		<item>
 			<title>Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil</title>
 			<link>https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html</link>
-			<description>Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. (Bron: lc.nl)</description>
-			<guid isPermaLink="false">https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=5eb7f2a8df8057b016d89937e0e7399468a99bc675c7d0b51e7fa8ab561e62f9</guid>
+			<description>Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen van de groep Qilin hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. (Bron: lc.nl)</description>
+			<guid isPermaLink="false">https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=ace18946d78949051ed2c2caf21bde38f487253b864f7c90591de348f5ce4878</guid>
 			<category>Water en afvalbeheer </category>
 			<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -727,14 +735,6 @@
 			<guid isPermaLink="false">https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/?datalekt=6664c46fc5e33d74f2708c7a88b594a09d6e09973e61caaf99200b89eee1fafa</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Politie bewaart gegevens langer dan wettelijk toegestaan ondanks risico’s voor burgers</title>
-			<link>https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan</link>
-			<description>Nationale Politie | Overheid: Politie | 19-06-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft de Tweede Kamer geïnformeerd dat de politie structureel gegevens bewaart van miljoenen onschuldige burgers, terwijl de wettelijke termijnen daarvoor zijn overschreden. Het betreft onder andere notities over burenruzies of verkeerszaken die volgens de wet na 5 tot 10 jaar vernietigd moeten worden. De minister van Justitie en Veiligheid accepteert deze overtreding sinds 2019 in afwachting van wetswijzigingen die tot op heden uitblijven. De AP benadrukt dat dit ernstige risico’s voor de privacy van betrokkenen met zich meebrengt. (Bron: autoriteitpersoonsgegevens.nl)</description>
-			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/actueel/ap-politie-kan-gegevens-niet-langer-bewaren-dan-wettelijk-toegestaan?datalekt=d005e2c79eae6710a9a34b3886e63ba8c39159d5759d6eac51bfba026a034751</guid>
-			<category>Overheid: Politie </category>
-			<pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Pluryn meldt datalek na verlies onbeveiligde USB-stick met gevoelige gegevens</title>
