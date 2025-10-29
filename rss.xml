@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 26 Oct 2025 18:28:02 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 29 Oct 2025 01:46:44 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij Postcode Loterij en Vriendenloterij geeft 1580 deelnemers inzage in elkaars persoonsgegevens</title>
+			<link>https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html</link>
+			<description>Nationale Goede Doelen Loterijen | Overige dienstverlening | 27-10-2025 | DataLekt.nl: Bij de Postcode Loterij en de Vriendenloterij, beide onderdeel van Goede Doelen Loterijen, hebben 1580 deelnemers tijdelijk toegang gehad tot elkaars persoonsgegevens. Door een technische fout in het deelnemersportaal konden namen, adressen, contactgegevens, e-mailadressen en bankgegevens van andere klanten worden ingezien. Het betrof 760 deelnemers van de Postcode Loterij en 820 van de Vriendenloterij. Uit onderzoek blijkt dat er geen sprake was van een aanval van buitenaf. Het portaal werd direct offline gehaald en de organisatie meldt het incident bij de Autoriteit Persoonsgegevens. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html?datalekt=7f809e7a8d86a0da1098ebc1dd9dd6f9bb0763e056cc67769493582ab7106831</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Irias getroffen door datalek waarbij broncode is buitgemaakt</title>
+			<link>https://www.ccinfo.nl/journaal/2784826_broncode-gestolen-bij-irias-microsoft-wsus-kwetsbaar-en-brigitte-macron-doelwit-van-hackers</link>
+			<description>Irias | ICT en telecommunicatie | 28-10-2025 | DataLekt.nl: Irias, een Nederlands softwarebedrijf voor Geo/GIS, meldt een datalek waarbij bedrijfsgevoelige informatie is gestolen, inclusief de broncode van hun software. Volgens de berichtgeving is het incident door een dreigingsactor op een hackersforum bekendgemaakt, met een gedeelde directorylijst en de claim dat de volledige broncode beschikbaar is om te downloaden. Het incident vergroot het risico op misbruik van intellectueel eigendom en kan grote gevolgen hebben als de code verder wordt verspreid. Er zijn geen aantallen of klantgegevens genoemd. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/journaal/2784826_broncode-gestolen-bij-irias-microsoft-wsus-kwetsbaar-en-brigitte-macron-doelwit-van-hackers?datalekt=71fff4981e47adc64574998c5dce716195d5c95b9e7c59ea37edc20f1c342983</guid>
+			<category>ICT en telecommunicatie </category>
+			<pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Katwijk meldt datalek door foutieve gegevens van Zorg en Zekerheid in schuldensignalering</title>
 			<link>https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/</link>
@@ -710,22 +726,6 @@
 			<description>Gemeente Den Haag | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 gaf de gemeente Den Haag aan dat meerdere leveranciers hinder ondervonden van een grote hoeveelheid netwerkverkeer, waardoor verschillende gemeentelijke websites tijdelijk slecht bereikbaar waren. De digitale verstoring lijkt verband te houden met een vermoedelijke aanval van de pro-Russische hackersgroep NoName, die bekend staat om DDoS-aanvallen gericht op overheden in NAVO-landen. De aanval vond plaats in aanloop naar de NAVO-top in Den Haag. (Bron: ad.nl)</description>
 			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=09011e7a9b2aceb2fb14587a06fa704eeb315225ecd26919c227c7b20dd52c67</guid>
 			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Provincie Overijssel getroffen door digitale verstoring na vermoedelijke aanval via NotuBiz</title>
-			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
-			<description>Provincie Overijssel | Overheid: Provincies | 23-06-2025 | DataLekt.nl: De provincie Overijssel kreeg op 23 juni 2025 te maken met problemen bij de toegankelijkheid van Statenstukken via NotuBiz. De storing werd vermoedelijk veroorzaakt door een aanval van de pro-Russische hackersgroep NoName, die grote hoeveelheden netwerkverkeer gebruikte om systemen te overbelasten. De aanval past binnen een breder patroon van cyberaanvallen rondom de NAVO-top in Den Haag. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=7600dbdb05e04ff09fc65c36b2c7de53c1fed3780a89c00ec124b4c72adefc41</guid>
-			<category>Overheid: Provincies </category>
-			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Provincie Zuid-Holland slecht bereikbaar door vermoedelijke DDoS-aanval via NotuBiz door pro-Russische hackers</title>
-			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
-			<description>Provincie Zuid-Holland | Overheid: Provincies | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 ondervond de provincie Zuid-Holland problemen met de bereikbaarheid van pagina’s met Statenstukken. De storing werd vermoedelijk veroorzaakt door een digitale aanval via de dienstverlener NotuBiz, waarbij pro-Russische hackersgroep NoName een grote hoeveelheid netwerkverkeer richting de systemen veroorzaakte. Hierdoor raakten overheidswebsites traag of onbereikbaar. De aanval lijkt onderdeel van een bredere campagne rondom de NAVO-top in Den Haag. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=059234889afda65234c7cc6be7891c387ccabf4487f8070fbae27eff3e6a38f9</guid>
-			<category>Overheid: Provincies </category>
 			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
