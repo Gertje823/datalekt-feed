@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=01b12d7e91b520bf8ec02b1d12d0638634f7fb0ca8ee1e798c752af0a0f7e3b8",
+        "url": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html",
+        "title": "Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil",
+        "date_published": "2025-10-15T11:35:00Z",
+        "date_modified": "2025-10-29T09:18:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "lc.nl"
+        },
+        "content_html": "",
+        "content_text": "Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen van de groep Qilin hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. [Update: Op 28 oktober 2025 is bekend geworden dat hackersgroep Qilin 1TB aan data van afvalverwerker Omrin heeft gepubliceerd, waaronder volledige laptopinhoud en persoonsgegevens van medewerkers.] (Bron: lc.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html?datalekt=7f809e7a8d86a0da1098ebc1dd9dd6f9bb0763e056cc67769493582ab7106831",
         "url": "https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html",
         "title": "Datalek bij Postcode Loterij en Vriendenloterij geeft 1580 deelnemers inzage in elkaars persoonsgegevens",
@@ -206,19 +219,6 @@
         },
         "content_html": "",
         "content_text": "43 onbekende huisartsenspoedposten | Gezondheids- en welzijnszorg | 13-10-2025 | DataLekt.nl: Uit onderzoek van de Inspectie Gezondheidszorg en Jeugd (IGJ) blijkt dat 43 van de 49 organisaties die in Nederland huisartsenspoedposten beheren, niet voldoen aan de wettelijke normen voor databeveiliging. De tekortkomingen betreffen onder meer toegangsbeheer tot pati\u00ebntgegevens en het beperken van risico\u2019s op diefstal of verlies van data. Slechts zes organisaties konden aantonen dat zij hun beveiliging onafhankelijk hebben laten certificeren. De IGJ eist dat de overige organisaties maatregelen nemen om hun databeveiliging op orde te brengen en blijft de voortgang volgen. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=ace18946d78949051ed2c2caf21bde38f487253b864f7c90591de348f5ce4878",
-        "url": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html",
-        "title": "Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil",
-        "date_published": "2025-10-15T11:35:00Z",
-        "date_modified": "2025-10-15T11:35:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "lc.nl"
-        },
-        "content_html": "",
-        "content_text": "Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen van de groep Qilin hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. (Bron: lc.nl)"
     },
     {
         "id": "https://tweakers.net/nieuws/240300/rivm-haalt-website-offline-na-hack-via-webformulier.html?datalekt=2b848e97fe6ea22a178caeb98117bc124b1a837897b08667614871ab0eec0a22",
