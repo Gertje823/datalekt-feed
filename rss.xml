@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 29 Oct 2025 12:46:49 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 30 Oct 2025 18:30:59 +0000</lastBuildDate>
+		<item>
+			<title>Spijkermat getroffen door ransomware aanval van de criminele organisatie Radiant</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Spijkermat | Groot- en detailhandel | 29-10-2025 | DataLekt.nl: De criminele organisatie Radiant heeft op het darkweb aangekondigd dat zij Spijkermat heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=3ded63fa520693fad0b1bb7c2691ade6593ff610d7fc75ee85bc574aab831ea3</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij Postcode Loterij en Vriendenloterij geeft 1580 deelnemers inzage in elkaars persoonsgegevens</title>
 			<link>https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html</link>
@@ -717,14 +725,6 @@
 			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
 			<description>Gemeente Den Bosch | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 was de website van de gemeente Den Bosch, met name de pagina’s met raadsstukken, slecht bereikbaar. De verstoring werd veroorzaakt door een vermoedelijke aanval op dienstverlener NotuBiz, uitgevoerd door de pro-Russische hackersgroep NoName. De aanval leidde tot overbelasting van de systemen, wat past binnen een bredere golf van cyberaanvallen rond de NAVO-top in Den Haag. (Bron: ad.nl)</description>
 			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=509fa4f9c596957a2ee21e1c40ad9cb03f031ecff9486e736a2d6db8ad77bf2e</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Den Haag meldt ontoegankelijke websites door vermoedelijke aanval op leveranciers</title>
-			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
-			<description>Gemeente Den Haag | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 gaf de gemeente Den Haag aan dat meerdere leveranciers hinder ondervonden van een grote hoeveelheid netwerkverkeer, waardoor verschillende gemeentelijke websites tijdelijk slecht bereikbaar waren. De digitale verstoring lijkt verband te houden met een vermoedelijke aanval van de pro-Russische hackersgroep NoName, die bekend staat om DDoS-aanvallen gericht op overheden in NAVO-landen. De aanval vond plaats in aanloop naar de NAVO-top in Den Haag. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=09011e7a9b2aceb2fb14587a06fa704eeb315225ecd26919c227c7b20dd52c67</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
