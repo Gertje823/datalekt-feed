@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.rtl.nl/nieuws/economie/artikel/5532612/medewerkster-hilton-schiphol-lekte-vertrouwelijke-gasteninformatie?datalekt=2e72bf0892564158e97eb0907af6158548cc163ebe471332d5d048441372a72c",
+        "url": "https://www.rtl.nl/nieuws/economie/artikel/5532612/medewerkster-hilton-schiphol-lekte-vertrouwelijke-gasteninformatie",
+        "title": "Hilton Schiphol-medewerkster lekt vertrouwelijke gasteninformatie naar priv\u00e9-mailadres",
+        "date_published": "2025-10-30T16:31:00Z",
+        "date_modified": "2025-10-30T16:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtl.nl"
+        },
+        "content_html": "",
+        "content_text": "Hilton Amsterdam Airport Schiphol | Horeca | 10-10-2025 | DataLekt.nl: Een medewerkster van Hilton Amsterdam Airport Schiphol heeft begin mei 2025 een document met persoonsgegevens van 71 hotelgasten naar haar priv\u00e9-e-mailadres gestuurd. Het betrof een portfolio van 23 pagina\u2019s met namen, functietitels, bedrijfsnamen, telefoonnummers en e-mailadressen van gasten, die zij naar eigen zeggen wilde gebruiken om via LinkedIn contact te leggen. Hilton ontdekte dit bij toeval en ontsloeg de vrouw op staande voet wegens het schenden van de gedragscode en het verspreiden van \u2018highly sensitive customer data\u2019. De rechter oordeelde dat het ontslag terecht was, omdat sprake was van een ernstige schending van privacyregels. (Bron: rtl.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=3ded63fa520693fad0b1bb7c2691ade6593ff610d7fc75ee85bc574aab831ea3",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Spijkermat getroffen door ransomware aanval van de criminele organisatie Radiant",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Delft | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 ondervond de gemeente Delft hinder bij het publiceren van raadsstukken via NotuBiz. De verstoring werd vermoedelijk veroorzaakt door een aanval van de pro-Russische groep NoName, die bekend staat om het uitvoeren van DDoS-aanvallen tegen Westerse overheden. De aanval leidde tot trage of onbereikbare webpagina\u2019s en vond plaats tijdens verhoogde waakzaamheid rondom de NAVO-top in Den Haag. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=509fa4f9c596957a2ee21e1c40ad9cb03f031ecff9486e736a2d6db8ad77bf2e",
-        "url": "https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/",
-        "title": "Gemeente Den Bosch kampt met vertraging op website na vermoedelijke cyberaanval via NotuBiz",
-        "date_published": "2025-06-25T13:59:00Z",
-        "date_modified": "2025-06-25T13:59:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Den Bosch | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 was de website van de gemeente Den Bosch, met name de pagina\u2019s met raadsstukken, slecht bereikbaar. De verstoring werd veroorzaakt door een vermoedelijke aanval op dienstverlener NotuBiz, uitgevoerd door de pro-Russische hackersgroep NoName. De aanval leidde tot overbelasting van de systemen, wat past binnen een bredere golf van cyberaanvallen rond de NAVO-top in Den Haag. (Bron: ad.nl)"
     }
 ]
