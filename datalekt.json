@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=899d02639de7c16d7ab14fbcef6a5965428ac9ef98c25e11abf7be9e1082c8ee",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Bangnoles getroffen door ransomware aanval van de criminele organisatie Qilin",
+        "date_published": "2025-10-31T10:53:00Z",
+        "date_modified": "2025-10-31T10:53:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Bangnoles | Groot- en detailhandel | 30-10-2025 | DataLekt.nl: De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij Bangnoles heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.rtl.nl/nieuws/economie/artikel/5532612/medewerkster-hilton-schiphol-lekte-vertrouwelijke-gasteninformatie?datalekt=2e72bf0892564158e97eb0907af6158548cc163ebe471332d5d048441372a72c",
         "url": "https://www.rtl.nl/nieuws/economie/artikel/5532612/medewerkster-hilton-schiphol-lekte-vertrouwelijke-gasteninformatie",
         "title": "Hilton Schiphol-medewerkster lekt vertrouwelijke gasteninformatie naar priv\u00e9-mailadres",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Zuidplas | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: De gemeente Zuidplas is getroffen door een ddos-aanval gericht op NotuBiz, het digitale systeem voor raadsinformatie. Door de aanval, opge\u00ebist door de Russische hackersgroep NoName05716, zijn raadsstukken momenteel niet toegankelijk. Het systeem kampt met een grote wachtrij, maar er zijn geen documenten verloren gegaan. De aanval valt samen met verhoogde dreiging rond de NAVO-top in Den Haag. Indien zo\u2019n aanval plaatsvindt tijdens een raadsvergadering, kan dit ernstige verstoringen veroorzaken aangezien het systeem volledig digitaal functioneert. (Bron: gouweijsselnieuws.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=d0402ad306a64ee6f9cc7baea7a819b0cb537a790037e6f2cdfe7ce1dfc8689e",
-        "url": "https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/",
-        "title": "Gemeente Delft getroffen door vermoedelijke DDoS-aanval op dienstverlener NotuBiz",
-        "date_published": "2025-06-25T14:00:00Z",
-        "date_modified": "2025-06-25T14:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Delft | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 ondervond de gemeente Delft hinder bij het publiceren van raadsstukken via NotuBiz. De verstoring werd vermoedelijk veroorzaakt door een aanval van de pro-Russische groep NoName, die bekend staat om het uitvoeren van DDoS-aanvallen tegen Westerse overheden. De aanval leidde tot trage of onbereikbare webpagina\u2019s en vond plaats tijdens verhoogde waakzaamheid rondom de NAVO-top in Den Haag. (Bron: ad.nl)"
     }
 ]

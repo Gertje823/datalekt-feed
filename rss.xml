@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 31 Oct 2025 01:42:55 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 01 Nov 2025 01:46:40 +0000</lastBuildDate>
+		<item>
+			<title>Bangnoles getroffen door ransomware aanval van de criminele organisatie Qilin</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Bangnoles | Groot- en detailhandel | 30-10-2025 | DataLekt.nl: De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij Bangnoles heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=899d02639de7c16d7ab14fbcef6a5965428ac9ef98c25e11abf7be9e1082c8ee</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Hilton Schiphol-medewerkster lekt vertrouwelijke gasteninformatie naar privé-mailadres</title>
 			<link>https://www.rtl.nl/nieuws/economie/artikel/5532612/medewerkster-hilton-schiphol-lekte-vertrouwelijke-gasteninformatie</link>
@@ -719,14 +727,6 @@
 			<guid isPermaLink="false">https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/?datalekt=10d0265ac621acc1eb16674107806412d2309511f138a33b1b4919d81eaf32d7</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Delft getroffen door vermoedelijke DDoS-aanval op dienstverlener NotuBiz</title>
-			<link>https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/</link>
-			<description>Gemeente Delft | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Op 23 juni 2025 ondervond de gemeente Delft hinder bij het publiceren van raadsstukken via NotuBiz. De verstoring werd vermoedelijk veroorzaakt door een aanval van de pro-Russische groep NoName, die bekend staat om het uitvoeren van DDoS-aanvallen tegen Westerse overheden. De aanval leidde tot trage of onbereikbare webpagina’s en vond plaats tijdens verhoogde waakzaamheid rondom de NAVO-top in Den Haag. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/binnenland/beruchte-pro-russische-hackers-openen-weer-aanval-op-websites-nederlandse-provincies~a784e856/?datalekt=d0402ad306a64ee6f9cc7baea7a819b0cb537a790037e6f2cdfe7ce1dfc8689e</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Gemeente Alphen aan den Rijn meldt datalek na doorsturen vertrouwelijke documenten vanuit e-mailbox oud-bestuurder</title>
