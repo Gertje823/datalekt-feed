@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.omroepwest.nl/politiek/5032570/gemeente-deelt-mogelijk-weer-persoonsgegevens-na-berucht-datalek?datalekt=9b5a26b574ba7326689680ff727ce01d7ae46e271d04f6bc12610c40172113a0",
+        "url": "https://www.omroepwest.nl/politiek/5032570/gemeente-deelt-mogelijk-weer-persoonsgegevens-na-berucht-datalek",
+        "title": "Gemeente Midden-Delfland deelt mogelijk opnieuw persoonsgegevens van bezwaarmakers tegen azc Den Hoorn",
+        "date_published": "2025-11-03T10:54:00Z",
+        "date_modified": "2025-11-03T10:54:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepwest.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Midden-Delfland | Overheid: Gemeenten | 31-10-2025 | DataLekt.nl: De gemeente Midden-Delfland heeft mogelijk opnieuw persoonsgegevens van inwoners gedeeld zonder toestemming, kort na een eerder groot datalek. Tijdens een besloten bijeenkomst voor bezwaarmakers tegen de komst van een asielzoekerscentrum in Den Hoorn meldden betrokkenen dat hun gegevens onterecht zijn gedeeld met onderzoeksbureau Berenschot en met de rechtbank in een beroepszaak. De gemeente stelt dat zij in beide gevallen dacht hiertoe wettelijk verplicht te zijn en laat dit momenteel toetsen. Het incident volgt op het eerdere datalek van juli, waarbij gegevens van 132 bezwaarmakers per ongeluk openbaar werden gemaakt. (Bron: omroepwest.nl)"
+    },
+    {
+        "id": "https://www.pzc.nl/rotterdam/hacker-krijgt-opnieuw-jarenlange-celstraf-na-identiteitsfraude-en-diefstallen~a24c11ea/?datalekt=9fd8abd1d91d20f3690ed5dee3b156584aa55e41807ca414989afc495bdd77a3",
+        "url": "https://www.pzc.nl/rotterdam/hacker-krijgt-opnieuw-jarenlange-celstraf-na-identiteitsfraude-en-diefstallen~a24c11ea/",
+        "title": "Hacker uit Capelle aan den IJssel veroordeeld na identiteitsfraude en digitale inbraken bij bedrijven en particulieren",
+        "date_published": "2025-11-03T10:52:00Z",
+        "date_modified": "2025-11-03T10:52:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "pzc.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekend aantal organisaties | Overig | 31-10-2025 | DataLekt.nl: Een 27-jarige hacker uit Capelle aan den IJssel is door de rechtbank veroordeeld tot twee jaar celstraf, waarvan \u00e9\u00e9n jaar voorwaardelijk, voor hacking, identiteitsfraude en diefstallen bij diverse bedrijven en particulieren. De man verzamelde inlog- en persoonsgegevens van slachtoffers en gebruikte deze om binnen te dringen in geautomatiseerde systemen van bedrijven en om bestellingen te plaatsen op naam van anderen. Zijn eerdere voorwaardelijke straf van \u00e9\u00e9n jaar wordt alsnog ten uitvoer gebracht, waardoor hij in totaal drie jaar gevangenisstraf krijgt. (Bron: pzc.nl)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/240992/hackersgroep-kreeg-bsns-inwoners-schiermonnikoog-in-handen.html?datalekt=85e70a0a87d5f83f76dc77576269393d4cfc445c092fd5f2253bc16c3abc04b8",
+        "url": "https://tweakers.net/nieuws/240992/hackersgroep-kreeg-bsns-inwoners-schiermonnikoog-in-handen.html",
+        "title": "Gemeente Schiermonnikoog getroffen door datalek bij afvalverwerker Omrin waarbij bsn\u2019s van inwoners zijn buitgemaakt",
+        "date_published": "2025-11-03T10:48:00Z",
+        "date_modified": "2025-11-03T10:48:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Schiermonnikoog | Overheid: Gemeenten | 02-11-2025 | DataLekt.nl: De Russische hackersgroep Qilin heeft via een ransomware-aanval op afvalverwerker Omrin op 12 oktober persoonsgegevens van inwoners van Schiermonnikoog buitgemaakt. In een bestand stonden namen, adressen en burgerservicenummers van inwoners, alsmede gegevens van bedrijven en eigenaren van vakantiewoningen. Schiermonnikoog is de enige gemeente waarvan zulke gegevens zijn getroffen. De gemeente erkent dat Omrin het bsn onterecht verwerkte en heeft bewoners per brief ge\u00efnformeerd. De buitgemaakte data vergroten het risico op identiteitsfraude en phishing. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=899d02639de7c16d7ab14fbcef6a5965428ac9ef98c25e11abf7be9e1082c8ee",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Bangnoles getroffen door ransomware aanval van de criminele organisatie Qilin",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "11 onbekende Zeeuwse gemeenten | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Elf van de dertien Zeeuwse gemeenten waren op maandag tijdelijk niet in staat om vergaderstukken via het systeem van NotuBiz toegankelijk te maken. De leverancier kampte met een grote hoeveelheid netwerkverkeer, mogelijk als gevolg van een ddos-aanval. De pro-Russische hackersgroep NoName05716 wordt genoemd als mogelijke dader; zij claimden eerder die dag via Telegram de aanval. Bezoekers ondervonden lange laadtijden en wachtrijen. Rond het einde van de middag waren de systemen weer bereikbaar. De aanval hangt mogelijk samen met verhoogde cyberdreiging rond de NAVO-top in Den Haag. (Bron: omroepzeeland.nl)"
-    },
-    {
-        "id": "https://regiopurmerend.nl/2025/06/23/cyberaanval-legt-raadsinformatiesysteem-plat-ook-purmerend-getroffen/?datalekt=c6d2af5b5189f7bc5961214d7c876e82465b15d690611b3cb696e38fea159aa7",
-        "url": "https://regiopurmerend.nl/2025/06/23/cyberaanval-legt-raadsinformatiesysteem-plat-ook-purmerend-getroffen/",
-        "title": "Gemeente Purmerend getroffen door vermoedelijke ddos-aanval op raadsinformatiesysteem NotuBiz",
-        "date_published": "2025-06-26T10:02:00Z",
-        "date_modified": "2025-06-26T10:02:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "regiopurmerend.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Purmerend | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Het raadsinformatiesysteem van de gemeente Purmerend was maandag tijdelijk onbereikbaar door een landelijke digitale verstoring bij leverancier NotuBiz. Door een grote hoeveelheid netwerkverkeer, vermoedelijk afkomstig van een cyberaanval, konden gebruikers geen toegang krijgen tot gemeenteraadsstukken. De Russische hackersgroep NoName057(16) claimde via Telegram de aanval. Hoewel NotuBiz nog geen definitieve bevestiging gaf dat het om een ddos-aanval ging, wijst alles daarop. De firewall blokkeerde het verdachte verkeer, maar legitieme gebruikers kwamen hierdoor in de wachtrij terecht. Rond 16:00 uur werd de dienst hersteld. (Bron: regiopurmerend.nl)"
-    },
-    {
-        "id": "https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/?datalekt=a7a2b9362e8bc3b693d28516748b399acdae875f7036b19de1fc4d620474985d",
-        "url": "https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/",
-        "title": "Gemeente Waddinxveen ondervindt hinder van ddos-aanval op raadsinformatiesysteem NotuBiz",
-        "date_published": "2025-06-26T10:01:00Z",
-        "date_modified": "2025-06-26T10:01:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gouweijsselnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Waddinxveen | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Door een ddos-aanval op het digitale raadsinformatiesysteem NotuBiz is de gemeente Waddinxveen niet in staat om raadsstukken online beschikbaar te stellen. De aanval werd opge\u00ebist door de Russische hackersgroep NoName05716. Hoewel de inhoud van de documenten niet verloren is gegaan, zorgt de overbelasting van het systeem voor lange wachttijden. Dit vormt een risico tijdens raadsvergaderingen, omdat het systeem dan volledig afhankelijk is van digitale toegang. De aanval vindt plaats in een periode van verhoogde cyberdreiging in verband met de NAVO-top in Den Haag. (Bron: gouweijsselnieuws.nl)"
-    },
-    {
-        "id": "https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/?datalekt=10d0265ac621acc1eb16674107806412d2309511f138a33b1b4919d81eaf32d7",
-        "url": "https://gouweijsselnieuws.nl/2025/06/23/russische-hackersgroep-legt-systeem-gemeenteraad-zuidplas-en-waddinxveen-plat/",
-        "title": "Gemeente Zuidplas getroffen door ddos-aanval op NotuBiz-systeem",
-        "date_published": "2025-06-26T10:00:00Z",
-        "date_modified": "2025-06-26T10:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gouweijsselnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Zuidplas | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: De gemeente Zuidplas is getroffen door een ddos-aanval gericht op NotuBiz, het digitale systeem voor raadsinformatie. Door de aanval, opge\u00ebist door de Russische hackersgroep NoName05716, zijn raadsstukken momenteel niet toegankelijk. Het systeem kampt met een grote wachtrij, maar er zijn geen documenten verloren gegaan. De aanval valt samen met verhoogde dreiging rond de NAVO-top in Den Haag. Indien zo\u2019n aanval plaatsvindt tijdens een raadsvergadering, kan dit ernstige verstoringen veroorzaken aangezien het systeem volledig digitaal functioneert. (Bron: gouweijsselnieuws.nl)"
     }
 ]
