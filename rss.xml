@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 03 Nov 2025 12:45:44 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 08 Nov 2025 01:38:19 +0000</lastBuildDate>
+		<item>
+			<title>Website van Stem op een Vrouw platgelegd door ddos-aanval op dag van Tweede Kamerverkiezingen</title>
+			<link>https://www.hartvannederland.nl/politiek/verkiezingen/artikelen/stem-op-een-vrouw-website-aanval-verkiezingsdag</link>
+			<description>Stichting Stem op een Vrouw | Overige dienstverlening | 04-11-2025 | DataLekt.nl: Op de ochtend van de Tweede Kamerverkiezingen is de website van de stichting Stem op een Vrouw getroffen door een ddos-aanval, waardoor de site tijdelijk onbereikbaar was. De avond ervoor waren er al vertragingen merkbaar. Volgens directeur Devika Partiman kwamen de aanvalspogingen voornamelijk van IP-adressen uit Rusland en China. De webbeheerder wist de aanval te stoppen door een verificatiesysteem in te stellen, waarna de website weer toegankelijk werd. De stichting heeft aangifte gedaan van het incident. (Bron: hartvannederland.nl)</description>
+			<guid isPermaLink="false">https://www.hartvannederland.nl/politiek/verkiezingen/artikelen/stem-op-een-vrouw-website-aanval-verkiezingsdag?datalekt=8e075ebab2b7b77be254058f29ee92aae7e760b054117152afdfedab4624785e</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>RTV Noord getroffen door hack met grote gevolgen voor uitzendingen en publicaties</title>
+			<link>https://tweakers.net/nieuws/241180/rtv-noord-is-gehackt-grote-gevolgen-voor-uitzendingen-en-publicaties.html</link>
+			<description>RTV Noord | Media en inhoud | 06-11-2025 | DataLekt.nl: De Groningse regionale omroep RTV Noord is getroffen door een hack die grote gevolgen heeft voor haar uitzendingen en online publicaties. Door de aanval konden geen nieuwe berichten meer worden geplaatst op de app en website van de omroep. Onbekende hackers lieten een boodschap achter op de servers, maar de inhoud daarvan is niet bekendgemaakt. De ict-afdeling ontdekte het incident, waarna noodmaatregelen werden genomen om de tv-uitzending van de avond toch door te laten gaan. De radiozender bleef wel in de lucht. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/241180/rtv-noord-is-gehackt-grote-gevolgen-voor-uitzendingen-en-publicaties.html?datalekt=fca4986abf855e6ad6bff61f0b0543ea47a7784b1bfd0ff4b77d38ab3a81c3d5</guid>
+			<category>Media en inhoud </category>
+			<pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Midden-Delfland deelt mogelijk opnieuw persoonsgegevens van bezwaarmakers tegen azc Den Hoorn</title>
 			<link>https://www.omroepwest.nl/politiek/5032570/gemeente-deelt-mogelijk-weer-persoonsgegevens-na-berucht-datalek</link>
@@ -721,14 +737,6 @@
 			<pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Elf Zeeuwse gemeenten tijdelijk onbereikbaar door vermoedelijke ddos-aanval op NotuBiz</title>
-			<link>https://www.omroepzeeland.nl/nieuws/17569728/websites-gemeenten-doen-het-weer-na-vermoedelijke-aanval-van-russische-hackers</link>
-			<description>11 onbekende Zeeuwse gemeenten | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Elf van de dertien Zeeuwse gemeenten waren op maandag tijdelijk niet in staat om vergaderstukken via het systeem van NotuBiz toegankelijk te maken. De leverancier kampte met een grote hoeveelheid netwerkverkeer, mogelijk als gevolg van een ddos-aanval. De pro-Russische hackersgroep NoName05716 wordt genoemd als mogelijke dader; zij claimden eerder die dag via Telegram de aanval. Bezoekers ondervonden lange laadtijden en wachtrijen. Rond het einde van de middag waren de systemen weer bereikbaar. De aanval hangt mogelijk samen met verhoogde cyberdreiging rond de NAVO-top in Den Haag. (Bron: omroepzeeland.nl)</description>
-			<guid isPermaLink="false">https://www.omroepzeeland.nl/nieuws/17569728/websites-gemeenten-doen-het-weer-na-vermoedelijke-aanval-van-russische-hackers?datalekt=7f9daedb6206ca4cfc0f6bdbe5b5d03ab5046260e36aa16fe5d7883610a6e09a</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Gemeente Alphen aan den Rijn meldt datalek na doorsturen vertrouwelijke documenten vanuit e-mailbox oud-bestuurder</title>
 			<link>https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/</link>
 			<description>Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Vanuit de e-mailbox van een oud-bestuurder van de gemeente Alphen aan den Rijn zijn vertrouwelijke documenten doorgestuurd naar privé-e-mailadressen van de betrokkene. Het gaat onder meer om informatie over jeugdzorg, waaronder klachten, vragen en verzoeken van vertrouwelijke aard. De situatie kwam aan het licht na een WOO-verzoek en intern onderzoek. Burgemeester Rehwinkel heeft aangifte gedaan bij de politie en melding gemaakt bij de Autoriteit Persoonsgegevens. Betrokken ouders zijn geïnformeerd en geadviseerd alert te zijn op misbruik van hun gegevens. [Update: Op 9 juli 2025 is bekend geworden dat de gemeente aangifte bij de politie heeft gedaan.] (Bron: ad.nl)</description>
@@ -743,14 +751,6 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html?datalekt=43cc890e6206e0ea917eef327366f5dff359172d880273e4d77fce886d65abcf</guid>
 			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ahold Delhaize slachtoffer van ransomware-aanval: Russische hackers lekken identiteitsbewijzen</title>
-			<link>https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/</link>
-			<description>Koninklijke Ahold Delhaize | Groot- en detailhandel | 16-04-2025 | DataLekt.nl: Op 17 april 2025 werd bekend dat het aan Rusland gelinkte hackerscollectief INC Ransom 6 terabyte aan data heeft gestolen van Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos, Gall &amp;amp;amp; Gall en bol. Gevoelige documenten, waaronder identiteitsbewijzen en geheimhoudingsverklaringen, zijn inmiddels op het darkweb gepubliceerd. De aanval vond plaats via het Amerikaanse netwerk. Ahold schakelde direct systemen uit en waarschuwde de autoriteiten, maar weigerde losgeld te betalen. Over Nederlandse gedupeerden is nog geen duidelijkheid. [Update: Op 22 april 2025 is ook bekend geworden dat salarisgegevens en namen van medewerkers zijn gelekt.] [Update: Op 27 juni 2025 werd gemeld dat bij de ransomware-aanval, die rond 5 november 2024 plaatsvond, persoonlijke gegevens van meer dan 2,2 miljoen mensen zijn buitgemaakt.] (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/tech/moederbedrijf-albert-heijn-slachtoffer-van-enorme-datadiefstal-aan-rusland-gelinkte-hackers-publiceren-identiteitsbewijzen~a6164c0d/?datalekt=f6ca61c8bf2cdaf494d2dd7dfcc87be37898c44d537fd5b7f4a729e6ba044ead</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>ASML slachtoffer van bedrijfsspionage door Russische oud-medewerker</title>
