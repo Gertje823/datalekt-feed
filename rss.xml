@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 08 Nov 2025 01:38:19 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 09 Nov 2025 01:47:35 +0000</lastBuildDate>
+		<item>
+			<title>Zwemschool Van Goor in Zwolle lekt leerlinggegevens door gebrekkige beveiliging</title>
+			<link>https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/</link>
+			<description>Zwemschool van Goor | Kunst, cultuur, sport en recreatie | 05-11-2025 | DataLekt.nl: Bij zwemschool Van Goor in Zwolle zijn de gegevens van ongeveer zeshonderd leerlingen eenvoudig toegankelijk geweest via internet. Door een foutieve configuratie van het leerlingvolgsysteem konden onbevoegden met één standaardwachtwoord inloggen en namen en voortgang van kinderen inzien. Een anonieme cyberexpert ontdekte het lek en waarschuwde de school, maar pas na herhaald aandringen werden maatregelen genomen. Desondanks bleef de beveiliging gebrekkig. Privacyorganisatie Bits of Freedom noemt de situatie ernstig en stelt dat de zwemschool het datalek moet melden bij de Autoriteit Persoonsgegevens. (Bron: destentor.nl)</description>
+			<guid isPermaLink="false">https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/?datalekt=cbe71dd6db5665e7cbb0d11f4fa4f36d4836c29c684ba184b4a0ffa079d8bbaf</guid>
+			<category>Kunst, cultuur, sport en recreatie </category>
+			<pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Website van Stem op een Vrouw platgelegd door ddos-aanval op dag van Tweede Kamerverkiezingen</title>
 			<link>https://www.hartvannederland.nl/politiek/verkiezingen/artikelen/stem-op-een-vrouw-website-aanval-verkiezingsdag</link>
@@ -179,8 +187,8 @@
 		<item>
 			<title>Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil</title>
 			<link>https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html</link>
-			<description>Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen van de groep Qilin hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. [Update: Op 28 oktober 2025 is bekend geworden dat hackersgroep Qilin 1TB aan data van afvalverwerker Omrin heeft gepubliceerd, waaronder volledige laptopinhoud en persoonsgegevens van medewerkers.] (Bron: lc.nl)</description>
-			<guid isPermaLink="false">https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=01b12d7e91b520bf8ec02b1d12d0638634f7fb0ca8ee1e798c752af0a0f7e3b8</guid>
+			<description>Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen van de groep Qilin hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. [Update: Op 28 oktober 2025 is bekend geworden dat hackersgroep Qilin 1TB aan data van afvalverwerker Omrin heeft gepubliceerd, waaronder volledige laptopinhoud en persoonsgegevens van medewerkers.] [Update: Op 6 november 2025 is bekend geworden dat Omrin geen losgeld heeft betaald.] (Bron: lc.nl)</description>
+			<guid isPermaLink="false">https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=16a81a58716ead994e5a995e7a672edaa5e7f3e47498cb9e65635b19347ed38b</guid>
 			<category>Water en afvalbeheer </category>
 			<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
 		</item>
@@ -727,14 +735,6 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/236922/distributeur-ingram-micro-is-getroffen-door-ransomware.html?datalekt=04a6ce690cec1bb0a63fba7dc8eef3f2a46e469475ab4107625aaa0a82534d3e</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Autoriteit Persoonsgegevens rapporteert verdubbeling datadiefstal via ransomware in 2024</title>
-			<link>https://autoriteitpersoonsgegevens.nl/actueel/ap-datadiefstal-door-cybercriminelen-verdubbeld</link>
-			<description>Onbekende organisaties | Overige dienstverlening | 04-07-2025 | DataLekt.nl: In haar jaarlijkse rapportage over datalekken meldt de Autoriteit Persoonsgegevens (AP) dat het aantal gevallen van datadiefstal door cybercriminelen in 2024 bijna is verdubbeld ten opzichte van 2023. Veel van deze incidenten gebeurden via ransomware-aanvallen, waarbij systemen worden versleuteld en data wordt gestolen. In 2024 waren er minstens 112 succesvolle aanvallen met gemiddeld meer dan 100.000 euro schade per getroffen organisatie. Een communicatiebedrijf meldde dat circa 1,5 miljoen mensen indirect slachtoffer werden. De AP roept organisaties op hun beveiliging te verbeteren en dataveiligheid centraal te stellen in hun organisatiecultuur. (Bron: autoriteitpersoonsgegevens.nl)</description>
-			<guid isPermaLink="false">https://autoriteitpersoonsgegevens.nl/actueel/ap-datadiefstal-door-cybercriminelen-verdubbeld?datalekt=2eb7f2596ac084899ee72bac4137d880d631a82d91f8138a54c3e62b9fca290b</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Gemeente Alphen aan den Rijn meldt datalek na doorsturen vertrouwelijke documenten vanuit e-mailbox oud-bestuurder</title>

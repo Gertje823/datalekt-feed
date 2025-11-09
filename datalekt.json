@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/?datalekt=cbe71dd6db5665e7cbb0d11f4fa4f36d4836c29c684ba184b4a0ffa079d8bbaf",
+        "url": "https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/",
+        "title": "Zwemschool Van Goor in Zwolle lekt leerlinggegevens door gebrekkige beveiliging",
+        "date_published": "2025-11-08T14:23:00Z",
+        "date_modified": "2025-11-08T14:23:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "destentor.nl"
+        },
+        "content_html": "",
+        "content_text": "Zwemschool van Goor | Kunst, cultuur, sport en recreatie | 05-11-2025 | DataLekt.nl: Bij zwemschool Van Goor in Zwolle zijn de gegevens van ongeveer zeshonderd leerlingen eenvoudig toegankelijk geweest via internet. Door een foutieve configuratie van het leerlingvolgsysteem konden onbevoegden met \u00e9\u00e9n standaardwachtwoord inloggen en namen en voortgang van kinderen inzien. Een anonieme cyberexpert ontdekte het lek en waarschuwde de school, maar pas na herhaald aandringen werden maatregelen genomen. Desondanks bleef de beveiliging gebrekkig. Privacyorganisatie Bits of Freedom noemt de situatie ernstig en stelt dat de zwemschool het datalek moet melden bij de Autoriteit Persoonsgegevens. (Bron: destentor.nl)"
+    },
+    {
+        "id": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=16a81a58716ead994e5a995e7a672edaa5e7f3e47498cb9e65635b19347ed38b",
+        "url": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html",
+        "title": "Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil",
+        "date_published": "2025-10-15T11:35:00Z",
+        "date_modified": "2025-11-08T14:17:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "lc.nl"
+        },
+        "content_html": "",
+        "content_text": "Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen van de groep Qilin hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. [Update: Op 28 oktober 2025 is bekend geworden dat hackersgroep Qilin 1TB aan data van afvalverwerker Omrin heeft gepubliceerd, waaronder volledige laptopinhoud en persoonsgegevens van medewerkers.] [Update: Op 6 november 2025 is bekend geworden dat Omrin geen losgeld heeft betaald.] (Bron: lc.nl)"
+    },
+    {
         "id": "https://www.hartvannederland.nl/politiek/verkiezingen/artikelen/stem-op-een-vrouw-website-aanval-verkiezingsdag?datalekt=8e075ebab2b7b77be254058f29ee92aae7e760b054117152afdfedab4624785e",
         "url": "https://www.hartvannederland.nl/politiek/verkiezingen/artikelen/stem-op-een-vrouw-website-aanval-verkiezingsdag",
         "title": "Website van Stem op een Vrouw platgelegd door ddos-aanval op dag van Tweede Kamerverkiezingen",
@@ -102,19 +128,6 @@
         },
         "content_html": "",
         "content_text": "Spijkermat | Groot- en detailhandel | 29-10-2025 | DataLekt.nl: De criminele organisatie Radiant heeft op het darkweb aangekondigd dat zij Spijkermat heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=01b12d7e91b520bf8ec02b1d12d0638634f7fb0ca8ee1e798c752af0a0f7e3b8",
-        "url": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html",
-        "title": "Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil",
-        "date_published": "2025-10-15T11:35:00Z",
-        "date_modified": "2025-10-29T09:18:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "lc.nl"
-        },
-        "content_html": "",
-        "content_text": "Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen van de groep Qilin hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. [Update: Op 28 oktober 2025 is bekend geworden dat hackersgroep Qilin 1TB aan data van afvalverwerker Omrin heeft gepubliceerd, waaronder volledige laptopinhoud en persoonsgegevens van medewerkers.] (Bron: lc.nl)"
     },
     {
         "id": "https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html?datalekt=7f809e7a8d86a0da1098ebc1dd9dd6f9bb0763e056cc67769493582ab7106831",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ingram Micro Netherlands | Groot- en detailhandel | 07-07-2025 | DataLekt.nl: Ingram Micro, een van de grootste digitale distributeurs wereldwijd, is getroffen door een ransomware-aanval waarbij interne systemen zijn aangetast. Het bedrijf bevestigt de aanval maar onthult geen details over de impact of het ge\u00ebiste losgeld. De ransomwaregroep SafePay wordt genoemd als mogelijke dader, en volgens bronnen zou de aanval zijn uitgevoerd via een kwetsbaarheid in de GlobalProtect-vpn. Door de aanval werken klantplatforms als Xvantage en Impulse mogelijk niet goed. Het is onduidelijk of gegevens zijn buitgemaakt of hoeveel systemen zijn versleuteld. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://autoriteitpersoonsgegevens.nl/actueel/ap-datadiefstal-door-cybercriminelen-verdubbeld?datalekt=2eb7f2596ac084899ee72bac4137d880d631a82d91f8138a54c3e62b9fca290b",
-        "url": "https://autoriteitpersoonsgegevens.nl/actueel/ap-datadiefstal-door-cybercriminelen-verdubbeld",
-        "title": "Autoriteit Persoonsgegevens rapporteert verdubbeling datadiefstal via ransomware in 2024",
-        "date_published": "2025-07-05T11:28:00Z",
-        "date_modified": "2025-07-05T11:28:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "autoriteitpersoonsgegevens.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende organisaties | Overige dienstverlening | 04-07-2025 | DataLekt.nl: In haar jaarlijkse rapportage over datalekken meldt de Autoriteit Persoonsgegevens (AP) dat het aantal gevallen van datadiefstal door cybercriminelen in 2024 bijna is verdubbeld ten opzichte van 2023. Veel van deze incidenten gebeurden via ransomware-aanvallen, waarbij systemen worden versleuteld en data wordt gestolen. In 2024 waren er minstens 112 succesvolle aanvallen met gemiddeld meer dan 100.000 euro schade per getroffen organisatie. Een communicatiebedrijf meldde dat circa 1,5 miljoen mensen indirect slachtoffer werden. De AP roept organisaties op hun beveiliging te verbeteren en dataveiligheid centraal te stellen in hun organisatiecultuur. (Bron: autoriteitpersoonsgegevens.nl)"
     }
 ]
