@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 09 Nov 2025 01:47:35 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 11 Nov 2025 01:45:47 +0000</lastBuildDate>
+		<item>
+			<title>PCB Uitvaartzorg getroffen door ransomware aanval van de criminele organisatie Qilin</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>PCB Uitvaartzorg | Overige dienstverlening | 06-11-2025 | DataLekt.nl: De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij PCB Uitvaartzorg heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4552f1c449c7eb5fe73b63c02276df363176d9a089fa90c23dbac91d2fbdf1ae</guid>
+			<category>Overige dienstverlening </category>
+			<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Zwemschool Van Goor in Zwolle lekt leerlinggegevens door gebrekkige beveiliging</title>
 			<link>https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/</link>
@@ -726,14 +734,6 @@
 			<description>Stichting Oud Lemmer | Kunst, cultuur, sport en recreatie | 09-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Stichting Oud Lemmer een boete van €500 opgelegd wegens het verwerken van persoonsgegevens zonder wettelijke grondslag. De stichting plaatste twee camera’s gericht op de openbare ruimte in Lemmer, waarvan de beelden 24/7 live werden gestreamd via een website. Hierbij kwamen personen en woningen herkenbaar in beeld. De AP oordeelde dat de stichting ten onrechte een beroep deed op het gerechtvaardigd belang en dat de privacybelangen van betrokkenen zwaarder wegen. De stichting kreeg daarnaast een last onder dwangsom opgelegd van maximaal €2.000 om de beelden aan te passen of de camera’s te verwijderen. (Bron: autoriteitpersoonsgegevens.nl)</description>
 			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer?datalekt=86da3e708f8e3b0c97187de035b9b7cc8cd70af37d7bd1bde39830d37510935f</guid>
 			<category>Kunst, cultuur, sport en recreatie </category>
-			<pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ransomware-aanval treft distributeur Ingram Micro via vermoedelijke kwetsbaarheid in vpn-software</title>
-			<link>https://tweakers.net/nieuws/236922/distributeur-ingram-micro-is-getroffen-door-ransomware.html</link>
-			<description>Ingram Micro Netherlands | Groot- en detailhandel | 07-07-2025 | DataLekt.nl: Ingram Micro, een van de grootste digitale distributeurs wereldwijd, is getroffen door een ransomware-aanval waarbij interne systemen zijn aangetast. Het bedrijf bevestigt de aanval maar onthult geen details over de impact of het geëiste losgeld. De ransomwaregroep SafePay wordt genoemd als mogelijke dader, en volgens bronnen zou de aanval zijn uitgevoerd via een kwetsbaarheid in de GlobalProtect-vpn. Door de aanval werken klantplatforms als Xvantage en Impulse mogelijk niet goed. Het is onduidelijk of gegevens zijn buitgemaakt of hoeveel systemen zijn versleuteld. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/236922/distributeur-ingram-micro-is-getroffen-door-ransomware.html?datalekt=04a6ce690cec1bb0a63fba7dc8eef3f2a46e469475ab4107625aaa0a82534d3e</guid>
-			<category>Groot- en detailhandel </category>
 			<pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>

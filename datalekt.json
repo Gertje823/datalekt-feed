@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4552f1c449c7eb5fe73b63c02276df363176d9a089fa90c23dbac91d2fbdf1ae",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "PCB Uitvaartzorg getroffen door ransomware aanval van de criminele organisatie Qilin",
+        "date_published": "2025-11-10T13:41:00Z",
+        "date_modified": "2025-11-10T13:41:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "PCB Uitvaartzorg | Overige dienstverlening | 06-11-2025 | DataLekt.nl: De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij PCB Uitvaartzorg heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/?datalekt=cbe71dd6db5665e7cbb0d11f4fa4f36d4836c29c684ba184b4a0ffa079d8bbaf",
         "url": "https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/",
         "title": "Zwemschool Van Goor in Zwolle lekt leerlinggegevens door gebrekkige beveiliging",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Vanuit de e-mailbox van een oud-bestuurder van de gemeente Alphen aan den Rijn zijn vertrouwelijke documenten doorgestuurd naar priv\u00e9-e-mailadressen van de betrokkene. Het gaat onder meer om informatie over jeugdzorg, waaronder klachten, vragen en verzoeken van vertrouwelijke aard. De situatie kwam aan het licht na een WOO-verzoek en intern onderzoek. Burgemeester Rehwinkel heeft aangifte gedaan bij de politie en melding gemaakt bij de Autoriteit Persoonsgegevens. Betrokken ouders zijn ge\u00efnformeerd en geadviseerd alert te zijn op misbruik van hun gegevens. [Update: Op 9 juli 2025 is bekend geworden dat de gemeente aangifte bij de politie heeft gedaan.] (Bron: ad.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/236922/distributeur-ingram-micro-is-getroffen-door-ransomware.html?datalekt=04a6ce690cec1bb0a63fba7dc8eef3f2a46e469475ab4107625aaa0a82534d3e",
-        "url": "https://tweakers.net/nieuws/236922/distributeur-ingram-micro-is-getroffen-door-ransomware.html",
-        "title": "Ransomware-aanval treft distributeur Ingram Micro via vermoedelijke kwetsbaarheid in vpn-software",
-        "date_published": "2025-07-09T16:47:00Z",
-        "date_modified": "2025-07-09T16:47:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Ingram Micro Netherlands | Groot- en detailhandel | 07-07-2025 | DataLekt.nl: Ingram Micro, een van de grootste digitale distributeurs wereldwijd, is getroffen door een ransomware-aanval waarbij interne systemen zijn aangetast. Het bedrijf bevestigt de aanval maar onthult geen details over de impact of het ge\u00ebiste losgeld. De ransomwaregroep SafePay wordt genoemd als mogelijke dader, en volgens bronnen zou de aanval zijn uitgevoerd via een kwetsbaarheid in de GlobalProtect-vpn. Door de aanval werken klantplatforms als Xvantage en Impulse mogelijk niet goed. Het is onduidelijk of gegevens zijn buitgemaakt of hoeveel systemen zijn versleuteld. (Bron: tweakers.net)"
     }
 ]
