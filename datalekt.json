@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.security.nl/posting/912435/AP+waarschuwt+ruim+200+websites+over+onjuiste+cookiebanners?datalekt=c3feaac09e1f2e39979271e363f060d6a336b50c7396f87cde80879e680934bd",
+        "url": "https://www.security.nl/posting/912435/AP+waarschuwt+ruim+200+websites+over+onjuiste+cookiebanners",
+        "title": "Ruim 200 Nederlandse websites krijgen waarschuwing van de AP over misleidende cookiebanners",
+        "date_published": "2025-11-13T09:45:00Z",
+        "date_modified": "2025-11-13T09:45:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "200 onbekende organisaties | Overig | 11-11-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft ruim tweehonderd Nederlandse websites gewaarschuwd omdat zij een onjuiste of misleidende cookiebanner gebruiken. De toezichthouder controleert sinds april 2025 structureel of websites op de juiste manier toestemming vragen voor trackingcookies, die alleen mogen worden geplaatst na vrijwillige en duidelijke instemming van bezoekers. Ongeveer driekwart van de websites paste de banner aan; tegen de overige partijen start de AP handhavingsmaatregelen. De AP benadrukt dat organisaties bezoekers eerlijk moeten informeren en dat het toepassen van volgsoftware strikte naleving van de regels vereist. (Bron: security.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4552f1c449c7eb5fe73b63c02276df363176d9a089fa90c23dbac91d2fbdf1ae",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "PCB Uitvaartzorg getroffen door ransomware aanval van de criminele organisatie Qilin",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Stichting Oud Lemmer | Kunst, cultuur, sport en recreatie | 09-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Stichting Oud Lemmer een boete van \u20ac500 opgelegd wegens het verwerken van persoonsgegevens zonder wettelijke grondslag. De stichting plaatste twee camera\u2019s gericht op de openbare ruimte in Lemmer, waarvan de beelden 24/7 live werden gestreamd via een website. Hierbij kwamen personen en woningen herkenbaar in beeld. De AP oordeelde dat de stichting ten onrechte een beroep deed op het gerechtvaardigd belang en dat de privacybelangen van betrokkenen zwaarder wegen. De stichting kreeg daarnaast een last onder dwangsom opgelegd van maximaal \u20ac2.000 om de beelden aan te passen of de camera\u2019s te verwijderen. (Bron: autoriteitpersoonsgegevens.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/?datalekt=6664c46fc5e33d74f2708c7a88b594a09d6e09973e61caaf99200b89eee1fafa",
-        "url": "https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/",
-        "title": "Gemeente Alphen aan den Rijn meldt datalek na doorsturen vertrouwelijke documenten vanuit e-mailbox oud-bestuurder",
-        "date_published": "2025-06-25T13:55:00Z",
-        "date_modified": "2025-07-09T16:50:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Vanuit de e-mailbox van een oud-bestuurder van de gemeente Alphen aan den Rijn zijn vertrouwelijke documenten doorgestuurd naar priv\u00e9-e-mailadressen van de betrokkene. Het gaat onder meer om informatie over jeugdzorg, waaronder klachten, vragen en verzoeken van vertrouwelijke aard. De situatie kwam aan het licht na een WOO-verzoek en intern onderzoek. Burgemeester Rehwinkel heeft aangifte gedaan bij de politie en melding gemaakt bij de Autoriteit Persoonsgegevens. Betrokken ouders zijn ge\u00efnformeerd en geadviseerd alert te zijn op misbruik van hun gegevens. [Update: Op 9 juli 2025 is bekend geworden dat de gemeente aangifte bij de politie heeft gedaan.] (Bron: ad.nl)"
     }
 ]

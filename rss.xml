@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 11 Nov 2025 01:45:47 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 13 Nov 2025 12:47:42 +0000</lastBuildDate>
+		<item>
+			<title>Ruim 200 Nederlandse websites krijgen waarschuwing van de AP over misleidende cookiebanners</title>
+			<link>https://www.security.nl/posting/912435/AP+waarschuwt+ruim+200+websites+over+onjuiste+cookiebanners</link>
+			<description>200 onbekende organisaties | Overig | 11-11-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft ruim tweehonderd Nederlandse websites gewaarschuwd omdat zij een onjuiste of misleidende cookiebanner gebruiken. De toezichthouder controleert sinds april 2025 structureel of websites op de juiste manier toestemming vragen voor trackingcookies, die alleen mogen worden geplaatst na vrijwillige en duidelijke instemming van bezoekers. Ongeveer driekwart van de websites paste de banner aan; tegen de overige partijen start de AP handhavingsmaatregelen. De AP benadrukt dat organisaties bezoekers eerlijk moeten informeren en dat het toepassen van volgsoftware strikte naleving van de regels vereist. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/912435/AP+waarschuwt+ruim+200+websites+over+onjuiste+cookiebanners?datalekt=c3feaac09e1f2e39979271e363f060d6a336b50c7396f87cde80879e680934bd</guid>
+			<category>Overig </category>
+			<pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>PCB Uitvaartzorg getroffen door ransomware aanval van de criminele organisatie Qilin</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -735,14 +743,6 @@
 			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer?datalekt=86da3e708f8e3b0c97187de035b9b7cc8cd70af37d7bd1bde39830d37510935f</guid>
 			<category>Kunst, cultuur, sport en recreatie </category>
 			<pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Alphen aan den Rijn meldt datalek na doorsturen vertrouwelijke documenten vanuit e-mailbox oud-bestuurder</title>
-			<link>https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/</link>
-			<description>Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 23-06-2025 | DataLekt.nl: Vanuit de e-mailbox van een oud-bestuurder van de gemeente Alphen aan den Rijn zijn vertrouwelijke documenten doorgestuurd naar privé-e-mailadressen van de betrokkene. Het gaat onder meer om informatie over jeugdzorg, waaronder klachten, vragen en verzoeken van vertrouwelijke aard. De situatie kwam aan het licht na een WOO-verzoek en intern onderzoek. Burgemeester Rehwinkel heeft aangifte gedaan bij de politie en melding gemaakt bij de Autoriteit Persoonsgegevens. Betrokken ouders zijn geïnformeerd en geadviseerd alert te zijn op misbruik van hun gegevens. [Update: Op 9 juli 2025 is bekend geworden dat de gemeente aangifte bij de politie heeft gedaan.] (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/alphen-aan-den-rijn/aangifte-na-datalek-vanuit-e-mailbox-oud-bestuurder-documenten-doorgestuurd~a016a92c/?datalekt=6664c46fc5e33d74f2708c7a88b594a09d6e09973e61caaf99200b89eee1fafa</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Pluryn meldt datalek na verlies onbeveiligde USB-stick met gevoelige gegevens</title>
