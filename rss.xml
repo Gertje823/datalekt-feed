@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 13 Nov 2025 12:47:42 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 16 Nov 2025 01:50:19 +0000</lastBuildDate>
+		<item>
+			<title>Provincie Overijssel publiceert opnieuw niet-geanonimiseerde Woo-documenten</title>
+			<link>https://www.binnenlandsbestuur.nl/juridisch/overijssel-weer-in-de-fout-met-woo-documenten</link>
+			<description>Provincie Overijssel | Overheid: Provincies | 12-11-2025 | DataLekt.nl: De provincie Overijssel heeft voor de tweede keer in vier maanden per abuis niet-geanonimiseerde Woo-documenten online geplaatst over een aanvraag voor windturbines in Kampen. Hierdoor waren opnieuw persoonsgegevens en concurrentiegevoelige informatie tijdelijk toegankelijk. Volgens de provincie gaat het om een menselijke fout. De documenten stonden dit keer ongeveer drie dagen online en zijn door zes IP-adressen geraadpleegd. Eerder gebeurde dit al op 1 augustus, toen dezelfde documenten veertien uur openbaar waren. Overijssel heeft melding gedaan bij de Autoriteit Persoonsgegevens en zegt de interne werkwijze verder te evalueren. (Bron: binnenlandsbestuur.nl)</description>
+			<guid isPermaLink="false">https://www.binnenlandsbestuur.nl/juridisch/overijssel-weer-in-de-fout-met-woo-documenten?datalekt=c3f25f6166b8040c9865f6e7d7f9b81bc30f0d0afccdcb4c7203481df2e60f7a</guid>
+			<category>Overheid: Provincies </category>
+			<pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ruim 200 Nederlandse websites krijgen waarschuwing van de AP over misleidende cookiebanners</title>
 			<link>https://www.security.nl/posting/912435/AP+waarschuwt+ruim+200+websites+over+onjuiste+cookiebanners</link>
@@ -735,14 +743,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/895389/Haarlem+meldt+grote+toename+van+datalekmeldingen+na+komst+%27meldknop%27?datalekt=40be957ad1e5c531b68bf048e58b99a31a673192a9906eba18ee0557561d57df</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Stichting Oud Lemmer beboet voor onrechtmatig livestreamen van camerabeelden openbare ruimte</title>
-			<link>https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer</link>
-			<description>Stichting Oud Lemmer | Kunst, cultuur, sport en recreatie | 09-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Stichting Oud Lemmer een boete van €500 opgelegd wegens het verwerken van persoonsgegevens zonder wettelijke grondslag. De stichting plaatste twee camera’s gericht op de openbare ruimte in Lemmer, waarvan de beelden 24/7 live werden gestreamd via een website. Hierbij kwamen personen en woningen herkenbaar in beeld. De AP oordeelde dat de stichting ten onrechte een beroep deed op het gerechtvaardigd belang en dat de privacybelangen van betrokkenen zwaarder wegen. De stichting kreeg daarnaast een last onder dwangsom opgelegd van maximaal €2.000 om de beelden aan te passen of de camera’s te verwijderen. (Bron: autoriteitpersoonsgegevens.nl)</description>
-			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer?datalekt=86da3e708f8e3b0c97187de035b9b7cc8cd70af37d7bd1bde39830d37510935f</guid>
-			<category>Kunst, cultuur, sport en recreatie </category>
-			<pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Pluryn meldt datalek na verlies onbeveiligde USB-stick met gevoelige gegevens</title>

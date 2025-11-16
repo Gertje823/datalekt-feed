@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.binnenlandsbestuur.nl/juridisch/overijssel-weer-in-de-fout-met-woo-documenten?datalekt=c3f25f6166b8040c9865f6e7d7f9b81bc30f0d0afccdcb4c7203481df2e60f7a",
+        "url": "https://www.binnenlandsbestuur.nl/juridisch/overijssel-weer-in-de-fout-met-woo-documenten",
+        "title": "Provincie Overijssel publiceert opnieuw niet-geanonimiseerde Woo-documenten",
+        "date_published": "2025-11-14T11:34:00Z",
+        "date_modified": "2025-11-14T11:34:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "binnenlandsbestuur.nl"
+        },
+        "content_html": "",
+        "content_text": "Provincie Overijssel | Overheid: Provincies | 12-11-2025 | DataLekt.nl: De provincie Overijssel heeft voor de tweede keer in vier maanden per abuis niet-geanonimiseerde Woo-documenten online geplaatst over een aanvraag voor windturbines in Kampen. Hierdoor waren opnieuw persoonsgegevens en concurrentiegevoelige informatie tijdelijk toegankelijk. Volgens de provincie gaat het om een menselijke fout. De documenten stonden dit keer ongeveer drie dagen online en zijn door zes IP-adressen geraadpleegd. Eerder gebeurde dit al op 1 augustus, toen dezelfde documenten veertien uur openbaar waren. Overijssel heeft melding gedaan bij de Autoriteit Persoonsgegevens en zegt de interne werkwijze verder te evalueren. (Bron: binnenlandsbestuur.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/912435/AP+waarschuwt+ruim+200+websites+over+onjuiste+cookiebanners?datalekt=c3feaac09e1f2e39979271e363f060d6a336b50c7396f87cde80879e680934bd",
         "url": "https://www.security.nl/posting/912435/AP+waarschuwt+ruim+200+websites+over+onjuiste+cookiebanners",
         "title": "Ruim 200 Nederlandse websites krijgen waarschuwing van de AP over misleidende cookiebanners",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Haarlem | Overheid: Gemeenten | 08-07-2025 | DataLekt.nl: De gemeente Haarlem heeft in 2024 een forse toename in datalekmeldingen geregistreerd, met name na de introductie van een &#039;meldknop&#039; op het intranet in oktober. Deze knop vereenvoudigde het meldproces, wat leidde tot een piek in interne meldingen, gevolgd door een afname. In totaal rapporteerde het gemeentepersoneel 61 incidenten, waarvan 17 aan de Autoriteit Persoonsgegevens werden gemeld. De meeste gevallen betroffen verloren mobiele apparaten, die na melding op afstand werden gewist. Andere incidenten gingen over verkeerd verzonden e-mails en bijlagen. De FG benadrukt het belang van voortdurende bewustwording rond meldplicht. (Bron: security.nl)"
-    },
-    {
-        "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer?datalekt=86da3e708f8e3b0c97187de035b9b7cc8cd70af37d7bd1bde39830d37510935f",
-        "url": "https://www.autoriteitpersoonsgegevens.nl/documenten/boete-stichting-oud-lemmer",
-        "title": "Stichting Oud Lemmer beboet voor onrechtmatig livestreamen van camerabeelden openbare ruimte",
-        "date_published": "2025-07-09T16:52:00Z",
-        "date_modified": "2025-07-09T16:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "autoriteitpersoonsgegevens.nl"
-        },
-        "content_html": "",
-        "content_text": "Stichting Oud Lemmer | Kunst, cultuur, sport en recreatie | 09-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Stichting Oud Lemmer een boete van \u20ac500 opgelegd wegens het verwerken van persoonsgegevens zonder wettelijke grondslag. De stichting plaatste twee camera\u2019s gericht op de openbare ruimte in Lemmer, waarvan de beelden 24/7 live werden gestreamd via een website. Hierbij kwamen personen en woningen herkenbaar in beeld. De AP oordeelde dat de stichting ten onrechte een beroep deed op het gerechtvaardigd belang en dat de privacybelangen van betrokkenen zwaarder wegen. De stichting kreeg daarnaast een last onder dwangsom opgelegd van maximaal \u20ac2.000 om de beelden aan te passen of de camera\u2019s te verwijderen. (Bron: autoriteitpersoonsgegevens.nl)"
     }
 ]
