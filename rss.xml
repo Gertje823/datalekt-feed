@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 16 Nov 2025 01:50:19 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 21 Nov 2025 01:44:22 +0000</lastBuildDate>
+		<item>
+			<title>Friese it-leverancier draait zelf op voor schade door hack in Azure-omgeving door uitgeschakelde mfa-beveiliging</title>
+			<link>https://www.security.nl/posting/910474/It-leverancier+zelf+aansprakelijk+voor+schade+door+gehackte+Azure-omgeving</link>
+			<description>Onbekende ICT organisatie | ICT en telecommunicatie | 24-10-2025 | DataLekt.nl: Een Friese it-leverancier die Azure-omgevingen beheert voor mkb-klanten werd geconfronteerd met een hack waarbij een aanvaller, dankzij het uitgeschakelde MFA-beleid, toegang verkreeg tot de cloudomgeving van een klant. De hacker creëerde circa zestig virtuele servers die vijf weken op maximale capaciteit cryptovaluta mineden, wat leidde tot dagelijks €22.000 aan kosten en een totale schade van €864.000. De ict-distributeur ontdekte het misbruik op 7 november 2022 en waarschuwde dezelfde dag, waarna de leverancier de omgeving afsloot. De rechtbank oordeelde dat de leverancier zelf verantwoordelijk was omdat MFA niet was ingeschakeld. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/910474/It-leverancier+zelf+aansprakelijk+voor+schade+door+gehackte+Azure-omgeving?datalekt=b15e3182bb7477dbdf91235ea872b194a04012e39d47b5e2dd1d95d451718441</guid>
+			<category>ICT en telecommunicatie </category>
+			<pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Politie behandeld voor intern misbruik van politiesystemen door Haagse agent</title>
+			<link>https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie-2/</link>
+			<description>Politie Den Haag | Overheid: Politie | 18-11-2025 | DataLekt.nl: Een 24-jarige politiemedewerker uit Den Haag heeft gedurende de periode van oktober 2023 tot september 2024 herhaaldelijk zonder geldige werkreden bevragingen uitgevoerd in politiesystemen, vaak ’s nachts, buiten diensttijd of tijdens verlof. De automatische monitoring van het systeem sloeg alarm vanwege het hoge aantal ongebruikelijke bevragingen, waarna onderzoek volgde. De agent verklaarde dat hij uit onzekerheid wilde oefenen, maar erkende dat dit onrechtmatig was. Vanwege het risico op misbruik van privacygevoelige gegevens legt het Openbaar Ministerie een taakstraf van tachtig uur op, die hij heeft geaccepteerd. (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie-2/?datalekt=224e71504381bade1b3130c9fdff7e25fbc04f8dd11d19d29853812392291ad5</guid>
+			<category>Overheid: Politie </category>
+			<pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Hogeschool van Arnhem en Nijmegen onderzoekt mogelijk datalek na ongeoorloofd AI-gebruik door docent</title>
+			<link>https://www.gld.nl/nieuws/8392671/han-onderzoekt-mogelijk-datalek-na-ongeoorloofd-ai-gebruik-door-docent</link>
+			<description>Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 17-11-2025 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) onderzoekt of er een datalek is ontstaan nadat een docent Communicatie en Multimedia Design zonder toestemming een geavanceerde AI-agent toegang gaf tot de digitale leeromgeving, waar volgens hem veel studentgegevens aanwezig zijn. De docent gebruikte privé-abonnementen op AI-software, in strijd met de interne regels. De school heeft een voorlopige melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt nog welke gegevens mogelijk zijn ingezien en hoeveel studenten getroffen kunnen zijn. (Bron: gld.nl)</description>
+			<guid isPermaLink="false">https://www.gld.nl/nieuws/8392671/han-onderzoekt-mogelijk-datalek-na-ongeoorloofd-ai-gebruik-door-docent?datalekt=5a209686c39de026daefac7f00c96c0ddaaeab996c465ad0893c0632f94252a3</guid>
+			<category>Onderwijs </category>
+			<pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Provincie Overijssel publiceert opnieuw niet-geanonimiseerde Woo-documenten</title>
 			<link>https://www.binnenlandsbestuur.nl/juridisch/overijssel-weer-in-de-fout-met-woo-documenten</link>
@@ -727,30 +751,6 @@
 			<guid isPermaLink="false">https://beveiligingnieuws.nl/rol-bij-schenden-ambtsgeheim-politieagent-bestraft/?datalekt=5e7461c3a35d35acb76ae01f95adc2e2f10e8f2b46e0539d1ac29688dea80673</guid>
 			<category>Overheid: Politie </category>
 			<pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Almere schiet in 2024 tekort in bescherming persoonsgegevens en naleving privacywetgeving</title>
-			<link>https://www.security.nl/posting/895367/FG%3A+gemeente+Almere+beschermt+persoonsgegevens+burgers+onvoldoende</link>
-			<description>Gemeente Almere | ICT en telecommunicatie | 08-07-2025 | DataLekt.nl: De Functionaris Gegevensbescherming van de gemeente Almere stelt in de Privacy Jaarrapportage 2024 dat de gemeente persoonsgegevens van burgers onvoldoende beschermt. Er is gebrekkige registratie van datalekken, preventieve maatregelen ontbreken of worden niet opgevolgd en meldingen van datalekken gebeuren vaak te laat. Bovendien zijn verplichte DPIA’s voor risicovolle verwerkingen niet uitgevoerd, ondanks eerder gestelde doelen. De gemeente erkent de tekortkomingen en geeft aan dat er vooruitgang is geboekt, maar dat het gewenste volwassenheidsniveau rond privacybescherming nog niet is bereikt. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/895367/FG%3A+gemeente+Almere+beschermt+persoonsgegevens+burgers+onvoldoende?datalekt=79d4c3a937611eaadeb202d1977089d2384fbf186bff243b49fd6bee24984fe4</guid>
-			<category>ICT en telecommunicatie </category>
-			<pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Haarlem ziet stijging in datalekmeldingen na invoering intranetknop in 2024</title>
-			<link>https://www.security.nl/posting/895389/Haarlem+meldt+grote+toename+van+datalekmeldingen+na+komst+%27meldknop%27</link>
-			<description>Gemeente Haarlem | Overheid: Gemeenten | 08-07-2025 | DataLekt.nl: De gemeente Haarlem heeft in 2024 een forse toename in datalekmeldingen geregistreerd, met name na de introductie van een &amp;#039;meldknop&amp;#039; op het intranet in oktober. Deze knop vereenvoudigde het meldproces, wat leidde tot een piek in interne meldingen, gevolgd door een afname. In totaal rapporteerde het gemeentepersoneel 61 incidenten, waarvan 17 aan de Autoriteit Persoonsgegevens werden gemeld. De meeste gevallen betroffen verloren mobiele apparaten, die na melding op afstand werden gewist. Andere incidenten gingen over verkeerd verzonden e-mails en bijlagen. De FG benadrukt het belang van voortdurende bewustwording rond meldplicht. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/895389/Haarlem+meldt+grote+toename+van+datalekmeldingen+na+komst+%27meldknop%27?datalekt=40be957ad1e5c531b68bf048e58b99a31a673192a9906eba18ee0557561d57df</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Pluryn meldt datalek na verlies onbeveiligde USB-stick met gevoelige gegevens</title>
-			<link>https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html</link>
-			<description>Pluryn | Gezondheids- en welzijnszorg | 17-06-2025 | DataLekt.nl: Zorgorganisatie Pluryn heeft een datalek gemeld na het verlies van een onbeveiligde USB-stick in de week van 9 juni 2025. Op de stick stonden persoonsgegevens van cliënten en medewerkers, waaronder namen, adressen en burgerservicenummers. Mogelijk betroffen de gegevens ook voormalige cliënten en werknemers. De organisatie heeft melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt het incident met hulp van een externe partij, die nagaat of de gegevens bijvoorbeeld online circuleren. Getroffenen worden vanaf 17 juni geïnformeerd. Pluryn neemt aanvullende maatregelen om medewerkers te instrueren over gegevensveiligheid en wil het informatiebeleid aanscherpen. [Update: Op 9 juli 2025 is bekend geworden dat de verloren USB-stick van Pluryn persoonsgegevens bevat van vrijwel alle cliënten en medewerkers uit de afgelopen 25 jaar, waaronder gevoelige informatie zoals bsn’s, betaalgegevens en medische zorggegevens.] (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html?datalekt=43cc890e6206e0ea917eef327366f5dff359172d880273e4d77fce886d65abcf</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>ASML slachtoffer van bedrijfsspionage door Russische oud-medewerker</title>
