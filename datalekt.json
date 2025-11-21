@@ -1,5 +1,96 @@
 [
     {
+        "id": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever?datalekt=36a6c31a3ce01c490f4cb32ac0c854b22ac29f3e9cc9509d6eb37525bce9cba9",
+        "url": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever",
+        "title": "Ddos-aanval op onbekend bedrijf veroorzaakt grote financi\u00eble schade",
+        "date_published": "2025-11-21T10:14:00Z",
+        "date_modified": "2025-11-21T10:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende organisatie | Overig | 19-11-2025 | DataLekt.nl: Begin 2024 voerde een 25-jarige medewerker een ddos-aanval uit op het bedrijf waar hij op dat moment werkzaam was. De verdachte heeft tijdens politieverhoor bekend dat hij doelbewust de website van het bedrijf platlegde. Het Openbaar Ministerie stelt dat deze aanval, samen met een andere door dezelfde verdachte gepleegde aanval op een ander bedrijf, heeft bijgedragen aan een totale schade van 178.000 euro en eist een taakstraf van 160 uur. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever?datalekt=335c4a498554019e8ab454cf980f9b7733a7b9e3a849662e54aa7131b42421eb",
+        "url": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever",
+        "title": "Ddos-aanval op callcenter in Sittard door eigen medewerker",
+        "date_published": "2025-11-21T10:13:00Z",
+        "date_modified": "2025-11-21T10:13:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende callcenter | Verhuur en zakelijke dienstverlening | 19-11-2025 | DataLekt.nl: Een medewerker van een callcenter in Sittard voerde eind 2023 een ddos-aanval uit op de website van zijn werkgever. Volgens het Openbaar Ministerie bekende de man dat hij dit deed in de hoop zijn collega\u2019s een vrije dag te bezorgen. De aanval veroorzaakte samen met een latere aanval op een ander bedrijf een totale schade van 178.000 euro. (Bron: security.nl)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/241682/digid-is-beperkt-beschikbaar-vanwege-een-ddos-aanval.html?datalekt=09bf710092498f87097dc5c2a1c54892e4a9911ba1f93483c2d9490b15974e49",
+        "url": "https://tweakers.net/nieuws/241682/digid-is-beperkt-beschikbaar-vanwege-een-ddos-aanval.html",
+        "title": "DigiD kampt met beperkte beschikbaarheid door terugkerende ddos-aanvallen op Logius",
+        "date_published": "2025-11-21T10:07:00Z",
+        "date_modified": "2025-11-21T10:07:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Logius | Overheid: Organisatieonderdeel | 19-11-2025 | DataLekt.nl: DigiD was sinds 19 november om 10.47 uur beperkt beschikbaar doordat Logius te maken kreeg met terugkerende ddos-aanvallen. Door deze verstoringen konden gebruikers mogelijk niet of slechts gedeeltelijk inloggen via de digitale overheidsdienst. Het is niet bekend wie achter de aanvallen zit of dat het om dezelfde dader gaat. Logius meldt dat de storing om 11.26 uur is opgelost en werkt aan een nieuwe aanpak om cyberaanvallen beter te kunnen afweren. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042?datalekt=85e70ce22d102b5ccb6a48097b02727eabcec40e4f9938f1f86738e0f04a35f7",
+        "url": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042",
+        "title": "Zevenentwintig onbekende Nederlandse organisaties getroffen door website-inbraak door Black Witch",
+        "date_published": "2025-11-21T10:01:00Z",
+        "date_modified": "2025-11-21T10:01:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "avrotros.nl"
+        },
+        "content_html": "",
+        "content_text": "27 onbekende organisaties | Overig | 19-11-2025 | DataLekt.nl: Naast enkele bekende instellingen werden ook 27 andere, niet nader genoemde Nederlandse organisaties getroffen door een aanval van hackersgroep Black Witch. De groep drong de websites binnen en plaatste nazi-teksten en symbolen op de voorpagina\u2019s. Volgens de hackers was het motief het vergroten van hun naamsbekendheid en het werven van nieuwe leden. De ongeautoriseerde aanpassing van webcontent wijst op misbruik van een kwetsbaarheid bij de betrokken webhosting of beheersystemen. De groep stelt dat er geen gegevens zijn gestolen, maar dit is niet door de getroffen organisaties bevestigd. (Bron: opgelicht.avrotros.nl)"
+    },
+    {
+        "id": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042?datalekt=77d4466a733006ce7e2a1eb19d01aad9eb0b089f9f74467d38c1967bd84d7368",
+        "url": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042",
+        "title": "Arriva getroffen door website-inbraak waarbij hackersgroep Black Witch nazi-teksten plaatste",
+        "date_published": "2025-11-21T10:00:00Z",
+        "date_modified": "2025-11-21T10:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "avrotros.nl"
+        },
+        "content_html": "",
+        "content_text": "Arriva | Vervoer en opslag | 19-11-2025 | DataLekt.nl: Hackersgroep Black Witch heeft de website van Arriva gehackt, samen met ongeveer dertig andere Nederlandse sites, en hierbij nazi-teksten en symbolen op de voorpagina geplaatst. De groep zegt dat het doel niet was om schade aan te richten, maar om naamsbekendheid te vergroten en nieuwe leden te werven. De aanval bestond uit het ongeautoriseerd aanpassen van webcontent, vermoedelijk via een kwetsbaarheid bij een externe webbeheerpartij, al is de exacte methode niet bevestigd. Volgens berichtgeving zouden de aanvallers vooral vanuit Frankrijk en Rusland opereren en geen gegevens hebben buitgemaakt, maar dit is nog niet door organisaties bevestigd. (Bron: opgelicht.avrotros.nl)"
+    },
+    {
+        "id": "https://www.rtvnoord.nl/zorg/RX-452/website-martini-ziekenhuis-korte-tijd-gehackt?datalekt=fbea89efa2d5d8fcd70e7b14d63872b54106baed31bbfd80f91a90196d7628ca",
+        "url": "https://www.rtvnoord.nl/zorg/RX-452/website-martini-ziekenhuis-korte-tijd-gehackt",
+        "title": "Website van Martini Ziekenhuis kortstondig gehackt via externe websiteleverancier",
+        "date_published": "2025-11-21T09:59:00Z",
+        "date_modified": "2025-11-21T09:59:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtvnoord.nl"
+        },
+        "content_html": "",
+        "content_text": "Martini Ziekenhuis | Gezondheids- en welzijnszorg | 19-11-2025 | DataLekt.nl: De website van het Martini Ziekenhuis is woensdagochtend ongeveer veertien minuten gehackt doordat kwaadwillenden via de externe websiteleverancier toegang kregen. Bezoekers kregen \u2018ongewenste inhoud\u2019 te zien, die volgens regionale media bestond uit nazistische teksten. De woordvoerder benadrukt dat de website volledig losstaat van de interne systemen van het ziekenhuis, waardoor geen pati\u00ebntgegevens of andere data zijn buitgemaakt. Het ziekenhuis onderzoekt hoe de aanval kon plaatsvinden en wil herhaling voorkomen. (Bron: rtvnoord.nl)"
+    },
+    {
+        "id": "https://www.destentor.nl/zwolle/site-van-isala-urenlang-plat-door-hack-bezoekers-zien-opmerkelijke-boodschap~a5da6e41/?datalekt=94d915325b917d5716cb7496f99ea54c8f8b32782f0157f6a20a95da6ca0108a",
+        "url": "https://www.destentor.nl/zwolle/site-van-isala-urenlang-plat-door-hack-bezoekers-zien-opmerkelijke-boodschap~a5da6e41/",
+        "title": "Website van Isala ontwricht door hack via firewall van websiteleverancier",
+        "date_published": "2025-11-21T09:58:00Z",
+        "date_modified": "2025-11-21T09:58:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "destentor.nl"
+        },
+        "content_html": "",
+        "content_text": "Isala | Gezondheids- en welzijnszorg | 19-11-2025 | DataLekt.nl: De website van Isala was woensdagochtend tijdelijk onbereikbaar doordat een hacker de firewall van de websiteleverancier wist te compromitteren. Bezoekers kregen een zwart scherm te zien met onder meer extremistische en intimiderende teksten ondertekend door \u2018BlackWitch\u2019. Volgens het ziekenhuis is niet ingebroken in de interne systemen en zijn pati\u00ebntgegevens nooit in gevaar geweest, omdat deze niet via de website worden opgeslagen. De website is uit voorzorg offline gehaald totdat de leverancier volledige veiligheid kon garanderen. (Bron: destentor.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/910474/It-leverancier+zelf+aansprakelijk+voor+schade+door+gehackte+Azure-omgeving?datalekt=b15e3182bb7477dbdf91235ea872b194a04012e39d47b5e2dd1d95d451718441",
         "url": "https://www.security.nl/posting/910474/It-leverancier+zelf+aansprakelijk+voor+schade+door+gehackte+Azure-omgeving",
         "title": "Friese it-leverancier draait zelf op voor schade door hack in Azure-omgeving door uitgeschakelde mfa-beveiliging",
@@ -1207,96 +1298,5 @@
         },
         "content_html": "",
         "content_text": "RTL Nederland | Media en inhoud | 21-07-2025 | DataLekt.nl: Buienradar, een populaire weerapplicatie van RTL Nederland, is op 21 juli getroffen door een DDoS-aanval, waardoor zowel de app als de website tijdelijk slecht of niet bereikbaar waren. Door de aanval werd een enorme hoeveelheid verkeer naar de servers gestuurd, wat resulteerde in overbelasting van het systeem. De dienst meldde dat de functionaliteit beperkt beschikbaar was en werkt aan een oplossing, al is nog onbekend wanneer het probleem volledig is opgelost. (Bron: droidapp.nl)"
-    },
-    {
-        "id": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht?datalekt=42497ca6e1a7a9874e249c60d836e66f809656246fa1ced0011915da3da0316f",
-        "url": "https://www.binnenlandsbestuur.nl/digitaal/ap-stelt-provincie-zuid-holland-onder-verscherpt-toezicht",
-        "title": "Verscherpt toezicht op Provincie Zuid-Holland na privacygevoelig datalek",
-        "date_published": "2024-04-13T12:01:00Z",
-        "date_modified": "2025-07-22T10:33:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "binnenlandsbestuur.nl"
-        },
-        "content_html": "",
-        "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 11-04-2024 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft Provincie Zuid-Holland onder verscherpt toezicht gesteld na een ernstig datalek. In het interne systeem van de provincie waren privacygevoelige documenten zoals cv&#039;s en paspoortkopie\u00ebn toegankelijk voor medewerkers zonder de vereiste autorisaties. Er zijn geen aanwijzingen dat deze informatie extern gedeeld is. De provincie heeft na ontdekking van het lek de toegangsrechten aangepast en noodmaatregelen voor beveiliging toegepast. Er zijn geen directe gevolgen voor burgers of bedrijven gemeld. [Update: Op 12 juli 2024 is bekend geworden dat het om 50 miljoen documenten gaat en dat het nog 1,5 jaar duurt voordat het lek definitief opgelost is.] [Update: Op 18 juli 2025 is bekend geworden dat het lek zo goed als gedicht is.] (Bron: binnenlandsbestuur.nl)"
-    },
-    {
-        "id": "https://www.huurcommissie.nl/actueel/nieuws/2025/07/16/datalek-openbaar-register-huurcommissie?datalekt=c205a48c659e69685c1ae05584f03f77c202bedbf3ac867ab36a37c9baf35270",
-        "url": "https://www.huurcommissie.nl/actueel/nieuws/2025/07/16/datalek-openbaar-register-huurcommissie",
-        "title": "Huurcommissie lekt persoonsgegevens door fout in openbaar register",
-        "date_published": "2025-07-18T13:38:00Z",
-        "date_modified": "2025-07-18T13:38:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "huurcommissie.nl"
-        },
-        "content_html": "",
-        "content_text": "Huurcommissie | Overheid: Zelfstandige bestuursorganen | 16-07-2025 | DataLekt.nl: De Huurcommissie heeft tijdens onderhoud aan haar Openbaar register vastgesteld dat in circa 350 uitspraken per abuis namen van huurders of verhuurders zichtbaar waren. Deze persoonsgegevens horen niet thuis in het register en vormen daarmee een datalek. Daarnaast onderzoekt de Huurcommissie nog een tweede groep uitspraken waarin indirect herleidbare informatie kan staan. De direct betrokkenen zijn persoonlijk ge\u00efnformeerd, en er zijn geen aanwijzingen dat de gegevens zijn misbruikt. Wel waarschuwt de Huurcommissie voor mogelijke phishing. Na melding bij de Autoriteit Persoonsgegevens zijn interne processen aangescherpt om herhaling te voorkomen. (Bron: huurcommissie.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html?datalekt=06f99ec198f9fa6b143fea8a018c82e7275a8da9fefb740c1e85f26dee741ed6",
-        "url": "https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html",
-        "title": "Belastingdienst moet twee interne systemen uitschakelen wegens ernstige privacyschendingen",
-        "date_published": "2025-07-14T10:20:00Z",
-        "date_modified": "2025-07-14T10:20:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 10-07-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens verplicht de Belastingdienst om de systemen Informatiesjabloon en Klantbeeld Toezicht Applicatie v\u00f3\u00f3r 15 oktober 2025 uit te faseren. Deze systemen maken het mogelijk voor alle 18.000 medewerkers om toegang te krijgen tot gevoelige persoonsgegevens, waaronder indirect iemands seksuele geaardheid. De gegevens verlaten bovendien het beveiligde netwerk van de dienst, waardoor controle ontbreekt. De maatregel volgt op een onderzoek naar privacyschendingen binnen zes datasystemen van de fiscus, gestart na eerdere onthullingen over het RAM-model. Eerdere schendingen leidden al tot miljoenenboetes. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://beveiligingnieuws.nl/grootschalige-fraude-met-zorgcertificaten-beeindigd/?datalekt=89b12cfcf3b7daf0252c59a75a8390fe460da420059ae4a09eff910dd9a08b97",
-        "url": "https://beveiligingnieuws.nl/grootschalige-fraude-met-zorgcertificaten-beeindigd/",
-        "title": "Zorginstellingen en onderwijsinstellingen getroffen door grootschalige fraude met valse EVC-certificaten",
-        "date_published": "2025-07-14T10:19:00Z",
-        "date_modified": "2025-07-14T10:19:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "beveiligingnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende zorgorganisaties | Gezondheids- en welzijnszorg | 10-07-2025 | DataLekt.nl: De politie heeft drie verdachten aangehouden in een grootschalige fraudezaak waarbij tussen de 800 en 1200 vervalste EVC-certificaten zijn verhandeld. Deze certificaten, die normaal praktische ervaring in de zorg aantonen, werden via malafide bureaus zonder vakkennis verkocht en ingewisseld voor erkende diploma\u2019s bij onderwijsinstellingen. Hierdoor konden personen met een crimineel verleden werken in de zorgsector. De Inspectie Gezondheidszorg en Jeugd waarschuwde eerder al voor risico\u2019s voor cli\u00ebntveiligheid. Het aantal dubieuze EVC-bureaus is fors gestegen en ook meer dan vijftig jeugdzorgmedewerkers zijn al uit het kwaliteitsregister geschrapt. (Bron: beveiligingnieuws.nl)"
-    },
-    {
-        "id": "https://www.gld.nl/nieuws/8336825/facebookpaginas-gemeente-montferland-gehackt?datalekt=2f5226b4874aee84d765b21e6fbba0d0e899b760e0ed74c01ff8f78566c64f25",
-        "url": "https://www.gld.nl/nieuws/8336825/facebookpaginas-gemeente-montferland-gehackt",
-        "title": "Gemeente Montferland slachtoffer van hack op Facebook",
-        "date_published": "2025-07-14T10:18:00Z",
-        "date_modified": "2025-07-14T10:18:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gld.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Montferland | Overheid: Gemeenten | 10-07-2025 | DataLekt.nl: De gemeente Montferland ontdekte op 10 juli 2025 dat hackers zich toegang hadden verschaft tot twee lokale Facebookpagina\u2019s (&#039;s\u2011Heerenberg\u2011Oost en Lengel), waarbij onder meer de profielfoto werd gewijzigd naar een Britse podotherapeut uit Birmingham en een video over schoenen werd geplaatst. Volgens medewerkers gebeurde het volgens hen binnen enkele seconden. De gemeente meldt de hack bij Facebook en onderzoekt de herkomst, maar weet nog niet wie erachter zit en heeft geen aanwijzingen voor verdere schade. (Bron: gld.nl)"
-    },
-    {
-        "id": "https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/?datalekt=2a8aaa5f16284e3427060cd7f48fd34ed1ff7115e165b8b8b1dc8b210596da9e",
-        "url": "https://www.computable.nl/2024/12/09/asml-opnieuw-dupe-van-bedrijfsspionage/",
-        "title": "ASML slachtoffer van bedrijfsspionage door Russische oud-medewerker",
-        "date_published": "2024-12-11T10:01:00Z",
-        "date_modified": "2025-07-14T09:43:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "computable.nl"
-        },
-        "content_html": "",
-        "content_text": "ASML | Industrie | 09-12-2024 | DataLekt.nl: ASML is opnieuw getroffen door bedrijfsspionage. Een voormalige Russische medewerker zou vertrouwelijke handleidingen van ASML en dochterbedrijf Mapper hebben gestolen en verkocht aan Russische partijen, wat hem tienduizenden euro\u2019s opleverde. Dit incident volgt na een eerdere zaak in 2023 waarbij een Chinese medewerker broncodes stal. ASML heeft aangifte gedaan en de verdachte verschijnt voor de rechter. De financi\u00eble schade voor ASML en het aantal getroffen partijen is onbekend. [Update: Op 10 juli 2025 heeft de rechtbank de voormalige medewerker veroordeeld tot drie jaar cel wegens computervredebreuk en het delen van chiptechnologie met Rusland, waarmee hij Europese sancties heeft geschonden.] (Bron: computable.nl)"
-    },
-    {
-        "id": "https://beveiligingnieuws.nl/rol-bij-schenden-ambtsgeheim-politieagent-bestraft/?datalekt=5e7461c3a35d35acb76ae01f95adc2e2f10e8f2b46e0539d1ac29688dea80673",
-        "url": "https://beveiligingnieuws.nl/rol-bij-schenden-ambtsgeheim-politieagent-bestraft/",
-        "title": "Politie Amsterdam getroffen door datalek via misbruik accounts door collega-agent",
-        "date_published": "2025-07-10T14:37:00Z",
-        "date_modified": "2025-07-10T14:37:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "beveiligingnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Politie Amsterdam | Overheid: Politie | 09-07-2025 | DataLekt.nl: Een voormalig politieagent van de eenheid Amsterdam is veroordeeld tot 18 maanden gevangenisstraf wegens het schenden van het ambtsgeheim, computervredebreuk, omkoping en misbruik van collega-accounts. Tussen september 2022 en april 2024 gaf hij op verzoek van zijn broer vertrouwelijke informatie uit politiesystemen door aan criminelen, tegen betaling. De agent gebruikte zonder toestemming de inloggegevens van collega\u2019s om informatie over kentekens en personen op te vragen. De zaak kwam aan het licht nadat politieonderzoek verdere misdrijven wist te voorkomen. (Bron: beveiligingnieuws.nl)"
     }
 ]
