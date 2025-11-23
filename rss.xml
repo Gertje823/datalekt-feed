@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 21 Nov 2025 12:43:00 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 23 Nov 2025 01:57:32 +0000</lastBuildDate>
+		<item>
+			<title>Sif overtreedt privacyregels door onrechtmatige speekseltest bij werknemer</title>
+			<link>https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg</link>
+			<description>Sif | Industrie | 27-03-2025 | DataLekt.nl: Sif liet bij de toegangspoort onaangekondigde speekseltesten uitvoeren door een extern bureau om medewerkers op drugs- en alcoholgebruik te controleren. Een werknemer testte positief op cannabis, waarna Sif ontbinding van de arbeidsovereenkomst verzocht. De werknemer voerde aan dat deze test in strijd was met de AVG. De rechtbank oordeelde dat speekseltesten gezondheidsgegevens opleveren en daarom bijzondere persoonsgegevens zijn waarvoor een wettelijke grondslag vereist is. Die ontbreekt voor de functie van de werknemer, waardoor Sif de test niet had mogen uitvoeren. De uitslag mag daarom niet als bewijs worden gebruikt. (Bron: lsenr.nl)</description>
+			<guid isPermaLink="false">https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg?datalekt=a42f480791935046995b991ac857f65d2804f3b459207b53e036adcfc220c158</guid>
+			<category>Industrie </category>
+			<pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Tynaarlo lekt persoonsgegevens door fout bij digitaal archiveren</title>
+			<link>https://www.ad.nl/tynaarlo/datalek-ontdekt-bij-gemeente-tynaarlo-inmiddels-verholpen~aae823dc/</link>
+			<description>Gemeente Tynaarlo | Overheid: Gemeenten | 20-11-2025 | DataLekt.nl: Bij de gemeente Tynaarlo zijn op 7 november 2025 persoonsgegevens van inwoners onbedoeld openbaar geraakt doordat acht documenten tijdens het verplaatsen naar een digitaal archief per ongeluk in een openbaar internetarchief werden geplaatst. Zeker twee bestanden bevatten gegevens zoals naam, geslacht, geboortedatum, burgerservicenummer en contactgegevens. Twee bestanden zijn dertien keer geraadpleegd, maar het is onbekend door wie. Op 12 november werd het lek gestopt. De gemeente heeft melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt hoe herhaling kan worden voorkomen. Inwoners worden geadviseerd alert te zijn op verdachte berichten. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/tynaarlo/datalek-ontdekt-bij-gemeente-tynaarlo-inmiddels-verholpen~aae823dc/?datalekt=92819a89f34765bf173f3bb2447645ea5ccfbf73fc64ff998bb19b9b68054754</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ddos-aanval op onbekend bedrijf veroorzaakt grote financiële schade</title>
 			<link>https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever</link>
@@ -751,22 +767,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d35c460c7d416b12932570f5ea8f1c5df06519c3f4e3e4d9b7df79fc019817d7</guid>
 			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Buienradar van RTL Nederland tijdelijk onbereikbaar door DDoS-aanval</title>
-			<link>https://www.droidapp.nl/nieuws/buienradar-kampt-met-storing-21-juli/</link>
-			<description>RTL Nederland | Media en inhoud | 21-07-2025 | DataLekt.nl: Buienradar, een populaire weerapplicatie van RTL Nederland, is op 21 juli getroffen door een DDoS-aanval, waardoor zowel de app als de website tijdelijk slecht of niet bereikbaar waren. Door de aanval werd een enorme hoeveelheid verkeer naar de servers gestuurd, wat resulteerde in overbelasting van het systeem. De dienst meldde dat de functionaliteit beperkt beschikbaar was en werkt aan een oplossing, al is nog onbekend wanneer het probleem volledig is opgelost. (Bron: droidapp.nl)</description>
-			<guid isPermaLink="false">https://www.droidapp.nl/nieuws/buienradar-kampt-met-storing-21-juli/?datalekt=91f415f0c52bd9f4146222fb726d45b7c15c071475bcfcedfcf9ff3ea603f338</guid>
-			<category>Media en inhoud </category>
-			<pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Openbaar Ministerie koppelt digitale werkomgeving los door kritiek lek in citrix-software</title>
-			<link>https://tweakers.net/nieuws/237276/om-gaat-offline-door-beveiligingsprobleem-datalek-niet-uitgesloten.html</link>
-			<description>Openbaar Ministerie | Overheid: Organisatieonderdeel | 18-07-2025 | DataLekt.nl: Het Nederlandse Openbaar Ministerie (OM) heeft op vrijdag 18 juli 2025 uit voorzorg zijn digitale werkomgeving van het internet losgekoppeld vanwege een ernstig beveiligingsprobleem in Citrix NetScaler-software. De kwetsbaarheid, bekend als CVE-2025-5777 met een CVSS-score van 9,3, stelt aanvallers in staat om via een fout in de authenticatieprocedure gevoelige gegevens zoals inlogtokens te bemachtigen. Het lek wordt actief misbruikt en er zijn signalen dat ook het OM doelwit is geweest. Werken op afstand is sindsdien niet meer mogelijk, en een datalek wordt niet uitgesloten. [Update: Op 24 juli 2025 is bekend geworden dat mogelijk Russische hackers achter de aanval zitten.] (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/237276/om-gaat-offline-door-beveiligingsprobleem-datalek-niet-uitgesloten.html?datalekt=992961cc86ac00eba27f00a39f744cc051859fabb444671fe1f9742125f41f17</guid>
-			<category>Overheid: Organisatieonderdeel </category>
-			<pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>AP legde Experian in 2023 boete en dwangsom op vanwege privacywet-overtreding</title>
