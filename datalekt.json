@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.deorkaan.nl/datalek-bij-sociaal-wijkteam-193-mailadressen-zichtbaar/?datalekt=c77e168e4746d604e66765e0881e51119d41d566bb61332a74a38d3c6dff2fc6",
+        "url": "https://www.deorkaan.nl/datalek-bij-sociaal-wijkteam-193-mailadressen-zichtbaar/",
+        "title": "Sociaal Wijkteam Kogerveld-Noord deelt per ongeluk 1249 e-mailadressen van mantelzorgers in CC",
+        "date_published": "2025-11-23T11:12:00Z",
+        "date_modified": "2025-11-23T11:12:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "deorkaan.nl"
+        },
+        "content_html": "",
+        "content_text": "Sociaal Wijkteam Kogerveld-Noord | Overheid: Organisatie met overheidsbemoeienis | 20-11-2025 | DataLekt.nl: Bij het Sociaal Wijkteam Kogerveld-Noord zijn per ongeluk 1249 e-mailadressen van mantelzorgers gedeeld doordat een medewerker deze in de CC zette in plaats van in de BCC. De fout ontstond bij een uitnodiging voor een activiteit, waarna een intrekkingsmail werd verstuurd die opnieuw in de CC terechtkwam. Hierdoor bleef de oorspronkelijke mail zichtbaar voor alle ontvangers. Het wijkteam beschouwt dit als een datalek, heeft melding gedaan bij de Autoriteit Persoonsgegevens en scherpt interne procedures aan. Mantelzorgers worden gewaarschuwd voor mogelijke phishing. (Bron: deorkaan.nl)"
+    },
+    {
         "id": "https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg?datalekt=a42f480791935046995b991ac857f65d2804f3b459207b53e036adcfc220c158",
         "url": "https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg",
         "title": "Sif overtreedt privacyregels door onrechtmatige speekseltest bij werknemer",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Onbekende organisatie | Overige dienstverlening | 29-07-2025 | DataLekt.nl: Een 28-jarige man uit Purmerend heeft tijdens zijn dienstverband bij een bedrijf persoonsgegevens verzameld door zonder toestemming gegevens te kopi\u00ebren. Enkele jaren na zijn vertrek probeerde hij het bedrijf op 26 april 2023 te chanteren door een dreigmail te sturen met voorbeelden van klantgegevens en eiste \u20ac 50.000 in bitcoins. Hij dreigde met openbaarmaking aan media, slachtoffers en partners en het verkopen van de gegevens op het dark web. In totaal werden gegevens van bijna 40.000 personen aangetroffen op zijn apparaten. Hij bekende de afdreiging en computervredebreuk tussen januari en november 2021. (Bron: om.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d35c460c7d416b12932570f5ea8f1c5df06519c3f4e3e4d9b7df79fc019817d7",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Stichting Johannes Bosco getroffen door ransomware aanval van de criminele organisatie Safepay",
-        "date_published": "2025-07-28T11:26:00Z",
-        "date_modified": "2025-07-28T11:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Stichting Johannes Bosco | Gezondheids- en welzijnszorg | 22-07-2025 | DataLekt.nl: De criminele organisatie Safepay heeft op het darkweb aangekondigd dat zij Stichting Johannes Bosco heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]

@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 23 Nov 2025 01:57:32 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 24 Nov 2025 01:52:13 +0000</lastBuildDate>
+		<item>
+			<title>Sociaal Wijkteam Kogerveld-Noord deelt per ongeluk 1249 e-mailadressen van mantelzorgers in CC</title>
+			<link>https://www.deorkaan.nl/datalek-bij-sociaal-wijkteam-193-mailadressen-zichtbaar/</link>
+			<description>Sociaal Wijkteam Kogerveld-Noord | Overheid: Organisatie met overheidsbemoeienis | 20-11-2025 | DataLekt.nl: Bij het Sociaal Wijkteam Kogerveld-Noord zijn per ongeluk 1249 e-mailadressen van mantelzorgers gedeeld doordat een medewerker deze in de CC zette in plaats van in de BCC. De fout ontstond bij een uitnodiging voor een activiteit, waarna een intrekkingsmail werd verstuurd die opnieuw in de CC terechtkwam. Hierdoor bleef de oorspronkelijke mail zichtbaar voor alle ontvangers. Het wijkteam beschouwt dit als een datalek, heeft melding gedaan bij de Autoriteit Persoonsgegevens en scherpt interne procedures aan. Mantelzorgers worden gewaarschuwd voor mogelijke phishing. (Bron: deorkaan.nl)</description>
+			<guid isPermaLink="false">https://www.deorkaan.nl/datalek-bij-sociaal-wijkteam-193-mailadressen-zichtbaar/?datalekt=c77e168e4746d604e66765e0881e51119d41d566bb61332a74a38d3c6dff2fc6</guid>
+			<category>Overheid: Organisatie met overheidsbemoeienis </category>
+			<pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Sif overtreedt privacyregels door onrechtmatige speekseltest bij werknemer</title>
 			<link>https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg</link>
@@ -759,14 +767,6 @@
 			<guid isPermaLink="false">https://www.om.nl/actueel/nieuws/2025/07/29/straf-geeist-tegen-man-die-persoonsgegevens-op-werk-verzamelde-en-daarmee-bedrijf-probeerde-te-chanteren?datalekt=6f1014593b7afae9dcf5fb7ef9141d425cde9caa6e4db62d1f958ab3ac970e51</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Stichting Johannes Bosco getroffen door ransomware aanval van de criminele organisatie Safepay</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Stichting Johannes Bosco | Gezondheids- en welzijnszorg | 22-07-2025 | DataLekt.nl: De criminele organisatie Safepay heeft op het darkweb aangekondigd dat zij Stichting Johannes Bosco heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d35c460c7d416b12932570f5ea8f1c5df06519c3f4e3e4d9b7df79fc019817d7</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>AP legde Experian in 2023 boete en dwangsom op vanwege privacywet-overtreding</title>
