@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 24 Nov 2025 01:52:13 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 27 Nov 2025 01:44:12 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Amsterdam zet vertrouwelijke OR- en OC-documenten per ongeluk online door interne fout</title>
+			<link>https://www.ad.nl/amsterdam/datalek-bij-gemeente-amsterdam-vertrouwelijke-verslagen-en-gevoelige-informatie-ambtenaren-zichtbaar~aaa398fd/</link>
+			<description>Gemeente Amsterdam | Overheid: Gemeenten | 25-11-2025 | DataLekt.nl: Bij de gemeente Amsterdam hebben vertrouwelijke verslagen van de ondernemingsraad en onderdeelcommissies online gestaan door een interne fout. Hoewel de documenten inmiddels zijn verwijderd, blijven fragmenten zichtbaar via zoekmachines als DuckDuckGo en Bing. De bestanden bevatten onder meer namen, functies, contactgegevens, agendapunten, interne discussies en in één geval informatie over de ernstige ziekte van een ambtenaar. De gemeente werd op 17 november geïnformeerd over het mogelijke datalek, waarna direct het datalekprotocol is gevolgd en melding is gedaan bij de Autoriteit Persoonsgegevens. Er wordt gewerkt aan het verwijderen van resterende fragmenten. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/amsterdam/datalek-bij-gemeente-amsterdam-vertrouwelijke-verslagen-en-gevoelige-informatie-ambtenaren-zichtbaar~aaa398fd/?datalekt=83f73f3b286f12c42b3cbfa129fd1dafbb40c9d690b23353a27d6bf530055b72</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Sociaal Wijkteam Kogerveld-Noord deelt per ongeluk 1249 e-mailadressen van mantelzorgers in CC</title>
 			<link>https://www.deorkaan.nl/datalek-bij-sociaal-wijkteam-193-mailadressen-zichtbaar/</link>
@@ -758,14 +766,6 @@
 			<description>Onbekende zorgorganisatie | Gezondheids- en welzijnszorg | 29-07-2025 | DataLekt.nl: Bij een lokale zorginstelling voor kwetsbare ouderen in Alkmaar zijn per ongeluk circa 2.500 e‑mailadressen gelekt naar internetcriminelen. De vermelding suggereert dat dit onbedoeld gebeurde vanuit een interne fout. Het lek werd waarschijnlijk ontdekt en gemeld rond 29‑07‑2025. Tot nu toe is onduidelijk of e‑mailadressen misbruikt zijn, maar betrokkenen lopen verhoogd risico op phishing of oplichting. (Bron: noordhollandsdagblad.nl)</description>
 			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/alkmaar/datalek-bij-zorginstelling-voor-kwetsbare-ouderen-in-alkmaar.-internetcriminelen-krijgen-onbedoeld-zo-n-2500-e-mailadressen-in-handen/80542340.html?datalekt=498f5b695eed7b8c31bbcc9498aa884f86955fed29d44978d4b0608c4a9868e4</guid>
 			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Voormalig medewerker chanteert oud-werkgever met eerder gestolen persoonsgegevens</title>
-			<link>https://www.om.nl/actueel/nieuws/2025/07/29/straf-geeist-tegen-man-die-persoonsgegevens-op-werk-verzamelde-en-daarmee-bedrijf-probeerde-te-chanteren</link>
-			<description>Onbekende organisatie | Overige dienstverlening | 29-07-2025 | DataLekt.nl: Een 28-jarige man uit Purmerend heeft tijdens zijn dienstverband bij een bedrijf persoonsgegevens verzameld door zonder toestemming gegevens te kopiëren. Enkele jaren na zijn vertrek probeerde hij het bedrijf op 26 april 2023 te chanteren door een dreigmail te sturen met voorbeelden van klantgegevens en eiste € 50.000 in bitcoins. Hij dreigde met openbaarmaking aan media, slachtoffers en partners en het verkopen van de gegevens op het dark web. In totaal werden gegevens van bijna 40.000 personen aangetroffen op zijn apparaten. Hij bekende de afdreiging en computervredebreuk tussen januari en november 2021. (Bron: om.nl)</description>
-			<guid isPermaLink="false">https://www.om.nl/actueel/nieuws/2025/07/29/straf-geeist-tegen-man-die-persoonsgegevens-op-werk-verzamelde-en-daarmee-bedrijf-probeerde-te-chanteren?datalekt=6f1014593b7afae9dcf5fb7ef9141d425cde9caa6e4db62d1f958ab3ac970e51</guid>
-			<category>Overige dienstverlening </category>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
