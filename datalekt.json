@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ad.nl/losser/datalek-en-gebrekkig-proces-zetten-druk-op-wethouder-opvang-oekrainers-aan-gildehauserweg-in-losser-wankelt~ae09e61f/?datalekt=39ed1ca7e3441e021c1a80494f0e6de7b401fb6b92afb1d36b374b8e003d3df8",
+        "url": "https://www.ad.nl/losser/datalek-en-gebrekkig-proces-zetten-druk-op-wethouder-opvang-oekrainers-aan-gildehauserweg-in-losser-wankelt~ae09e61f/",
+        "title": "Gemeente Losser publiceert per ongeluk persoonsgegevens van bezwaarmakers door technische fout",
+        "date_published": "2025-11-29T13:31:00Z",
+        "date_modified": "2025-11-29T13:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Losser | Overheid: Gemeenten | 26-11-2025 | DataLekt.nl: Bij de gemeente Losser zijn door een technische fout de bezwaarschriften van omwonenden tegen de opvang van Oekra\u00efense vluchtelingen aan de Gildehauserweg online gepubliceerd, inclusief namen en adressen van de indieners. De fout werd duidelijk tijdens de commissievergadering, waar wethouder Milad Lahdo aangaf dat de gemeente overweegt aangifte te doen van het datalek. De raad kreeg de stukken bovendien pas enkele uren voor de vergadering toegestuurd, wat tot extra kritiek leidde op het gebrekkige proces. De wethouder bood hiervoor excuses aan richting zowel raad als omwonenden. (Bron: ad.nl)"
+    },
+    {
         "id": "https://www.ad.nl/amsterdam/datalek-bij-gemeente-amsterdam-vertrouwelijke-verslagen-en-gevoelige-informatie-ambtenaren-zichtbaar~aaa398fd/?datalekt=83f73f3b286f12c42b3cbfa129fd1dafbb40c9d690b23353a27d6bf530055b72",
         "url": "https://www.ad.nl/amsterdam/datalek-bij-gemeente-amsterdam-vertrouwelijke-verslagen-en-gevoelige-informatie-ambtenaren-zichtbaar~aaa398fd/",
         "title": "Gemeente Amsterdam zet vertrouwelijke OR- en OC-documenten per ongeluk online door interne fout",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "AZFanpage | Media en inhoud | 29-07-2025 | DataLekt.nl: Het AZFanpage\u2011forum, verbonden aan de voetbalclub AZ in Alkmaar, werd op 29\u201107\u20112025 getroffen door een grootschalige DDoS\u2011aanval. Criminelen vanuit Brazili\u00eb, Bangkok en Bangladesh logden gezamenlijk ongeveer 1,3 miljoen foutieve inlogpogingen tegelijkertijd uit, waardoor het forum onbereikbaar werd. Het incident lijkt veroorzaakt door kwaadwillende derden die trafiek uit verschillende geografische locaties gebruikten om de service te overbelasten. Van datalekken of verdere schade is niets gemeld. (Bron: noordhollandsdagblad.nl)"
-    },
-    {
-        "id": "https://www.noordhollandsdagblad.nl/regio/alkmaar/datalek-bij-zorginstelling-voor-kwetsbare-ouderen-in-alkmaar.-internetcriminelen-krijgen-onbedoeld-zo-n-2500-e-mailadressen-in-handen/80542340.html?datalekt=498f5b695eed7b8c31bbcc9498aa884f86955fed29d44978d4b0608c4a9868e4",
-        "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/datalek-bij-zorginstelling-voor-kwetsbare-ouderen-in-alkmaar.-internetcriminelen-krijgen-onbedoeld-zo-n-2500-e-mailadressen-in-handen/80542340.html",
-        "title": "Zorginstelling voor kwetsbare ouderen in Alkmaar lekt circa 2.500 e\u2011mailadressen naar internetcriminelen",
-        "date_published": "2025-08-01T12:21:00Z",
-        "date_modified": "2025-08-01T12:21:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "noordhollandsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende zorgorganisatie | Gezondheids- en welzijnszorg | 29-07-2025 | DataLekt.nl: Bij een lokale zorginstelling voor kwetsbare ouderen in Alkmaar zijn per ongeluk circa 2.500 e\u2011mailadressen gelekt naar internetcriminelen. De vermelding suggereert dat dit onbedoeld gebeurde vanuit een interne fout. Het lek werd waarschijnlijk ontdekt en gemeld rond 29\u201107\u20112025. Tot nu toe is onduidelijk of e\u2011mailadressen misbruikt zijn, maar betrokkenen lopen verhoogd risico op phishing of oplichting. (Bron: noordhollandsdagblad.nl)"
     }
 ]

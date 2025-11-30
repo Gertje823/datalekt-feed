@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 27 Nov 2025 01:44:12 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 30 Nov 2025 01:56:20 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Losser publiceert per ongeluk persoonsgegevens van bezwaarmakers door technische fout</title>
+			<link>https://www.ad.nl/losser/datalek-en-gebrekkig-proces-zetten-druk-op-wethouder-opvang-oekrainers-aan-gildehauserweg-in-losser-wankelt~ae09e61f/</link>
+			<description>Gemeente Losser | Overheid: Gemeenten | 26-11-2025 | DataLekt.nl: Bij de gemeente Losser zijn door een technische fout de bezwaarschriften van omwonenden tegen de opvang van Oekraïense vluchtelingen aan de Gildehauserweg online gepubliceerd, inclusief namen en adressen van de indieners. De fout werd duidelijk tijdens de commissievergadering, waar wethouder Milad Lahdo aangaf dat de gemeente overweegt aangifte te doen van het datalek. De raad kreeg de stukken bovendien pas enkele uren voor de vergadering toegestuurd, wat tot extra kritiek leidde op het gebrekkige proces. De wethouder bood hiervoor excuses aan richting zowel raad als omwonenden. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/losser/datalek-en-gebrekkig-proces-zetten-druk-op-wethouder-opvang-oekrainers-aan-gildehauserweg-in-losser-wankelt~ae09e61f/?datalekt=39ed1ca7e3441e021c1a80494f0e6de7b401fb6b92afb1d36b374b8e003d3df8</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Amsterdam zet vertrouwelijke OR- en OC-documenten per ongeluk online door interne fout</title>
 			<link>https://www.ad.nl/amsterdam/datalek-bij-gemeente-amsterdam-vertrouwelijke-verslagen-en-gevoelige-informatie-ambtenaren-zichtbaar~aaa398fd/</link>
@@ -758,14 +766,6 @@
 			<description>Gemeente Midden-Delfland | Overheid: Gemeenten | 30-07-2025 | DataLekt.nl: Op maandag zijn via de website van de gemeente Midden-Delfland per ongeluk de persoonsgegevens van 133 inwoners openbaar gemaakt. De gegevens — waaronder naam, adres en woonplaats — stonden in een bijlage bij een bericht aan de gemeenteraad over ingediende bezwaarschriften tegen een omgevingsvergunning voor een asielzoekerscentrum. De fout werd veroorzaakt door een menselijke vergissing. De bijlage is dinsdag verwijderd en vervangen door een geanonimiseerde versie. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en stuurt de betrokken inwoners een brief met uitleg. [Update: Op 24 september 2025 is bekend geworden dat de onderzoekskosten 33.335 euro zijn.] (Bron: wos.nl)</description>
 			<guid isPermaLink="false">https://wos.nl/nieuws/artikel/midden-delfland-onthulde-persoonsgegevens-van-bezwaarmakers?datalekt=70cd6493094377cb6c0ea4a60045df074e2a6b26cd6f77370d3780023cf2c920</guid>
 			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Zorginstelling voor kwetsbare ouderen in Alkmaar lekt circa 2.500 e‑mailadressen naar internetcriminelen</title>
-			<link>https://www.noordhollandsdagblad.nl/regio/alkmaar/datalek-bij-zorginstelling-voor-kwetsbare-ouderen-in-alkmaar.-internetcriminelen-krijgen-onbedoeld-zo-n-2500-e-mailadressen-in-handen/80542340.html</link>
-			<description>Onbekende zorgorganisatie | Gezondheids- en welzijnszorg | 29-07-2025 | DataLekt.nl: Bij een lokale zorginstelling voor kwetsbare ouderen in Alkmaar zijn per ongeluk circa 2.500 e‑mailadressen gelekt naar internetcriminelen. De vermelding suggereert dat dit onbedoeld gebeurde vanuit een interne fout. Het lek werd waarschijnlijk ontdekt en gemeld rond 29‑07‑2025. Tot nu toe is onduidelijk of e‑mailadressen misbruikt zijn, maar betrokkenen lopen verhoogd risico op phishing of oplichting. (Bron: noordhollandsdagblad.nl)</description>
-			<guid isPermaLink="false">https://www.noordhollandsdagblad.nl/regio/alkmaar/datalek-bij-zorginstelling-voor-kwetsbare-ouderen-in-alkmaar.-internetcriminelen-krijgen-onbedoeld-zo-n-2500-e-mailadressen-in-handen/80542340.html?datalekt=498f5b695eed7b8c31bbcc9498aa884f86955fed29d44978d4b0608c4a9868e4</guid>
-			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
