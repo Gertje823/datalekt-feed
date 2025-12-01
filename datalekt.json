@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.waldnet.nl/wn/nieuws/82853/Datalek_bij_Dantumadiel_honderden_mailadressen_per_ongeluk_openbaar.html?datalekt=126b19aca13163e3712f683d283b774ec11b79ed2ca9f6469e3533aa63e8580c",
+        "url": "https://www.waldnet.nl/wn/nieuws/82853/Datalek_bij_Dantumadiel_honderden_mailadressen_per_ongeluk_openbaar.html",
+        "title": "Gemeente Dantumadiel maakt per ongeluk e-mailadressen van ge\u00efnteresseerden in Lyts Wenjen openbaar",
+        "date_published": "2025-11-30T10:46:00Z",
+        "date_modified": "2025-11-30T10:46:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "waldnet.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Dantumadiel | Overheid: Gemeenten | 28-11-2025 | DataLekt.nl: De gemeente Dantumadiel heeft op woensdagmiddag een datalek veroorzaakt door bij het versturen van een informatiebrief over het woningbouwproject Lyts Wenjen de e-mailadressen van enkele honderden ge\u00efnteresseerden zichtbaar te laten. De fout ontstond doordat de gemeente vergat de BCC-functie te gebruiken, waardoor alle ontvangers elkaars adres konden zien. Een dag later stuurde de gemeente een rectificatie met excuses en de toezegging dat bij toekomstige mailings w\u00e9l de BCC-functie wordt toegepast. (Bron: waldnet.nl)"
+    },
+    {
+        "id": "https://www.knaw.nl/nieuws/datalek-ontdekt-bij-de-knaw-wees-alert-op-phishing?datalekt=8e357511939bb6f31a6f017135647803760fc36f72c3eac8b19af589c103faff",
+        "url": "https://www.knaw.nl/nieuws/datalek-ontdekt-bij-de-knaw-wees-alert-op-phishing",
+        "title": "Datalek bij de KNAW door mailboxinbraak na phishingaanval",
+        "date_published": "2025-11-30T10:37:00Z",
+        "date_modified": "2025-11-30T10:37:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "knaw.nl"
+        },
+        "content_html": "",
+        "content_text": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) | Overheid: Zelfstandige bestuursorganen | 28-11-2025 | DataLekt.nl: Bij de KNAW is een datalek ontdekt nadat een medewerker op een phishingmail had geklikt, waardoor een hacker vanaf 17 november toegang kreeg tot diens mailbox. Vanuit deze mailbox zijn vervolgens phishingmails verstuurd naar contacten. Door de ongeautoriseerde toegang zijn in elk geval e-mailadressen van medewerkers en andere betrokkenen gelekt, mogelijk aangevuld met namen en telefoonnummers. De KNAW heeft de toegang direct geblokkeerd en extra beveiligingsmaatregelen genomen, en onderzoekt de omvang van het incident. (Bron: knaw.nl)"
+    },
+    {
         "id": "https://www.ad.nl/losser/datalek-en-gebrekkig-proces-zetten-druk-op-wethouder-opvang-oekrainers-aan-gildehauserweg-in-losser-wankelt~ae09e61f/?datalekt=39ed1ca7e3441e021c1a80494f0e6de7b401fb6b92afb1d36b374b8e003d3df8",
         "url": "https://www.ad.nl/losser/datalek-en-gebrekkig-proces-zetten-druk-op-wethouder-opvang-oekrainers-aan-gildehauserweg-in-losser-wankelt~ae09e61f/",
         "title": "Gemeente Losser publiceert per ongeluk persoonsgegevens van bezwaarmakers door technische fout",
@@ -91,7 +117,7 @@
         "content_text": "Onbekende callcenter | Verhuur en zakelijke dienstverlening | 19-11-2025 | DataLekt.nl: Een medewerker van een callcenter in Sittard voerde eind 2023 een ddos-aanval uit op de website van zijn werkgever. Volgens het Openbaar Ministerie bekende de man dat hij dit deed in de hoop zijn collega\u2019s een vrije dag te bezorgen. De aanval veroorzaakte samen met een latere aanval op een ander bedrijf een totale schade van 178.000 euro. (Bron: security.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/241682/digid-is-beperkt-beschikbaar-vanwege-een-ddos-aanval.html?datalekt=09bf710092498f87097dc5c2a1c54892e4a9911ba1f93483c2d9490b15974e49",
+        "id": "https://tweakers.net/nieuws/241682/digid-is-beperkt-beschikbaar-vanwege-een-ddos-aanval.html?datalekt=08e51542e66f3b382f1cd886379b277d6ef7ef351043ebdf5b4d2feed813482d",
         "url": "https://tweakers.net/nieuws/241682/digid-is-beperkt-beschikbaar-vanwege-een-ddos-aanval.html",
         "title": "DigiD kampt met beperkte beschikbaarheid door terugkerende ddos-aanvallen op Logius",
         "date_published": "2025-11-21T10:07:00Z",
@@ -101,7 +127,7 @@
             "name": "tweakers.net"
         },
         "content_html": "",
-        "content_text": "Logius | Overheid: Organisatieonderdeel | 19-11-2025 | DataLekt.nl: DigiD was sinds 19 november om 10.47 uur beperkt beschikbaar doordat Logius te maken kreeg met terugkerende ddos-aanvallen. Door deze verstoringen konden gebruikers mogelijk niet of slechts gedeeltelijk inloggen via de digitale overheidsdienst. Het is niet bekend wie achter de aanvallen zit of dat het om dezelfde dader gaat. Logius meldt dat de storing om 11.26 uur is opgelost en werkt aan een nieuwe aanpak om cyberaanvallen beter te kunnen afweren. (Bron: tweakers.net)"
+        "content_text": "Logius | Overheid: Agentschappen | 19-11-2025 | DataLekt.nl: DigiD was sinds 19 november om 10.47 uur beperkt beschikbaar doordat Logius te maken kreeg met terugkerende ddos-aanvallen. Door deze verstoringen konden gebruikers mogelijk niet of slechts gedeeltelijk inloggen via de digitale overheidsdienst. Het is niet bekend wie achter de aanvallen zit of dat het om dezelfde dader gaat. Logius meldt dat de storing om 11.26 uur is opgelost en werkt aan een nieuwe aanpak om cyberaanvallen beter te kunnen afweren. (Bron: tweakers.net)"
     },
     {
         "id": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042?datalekt=85e70ce22d102b5ccb6a48097b02727eabcec40e4f9938f1f86738e0f04a35f7",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Teylingen | Overheid: Gemeenten | 04-08-2025 | DataLekt.nl: In Teylingen zijn 123 brieven per ongeluk dubbelzijdig geprint, waardoor inwoners niet alleen hun eigen oproep voor het vernieuwen van hun identiteitskaart ontvingen, maar ook persoonsgegevens van een andere inwoner. De fout ontstond doordat op de achterzijde van elke brief een tweede brief voor iemand anders werd afgedrukt. De gemeente heeft dit erkend als een datalek, heeft melding gedaan bij de Autoriteit Persoonsgegevens en heeft de betrokken inwoners op de hoogte gebracht. (Bron: omroepwest.nl)"
-    },
-    {
-        "id": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/man-25-uit-purmerend-aangehouden-voor-hack-van-honderdduizenden-klantgegevens-bij-bedrijf-in-haarlem/11554585.html?datalekt=d3ec97d4bd9cb6c8a9f2817a7be79ec6506d22929fdfd577228ba2309da4c320",
-        "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/man-25-uit-purmerend-aangehouden-voor-hack-van-honderdduizenden-klantgegevens-bij-bedrijf-in-haarlem/11554585.html",
-        "title": "Datadiefstal bij Haarlems bedrijf door 25-jarige man uit Purmerend",
-        "date_published": "2023-05-05T00:00:00Z",
-        "date_modified": "2025-08-01T12:41:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "noordhollandsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "VodafoneZiggo | ICT en telecommunicatie | 05-05-2023 | DataLekt.nl: Een 25-jarige man uit Purmerend is aangehouden wegens verdenking van datadiefstal bij een onbekend bedrijf in Haarlem. De verdachte dreigde de gestolen gegevens openbaar te maken of te verkopen als er niet v\u00f3\u00f3r 5 mei een losgeld van 50.000 euro in bitcoins werd betaald. Het specifieke bedrijf en de aard van de gestolen gegevens zijn niet bekendgemaakt door de politie, daar dit deel uitmaakt van het lopende onderzoek. Het bedrijf heeft eerder deze week aangifte gedaan bij de politie na ontvangst van de losgeldeis. De exacte datum van de cyberaanval is onbekend. [Update: Op 30 juli 2025 is bekend geworden dat VodafoneZiggo de getroffen organisatie is.] (Bron: noordhollandsdagblad.nl)"
-    },
-    {
-        "id": "https://www.noordhollandsdagblad.nl/regio/alkmaar/ddos-cyberaanval-op-azfanpage-forum-vanuit-brazilie-bangkok-en-bangladesh-13-miljoen-keer-tegelijk-foutief-ingelogd/80596989.html?datalekt=f12103d7da9174639e96d2527d75e8e1d770b7757e477ff5a1171b8b1a1098d4",
-        "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/ddos-cyberaanval-op-azfanpage-forum-vanuit-brazilie-bangkok-en-bangladesh-13-miljoen-keer-tegelijk-foutief-ingelogd/80596989.html",
-        "title": "DDoS\u2011aanval op AZFanpage\u2011forum vanuit Brazili\u00eb, Bangkok en Bangladesh verstoort inlogsessies",
-        "date_published": "2025-08-01T12:29:00Z",
-        "date_modified": "2025-08-01T12:29:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "noordhollandsdagblad.nl"
-        },
-        "content_html": "",
-        "content_text": "AZFanpage | Media en inhoud | 29-07-2025 | DataLekt.nl: Het AZFanpage\u2011forum, verbonden aan de voetbalclub AZ in Alkmaar, werd op 29\u201107\u20112025 getroffen door een grootschalige DDoS\u2011aanval. Criminelen vanuit Brazili\u00eb, Bangkok en Bangladesh logden gezamenlijk ongeveer 1,3 miljoen foutieve inlogpogingen tegelijkertijd uit, waardoor het forum onbereikbaar werd. Het incident lijkt veroorzaakt door kwaadwillende derden die trafiek uit verschillende geografische locaties gebruikten om de service te overbelasten. Van datalekken of verdere schade is niets gemeld. (Bron: noordhollandsdagblad.nl)"
     }
 ]
