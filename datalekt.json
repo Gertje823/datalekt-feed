@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.telegraaf.nl/financieel/nieuws/autodealerconcern-van-mossel-getroffen-door-cyberaanval/110000623.html?datalekt=f0f3b6890abefcd8eda5c36c8345e79fb125510e7363f6e8e8782ec5ab375a3d",
+        "url": "https://www.telegraaf.nl/financieel/nieuws/autodealerconcern-van-mossel-getroffen-door-cyberaanval/110000623.html",
+        "title": "Cyberaanval treft autodealerconcern Van Mossel na gerichte hackpoging",
+        "date_published": "2025-12-04T10:44:00Z",
+        "date_modified": "2025-12-04T10:44:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "telegraaf.nl"
+        },
+        "content_html": "",
+        "content_text": "Van Mossel Automotive Group | Groot- en detailhandel | 03-12-2025 | DataLekt.nl: Autodealerconcern Van Mossel heeft afgelopen weekend ongeautoriseerde toegang tot zijn systemen ontdekt en delen daarvan direct offline gehaald nadat duidelijk werd dat het om een gerichte hackpoging ging. Volgens eerste analyses hebben onbevoegden mogelijk beperkte toegang gehad tot gegevens, maar het bedrijf weet nog niet of er daadwerkelijk informatie is buitgemaakt. Externe beveiligingsexperts onderzoeken het incident verder en Van Mossel heeft melding gedaan bij de autoriteiten. Door de ingreep waren klanten tijdelijk niet bereikbaar, maar sinds maandagochtend functioneren e-mail en telefoon weer. (Bron: telegraaf.nl)"
+    },
+    {
         "id": "https://www.waldnet.nl/wn/nieuws/82853/Datalek_bij_Dantumadiel_honderden_mailadressen_per_ongeluk_openbaar.html?datalekt=126b19aca13163e3712f683d283b774ec11b79ed2ca9f6469e3533aa63e8580c",
         "url": "https://www.waldnet.nl/wn/nieuws/82853/Datalek_bij_Dantumadiel_honderden_mailadressen_per_ongeluk_openbaar.html",
         "title": "Gemeente Dantumadiel maakt per ongeluk e-mailadressen van ge\u00efnteresseerden in Lyts Wenjen openbaar",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Hillegom | Overheid: Gemeenten | 04-08-2025 | DataLekt.nl: De gemeente Hillegom heeft een intern datalek veroorzaakt door 68 brieven dubbelzijdig te printen, waardoor inwoners naast hun eigen informatie ook de persoonsgegevens van een andere inwoner ontvingen. De fout kwam aan het licht toen bleek dat de achterzijde van de brief een tweede oproep bevatte die niet voor de ontvanger bestemd was. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en de betrokken inwoners worden hierover per brief ge\u00efnformeerd. (Bron: omroepwest.nl)"
-    },
-    {
-        "id": "https://www.omroepwest.nl/politiek/4996461/gemeenten-printen-honderden-brieven-per-ongeluk-dubbelzijdig-en-verspreiden-persoonsgegevens?datalekt=0a957f6f618c44246337edd1252d06697352f2fe03af39163cf87527f8f09914",
-        "url": "https://www.omroepwest.nl/politiek/4996461/gemeenten-printen-honderden-brieven-per-ongeluk-dubbelzijdig-en-verspreiden-persoonsgegevens",
-        "title": "Gemeente Teylingen lekt persoonsgegevens van 123 inwoners door dubbelzijdig geprinte brieven",
-        "date_published": "2025-08-06T16:19:00Z",
-        "date_modified": "2025-08-06T16:19:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepwest.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Teylingen | Overheid: Gemeenten | 04-08-2025 | DataLekt.nl: In Teylingen zijn 123 brieven per ongeluk dubbelzijdig geprint, waardoor inwoners niet alleen hun eigen oproep voor het vernieuwen van hun identiteitskaart ontvingen, maar ook persoonsgegevens van een andere inwoner. De fout ontstond doordat op de achterzijde van elke brief een tweede brief voor iemand anders werd afgedrukt. De gemeente heeft dit erkend als een datalek, heeft melding gedaan bij de Autoriteit Persoonsgegevens en heeft de betrokken inwoners op de hoogte gebracht. (Bron: omroepwest.nl)"
     }
 ]
