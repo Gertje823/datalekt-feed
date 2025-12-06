@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 05 Dec 2025 01:49:09 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 06 Dec 2025 01:42:37 +0000</lastBuildDate>
 		<item>
 			<title>Cyberaanval treft autodealerconcern Van Mossel na gerichte hackpoging</title>
 			<link>https://www.telegraaf.nl/financieel/nieuws/autodealerconcern-van-mossel-getroffen-door-cyberaanval/110000623.html</link>
@@ -147,8 +147,8 @@
 		<item>
 			<title>Hogeschool van Arnhem en Nijmegen onderzoekt mogelijk datalek na ongeoorloofd AI-gebruik door docent</title>
 			<link>https://www.gld.nl/nieuws/8392671/han-onderzoekt-mogelijk-datalek-na-ongeoorloofd-ai-gebruik-door-docent</link>
-			<description>Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 17-11-2025 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) onderzoekt of er een datalek is ontstaan nadat een docent Communicatie en Multimedia Design zonder toestemming een geavanceerde AI-agent toegang gaf tot de digitale leeromgeving, waar volgens hem veel studentgegevens aanwezig zijn. De docent gebruikte privé-abonnementen op AI-software, in strijd met de interne regels. De school heeft een voorlopige melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt nog welke gegevens mogelijk zijn ingezien en hoeveel studenten getroffen kunnen zijn. (Bron: gld.nl)</description>
-			<guid isPermaLink="false">https://www.gld.nl/nieuws/8392671/han-onderzoekt-mogelijk-datalek-na-ongeoorloofd-ai-gebruik-door-docent?datalekt=5a209686c39de026daefac7f00c96c0ddaaeab996c465ad0893c0632f94252a3</guid>
+			<description>Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 17-11-2025 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) onderzoekt of er een datalek is ontstaan nadat een docent Communicatie en Multimedia Design zonder toestemming een geavanceerde AI-agent toegang gaf tot de digitale leeromgeving, waar volgens hem veel studentgegevens aanwezig zijn. De docent gebruikte privé-abonnementen op AI-software, in strijd met de interne regels. De school heeft een voorlopige melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt nog welke gegevens mogelijk zijn ingezien en hoeveel studenten getroffen kunnen zijn. [Update: Op 3 december 2025 is bekend geworden dat er geen datalek heeft plaatsgevonden. Uit onderzoek blijkt dat de AI-tool geen persoonsgegevens heeft ingezien, hoewel deze wel ongeautoriseerd toegang had gekregen tot de digitale leeromgeving. De melding bij de Autoriteit Persoonsgegevens is daarom ingetrokken.] (Bron: gld.nl)</description>
+			<guid isPermaLink="false">https://www.gld.nl/nieuws/8392671/han-onderzoekt-mogelijk-datalek-na-ongeoorloofd-ai-gebruik-door-docent?datalekt=e310537adad7ac983c18a4a95475b959275d26691cbfc3f3db0ae5cf03858aa9</guid>
 			<category>Onderwijs </category>
 			<pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
 		</item>
