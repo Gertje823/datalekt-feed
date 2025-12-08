@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 06 Dec 2025 01:42:37 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 08 Dec 2025 01:49:45 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Nuenen lekt per ongeluk adressen van bezwaarmakers tegen tijdelijk azc</title>
+			<link>https://www.rtl.nl/nieuws/binnenland/artikel/5542736/gemeente-nuenen-lekt-adressen-bezwaarmakers-azc</link>
+			<description>Gemeente Nuenen | Overheid: Gemeenten | 06-12-2025 | DataLekt.nl: De gemeente Nuenen heeft per ongeluk een document met adressen van 1059 bezwaarmakers tegen de komst van een tijdelijk asielzoekerscentrum doorgestuurd naar 52 inwoners. Hoewel geen namen zijn gedeeld, zijn adressen indirect herleidbaar tot personen, waardoor sprake is van een datalek. Het document maakte deel uit van stukken voor een hoorzitting van de bezwaarschriftencommissie. De gemeente heeft melding gedaan bij de Autoriteit Persoonsgegevens en ontvangers gevraagd het document te verwijderen en niet verder te verspreiden. (Bron: rtl.nl)</description>
+			<guid isPermaLink="false">https://www.rtl.nl/nieuws/binnenland/artikel/5542736/gemeente-nuenen-lekt-adressen-bezwaarmakers-azc?datalekt=994f0cac978a408f12f6d661472d686dd3e827a06c35c8ec4cb2b3f2d4479867</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Havenbedrijf in de Waalhaven getroffen door fraude na gehackte mailbox</title>
+			<link>https://www.nt.nl/havens/2025/12/05/drie-aanhoudingen-na-cyberaanval-op-havenbedrijf-waalhaven/</link>
+			<description>Onbekende havenbedrijf | Vervoer en opslag | 05-12-2025 | DataLekt.nl: Een onbekend havenbedrijf in de Rotterdamse Waalhaven werd in september 2023 slachtoffer van cybercrime nadat criminelen de mailbox van het bedrijf wisten te hacken. De aanvallers verstuurden vanuit het gehackte account een vervalste factuur met een frauduleus bankrekeningnummer en een nagemaakte bankverklaring, waarna een klant 260.000 euro overmaakte. De politie hield in februari 2025 een verdachte aan en arresteerde in oktober 2025 twee nieuwe verdachten. Volgens de Zeehavenpolitie werkte het getroffen bedrijf vanaf het begin volledig mee aan het onderzoek. (Bron: nt.nl)</description>
+			<guid isPermaLink="false">https://www.nt.nl/havens/2025/12/05/drie-aanhoudingen-na-cyberaanval-op-havenbedrijf-waalhaven/?datalekt=607c27b109142576d0e559dbcc1635f712f7b61d78a75421faa53db058c20186</guid>
+			<category>Vervoer en opslag </category>
+			<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Erasmus MC ontslaat medewerkers wegens ongeoorloofde inzage in patiëntendossiers</title>
+			<link>https://nos.nl/artikel/2593305-erasmus-mc-ontslaat-medewerkers-voor-rondneuzen-in-patientendossiers</link>
+			<description>Erasmus MC | Gezondheids- en welzijnszorg | 05-12-2025 | DataLekt.nl: Het Erasmus MC heeft ontdekt dat vijf medewerkers zonder geldige reden in 34 patiëntendossiers hebben gekeken tijdens interne controles. Twee medewerkers zijn vanwege de ernst van hun handelen op staande voet ontslagen; drie anderen kregen disciplinaire maatregelen. Het ziekenhuis benadrukt dat inzage alleen mag plaatsvinden bij een behandelrelatie en heeft de betrokken patiënten geïnformeerd en excuses aangeboden. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2593305-erasmus-mc-ontslaat-medewerkers-voor-rondneuzen-in-patientendossiers?datalekt=1ce5c185ba4782fbb8cb8312e96e4a69d233fdf9ccc91b7d6105fa15a8a054c7</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cyberaanval treft autodealerconcern Van Mossel na gerichte hackpoging</title>
 			<link>https://www.telegraaf.nl/financieel/nieuws/autodealerconcern-van-mossel-getroffen-door-cyberaanval/110000623.html</link>
@@ -743,30 +767,6 @@
 			<guid isPermaLink="false">https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken/Rechtbank-Amsterdam/Nieuws/Paginas/Schenden-van-het-ambtsgeheim-en-computervredebreuk-door-politieagent-bestraft.aspx?datalekt=e72402678d903906a96f91579e48fbebeef2f5518ed0555bd5f9c2f9be762ef1</guid>
 			<category>Overheid: Politie </category>
 			<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>KLM getroffen door datalek bij derde partij waarbij klantgegevens zijn buitgemaakt</title>
-			<link>https://tweakers.net/nieuws/237812/klm-meldt-datalek-waarbij-namen-en-contactgegevens-van-klanten-zijn-buitgemaakt.html</link>
-			<description>Koninklijke Luchtvaart Maatschappij (KLM) | Vervoer en opslag | 06-08-2025 | DataLekt.nl: KLM heeft een datalek gemeld waarbij een hacker toegang kreeg tot een systeem van een derde partij die diensten levert aan de luchtvaartmaatschappij. Daarbij zijn voor- en achternamen, contactgegevens, Flying Blue-nummers en -niveaus, en onderwerpregels van e-mails van klanten buitgemaakt. Creditcardgegevens, paspoortnummers, wachtwoorden en boekingsinformatie zijn volgens KLM niet gelekt. De getroffen data kan worden misbruikt voor gerichte phishingpogingen. KLM heeft het incident gemeld bij de Autoriteit Persoonsgegevens en extra beveiligingsmaatregelen genomen in samenwerking met de betrokken derde partij. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/237812/klm-meldt-datalek-waarbij-namen-en-contactgegevens-van-klanten-zijn-buitgemaakt.html?datalekt=5c8d8b4c8682c15fd717666ea496f54e82a289e99e2f26047e7a122cf40ae98d</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Lisse verspreidt persoonsgegevens door fout bij dubbelzijdig printen van brieven</title>
-			<link>https://www.omroepwest.nl/politiek/4996461/gemeenten-printen-honderden-brieven-per-ongeluk-dubbelzijdig-en-verspreiden-persoonsgegevens</link>
-			<description>Gemeente Lisse | Overheid: Gemeenten | 04-08-2025 | DataLekt.nl: De gemeente Lisse heeft een datalek gemeld nadat 86 inwoners per ongeluk een brief ontvingen met persoonsgegevens van een ander. Door een fout bij het afdrukken werden brieven dubbelzijdig geprint, waardoor inwoners naast hun eigen oproep voor het vernieuwen van een identiteitsbewijs ook een tweede, niet voor hen bestemde brief ontvingen. De fout leidde tot het onbedoeld delen van persoonsgegevens. De gemeente heeft melding gedaan bij de Autoriteit Persoonsgegevens en betrokken inwoners worden per brief geïnformeerd over de situatie. (Bron: omroepwest.nl)</description>
-			<guid isPermaLink="false">https://www.omroepwest.nl/politiek/4996461/gemeenten-printen-honderden-brieven-per-ongeluk-dubbelzijdig-en-verspreiden-persoonsgegevens?datalekt=fac41ca951edf42d2d17d597437b192b4b9e58f6b6e12091657ada2362b98d79</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Hillegom stuurt brieven met foutieve inhoud en lekt persoonsgegevens van inwoners</title>
-			<link>https://www.omroepwest.nl/politiek/4996461/gemeenten-printen-honderden-brieven-per-ongeluk-dubbelzijdig-en-verspreiden-persoonsgegevens</link>
-			<description>Gemeente Hillegom | Overheid: Gemeenten | 04-08-2025 | DataLekt.nl: De gemeente Hillegom heeft een intern datalek veroorzaakt door 68 brieven dubbelzijdig te printen, waardoor inwoners naast hun eigen informatie ook de persoonsgegevens van een andere inwoner ontvingen. De fout kwam aan het licht toen bleek dat de achterzijde van de brief een tweede oproep bevatte die niet voor de ontvanger bestemd was. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en de betrokken inwoners worden hierover per brief geïnformeerd. (Bron: omroepwest.nl)</description>
-			<guid isPermaLink="false">https://www.omroepwest.nl/politiek/4996461/gemeenten-printen-honderden-brieven-per-ongeluk-dubbelzijdig-en-verspreiden-persoonsgegevens?datalekt=62a201e0c6685687e70176ce460f96324d0d701e87121a483ac7e1f8cb5512d9</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Gemeente Midden-Delfland openbaart per ongeluk persoonsgegevens van bezwaarmakers bij asielzoekerscentrum</title>
