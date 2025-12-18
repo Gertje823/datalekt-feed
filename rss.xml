@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 14 Dec 2025 01:57:28 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 18 Dec 2025 01:48:02 +0000</lastBuildDate>
+		<item>
+			<title>Digitale identiteitsverificatie van een Nederlandse bank omzeild via deepfakes voor het openen van rekeningen</title>
+			<link>https://www.security.nl/posting/917758/Politie%3A+verdachte+omzeilde+met+deepfakes+identiteitsverificatie+van+bank</link>
+			<description>Onbekende bank | Financiële diensten | 17-12-2025 | DataLekt.nl: De politie heeft een 34-jarige man uit Amsterdam aangehouden die met behulp van deepfake-technieken het digitale identiteitsverificatieproces van een Nederlandse bank wist te omzeilen. Door misleiding van slachtoffers verkreeg hij identiteitsdocumenten, die hij vervolgens manipuleerde om als andere personen toegang te krijgen tot het banksysteem en bankrekeningen te openen. In totaal werden 46 rekeningen op naam van derden geopend en gebruikt voor fraude. Er is geen sprake van een technische systeeminbraak of bevestigd datalek bij de bank; wel is een beveiligingsproces binnen het informatiesysteem succesvol omzeild. Betrokken partijen hebben maatregelen genomen. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/917758/Politie%3A+verdachte+omzeilde+met+deepfakes+identiteitsverificatie+van+bank?datalekt=6f5fd2a6a673d6398294ae24a3497384f4ca0dfb5a7d13030aef31e55f3f77d5</guid>
+			<category>Financiële diensten </category>
+			<pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Bedrijfsgevoelige gegevens van REVA Groep gelekt bij aanbesteding Wmo-vervoer</title>
 			<link>https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro</link>
@@ -753,14 +761,6 @@
 			<pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Translink getroffen door misbruik van kwetsbaarheid in ov-betaalsystemen</title>
-			<link>https://tweakers.net/nieuws/238244/rechter-veroordeelt-man-die-gratis-reisde-door-kwetsbaarheid-translink-systemen.html</link>
-			<description>Translink | Vervoer en opslag | 20-08-2025 | DataLekt.nl: Een man uit Beverwijk is door de politierechter in Haarlem veroordeeld voor het herhaaldelijk misbruiken van een kwetsbaarheid in de systemen van Translink, de beheerder van de OV-chipkaart. Tussen 2020 en 2023 gebruikte hij een Chinese NFC-chip om reisgegevens van ov-kaarten te kopiëren en saldo toe te voegen zonder te betalen, waardoor hij jarenlang gratis kon reizen. Hoewel hij beweerde als klokkenluider te willen wijzen op de slechte beveiliging, maakte hij geen gebruik van het officiële meldproces. De rechter legde hem een voorwaardelijke geldboete van 2000 euro op. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/238244/rechter-veroordeelt-man-die-gratis-reisde-door-kwetsbaarheid-translink-systemen.html?datalekt=d02d179f20498dc09b5ba28f00a9ecce69bc82b90051729761af98c158855f76</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens</title>
 			<link>https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine</link>
 			<description>Clinical Diagnostics | Gezondheids- en welzijnszorg | 11-08-2025 | DataLekt.nl: Hackers hebben bij laboratorium Clinical Diagnostics medische en persoonsgegevens buitgemaakt van honderden duizenden patiënten. Naast gegevens van 485.000 vrouwen uit het bevolkingsonderzoek naar baarmoederhalskanker gaat het ook om data van huid-, urine-, penis-, vagina-, anus- en wondvochtonderzoeken. De gestolen informatie bevat namen, adressen, geboortedata, burgerservicenummers, onderzoeksuitslagen en adviezen. Een deel van de data, waaronder gegevens van minstens 53.516 huisartsenpatiënten, is al gepubliceerd op het dark web. Volgens de criminelen gaat het in totaal om 300 gigabyte aan gegevens, waarvan tot nu toe slechts een fractie online staat. De onderzoeken zijn uitgevoerd in ziekenhuizen, klinieken en via huisartsen tussen 2022 en 2025. [Update: Op 13 augustus 2025 is bekend geworden dat het om een ransomware aanval ging.] [Update: Op 18 augustus 2025 is bekend geworden dat het losgeld van 1 miljoen euro nog niet betaald is aan Nova, en dat Nova dreigt met publiceren van de gestolen data.] [Update: Op 22 augustus heeft de criminele organisatie Nova bekend gemaakt dat de gestolen data verwijderd is. Er is losgeld betaald.] [Update: Op 29 augustus 2025 heeft Clinical Diagnostics bekend gemaakt dat data van 850.000 patienten (van het totaal van 941.000) zijn gestolen.] (Bron: rtl.nl)</description>
@@ -785,14 +785,6 @@
 			<pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Enviem vordert schadevergoeding na ransomware-aanval door gebrekkige beveiliging I-Beheer</title>
-			<link>https://www.security.nl/posting/857577/Ict-bedrijf+aansprakelijk+voor+schade+van+ransomware-aanval+bij+klant</link>
-			<description>Enviem | Overige dienstverlening | 11-09-2024 | DataLekt.nl: Enviem, een klant van een ict-bedrijf I-Beheer in Coevorden werd in 2019 slachtoffer van een ransomware-aanval door inadequate beveiligingsmaatregelen van de dienstverlener. Aanvallers verkregen toegang via slecht beveiligde systemen, waaronder open RDP-poorten. De klant leed aanzienlijke schade door versleutelde bestanden en onbruikbare back-ups en eiste één miljoen euro aan schadevergoeding. De rechtbank kende echter slechts 50.000 euro toe, omdat niet alle claims werden onderbouwd. Het incident benadrukt de verantwoordelijkheid van ICT-dienstverleners in het beschermen van klantgegevens. [Update: Op 10 september 2024 zijn in de rechtbank stukken de getroffen organisatie en diens dienstverlener bekend gemaakt.] (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/857577/Ict-bedrijf+aansprakelijk+voor+schade+van+ransomware-aanval+bij+klant?datalekt=c02e80c705a2e27689bdb1abac3615961a70afc283b256c076ff0673d24ed345</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>DPG Media beboet voor onterechte ID-verificatie bij AVG-verzoeken</title>
 			<link>https://tweakers.net/nieuws/193636/dpg-media-krijgt-avg-boete-van-525000-euro-voor-onterecht-vragen-van-id-bewijs.html</link>
 			<description>DPG Media | Media en inhoud | 24-02-2022 | DataLekt.nl: Uitgever DPG Media heeft een boete van 525.000 euro ontvangen wegens het onterecht vragen van een identiteitsbewijs aan klanten die inzage wilden in hun persoonlijke gegevens. Hiermee heeft DPG Media volgens de autoriteiten onnodige hindernissen gecreëerd voor klanten die hun AVG-rechten wilden uitoefenen. Het is niet duidelijk hoeveel klanten hierdoor zijn getroffen of wat de exacte motieven van DPG Media waren voor deze handelswijze. [Update: Op 18 augustus 2023 heeft de rechter de boete geschrapt. De AP gaat in beroep.] [Update: Op 24 september 2025 is bekend geworden dat de rechter de boete heeft gezet op 265.500.] (Bron: tweakers.net)</description>
@@ -806,6 +798,14 @@
 			<description>Koninklijke Nederlandse Lawn Tennisbond (KNLTB) | Kunst, cultuur, sport en recreatie | 18-12-2018 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) is een onderzoek begonnen naar de tennisbond KNLTB vanwege de handel in persoonsgegevens. Dit volgt na klachten van sportbondleden over ongewenste belacties en reclame. Voorzitter van de AP, Aleid Wolfsen, benadrukt dat sportbonden persoonsgegevens mogen gebruiken voor operationele doeleinden, maar niet voor verkoop zonder uitdrukkelijke toestemming. De KNLTB heeft aangekondigd haar beleid aan te scherpen en zal alleen nog belacties uitvoeren met voorafgaande toestemming van leden. De bond werkt mee aan het onderzoek en wacht de resultaten af. [Update: Op 3 maart 2020 heeft de AP een boete van 525.000 EUR opgelegd.] [Update: Op 18 oktober 2025 is bekend geworden dat de Autoriteit Persoonsgegevens en de KNLTB hun rechtszaak hebben beëindigd na een uitspraak van het Europees Hof van Justitie. De boete van 525.000 euro wordt gehalveerd tot 250.000 euro, waarbij de KNLTB erkent dat zij onjuist heeft gehandeld.] (Bron: security.nl)</description>
 			<guid isPermaLink="false">https://www.security.nl/posting/591381/AP+onderzoekt+handel+in+persoonsgegevens+door+tennisbond+KNLTB?datalekt=64d8d855eb85e86f4987fea1a07d3f6019e3f7385f2fb55c57e8c52c3549ee67</guid>
 			<category>Kunst, cultuur, sport en recreatie </category>
+			<pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Datalek bij Hogeschool van Arnhem en Nijmegen treft half miljoen mensen</title>
+			<link>https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/</link>
+			<description>Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 03-09-2021 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) heeft een groot datalek onderzocht dat op 1 september aan het licht kwam. Een hacker verkreeg toegang tot gegevens van studenten, medewerkers en andere contacten via een webformulier. Hoewel de HAN weigerde losgeld te betalen, werden de gegevens online gepubliceerd. Het merendeel van de gelekte gegevens betrof algemene persoonsinformatie, maar in sommige gevallen ging het om gevoelige data zoals BSN-nummers en politieke voorkeuren. De HAN heeft haar excuses aangeboden en informeert de getroffenen over het incident. [Update: Op 6 juli 2024 is bekend geworden dat 5 studenten een schadevergoeding van in totaal € 1800.] [Update: Op 17 december 2025 is bekend geworden dat de Autoriteit Persoonsgegevens de Hogeschool van Arnhem en Nijmegen een boete van 175.000 euro heeft opgelegd wegens onvoldoende beveiliging van persoonsgegevens, waaronder kwetsbaarheid voor SQL-injectie en het onveilig opslaan van wachtwoorden.] (Bron: erasmusmagazine.nl, tweakers.net)</description>
+			<guid isPermaLink="false">https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/?datalekt=2bf5780fb65ea3685891d786a85ac40d0e97f9fd89d2f1fe1ededcfad986ccce</guid>
+			<category>Onderwijs </category>
 			<pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
