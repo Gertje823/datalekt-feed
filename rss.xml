@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 18 Dec 2025 01:48:02 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 20 Dec 2025 01:45:26 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Eindhoven lekte gevoelige persoonsgegevens van inwoners en medewerkers via openbare AI-websites</title>
+			<link>https://www.security.nl/posting/918012/Gemeente+Eindhoven+lekt+persoonlijke+gegevens+inwoners+via+AI-websites</link>
+			<description>Gemeente Eindhoven | Overheid: Gemeenten | 19-12-2025 | DataLekt.nl: De gemeente Eindhoven heeft in de periode van 23 september tot 23 oktober 2025 duizenden interne bestanden met gevoelige en bijzondere persoonsgegevens geüpload naar openbare AI-websites, waaronder mogelijk ChatGPT. Dit gebeurde doordat medewerkers deze AI-diensten gebruikten voor hun werk. Onderzoekers stellen dat het gaat om gegevens van vermoedelijk veel betrokkenen, waaronder informatie over jeugdzorg, WMO-dossiers, BSN-nummers, medische en mentale gezondheid en interne personeelsdocumenten. De gemeente kan niet vaststellen van wie de gegevens zijn gelekt en informeert betrokkenen daarom niet individueel. Misbruik van de data is volgens experts niet uitgesloten. Het datalek is op 23 oktober gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/918012/Gemeente+Eindhoven+lekt+persoonlijke+gegevens+inwoners+via+AI-websites?datalekt=e926c2c17604da666e95e73743bf5918870f2ad38dcc92790fab3ad84440bf9e</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Digitale identiteitsverificatie van een Nederlandse bank omzeild via deepfakes voor het openen van rekeningen</title>
 			<link>https://www.security.nl/posting/917758/Politie%3A+verdachte+omzeilde+met+deepfakes+identiteitsverificatie+van+bank</link>
@@ -750,14 +758,6 @@
 			<description>WijZijn | Gezondheids- en welzijnszorg | 22-08-2025 | DataLekt.nl: Welzijnsorganisatie WijZijn heeft bij het versturen van een e-mail over het failliete Groupcard per ongeluk vijfhonderd e-mailadressen van mantelzorgers in de gemeente Steenbergen zichtbaar gemaakt. De adressen werden in het ‘aan’-veld geplaatst in plaats van in de bcc, waardoor alle ontvangers elkaars adres konden zien. Het datalek is door WijZijn zelf ontdekt en gemeld bij de Autoriteit Persoonsgegevens. Ontvangers kregen een herstelmail met het verzoek de eerdere mail te verwijderen. De organisatie onderzoekt hoe soortgelijke fouten in de toekomst kunnen worden voorkomen. (Bron: bndestem.nl)</description>
 			<guid isPermaLink="false">https://www.bndestem.nl/steenbergen/welzijnsorganisatie-wijzijn-verstuurt-500-e-mailadressen-van-mantelzorgers-zichtbaar-menselijke-fout~ae0dc4c9/?datalekt=04c805431fe9a64de6baccdf7538cd7872a29631ec6dddf9ced87729c5996a98</guid>
 			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Eindhoven meldde publicatie van geheime verhuisvergoeding woonwagenfamilie alsnog als datalek</title>
-			<link>https://www.bd.nl/eindhoven/gemeenteblunder-met-verhuisvergoeding-voor-eindhovense-woonwagenfamilie-toch-gemeld-als-datalek~a8c948f3d/</link>
-			<description>Gemeente Eindhoven | Overheid: Gemeenten | 22-08-2025 | DataLekt.nl: De gemeente Eindhoven publiceerde op 3 juli per ongeluk een adviesnota met daarin bedragen voor de verhuiskostenvergoeding van vijf woonwagenhuishoudens en het honorarium van hun adviseur, terwijl hierover geheimhouding was opgelegd. In eerste instantie vond de gemeente het risico te laag om te melden, maar op 11 juli werd het incident alsnog officieel aangemerkt als een datalek en gemeld bij de Autoriteit Persoonsgegevens. Omdat het datalek pas na meer dan 72 uur werd gemeld, handelt de gemeente in strijd met de meldplicht. Eindhoven stond eerder al onder verscherpt toezicht van de AP vanwege problemen met datalekken. Het gaat om een menselijke fout; bewoners zijn geïnformeerd en hebben excuses gekregen. (Bron: bd.nl)</description>
-			<guid isPermaLink="false">https://www.bd.nl/eindhoven/gemeenteblunder-met-verhuisvergoeding-voor-eindhovense-woonwagenfamilie-toch-gemeld-als-datalek~a8c948f3d/?datalekt=9c12b9ba5b779270a71ffe1654e5474090e8967b3aa7b185d93ff73bf857459a</guid>
-			<category>Overheid: Gemeenten </category>
 			<pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
