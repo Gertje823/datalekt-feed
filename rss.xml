@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 20 Dec 2025 01:45:26 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 23 Dec 2025 01:52:36 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Doesburg schiet structureel tekort in AVG-naleving bij toezicht door Autoriteit Persoonsgegevens</title>
+			<link>https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming</link>
+			<description>Gemeente Doesburg | Overheid: Gemeenten | 18-12-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) concludeert na een toezichtsbezoek dat de gemeente Doesburg de basis van de AVG-naleving niet op orde heeft. De AP constateerde onder meer een verouderd en onvolledig verwerkingsregister, ontbrekende of onvoldoende uitgevoerde DPIA’s en een periode waarin geen functionaris gegevensbescherming was aangewezen, ondanks de wettelijke verplichting daartoe. Ook is de beschikbare FG-capaciteit volgens de AP onvoldoende om de wettelijke taken uit te voeren. De tekortkomingen hangen samen met beperkte capaciteit bij de kleine gemeente en het lopende herindelingsproces. De AP heeft aanbevelingen gedaan, maar geen boete opgelegd. (Bron: autoriteitpersoonsgegevens.nl)</description>
+			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming?datalekt=16a06df305fb5cd3618f04d443a8cd0d253854f8d7cdd3434295ac1c91067178</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Breda voldoet onvoldoende aan AVG-eisen rond DPIA’s, verwerkingsregister en rol van FG</title>
+			<link>https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming</link>
+			<description>Gemeente Breda | Overheid: Gemeenten | 18-12-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft na een toezichtsbezoek vastgesteld dat de gemeente Breda niet volledig voldoet aan de verplichtingen uit de Algemene Verordening Gegevensbescherming (AVG). De tekortkomingen hebben betrekking op een onvolledig en deels onjuist verwerkingsregister, het ontbreken van wettelijk verplichte DPIA’s voor diverse verwerkingen en een beperkte structurele betrokkenheid van de functionaris gegevensbescherming (FG) bij het bestuur. Hoewel ook positieve bevindingen zijn gedaan, concludeert de AP dat met name het DPIA-proces verbetering behoeft. De AP heeft Breda niet beboet, maar wel niet-vrijblijvende aanbevelingen gedaan om de naleving van de AVG te verbeteren. (Bron: autoriteitpersoonsgegevens.nl)</description>
+			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming?datalekt=35c2d80cb5c1b1cea2452470ab0d35447c1b703966f6782f64b0f659631aea69</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Eindhoven lekte gevoelige persoonsgegevens van inwoners en medewerkers via openbare AI-websites</title>
 			<link>https://www.security.nl/posting/918012/Gemeente+Eindhoven+lekt+persoonlijke+gegevens+inwoners+via+AI-websites</link>
@@ -743,22 +759,6 @@
 			<guid isPermaLink="false">https://www.knas.nl/node/3896?datalekt=bd3ea625576543a6fa68c41b4aee5ee27e5c1a24811ed1cd72957021f6a98ea3</guid>
 			<category>Kunst, cultuur, sport en recreatie </category>
 			<pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Zoetermeer lekt persoonsgegevens bewoners Schansbaan door foutieve publicatie</title>
-			<link>https://www.ad.nl/zoetermeer/geschrokken-raadsleden-willen-onderzoek-naar-datalek-schansbaan-en-excuses-aan-bewoners~a10535bb/</link>
-			<description>Gemeente Zoetermeer | Overheid: Gemeenten | 26-08-2025 | DataLekt.nl: Bij de gemeente Zoetermeer zijn wekenlang persoonsgegevens van ruim vijftig bewoners van de Schansbaan openbaar geweest via de gemeentelijke website. Het betrof ondertekenaars van een burgerinitiatief, waarvan mobiele nummers, geboortedata, adressen, e-mailadressen en zelfs handtekeningen zichtbaar waren. De gegevens stonden vanaf half juli tot eind augustus online doordat een verkeerde bijlage was gepubliceerd. Na ontdekking verwijderde de gemeente de bestanden en meldde het datalek bij de Autoriteit Persoonsgegevens. Privacyexperts waarschuwen voor identiteitsfraude en lokale politici eisen excuses, een grondig onderzoek en betere waarborgen om herhaling te voorkomen. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/zoetermeer/geschrokken-raadsleden-willen-onderzoek-naar-datalek-schansbaan-en-excuses-aan-bewoners~a10535bb/?datalekt=19f80ec97afd03240ec126e527d65bcb3fd421b1aba8f561a6f3df2114ca0c92</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Welzijnsorganisatie WijZijn maakt per ongeluk 500 e-mailadressen van mantelzorgers openbaar</title>
-			<link>https://www.bndestem.nl/steenbergen/welzijnsorganisatie-wijzijn-verstuurt-500-e-mailadressen-van-mantelzorgers-zichtbaar-menselijke-fout~ae0dc4c9/</link>
-			<description>WijZijn | Gezondheids- en welzijnszorg | 22-08-2025 | DataLekt.nl: Welzijnsorganisatie WijZijn heeft bij het versturen van een e-mail over het failliete Groupcard per ongeluk vijfhonderd e-mailadressen van mantelzorgers in de gemeente Steenbergen zichtbaar gemaakt. De adressen werden in het ‘aan’-veld geplaatst in plaats van in de bcc, waardoor alle ontvangers elkaars adres konden zien. Het datalek is door WijZijn zelf ontdekt en gemeld bij de Autoriteit Persoonsgegevens. Ontvangers kregen een herstelmail met het verzoek de eerdere mail te verwijderen. De organisatie onderzoekt hoe soortgelijke fouten in de toekomst kunnen worden voorkomen. (Bron: bndestem.nl)</description>
-			<guid isPermaLink="false">https://www.bndestem.nl/steenbergen/welzijnsorganisatie-wijzijn-verstuurt-500-e-mailadressen-van-mantelzorgers-zichtbaar-menselijke-fout~ae0dc4c9/?datalekt=04c805431fe9a64de6baccdf7538cd7872a29631ec6dddf9ced87729c5996a98</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens</title>
