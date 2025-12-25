@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack?datalekt=688d3a2291cd013d0a459728c4e823bd72477998d06fe6859f4941f0b45e602d",
+        "url": "https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack",
+        "title": "ADO Den Haag getroffen door hack met beperkt datalek",
+        "date_published": "2025-12-24T10:55:00Z",
+        "date_modified": "2025-12-24T10:55:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "clubachterdeduinen.nl"
+        },
+        "content_html": "",
+        "content_text": "ADO Den Haag | Kunst, cultuur, sport en recreatie | 17-12-2025 | DataLekt.nl: ADO Den Haag heeft in de zomer van 2025 te maken gehad met een hack waarbij een beperkt datalek is ontstaan. Dat blijkt uit het jaarverslag over het afgelopen seizoen. De club meldt dat onbekenden ongeautoriseerde toegang tot systemen hebben gekregen, maar geeft geen details over welke gegevens zijn buitgemaakt. Volgens ADO is het incident in nauw overleg met de IT-partner afgehandeld, zijn alle betrokkenen tijdig ge\u00efnformeerd en is melding gedaan bij de Autoriteit Persoonsgegevens. Daarnaast zijn procedures gevolgd om toekomstige risico\u2019s te beperken. (Bron: clubachterdeduinen.nl)"
+    },
+    {
         "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming?datalekt=16a06df305fb5cd3618f04d443a8cd0d253854f8d7cdd3434295ac1c91067178",
         "url": "https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming",
         "title": "Gemeente Doesburg schiet structureel tekort in AVG-naleving bij toezicht door Autoriteit Persoonsgegevens",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "CoCo Yachts | Groot- en detailhandel | 28-08-2025 | DataLekt.nl: De criminele organisatie Cephalus heeft op het darkweb aangekondigd dat zij CoCo Yachts heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.knas.nl/node/3896?datalekt=bd3ea625576543a6fa68c41b4aee5ee27e5c1a24811ed1cd72957021f6a98ea3",
-        "url": "https://www.knas.nl/node/3896",
-        "title": "Knas lekt persoonsgegevens door foutieve publicatie van Excel-bestand met wereldbekerinschrijvingen",
-        "date_published": "2025-08-27T11:58:00Z",
-        "date_modified": "2025-08-27T11:58:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "knas.nl"
-        },
-        "content_html": "",
-        "content_text": "KNAS | Kunst, cultuur, sport en recreatie | 25-08-2025 | DataLekt.nl: Tussen 18 en 20 augustus heeft de Koninklijke Nederlandse Algemene Schermbond (KNAS) per ongeluk een Excel-bestand online gezet met meer persoonsgegevens dan bedoeld. Het bestand stond op de inschrijfpagina voor wereldbekerwedstrijden en bevatte gegevens die normaal niet zichtbaar zijn in de gebruikelijke PDF-versie. Op 25 augustus zijn de betrokken schermers ge\u00efnformeerd over het datalek. De KNAS biedt excuses aan en benadrukt dat zorgvuldig met persoonsgegevens wordt omgegaan. (Bron: knas.nl)"
     }
 ]

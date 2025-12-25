@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 23 Dec 2025 01:52:36 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 25 Dec 2025 01:52:50 +0000</lastBuildDate>
+		<item>
+			<title>ADO Den Haag getroffen door hack met beperkt datalek</title>
+			<link>https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack</link>
+			<description>ADO Den Haag | Kunst, cultuur, sport en recreatie | 17-12-2025 | DataLekt.nl: ADO Den Haag heeft in de zomer van 2025 te maken gehad met een hack waarbij een beperkt datalek is ontstaan. Dat blijkt uit het jaarverslag over het afgelopen seizoen. De club meldt dat onbekenden ongeautoriseerde toegang tot systemen hebben gekregen, maar geeft geen details over welke gegevens zijn buitgemaakt. Volgens ADO is het incident in nauw overleg met de IT-partner afgehandeld, zijn alle betrokkenen tijdig geïnformeerd en is melding gedaan bij de Autoriteit Persoonsgegevens. Daarnaast zijn procedures gevolgd om toekomstige risico’s te beperken. (Bron: clubachterdeduinen.nl)</description>
+			<guid isPermaLink="false">https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack?datalekt=688d3a2291cd013d0a459728c4e823bd72477998d06fe6859f4941f0b45e602d</guid>
+			<category>Kunst, cultuur, sport en recreatie </category>
+			<pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Doesburg schiet structureel tekort in AVG-naleving bij toezicht door Autoriteit Persoonsgegevens</title>
 			<link>https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming</link>
@@ -751,14 +759,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=22ee71d8fc74191fe5e149bd3824f1a488a5beeae6b2a221131b584bb2629c10</guid>
 			<category>Groot- en detailhandel </category>
 			<pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Knas lekt persoonsgegevens door foutieve publicatie van Excel-bestand met wereldbekerinschrijvingen</title>
-			<link>https://www.knas.nl/node/3896</link>
-			<description>KNAS | Kunst, cultuur, sport en recreatie | 25-08-2025 | DataLekt.nl: Tussen 18 en 20 augustus heeft de Koninklijke Nederlandse Algemene Schermbond (KNAS) per ongeluk een Excel-bestand online gezet met meer persoonsgegevens dan bedoeld. Het bestand stond op de inschrijfpagina voor wereldbekerwedstrijden en bevatte gegevens die normaal niet zichtbaar zijn in de gebruikelijke PDF-versie. Op 25 augustus zijn de betrokken schermers geïnformeerd over het datalek. De KNAS biedt excuses aan en benadrukt dat zorgvuldig met persoonsgegevens wordt omgegaan. (Bron: knas.nl)</description>
-			<guid isPermaLink="false">https://www.knas.nl/node/3896?datalekt=bd3ea625576543a6fa68c41b4aee5ee27e5c1a24811ed1cd72957021f6a98ea3</guid>
-			<category>Kunst, cultuur, sport en recreatie </category>
-			<pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens</title>
