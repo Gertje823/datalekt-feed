@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 25 Dec 2025 01:52:50 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 26 Dec 2025 01:51:58 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Nissewaard laat documenten van ruim 1200 overledenen onbeveiligd achter in openstaand baarhuisje</title>
+			<link>https://www.bndestem.nl/hoeksche-waard/papieren-van-1200-overledenen-lagen-voor-het-grijpen-partij-in-nissewaard-eist-opheldering~ae4ae439/</link>
+			<description>Gemeente Nissewaard | Overheid: Gemeenten | 23-12-2025 | DataLekt.nl: In een baarhuisje op de begraafplaats in Zuidland bleken documenten met persoonsgegevens van ongeveer 1200 overledenen onbeveiligd in een openstaande archiefkast te liggen, inclusief aanvullende gegevens van negentien personen met onder meer adres, telefoonnummer en BSN-nummer. Het slot van het baarhuisje was defect, waardoor iedereen toegang had. De situatie werd pas opgelost nadat partij VOOR Nissewaard een foto van de openstaande kast op Facebook plaatste, waarna de gemeente dezelfde dag het slot verving. De oorzaak ligt in onvoldoende fysieke beveiliging en nalatigheid bij opvolging van meldingen over het kapotte slot. (Bron: bndestem.nl)</description>
+			<guid isPermaLink="false">https://www.bndestem.nl/hoeksche-waard/papieren-van-1200-overledenen-lagen-voor-het-grijpen-partij-in-nissewaard-eist-opheldering~ae4ae439/?datalekt=4ff697d807e347d428626b9215a62382eb5f852e02e9c058d5abed6d790d30d0</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>ADO Den Haag getroffen door hack met beperkt datalek</title>
 			<link>https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack</link>
@@ -751,14 +759,6 @@
 			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=031a01cd0e23b6f98eb832aaf70441a036c4cb33b20f0b6e23805667b8d66cf0</guid>
 			<category>Horeca </category>
 			<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>CoCo Yachts getroffen door ransomware aanval van de criminele organisatie Cephalus</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>CoCo Yachts | Groot- en detailhandel | 28-08-2025 | DataLekt.nl: De criminele organisatie Cephalus heeft op het darkweb aangekondigd dat zij CoCo Yachts heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=22ee71d8fc74191fe5e149bd3824f1a488a5beeae6b2a221131b584bb2629c10</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens</title>

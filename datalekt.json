@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.bndestem.nl/hoeksche-waard/papieren-van-1200-overledenen-lagen-voor-het-grijpen-partij-in-nissewaard-eist-opheldering~ae4ae439/?datalekt=4ff697d807e347d428626b9215a62382eb5f852e02e9c058d5abed6d790d30d0",
+        "url": "https://www.bndestem.nl/hoeksche-waard/papieren-van-1200-overledenen-lagen-voor-het-grijpen-partij-in-nissewaard-eist-opheldering~ae4ae439/",
+        "title": "Gemeente Nissewaard laat documenten van ruim 1200 overledenen onbeveiligd achter in openstaand baarhuisje",
+        "date_published": "2025-12-25T10:39:00Z",
+        "date_modified": "2025-12-25T10:39:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "bndestem.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Nissewaard | Overheid: Gemeenten | 23-12-2025 | DataLekt.nl: In een baarhuisje op de begraafplaats in Zuidland bleken documenten met persoonsgegevens van ongeveer 1200 overledenen onbeveiligd in een openstaande archiefkast te liggen, inclusief aanvullende gegevens van negentien personen met onder meer adres, telefoonnummer en BSN-nummer. Het slot van het baarhuisje was defect, waardoor iedereen toegang had. De situatie werd pas opgelost nadat partij VOOR Nissewaard een foto van de openstaande kast op Facebook plaatste, waarna de gemeente dezelfde dag het slot verving. De oorzaak ligt in onvoldoende fysieke beveiliging en nalatigheid bij opvolging van meldingen over het kapotte slot. (Bron: bndestem.nl)"
+    },
+    {
         "id": "https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack?datalekt=688d3a2291cd013d0a459728c4e823bd72477998d06fe6859f4941f0b45e602d",
         "url": "https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack",
         "title": "ADO Den Haag getroffen door hack met beperkt datalek",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Clinical Diagnostics | Gezondheids- en welzijnszorg | 11-08-2025 | DataLekt.nl: Hackers hebben bij laboratorium Clinical Diagnostics medische en persoonsgegevens buitgemaakt van honderden duizenden pati\u00ebnten. Naast gegevens van 485.000 vrouwen uit het bevolkingsonderzoek naar baarmoederhalskanker gaat het ook om data van huid-, urine-, penis-, vagina-, anus- en wondvochtonderzoeken. De gestolen informatie bevat namen, adressen, geboortedata, burgerservicenummers, onderzoeksuitslagen en adviezen. Een deel van de data, waaronder gegevens van minstens 53.516 huisartsenpati\u00ebnten, is al gepubliceerd op het dark web. Volgens de criminelen gaat het in totaal om 300 gigabyte aan gegevens, waarvan tot nu toe slechts een fractie online staat. De onderzoeken zijn uitgevoerd in ziekenhuizen, klinieken en via huisartsen tussen 2022 en 2025. [Update: Op 13 augustus 2025 is bekend geworden dat het om een ransomware aanval ging.] [Update: Op 18 augustus 2025 is bekend geworden dat het losgeld van 1 miljoen euro nog niet betaald is aan Nova, en dat Nova dreigt met publiceren van de gestolen data.] [Update: Op 22 augustus heeft de criminele organisatie Nova bekend gemaakt dat de gestolen data verwijderd is. Er is losgeld betaald.] [Update: Op 29 augustus 2025 heeft Clinical Diagnostics bekend gemaakt dat data van 850.000 patienten (van het totaal van 941.000) zijn gestolen.] (Bron: rtl.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=22ee71d8fc74191fe5e149bd3824f1a488a5beeae6b2a221131b584bb2629c10",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "CoCo Yachts getroffen door ransomware aanval van de criminele organisatie Cephalus",
-        "date_published": "2025-08-30T19:03:00Z",
-        "date_modified": "2025-08-30T19:03:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "CoCo Yachts | Groot- en detailhandel | 28-08-2025 | DataLekt.nl: De criminele organisatie Cephalus heeft op het darkweb aangekondigd dat zij CoCo Yachts heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]
