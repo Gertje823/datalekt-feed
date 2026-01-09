@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 30 Dec 2025 01:53:17 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 09 Jan 2026 01:56:11 +0000</lastBuildDate>
+		<item>
+			<title>E-mailaccounts van leerlingen bij Voortgezet Onderwijs Zeeuws-Vlaanderen misbruikt voor phishing na hack</title>
+			<link>https://www.omroepzeeland.nl/nieuws/18098414/e-mailaccounts-leerlingen-zeeuws-vlaanderen-misbruikt-voor-versturen-phishingmails</link>
+			<description>3 onbekende middelbare scholen Zeeuws-Vlaanderen | Onderwijs | 06-01-2026 | DataLekt.nl: Bij een hack op de Office 365-omgeving van drie middelbare scholen in Zeeuws-Vlaanderen zijn e-mailaccounts van leerlingen gecompromitteerd. Twee accounts zijn daadwerkelijk misbruikt om phishingmails te versturen en van nog eens twaalf accounts zijn de wachtwoorden buitgemaakt. Volgens de scholen, verenigd in Voortgezet Onderwijs Zeeuws-Vlaanderen, zijn er geen aanwijzingen dat cijfers, leerlingendossiers of andere onderwijsgegevens zijn ingezien of gestolen. Mogelijk zijn wel adresboeken van veertien accounts buitgemaakt. De scholen doen onderzoek en hebben maatregelen genomen om herhaling te voorkomen. (Bron: omroepzeeland.nl)</description>
+			<guid isPermaLink="false">https://www.omroepzeeland.nl/nieuws/18098414/e-mailaccounts-leerlingen-zeeuws-vlaanderen-misbruikt-voor-versturen-phishingmails?datalekt=b5e0563c5b80b3286656a8a9d6c785e1aa814e21ea673ea472e5dd9aa9b1aa35</guid>
+			<category>Onderwijs </category>
+			<pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Van Venrooy getroffen door ransomware aanval van de criminele organisatie Safepay</title>
 			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
@@ -759,14 +767,6 @@
 			<guid isPermaLink="false">https://tweakers.net/nieuws/239138/ddos-aanvallen-op-nederlandse-overheid-hinderen-thuiswerkende-ambtenaren.html?datalekt=503ce6faea017b43869b4e72e5596dbcc078e94b8674b942660e595bade94000</guid>
 			<category>Overheid: Ministeries </category>
 			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Van der Valk getroffen door datalek na phishingaanval op medewerkers</title>
-			<link>https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht</link>
-			<description>Van der Valk | Horeca | 04-09-2025 | DataLekt.nl: Het Van der Valk is getroffen door een datalek waarbij persoonsgegevens van 302 klanten zijn buitgemaakt. Hackers wisten via een nagemaakte inlogpagina de inloggegevens van medewerkers te verkrijgen en kregen zo toegang tot adressen, telefoonnummers en boekingsgegevens van gasten. Met deze informatie konden oplichters zich geloofwaardig voordoen als het hotel en klanten benaderen. Ten minste één klant is hierdoor opgelicht en verloor 200 euro na het invoeren van haar creditcardgegevens via een nepbericht. Het hotel heeft klanten geïnformeerd en de Autoriteit Persoonsgegevens ingelicht. [Update: Op 8 september 2025 is bekend geworden dat het datalek groter is en meerdere locaties heeft getroffen.] (Bron: nhnieuws.nl)</description>
-			<guid isPermaLink="false">https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=031a01cd0e23b6f98eb832aaf70441a036c4cb33b20f0b6e23805667b8d66cf0</guid>
-			<category>Horeca </category>
-			<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Gemeente Midden-Delfland openbaart per ongeluk persoonsgegevens van bezwaarmakers bij asielzoekerscentrum</title>

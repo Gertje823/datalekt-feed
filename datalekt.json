@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.omroepzeeland.nl/nieuws/18098414/e-mailaccounts-leerlingen-zeeuws-vlaanderen-misbruikt-voor-versturen-phishingmails?datalekt=b5e0563c5b80b3286656a8a9d6c785e1aa814e21ea673ea472e5dd9aa9b1aa35",
+        "url": "https://www.omroepzeeland.nl/nieuws/18098414/e-mailaccounts-leerlingen-zeeuws-vlaanderen-misbruikt-voor-versturen-phishingmails",
+        "title": "E-mailaccounts van leerlingen bij Voortgezet Onderwijs Zeeuws-Vlaanderen misbruikt voor phishing na hack",
+        "date_published": "2026-01-08T14:35:00Z",
+        "date_modified": "2026-01-08T14:35:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepzeeland.nl"
+        },
+        "content_html": "",
+        "content_text": "3 onbekende middelbare scholen Zeeuws-Vlaanderen | Onderwijs | 06-01-2026 | DataLekt.nl: Bij een hack op de Office 365-omgeving van drie middelbare scholen in Zeeuws-Vlaanderen zijn e-mailaccounts van leerlingen gecompromitteerd. Twee accounts zijn daadwerkelijk misbruikt om phishingmails te versturen en van nog eens twaalf accounts zijn de wachtwoorden buitgemaakt. Volgens de scholen, verenigd in Voortgezet Onderwijs Zeeuws-Vlaanderen, zijn er geen aanwijzingen dat cijfers, leerlingendossiers of andere onderwijsgegevens zijn ingezien of gestolen. Mogelijk zijn wel adresboeken van veertien accounts buitgemaakt. De scholen doen onderzoek en hebben maatregelen genomen om herhaling te voorkomen. (Bron: omroepzeeland.nl)"
+    },
+    {
         "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=5c3d9f773e5a520e1b44ecb89151562ccb6ffb471566c47fdaa3c42fe9d0f206",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Van Venrooy getroffen door ransomware aanval van de criminele organisatie Safepay",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Rijksoverheid | Overheid: Ministeries | 15-09-2025 | DataLekt.nl: De Rijksoverheid is getroffen door aanhoudende ddos-aanvallen die het thuiswerken van ambtenaren ernstig hinderen. Ministeries hebben hun medewerkers geadviseerd op kantoor te werken, omdat de aanvallen de vpn-verbindingen en toegang tot netwerkschijven verstoren. Volgens het ministerie van Binnenlandse Zaken vinden de aanvallen vooral buiten kantooruren plaats en lijken ze gericht op ict-dienstverlener SSC-ICT, die onder BZK valt en voorzieningen levert aan de Rijksoverheid. De herkomst, doelwitten en motieven van de aanvallers zijn onbekend. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht?datalekt=031a01cd0e23b6f98eb832aaf70441a036c4cb33b20f0b6e23805667b8d66cf0",
-        "url": "https://www.nhnieuws.nl/nieuws/352074/data-van-302-klanten-gelekt-bij-van-der-valk-hotel-zuidas-ten-minste-een-klant-opgelicht",
-        "title": "Van der Valk getroffen door datalek na phishingaanval op medewerkers",
-        "date_published": "2025-09-06T14:43:00Z",
-        "date_modified": "2025-09-09T13:20:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nhnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "Van der Valk | Horeca | 04-09-2025 | DataLekt.nl: Het Van der Valk is getroffen door een datalek waarbij persoonsgegevens van 302 klanten zijn buitgemaakt. Hackers wisten via een nagemaakte inlogpagina de inloggegevens van medewerkers te verkrijgen en kregen zo toegang tot adressen, telefoonnummers en boekingsgegevens van gasten. Met deze informatie konden oplichters zich geloofwaardig voordoen als het hotel en klanten benaderen. Ten minste \u00e9\u00e9n klant is hierdoor opgelicht en verloor 200 euro na het invoeren van haar creditcardgegevens via een nepbericht. Het hotel heeft klanten ge\u00efnformeerd en de Autoriteit Persoonsgegevens ingelicht. [Update: Op 8 september 2025 is bekend geworden dat het datalek groter is en meerdere locaties heeft getroffen.] (Bron: nhnieuws.nl)"
     }
 ]
