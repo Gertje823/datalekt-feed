@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 09 Jan 2026 01:56:11 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 10 Jan 2026 01:52:05 +0000</lastBuildDate>
+		<item>
+			<title>Datalek bij Universiteit Leiden door fout bij overstap naar nieuw administratiesysteem</title>
+			<link>https://bron.fontys.nl/datalek-bij-universiteit-leiden/</link>
+			<description>Universiteit Leiden | Onderwijs | 07-01-2026 | DataLekt.nl: Bij de overstap naar een nieuw financieel en administratief computersysteem zijn bij Universiteit Leiden tijdelijk persoonsgegevens van medewerkers voor alle universitaire medewerkers zichtbaar geworden. Het ging onder meer om namen, huisadressen en in sommige gevallen telefoonnummers van personen die een declaratie hadden ingediend, waaronder ook bestuursleden en decanen. Het datalek ontstond op maandagochtend en werd door de ict-afdeling na enkele uren ontdekt en verholpen. De universiteit is wettelijk verplicht het incident te melden bij de Autoriteit Persoonsgegevens. Er zijn geen aanwijzingen dat de gegevens zijn misbruikt. (Bron: fontys.nl)</description>
+			<guid isPermaLink="false">https://bron.fontys.nl/datalek-bij-universiteit-leiden/?datalekt=c56fd2ffb5c81257c2476c194ef9a8b2de0de0ad77decaf93c191d57cedd75ee</guid>
+			<category>Onderwijs </category>
+			<pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>E-mailaccounts van leerlingen bij Voortgezet Onderwijs Zeeuws-Vlaanderen misbruikt voor phishing na hack</title>
 			<link>https://www.omroepzeeland.nl/nieuws/18098414/e-mailaccounts-leerlingen-zeeuws-vlaanderen-misbruikt-voor-versturen-phishingmails</link>
@@ -758,14 +766,6 @@
 			<description>Venlogistics | Vervoer en opslag | 15-09-2025 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij Venlogistics heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f6a445be162dcdc05a5c893470dae20fd1f146072186559bcfa50526239ef428</guid>
 			<category>Vervoer en opslag </category>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ddos-aanvallen op Rijksoverheid via ict-dienstverlener SSC-ICT hinderen thuiswerken ambtenaren</title>
-			<link>https://tweakers.net/nieuws/239138/ddos-aanvallen-op-nederlandse-overheid-hinderen-thuiswerkende-ambtenaren.html</link>
-			<description>Rijksoverheid | Overheid: Ministeries | 15-09-2025 | DataLekt.nl: De Rijksoverheid is getroffen door aanhoudende ddos-aanvallen die het thuiswerken van ambtenaren ernstig hinderen. Ministeries hebben hun medewerkers geadviseerd op kantoor te werken, omdat de aanvallen de vpn-verbindingen en toegang tot netwerkschijven verstoren. Volgens het ministerie van Binnenlandse Zaken vinden de aanvallen vooral buiten kantooruren plaats en lijken ze gericht op ict-dienstverlener SSC-ICT, die onder BZK valt en voorzieningen levert aan de Rijksoverheid. De herkomst, doelwitten en motieven van de aanvallers zijn onbekend. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/239138/ddos-aanvallen-op-nederlandse-overheid-hinderen-thuiswerkende-ambtenaren.html?datalekt=503ce6faea017b43869b4e72e5596dbcc078e94b8674b942660e595bade94000</guid>
-			<category>Overheid: Ministeries </category>
 			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>

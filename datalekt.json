@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://bron.fontys.nl/datalek-bij-universiteit-leiden/?datalekt=c56fd2ffb5c81257c2476c194ef9a8b2de0de0ad77decaf93c191d57cedd75ee",
+        "url": "https://bron.fontys.nl/datalek-bij-universiteit-leiden/",
+        "title": "Datalek bij Universiteit Leiden door fout bij overstap naar nieuw administratiesysteem",
+        "date_published": "2026-01-09T10:44:00Z",
+        "date_modified": "2026-01-09T10:44:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "fontys.nl"
+        },
+        "content_html": "",
+        "content_text": "Universiteit Leiden | Onderwijs | 07-01-2026 | DataLekt.nl: Bij de overstap naar een nieuw financieel en administratief computersysteem zijn bij Universiteit Leiden tijdelijk persoonsgegevens van medewerkers voor alle universitaire medewerkers zichtbaar geworden. Het ging onder meer om namen, huisadressen en in sommige gevallen telefoonnummers van personen die een declaratie hadden ingediend, waaronder ook bestuursleden en decanen. Het datalek ontstond op maandagochtend en werd door de ict-afdeling na enkele uren ontdekt en verholpen. De universiteit is wettelijk verplicht het incident te melden bij de Autoriteit Persoonsgegevens. Er zijn geen aanwijzingen dat de gegevens zijn misbruikt. (Bron: fontys.nl)"
+    },
+    {
         "id": "https://www.omroepzeeland.nl/nieuws/18098414/e-mailaccounts-leerlingen-zeeuws-vlaanderen-misbruikt-voor-versturen-phishingmails?datalekt=b5e0563c5b80b3286656a8a9d6c785e1aa814e21ea673ea472e5dd9aa9b1aa35",
         "url": "https://www.omroepzeeland.nl/nieuws/18098414/e-mailaccounts-leerlingen-zeeuws-vlaanderen-misbruikt-voor-versturen-phishingmails",
         "title": "E-mailaccounts van leerlingen bij Voortgezet Onderwijs Zeeuws-Vlaanderen misbruikt voor phishing na hack",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Venlogistics | Vervoer en opslag | 15-09-2025 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij Venlogistics heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/239138/ddos-aanvallen-op-nederlandse-overheid-hinderen-thuiswerkende-ambtenaren.html?datalekt=503ce6faea017b43869b4e72e5596dbcc078e94b8674b942660e595bade94000",
-        "url": "https://tweakers.net/nieuws/239138/ddos-aanvallen-op-nederlandse-overheid-hinderen-thuiswerkende-ambtenaren.html",
-        "title": "Ddos-aanvallen op Rijksoverheid via ict-dienstverlener SSC-ICT hinderen thuiswerken ambtenaren",
-        "date_published": "2025-09-16T09:48:00Z",
-        "date_modified": "2025-09-16T09:48:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Rijksoverheid | Overheid: Ministeries | 15-09-2025 | DataLekt.nl: De Rijksoverheid is getroffen door aanhoudende ddos-aanvallen die het thuiswerken van ambtenaren ernstig hinderen. Ministeries hebben hun medewerkers geadviseerd op kantoor te werken, omdat de aanvallen de vpn-verbindingen en toegang tot netwerkschijven verstoren. Volgens het ministerie van Binnenlandse Zaken vinden de aanvallen vooral buiten kantooruren plaats en lijken ze gericht op ict-dienstverlener SSC-ICT, die onder BZK valt en voorzieningen levert aan de Rijksoverheid. De herkomst, doelwitten en motieven van de aanvallers zijn onbekend. (Bron: tweakers.net)"
     }
 ]
