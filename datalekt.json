@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/?datalekt=43c6d01d00e9110a4a60ff49a0f0d1d73cdba7542109a29a44bc87d670a83952",
+        "url": "https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/",
+        "title": "Man uit Delft veroorzaakte grootschalige verstoring van het noodnummer 112 met geautomatiseerde oproepen",
+        "date_published": "2025-12-13T17:48:00Z",
+        "date_modified": "2026-01-10T14:41:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "beveiligingnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "De Landelijke Meldkamer Samenwerking | Overheid: Organisatieonderdeel | 11-12-2025 | DataLekt.nl: Eind 2022 heeft een 47-jarige man uit Delft meer dan 11.000 geautomatiseerde valse oproepen naar het noodnummer 112 verstuurd, waardoor de bereikbaarheid van politie en hulpdiensten ernstig werd verstoord. Hij maakte gebruik van simboxen, computers en anonieme 06-nummers om het noodnummer te overbelasten, op een manier die vergelijkbaar is met een DDoS-aanval. Volgens het Openbaar Ministerie handelde hij uit wraak na een zakelijk conflict met drie zakenpartners. Door de massale oproepen liepen wachttijden gevaarlijk op en konden echte noodmeldingen moeilijk doorkomen, met mogelijk levensgevaarlijke gevolgen. [Update: Op 8 januari 2026 is bekend geworden dat de man is veroordeeld tot een voorwaardelijke gevangenisstraf van acht maanden en een eerder opgelegde boete hoeft hij niet te betalen.] (Bron: beveiligingnieuws.nl)"
+    },
+    {
         "id": "https://bron.fontys.nl/datalek-bij-universiteit-leiden/?datalekt=c56fd2ffb5c81257c2476c194ef9a8b2de0de0ad77decaf93c191d57cedd75ee",
         "url": "https://bron.fontys.nl/datalek-bij-universiteit-leiden/",
         "title": "Datalek bij Universiteit Leiden door fout bij overstap naar nieuw administratiesysteem",
@@ -310,19 +323,6 @@
         },
         "content_html": "",
         "content_text": "Koninklijke Notari\u00eble Beroepsorganisatie (KNB) | Overige dienstverlening | 11-12-2025 | DataLekt.nl: Het digitale notarisregister van de Koninklijke Notari\u00eble Beroepsorganisatie (KNB) is sinds februari offline nadat de Autoriteit Persoonsgegevens een privacyklacht van een notaris gegrond verklaarde. De toezichthouder had bezwaar tegen de manier waarop zoekresultaten werden getoond, waarbij ook andere notarissen zichtbaar waren. De KNB haalde het register daarop volledig offline en ging niet in beroep. Hierdoor is een wettelijk openbaar register, met informatie over nevenfuncties en tuchtrechtelijke maatregelen, slechts beperkt op verzoek in te zien. Of en wanneer het register weer online komt, is nog onzeker. (Bron: advocatie.nl)"
-    },
-    {
-        "id": "https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/?datalekt=8f2e57fa657a9496e7ec59f5f2591c1f317d72e72d316979512b3ca5903871f7",
-        "url": "https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/",
-        "title": "Man uit Delft veroorzaakte grootschalige verstoring van het noodnummer 112 met geautomatiseerde oproepen",
-        "date_published": "2025-12-13T17:48:00Z",
-        "date_modified": "2025-12-13T17:48:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "beveiligingnieuws.nl"
-        },
-        "content_html": "",
-        "content_text": "De Landelijke Meldkamer Samenwerking | Overheid: Organisatieonderdeel | 11-12-2025 | DataLekt.nl: Eind 2022 heeft een 47-jarige man uit Delft meer dan 11.000 geautomatiseerde valse oproepen naar het noodnummer 112 verstuurd, waardoor de bereikbaarheid van politie en hulpdiensten ernstig werd verstoord. Hij maakte gebruik van simboxen, computers en anonieme 06-nummers om het noodnummer te overbelasten, op een manier die vergelijkbaar is met een DDoS-aanval. Volgens het Openbaar Ministerie handelde hij uit wraak na een zakelijk conflict met drie zakenpartners. Door de massale oproepen liepen wachttijden gevaarlijk op en konden echte noodmeldingen moeilijk doorkomen, met mogelijk levensgevaarlijke gevolgen. (Bron: beveiligingnieuws.nl)"
     },
     {
         "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5542736/gemeente-nuenen-lekt-adressen-bezwaarmakers-azc?datalekt=994f0cac978a408f12f6d661472d686dd3e827a06c35c8ec4cb2b3f2d4479867",
