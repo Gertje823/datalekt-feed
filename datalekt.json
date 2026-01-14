@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/243508/nederlands-wellnesscentrum-waarschuwt-gasten-voor-gerichte-phishing-via-whatsapp.html?datalekt=701ed7e025aaead9bb474d419b446623a6eec6644869ef13a91a5a2bd0bd9536",
+        "url": "https://tweakers.net/nieuws/243508/nederlands-wellnesscentrum-waarschuwt-gasten-voor-gerichte-phishing-via-whatsapp.html",
+        "title": "Thermae 2000 waarschuwt gasten na datalek dat wordt misbruikt voor gerichte phishing via WhatsApp",
+        "date_published": "2026-01-13T11:35:00Z",
+        "date_modified": "2026-01-13T11:35:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Thermae 2000 | Kunst, cultuur, sport en recreatie | 12-01-2026 | DataLekt.nl: Het Limburgse wellnesscentrum Thermae 2000 heeft gasten gewaarschuwd voor phishingberichten via WhatsApp die niet van het bedrijf afkomstig zijn. Aanvallers stuurden berichten met details over reserveringen, wat erop wijst dat onbevoegden mogelijk toegang hadden tot een bestand met NAW-, e-mail- en telefoongegevens van een deel van de gasten. Volgens Thermae 2000 zijn er geen aanwijzingen dat betaalgegevens zijn buitgemaakt, al lijkt factuurinformatie te zijn ingezien. Het incident werd ontdekt nadat gasten melding maakten van verdachte berichten. Het bedrijf heeft maatregelen genomen, extra beveiliging doorgevoerd en een onderzoek gestart. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/?datalekt=43c6d01d00e9110a4a60ff49a0f0d1d73cdba7542109a29a44bc87d670a83952",
         "url": "https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/",
         "title": "Man uit Delft veroorzaakte grootschalige verstoring van het noodnummer 112 met geautomatiseerde oproepen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "CAS Exhibition Partners | Verhuur en zakelijke dienstverlening | 15-09-2025 | DataLekt.nl: De criminele organisatie Lynx heeft op het darkweb aangekondigd dat zij CAS Exhibition Partners heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f6a445be162dcdc05a5c893470dae20fd1f146072186559bcfa50526239ef428",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Venlogistics getroffen door ransomware aanval van de criminele organisatie Incransom",
-        "date_published": "2025-09-16T19:34:00Z",
-        "date_modified": "2025-09-16T19:34:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Venlogistics | Vervoer en opslag | 15-09-2025 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij Venlogistics heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]

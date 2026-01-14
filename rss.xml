@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 11 Jan 2026 02:04:30 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 01:59:51 +0000</lastBuildDate>
+		<item>
+			<title>Thermae 2000 waarschuwt gasten na datalek dat wordt misbruikt voor gerichte phishing via WhatsApp</title>
+			<link>https://tweakers.net/nieuws/243508/nederlands-wellnesscentrum-waarschuwt-gasten-voor-gerichte-phishing-via-whatsapp.html</link>
+			<description>Thermae 2000 | Kunst, cultuur, sport en recreatie | 12-01-2026 | DataLekt.nl: Het Limburgse wellnesscentrum Thermae 2000 heeft gasten gewaarschuwd voor phishingberichten via WhatsApp die niet van het bedrijf afkomstig zijn. Aanvallers stuurden berichten met details over reserveringen, wat erop wijst dat onbevoegden mogelijk toegang hadden tot een bestand met NAW-, e-mail- en telefoongegevens van een deel van de gasten. Volgens Thermae 2000 zijn er geen aanwijzingen dat betaalgegevens zijn buitgemaakt, al lijkt factuurinformatie te zijn ingezien. Het incident werd ontdekt nadat gasten melding maakten van verdachte berichten. Het bedrijf heeft maatregelen genomen, extra beveiliging doorgevoerd en een onderzoek gestart. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/243508/nederlands-wellnesscentrum-waarschuwt-gasten-voor-gerichte-phishing-via-whatsapp.html?datalekt=701ed7e025aaead9bb474d419b446623a6eec6644869ef13a91a5a2bd0bd9536</guid>
+			<category>Kunst, cultuur, sport en recreatie </category>
+			<pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Datalek bij Universiteit Leiden door fout bij overstap naar nieuw administratiesysteem</title>
 			<link>https://bron.fontys.nl/datalek-bij-universiteit-leiden/</link>
@@ -758,14 +766,6 @@
 			<description>CAS Exhibition Partners | Verhuur en zakelijke dienstverlening | 15-09-2025 | DataLekt.nl: De criminele organisatie Lynx heeft op het darkweb aangekondigd dat zij CAS Exhibition Partners heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a05c3705a8ef441707ac8034e133570a44aff9ecdc4868dea4cac6a991982154</guid>
 			<category>Verhuur en zakelijke dienstverlening </category>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Venlogistics getroffen door ransomware aanval van de criminele organisatie Incransom</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Venlogistics | Vervoer en opslag | 15-09-2025 | DataLekt.nl: De criminele organisatie Incransom heeft op het darkweb aangekondigd dat zij Venlogistics heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f6a445be162dcdc05a5c893470dae20fd1f146072186559bcfa50526239ef428</guid>
-			<category>Vervoer en opslag </category>
 			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
