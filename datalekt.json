@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/243482/interrail-meldt-datalek-waarbij-mogelijk-ids-en-iban-nummers-zijn-gestolen.html?datalekt=96f5a19f35d187367f461108dc17adb8a7866860f9a566760f12f19712413890",
+        "url": "https://tweakers.net/nieuws/243482/interrail-meldt-datalek-waarbij-mogelijk-ids-en-iban-nummers-zijn-gestolen.html",
+        "title": "Interrail krijgt te maken met datalek waarbij klantgegevens waaronder ID-informatie en IBAN-nummers mogelijk zijn buitgemaakt",
+        "date_published": "2026-01-14T16:00:00Z",
+        "date_modified": "2026-01-14T16:00:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Interrail | Vervoer en opslag | 12-01-2026 | DataLekt.nl: Interrail heeft gemeld dat er een beveiligingslek in zijn systemen is ontdekt waardoor klantgegevens toegankelijk zijn geweest voor onbevoegden. Het gaat vermoedelijk om namen, e-mailadressen, telefoonnummers, woonadressen en geboortedata. Als klanten kopie\u00ebn of gegevens van paspoorten of ID-kaarten hebben aangeleverd, kunnen deze eveneens zijn buitgemaakt. Daarnaast bestaat de mogelijkheid dat IBAN-nummers en gezondheidsgegevens zijn gelekt, zo meldt de Europese Commissie in het kader van het DiscoverEU-programma. Interrail onderzoekt nog hoeveel klanten zijn getroffen en heeft geen aanwijzingen dat de gegevens zijn misbruikt. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/243508/nederlands-wellnesscentrum-waarschuwt-gasten-voor-gerichte-phishing-via-whatsapp.html?datalekt=701ed7e025aaead9bb474d419b446623a6eec6644869ef13a91a5a2bd0bd9536",
         "url": "https://tweakers.net/nieuws/243508/nederlands-wellnesscentrum-waarschuwt-gasten-voor-gerichte-phishing-via-whatsapp.html",
         "title": "Thermae 2000 waarschuwt gasten na datalek dat wordt misbruikt voor gerichte phishing via WhatsApp",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Ferus Smit | Vervoer en opslag | 16-09-2025 | DataLekt.nl: De criminele organisatie Warlock heeft op het darkweb aangekondigd dat zij Ferus Smit heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=a05c3705a8ef441707ac8034e133570a44aff9ecdc4868dea4cac6a991982154",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "CAS Exhibition Partners getroffen door ransomware aanval van de criminele organisatie Lynx",
-        "date_published": "2025-09-16T19:35:00Z",
-        "date_modified": "2025-09-16T19:35:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "CAS Exhibition Partners | Verhuur en zakelijke dienstverlening | 15-09-2025 | DataLekt.nl: De criminele organisatie Lynx heeft op het darkweb aangekondigd dat zij CAS Exhibition Partners heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     }
 ]
