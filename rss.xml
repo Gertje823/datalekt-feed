@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 16 Jan 2026 01:56:35 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 17 Jan 2026 01:50:44 +0000</lastBuildDate>
+		<item>
+			<title>Privégegevens van Eerste Kamerleden uit 2016 aangetroffen in kringloopwinkel in Bolsward</title>
+			<link>https://nos.nl/artikel/2598321-map-met-gegevens-eerste-kamerleden-uit-2016-gevonden-in-friese-kringloopwinkel</link>
+			<description>Eerste Kamer der Staten-Generaal | Overheid: Staten-Generaal | 15-01-2026 | DataLekt.nl: In een kringloopwinkel in Bolsward is een map uit 2016 aangetroffen met mobiele telefoonnummers en privéadressen van toenmalige Eerste Kamerleden. De lijst was destijds intern verspreid binnen de Eerste Kamer en niet bedoeld voor openbaarmaking. Hoe het mapje in de winkel terecht is gekomen, is onbekend; ook is niet duidelijk op welk moment en door wie de privacygevoelige informatie is ingezien. Volgens de Autoriteit Persoonsgegevens is sprake van een datalek zodra onbevoegden toegang hebben tot persoonsgegevens. De Eerste Kamer onderzoekt de impact en bekijkt of melding bij de toezichthouder nodig is. (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2598321-map-met-gegevens-eerste-kamerleden-uit-2016-gevonden-in-friese-kringloopwinkel?datalekt=3760774f2e23ced09a960d452c369743bb02a3573998c4a4de54f2cc095be0c6</guid>
+			<category>Overheid: Staten-Generaal </category>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Freez.it uit Bolsward krijgt hoge cloudkosten na hack door ontbrekende MFA-beveiliging in Azure-omgeving</title>
+			<link>https://lc.nl/economie/een-vergeten-vinkje-leidde-tot-facturen-van-honderdduizenden-euro-s-bij-freez.it-uit-bolsward-48171064.html</link>
+			<description>Freez.it | ICT en telecommunicatie | 14-01-2026 | DataLekt.nl: Freez.it uit Bolsward kreeg in 2022 te maken met een hack in een door het bedrijf beheerde Microsoft Azure-omgeving, veroorzaakt door het niet activeren van multifactorauthenticatie (MFA). Een onbekende aanvaller wist circa vijf weken lang tientallen servers aan te maken, vermoedelijk om cryptovaluta te minen, wat leidde tot extreem dataverbruik. Klantgegevens zijn niet ingezien, maar de kosten liepen op tot honderdduizenden euro’s. Leverancier Copaco en verzekeraar Chubb bleken niet aansprakelijk of dekkend, waarna de rechter oordeelde dat Freez.it zelf verantwoordelijk was voor de schade. (Bron: lc.nl)</description>
+			<guid isPermaLink="false">https://lc.nl/economie/een-vergeten-vinkje-leidde-tot-facturen-van-honderdduizenden-euro-s-bij-freez.it-uit-bolsward-48171064.html?datalekt=78692db0c90323e506b450549f4926e0f1962a3b6d221e77446ab775e9eb47ce</guid>
+			<category>ICT en telecommunicatie </category>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Interrail krijgt te maken met datalek waarbij klantgegevens waaronder ID-informatie en IBAN-nummers mogelijk zijn buitgemaakt</title>
 			<link>https://tweakers.net/nieuws/243482/interrail-meldt-datalek-waarbij-mogelijk-ids-en-iban-nummers-zijn-gestolen.html</link>
@@ -751,22 +767,6 @@
 			<guid isPermaLink="false">https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5134603/nieuw-datalek-in-alphense-jeugdzorg-medewerker-bekeek-dossiers-zonder-bevoe?datalekt=add03a46e2a6805a3a6c2c9ce61698eb3ac0f56273d47050e0f9f022978b2f05</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Jansen Furniture getroffen door ransomware aanval van de criminele organisatie Imncrew</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Jansen Furniture | Groot- en detailhandel | 16-09-2025 | DataLekt.nl: De criminele organisatie Imncrew heeft op het darkweb aangekondigd dat zij Jansen Furniture heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1eb5f2445069ab6f9c5d4a2b527113dfd33af3cb0b5732e60f1bc64b5e66b8d6</guid>
-			<category>Groot- en detailhandel </category>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ferus Smit getroffen door ransomware aanval van de criminele organisatie Warlock</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Ferus Smit | Vervoer en opslag | 16-09-2025 | DataLekt.nl: De criminele organisatie Warlock heeft op het darkweb aangekondigd dat zij Ferus Smit heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=30b307227be224e253ca907187c474ffdde845d72ccb38a3d4100950ac532b30</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Gemeente Midden-Delfland openbaart per ongeluk persoonsgegevens van bezwaarmakers bij asielzoekerscentrum</title>
