@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 17 Jan 2026 01:50:44 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 02:00:04 +0000</lastBuildDate>
+		<item>
+			<title>Veenkoloniaal Museum getroffen door ransomware aanval van de criminele organisatie Lockbit5</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Veenkoloniaal Museum | Kunst, cultuur, sport en recreatie | 20-01-2026 | DataLekt.nl: De criminele organisatie Lockbit5 heeft op het darkweb aangekondigd dat zij Veenkoloniaal Museum heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=5acbe3abe3f0b30cef108bfd7c3b456af203a432d4d786ac13ed972ddf88ee72</guid>
+			<category>Kunst, cultuur, sport en recreatie </category>
+			<pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Privégegevens van Eerste Kamerleden uit 2016 aangetroffen in kringloopwinkel in Bolsward</title>
 			<link>https://nos.nl/artikel/2598321-map-met-gegevens-eerste-kamerleden-uit-2016-gevonden-in-friese-kringloopwinkel</link>
@@ -759,14 +767,6 @@
 			<guid isPermaLink="false">https://www.zoetermeeractief.nl/nieuwshome/actueel/29294-excuses-van-gemeente-voor-datalek-burgerinitiatief?datalekt=c2de259fe21470233456931518a4bf3ecc230f378d0177aafbde12a4083b01cc</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Alphen aan den Rijn meldt datalek in jeugdzorg door onbevoegde inzage medewerker</title>
-			<link>https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5134603/nieuw-datalek-in-alphense-jeugdzorg-medewerker-bekeek-dossiers-zonder-bevoe</link>
-			<description>Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 17-09-2025 | DataLekt.nl: Binnen de jeugdzorg van Alphen aan den Rijn is een nieuw datalek ontdekt doordat een medewerker zonder de juiste bevoegdheid vertrouwelijke dossiers heeft ingezien. Het incident werd bekend tijdens een onderzoek naar ambtshalve verlengingen van jeugdhulp. De gemeente heeft het datalek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt welke informatie precies is ingezien en of cliënten geïnformeerd moeten worden. Ouders zijn inmiddels op de hoogte gebracht. Het college sluit aangifte niet uit, maar acht dit vooralsnog niet waarschijnlijk. De kwestie leidt tot zorgen in de lokale politiek over de bescherming van gevoelige gegevens van jongeren en gezinnen. (Bron: nieuwsinalphen.nl)</description>
-			<guid isPermaLink="false">https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5134603/nieuw-datalek-in-alphense-jeugdzorg-medewerker-bekeek-dossiers-zonder-bevoe?datalekt=add03a46e2a6805a3a6c2c9ce61698eb3ac0f56273d47050e0f9f022978b2f05</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Gemeente Midden-Delfland openbaart per ongeluk persoonsgegevens van bezwaarmakers bij asielzoekerscentrum</title>

@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=5acbe3abe3f0b30cef108bfd7c3b456af203a432d4d786ac13ed972ddf88ee72",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Veenkoloniaal Museum getroffen door ransomware aanval van de criminele organisatie Lockbit5",
+        "date_published": "2026-01-21T10:20:00Z",
+        "date_modified": "2026-01-21T10:20:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Veenkoloniaal Museum | Kunst, cultuur, sport en recreatie | 20-01-2026 | DataLekt.nl: De criminele organisatie Lockbit5 heeft op het darkweb aangekondigd dat zij Veenkoloniaal Museum heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
         "id": "https://nos.nl/artikel/2598321-map-met-gegevens-eerste-kamerleden-uit-2016-gevonden-in-friese-kringloopwinkel?datalekt=3760774f2e23ced09a960d452c369743bb02a3573998c4a4de54f2cc095be0c6",
         "url": "https://nos.nl/artikel/2598321-map-met-gegevens-eerste-kamerleden-uit-2016-gevonden-in-friese-kringloopwinkel",
         "title": "Priv\u00e9gegevens van Eerste Kamerleden uit 2016 aangetroffen in kringloopwinkel in Bolsward",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Zoetermeer | Overheid: Gemeenten | 28-09-2025 | DataLekt.nl: De gemeente Zoetermeer heeft per ongeluk persoonsgegevens van tientallen bewoners openbaar gemaakt. Bij de publicatie van een raadsdocument over een burgerinitiatief voor meer parkeerruimte in Noordhove werd op 17 juli 2025 een verkeerde bijlage toegevoegd aan het openbare raadsinformatiesysteem. In plaats van het parkeeronderzoek werd het originele burgerinitiatief gepubliceerd, waarin naam, adres, geboortedatum en handtekening van ondertekenaars stonden. De fout werd pas op 21 augustus 2025 ontdekt door een journalist van het AD, waarna de gegevens zijn verwijderd en melding is gedaan bij de Autoriteit Persoonsgegevens. Betrokken bewoners hebben een excuusbrief ontvangen en zijn gewaarschuwd alert te zijn op mogelijk misbruik. (Bron: zoetermeeractief.nl)"
-    },
-    {
-        "id": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5134603/nieuw-datalek-in-alphense-jeugdzorg-medewerker-bekeek-dossiers-zonder-bevoe?datalekt=add03a46e2a6805a3a6c2c9ce61698eb3ac0f56273d47050e0f9f022978b2f05",
-        "url": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5134603/nieuw-datalek-in-alphense-jeugdzorg-medewerker-bekeek-dossiers-zonder-bevoe",
-        "title": "Gemeente Alphen aan den Rijn meldt datalek in jeugdzorg door onbevoegde inzage medewerker",
-        "date_published": "2025-09-18T09:28:00Z",
-        "date_modified": "2025-09-18T09:28:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nieuwsinalphen.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Alphen aan den Rijn | Overheid: Gemeenten | 17-09-2025 | DataLekt.nl: Binnen de jeugdzorg van Alphen aan den Rijn is een nieuw datalek ontdekt doordat een medewerker zonder de juiste bevoegdheid vertrouwelijke dossiers heeft ingezien. Het incident werd bekend tijdens een onderzoek naar ambtshalve verlengingen van jeugdhulp. De gemeente heeft het datalek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt welke informatie precies is ingezien en of cli\u00ebnten ge\u00efnformeerd moeten worden. Ouders zijn inmiddels op de hoogte gebracht. Het college sluit aangifte niet uit, maar acht dit vooralsnog niet waarschijnlijk. De kwestie leidt tot zorgen in de lokale politiek over de bescherming van gevoelige gegevens van jongeren en gezinnen. (Bron: nieuwsinalphen.nl)"
     }
 ]
