@@ -7,12 +7,20 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 22 Jan 2026 02:00:04 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 01:55:56 +0000</lastBuildDate>
 		<item>
-			<title>Veenkoloniaal Museum getroffen door ransomware aanval van de criminele organisatie Lockbit5</title>
-			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
-			<description>Veenkoloniaal Museum | Kunst, cultuur, sport en recreatie | 20-01-2026 | DataLekt.nl: De criminele organisatie Lockbit5 heeft op het darkweb aangekondigd dat zij Veenkoloniaal Museum heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
-			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=5acbe3abe3f0b30cef108bfd7c3b456af203a432d4d786ac13ed972ddf88ee72</guid>
+			<title>Hogeschool Rotterdam versnelt invoering meervoudige verificatie na hack van studentenaccounts voor phishing</title>
+			<link>https://profielen.hr.nl/2026/hr-stapt-na-hack-met-studentenaccounts-al-over-maand-over-op-meervoudige-verificatie/</link>
+			<description>Hogeschool Rotterdam | Onderwijs | 20-01-2025 | DataLekt.nl: Eind 2025 zijn tientallen studentenaccounts van de Hogeschool Rotterdam gecompromitteerd en misbruikt voor het versturen van duizenden phishingmails over vermeende crypto-tegoeden. De hack was mogelijk doordat studenten zwakke, hergebruikte wachtwoorden gebruikten die voorkwamen in gelekte wachtwoorddatabases. Volgens de hogeschool is er geen verdere schade ontstaan en zijn geen andere systemen binnengedrongen. Na ontdekking zijn de betrokken accounts geblokkeerd, moesten studenten hun wachtwoord wijzigen en zijn alle HR-accounts gecontroleerd, waarbij ruim 3.000 accounts met zwakke wachtwoorden zijn aangepakt. De Autoriteit Persoonsgegevens is geïnformeerd en er is aangifte gedaan. Als maatregel voert de hogeschool versneld meervoudige verificatie in voor alle studenten en medewerkers. (Bron: profielen.hr.nl)</description>
+			<guid isPermaLink="false">https://profielen.hr.nl/2026/hr-stapt-na-hack-met-studentenaccounts-al-over-maand-over-op-meervoudige-verificatie/?datalekt=8c025b3433b8699492aa7aa0990750c69daa9e445cfc07b6f3576ee801865907</guid>
+			<category>Onderwijs </category>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Veenkoloniaal Museum in Veendam getroffen door ransomware-aanval van LockBit waarbij gegevens zijn gestolen en versleuteld</title>
+			<link>https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/</link>
+			<description>Veenkoloniaal Museum | Kunst, cultuur, sport en recreatie | 20-01-2026 | DataLekt.nl: Het Veenkoloniaal Museum in Veendam is op 7 januari 2026 getroffen door een ransomware-aanval van de groep LockBit. De hackers drongen de computersystemen binnen, versleutelden bestanden en maakten gegevens buit, waaronder foto’s van de collectie, administratie en persoonlijke gegevens. Hierdoor kon het personeel tijdelijk niet bij een deel van de digitale bestanden. Betrokkenen van wie gegevens zijn geraakt, zijn direct geïnformeerd. Het museum ontving een afpersingsmail, maar weigert te onderhandelen of losgeld te betalen. Dankzij een externe back-up van december en papieren kopieën kon herstel plaatsvinden. De exacte oorzaak van de hack wordt nog onderzocht. [Update: Op 20 januari 2026 is bekend geworden dat het incident op 7 januari 2026 plaatsvondt, en dat er geen losgeld is betaald.] (Bron: rtveen.nl)</description>
+			<guid isPermaLink="false">https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/?datalekt=cb69d0341c5c8412c3acd69461fdd2cfe55288c959f3ad20dd69717d30a22699</guid>
 			<category>Kunst, cultuur, sport en recreatie </category>
 			<pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
 		</item>
@@ -757,14 +765,6 @@
 			<link>https://www.tubantia.nl/losser/gevoelige-kiezerslijst-van-losser-duikt-op-na-reeks-procedurefouten~a4b46de8/</link>
 			<description>Gemeente Losser | Overheid: Gemeenten | 18-09-2025 | DataLekt.nl: Bij de voorbereiding van de komende verkiezingen is een kiezerslijst met persoonsgegevens van 103 inwoners van Losser teruggevonden in een stemkoffer. Het document, het ‘Register Ongeldige Stempassen’ van de Europese verkiezingen 2024, had volgens de Kieswet al vernietigd moeten zijn. De lijst bevatte namen, geboortedata, stempasnummers en redenen van ongeldigheid van stempassen. Door fouten bij zowel het verzamelen als het leeghalen van stemkoffers bleef de lijst bestaan. De gemeenten Losser en Enschede erkennen de fouten en hebben het incident gemeld bij de Autoriteit Persoonsgegevens. (Bron: tubantia.nl)</description>
 			<guid isPermaLink="false">https://www.tubantia.nl/losser/gevoelige-kiezerslijst-van-losser-duikt-op-na-reeks-procedurefouten~a4b46de8/?datalekt=ccea9e7222c9f513d16596cecdaa4108468da70fb3543b2c75f466019ed4dceb</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Zoetermeer lekt persoonsgegevens van ondertekenaars burgerinitiatief door foutieve publicatie</title>
-			<link>https://www.zoetermeeractief.nl/nieuwshome/actueel/29294-excuses-van-gemeente-voor-datalek-burgerinitiatief</link>
-			<description>Gemeente Zoetermeer | Overheid: Gemeenten | 28-09-2025 | DataLekt.nl: De gemeente Zoetermeer heeft per ongeluk persoonsgegevens van tientallen bewoners openbaar gemaakt. Bij de publicatie van een raadsdocument over een burgerinitiatief voor meer parkeerruimte in Noordhove werd op 17 juli 2025 een verkeerde bijlage toegevoegd aan het openbare raadsinformatiesysteem. In plaats van het parkeeronderzoek werd het originele burgerinitiatief gepubliceerd, waarin naam, adres, geboortedatum en handtekening van ondertekenaars stonden. De fout werd pas op 21 augustus 2025 ontdekt door een journalist van het AD, waarna de gegevens zijn verwijderd en melding is gedaan bij de Autoriteit Persoonsgegevens. Betrokken bewoners hebben een excuusbrief ontvangen en zijn gewaarschuwd alert te zijn op mogelijk misbruik. (Bron: zoetermeeractief.nl)</description>
-			<guid isPermaLink="false">https://www.zoetermeeractief.nl/nieuwshome/actueel/29294-excuses-van-gemeente-voor-datalek-burgerinitiatief?datalekt=c2de259fe21470233456931518a4bf3ecc230f378d0177aafbde12a4083b01cc</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
 		</item>
