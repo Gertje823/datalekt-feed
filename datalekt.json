@@ -1,23 +1,140 @@
 [
     {
-        "id": "https://profielen.hr.nl/2026/hr-stapt-na-hack-met-studentenaccounts-al-over-maand-over-op-meervoudige-verificatie/?datalekt=8c025b3433b8699492aa7aa0990750c69daa9e445cfc07b6f3576ee801865907",
+        "id": "https://nos.nl/artikel/2600009-buschauffeurs-mogen-niet-permanent-in-beeld-worden-gebracht?datalekt=d35b8fd52391576e24977b27130bc17c166f6eeeb48f5ee5fc195997434a6262",
+        "url": "https://nos.nl/artikel/2600009-buschauffeurs-mogen-niet-permanent-in-beeld-worden-gebracht",
+        "title": "Arriva overtreedt privacyregels door buschauffeurs structureel met camera\u2019s te volgen",
+        "date_published": "2026-01-30T12:17:00Z",
+        "date_modified": "2026-01-30T12:17:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "Arriva | Vervoer en opslag | 29-01-2026 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft vastgesteld dat Arriva buschauffeurs tijdens hun werk niet permanent met camera\u2019s mag filmen, omdat dit in strijd is met de privacywetgeving. Cameratoezicht in het openbaar vervoer is alleen toegestaan wanneer dit strikt noodzakelijk is, bijvoorbeeld bij incidenten zoals agressie of zwartrijden, en mag niet worden gebruikt om werknemers structureel te monitoren of te beoordelen. Naar aanleiding van een klacht heeft Arriva afspraken gemaakt met de toezichthouder om camera\u2019s technisch aan te passen, interne protocollen te wijzigen en medewerkers beter te instrueren over het gebruik van camerabeelden. (Bron: nos.nl)"
+    },
+    {
+        "id": "https://samendigitaalveilig.nl/nieuws/rechter-gebrek-aan-basiscyberbeveiliging-en-afschuiven-op-it-leverancier-houdt-geen-stand/?datalekt=b22923cb1bcddf45af1d7e642951e0d15a2041bcded9540e5edc8b8b71d89091",
+        "url": "https://samendigitaalveilig.nl/nieuws/rechter-gebrek-aan-basiscyberbeveiliging-en-afschuiven-op-it-leverancier-houdt-geen-stand/",
+        "title": "Autobedrijf aansprakelijk na Business Email Compromise door onvoldoende beveiligd e-mailaccount",
+        "date_published": "2026-01-30T12:12:00Z",
+        "date_modified": "2026-01-30T12:12:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "samendigitaalveilig.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende autobedrijf | Groot- en detailhandel | 08-01-2026 | DataLekt.nl: Het Gerechtshof Arnhem-Leeuwarden oordeelde dat een Nederlands autobedrijf voor 50% aansprakelijk is voor schade na een hack van het zakelijke e-mailaccount, waarbij criminelen betaalinstructies vervalsten en een klant \u20ac 26.900 overmaakte naar een buitenlandse rekening. Het hof stelde vast dat het e-mailaccount onvoldoende was beveiligd: eenvoudige en gedeelde wachtwoorden, geen tweefactorauthenticatie en geen aantoonbaar beleid. Het beroep op uitbesteding aan een IT-leverancier werd verworpen; basisbeveiliging blijft eigen verantwoordelijkheid. Ook de klant droeg deels schuld door onvoldoende controle. (Bron: samendigitaalveilig.nl)"
+    },
+    {
+        "id": "https://www.hartvannederland.nl/tech/nieuws/artikelen/beveiligingslek-booking-com-hackers-nepberichten-reizigers?datalekt=673ccc2c2aab3b1cf13755ec42d77dd57764345579ed8a43700c758f0505b271",
+        "url": "https://www.hartvannederland.nl/tech/nieuws/artikelen/beveiligingslek-booking-com-hackers-nepberichten-reizigers",
+        "title": "Booking.com getroffen door grootschalige phishing via gecompromitteerde hotelaccounts waardoor Nederlandse reizigers worden opgelicht",
+        "date_published": "2026-01-29T09:14:00Z",
+        "date_modified": "2026-01-29T09:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "hartvannederland.nl"
+        },
+        "content_html": "",
+        "content_text": "Booking.com | ICT en telecommunicatie | 14-01-2026 | DataLekt.nl: Booking.com kampt met een beveiligingsincident waarbij criminelen via de chatfunctie van het platform nepberichten sturen naar reizigers. De aanvallers hebben inloggegevens van hotels buitgemaakt en gebruiken deze offici\u00eble accounts om gasten te vragen hun creditcardbetaling opnieuw te doen. Omdat de berichten via het vertrouwde boekingskanaal komen en lijken op legitieme communicatie van het hotel, trappen veel reizigers erin. Betalingen komen terecht bij criminelen, die ook toegang krijgen tot persoonlijke contactgegevens. In Nederland zijn honderden reizigers gedupeerd en het aantal meldingen is sterk toegenomen. (Bron: hartvannederland.nl)"
+    },
+    {
+        "id": "https://www.ad.nl/zwolle/mailbox-met-gegevens-van-2283-patienten-van-huisartsen-gehackt~a2e7b7e7/?datalekt=35e59becc09ab6be81b5215b7997e254df526ed6e2d769b9a0a45b2e5ac15d38",
+        "url": "https://www.ad.nl/zwolle/mailbox-met-gegevens-van-2283-patienten-van-huisartsen-gehackt~a2e7b7e7/",
+        "title": "Mailbox van huisartsenorganisatie Medrie in regio Zwolle gehackt waardoor pati\u00ebntgegevens zijn gelekt",
+        "date_published": "2026-01-29T09:10:00Z",
+        "date_modified": "2026-01-29T09:10:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Medrie | Gezondheids- en welzijnszorg | 27-01-2026 | DataLekt.nl: Bij huisartsenorganisatie Medrie is ingebroken in de mailbox van een kantoormedewerker, waardoor een onbekende vermoedelijk enkele dagen toegang had tot e-mailberichten. In de mailbox stond \u00e9\u00e9n document met persoonsgegevens van 2283 pati\u00ebnten van huisartsen in de regio Zwolle, waaronder naam, adres, BSN en huisartsenpraktijk, gebruikt voor de afhandeling van betalingen met zorgverzekeraars. Na ontdekking is de toegang direct afgesloten, is onderzoek gedaan door IT-specialisten en is het datalek gemeld bij de Autoriteit Persoonsgegevens. Er zijn geen aanwijzingen voor misbruik, maar betrokken pati\u00ebnten zijn per brief ge\u00efnformeerd en geadviseerd alert te zijn. (Bron: ad.nl)"
+    },
+    {
+        "id": "https://beveiligingnieuws.nl/ambtenaren-komen-vaak-weg-met-misbruik-persoonsgegevens/?datalekt=b392326411c6a96bca1b8486591b4b3703650f3f52a645e5c99239e55bb366bf",
+        "url": "https://beveiligingnieuws.nl/ambtenaren-komen-vaak-weg-met-misbruik-persoonsgegevens/",
+        "title": "Gemeenten melden structureel geen datalekken bij misbruik van persoonsgegevens door ambtenaren",
+        "date_published": "2026-01-28T13:36:00Z",
+        "date_modified": "2026-01-28T13:36:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "beveiligingnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekend aantal gemeenten | Overheid: Gemeenten | 27-01-2026 | DataLekt.nl: Uit een verkennend onderzoek van de Autoriteit Persoonsgegevens blijkt dat misbruik van persoonsgegevens door ambtenaren bij gemeenten vaak niet wordt herkend of gemeld als datalek, terwijl dit wettelijk verplicht is. Het gaat om situaties waarin ambtenaren onder druk of tegen betaling informatie delen met criminelen, gegevens inzien vanwege priv\u00e9conflicten of uit nieuwsgierigheid persoonsgegevens raadplegen. Jaarlijks ontvangt de toezichthouder slechts van tien tot twintig gemeenten een melding, terwijl het werkelijke aantal incidenten vermoedelijk veel hoger ligt. Veel gevallen komen pas aan het licht na onderzoek door de Rijksrecherche of na meldingen van inwoners. De AP waarschuwt dat dit kan leiden tot ernstige veiligheidsrisico\u2019s en roept gemeenten op tot betere preventie en meldcultuur. (Bron: beveiligingnieuws.nl)"
+    },
+    {
+        "id": "https://www.mareonline.nl/nieuws/datalek-bij-nieuw-administratiesysteem?datalekt=02c65810fe6378ce1e9455211fcb092d00cd6f07e60a75599ee1a0bcef04cb6b",
+        "url": "https://www.mareonline.nl/nieuws/datalek-bij-nieuw-administratiesysteem",
+        "title": "Universiteit Leiden laat opnieuw persoonsgegevens van medewerkers onnodig breed zichtbaar in BAS InSite",
+        "date_published": "2026-01-28T08:56:00Z",
+        "date_modified": "2026-01-28T08:56:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "mareonline.nl"
+        },
+        "content_html": "",
+        "content_text": "Universiteit Leiden | Onderwijs | 26-01-2026 | DataLekt.nl: In het nieuwe administratiesysteem BAS InSite van Universiteit Leiden waren opnieuw persoonsgegevens van medewerkers zichtbaar voor onbevoegde interne gebruikers. Leidinggevenden konden gegevens inzien van alle medewerkers van de universiteit, ook buiten hun eigen afdeling, waaronder geboortedata en contractgegevens zoals urenomvang, looptijd en type aanstelling. Volgens deskundigen zijn dit gegevens die kunnen worden misbruikt voor identiteitsfraude of phishing. De universiteit beschouwde de zichtbaarheid aanvankelijk niet als een datalek, maar gaf wel aan te onderzoeken welke gegevens noodzakelijk zijn. Na publicatie is het systeem aangepast, zodat leidinggevenden alleen nog gegevens van hun eigen medewerkers kunnen inzien. (Bron: mareonline.nl)"
+    },
+    {
+        "id": "https://www.netkwesties.nl/2285/rechtbank-oost-brabant-veroordeeld-privacy.htm?datalekt=06c326cd9ca08d64953300548c89c664cacff8e9f9820d3e93af74724619c2b4",
+        "url": "https://www.netkwesties.nl/2285/rechtbank-oost-brabant-veroordeeld-privacy.htm",
+        "title": "Rechtbank Oost-Brabant overtreedt AVG door herkenbare publicatie in nieuwsbericht over zedenzaak",
+        "date_published": "2026-01-27T09:51:00Z",
+        "date_modified": "2026-01-27T09:51:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "netkwesties.nl"
+        },
+        "content_html": "",
+        "content_text": "Rechtbank Oost-Brabant | Overheid: Rechtspraak | 25-01-2026 | DataLekt.nl: De Rechtbank Oost-Brabant heeft de AVG overtreden door in een nieuwsbericht over een zedenzaak zodanige details te publiceren dat de veroordeelde man en zijn gezin herkenbaar waren. Het bericht werd in mei 2023 verspreid en overgenomen door media, wat leidde tot ingrijpende gevolgen voor een gezinslid, waaronder schorsing door haar werkgever en uiteindelijk be\u00ebindiging van het dienstverband. Na een klacht, ingeschakeld via de Nationale Ombudsman, oordeelde de Hoge Raad in december 2025 dat de rechtbank bij het publiceren van nieuwsberichten eveneens de AVG moet naleven, zeker bij seksuele en strafrechtelijke persoonsgegevens. De rechtbank moest het bericht aanpassen of verwijderen. (Bron: netkwesties.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/misdaad/6383875/gevangenen-en-tbsers-konden-internet-op-door-fout-in-speciale-laptops.html?datalekt=d625fc472b46341f91710bdd3d893fbb2875cf8396f162bff48d97eabebdbc0c",
+        "url": "https://www.nu.nl/misdaad/6383875/gevangenen-en-tbsers-konden-internet-op-door-fout-in-speciale-laptops.html",
+        "title": "Dienst Justiti\u00eble Inrichtingen liet gevangenen en tbs\u2019ers internettoegang krijgen door fout in speciaal verstrekte laptops",
+        "date_published": "2026-01-26T13:59:00Z",
+        "date_modified": "2026-01-26T13:59:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Dienst Justiti\u00eble Inrichtingen (DJI) | Overheid: Agentschappen | 26-01-2026 | DataLekt.nl: Gevangenen en tbs\u2019ers konden vanuit hun cel toegang krijgen tot internet via speciale laptops die door de Dienst Justiti\u00eble Inrichtingen (DJI) waren verstrekt voor het inzien van hun strafdossier. Bij circa 110 van de ongeveer vijfhonderd laptops was de internettoegang niet correct geblokkeerd door een configuratiefout. De fout werd ontdekt tijdens een controle door een beveiligingsmedewerker van een gevangenis. De laptops zijn inmiddels teruggehaald en worden hersteld. Het is niet bekend of gevangenen daadwerkelijk online zijn geweest of welke risico\u2019s dit heeft opgeleverd. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b3bd269d9a22bbd8bb5df50612860efb1c190994a167e7802a0a2b5c1ce350b1",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "KPMG (Nederland) getroffen door ransomware aanval van de criminele organisatie Nova",
+        "date_published": "2026-01-26T13:31:00Z",
+        "date_modified": "2026-01-26T13:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "KPMG | Verhuur en zakelijke dienstverlening | 23-01-2026 | DataLekt.nl: De criminele organisatie Nova heeft op het darkweb aangekondigd dat zij KPMG (Nederland) heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://profielen.hr.nl/2026/hr-stapt-na-hack-met-studentenaccounts-al-over-maand-over-op-meervoudige-verificatie/?datalekt=fd46b13d6112b9a0881d8e62aa0df4d1817bcd16e30ed485ad0467c3ecd3e610",
         "url": "https://profielen.hr.nl/2026/hr-stapt-na-hack-met-studentenaccounts-al-over-maand-over-op-meervoudige-verificatie/",
         "title": "Hogeschool Rotterdam versnelt invoering meervoudige verificatie na hack van studentenaccounts voor phishing",
-        "date_published": "2026-01-22T09:32:00Z",
-        "date_modified": "2026-01-22T09:32:00Z",
+        "date_published": "2026-01-22T08:32:00Z",
+        "date_modified": "2026-01-22T08:32:00Z",
         "language": "nl-nl",
         "author": {
             "name": "hr.nl"
         },
         "content_html": "",
-        "content_text": "Hogeschool Rotterdam | Onderwijs | 20-01-2025 | DataLekt.nl: Eind 2025 zijn tientallen studentenaccounts van de Hogeschool Rotterdam gecompromitteerd en misbruikt voor het versturen van duizenden phishingmails over vermeende crypto-tegoeden. De hack was mogelijk doordat studenten zwakke, hergebruikte wachtwoorden gebruikten die voorkwamen in gelekte wachtwoorddatabases. Volgens de hogeschool is er geen verdere schade ontstaan en zijn geen andere systemen binnengedrongen. Na ontdekking zijn de betrokken accounts geblokkeerd, moesten studenten hun wachtwoord wijzigen en zijn alle HR-accounts gecontroleerd, waarbij ruim 3.000 accounts met zwakke wachtwoorden zijn aangepakt. De Autoriteit Persoonsgegevens is ge\u00efnformeerd en er is aangifte gedaan. Als maatregel voert de hogeschool versneld meervoudige verificatie in voor alle studenten en medewerkers. (Bron: profielen.hr.nl)"
+        "content_text": "Hogeschool Rotterdam | Onderwijs | 20-01-2026 | DataLekt.nl: Eind 2025 zijn tientallen studentenaccounts van de Hogeschool Rotterdam gecompromitteerd en misbruikt voor het versturen van duizenden phishingmails over vermeende crypto-tegoeden. De hack was mogelijk doordat studenten zwakke, hergebruikte wachtwoorden gebruikten die voorkwamen in gelekte wachtwoorddatabases. Volgens de hogeschool is er geen verdere schade ontstaan en zijn geen andere systemen binnengedrongen. Na ontdekking zijn de betrokken accounts geblokkeerd, moesten studenten hun wachtwoord wijzigen en zijn alle HR-accounts gecontroleerd, waarbij ruim 3.000 accounts met zwakke wachtwoorden zijn aangepakt. De Autoriteit Persoonsgegevens is ge\u00efnformeerd en er is aangifte gedaan. Als maatregel voert de hogeschool versneld meervoudige verificatie in voor alle studenten en medewerkers. (Bron: profielen.hr.nl)"
     },
     {
-        "id": "https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/?datalekt=cb69d0341c5c8412c3acd69461fdd2cfe55288c959f3ad20dd69717d30a22699",
+        "id": "https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/?datalekt=30e3dbc43c6e8fdc1b7868f7a85dced6f56136e527ea9b479d72f1085f7de6ba",
         "url": "https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/",
         "title": "Veenkoloniaal Museum in Veendam getroffen door ransomware-aanval van LockBit waarbij gegevens zijn gestolen en versleuteld",
-        "date_published": "2026-01-21T10:20:00Z",
-        "date_modified": "2026-01-22T09:21:00Z",
+        "date_published": "2026-01-21T09:20:00Z",
+        "date_modified": "2026-01-22T08:21:00Z",
         "language": "nl-nl",
         "author": {
             "name": "rtveen.nl"
@@ -26,11 +143,11 @@
         "content_text": "Veenkoloniaal Museum | Kunst, cultuur, sport en recreatie | 20-01-2026 | DataLekt.nl: Het Veenkoloniaal Museum in Veendam is op 7 januari 2026 getroffen door een ransomware-aanval van de groep LockBit. De hackers drongen de computersystemen binnen, versleutelden bestanden en maakten gegevens buit, waaronder foto\u2019s van de collectie, administratie en persoonlijke gegevens. Hierdoor kon het personeel tijdelijk niet bij een deel van de digitale bestanden. Betrokkenen van wie gegevens zijn geraakt, zijn direct ge\u00efnformeerd. Het museum ontving een afpersingsmail, maar weigert te onderhandelen of losgeld te betalen. Dankzij een externe back-up van december en papieren kopie\u00ebn kon herstel plaatsvinden. De exacte oorzaak van de hack wordt nog onderzocht. [Update: Op 20 januari 2026 is bekend geworden dat het incident op 7 januari 2026 plaatsvondt, en dat er geen losgeld is betaald.] (Bron: rtveen.nl)"
     },
     {
-        "id": "https://nos.nl/artikel/2598321-map-met-gegevens-eerste-kamerleden-uit-2016-gevonden-in-friese-kringloopwinkel?datalekt=3760774f2e23ced09a960d452c369743bb02a3573998c4a4de54f2cc095be0c6",
+        "id": "https://nos.nl/artikel/2598321-map-met-gegevens-eerste-kamerleden-uit-2016-gevonden-in-friese-kringloopwinkel?datalekt=2f83397f5270bf19785c967e2ed44f1edde0372f34a747d48a92be829e4e6ffc",
         "url": "https://nos.nl/artikel/2598321-map-met-gegevens-eerste-kamerleden-uit-2016-gevonden-in-friese-kringloopwinkel",
         "title": "Priv\u00e9gegevens van Eerste Kamerleden uit 2016 aangetroffen in kringloopwinkel in Bolsward",
-        "date_published": "2026-01-16T10:56:00Z",
-        "date_modified": "2026-01-16T10:56:00Z",
+        "date_published": "2026-01-16T09:56:00Z",
+        "date_modified": "2026-01-16T09:56:00Z",
         "language": "nl-nl",
         "author": {
             "name": "nos.nl"
@@ -39,11 +156,11 @@
         "content_text": "Eerste Kamer der Staten-Generaal | Overheid: Staten-Generaal | 15-01-2026 | DataLekt.nl: In een kringloopwinkel in Bolsward is een map uit 2016 aangetroffen met mobiele telefoonnummers en priv\u00e9adressen van toenmalige Eerste Kamerleden. De lijst was destijds intern verspreid binnen de Eerste Kamer en niet bedoeld voor openbaarmaking. Hoe het mapje in de winkel terecht is gekomen, is onbekend; ook is niet duidelijk op welk moment en door wie de privacygevoelige informatie is ingezien. Volgens de Autoriteit Persoonsgegevens is sprake van een datalek zodra onbevoegden toegang hebben tot persoonsgegevens. De Eerste Kamer onderzoekt de impact en bekijkt of melding bij de toezichthouder nodig is. (Bron: nos.nl)"
     },
     {
-        "id": "https://lc.nl/economie/een-vergeten-vinkje-leidde-tot-facturen-van-honderdduizenden-euro-s-bij-freez.it-uit-bolsward-48171064.html?datalekt=78692db0c90323e506b450549f4926e0f1962a3b6d221e77446ab775e9eb47ce",
+        "id": "https://lc.nl/economie/een-vergeten-vinkje-leidde-tot-facturen-van-honderdduizenden-euro-s-bij-freez.it-uit-bolsward-48171064.html?datalekt=910de13886fa66113b48b5754afaaf746d866907c40429ed79fc5e2b5fa52a19",
         "url": "https://lc.nl/economie/een-vergeten-vinkje-leidde-tot-facturen-van-honderdduizenden-euro-s-bij-freez.it-uit-bolsward-48171064.html",
         "title": "Freez.it uit Bolsward krijgt hoge cloudkosten na hack door ontbrekende MFA-beveiliging in Azure-omgeving",
-        "date_published": "2026-01-16T10:28:00Z",
-        "date_modified": "2026-01-16T10:28:00Z",
+        "date_published": "2026-01-16T09:28:00Z",
+        "date_modified": "2026-01-16T09:28:00Z",
         "language": "nl-nl",
         "author": {
             "name": "lc.nl"
@@ -52,11 +169,11 @@
         "content_text": "Freez.it | ICT en telecommunicatie | 14-01-2026 | DataLekt.nl: Freez.it uit Bolsward kreeg in 2022 te maken met een hack in een door het bedrijf beheerde Microsoft Azure-omgeving, veroorzaakt door het niet activeren van multifactorauthenticatie (MFA). Een onbekende aanvaller wist circa vijf weken lang tientallen servers aan te maken, vermoedelijk om cryptovaluta te minen, wat leidde tot extreem dataverbruik. Klantgegevens zijn niet ingezien, maar de kosten liepen op tot honderdduizenden euro\u2019s. Leverancier Copaco en verzekeraar Chubb bleken niet aansprakelijk of dekkend, waarna de rechter oordeelde dat Freez.it zelf verantwoordelijk was voor de schade. (Bron: lc.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/243482/interrail-meldt-datalek-waarbij-mogelijk-ids-en-iban-nummers-zijn-gestolen.html?datalekt=96f5a19f35d187367f461108dc17adb8a7866860f9a566760f12f19712413890",
+        "id": "https://tweakers.net/nieuws/243482/interrail-meldt-datalek-waarbij-mogelijk-ids-en-iban-nummers-zijn-gestolen.html?datalekt=828dbc5419c973bc293cada0e5c7709d80c87c8233c19b30331181040a8559d8",
         "url": "https://tweakers.net/nieuws/243482/interrail-meldt-datalek-waarbij-mogelijk-ids-en-iban-nummers-zijn-gestolen.html",
         "title": "Interrail krijgt te maken met datalek waarbij klantgegevens waaronder ID-informatie en IBAN-nummers mogelijk zijn buitgemaakt",
-        "date_published": "2026-01-14T16:00:00Z",
-        "date_modified": "2026-01-14T16:00:00Z",
+        "date_published": "2026-01-14T15:00:00Z",
+        "date_modified": "2026-01-14T15:00:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -65,11 +182,11 @@
         "content_text": "Interrail | Vervoer en opslag | 12-01-2026 | DataLekt.nl: Interrail heeft gemeld dat er een beveiligingslek in zijn systemen is ontdekt waardoor klantgegevens toegankelijk zijn geweest voor onbevoegden. Het gaat vermoedelijk om namen, e-mailadressen, telefoonnummers, woonadressen en geboortedata. Als klanten kopie\u00ebn of gegevens van paspoorten of ID-kaarten hebben aangeleverd, kunnen deze eveneens zijn buitgemaakt. Daarnaast bestaat de mogelijkheid dat IBAN-nummers en gezondheidsgegevens zijn gelekt, zo meldt de Europese Commissie in het kader van het DiscoverEU-programma. Interrail onderzoekt nog hoeveel klanten zijn getroffen en heeft geen aanwijzingen dat de gegevens zijn misbruikt. (Bron: tweakers.net)"
     },
     {
-        "id": "https://tweakers.net/nieuws/243508/nederlands-wellnesscentrum-waarschuwt-gasten-voor-gerichte-phishing-via-whatsapp.html?datalekt=701ed7e025aaead9bb474d419b446623a6eec6644869ef13a91a5a2bd0bd9536",
+        "id": "https://tweakers.net/nieuws/243508/nederlands-wellnesscentrum-waarschuwt-gasten-voor-gerichte-phishing-via-whatsapp.html?datalekt=edb442eb06f6f64029043b2bebbb765ac6af34fe22dcfd0520ba7535283feb8a",
         "url": "https://tweakers.net/nieuws/243508/nederlands-wellnesscentrum-waarschuwt-gasten-voor-gerichte-phishing-via-whatsapp.html",
         "title": "Thermae 2000 waarschuwt gasten na datalek dat wordt misbruikt voor gerichte phishing via WhatsApp",
-        "date_published": "2026-01-13T11:35:00Z",
-        "date_modified": "2026-01-13T11:35:00Z",
+        "date_published": "2026-01-13T10:35:00Z",
+        "date_modified": "2026-01-13T10:35:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -78,11 +195,11 @@
         "content_text": "Thermae 2000 | Kunst, cultuur, sport en recreatie | 12-01-2026 | DataLekt.nl: Het Limburgse wellnesscentrum Thermae 2000 heeft gasten gewaarschuwd voor phishingberichten via WhatsApp die niet van het bedrijf afkomstig zijn. Aanvallers stuurden berichten met details over reserveringen, wat erop wijst dat onbevoegden mogelijk toegang hadden tot een bestand met NAW-, e-mail- en telefoongegevens van een deel van de gasten. Volgens Thermae 2000 zijn er geen aanwijzingen dat betaalgegevens zijn buitgemaakt, al lijkt factuurinformatie te zijn ingezien. Het incident werd ontdekt nadat gasten melding maakten van verdachte berichten. Het bedrijf heeft maatregelen genomen, extra beveiliging doorgevoerd en een onderzoek gestart. (Bron: tweakers.net)"
     },
     {
-        "id": "https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/?datalekt=43c6d01d00e9110a4a60ff49a0f0d1d73cdba7542109a29a44bc87d670a83952",
+        "id": "https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/?datalekt=fa58336a0a523838baaa5695274d7adb9c1cf849220c0057ac1d4a5f7167fda1",
         "url": "https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/",
         "title": "Man uit Delft veroorzaakte grootschalige verstoring van het noodnummer 112 met geautomatiseerde oproepen",
-        "date_published": "2025-12-13T17:48:00Z",
-        "date_modified": "2026-01-10T14:41:00Z",
+        "date_published": "2025-12-13T16:48:00Z",
+        "date_modified": "2026-01-10T13:41:00Z",
         "language": "nl-nl",
         "author": {
             "name": "beveiligingnieuws.nl"
@@ -91,11 +208,11 @@
         "content_text": "De Landelijke Meldkamer Samenwerking | Overheid: Organisatieonderdeel | 11-12-2025 | DataLekt.nl: Eind 2022 heeft een 47-jarige man uit Delft meer dan 11.000 geautomatiseerde valse oproepen naar het noodnummer 112 verstuurd, waardoor de bereikbaarheid van politie en hulpdiensten ernstig werd verstoord. Hij maakte gebruik van simboxen, computers en anonieme 06-nummers om het noodnummer te overbelasten, op een manier die vergelijkbaar is met een DDoS-aanval. Volgens het Openbaar Ministerie handelde hij uit wraak na een zakelijk conflict met drie zakenpartners. Door de massale oproepen liepen wachttijden gevaarlijk op en konden echte noodmeldingen moeilijk doorkomen, met mogelijk levensgevaarlijke gevolgen. [Update: Op 8 januari 2026 is bekend geworden dat de man is veroordeeld tot een voorwaardelijke gevangenisstraf van acht maanden en een eerder opgelegde boete hoeft hij niet te betalen.] (Bron: beveiligingnieuws.nl)"
     },
     {
-        "id": "https://bron.fontys.nl/datalek-bij-universiteit-leiden/?datalekt=c56fd2ffb5c81257c2476c194ef9a8b2de0de0ad77decaf93c191d57cedd75ee",
+        "id": "https://bron.fontys.nl/datalek-bij-universiteit-leiden/?datalekt=2ed17628a7a0d3e2a9187ade75305d7c8cbdc8b8d2452e0f536711562c5c8a30",
         "url": "https://bron.fontys.nl/datalek-bij-universiteit-leiden/",
         "title": "Datalek bij Universiteit Leiden door fout bij overstap naar nieuw administratiesysteem",
-        "date_published": "2026-01-09T10:44:00Z",
-        "date_modified": "2026-01-09T10:44:00Z",
+        "date_published": "2026-01-09T09:44:00Z",
+        "date_modified": "2026-01-09T09:44:00Z",
         "language": "nl-nl",
         "author": {
             "name": "fontys.nl"
@@ -104,11 +221,11 @@
         "content_text": "Universiteit Leiden | Onderwijs | 07-01-2026 | DataLekt.nl: Bij de overstap naar een nieuw financieel en administratief computersysteem zijn bij Universiteit Leiden tijdelijk persoonsgegevens van medewerkers voor alle universitaire medewerkers zichtbaar geworden. Het ging onder meer om namen, huisadressen en in sommige gevallen telefoonnummers van personen die een declaratie hadden ingediend, waaronder ook bestuursleden en decanen. Het datalek ontstond op maandagochtend en werd door de ict-afdeling na enkele uren ontdekt en verholpen. De universiteit is wettelijk verplicht het incident te melden bij de Autoriteit Persoonsgegevens. Er zijn geen aanwijzingen dat de gegevens zijn misbruikt. (Bron: fontys.nl)"
     },
     {
-        "id": "https://www.omroepzeeland.nl/nieuws/18098414/e-mailaccounts-leerlingen-zeeuws-vlaanderen-misbruikt-voor-versturen-phishingmails?datalekt=b5e0563c5b80b3286656a8a9d6c785e1aa814e21ea673ea472e5dd9aa9b1aa35",
+        "id": "https://www.omroepzeeland.nl/nieuws/18098414/e-mailaccounts-leerlingen-zeeuws-vlaanderen-misbruikt-voor-versturen-phishingmails?datalekt=20b59bc093b6af6e74ad9ec4c7037a2aeb0899ea074510c61066755a661958f7",
         "url": "https://www.omroepzeeland.nl/nieuws/18098414/e-mailaccounts-leerlingen-zeeuws-vlaanderen-misbruikt-voor-versturen-phishingmails",
         "title": "E-mailaccounts van leerlingen bij Voortgezet Onderwijs Zeeuws-Vlaanderen misbruikt voor phishing na hack",
-        "date_published": "2026-01-08T14:35:00Z",
-        "date_modified": "2026-01-08T14:35:00Z",
+        "date_published": "2026-01-08T13:35:00Z",
+        "date_modified": "2026-01-08T13:35:00Z",
         "language": "nl-nl",
         "author": {
             "name": "omroepzeeland.nl"
@@ -117,11 +234,11 @@
         "content_text": "3 onbekende middelbare scholen Zeeuws-Vlaanderen | Onderwijs | 06-01-2026 | DataLekt.nl: Bij een hack op de Office 365-omgeving van drie middelbare scholen in Zeeuws-Vlaanderen zijn e-mailaccounts van leerlingen gecompromitteerd. Twee accounts zijn daadwerkelijk misbruikt om phishingmails te versturen en van nog eens twaalf accounts zijn de wachtwoorden buitgemaakt. Volgens de scholen, verenigd in Voortgezet Onderwijs Zeeuws-Vlaanderen, zijn er geen aanwijzingen dat cijfers, leerlingendossiers of andere onderwijsgegevens zijn ingezien of gestolen. Mogelijk zijn wel adresboeken van veertien accounts buitgemaakt. De scholen doen onderzoek en hebben maatregelen genomen om herhaling te voorkomen. (Bron: omroepzeeland.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=5c3d9f773e5a520e1b44ecb89151562ccb6ffb471566c47fdaa3c42fe9d0f206",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=93f37a6003946e4c583834b6c1c3c987ffab224e16838b7b1bdf68f3284e308f",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Van Venrooy getroffen door ransomware aanval van de criminele organisatie Safepay",
-        "date_published": "2025-12-29T14:47:00Z",
-        "date_modified": "2025-12-29T14:47:00Z",
+        "date_published": "2025-12-29T13:47:00Z",
+        "date_modified": "2025-12-29T13:47:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ccinfo.nl"
@@ -130,11 +247,11 @@
         "content_text": "Van Venrooy | Bouwnijverheid | 28-12-2025 | DataLekt.nl: De criminele organisatie Safepay heeft op het darkweb aangekondigd dat zij Van Venrooy heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=f866b7295b2f9773df43ee6b547adadebb80e873c7571b15b25dffe472c8be50",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=87a871417652c3c0dd6ed343c83756a5deb0eb405d952b2446efca286d2dfd51",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Fresh2You getroffen door ransomware aanval van de criminele organisatie Lockbit5",
-        "date_published": "2025-12-29T14:46:00Z",
-        "date_modified": "2025-12-29T14:46:00Z",
+        "date_published": "2025-12-29T13:46:00Z",
+        "date_modified": "2025-12-29T13:46:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ccinfo.nl"
@@ -143,11 +260,11 @@
         "content_text": "Fresh2You | Groot- en detailhandel | 27-12-2025 | DataLekt.nl: De criminele organisatie Lockbit5 heeft op het darkweb aangekondigd dat zij Fresh2You heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=52ecf4e5330ac5e7c80050e478dd02148578543ced313006db5c3732f2250e74",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=e4e5707e9f6e2c1cabfbd4c2eb00f4f0c317896845fc5f3b4302d7d376c1fd18",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "RD Metals getroffen door ransomware aanval van de criminele organisatie Lockbit5",
-        "date_published": "2025-12-29T14:45:00Z",
-        "date_modified": "2025-12-29T14:45:00Z",
+        "date_published": "2025-12-29T13:45:00Z",
+        "date_modified": "2025-12-29T13:45:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ccinfo.nl"
@@ -156,11 +273,11 @@
         "content_text": "RD Metals | Water en afvalbeheer | 27-12-2025 | DataLekt.nl: De criminele organisatie Lockbit5 heeft op het darkweb aangekondigd dat zij RD Metals heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.bndestem.nl/hoeksche-waard/papieren-van-1200-overledenen-lagen-voor-het-grijpen-partij-in-nissewaard-eist-opheldering~ae4ae439/?datalekt=4ff697d807e347d428626b9215a62382eb5f852e02e9c058d5abed6d790d30d0",
+        "id": "https://www.bndestem.nl/hoeksche-waard/papieren-van-1200-overledenen-lagen-voor-het-grijpen-partij-in-nissewaard-eist-opheldering~ae4ae439/?datalekt=9a81ec2f9d3e34a1bfc8ad80c3f4627677e0e593a5f27bc0fe3ee085f58939a1",
         "url": "https://www.bndestem.nl/hoeksche-waard/papieren-van-1200-overledenen-lagen-voor-het-grijpen-partij-in-nissewaard-eist-opheldering~ae4ae439/",
         "title": "Gemeente Nissewaard laat documenten van ruim 1200 overledenen onbeveiligd achter in openstaand baarhuisje",
-        "date_published": "2025-12-25T10:39:00Z",
-        "date_modified": "2025-12-25T10:39:00Z",
+        "date_published": "2025-12-25T09:39:00Z",
+        "date_modified": "2025-12-25T09:39:00Z",
         "language": "nl-nl",
         "author": {
             "name": "bndestem.nl"
@@ -169,11 +286,11 @@
         "content_text": "Gemeente Nissewaard | Overheid: Gemeenten | 23-12-2025 | DataLekt.nl: In een baarhuisje op de begraafplaats in Zuidland bleken documenten met persoonsgegevens van ongeveer 1200 overledenen onbeveiligd in een openstaande archiefkast te liggen, inclusief aanvullende gegevens van negentien personen met onder meer adres, telefoonnummer en BSN-nummer. Het slot van het baarhuisje was defect, waardoor iedereen toegang had. De situatie werd pas opgelost nadat partij VOOR Nissewaard een foto van de openstaande kast op Facebook plaatste, waarna de gemeente dezelfde dag het slot verving. De oorzaak ligt in onvoldoende fysieke beveiliging en nalatigheid bij opvolging van meldingen over het kapotte slot. (Bron: bndestem.nl)"
     },
     {
-        "id": "https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack?datalekt=688d3a2291cd013d0a459728c4e823bd72477998d06fe6859f4941f0b45e602d",
+        "id": "https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack?datalekt=53c650dd54075b50b2d9f0655ee03aa6e6a1443a2093da0ba0524c4984ed877d",
         "url": "https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack",
         "title": "ADO Den Haag getroffen door hack met beperkt datalek",
-        "date_published": "2025-12-24T10:55:00Z",
-        "date_modified": "2025-12-24T10:55:00Z",
+        "date_published": "2025-12-24T09:55:00Z",
+        "date_modified": "2025-12-24T09:55:00Z",
         "language": "nl-nl",
         "author": {
             "name": "clubachterdeduinen.nl"
@@ -182,11 +299,11 @@
         "content_text": "ADO Den Haag | Kunst, cultuur, sport en recreatie | 17-12-2025 | DataLekt.nl: ADO Den Haag heeft in de zomer van 2025 te maken gehad met een hack waarbij een beperkt datalek is ontstaan. Dat blijkt uit het jaarverslag over het afgelopen seizoen. De club meldt dat onbekenden ongeautoriseerde toegang tot systemen hebben gekregen, maar geeft geen details over welke gegevens zijn buitgemaakt. Volgens ADO is het incident in nauw overleg met de IT-partner afgehandeld, zijn alle betrokkenen tijdig ge\u00efnformeerd en is melding gedaan bij de Autoriteit Persoonsgegevens. Daarnaast zijn procedures gevolgd om toekomstige risico\u2019s te beperken. (Bron: clubachterdeduinen.nl)"
     },
     {
-        "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming?datalekt=16a06df305fb5cd3618f04d443a8cd0d253854f8d7cdd3434295ac1c91067178",
+        "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming?datalekt=75ae85585ffe5e1c1fbd3ba6b4763253b9e720a37c15b676c02505cd4ba50d5f",
         "url": "https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming",
         "title": "Gemeente Doesburg schiet structureel tekort in AVG-naleving bij toezicht door Autoriteit Persoonsgegevens",
-        "date_published": "2025-12-22T11:22:00Z",
-        "date_modified": "2025-12-22T11:22:00Z",
+        "date_published": "2025-12-22T10:22:00Z",
+        "date_modified": "2025-12-22T10:22:00Z",
         "language": "nl-nl",
         "author": {
             "name": "autoriteitpersoonsgegevens.nl"
@@ -195,11 +312,11 @@
         "content_text": "Gemeente Doesburg | Overheid: Gemeenten | 18-12-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) concludeert na een toezichtsbezoek dat de gemeente Doesburg de basis van de AVG-naleving niet op orde heeft. De AP constateerde onder meer een verouderd en onvolledig verwerkingsregister, ontbrekende of onvoldoende uitgevoerde DPIA\u2019s en een periode waarin geen functionaris gegevensbescherming was aangewezen, ondanks de wettelijke verplichting daartoe. Ook is de beschikbare FG-capaciteit volgens de AP onvoldoende om de wettelijke taken uit te voeren. De tekortkomingen hangen samen met beperkte capaciteit bij de kleine gemeente en het lopende herindelingsproces. De AP heeft aanbevelingen gedaan, maar geen boete opgelegd. (Bron: autoriteitpersoonsgegevens.nl)"
     },
     {
-        "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming?datalekt=35c2d80cb5c1b1cea2452470ab0d35447c1b703966f6782f64b0f659631aea69",
+        "id": "https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming?datalekt=2b22a71dae1c185e471948a0f1c5591dbd7ab26ff32a6650d756084906d4fc7b",
         "url": "https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming",
         "title": "Gemeente Breda voldoet onvoldoende aan AVG-eisen rond DPIA\u2019s, verwerkingsregister en rol van FG",
-        "date_published": "2025-12-22T11:20:00Z",
-        "date_modified": "2025-12-22T11:20:00Z",
+        "date_published": "2025-12-22T10:20:00Z",
+        "date_modified": "2025-12-22T10:20:00Z",
         "language": "nl-nl",
         "author": {
             "name": "autoriteitpersoonsgegevens.nl"
@@ -208,11 +325,11 @@
         "content_text": "Gemeente Breda | Overheid: Gemeenten | 18-12-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft na een toezichtsbezoek vastgesteld dat de gemeente Breda niet volledig voldoet aan de verplichtingen uit de Algemene Verordening Gegevensbescherming (AVG). De tekortkomingen hebben betrekking op een onvolledig en deels onjuist verwerkingsregister, het ontbreken van wettelijk verplichte DPIA\u2019s voor diverse verwerkingen en een beperkte structurele betrokkenheid van de functionaris gegevensbescherming (FG) bij het bestuur. Hoewel ook positieve bevindingen zijn gedaan, concludeert de AP dat met name het DPIA-proces verbetering behoeft. De AP heeft Breda niet beboet, maar wel niet-vrijblijvende aanbevelingen gedaan om de naleving van de AVG te verbeteren. (Bron: autoriteitpersoonsgegevens.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/918012/Gemeente+Eindhoven+lekt+persoonlijke+gegevens+inwoners+via+AI-websites?datalekt=e926c2c17604da666e95e73743bf5918870f2ad38dcc92790fab3ad84440bf9e",
+        "id": "https://www.security.nl/posting/918012/Gemeente+Eindhoven+lekt+persoonlijke+gegevens+inwoners+via+AI-websites?datalekt=351c72fd2203d64f44af295b0e3332df5b03fc5d4c5ef7cab64ef517d73c0f63",
         "url": "https://www.security.nl/posting/918012/Gemeente+Eindhoven+lekt+persoonlijke+gegevens+inwoners+via+AI-websites",
         "title": "Gemeente Eindhoven lekte gevoelige persoonsgegevens van inwoners en medewerkers via openbare AI-websites",
-        "date_published": "2025-12-19T10:58:00Z",
-        "date_modified": "2025-12-19T10:58:00Z",
+        "date_published": "2025-12-19T09:58:00Z",
+        "date_modified": "2025-12-19T09:58:00Z",
         "language": "nl-nl",
         "author": {
             "name": "security.nl"
@@ -221,11 +338,11 @@
         "content_text": "Gemeente Eindhoven | Overheid: Gemeenten | 19-12-2025 | DataLekt.nl: De gemeente Eindhoven heeft in de periode van 23 september tot 23 oktober 2025 duizenden interne bestanden met gevoelige en bijzondere persoonsgegevens ge\u00fcpload naar openbare AI-websites, waaronder mogelijk ChatGPT. Dit gebeurde doordat medewerkers deze AI-diensten gebruikten voor hun werk. Onderzoekers stellen dat het gaat om gegevens van vermoedelijk veel betrokkenen, waaronder informatie over jeugdzorg, WMO-dossiers, BSN-nummers, medische en mentale gezondheid en interne personeelsdocumenten. De gemeente kan niet vaststellen van wie de gegevens zijn gelekt en informeert betrokkenen daarom niet individueel. Misbruik van de data is volgens experts niet uitgesloten. Het datalek is op 23 oktober gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/917758/Politie%3A+verdachte+omzeilde+met+deepfakes+identiteitsverificatie+van+bank?datalekt=6f5fd2a6a673d6398294ae24a3497384f4ca0dfb5a7d13030aef31e55f3f77d5",
+        "id": "https://www.security.nl/posting/917758/Politie%3A+verdachte+omzeilde+met+deepfakes+identiteitsverificatie+van+bank?datalekt=f2bd408f782c01122f6d82f5fe090149e1d6f13a00befa0b3e656f6ed45b2cb6",
         "url": "https://www.security.nl/posting/917758/Politie%3A+verdachte+omzeilde+met+deepfakes+identiteitsverificatie+van+bank",
         "title": "Digitale identiteitsverificatie van een Nederlandse bank omzeild via deepfakes voor het openen van rekeningen",
-        "date_published": "2025-12-17T15:56:00Z",
-        "date_modified": "2025-12-17T15:56:00Z",
+        "date_published": "2025-12-17T14:56:00Z",
+        "date_modified": "2025-12-17T14:56:00Z",
         "language": "nl-nl",
         "author": {
             "name": "security.nl"
@@ -234,11 +351,11 @@
         "content_text": "Onbekende bank | Financi\u00eble diensten | 17-12-2025 | DataLekt.nl: De politie heeft een 34-jarige man uit Amsterdam aangehouden die met behulp van deepfake-technieken het digitale identiteitsverificatieproces van een Nederlandse bank wist te omzeilen. Door misleiding van slachtoffers verkreeg hij identiteitsdocumenten, die hij vervolgens manipuleerde om als andere personen toegang te krijgen tot het banksysteem en bankrekeningen te openen. In totaal werden 46 rekeningen op naam van derden geopend en gebruikt voor fraude. Er is geen sprake van een technische systeeminbraak of bevestigd datalek bij de bank; wel is een beveiligingsproces binnen het informatiesysteem succesvol omzeild. Betrokken partijen hebben maatregelen genomen. (Bron: security.nl)"
     },
     {
-        "id": "https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/?datalekt=2bf5780fb65ea3685891d786a85ac40d0e97f9fd89d2f1fe1ededcfad986ccce",
+        "id": "https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/?datalekt=84d0eb76d45552a029571a003eef4bef6178f97283ddd05b9ec806a548a5e947",
         "url": "https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/",
         "title": "Datalek bij Hogeschool van Arnhem en Nijmegen treft half miljoen mensen",
-        "date_published": "2021-10-01T00:00:00Z",
-        "date_modified": "2025-12-17T15:51:00Z",
+        "date_published": "2021-09-30T22:00:00Z",
+        "date_modified": "2025-12-17T14:51:00Z",
         "language": "nl-nl",
         "author": {
             "name": "erasmusmagazine.nl"
@@ -247,11 +364,11 @@
         "content_text": "Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 03-09-2021 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) heeft een groot datalek onderzocht dat op 1 september aan het licht kwam. Een hacker verkreeg toegang tot gegevens van studenten, medewerkers en andere contacten via een webformulier. Hoewel de HAN weigerde losgeld te betalen, werden de gegevens online gepubliceerd. Het merendeel van de gelekte gegevens betrof algemene persoonsinformatie, maar in sommige gevallen ging het om gevoelige data zoals BSN-nummers en politieke voorkeuren. De HAN heeft haar excuses aangeboden en informeert de getroffenen over het incident. [Update: Op 6 juli 2024 is bekend geworden dat 5 studenten een schadevergoeding van in totaal \u20ac 1800.] [Update: Op 17 december 2025 is bekend geworden dat de Autoriteit Persoonsgegevens de Hogeschool van Arnhem en Nijmegen een boete van 175.000 euro heeft opgelegd wegens onvoldoende beveiliging van persoonsgegevens, waaronder kwetsbaarheid voor SQL-injectie en het onveilig opslaan van wachtwoorden.] (Bron: erasmusmagazine.nl, tweakers.net)"
     },
     {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=8067c28345c78670cf0e8010f15233ea380afd263459b8a98b9779c6d5a06976",
+        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=2a4b900d031690bf57fac52c1cce9972ef3b33533d084f5df2c90e48b4612161",
         "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
         "title": "Bedrijfsgevoelige gegevens van REVA Groep gelekt bij aanbesteding Wmo-vervoer",
-        "date_published": "2025-12-13T18:19:00Z",
-        "date_modified": "2025-12-13T18:19:00Z",
+        "date_published": "2025-12-13T17:19:00Z",
+        "date_modified": "2025-12-13T17:19:00Z",
         "language": "nl-nl",
         "author": {
             "name": "streekstadcentraal.nl"
@@ -260,11 +377,11 @@
         "content_text": "REVA Groep | Vervoer en opslag | 11-12-2025 | DataLekt.nl: Tijdens een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 is vertrouwelijke bedrijfsinformatie van REVA Groep onbedoeld openbaar beschikbaar gekomen via TenderNed. Door het niet correct markeren van bijlagen als vertrouwelijk konden andere inschrijvers inzicht krijgen in kostprijsberekeningen, marges en personeelsinzet. Een concurrerende vervoerder heeft deze informatie daadwerkelijk ingezien. Het gerechtshof stelde vast dat de betrokken gemeenten ernstig onzorgvuldig hebben gehandeld en dat REVA Groep hierdoor aantoonbare schade heeft geleden, waaronder misgelopen winst, juridische kosten en reputatieschade, waarvoor een schadevergoeding is toegekend. (Bron: streekstadcentraal.nl)"
     },
     {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=7f9326d4fa869f8ed86d6ccfb02e0ad2d9f755970297d1799e60ff2b265a1d13",
+        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=52d2730fd2f7ce26bb049422525f90929a7a717a889e0ddb9cfd6960b3d3d118",
         "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
         "title": "Vertrouwelijke bedrijfsinformatie van ZCN Vervoer openbaar door fout bij gemeentelijke aanbesteding",
-        "date_published": "2025-12-13T18:18:00Z",
-        "date_modified": "2025-12-13T18:18:00Z",
+        "date_published": "2025-12-13T17:18:00Z",
+        "date_modified": "2025-12-13T17:18:00Z",
         "language": "nl-nl",
         "author": {
             "name": "streekstadcentraal.nl"
@@ -273,11 +390,11 @@
         "content_text": "ZCN Vervoer | Vervoer en opslag | 11-12-2025 | DataLekt.nl: Bij een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 is vertrouwelijke bedrijfsinformatie van ZCN Vervoor onbedoeld openbaar gemaakt op aanbestedingsplatform TenderNed. Door een fout van de betrokken gemeenten werden bijlagen met kostprijsberekeningen, tariefopbouw en personeelsinzet niet als vertrouwelijk gemarkeerd. Hierdoor konden andere geregistreerde gebruikers, waaronder een concurrerende vervoerder, de gegevens inzien. Het gerechtshof oordeelde dat de gemeenten ernstig onzorgvuldig hebben gehandeld en dat ZCN hierdoor schade heeft geleden, waaronder misgelopen winst, juridische kosten en reputatieschade, waarvoor een schadevergoeding is toegekend. (Bron: streekstadcentraal.nl)"
     },
     {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=acc58414e864cf1eecfc3025f8265ea2c0de26ee3a4f446ef7088d6289b927b5",
+        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=1b31eb1a757a196311f7d7d3923dd9d50c32e8487fe76b40c5a5c753efe7bc90",
         "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
         "title": "Gemeente Langedijk betrokken bij datalek tijdens aanbesteding Wmo-vervoer",
-        "date_published": "2025-12-13T18:17:00Z",
-        "date_modified": "2025-12-13T18:17:00Z",
+        "date_published": "2025-12-13T17:17:00Z",
+        "date_modified": "2025-12-13T17:17:00Z",
         "language": "nl-nl",
         "author": {
             "name": "streekstadcentraal.nl"
@@ -286,11 +403,11 @@
         "content_text": "Gemeente Langedijk | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: De voormalige gemeente Langedijk, inmiddels opgegaan in Dijk en Waard, nam deel aan een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 waarbij vertrouwelijke bedrijfsinformatie van vervoerders ZCN Totaalvervoer en Reva Groep onbedoeld openbaar werd gemaakt via TenderNed. Concurrenten konden inzicht krijgen in kostenstructuren en marges. Het gerechtshof oordeelde dat de betrokken gemeenten ernstig onzorgvuldig hebben gehandeld en kende een schadevergoeding toe voor misgelopen winst en andere schadeposten. (Bron: streekstadcentraal.nl)"
     },
     {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=428c54bf2ebd747e2d1cb30177ca0c6c0e9f2ba6ebb8282505932cae7624e621",
+        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=71e4f826d12a6cdac63a8d69cd10d749ca6ee29592425c5ccd6ed5170d35cb8d",
         "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
         "title": "Gemeente Uitgeest medeaansprakelijk voor datalek bij Wmo-aanbesteding",
-        "date_published": "2025-12-13T18:16:00Z",
-        "date_modified": "2025-12-13T18:16:00Z",
+        "date_published": "2025-12-13T17:16:00Z",
+        "date_modified": "2025-12-13T17:16:00Z",
         "language": "nl-nl",
         "author": {
             "name": "streekstadcentraal.nl"
@@ -299,11 +416,11 @@
         "content_text": "Gemeente Uitgeest | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: De gemeente Uitgeest was \u00e9\u00e9n van de zes gemeenten die in 2015 gezamenlijk een Europese aanbesteding voor Wmo- en leerlingenvervoer uitvoerden waarbij vertrouwelijke informatie van vervoerders ZCN Totaalvervoer en Reva Groep openbaar werd gemaakt. Door een fout in de aanbestedingsprocedure werden gevoelige bijlagen op TenderNed niet afgeschermd. Het gerechtshof stelde vast dat dit ernstige onzorgvuldigheid betrof en dat de ontstane schade voor de vervoerders rechtstreeks voortkwam uit dit datalek. (Bron: streekstadcentraal.nl)"
     },
     {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=0a4496f2575808e2527aaf38f21db56fa1c7766b7727a730ea9b71de7e71e9c8",
+        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=38c7b447793fd2ccc23e5dc8eb412d5e12da2d338dc20fa40aa8a6717f92ae99",
         "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
         "title": "Gemeente Heiloo betrokken bij openbaar maken vertrouwelijke aanbestedingsgegevens",
-        "date_published": "2025-12-13T18:15:00Z",
-        "date_modified": "2025-12-13T18:15:00Z",
+        "date_published": "2025-12-13T17:15:00Z",
+        "date_modified": "2025-12-13T17:15:00Z",
         "language": "nl-nl",
         "author": {
             "name": "streekstadcentraal.nl"
@@ -312,11 +429,11 @@
         "content_text": "Gemeente Heiloo | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: In 2015 deed de gemeente Heiloo mee aan een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer waarbij vertrouwelijke gegevens van vervoerders ZCN Totaalvervoer en Reva Groep onbedoeld openbaar beschikbaar kwamen op TenderNed. Kostprijsberekeningen, tariefopbouw en personeelsinformatie werden niet als vertrouwelijk aangemerkt en konden door concurrenten worden ingezien. Het gerechtshof oordeelde dat de deelnemende gemeenten ernstig onzorgvuldig hebben gehandeld en kende een schadevergoeding toe wegens de gevolgen van dit datalek. (Bron: streekstadcentraal.nl)"
     },
     {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=95d0ae4f774092604326c642a93e5b49b5562fcb98be84a4048585e819b0ec71",
+        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=7031f4309ff3050af29c6bbe1f6dea5b658af8ef225fd6c2593c0275d91890af",
         "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
         "title": "Gemeente Castricum medeverantwoordelijk voor datalek bij aanbesteding Wmo-vervoer",
-        "date_published": "2025-12-13T18:14:00Z",
-        "date_modified": "2025-12-13T18:14:00Z",
+        "date_published": "2025-12-13T17:14:00Z",
+        "date_modified": "2025-12-13T17:14:00Z",
         "language": "nl-nl",
         "author": {
             "name": "streekstadcentraal.nl"
@@ -325,11 +442,11 @@
         "content_text": "Gemeente Castricum | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: De gemeente Castricum nam deel aan een gezamenlijke aanbesteding voor Wmo- en leerlingenvervoer in 2015 waarbij vertrouwelijke bedrijfsinformatie van vervoerders ZCN Totaalvervoer en Reva Groep per ongeluk openbaar werd gemaakt via TenderNed. Door het ontbreken van de juiste vertrouwelijkheidsinstellingen waren gevoelige bijlagen maandenlang toegankelijk voor andere inschrijvers. Volgens het gerechtshof hebben de betrokken gemeenten ernstig onzorgvuldig gehandeld, waardoor de vervoerders schade opliepen in latere aanbestedingen en recht hebben op een schadevergoeding. (Bron: streekstadcentraal.nl)"
     },
     {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=33d2d37ccd615d00c73349f51ae0710908ef1abba779a16432a7aded27702335",
+        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=026df28173e868cb7ac3210a96e659080d45415d67d47e0f0f3ebace2186e602",
         "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
         "title": "Gemeente Bergen betrokken bij datalek tijdens aanbesteding Wmo-vervoer via TenderNed",
-        "date_published": "2025-12-13T18:13:00Z",
-        "date_modified": "2025-12-13T18:13:00Z",
+        "date_published": "2025-12-13T17:13:00Z",
+        "date_modified": "2025-12-13T17:13:00Z",
         "language": "nl-nl",
         "author": {
             "name": "streekstadcentraal.nl"
@@ -338,11 +455,11 @@
         "content_text": "Gemeente Bergen | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: De gemeente Bergen was deelnemer aan een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 waarbij vertrouwelijke informatie van vervoerders ZCN Totaalvervoer en Reva Groep onbedoeld openbaar werd gemaakt. Door het niet markeren van bijlagen als vertrouwelijk op TenderNed konden andere geregistreerde gebruikers inzicht krijgen in kostprijzen, tarieven en personeelsinzet. Het gerechtshof stelde vast dat de deelnemende gemeenten ernstig onzorgvuldig hebben gehandeld en dat de schade voor de vervoerders direct samenhing met dit datalek, wat resulteerde in een schadevergoeding. (Bron: streekstadcentraal.nl)"
     },
     {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=f93ca4e2595615a5f3196aad818a2a427417d89f8d4231f29364a8fad52702bc",
+        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=e9a073bcdf8acd752fc50f628ebf9f41c38d453fb080ae4d6d800d84757fe1de",
         "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
         "title": "Gemeente Alkmaar maakt vertrouwelijke bedrijfsinformatie openbaar bij aanbesteding Wmo-vervoer",
-        "date_published": "2025-12-13T18:12:00Z",
-        "date_modified": "2025-12-13T18:12:00Z",
+        "date_published": "2025-12-13T17:12:00Z",
+        "date_modified": "2025-12-13T17:12:00Z",
         "language": "nl-nl",
         "author": {
             "name": "streekstadcentraal.nl"
@@ -351,11 +468,11 @@
         "content_text": "Gemeente Alkmaar | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: Bij een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 heeft de gemeente Alkmaar een fout gemaakt waardoor vertrouwelijke bedrijfsinformatie van vervoerders ZCN Totaalvervoer en Reva Groep openbaar beschikbaar kwam op TenderNed. Bijlagen met kostprijsberekeningen, tarieven en personeelsinzet werden niet als vertrouwelijk gemarkeerd en konden door andere inschrijvers worden ingezien. Een concurrerende vervoerder bleek de gegevens daadwerkelijk te hebben geraadpleegd. Het gerechtshof oordeelde dat Alkmaar ernstig onzorgvuldig handelde en achtte de schade voor de vervoerders rechtstreeks het gevolg van dit datalek, wat leidde tot een gezamenlijke schadevergoeding. (Bron: streekstadcentraal.nl)"
     },
     {
-        "id": "https://trajectum.hu.nl/hu-medewerkers-gehackt-ict-afdeling-vertelt-wat-er-misging/?datalekt=f46f2abd2b71ce428ce8257c0e499669378fdafc0f313a922a9cca3df71be8e1",
+        "id": "https://trajectum.hu.nl/hu-medewerkers-gehackt-ict-afdeling-vertelt-wat-er-misging/?datalekt=80e4e077247e788cff24dfeb908bc210463954488828eefb6edd9ee9a3d6eafb",
         "url": "https://trajectum.hu.nl/hu-medewerkers-gehackt-ict-afdeling-vertelt-wat-er-misging/",
         "title": "Hogeschool Utrecht wordt getroffen door e-mailfraude nadat accounts van medewerkers zijn gehackt",
-        "date_published": "2025-12-13T18:00:00Z",
-        "date_modified": "2025-12-13T18:00:00Z",
+        "date_published": "2025-12-13T17:00:00Z",
+        "date_modified": "2025-12-13T17:00:00Z",
         "language": "nl-nl",
         "author": {
             "name": "hu.nl"
@@ -364,11 +481,11 @@
         "content_text": "Hogeschool Utrecht | Onderwijs | 10-12-2025 | DataLekt.nl: Minstens drie medewerkers van Hogeschool Utrecht zijn slachtoffer geworden van een hack waarbij cybercriminelen toegang kregen tot hun e-mailaccounts. De aanvallers stuurden vanuit deze legitieme HU-accounts frauduleuze berichten naar duizenden interne en externe ontvangers met het doel geld afhandig te maken. De hack ontstond nadat een medewerker een onveilige pdf-bijlage opende, waardoor inlogsessies werden buitgemaakt. Ongeveer vijftig mensen reageerden op de mails. De ICT-afdeling blokkeerde de betrokken accounts binnen een kwartier en voorkwam verdere schade of inzage in gegevens. (Bron: trajectum.hu.nl)"
     },
     {
-        "id": "https://www.centrumjong.nl/datalek-privacycontainer/?datalekt=a5ef52b655dfb60b10ba181abe24b2f9dba09ac66052ddf18047d632c79f5f69",
+        "id": "https://www.centrumjong.nl/datalek-privacycontainer/?datalekt=b30f06f1dbdaba337b44f266b48cc737542963405cd77dea0a70d46fa75a48fe",
         "url": "https://www.centrumjong.nl/datalek-privacycontainer/",
         "title": "Datalek bij CJ Krommenie door onbedoelde afvoer van privacycontainer door reguliere papierophaaldienst",
-        "date_published": "2025-12-13T17:57:00Z",
-        "date_modified": "2025-12-13T17:57:00Z",
+        "date_published": "2025-12-13T16:57:00Z",
+        "date_modified": "2025-12-13T16:57:00Z",
         "language": "nl-nl",
         "author": {
             "name": "centrumjong.nl"
@@ -377,11 +494,11 @@
         "content_text": "Centrum Jong Krommenie | Gezondheids- en welzijnszorg | 09-12-2025 | DataLekt.nl: Bij CJ Krommenie is op 7 november 2025 de inhoud van een afgesloten privacycontainer met vertrouwelijke documenten per ongeluk meegenomen door de reguliere papierophaaldienst, terwijl deze normaal door een gespecialiseerd vernietigingsbedrijf wordt opgehaald. Hierdoor konden diverse soorten documenten, waaronder spreekuuragenda\u2019s, persoonlijke aantekeningen en mogelijk medische gegevens, buiten de bedoelde vernietigingsketen terechtkomen. De papierlading is inmiddels versnipperd en geperst, waardoor het risico op misbruik volgens de organisatie vrijwel nihil is. Centrum Jong heeft melding gedaan bij de Autoriteit Persoonsgegevens en aanvullende maatregelen genomen om herhaling te voorkomen. (Bron: centrumjong.nl)"
     },
     {
-        "id": "https://www.tubantia.nl/losser/losser-gaat-drie-keer-de-fout-in-met-gegevens-van-inwoners-dit-zijn-de-gevolgen~a1773920/?datalekt=ed24e76ea5347bd7bd3b13f79ae82abc044b27e7525bf6e93455f4781aeaa80c",
+        "id": "https://www.tubantia.nl/losser/losser-gaat-drie-keer-de-fout-in-met-gegevens-van-inwoners-dit-zijn-de-gevolgen~a1773920/?datalekt=f6b94c1a0036124520bfec95d287361e996bdbeecff3bfe7533252b2b3c91662",
         "url": "https://www.tubantia.nl/losser/losser-gaat-drie-keer-de-fout-in-met-gegevens-van-inwoners-dit-zijn-de-gevolgen~a1773920/",
         "title": "Gemeente Losser maakt meerdere fouten waardoor persoonsgegevens van inwoners openbaar werden",
-        "date_published": "2025-12-13T17:54:00Z",
-        "date_modified": "2025-12-13T17:54:00Z",
+        "date_published": "2025-12-13T16:54:00Z",
+        "date_modified": "2025-12-13T16:54:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tubantia.nl"
@@ -390,11 +507,11 @@
         "content_text": "Gemeente Losser | Overheid: Gemeenten | 10-12-2025 | DataLekt.nl: De gemeente Losser is drie keer onzorgvuldig omgegaan met persoonsgegevens van inwoners. In september lagen gegevens van 103 personen zichtbaar in een stemkoffer bij een stembureau en daarnaast stonden bezwaarschriften met namen, adressen en telefoonnummers van inwoners uit Glane en van omwonenden van de Gilderhauserweg openbaar op de gemeentelijke website. Het ging om fouten in de omgang met en publicatie van documenten. De gemeente erkent dat er fouten zijn gemaakt. Afhankelijk van de ernst en afhandeling kan de Autoriteit Persoonsgegevens toezicht houden en eventueel sancties opleggen. (Bron: tubantia.nl)"
     },
     {
-        "id": "https://www.advocatie.nl/nieuws/privacyklacht-legt-digitaal-notarisregister-al-maanden-stil/?datalekt=bb6136a9603dd9463afd53bb03146a9bfee1819658dbf645a5024bf538ca5ded",
+        "id": "https://www.advocatie.nl/nieuws/privacyklacht-legt-digitaal-notarisregister-al-maanden-stil/?datalekt=580b611b9cf1e732c32821950aa7a9222dd9a7972892049ce5013b9896be2d77",
         "url": "https://www.advocatie.nl/nieuws/privacyklacht-legt-digitaal-notarisregister-al-maanden-stil/",
         "title": "Digitaal notarisregister al maanden offline na privacyklacht bij Autoriteit Persoonsgegevens",
-        "date_published": "2025-12-13T17:51:00Z",
-        "date_modified": "2025-12-13T17:51:00Z",
+        "date_published": "2025-12-13T16:51:00Z",
+        "date_modified": "2025-12-13T16:51:00Z",
         "language": "nl-nl",
         "author": {
             "name": "advocatie.nl"
@@ -403,11 +520,11 @@
         "content_text": "Koninklijke Notari\u00eble Beroepsorganisatie (KNB) | Overige dienstverlening | 11-12-2025 | DataLekt.nl: Het digitale notarisregister van de Koninklijke Notari\u00eble Beroepsorganisatie (KNB) is sinds februari offline nadat de Autoriteit Persoonsgegevens een privacyklacht van een notaris gegrond verklaarde. De toezichthouder had bezwaar tegen de manier waarop zoekresultaten werden getoond, waarbij ook andere notarissen zichtbaar waren. De KNB haalde het register daarop volledig offline en ging niet in beroep. Hierdoor is een wettelijk openbaar register, met informatie over nevenfuncties en tuchtrechtelijke maatregelen, slechts beperkt op verzoek in te zien. Of en wanneer het register weer online komt, is nog onzeker. (Bron: advocatie.nl)"
     },
     {
-        "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5542736/gemeente-nuenen-lekt-adressen-bezwaarmakers-azc?datalekt=994f0cac978a408f12f6d661472d686dd3e827a06c35c8ec4cb2b3f2d4479867",
+        "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5542736/gemeente-nuenen-lekt-adressen-bezwaarmakers-azc?datalekt=f74ef1774b7c47eb7f24732b6dffce9457b0d7497e592c7679d478b6bedddd68",
         "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5542736/gemeente-nuenen-lekt-adressen-bezwaarmakers-azc",
         "title": "Gemeente Nuenen lekt per ongeluk adressen van bezwaarmakers tegen tijdelijk azc",
-        "date_published": "2025-12-07T11:30:00Z",
-        "date_modified": "2025-12-07T11:30:00Z",
+        "date_published": "2025-12-07T10:30:00Z",
+        "date_modified": "2025-12-07T10:30:00Z",
         "language": "nl-nl",
         "author": {
             "name": "rtl.nl"
@@ -416,11 +533,11 @@
         "content_text": "Gemeente Nuenen | Overheid: Gemeenten | 06-12-2025 | DataLekt.nl: De gemeente Nuenen heeft per ongeluk een document met adressen van 1059 bezwaarmakers tegen de komst van een tijdelijk asielzoekerscentrum doorgestuurd naar 52 inwoners. Hoewel geen namen zijn gedeeld, zijn adressen indirect herleidbaar tot personen, waardoor sprake is van een datalek. Het document maakte deel uit van stukken voor een hoorzitting van de bezwaarschriftencommissie. De gemeente heeft melding gedaan bij de Autoriteit Persoonsgegevens en ontvangers gevraagd het document te verwijderen en niet verder te verspreiden. (Bron: rtl.nl)"
     },
     {
-        "id": "https://www.nt.nl/havens/2025/12/05/drie-aanhoudingen-na-cyberaanval-op-havenbedrijf-waalhaven/?datalekt=607c27b109142576d0e559dbcc1635f712f7b61d78a75421faa53db058c20186",
+        "id": "https://www.nt.nl/havens/2025/12/05/drie-aanhoudingen-na-cyberaanval-op-havenbedrijf-waalhaven/?datalekt=196f17c35113c36d811c44011935cf48bc4f53e066bd1120d6887e53fb40cbca",
         "url": "https://www.nt.nl/havens/2025/12/05/drie-aanhoudingen-na-cyberaanval-op-havenbedrijf-waalhaven/",
         "title": "Havenbedrijf in de Waalhaven getroffen door fraude na gehackte mailbox",
-        "date_published": "2025-12-07T11:26:00Z",
-        "date_modified": "2025-12-07T11:26:00Z",
+        "date_published": "2025-12-07T10:26:00Z",
+        "date_modified": "2025-12-07T10:26:00Z",
         "language": "nl-nl",
         "author": {
             "name": "nt.nl"
@@ -429,11 +546,11 @@
         "content_text": "Onbekende havenbedrijf | Vervoer en opslag | 05-12-2025 | DataLekt.nl: Een onbekend havenbedrijf in de Rotterdamse Waalhaven werd in september 2023 slachtoffer van cybercrime nadat criminelen de mailbox van het bedrijf wisten te hacken. De aanvallers verstuurden vanuit het gehackte account een vervalste factuur met een frauduleus bankrekeningnummer en een nagemaakte bankverklaring, waarna een klant 260.000 euro overmaakte. De politie hield in februari 2025 een verdachte aan en arresteerde in oktober 2025 twee nieuwe verdachten. Volgens de Zeehavenpolitie werkte het getroffen bedrijf vanaf het begin volledig mee aan het onderzoek. (Bron: nt.nl)"
     },
     {
-        "id": "https://nos.nl/artikel/2593305-erasmus-mc-ontslaat-medewerkers-voor-rondneuzen-in-patientendossiers?datalekt=1ce5c185ba4782fbb8cb8312e96e4a69d233fdf9ccc91b7d6105fa15a8a054c7",
+        "id": "https://nos.nl/artikel/2593305-erasmus-mc-ontslaat-medewerkers-voor-rondneuzen-in-patientendossiers?datalekt=9b69019a567b936b154dfc13f68ae006b302b82e19cfe440f8d98444affd2b8d",
         "url": "https://nos.nl/artikel/2593305-erasmus-mc-ontslaat-medewerkers-voor-rondneuzen-in-patientendossiers",
         "title": "Erasmus MC ontslaat medewerkers wegens ongeoorloofde inzage in pati\u00ebntendossiers",
-        "date_published": "2025-12-07T11:22:00Z",
-        "date_modified": "2025-12-07T11:22:00Z",
+        "date_published": "2025-12-07T10:22:00Z",
+        "date_modified": "2025-12-07T10:22:00Z",
         "language": "nl-nl",
         "author": {
             "name": "nos.nl"
@@ -442,11 +559,11 @@
         "content_text": "Erasmus MC | Gezondheids- en welzijnszorg | 05-12-2025 | DataLekt.nl: Het Erasmus MC heeft ontdekt dat vijf medewerkers zonder geldige reden in 34 pati\u00ebntendossiers hebben gekeken tijdens interne controles. Twee medewerkers zijn vanwege de ernst van hun handelen op staande voet ontslagen; drie anderen kregen disciplinaire maatregelen. Het ziekenhuis benadrukt dat inzage alleen mag plaatsvinden bij een behandelrelatie en heeft de betrokken pati\u00ebnten ge\u00efnformeerd en excuses aangeboden. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: nos.nl)"
     },
     {
-        "id": "https://www.gld.nl/nieuws/8392671/han-onderzoekt-mogelijk-datalek-na-ongeoorloofd-ai-gebruik-door-docent?datalekt=e310537adad7ac983c18a4a95475b959275d26691cbfc3f3db0ae5cf03858aa9",
+        "id": "https://www.gld.nl/nieuws/8392671/han-onderzoekt-mogelijk-datalek-na-ongeoorloofd-ai-gebruik-door-docent?datalekt=a5f3a6026d0dce64ae665dad51e16371461707c613cdbc4446d2d9145bff62d5",
         "url": "https://www.gld.nl/nieuws/8392671/han-onderzoekt-mogelijk-datalek-na-ongeoorloofd-ai-gebruik-door-docent",
         "title": "Hogeschool van Arnhem en Nijmegen onderzoekt mogelijk datalek na ongeoorloofd AI-gebruik door docent",
-        "date_published": "2025-11-18T09:15:00Z",
-        "date_modified": "2025-12-05T10:31:00Z",
+        "date_published": "2025-11-18T08:15:00Z",
+        "date_modified": "2025-12-05T09:31:00Z",
         "language": "nl-nl",
         "author": {
             "name": "gld.nl"
@@ -455,11 +572,11 @@
         "content_text": "Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 17-11-2025 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) onderzoekt of er een datalek is ontstaan nadat een docent Communicatie en Multimedia Design zonder toestemming een geavanceerde AI-agent toegang gaf tot de digitale leeromgeving, waar volgens hem veel studentgegevens aanwezig zijn. De docent gebruikte priv\u00e9-abonnementen op AI-software, in strijd met de interne regels. De school heeft een voorlopige melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt nog welke gegevens mogelijk zijn ingezien en hoeveel studenten getroffen kunnen zijn. [Update: Op 3 december 2025 is bekend geworden dat er geen datalek heeft plaatsgevonden. Uit onderzoek blijkt dat de AI-tool geen persoonsgegevens heeft ingezien, hoewel deze wel ongeautoriseerd toegang had gekregen tot de digitale leeromgeving. De melding bij de Autoriteit Persoonsgegevens is daarom ingetrokken.] (Bron: gld.nl)"
     },
     {
-        "id": "https://www.telegraaf.nl/financieel/nieuws/autodealerconcern-van-mossel-getroffen-door-cyberaanval/110000623.html?datalekt=f0f3b6890abefcd8eda5c36c8345e79fb125510e7363f6e8e8782ec5ab375a3d",
+        "id": "https://www.telegraaf.nl/financieel/nieuws/autodealerconcern-van-mossel-getroffen-door-cyberaanval/110000623.html?datalekt=bbc950fbb66d1da0279b1660998b24031836de720ef43fd7946e1ddc9e91fd38",
         "url": "https://www.telegraaf.nl/financieel/nieuws/autodealerconcern-van-mossel-getroffen-door-cyberaanval/110000623.html",
         "title": "Cyberaanval treft autodealerconcern Van Mossel na gerichte hackpoging",
-        "date_published": "2025-12-04T10:44:00Z",
-        "date_modified": "2025-12-04T10:44:00Z",
+        "date_published": "2025-12-04T09:44:00Z",
+        "date_modified": "2025-12-04T09:44:00Z",
         "language": "nl-nl",
         "author": {
             "name": "telegraaf.nl"
@@ -468,11 +585,11 @@
         "content_text": "Van Mossel Automotive Group | Groot- en detailhandel | 03-12-2025 | DataLekt.nl: Autodealerconcern Van Mossel heeft afgelopen weekend ongeautoriseerde toegang tot zijn systemen ontdekt en delen daarvan direct offline gehaald nadat duidelijk werd dat het om een gerichte hackpoging ging. Volgens eerste analyses hebben onbevoegden mogelijk beperkte toegang gehad tot gegevens, maar het bedrijf weet nog niet of er daadwerkelijk informatie is buitgemaakt. Externe beveiligingsexperts onderzoeken het incident verder en Van Mossel heeft melding gedaan bij de autoriteiten. Door de ingreep waren klanten tijdelijk niet bereikbaar, maar sinds maandagochtend functioneren e-mail en telefoon weer. (Bron: telegraaf.nl)"
     },
     {
-        "id": "https://www.waldnet.nl/wn/nieuws/82853/Datalek_bij_Dantumadiel_honderden_mailadressen_per_ongeluk_openbaar.html?datalekt=126b19aca13163e3712f683d283b774ec11b79ed2ca9f6469e3533aa63e8580c",
+        "id": "https://www.waldnet.nl/wn/nieuws/82853/Datalek_bij_Dantumadiel_honderden_mailadressen_per_ongeluk_openbaar.html?datalekt=27c8dec88c66dd4802b29c689792ab748d8c58a33b5659ed008059892d0a8419",
         "url": "https://www.waldnet.nl/wn/nieuws/82853/Datalek_bij_Dantumadiel_honderden_mailadressen_per_ongeluk_openbaar.html",
         "title": "Gemeente Dantumadiel maakt per ongeluk e-mailadressen van ge\u00efnteresseerden in Lyts Wenjen openbaar",
-        "date_published": "2025-11-30T10:46:00Z",
-        "date_modified": "2025-11-30T10:46:00Z",
+        "date_published": "2025-11-30T09:46:00Z",
+        "date_modified": "2025-11-30T09:46:00Z",
         "language": "nl-nl",
         "author": {
             "name": "waldnet.nl"
@@ -481,11 +598,11 @@
         "content_text": "Gemeente Dantumadiel | Overheid: Gemeenten | 28-11-2025 | DataLekt.nl: De gemeente Dantumadiel heeft op woensdagmiddag een datalek veroorzaakt door bij het versturen van een informatiebrief over het woningbouwproject Lyts Wenjen de e-mailadressen van enkele honderden ge\u00efnteresseerden zichtbaar te laten. De fout ontstond doordat de gemeente vergat de BCC-functie te gebruiken, waardoor alle ontvangers elkaars adres konden zien. Een dag later stuurde de gemeente een rectificatie met excuses en de toezegging dat bij toekomstige mailings w\u00e9l de BCC-functie wordt toegepast. (Bron: waldnet.nl)"
     },
     {
-        "id": "https://www.knaw.nl/nieuws/datalek-ontdekt-bij-de-knaw-wees-alert-op-phishing?datalekt=8e357511939bb6f31a6f017135647803760fc36f72c3eac8b19af589c103faff",
+        "id": "https://www.knaw.nl/nieuws/datalek-ontdekt-bij-de-knaw-wees-alert-op-phishing?datalekt=0bf47541b80d78342e678b64e012ee794fb060d4ed6c83d32af19d45e9611f10",
         "url": "https://www.knaw.nl/nieuws/datalek-ontdekt-bij-de-knaw-wees-alert-op-phishing",
         "title": "Datalek bij de KNAW door mailboxinbraak na phishingaanval",
-        "date_published": "2025-11-30T10:37:00Z",
-        "date_modified": "2025-11-30T10:37:00Z",
+        "date_published": "2025-11-30T09:37:00Z",
+        "date_modified": "2025-11-30T09:37:00Z",
         "language": "nl-nl",
         "author": {
             "name": "knaw.nl"
@@ -494,11 +611,11 @@
         "content_text": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) | Overheid: Zelfstandige bestuursorganen | 28-11-2025 | DataLekt.nl: Bij de KNAW is een datalek ontdekt nadat een medewerker op een phishingmail had geklikt, waardoor een hacker vanaf 17 november toegang kreeg tot diens mailbox. Vanuit deze mailbox zijn vervolgens phishingmails verstuurd naar contacten. Door de ongeautoriseerde toegang zijn in elk geval e-mailadressen van medewerkers en andere betrokkenen gelekt, mogelijk aangevuld met namen en telefoonnummers. De KNAW heeft de toegang direct geblokkeerd en extra beveiligingsmaatregelen genomen, en onderzoekt de omvang van het incident. (Bron: knaw.nl)"
     },
     {
-        "id": "https://www.ad.nl/losser/datalek-en-gebrekkig-proces-zetten-druk-op-wethouder-opvang-oekrainers-aan-gildehauserweg-in-losser-wankelt~ae09e61f/?datalekt=39ed1ca7e3441e021c1a80494f0e6de7b401fb6b92afb1d36b374b8e003d3df8",
+        "id": "https://www.ad.nl/losser/datalek-en-gebrekkig-proces-zetten-druk-op-wethouder-opvang-oekrainers-aan-gildehauserweg-in-losser-wankelt~ae09e61f/?datalekt=4874367dd1fe57fffb64a7d0f79ddd134c89e049af89c160a37fef9eae26e87d",
         "url": "https://www.ad.nl/losser/datalek-en-gebrekkig-proces-zetten-druk-op-wethouder-opvang-oekrainers-aan-gildehauserweg-in-losser-wankelt~ae09e61f/",
         "title": "Gemeente Losser publiceert per ongeluk persoonsgegevens van bezwaarmakers door technische fout",
-        "date_published": "2025-11-29T13:31:00Z",
-        "date_modified": "2025-11-29T13:31:00Z",
+        "date_published": "2025-11-29T12:31:00Z",
+        "date_modified": "2025-11-29T12:31:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ad.nl"
@@ -507,11 +624,11 @@
         "content_text": "Gemeente Losser | Overheid: Gemeenten | 26-11-2025 | DataLekt.nl: Bij de gemeente Losser zijn door een technische fout de bezwaarschriften van omwonenden tegen de opvang van Oekra\u00efense vluchtelingen aan de Gildehauserweg online gepubliceerd, inclusief namen en adressen van de indieners. De fout werd duidelijk tijdens de commissievergadering, waar wethouder Milad Lahdo aangaf dat de gemeente overweegt aangifte te doen van het datalek. De raad kreeg de stukken bovendien pas enkele uren voor de vergadering toegestuurd, wat tot extra kritiek leidde op het gebrekkige proces. De wethouder bood hiervoor excuses aan richting zowel raad als omwonenden. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.ad.nl/amsterdam/datalek-bij-gemeente-amsterdam-vertrouwelijke-verslagen-en-gevoelige-informatie-ambtenaren-zichtbaar~aaa398fd/?datalekt=83f73f3b286f12c42b3cbfa129fd1dafbb40c9d690b23353a27d6bf530055b72",
+        "id": "https://www.ad.nl/amsterdam/datalek-bij-gemeente-amsterdam-vertrouwelijke-verslagen-en-gevoelige-informatie-ambtenaren-zichtbaar~aaa398fd/?datalekt=6699432c4a4573df6f89cf3bda64e006c2dc006b89ae7455cd98e1efe6d0a480",
         "url": "https://www.ad.nl/amsterdam/datalek-bij-gemeente-amsterdam-vertrouwelijke-verslagen-en-gevoelige-informatie-ambtenaren-zichtbaar~aaa398fd/",
         "title": "Gemeente Amsterdam zet vertrouwelijke OR- en OC-documenten per ongeluk online door interne fout",
-        "date_published": "2025-11-26T15:39:00Z",
-        "date_modified": "2025-11-26T15:39:00Z",
+        "date_published": "2025-11-26T14:39:00Z",
+        "date_modified": "2025-11-26T14:39:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ad.nl"
@@ -520,11 +637,11 @@
         "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 25-11-2025 | DataLekt.nl: Bij de gemeente Amsterdam hebben vertrouwelijke verslagen van de ondernemingsraad en onderdeelcommissies online gestaan door een interne fout. Hoewel de documenten inmiddels zijn verwijderd, blijven fragmenten zichtbaar via zoekmachines als DuckDuckGo en Bing. De bestanden bevatten onder meer namen, functies, contactgegevens, agendapunten, interne discussies en in \u00e9\u00e9n geval informatie over de ernstige ziekte van een ambtenaar. De gemeente werd op 17 november ge\u00efnformeerd over het mogelijke datalek, waarna direct het datalekprotocol is gevolgd en melding is gedaan bij de Autoriteit Persoonsgegevens. Er wordt gewerkt aan het verwijderen van resterende fragmenten. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.deorkaan.nl/datalek-bij-sociaal-wijkteam-193-mailadressen-zichtbaar/?datalekt=c77e168e4746d604e66765e0881e51119d41d566bb61332a74a38d3c6dff2fc6",
+        "id": "https://www.deorkaan.nl/datalek-bij-sociaal-wijkteam-193-mailadressen-zichtbaar/?datalekt=3cd7d69f76c8b7cb7ccb1cb9493616233bebddc5230df2334f2e917d3bd897e4",
         "url": "https://www.deorkaan.nl/datalek-bij-sociaal-wijkteam-193-mailadressen-zichtbaar/",
         "title": "Sociaal Wijkteam Kogerveld-Noord deelt per ongeluk 1249 e-mailadressen van mantelzorgers in CC",
-        "date_published": "2025-11-23T11:12:00Z",
-        "date_modified": "2025-11-23T11:12:00Z",
+        "date_published": "2025-11-23T10:12:00Z",
+        "date_modified": "2025-11-23T10:12:00Z",
         "language": "nl-nl",
         "author": {
             "name": "deorkaan.nl"
@@ -533,11 +650,11 @@
         "content_text": "Sociaal Wijkteam Kogerveld-Noord | Overheid: Organisatie met overheidsbemoeienis | 20-11-2025 | DataLekt.nl: Bij het Sociaal Wijkteam Kogerveld-Noord zijn per ongeluk 1249 e-mailadressen van mantelzorgers gedeeld doordat een medewerker deze in de CC zette in plaats van in de BCC. De fout ontstond bij een uitnodiging voor een activiteit, waarna een intrekkingsmail werd verstuurd die opnieuw in de CC terechtkwam. Hierdoor bleef de oorspronkelijke mail zichtbaar voor alle ontvangers. Het wijkteam beschouwt dit als een datalek, heeft melding gedaan bij de Autoriteit Persoonsgegevens en scherpt interne procedures aan. Mantelzorgers worden gewaarschuwd voor mogelijke phishing. (Bron: deorkaan.nl)"
     },
     {
-        "id": "https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg?datalekt=a42f480791935046995b991ac857f65d2804f3b459207b53e036adcfc220c158",
+        "id": "https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg?datalekt=0d66d2f914689351be78b69e10e8d86c4156cb6aa66938f55f7f518d4b80a19b",
         "url": "https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg",
         "title": "Sif overtreedt privacyregels door onrechtmatige speekseltest bij werknemer",
-        "date_published": "2025-11-22T11:21:00Z",
-        "date_modified": "2025-11-22T11:21:00Z",
+        "date_published": "2025-11-22T10:21:00Z",
+        "date_modified": "2025-11-22T10:21:00Z",
         "language": "nl-nl",
         "author": {
             "name": "lsenr.nl"
@@ -546,11 +663,11 @@
         "content_text": "Sif | Industrie | 27-03-2025 | DataLekt.nl: Sif liet bij de toegangspoort onaangekondigde speekseltesten uitvoeren door een extern bureau om medewerkers op drugs- en alcoholgebruik te controleren. Een werknemer testte positief op cannabis, waarna Sif ontbinding van de arbeidsovereenkomst verzocht. De werknemer voerde aan dat deze test in strijd was met de AVG. De rechtbank oordeelde dat speekseltesten gezondheidsgegevens opleveren en daarom bijzondere persoonsgegevens zijn waarvoor een wettelijke grondslag vereist is. Die ontbreekt voor de functie van de werknemer, waardoor Sif de test niet had mogen uitvoeren. De uitslag mag daarom niet als bewijs worden gebruikt. (Bron: lsenr.nl)"
     },
     {
-        "id": "https://www.ad.nl/tynaarlo/datalek-ontdekt-bij-gemeente-tynaarlo-inmiddels-verholpen~aae823dc/?datalekt=92819a89f34765bf173f3bb2447645ea5ccfbf73fc64ff998bb19b9b68054754",
+        "id": "https://www.ad.nl/tynaarlo/datalek-ontdekt-bij-gemeente-tynaarlo-inmiddels-verholpen~aae823dc/?datalekt=03e5eeb2f0101618f8dae996a638f46213df3e1f679d37a0c7b9304964a6aaf3",
         "url": "https://www.ad.nl/tynaarlo/datalek-ontdekt-bij-gemeente-tynaarlo-inmiddels-verholpen~aae823dc/",
         "title": "Gemeente Tynaarlo lekt persoonsgegevens door fout bij digitaal archiveren",
-        "date_published": "2025-11-22T11:17:00Z",
-        "date_modified": "2025-11-22T11:17:00Z",
+        "date_published": "2025-11-22T10:17:00Z",
+        "date_modified": "2025-11-22T10:17:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ad.nl"
@@ -559,11 +676,11 @@
         "content_text": "Gemeente Tynaarlo | Overheid: Gemeenten | 20-11-2025 | DataLekt.nl: Bij de gemeente Tynaarlo zijn op 7 november 2025 persoonsgegevens van inwoners onbedoeld openbaar geraakt doordat acht documenten tijdens het verplaatsen naar een digitaal archief per ongeluk in een openbaar internetarchief werden geplaatst. Zeker twee bestanden bevatten gegevens zoals naam, geslacht, geboortedatum, burgerservicenummer en contactgegevens. Twee bestanden zijn dertien keer geraadpleegd, maar het is onbekend door wie. Op 12 november werd het lek gestopt. De gemeente heeft melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt hoe herhaling kan worden voorkomen. Inwoners worden geadviseerd alert te zijn op verdachte berichten. (Bron: ad.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever?datalekt=36a6c31a3ce01c490f4cb32ac0c854b22ac29f3e9cc9509d6eb37525bce9cba9",
+        "id": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever?datalekt=ffb1db9789fd23f41a79083513bf6adc8ffe968247b225f43b41850a7da3dee0",
         "url": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever",
         "title": "Ddos-aanval op onbekend bedrijf veroorzaakt grote financi\u00eble schade",
-        "date_published": "2025-11-21T10:14:00Z",
-        "date_modified": "2025-11-21T10:14:00Z",
+        "date_published": "2025-11-21T09:14:00Z",
+        "date_modified": "2025-11-21T09:14:00Z",
         "language": "nl-nl",
         "author": {
             "name": "security.nl"
@@ -572,11 +689,11 @@
         "content_text": "Onbekende organisatie | Overig | 19-11-2025 | DataLekt.nl: Begin 2024 voerde een 25-jarige medewerker een ddos-aanval uit op het bedrijf waar hij op dat moment werkzaam was. De verdachte heeft tijdens politieverhoor bekend dat hij doelbewust de website van het bedrijf platlegde. Het Openbaar Ministerie stelt dat deze aanval, samen met een andere door dezelfde verdachte gepleegde aanval op een ander bedrijf, heeft bijgedragen aan een totale schade van 178.000 euro en eist een taakstraf van 160 uur. (Bron: security.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever?datalekt=335c4a498554019e8ab454cf980f9b7733a7b9e3a849662e54aa7131b42421eb",
+        "id": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever?datalekt=a1a67aa99b0b5e0dcc54f1b02f13054879505aa24adaa0bd92c7baa01e6b9809",
         "url": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever",
         "title": "Ddos-aanval op callcenter in Sittard door eigen medewerker",
-        "date_published": "2025-11-21T10:13:00Z",
-        "date_modified": "2025-11-21T10:13:00Z",
+        "date_published": "2025-11-21T09:13:00Z",
+        "date_modified": "2025-11-21T09:13:00Z",
         "language": "nl-nl",
         "author": {
             "name": "security.nl"
@@ -585,11 +702,11 @@
         "content_text": "Onbekende callcenter | Verhuur en zakelijke dienstverlening | 19-11-2025 | DataLekt.nl: Een medewerker van een callcenter in Sittard voerde eind 2023 een ddos-aanval uit op de website van zijn werkgever. Volgens het Openbaar Ministerie bekende de man dat hij dit deed in de hoop zijn collega\u2019s een vrije dag te bezorgen. De aanval veroorzaakte samen met een latere aanval op een ander bedrijf een totale schade van 178.000 euro. (Bron: security.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/241682/digid-is-beperkt-beschikbaar-vanwege-een-ddos-aanval.html?datalekt=08e51542e66f3b382f1cd886379b277d6ef7ef351043ebdf5b4d2feed813482d",
+        "id": "https://tweakers.net/nieuws/241682/digid-is-beperkt-beschikbaar-vanwege-een-ddos-aanval.html?datalekt=45942fada2d3078165f0c094cf80fee70318ad9717a3b67dcd6c8d5cd808130c",
         "url": "https://tweakers.net/nieuws/241682/digid-is-beperkt-beschikbaar-vanwege-een-ddos-aanval.html",
         "title": "DigiD kampt met beperkte beschikbaarheid door terugkerende ddos-aanvallen op Logius",
-        "date_published": "2025-11-21T10:07:00Z",
-        "date_modified": "2025-11-21T10:07:00Z",
+        "date_published": "2025-11-21T09:07:00Z",
+        "date_modified": "2025-11-21T09:07:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -598,11 +715,11 @@
         "content_text": "Logius | Overheid: Agentschappen | 19-11-2025 | DataLekt.nl: DigiD was sinds 19 november om 10.47 uur beperkt beschikbaar doordat Logius te maken kreeg met terugkerende ddos-aanvallen. Door deze verstoringen konden gebruikers mogelijk niet of slechts gedeeltelijk inloggen via de digitale overheidsdienst. Het is niet bekend wie achter de aanvallen zit of dat het om dezelfde dader gaat. Logius meldt dat de storing om 11.26 uur is opgelost en werkt aan een nieuwe aanpak om cyberaanvallen beter te kunnen afweren. (Bron: tweakers.net)"
     },
     {
-        "id": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042?datalekt=85e70ce22d102b5ccb6a48097b02727eabcec40e4f9938f1f86738e0f04a35f7",
+        "id": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042?datalekt=663cf02be7cc7ba6e62898d81e910d4e3a8c33e39a6dd5866fbf77fbc2018e99",
         "url": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042",
         "title": "Zevenentwintig onbekende Nederlandse organisaties getroffen door website-inbraak door Black Witch",
-        "date_published": "2025-11-21T10:01:00Z",
-        "date_modified": "2025-11-21T10:01:00Z",
+        "date_published": "2025-11-21T09:01:00Z",
+        "date_modified": "2025-11-21T09:01:00Z",
         "language": "nl-nl",
         "author": {
             "name": "avrotros.nl"
@@ -611,11 +728,11 @@
         "content_text": "27 onbekende organisaties | Overig | 19-11-2025 | DataLekt.nl: Naast enkele bekende instellingen werden ook 27 andere, niet nader genoemde Nederlandse organisaties getroffen door een aanval van hackersgroep Black Witch. De groep drong de websites binnen en plaatste nazi-teksten en symbolen op de voorpagina\u2019s. Volgens de hackers was het motief het vergroten van hun naamsbekendheid en het werven van nieuwe leden. De ongeautoriseerde aanpassing van webcontent wijst op misbruik van een kwetsbaarheid bij de betrokken webhosting of beheersystemen. De groep stelt dat er geen gegevens zijn gestolen, maar dit is niet door de getroffen organisaties bevestigd. (Bron: opgelicht.avrotros.nl)"
     },
     {
-        "id": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042?datalekt=77d4466a733006ce7e2a1eb19d01aad9eb0b089f9f74467d38c1967bd84d7368",
+        "id": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042?datalekt=a001c6114382ebb50832fea330fb80619743c26144d96f6ae6541257e5f8f873",
         "url": "https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042",
         "title": "Arriva getroffen door website-inbraak waarbij hackersgroep Black Witch nazi-teksten plaatste",
-        "date_published": "2025-11-21T10:00:00Z",
-        "date_modified": "2025-11-21T10:00:00Z",
+        "date_published": "2025-11-21T09:00:00Z",
+        "date_modified": "2025-11-21T09:00:00Z",
         "language": "nl-nl",
         "author": {
             "name": "avrotros.nl"
@@ -624,11 +741,11 @@
         "content_text": "Arriva | Vervoer en opslag | 19-11-2025 | DataLekt.nl: Hackersgroep Black Witch heeft de website van Arriva gehackt, samen met ongeveer dertig andere Nederlandse sites, en hierbij nazi-teksten en symbolen op de voorpagina geplaatst. De groep zegt dat het doel niet was om schade aan te richten, maar om naamsbekendheid te vergroten en nieuwe leden te werven. De aanval bestond uit het ongeautoriseerd aanpassen van webcontent, vermoedelijk via een kwetsbaarheid bij een externe webbeheerpartij, al is de exacte methode niet bevestigd. Volgens berichtgeving zouden de aanvallers vooral vanuit Frankrijk en Rusland opereren en geen gegevens hebben buitgemaakt, maar dit is nog niet door organisaties bevestigd. (Bron: opgelicht.avrotros.nl)"
     },
     {
-        "id": "https://www.rtvnoord.nl/zorg/RX-452/website-martini-ziekenhuis-korte-tijd-gehackt?datalekt=fbea89efa2d5d8fcd70e7b14d63872b54106baed31bbfd80f91a90196d7628ca",
+        "id": "https://www.rtvnoord.nl/zorg/RX-452/website-martini-ziekenhuis-korte-tijd-gehackt?datalekt=db263a5298e3a1c356140448450cf3f2dc18050fb752722e8941c884f0a54a6e",
         "url": "https://www.rtvnoord.nl/zorg/RX-452/website-martini-ziekenhuis-korte-tijd-gehackt",
         "title": "Website van Martini Ziekenhuis kortstondig gehackt via externe websiteleverancier",
-        "date_published": "2025-11-21T09:59:00Z",
-        "date_modified": "2025-11-21T09:59:00Z",
+        "date_published": "2025-11-21T08:59:00Z",
+        "date_modified": "2025-11-21T08:59:00Z",
         "language": "nl-nl",
         "author": {
             "name": "rtvnoord.nl"
@@ -637,11 +754,11 @@
         "content_text": "Martini Ziekenhuis | Gezondheids- en welzijnszorg | 19-11-2025 | DataLekt.nl: De website van het Martini Ziekenhuis is woensdagochtend ongeveer veertien minuten gehackt doordat kwaadwillenden via de externe websiteleverancier toegang kregen. Bezoekers kregen \u2018ongewenste inhoud\u2019 te zien, die volgens regionale media bestond uit nazistische teksten. De woordvoerder benadrukt dat de website volledig losstaat van de interne systemen van het ziekenhuis, waardoor geen pati\u00ebntgegevens of andere data zijn buitgemaakt. Het ziekenhuis onderzoekt hoe de aanval kon plaatsvinden en wil herhaling voorkomen. (Bron: rtvnoord.nl)"
     },
     {
-        "id": "https://www.destentor.nl/zwolle/site-van-isala-urenlang-plat-door-hack-bezoekers-zien-opmerkelijke-boodschap~a5da6e41/?datalekt=94d915325b917d5716cb7496f99ea54c8f8b32782f0157f6a20a95da6ca0108a",
+        "id": "https://www.destentor.nl/zwolle/site-van-isala-urenlang-plat-door-hack-bezoekers-zien-opmerkelijke-boodschap~a5da6e41/?datalekt=54de776ae54297b89d7d907c74572f5feb52716737447522394f5a920b508762",
         "url": "https://www.destentor.nl/zwolle/site-van-isala-urenlang-plat-door-hack-bezoekers-zien-opmerkelijke-boodschap~a5da6e41/",
         "title": "Website van Isala ontwricht door hack via firewall van websiteleverancier",
-        "date_published": "2025-11-21T09:58:00Z",
-        "date_modified": "2025-11-21T09:58:00Z",
+        "date_published": "2025-11-21T08:58:00Z",
+        "date_modified": "2025-11-21T08:58:00Z",
         "language": "nl-nl",
         "author": {
             "name": "destentor.nl"
@@ -650,11 +767,11 @@
         "content_text": "Isala | Gezondheids- en welzijnszorg | 19-11-2025 | DataLekt.nl: De website van Isala was woensdagochtend tijdelijk onbereikbaar doordat een hacker de firewall van de websiteleverancier wist te compromitteren. Bezoekers kregen een zwart scherm te zien met onder meer extremistische en intimiderende teksten ondertekend door \u2018BlackWitch\u2019. Volgens het ziekenhuis is niet ingebroken in de interne systemen en zijn pati\u00ebntgegevens nooit in gevaar geweest, omdat deze niet via de website worden opgeslagen. De website is uit voorzorg offline gehaald totdat de leverancier volledige veiligheid kon garanderen. (Bron: destentor.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/910474/It-leverancier+zelf+aansprakelijk+voor+schade+door+gehackte+Azure-omgeving?datalekt=b15e3182bb7477dbdf91235ea872b194a04012e39d47b5e2dd1d95d451718441",
+        "id": "https://www.security.nl/posting/910474/It-leverancier+zelf+aansprakelijk+voor+schade+door+gehackte+Azure-omgeving?datalekt=936e63fe8dea5a7b846ceb21f8631e72f301115170942615ddbbf8291d034a9d",
         "url": "https://www.security.nl/posting/910474/It-leverancier+zelf+aansprakelijk+voor+schade+door+gehackte+Azure-omgeving",
         "title": "Friese it-leverancier draait zelf op voor schade door hack in Azure-omgeving door uitgeschakelde mfa-beveiliging",
-        "date_published": "2025-11-20T18:28:00Z",
-        "date_modified": "2025-11-20T18:28:00Z",
+        "date_published": "2025-11-20T17:28:00Z",
+        "date_modified": "2025-11-20T17:28:00Z",
         "language": "nl-nl",
         "author": {
             "name": "security.nl"
@@ -663,11 +780,11 @@
         "content_text": "Onbekende ICT organisatie | ICT en telecommunicatie | 24-10-2025 | DataLekt.nl: Een Friese it-leverancier die Azure-omgevingen beheert voor mkb-klanten werd geconfronteerd met een hack waarbij een aanvaller, dankzij het uitgeschakelde MFA-beleid, toegang verkreeg tot de cloudomgeving van een klant. De hacker cre\u00eberde circa zestig virtuele servers die vijf weken op maximale capaciteit cryptovaluta mineden, wat leidde tot dagelijks \u20ac22.000 aan kosten en een totale schade van \u20ac864.000. De ict-distributeur ontdekte het misbruik op 7 november 2022 en waarschuwde dezelfde dag, waarna de leverancier de omgeving afsloot. De rechtbank oordeelde dat de leverancier zelf verantwoordelijk was omdat MFA niet was ingeschakeld. (Bron: security.nl)"
     },
     {
-        "id": "https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie-2/?datalekt=224e71504381bade1b3130c9fdff7e25fbc04f8dd11d19d29853812392291ad5",
+        "id": "https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie-2/?datalekt=35a5007e54ba1f615532a49eca14112bd71bd3f3f24c7c5965cc304e9832f7f5",
         "url": "https://beveiligingnieuws.nl/agent-krijgt-taakstraf-voor-opzoeken-informatie-2/",
         "title": "Politie behandeld voor intern misbruik van politiesystemen door Haagse agent",
-        "date_published": "2025-11-19T18:14:00Z",
-        "date_modified": "2025-11-19T18:14:00Z",
+        "date_published": "2025-11-19T17:14:00Z",
+        "date_modified": "2025-11-19T17:14:00Z",
         "language": "nl-nl",
         "author": {
             "name": "beveiligingnieuws.nl"
@@ -676,11 +793,11 @@
         "content_text": "Politie Den Haag | Overheid: Politie | 18-11-2025 | DataLekt.nl: Een 24-jarige politiemedewerker uit Den Haag heeft gedurende de periode van oktober 2023 tot september 2024 herhaaldelijk zonder geldige werkreden bevragingen uitgevoerd in politiesystemen, vaak \u2019s nachts, buiten diensttijd of tijdens verlof. De automatische monitoring van het systeem sloeg alarm vanwege het hoge aantal ongebruikelijke bevragingen, waarna onderzoek volgde. De agent verklaarde dat hij uit onzekerheid wilde oefenen, maar erkende dat dit onrechtmatig was. Vanwege het risico op misbruik van privacygevoelige gegevens legt het Openbaar Ministerie een taakstraf van tachtig uur op, die hij heeft geaccepteerd. (Bron: beveiligingnieuws.nl)"
     },
     {
-        "id": "https://www.binnenlandsbestuur.nl/juridisch/overijssel-weer-in-de-fout-met-woo-documenten?datalekt=c3f25f6166b8040c9865f6e7d7f9b81bc30f0d0afccdcb4c7203481df2e60f7a",
+        "id": "https://www.binnenlandsbestuur.nl/juridisch/overijssel-weer-in-de-fout-met-woo-documenten?datalekt=f1d55ef415dc1683cb835150a01787f7b3f344b4eb4757ea4d1baeaf90306b0b",
         "url": "https://www.binnenlandsbestuur.nl/juridisch/overijssel-weer-in-de-fout-met-woo-documenten",
         "title": "Provincie Overijssel publiceert opnieuw niet-geanonimiseerde Woo-documenten",
-        "date_published": "2025-11-14T11:34:00Z",
-        "date_modified": "2025-11-14T11:34:00Z",
+        "date_published": "2025-11-14T10:34:00Z",
+        "date_modified": "2025-11-14T10:34:00Z",
         "language": "nl-nl",
         "author": {
             "name": "binnenlandsbestuur.nl"
@@ -689,11 +806,11 @@
         "content_text": "Provincie Overijssel | Overheid: Provincies | 12-11-2025 | DataLekt.nl: De provincie Overijssel heeft voor de tweede keer in vier maanden per abuis niet-geanonimiseerde Woo-documenten online geplaatst over een aanvraag voor windturbines in Kampen. Hierdoor waren opnieuw persoonsgegevens en concurrentiegevoelige informatie tijdelijk toegankelijk. Volgens de provincie gaat het om een menselijke fout. De documenten stonden dit keer ongeveer drie dagen online en zijn door zes IP-adressen geraadpleegd. Eerder gebeurde dit al op 1 augustus, toen dezelfde documenten veertien uur openbaar waren. Overijssel heeft melding gedaan bij de Autoriteit Persoonsgegevens en zegt de interne werkwijze verder te evalueren. (Bron: binnenlandsbestuur.nl)"
     },
     {
-        "id": "https://www.security.nl/posting/912435/AP+waarschuwt+ruim+200+websites+over+onjuiste+cookiebanners?datalekt=c3feaac09e1f2e39979271e363f060d6a336b50c7396f87cde80879e680934bd",
+        "id": "https://www.security.nl/posting/912435/AP+waarschuwt+ruim+200+websites+over+onjuiste+cookiebanners?datalekt=83bde71119880842b280869098b6ea8d265ec53c7e1227418fd41bb8323c19a0",
         "url": "https://www.security.nl/posting/912435/AP+waarschuwt+ruim+200+websites+over+onjuiste+cookiebanners",
         "title": "Ruim 200 Nederlandse websites krijgen waarschuwing van de AP over misleidende cookiebanners",
-        "date_published": "2025-11-13T09:45:00Z",
-        "date_modified": "2025-11-13T09:45:00Z",
+        "date_published": "2025-11-13T08:45:00Z",
+        "date_modified": "2025-11-13T08:45:00Z",
         "language": "nl-nl",
         "author": {
             "name": "security.nl"
@@ -702,11 +819,11 @@
         "content_text": "200 onbekende organisaties | Overig | 11-11-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens heeft ruim tweehonderd Nederlandse websites gewaarschuwd omdat zij een onjuiste of misleidende cookiebanner gebruiken. De toezichthouder controleert sinds april 2025 structureel of websites op de juiste manier toestemming vragen voor trackingcookies, die alleen mogen worden geplaatst na vrijwillige en duidelijke instemming van bezoekers. Ongeveer driekwart van de websites paste de banner aan; tegen de overige partijen start de AP handhavingsmaatregelen. De AP benadrukt dat organisaties bezoekers eerlijk moeten informeren en dat het toepassen van volgsoftware strikte naleving van de regels vereist. (Bron: security.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4552f1c449c7eb5fe73b63c02276df363176d9a089fa90c23dbac91d2fbdf1ae",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=2fec08364d03d1b37202824661ac4f6ca25760f81edaf201fd9ae24e1bef1cfe",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "PCB Uitvaartzorg getroffen door ransomware aanval van de criminele organisatie Qilin",
-        "date_published": "2025-11-10T13:41:00Z",
-        "date_modified": "2025-11-10T13:41:00Z",
+        "date_published": "2025-11-10T12:41:00Z",
+        "date_modified": "2025-11-10T12:41:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ccinfo.nl"
@@ -715,11 +832,11 @@
         "content_text": "PCB Uitvaartzorg | Overige dienstverlening | 06-11-2025 | DataLekt.nl: De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij PCB Uitvaartzorg heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/?datalekt=cbe71dd6db5665e7cbb0d11f4fa4f36d4836c29c684ba184b4a0ffa079d8bbaf",
+        "id": "https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/?datalekt=c0416b091442a3ea0ec46e0b00e5b7bdd9f055e8a714c255ad2c854b6dbaeb0c",
         "url": "https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/",
         "title": "Zwemschool Van Goor in Zwolle lekt leerlinggegevens door gebrekkige beveiliging",
-        "date_published": "2025-11-08T14:23:00Z",
-        "date_modified": "2025-11-08T14:23:00Z",
+        "date_published": "2025-11-08T13:23:00Z",
+        "date_modified": "2025-11-08T13:23:00Z",
         "language": "nl-nl",
         "author": {
             "name": "destentor.nl"
@@ -728,11 +845,11 @@
         "content_text": "Zwemschool van Goor | Kunst, cultuur, sport en recreatie | 05-11-2025 | DataLekt.nl: Bij zwemschool Van Goor in Zwolle zijn de gegevens van ongeveer zeshonderd leerlingen eenvoudig toegankelijk geweest via internet. Door een foutieve configuratie van het leerlingvolgsysteem konden onbevoegden met \u00e9\u00e9n standaardwachtwoord inloggen en namen en voortgang van kinderen inzien. Een anonieme cyberexpert ontdekte het lek en waarschuwde de school, maar pas na herhaald aandringen werden maatregelen genomen. Desondanks bleef de beveiliging gebrekkig. Privacyorganisatie Bits of Freedom noemt de situatie ernstig en stelt dat de zwemschool het datalek moet melden bij de Autoriteit Persoonsgegevens. (Bron: destentor.nl)"
     },
     {
-        "id": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=16a81a58716ead994e5a995e7a672edaa5e7f3e47498cb9e65635b19347ed38b",
+        "id": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=9276b45f448fa1a115c217a545239df454c255adaf36643c0fceb9996ab1af59",
         "url": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html",
         "title": "Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil",
-        "date_published": "2025-10-15T11:35:00Z",
-        "date_modified": "2025-11-08T14:17:00Z",
+        "date_published": "2025-10-15T09:35:00Z",
+        "date_modified": "2025-11-08T13:17:00Z",
         "language": "nl-nl",
         "author": {
             "name": "lc.nl"
@@ -741,11 +858,11 @@
         "content_text": "Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen van de groep Qilin hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. [Update: Op 28 oktober 2025 is bekend geworden dat hackersgroep Qilin 1TB aan data van afvalverwerker Omrin heeft gepubliceerd, waaronder volledige laptopinhoud en persoonsgegevens van medewerkers.] [Update: Op 6 november 2025 is bekend geworden dat Omrin geen losgeld heeft betaald.] (Bron: lc.nl)"
     },
     {
-        "id": "https://www.hartvannederland.nl/politiek/verkiezingen/artikelen/stem-op-een-vrouw-website-aanval-verkiezingsdag?datalekt=8e075ebab2b7b77be254058f29ee92aae7e760b054117152afdfedab4624785e",
+        "id": "https://www.hartvannederland.nl/politiek/verkiezingen/artikelen/stem-op-een-vrouw-website-aanval-verkiezingsdag?datalekt=2df3378609c21f5421640c857c44b40faa0e81360551c308a81775d413e4d350",
         "url": "https://www.hartvannederland.nl/politiek/verkiezingen/artikelen/stem-op-een-vrouw-website-aanval-verkiezingsdag",
         "title": "Website van Stem op een Vrouw platgelegd door ddos-aanval op dag van Tweede Kamerverkiezingen",
-        "date_published": "2025-11-07T09:58:00Z",
-        "date_modified": "2025-11-07T09:58:00Z",
+        "date_published": "2025-11-07T08:58:00Z",
+        "date_modified": "2025-11-07T08:58:00Z",
         "language": "nl-nl",
         "author": {
             "name": "hartvannederland.nl"
@@ -754,11 +871,11 @@
         "content_text": "Stichting Stem op een Vrouw | Overige dienstverlening | 04-11-2025 | DataLekt.nl: Op de ochtend van de Tweede Kamerverkiezingen is de website van de stichting Stem op een Vrouw getroffen door een ddos-aanval, waardoor de site tijdelijk onbereikbaar was. De avond ervoor waren er al vertragingen merkbaar. Volgens directeur Devika Partiman kwamen de aanvalspogingen voornamelijk van IP-adressen uit Rusland en China. De webbeheerder wist de aanval te stoppen door een verificatiesysteem in te stellen, waarna de website weer toegankelijk werd. De stichting heeft aangifte gedaan van het incident. (Bron: hartvannederland.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/241180/rtv-noord-is-gehackt-grote-gevolgen-voor-uitzendingen-en-publicaties.html?datalekt=fca4986abf855e6ad6bff61f0b0543ea47a7784b1bfd0ff4b77d38ab3a81c3d5",
+        "id": "https://tweakers.net/nieuws/241180/rtv-noord-is-gehackt-grote-gevolgen-voor-uitzendingen-en-publicaties.html?datalekt=8d97f69a5a4c452797bf0a4a4665b9af178aa698af6e42331d2b24d14890ae23",
         "url": "https://tweakers.net/nieuws/241180/rtv-noord-is-gehackt-grote-gevolgen-voor-uitzendingen-en-publicaties.html",
         "title": "RTV Noord getroffen door hack met grote gevolgen voor uitzendingen en publicaties",
-        "date_published": "2025-11-07T09:37:00Z",
-        "date_modified": "2025-11-07T09:37:00Z",
+        "date_published": "2025-11-07T08:37:00Z",
+        "date_modified": "2025-11-07T08:37:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -767,11 +884,11 @@
         "content_text": "RTV Noord | Media en inhoud | 06-11-2025 | DataLekt.nl: De Groningse regionale omroep RTV Noord is getroffen door een hack die grote gevolgen heeft voor haar uitzendingen en online publicaties. Door de aanval konden geen nieuwe berichten meer worden geplaatst op de app en website van de omroep. Onbekende hackers lieten een boodschap achter op de servers, maar de inhoud daarvan is niet bekendgemaakt. De ict-afdeling ontdekte het incident, waarna noodmaatregelen werden genomen om de tv-uitzending van de avond toch door te laten gaan. De radiozender bleef wel in de lucht. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.omroepwest.nl/politiek/5032570/gemeente-deelt-mogelijk-weer-persoonsgegevens-na-berucht-datalek?datalekt=9b5a26b574ba7326689680ff727ce01d7ae46e271d04f6bc12610c40172113a0",
+        "id": "https://www.omroepwest.nl/politiek/5032570/gemeente-deelt-mogelijk-weer-persoonsgegevens-na-berucht-datalek?datalekt=2328326c2f31434e83c142fa1ce72fff790d6d835c7a229ec5126486351f3c96",
         "url": "https://www.omroepwest.nl/politiek/5032570/gemeente-deelt-mogelijk-weer-persoonsgegevens-na-berucht-datalek",
         "title": "Gemeente Midden-Delfland deelt mogelijk opnieuw persoonsgegevens van bezwaarmakers tegen azc Den Hoorn",
-        "date_published": "2025-11-03T10:54:00Z",
-        "date_modified": "2025-11-03T10:54:00Z",
+        "date_published": "2025-11-03T09:54:00Z",
+        "date_modified": "2025-11-03T09:54:00Z",
         "language": "nl-nl",
         "author": {
             "name": "omroepwest.nl"
@@ -780,11 +897,11 @@
         "content_text": "Gemeente Midden-Delfland | Overheid: Gemeenten | 31-10-2025 | DataLekt.nl: De gemeente Midden-Delfland heeft mogelijk opnieuw persoonsgegevens van inwoners gedeeld zonder toestemming, kort na een eerder groot datalek. Tijdens een besloten bijeenkomst voor bezwaarmakers tegen de komst van een asielzoekerscentrum in Den Hoorn meldden betrokkenen dat hun gegevens onterecht zijn gedeeld met onderzoeksbureau Berenschot en met de rechtbank in een beroepszaak. De gemeente stelt dat zij in beide gevallen dacht hiertoe wettelijk verplicht te zijn en laat dit momenteel toetsen. Het incident volgt op het eerdere datalek van juli, waarbij gegevens van 132 bezwaarmakers per ongeluk openbaar werden gemaakt. (Bron: omroepwest.nl)"
     },
     {
-        "id": "https://www.pzc.nl/rotterdam/hacker-krijgt-opnieuw-jarenlange-celstraf-na-identiteitsfraude-en-diefstallen~a24c11ea/?datalekt=9fd8abd1d91d20f3690ed5dee3b156584aa55e41807ca414989afc495bdd77a3",
+        "id": "https://www.pzc.nl/rotterdam/hacker-krijgt-opnieuw-jarenlange-celstraf-na-identiteitsfraude-en-diefstallen~a24c11ea/?datalekt=9114d5ab1dd032102bddafc87d7d235d9fca714904f3aae112b19b028dd5f144",
         "url": "https://www.pzc.nl/rotterdam/hacker-krijgt-opnieuw-jarenlange-celstraf-na-identiteitsfraude-en-diefstallen~a24c11ea/",
         "title": "Hacker uit Capelle aan den IJssel veroordeeld na identiteitsfraude en digitale inbraken bij bedrijven en particulieren",
-        "date_published": "2025-11-03T10:52:00Z",
-        "date_modified": "2025-11-03T10:52:00Z",
+        "date_published": "2025-11-03T09:52:00Z",
+        "date_modified": "2025-11-03T09:52:00Z",
         "language": "nl-nl",
         "author": {
             "name": "pzc.nl"
@@ -793,11 +910,11 @@
         "content_text": "Onbekend aantal organisaties | Overig | 31-10-2025 | DataLekt.nl: Een 27-jarige hacker uit Capelle aan den IJssel is door de rechtbank veroordeeld tot twee jaar celstraf, waarvan \u00e9\u00e9n jaar voorwaardelijk, voor hacking, identiteitsfraude en diefstallen bij diverse bedrijven en particulieren. De man verzamelde inlog- en persoonsgegevens van slachtoffers en gebruikte deze om binnen te dringen in geautomatiseerde systemen van bedrijven en om bestellingen te plaatsen op naam van anderen. Zijn eerdere voorwaardelijke straf van \u00e9\u00e9n jaar wordt alsnog ten uitvoer gebracht, waardoor hij in totaal drie jaar gevangenisstraf krijgt. (Bron: pzc.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240992/hackersgroep-kreeg-bsns-inwoners-schiermonnikoog-in-handen.html?datalekt=85e70a0a87d5f83f76dc77576269393d4cfc445c092fd5f2253bc16c3abc04b8",
+        "id": "https://tweakers.net/nieuws/240992/hackersgroep-kreeg-bsns-inwoners-schiermonnikoog-in-handen.html?datalekt=73b65f4241cac048de3f3d7462b1682543491ca058f79130af0951f0cad46778",
         "url": "https://tweakers.net/nieuws/240992/hackersgroep-kreeg-bsns-inwoners-schiermonnikoog-in-handen.html",
         "title": "Gemeente Schiermonnikoog getroffen door datalek bij afvalverwerker Omrin waarbij bsn\u2019s van inwoners zijn buitgemaakt",
-        "date_published": "2025-11-03T10:48:00Z",
-        "date_modified": "2025-11-03T10:48:00Z",
+        "date_published": "2025-11-03T09:48:00Z",
+        "date_modified": "2025-11-03T09:48:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -806,11 +923,11 @@
         "content_text": "Gemeente Schiermonnikoog | Overheid: Gemeenten | 02-11-2025 | DataLekt.nl: De Russische hackersgroep Qilin heeft via een ransomware-aanval op afvalverwerker Omrin op 12 oktober persoonsgegevens van inwoners van Schiermonnikoog buitgemaakt. In een bestand stonden namen, adressen en burgerservicenummers van inwoners, alsmede gegevens van bedrijven en eigenaren van vakantiewoningen. Schiermonnikoog is de enige gemeente waarvan zulke gegevens zijn getroffen. De gemeente erkent dat Omrin het bsn onterecht verwerkte en heeft bewoners per brief ge\u00efnformeerd. De buitgemaakte data vergroten het risico op identiteitsfraude en phishing. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=899d02639de7c16d7ab14fbcef6a5965428ac9ef98c25e11abf7be9e1082c8ee",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=041cb663d31dc58be3625c8b1ba3330f94bb895e9891d4dc7b6c978dabae8512",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Bangnoles getroffen door ransomware aanval van de criminele organisatie Qilin",
-        "date_published": "2025-10-31T10:53:00Z",
-        "date_modified": "2025-10-31T10:53:00Z",
+        "date_published": "2025-10-31T09:53:00Z",
+        "date_modified": "2025-10-31T09:53:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ccinfo.nl"
@@ -819,11 +936,11 @@
         "content_text": "Bangnoles | Groot- en detailhandel | 30-10-2025 | DataLekt.nl: De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij Bangnoles heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.rtl.nl/nieuws/economie/artikel/5532612/medewerkster-hilton-schiphol-lekte-vertrouwelijke-gasteninformatie?datalekt=2e72bf0892564158e97eb0907af6158548cc163ebe471332d5d048441372a72c",
+        "id": "https://www.rtl.nl/nieuws/economie/artikel/5532612/medewerkster-hilton-schiphol-lekte-vertrouwelijke-gasteninformatie?datalekt=6b2c5a6c3c44c6135215adfb9d28dc6e36aea9087b46264b7cde32db4a7ac597",
         "url": "https://www.rtl.nl/nieuws/economie/artikel/5532612/medewerkster-hilton-schiphol-lekte-vertrouwelijke-gasteninformatie",
         "title": "Hilton Schiphol-medewerkster lekt vertrouwelijke gasteninformatie naar priv\u00e9-mailadres",
-        "date_published": "2025-10-30T16:31:00Z",
-        "date_modified": "2025-10-30T16:31:00Z",
+        "date_published": "2025-10-30T15:31:00Z",
+        "date_modified": "2025-10-30T15:31:00Z",
         "language": "nl-nl",
         "author": {
             "name": "rtl.nl"
@@ -832,11 +949,11 @@
         "content_text": "Hilton Amsterdam Airport Schiphol | Horeca | 10-10-2025 | DataLekt.nl: Een medewerkster van Hilton Amsterdam Airport Schiphol heeft begin mei 2025 een document met persoonsgegevens van 71 hotelgasten naar haar priv\u00e9-e-mailadres gestuurd. Het betrof een portfolio van 23 pagina\u2019s met namen, functietitels, bedrijfsnamen, telefoonnummers en e-mailadressen van gasten, die zij naar eigen zeggen wilde gebruiken om via LinkedIn contact te leggen. Hilton ontdekte dit bij toeval en ontsloeg de vrouw op staande voet wegens het schenden van de gedragscode en het verspreiden van \u2018highly sensitive customer data\u2019. De rechter oordeelde dat het ontslag terecht was, omdat sprake was van een ernstige schending van privacyregels. (Bron: rtl.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=3ded63fa520693fad0b1bb7c2691ade6593ff610d7fc75ee85bc574aab831ea3",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7017f37de6832ab1cbc9612b966b2e2845675c7db496b4994eaead4e7ab3879f",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Spijkermat getroffen door ransomware aanval van de criminele organisatie Radiant",
-        "date_published": "2025-10-30T10:47:00Z",
-        "date_modified": "2025-10-30T10:47:00Z",
+        "date_published": "2025-10-30T09:47:00Z",
+        "date_modified": "2025-10-30T09:47:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ccinfo.nl"
@@ -845,11 +962,11 @@
         "content_text": "Spijkermat | Groot- en detailhandel | 29-10-2025 | DataLekt.nl: De criminele organisatie Radiant heeft op het darkweb aangekondigd dat zij Spijkermat heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html?datalekt=7f809e7a8d86a0da1098ebc1dd9dd6f9bb0763e056cc67769493582ab7106831",
+        "id": "https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html?datalekt=6553933bdb5d7492615009a2175fefbe030918950d215a775e529584b1223f05",
         "url": "https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html",
         "title": "Datalek bij Postcode Loterij en Vriendenloterij geeft 1580 deelnemers inzage in elkaars persoonsgegevens",
-        "date_published": "2025-10-28T16:53:00Z",
-        "date_modified": "2025-10-28T16:53:00Z",
+        "date_published": "2025-10-28T15:53:00Z",
+        "date_modified": "2025-10-28T15:53:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -858,11 +975,11 @@
         "content_text": "Nationale Goede Doelen Loterijen | Overige dienstverlening | 27-10-2025 | DataLekt.nl: Bij de Postcode Loterij en de Vriendenloterij, beide onderdeel van Goede Doelen Loterijen, hebben 1580 deelnemers tijdelijk toegang gehad tot elkaars persoonsgegevens. Door een technische fout in het deelnemersportaal konden namen, adressen, contactgegevens, e-mailadressen en bankgegevens van andere klanten worden ingezien. Het betrof 760 deelnemers van de Postcode Loterij en 820 van de Vriendenloterij. Uit onderzoek blijkt dat er geen sprake was van een aanval van buitenaf. Het portaal werd direct offline gehaald en de organisatie meldt het incident bij de Autoriteit Persoonsgegevens. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.ccinfo.nl/journaal/2784826_broncode-gestolen-bij-irias-microsoft-wsus-kwetsbaar-en-brigitte-macron-doelwit-van-hackers?datalekt=71fff4981e47adc64574998c5dce716195d5c95b9e7c59ea37edc20f1c342983",
+        "id": "https://www.ccinfo.nl/journaal/2784826_broncode-gestolen-bij-irias-microsoft-wsus-kwetsbaar-en-brigitte-macron-doelwit-van-hackers?datalekt=01623ef222d8efed9705a092b79471ecba6378565ff7f61b469273479fdd3d6b",
         "url": "https://www.ccinfo.nl/journaal/2784826_broncode-gestolen-bij-irias-microsoft-wsus-kwetsbaar-en-brigitte-macron-doelwit-van-hackers",
         "title": "Irias getroffen door datalek waarbij broncode is buitgemaakt",
-        "date_published": "2025-10-28T16:51:00Z",
-        "date_modified": "2025-10-28T16:51:00Z",
+        "date_published": "2025-10-28T15:51:00Z",
+        "date_modified": "2025-10-28T15:51:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ccinfo.nl"
@@ -871,11 +988,11 @@
         "content_text": "Irias | ICT en telecommunicatie | 28-10-2025 | DataLekt.nl: Irias, een Nederlands softwarebedrijf voor Geo/GIS, meldt een datalek waarbij bedrijfsgevoelige informatie is gestolen, inclusief de broncode van hun software. Volgens de berichtgeving is het incident door een dreigingsactor op een hackersforum bekendgemaakt, met een gedeelde directorylijst en de claim dat de volledige broncode beschikbaar is om te downloaden. Het incident vergroot het risico op misbruik van intellectueel eigendom en kan grote gevolgen hebben als de code verder wordt verspreid. Er zijn geen aantallen of klantgegevens genoemd. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/?datalekt=945feba3acfbf2ef9177e8ae8cde0c25a8688082ad29c5819609aca052a3ba0a",
+        "id": "https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/?datalekt=7fe0c6766af8be052bbe246b2d55154f85b993f13685ee03e4ff39ccf377a41b",
         "url": "https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/",
         "title": "Gemeente Katwijk meldt datalek door foutieve gegevens van Zorg en Zekerheid in schuldensignalering",
-        "date_published": "2025-10-26T14:14:00Z",
-        "date_modified": "2025-10-26T14:14:00Z",
+        "date_published": "2025-10-26T13:14:00Z",
+        "date_modified": "2025-10-26T13:14:00Z",
         "language": "nl-nl",
         "author": {
             "name": "rtvkatwijk.nl"
@@ -884,11 +1001,11 @@
         "content_text": "Gemeente Katwijk | Overheid: Gemeenten | 24-10-2025 | DataLekt.nl: De gemeente Katwijk heeft een datalek gemeld bij de Autoriteit Persoonsgegevens nadat 148 inwoners begin oktober 2025 ten onrechte een bericht ontvingen over een vermeende betalingsachterstand. De fout ontstond doordat zorgverzekeraar Zorg en Zekerheid op 25 september een onjuiste lijst met namen aanleverde. Op basis daarvan verstuurde de gemeente op 1 oktober berichten aan inwoners. Na ontdekking verwijderde Katwijk de gegevens en Zorg en Zekerheid stuurde op 17 oktober een excuusbrief. De gemeente scherpt haar controles op schuldensignalering aan om herhaling te voorkomen. (Bron: rtvkatwijk.nl)"
     },
     {
-        "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en?datalekt=8ab5ba533df09a95a115d580e101b4e5def82e8469d5c4fca1bf582c008f77fa",
+        "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en?datalekt=4b28d67ac803a8a23e0402d0c8e297de446961b1f9644fbe236d830877e001a9",
         "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en",
         "title": "Franchisenemer Bun van Albert Heijn getroffen door ransomware-aanval",
-        "date_published": "2025-10-14T11:11:00Z",
-        "date_modified": "2025-10-23T15:33:00Z",
+        "date_published": "2025-10-14T09:11:00Z",
+        "date_modified": "2025-10-23T13:33:00Z",
         "language": "nl-nl",
         "author": {
             "name": "rtl.nl"
@@ -897,11 +1014,11 @@
         "content_text": "Bun | Onroerend goed | 13-10-2025 | DataLekt.nl: De grootste franchisenemer van Albert Heijn, Bun, is op 13 oktober 2025 getroffen door een ransomware-aanval waarbij cybercriminelen personeelsdossiers, paspoortkopie\u00ebn, bankrekeningnummers en medische gegevens van medewerkers en oud-medewerkers hebben gestolen. Een deel van de buitgemaakte data, naar schatting 20 procent, is inmiddels gepubliceerd op het dark web. De aanvallers dreigen meer informatie openbaar te maken als er geen losgeld wordt betaald. In totaal gaat het vermoedelijk om duizenden getroffen (oud-)medewerkers van de 26 filialen van Bun. [Update: Op 23 oktober 2025 zijn er meer details in de media bekend geworden, waarmee de bron is veranderd van ccinfo.nl naar rlt.nl.] (Bron: rtl.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=ce145ca155a12179f8535db570d817b18f3b72e9044860d9bb2723d201ecf7d4",
+        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=a669c768e55aaeab4dc4b9002e7d26700d4903ec41ace5b9354ef0cda807c570",
         "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
         "title": "Nieuw Sociaal Contract past website aan na klacht over trackingcookies zonder toestemming",
-        "date_published": "2025-10-20T19:46:00Z",
-        "date_modified": "2025-10-20T19:46:00Z",
+        "date_published": "2025-10-20T17:46:00Z",
+        "date_modified": "2025-10-20T17:46:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -910,11 +1027,11 @@
         "content_text": "Nieuw Sociaal Contract (NSC) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: Begin oktober 2025 ontdekte de Stichting Data Bescherming Nederland dat de website van Nieuw Sociaal Contract trackingcookies plaatste zonder dat bezoekers vooraf toestemming gaven. Na een waarschuwingsbrief van de stichting op 10 oktober heeft de partij de website aangepast om te voldoen aan de privacyregels. (Bron: tweakers.net)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=b641b6f941eb126fc17fe3c6407163b889b4968b20b60b06e600fbad04d806a0",
+        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=9c53264d04ce28f5c3553a4f16860c0546fde1e715427145ed891d0d46b0bc21",
         "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
         "title": "JA21 herstelt website na klacht over trackingcookies zonder toestemming",
-        "date_published": "2025-10-20T19:45:00Z",
-        "date_modified": "2025-10-20T19:45:00Z",
+        "date_published": "2025-10-20T17:45:00Z",
+        "date_modified": "2025-10-20T17:45:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -923,11 +1040,11 @@
         "content_text": "JA21 | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland constateerde dat de website van JA21 begin oktober 2025 trackingcookies plaatste zonder toestemming van bezoekers. Na een waarschuwingsbrief op 10 oktober heeft de partij maatregelen genomen en de website aangepast om te voldoen aan de AVG. (Bron: tweakers.net)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=7c6be3d194259c8be15b6d49c76eb9592431b0428eb663bc837cbf4cc905dccb",
+        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=8974b380048a4b80c74ff122efd4eb9fc50171ee71e6e9a15bedcc37f095a167",
         "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
         "title": "DENK corrigeert website na overtreding van cookieregels zonder toestemming",
-        "date_published": "2025-10-20T19:44:00Z",
-        "date_modified": "2025-10-20T19:44:00Z",
+        "date_published": "2025-10-20T17:44:00Z",
+        "date_modified": "2025-10-20T17:44:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -936,11 +1053,11 @@
         "content_text": "DENK | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: Volgens de Stichting Data Bescherming Nederland plaatste de website van DENK begin oktober 2025 trackingcookies zonder dat bezoekers toestemming gaven. Na een brief van de stichting op 10 oktober heeft de partij haar website aangepast zodat cookies niet langer zonder toestemming worden geplaatst. (Bron: tweakers.net)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=c82f767b711803c4873e961a4d3124179c1fe5ab6aa948ae045e492dede4f1e3",
+        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=c0f71613dd88d082b99198af752adbffff726e61d41810e76611c1e3f59486b5",
         "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
         "title": "ChristenUnie verwijdert trackingcookies na waarschuwing over schending van cookieregels",
-        "date_published": "2025-10-20T19:43:00Z",
-        "date_modified": "2025-10-20T19:43:00Z",
+        "date_published": "2025-10-20T17:43:00Z",
+        "date_modified": "2025-10-20T17:43:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -949,11 +1066,11 @@
         "content_text": "ChristenUnie (CU) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland meldde dat de website van de ChristenUnie begin oktober 2025 trackingcookies plaatste zonder toestemming. Na de waarschuwing van 10 oktober heeft de partij haar website aangepast om te voldoen aan de privacywetgeving. (Bron: tweakers.net)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=6c1a0cef42fba53111abe78fc9bc6daf570fb834b029055ef6b14027937c5048",
+        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=cc44ee258d6dc51f17239fd2a4b2e031b47a77aba07d541ed2142d351ae02792",
         "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
         "title": "BoerBurgerBeweging paste website aan na kritiek op ongeoorloofde trackingcookies",
-        "date_published": "2025-10-20T19:42:00Z",
-        "date_modified": "2025-10-20T19:42:00Z",
+        "date_published": "2025-10-20T17:42:00Z",
+        "date_modified": "2025-10-20T17:42:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -962,11 +1079,11 @@
         "content_text": "BoerBurgerBeweging (BBB) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland ontdekte dat de website van BoerBurgerBeweging begin oktober 2025 trackingcookies plaatste zonder toestemming van bezoekers. Na een waarschuwingsbrief op 10 oktober heeft de partij de website aangepast om te voldoen aan de privacywetgeving. (Bron: tweakers.net)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=bffb6cdde15f895a82d327ca6dea8793c5a13dd5ed436d3e1a8fc9e9186a2837",
+        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=bc455e13100e485ea999f57cf09b32cf7185dbf16ae56858c6a910b071db46fb",
         "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
         "title": "50PLUS laat bezoekers cookies niet volledig weigeren en deelt gegevens met Google Analytics",
-        "date_published": "2025-10-20T19:41:00Z",
-        "date_modified": "2025-10-20T19:41:00Z",
+        "date_published": "2025-10-20T17:41:00Z",
+        "date_modified": "2025-10-20T17:41:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -975,11 +1092,11 @@
         "content_text": "50PLUS | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: Volgens de Stichting Data Bescherming Nederland kunnen bezoekers van de website van 50PLUS cookies alleen weigeren door handmatig instellingen aan te passen, wat niet voldoet aan de AVG. Daarnaast stuurt de partij gegevens door naar Google Analytics, een dienst die mogelijk niet aan de privacywetgeving voldoet. Ondanks een waarschuwing op 10 oktober 2025 plaatst de website nog steeds trackingcookies zonder geldige toestemming. (Bron: tweakers.net)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=8e910a65a147a5fe74d14d595d3c3d778a0a712b6d793d50dbcf373748c25ce7",
+        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=a813c9167e47145bdb53e205e5d35ec72dbfbf8175e7699c3f19b5d7084d8dc6",
         "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
         "title": "Forum voor Democratie plaatst YouTube-cookies zonder toestemming van websitebezoekers",
-        "date_published": "2025-10-20T19:40:00Z",
-        "date_modified": "2025-10-20T19:40:00Z",
+        "date_published": "2025-10-20T17:40:00Z",
+        "date_modified": "2025-10-20T17:40:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -988,11 +1105,11 @@
         "content_text": "Forum voor Democratie (FvD) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland stelt dat de website van Forum voor Democratie bij het laden automatisch YouTube-cookies plaatst, ook als bezoekers hiervoor geen toestemming geven via de cookiebanner. Dit is in strijd met de regels van de AVG en de Telecommunicatiewet. Ondanks een waarschuwing van de stichting op 10 oktober 2025 zou de partij de website nog niet hebben aangepast. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.security.nl/posting/591381/AP+onderzoekt+handel+in+persoonsgegevens+door+tennisbond+KNLTB?datalekt=64d8d855eb85e86f4987fea1a07d3f6019e3f7385f2fb55c57e8c52c3549ee67",
+        "id": "https://www.security.nl/posting/591381/AP+onderzoekt+handel+in+persoonsgegevens+door+tennisbond+KNLTB?datalekt=94c1b93cbe5bc1c66b3fc7a85c36ae7016fb0a88fee6d07dbb931a8eaf35a475",
         "url": "https://www.security.nl/posting/591381/AP+onderzoekt+handel+in+persoonsgegevens+door+tennisbond+KNLTB",
         "title": "AP start onderzoek naar gegevenshandel door tennisbond KNLTB",
-        "date_published": "2021-10-01T00:00:00Z",
-        "date_modified": "2025-10-19T14:51:00Z",
+        "date_published": "2021-09-30T22:00:00Z",
+        "date_modified": "2025-10-19T12:51:00Z",
         "language": "nl-nl",
         "author": {
             "name": "security.nl"
@@ -1001,11 +1118,11 @@
         "content_text": "Koninklijke Nederlandse Lawn Tennisbond (KNLTB) | Kunst, cultuur, sport en recreatie | 18-12-2018 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) is een onderzoek begonnen naar de tennisbond KNLTB vanwege de handel in persoonsgegevens. Dit volgt na klachten van sportbondleden over ongewenste belacties en reclame. Voorzitter van de AP, Aleid Wolfsen, benadrukt dat sportbonden persoonsgegevens mogen gebruiken voor operationele doeleinden, maar niet voor verkoop zonder uitdrukkelijke toestemming. De KNLTB heeft aangekondigd haar beleid aan te scherpen en zal alleen nog belacties uitvoeren met voorafgaande toestemming van leden. De bond werkt mee aan het onderzoek en wacht de resultaten af. [Update: Op 3 maart 2020 heeft de AP een boete van 525.000 EUR opgelegd.] [Update: Op 18 oktober 2025 is bekend geworden dat de Autoriteit Persoonsgegevens en de KNLTB hun rechtszaak hebben be\u00ebindigd na een uitspraak van het Europees Hof van Justitie. De boete van 525.000 euro wordt gehalveerd tot 250.000 euro, waarbij de KNLTB erkent dat zij onjuist heeft gehandeld.] (Bron: security.nl)"
     },
     {
-        "id": "https://www.nu.nl/binnenland/6372769/door-ambtenaar-gelekte-informatie-leidde-mogelijk-tot-95-incidenten-in-amsterdam.html?datalekt=3fbdd68b49d57fc8fbd7bb75101609f8ac7816e88aa269a3649c655822a6f8ff",
+        "id": "https://www.nu.nl/binnenland/6372769/door-ambtenaar-gelekte-informatie-leidde-mogelijk-tot-95-incidenten-in-amsterdam.html?datalekt=7cc6d06104b5bbb69b364c56ff25e71beb84b23b1508e6514a94b2a2424f0c82",
         "url": "https://www.nu.nl/binnenland/6372769/door-ambtenaar-gelekte-informatie-leidde-mogelijk-tot-95-incidenten-in-amsterdam.html",
         "title": "Gemeente Amsterdam getroffen door datalek door ambtenaar die vertrouwelijke gegevens aan criminelen doorspeelde",
-        "date_published": "2025-10-19T14:47:00Z",
-        "date_modified": "2025-10-19T14:47:00Z",
+        "date_published": "2025-10-19T12:47:00Z",
+        "date_modified": "2025-10-19T12:47:00Z",
         "language": "nl-nl",
         "author": {
             "name": "nu.nl"
@@ -1014,11 +1131,11 @@
         "content_text": "Gemeente Amsterdam | Overheid: Gemeenten | 17-10-2025 | DataLekt.nl: Een ambtenaar van de gemeente Amsterdam heeft volgens het Openbaar Ministerie vertrouwelijke persoonsgegevens uit gemeentelijke computersystemen gelekt aan het criminele circuit. De man, een 57-jarige medewerker, zou vanaf augustus 2024 duizenden zoekopdrachten hebben uitgevoerd om adres- en persoonsinformatie door te spelen aan twee afnemers. Deze gegevens zouden in verband staan met zeker 95 geweldsincidenten, waaronder explosies, beschietingen en pogingen tot moord. De ambtenaar handelde bewust en ook buiten werktijden. Het lek kwam aan het licht na onderzoek door justitie, waarna de ambtenaar in mei 2025 werd aangehouden. (Bron: nu.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html?datalekt=e2d15a00fc12f1b047c8a1fa84b7b231813c6efb1b18dd448b27fc7c9d44e39c",
+        "id": "https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html?datalekt=3c24f0b2a39f20f3439e94d8f7dd0a05da5d171e3307ec2b47b62049126c0c5f",
         "url": "https://tweakers.net/nieuws/228182/ap-gaf-kredietverzamelaar-experian-boete-en-sancties-na-overtreden-privacywet.html",
         "title": "AP legde Experian in 2023 boete en dwangsom op vanwege privacywet-overtreding",
-        "date_published": "2024-11-01T12:30:00Z",
-        "date_modified": "2025-10-17T14:47:00Z",
+        "date_published": "2024-11-01T11:30:00Z",
+        "date_modified": "2025-10-17T12:47:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -1027,11 +1144,11 @@
         "content_text": "Experian | Verhuur en zakelijke dienstverlening | 31-10-2024 | DataLekt.nl: In 2023 heeft de Autoriteit Persoonsgegevens (AP) Experian, een Iers kredietinformatiebedrijf, een boete en dwangsom opgelegd wegens het schenden van de AVG. Experian verzamelde zonder gerechtvaardigd belang persoonsgegevens voor commerci\u00eble doeleinden en informeerde betrokkenen onjuist. Hoewel het exacte boetebedrag niet bekend is, kan het volgens het Financieel Dagblad oplopen tot vier procent van Experians wereldwijde omzet. Het bedrijf vecht de sancties aan en stelt dat de AP\u2019s strikte interpretatie van de AVG afwijkt van andere Europese landen. Het recente oordeel van het Europees Hof bekritiseert de strikte aanpak van de AP. [Update: Op 17 oktober 2025 heeft de Autoriteit Persoonsgegevens bekend gemaakt dat de boete vastgesteld is op 2,7 miljoen euro.] (Bron: tweakers.net)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240356/directie-bitvavo-had-jarenlang-toegang-tot-data-van-klanten.html?datalekt=f02532498abb3598e2dfc679aa2efbc1c9510a1af01b9a3c97fd4833e794765b",
+        "id": "https://tweakers.net/nieuws/240356/directie-bitvavo-had-jarenlang-toegang-tot-data-van-klanten.html?datalekt=3d2eaf2d7dc316cfd3a837c76e231fcfe52fd757a9a413c12c1d048b05d12189",
         "url": "https://tweakers.net/nieuws/240356/directie-bitvavo-had-jarenlang-toegang-tot-data-van-klanten.html",
         "title": "Directie van Bitvavo had jarenlang ongeoorloofde toegang tot klantgegevens",
-        "date_published": "2025-10-16T09:19:00Z",
-        "date_modified": "2025-10-16T09:19:00Z",
+        "date_published": "2025-10-16T07:19:00Z",
+        "date_modified": "2025-10-16T07:19:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -1040,11 +1157,11 @@
         "content_text": "Bitvavo | Financi\u00eble diensten | 15-10-2025 | DataLekt.nl: De directie van de Amsterdamse cryptobeurs Bitvavo had tot het voorjaar van 2024 toegang tot persoonlijke gegevens en rekeningen van klanten. Volgens Bitvavo was dat aanvankelijk nodig om te helpen bij klantregistraties en vragen, maar experts stellen dat deze werkwijze in strijd kan zijn met de privacywetgeving. De oud-ceo zou in 2022 hebben gesuggereerd toegang te hebben tot klantdata, waarna Bitvavo na zijn vertrek een integriteitsonderzoek startte door Stibbe en PwC. De Autoriteit Persoonsgegevens benadrukt dat bedrijven controles moeten aanscherpen bij ongeoorloofde inzagepogingen. (Bron: tweakers.net)"
     },
     {
-        "id": "https://nos.nl/artikel/2586333-inspectie-huisartsenspoedposten-hebben-databeveiliging-niet-op-orde?datalekt=028390af2654b933c2e35ee70d6dcc41ce971d77cac1f348eb4f8ca3dbdb8461",
+        "id": "https://nos.nl/artikel/2586333-inspectie-huisartsenspoedposten-hebben-databeveiliging-niet-op-orde?datalekt=07a4f65c866c8434679ca0b2560528c85606b26d5aad37ce362e6cd1054e9fc6",
         "url": "https://nos.nl/artikel/2586333-inspectie-huisartsenspoedposten-hebben-databeveiliging-niet-op-orde",
         "title": "IGJ: huisartsenspoedposten voldoen niet aan normen voor databeveiliging",
-        "date_published": "2025-10-15T11:42:00Z",
-        "date_modified": "2025-10-15T11:42:00Z",
+        "date_published": "2025-10-15T09:42:00Z",
+        "date_modified": "2025-10-15T09:42:00Z",
         "language": "nl-nl",
         "author": {
             "name": "nos.nl"
@@ -1053,11 +1170,11 @@
         "content_text": "43 onbekende huisartsenspoedposten | Gezondheids- en welzijnszorg | 13-10-2025 | DataLekt.nl: Uit onderzoek van de Inspectie Gezondheidszorg en Jeugd (IGJ) blijkt dat 43 van de 49 organisaties die in Nederland huisartsenspoedposten beheren, niet voldoen aan de wettelijke normen voor databeveiliging. De tekortkomingen betreffen onder meer toegangsbeheer tot pati\u00ebntgegevens en het beperken van risico\u2019s op diefstal of verlies van data. Slechts zes organisaties konden aantonen dat zij hun beveiliging onafhankelijk hebben laten certificeren. De IGJ eist dat de overige organisaties maatregelen nemen om hun databeveiliging op orde te brengen en blijft de voortgang volgen. (Bron: nos.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/240300/rivm-haalt-website-offline-na-hack-via-webformulier.html?datalekt=2b848e97fe6ea22a178caeb98117bc124b1a837897b08667614871ab0eec0a22",
+        "id": "https://tweakers.net/nieuws/240300/rivm-haalt-website-offline-na-hack-via-webformulier.html?datalekt=988352700d3d3452efeb1004ebfe037013b821242fa4c3b8dd18e6d8de322290",
         "url": "https://tweakers.net/nieuws/240300/rivm-haalt-website-offline-na-hack-via-webformulier.html",
         "title": "RIVM haalt website offline na hack via kwetsbaarheid in webformulier",
-        "date_published": "2025-10-15T11:32:00Z",
-        "date_modified": "2025-10-15T11:32:00Z",
+        "date_published": "2025-10-15T09:32:00Z",
+        "date_modified": "2025-10-15T09:32:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -1066,11 +1183,11 @@
         "content_text": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM) | Overheid: Agentschappen | 14-10-2025 | DataLekt.nl: Het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) heeft op dinsdag 14 oktober 2025 zijn website tijdelijk offline gehaald nadat hackers via een lek in een webformulier toegang kregen tot het systeem. Door de kwetsbaarheid in gebruikte plug-ins konden aanvallers artikelen met desinformatie op de website plaatsen. Nadat een Reddit-gebruiker de manipulatie opmerkte, besloot het RIVM de site uit voorzorg te sluiten en de technische beveiliging te controleren. Later die dag werd de website weer online gezet, nadat de kwetsbaarheid was verholpen. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=8b65a057d166adfab03a056795cf7b1c02068cb295e1e1091879ba2973bf8ef8",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=d3fb24cd5a6ba092688eb8a5a834490bf063817a583bfa65cf1eb1c6b5544b1e",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Den Hartogh Logistics getroffen door ransomware aanval van de criminele organisatie Anubis",
-        "date_published": "2025-10-12T13:52:00Z",
-        "date_modified": "2025-10-12T13:52:00Z",
+        "date_published": "2025-10-12T11:52:00Z",
+        "date_modified": "2025-10-12T11:52:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ccinfo.nl"
@@ -1079,11 +1196,11 @@
         "content_text": "Den Hartogh Logistics | Vervoer en opslag | 11-10-2025 | DataLekt.nl: De criminele organisatie Anubis heeft op het darkweb aangekondigd dat zij Den Hartogh Logistics heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.nu.nl/binnenland/6371804/ziekenhuis-ontslaat-twee-medewerkers-die-ongeoorloofd-in-1100-dossiers-keken.html?datalekt=339a01d63db372fb3bc9cea32736be6a533a789bba38aec16376d56c1744e73c",
+        "id": "https://www.nu.nl/binnenland/6371804/ziekenhuis-ontslaat-twee-medewerkers-die-ongeoorloofd-in-1100-dossiers-keken.html?datalekt=6d553714a8e01e7a93ecd85be2797dbdb5b21a25be86e3242b3817b396c5336e",
         "url": "https://www.nu.nl/binnenland/6371804/ziekenhuis-ontslaat-twee-medewerkers-die-ongeoorloofd-in-1100-dossiers-keken.html",
         "title": "Albert Schweitzer Ziekenhuis ontslaat twee medewerkers wegens ongeoorloofde inzage in 1.100 pati\u00ebntendossiers",
-        "date_published": "2025-10-10T16:09:00Z",
-        "date_modified": "2025-10-10T16:09:00Z",
+        "date_published": "2025-10-10T14:09:00Z",
+        "date_modified": "2025-10-10T14:09:00Z",
         "language": "nl-nl",
         "author": {
             "name": "nu.nl"
@@ -1092,11 +1209,11 @@
         "content_text": "Albert Schweitzer Ziekenhuis | Gezondheids- en welzijnszorg | 09-10-2025 | DataLekt.nl: Het Albert Schweitzer Ziekenhuis heeft twee medewerkers ontslagen omdat zij zonder toestemming in ruim 1.100 pati\u00ebntendossiers hebben gekeken. De overtreding kwam aan het licht tijdens een interne controle. Een van de medewerkers bekeek onder meer de dossiers van mensen uit zijn eigen omgeving, terwijl de ander vanuit een niet-zorgfunctie beperkte toegang had tot persoonsgegevens zoals namen en adressen. Het ziekenhuis heeft de betrokken pati\u00ebnten ge\u00efnformeerd en melding gedaan bij de Autoriteit Persoonsgegevens en de Inspectie Gezondheidszorg en Jeugd. De interne controles worden aangescherpt. (Bron: nu.nl)"
     },
     {
-        "id": "https://nos.nl/regio/noord-holland/artikel/681947-hack-in-volendam-begon-bij-lokaal-ict-bedrijf?datalekt=c8d0ccc193603940b36b511b297abe85894dc07979830b95f3b20fe1c6e119e4",
+        "id": "https://nos.nl/regio/noord-holland/artikel/681947-hack-in-volendam-begon-bij-lokaal-ict-bedrijf?datalekt=6867fec8a38ba8aa5a4378e7c12ee6a90a79429c030055c4d4134e0d422ee39a",
         "url": "https://nos.nl/regio/noord-holland/artikel/681947-hack-in-volendam-begon-bij-lokaal-ict-bedrijf",
         "title": "Bedrijven in Volendam getroffen door ransomware na hack bij ICT-dienstverlener SMILE Computers",
-        "date_published": "2025-10-10T16:00:00Z",
-        "date_modified": "2025-10-10T16:00:00Z",
+        "date_published": "2025-10-10T14:00:00Z",
+        "date_modified": "2025-10-10T14:00:00Z",
         "language": "nl-nl",
         "author": {
             "name": "nos.nl"
@@ -1105,11 +1222,11 @@
         "content_text": "Onbekend aantal bedrijven | Overige dienstverlening | 08-10-2025 | DataLekt.nl: Een onbekend aantal bedrijven in Volendam is getroffen door een ransomware-aanval nadat hackers via een kwetsbaarheid bij hun ICT-dienstverlener, SMILE Computers, toegang kregen tot hun servers. De criminelen versleutelden gegevens en eisten losgeld, met bedragen tot 5.000 euro. Geen van de getroffen organisaties heeft betaald. SMILE Computers ondersteunt de herstelwerkzaamheden, zoals het terugzetten van back-ups en herinstallatie van servers. De politie onderzoekt het incident. (Bron: nos.nl)"
     },
     {
-        "id": "https://nos.nl/regio/noord-holland/artikel/681947-hack-in-volendam-begon-bij-lokaal-ict-bedrijf?datalekt=5fb49fb42d6f25895294eba17e6e046ca7b4e970e144a8b6ca570c68682eb0d1",
+        "id": "https://nos.nl/regio/noord-holland/artikel/681947-hack-in-volendam-begon-bij-lokaal-ict-bedrijf?datalekt=a7f7539a8d65524a86e3dcf73450a5cbe9c05a762d6584af70734f7b3fb47a55",
         "url": "https://nos.nl/regio/noord-holland/artikel/681947-hack-in-volendam-begon-bij-lokaal-ict-bedrijf",
         "title": "Beveiligingslek bij SMILE Computers maakte ransomware-aanval op klanten mogelijk",
-        "date_published": "2025-10-10T15:59:00Z",
-        "date_modified": "2025-10-10T15:59:00Z",
+        "date_published": "2025-10-10T13:59:00Z",
+        "date_modified": "2025-10-10T13:59:00Z",
         "language": "nl-nl",
         "author": {
             "name": "nos.nl"
@@ -1118,11 +1235,11 @@
         "content_text": "SMILE Computers | ICT en telecommunicatie | 08-10-2025 | DataLekt.nl: Hackers hebben misbruik gemaakt van een beveiligingsfout in de software van het Volendamse ICT-bedrijf SMILE Computers, waardoor zij toegang kregen tot klantomgevingen. Via dit lek konden de aanvallers doordringen tot servers van aangesloten bedrijven, waar vervolgens ransomware werd geplaatst. SMILE Computers zelf lijkt niet te zijn gegijzeld, maar fungeerde als toegangspunt tot de getroffen klanten. Het bedrijf heeft aangifte gedaan en melding gemaakt bij de Autoriteit Persoonsgegevens. De politie onderzoekt de zaak via de cybercrime-afdeling. (Bron: nos.nl)"
     },
     {
-        "id": "https://www.nu.nl/economie/6371614/grootschalige-fraude-gepleegd-door-administrateur-bij-uitvaartorganisatie-dela.html?datalekt=06724cfb6cc45bbde37107f9c9d5f9a50b57a01d057316583b10fb5bfa964b76",
+        "id": "https://www.nu.nl/economie/6371614/grootschalige-fraude-gepleegd-door-administrateur-bij-uitvaartorganisatie-dela.html?datalekt=b64b0a4a7e807d4d570bf641dc26c3c4e2eeea16e5c1ac81b032e8f500cb0b88",
         "url": "https://www.nu.nl/economie/6371614/grootschalige-fraude-gepleegd-door-administrateur-bij-uitvaartorganisatie-dela.html",
         "title": "Financieel administrateur pleegt grootschalige fraude met klantgegevens bij DELA",
-        "date_published": "2025-10-08T10:35:00Z",
-        "date_modified": "2025-10-08T10:35:00Z",
+        "date_published": "2025-10-08T08:35:00Z",
+        "date_modified": "2025-10-08T08:35:00Z",
         "language": "nl-nl",
         "author": {
             "name": "nu.nl"
@@ -1131,11 +1248,11 @@
         "content_text": "DELA | Financi\u00eble diensten | 07-10-2025 | DataLekt.nl: Bij uitvaartorganisatie DELA is tussen 2021 en begin 2022 grootschalige fraude gepleegd door een financieel administrateur binnen Yarden, het uitvaartbedrijf dat DELA kort daarvoor had overgenomen. De medewerker speelde vertrouwelijke klant- en leveranciersgegevens door en liet ruim 80.000 euro aan frauduleuze betalingen uitvoeren. De fraude kwam aan het licht toen een betaling terechtkwam op een onbekend KNAB-rekeningnummer. Na zijn bekentenis werd de werknemer ontslagen, en DELA deed aangifte. De civiele rechter veroordeelde hem in 2024 tot terugbetaling van 84.000 euro. DELA heeft inmiddels haar interne controles aangescherpt. (Bron: nu.nl)"
     },
     {
-        "id": "https://tweakers.net/nieuws/239986/sunweb-bevestigt-datalek-klanten-kregen-betalingsverzoeken-voor-hun-reis.html?datalekt=ebd096842a2c937908d1e6de49a7a486dcf7ee0a19d44f40ff424c1d71b86245",
+        "id": "https://tweakers.net/nieuws/239986/sunweb-bevestigt-datalek-klanten-kregen-betalingsverzoeken-voor-hun-reis.html?datalekt=0a58b97c9430c7f8e5544f1e0e2e8e210f4b88c724e6ce97be2357b86b3723b8",
         "url": "https://tweakers.net/nieuws/239986/sunweb-bevestigt-datalek-klanten-kregen-betalingsverzoeken-voor-hun-reis.html",
         "title": "Sunweb getroffen door datalek waarbij klantgegevens werden misbruikt voor phishingmails",
-        "date_published": "2025-10-07T12:39:00Z",
-        "date_modified": "2025-10-07T12:39:00Z",
+        "date_published": "2025-10-07T10:39:00Z",
+        "date_modified": "2025-10-07T10:39:00Z",
         "language": "nl-nl",
         "author": {
             "name": "tweakers.net"
@@ -1144,11 +1261,11 @@
         "content_text": "Sunweb Group | Verhuur en zakelijke dienstverlening | 06-10-2025 | DataLekt.nl: Reisorganisatie Sunweb Group is getroffen door een datalek nadat criminelen toegang kregen tot klantgegevens via een Nederlands systeem van het bedrijf. Daarbij werden onder meer namen, e-mailadressen, telefoonnummers en boekingsinformatie, inclusief reisdata en bestemmingen, buitgemaakt. Vanaf 30 september zijn deze gegevens misbruikt in phishingmails waarin klanten werd gevraagd om hun reis te bevestigen en een betaling te doen. Sunweb heeft klanten gewaarschuwd dat dergelijke betaalverzoeken vals zijn en meldt dat meerdere systemen inmiddels zijn versterkt. De Autoriteit Persoonsgegevens is ingelicht over het incident. (Bron: tweakers.net)"
     },
     {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=4010ad4319183c312626289ec83b8c1942ba5099a3c7d7024bed23db1a388fd3",
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1588234e436bad6b56417ca473eb76e4e8cbd67a2a3bfe69a2711999a48e437f",
         "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
         "title": "Teeuwissen Rioolreiniging getroffen door ransomware aanval van de criminele organisatie Devman",
-        "date_published": "2025-10-06T19:23:00Z",
-        "date_modified": "2025-10-06T19:23:00Z",
+        "date_published": "2025-10-06T17:23:00Z",
+        "date_modified": "2025-10-06T17:23:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ccinfo.nl"
@@ -1157,11 +1274,11 @@
         "content_text": "Teeuwissen Rioolreiniging | Water en afvalbeheer | 03-10-2025 | DataLekt.nl: De criminele organisatie Devman heeft op het darkweb aangekondigd dat zij Teeuwissen Rioolreiniging heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
     },
     {
-        "id": "https://www.binnenlandsbestuur.nl/digitaal/wederom-overtreden-politieke-partijen-privacyregels?datalekt=31de355d7bd60b0dc722ab020e355705a1e58090db797433a10304fc97d63e09",
+        "id": "https://www.binnenlandsbestuur.nl/digitaal/wederom-overtreden-politieke-partijen-privacyregels?datalekt=8b60ff2714dba33c656ed4bc4342cee078f2394f1cb2d53cefce2eab6a8c758b",
         "url": "https://www.binnenlandsbestuur.nl/digitaal/wederom-overtreden-politieke-partijen-privacyregels",
         "title": "Politieke partijen overtreden opnieuw privacyregels bij online campagnes",
-        "date_published": "2025-10-02T11:29:00Z",
-        "date_modified": "2025-10-02T11:29:00Z",
+        "date_published": "2025-10-02T09:29:00Z",
+        "date_modified": "2025-10-02T09:29:00Z",
         "language": "nl-nl",
         "author": {
             "name": "binnenlandsbestuur.nl"
@@ -1170,133 +1287,16 @@
         "content_text": "Onbekende politieke partijen | Overig: Politieke partijen | 30-09-2025 | DataLekt.nl: Tijdens de verkiezingscampagnes blijkt dat meerdere politieke partijen opnieuw persoonsgegevens van kiezers onrechtmatig verwerken via trackingpixels, profilering en advertentietargeting. Ondanks herhaalde waarschuwingen van de Autoriteit Persoonsgegevens blijven deze praktijken terugkeren, terwijl ingrijpen door de toezichthouder uitblijft. Deskundigen waarschuwen dat dit de eerlijkheid van verkiezingen kan ondermijnen en het vertrouwen in het democratisch proces schaadt. De AP heeft alle partijen een brief gestuurd waarin wordt gewezen op de bestaande regels en de nieuwe Europese verordening voor politieke reclame die vanaf 10 oktober 2025 van kracht wordt. (Bron: binnenlandsbestuur.nl)"
     },
     {
-        "id": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/2729681_fysioroadmap-getroffen-door-nova-ransomware-aanval-nederlandse-fysiotherapeuten-slachtoffer-van-datalek?datalekt=bf055530c55eddd60b924396590df6ca4d5c3893d456a2bea614c9fc0eec98c3",
+        "id": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/2729681_fysioroadmap-getroffen-door-nova-ransomware-aanval-nederlandse-fysiotherapeuten-slachtoffer-van-datalek?datalekt=c7b6a631b780a3510f7303054d4a217f7f3b63942324f8aefdb80e582d68cf70",
         "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/2729681_fysioroadmap-getroffen-door-nova-ransomware-aanval-nederlandse-fysiotherapeuten-slachtoffer-van-datalek",
         "title": "Nederlandse fysiotherapiepraktijk getroffen door Nova ransomware-aanval; FysioRoadMap blijft buiten schot",
-        "date_published": "2025-09-29T12:03:00Z",
-        "date_modified": "2025-10-01T10:23:00Z",
+        "date_published": "2025-09-29T10:03:00Z",
+        "date_modified": "2025-10-01T08:23:00Z",
         "language": "nl-nl",
         "author": {
             "name": "ccinfo.nl"
         },
         "content_html": "",
         "content_text": "Onbekende fysiotherapiepraktijk | Gezondheids- en welzijnszorg | 28-09-2025 | DataLekt.nl: Op 28 september 2025 is een Nederlandse fysiotherapiepraktijk slachtoffer geworden van een ransomware-aanval door de hackersgroep Nova. Aanvankelijk werd gedacht dat softwareleverancier FysioRoadMap zelf geraakt was, maar later onderzoek bevestigde dat hun centrale systemen veilig zijn gebleven. De criminelen kregen via gestolen inloggegevens toegang tot de RDP-archiefomgeving van de praktijk. Daarbij werd 10 GB aan gevoelige pati\u00ebntgegevens buitgemaakt, waaronder meer dan 20.000 documenten met BSN-nummers, telefoonnummers, medische gegevens en foto\u2019s. FysioRoadMap en Z-CERT ondersteunen de getroffen praktijk bij herstel en monitoring, maar de aanval is beperkt tot de praktijk zelf. [Update: Op 30 september 2025 is bekend geworden dat FysioRoadMap zelf niet getroffen was. Dit is gecorrigeerd in het bericht.] (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2584584-datalek-bij-provincie-utrecht-gegevens-van-betrokkenen-wolvendossier-op-straat?datalekt=5788196e34b55729f84ded85ca4e64d4bb8d8562b8121577530f0d93685c6ba4",
-        "url": "https://nos.nl/artikel/2584584-datalek-bij-provincie-utrecht-gegevens-van-betrokkenen-wolvendossier-op-straat",
-        "title": "Provincie Utrecht lekt persoonsgegevens via Woo-verzoek in wolvendossier",
-        "date_published": "2025-10-01T10:15:00Z",
-        "date_modified": "2025-10-01T10:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Provincie Utrecht | Overheid: Provincies | 29-09-2025 | DataLekt.nl: Bij de provincie Utrecht zijn door een datalek contactgegevens van betrokkenen bij het wolvendossier openbaar geworden. Het lek ontstond toen een burger via een Woo-verzoek documenten ontving waarin per ongeluk namen, e-mailadressen en soms telefoonnummers van beleidsmedewerkers, juristen, communicatieadviseurs en boswachters waren opgenomen. RTV Utrecht ontdekte dit nadat het de documenten had ingezien. Hoe vaak de informatie is geraadpleegd, is onbekend. De provincie heeft de documenten offline gehaald, betrokkenen ge\u00efnformeerd, de burger gevraagd de bestanden te vernietigen en melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: nos.nl)"
-    },
-    {
-        "id": "https://www.trouw.nl/zorg/honderden-ggz-medewerkers-keken-in-het-dossier-van-wendy-alsof-mensen-ongevraagd-je-huis-binnenstappen~b8d4d866/?datalekt=6a3899c0b50a3a3857767448d094e1d8512b0e66dda22924a2950600877ba3a6",
-        "url": "https://www.trouw.nl/zorg/honderden-ggz-medewerkers-keken-in-het-dossier-van-wendy-alsof-mensen-ongevraagd-je-huis-binnenstappen~b8d4d866/",
-        "title": "Ongeoorloofde toegang tot pati\u00ebntendossier bij ggz-instelling Antes door honderden medewerkers",
-        "date_published": "2025-09-28T10:24:00Z",
-        "date_modified": "2025-09-28T10:24:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "trouw.nl"
-        },
-        "content_html": "",
-        "content_text": "Antes | Gezondheids- en welzijnszorg | 10-09-2025 | DataLekt.nl: Bij ggz-instelling Antes werd het pati\u00ebntendossier van een vrouw met een alcoholverslaving door 363 medewerkers ingezien, vari\u00ebrend van stagiaires tot bestuurders. De documenten bevatten zeer gevoelige informatie, zoals therapieverslagen, psychiatrische rapporten en meldingen over huiselijk geweld. Volgens de wet mogen alleen leden van het behandelteam dergelijke gegevens bekijken, maar het systeem van Antes waarschuwde niet bij ongeoorloofd inloggen. Als verklaring voert de instelling persoonsverwisseling aan, omdat ook de zus van de pati\u00ebnte gelijktijdig in behandeling was. De Autoriteit Persoonsgegevens onderzoekt de zaak en de vrouw eist 25.000 euro schadevergoeding. (Bron: trouw.nl)"
-    },
-    {
-        "id": "https://www.linkedin.com/posts/kwouters1_cybersecurity-phishing-incidentresponse-activity-7377349831608049664-p_B1/?datalekt=5ee76511f33112941d8e9d38c5a351f74fa3b5c3d5cb1fe4f8aeb96d0006ab7e",
-        "url": "https://www.linkedin.com/posts/kwouters1_cybersecurity-phishing-incidentresponse-activity-7377349831608049664-p_B1/",
-        "title": "Libr\u00e9on getroffen door phishingaanval waarbij accounts ondanks MFA zijn misbruikt",
-        "date_published": "2025-09-27T19:51:00Z",
-        "date_modified": "2025-09-27T19:51:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "linkedin.com"
-        },
-        "content_html": "",
-        "content_text": "Libr\u00e9on | Onderwijs | 26-09-2025 | DataLekt.nl: Begin september werd Libr\u00e9on slachtoffer van een geavanceerde phishingaanval waarbij een e-mail vanuit een gehackt collega-account naar meer dan 200 personen werd gestuurd en doorverwees naar een valse inlogpagina. Ondanks snelle actie bleek een week later dat ook andere accounts waren overgenomen. De aanval maakte gebruik van een Adversary in The Middle-techniek, waarmee zelfs multifactorauthenticatie werd omzeild. Libr\u00e9on schakelde direct de functionaris gegevensbescherming, School-CERT van Kennisnet en later forensisch onderzoekers van Attic Security in. Alle medewerkers zijn ge\u00efnformeerd en extra maatregelen zijn doorgevoerd. Dankzij snelle samenwerking werd het incident binnen enkele dagen onder controle gebracht. (Bron: linkedin.com)"
-    },
-    {
-        "id": "https://wos.nl/nieuws/artikel/midden-delfland-onthulde-persoonsgegevens-van-bezwaarmakers?datalekt=70cd6493094377cb6c0ea4a60045df074e2a6b26cd6f77370d3780023cf2c920",
-        "url": "https://wos.nl/nieuws/artikel/midden-delfland-onthulde-persoonsgegevens-van-bezwaarmakers",
-        "title": "Gemeente Midden-Delfland openbaart per ongeluk persoonsgegevens van bezwaarmakers bij asielzoekerscentrum",
-        "date_published": "2025-08-01T12:25:00Z",
-        "date_modified": "2025-09-27T19:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "wos.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Midden-Delfland | Overheid: Gemeenten | 30-07-2025 | DataLekt.nl: Op maandag zijn via de website van de gemeente Midden-Delfland per ongeluk de persoonsgegevens van 133 inwoners openbaar gemaakt. De gegevens \u2014 waaronder naam, adres en woonplaats \u2014 stonden in een bijlage bij een bericht aan de gemeenteraad over ingediende bezwaarschriften tegen een omgevingsvergunning voor een asielzoekerscentrum. De fout werd veroorzaakt door een menselijke vergissing. De bijlage is dinsdag verwijderd en vervangen door een geanonimiseerde versie. De gemeente heeft het incident gemeld bij de Autoriteit Persoonsgegevens en stuurt de betrokken inwoners een brief met uitleg. [Update: Op 24 september 2025 is bekend geworden dat de onderzoekskosten 33.335 euro zijn.] (Bron: wos.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/193636/dpg-media-krijgt-avg-boete-van-525000-euro-voor-onterecht-vragen-van-id-bewijs.html?datalekt=f7e5f1c76d59ffa2f2a3ed2ddf209e22b621a37b59679f5896cacea5aef7e92e",
-        "url": "https://tweakers.net/nieuws/193636/dpg-media-krijgt-avg-boete-van-525000-euro-voor-onterecht-vragen-van-id-bewijs.html",
-        "title": "DPG Media beboet voor onterechte ID-verificatie bij AVG-verzoeken",
-        "date_published": "2022-02-24T00:00:00Z",
-        "date_modified": "2025-09-27T19:41:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "DPG Media | Media en inhoud | 24-02-2022 | DataLekt.nl: Uitgever DPG Media heeft een boete van 525.000 euro ontvangen wegens het onterecht vragen van een identiteitsbewijs aan klanten die inzage wilden in hun persoonlijke gegevens. Hiermee heeft DPG Media volgens de autoriteiten onnodige hindernissen gecre\u00eberd voor klanten die hun AVG-rechten wilden uitoefenen. Het is niet duidelijk hoeveel klanten hierdoor zijn getroffen of wat de exacte motieven van DPG Media waren voor deze handelswijze. [Update: Op 18 augustus 2023 heeft de rechter de boete geschrapt. De AP gaat in beroep.] [Update: Op 24 september 2025 is bekend geworden dat de rechter de boete heeft gezet op 265.500.] (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.dutchitchannel.nl/news/711310/minister-enkele-rijksorganisaties-getroffen-door-hack-via-citrix-lek?datalekt=6d34b79c41c61885af03fa1b8d462afa8661527738bb431c5cad54cc35d63de9",
-        "url": "https://www.dutchitchannel.nl/news/711310/minister-enkele-rijksorganisaties-getroffen-door-hack-via-citrix-lek",
-        "title": "Rijksorganisaties getroffen door hack via Citrix-lek",
-        "date_published": "2025-09-25T16:48:00Z",
-        "date_modified": "2025-09-25T16:48:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "dutchitchannel.nl"
-        },
-        "content_html": "",
-        "content_text": "Rijksoverheid | Overheid: Ministeries | 23-09-2025 | DataLekt.nl: Enkele rijksorganisaties zijn gehackt via een kwetsbaarheid in Citrix NetScaler die op 16 juli 2025 bekend werd. Hetzelfde lek werd eerder misbruikt bij een aanval op het Openbaar Ministerie. Volgens demissionair minister Van Oosten van Justitie en Veiligheid zijn er bij meerdere rijksorganisaties sporen van compromittering aangetroffen. Om welke organisaties het gaat, is niet bekendgemaakt. Mitigerende maatregelen zijn genomen en onderzoek loopt nog. Er zijn vooralsnog geen aanwijzingen dat andere overheidsorganisaties zijn getroffen. (Bron: dutchitchannel.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/het-cyber-journaal/2711936_vurbis-en-kering-getroffen-door-datalekken-en-kwetsbaarheden-in-watchguard-en-linux-verhogen-wereldwijde-dreigingen?datalekt=fe7e6b4692c5b3b010877fc6442121d4323bf315f96ba8198cf296c7561c908e",
-        "url": "https://www.ccinfo.nl/het-cyber-journaal/2711936_vurbis-en-kering-getroffen-door-datalekken-en-kwetsbaarheden-in-watchguard-en-linux-verhogen-wereldwijde-dreigingen",
-        "title": "Vurbis getroffen door datalek waarbij klantgegevens te koop zijn aangeboden op forum",
-        "date_published": "2025-09-22T09:12:00Z",
-        "date_modified": "2025-09-22T09:12:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Vurbis | ICT en telecommunicatie | 18-09-2025 | DataLekt.nl: Het Nederlandse IT-dienstverleningsbedrijf Vurbis uit Den Bosch is getroffen door een datalek waarbij persoonlijke gegevens van gebruikers, zoals e-mailadressen, telefoonnummers en bedrijfsinformatie, op een forum te koop zijn aangeboden voor 100 dollar per dataset. Ook zijn aanwijzingen gevonden dat MD5-hashes van wachtwoorden zijn gelekt, wat wijst op een ernstige kwetsbaarheid in de beveiliging. Het incident roept zorgen op over de reactie van Vurbis, omdat meerdere pogingen om contact op te nemen zonder resultaat zijn gebleven. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.tubantia.nl/tech/werknemer-hackt-fietsvoordeelshop-nl-wordt-betrapt-en-komt-met-smoes-over-pizza-avondje-met-vriendin~ac5cfade/?datalekt=9a4e07fd810d6b34d0e1c72853e0c5990464d0e172e941dd6368f5a8ee149986",
-        "url": "https://www.tubantia.nl/tech/werknemer-hackt-fietsvoordeelshop-nl-wordt-betrapt-en-komt-met-smoes-over-pizza-avondje-met-vriendin~ac5cfade/",
-        "title": "Werknemer van Fietsvoordeelshop.nl probeert via usb-hack bedrijfsservers te besmetten en neemt laptop mee",
-        "date_published": "2025-09-20T12:54:00Z",
-        "date_modified": "2025-09-20T12:54:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tubantia.nl"
-        },
-        "content_html": "",
-        "content_text": "Fietsvoordeelshop.nl | Groot- en detailhandel | 18-09-2025 | DataLekt.nl: Op 5 juni 2025 werd Fietsvoordeelshop.nl getroffen door een interne hackpoging. Een medewerker probeerde via een usb-stick malware te installeren op twee bedrijfs\u00adlaptops, waarmee ransomware of fraude mogelijk zou worden. E\u00e9n laptop verdween en bleek later buiten het bedrijfsnetwerk actief. Camerabeelden tonen dat de werknemer de enige aanwezige was. Hij ontkende en verklaarde dat hij pizza had besteld, maar de rechter achtte dit ongeloofwaardig. Het ontslag op staande voet werd bevestigd en de werknemer moet bijna 1000 euro proceskosten betalen. (Bron: tubantia.nl)"
-    },
-    {
-        "id": "https://www.tubantia.nl/losser/gevoelige-kiezerslijst-van-losser-duikt-op-na-reeks-procedurefouten~a4b46de8/?datalekt=ccea9e7222c9f513d16596cecdaa4108468da70fb3543b2c75f466019ed4dceb",
-        "url": "https://www.tubantia.nl/losser/gevoelige-kiezerslijst-van-losser-duikt-op-na-reeks-procedurefouten~a4b46de8/",
-        "title": "Gemeente Losser laat kiezerslijst met persoonsgegevens rondslingeren door procedurefouten bij verkiezingen",
-        "date_published": "2025-09-19T08:57:00Z",
-        "date_modified": "2025-09-19T08:57:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tubantia.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Losser | Overheid: Gemeenten | 18-09-2025 | DataLekt.nl: Bij de voorbereiding van de komende verkiezingen is een kiezerslijst met persoonsgegevens van 103 inwoners van Losser teruggevonden in een stemkoffer. Het document, het \u2018Register Ongeldige Stempassen\u2019 van de Europese verkiezingen 2024, had volgens de Kieswet al vernietigd moeten zijn. De lijst bevatte namen, geboortedata, stempasnummers en redenen van ongeldigheid van stempassen. Door fouten bij zowel het verzamelen als het leeghalen van stemkoffers bleef de lijst bestaan. De gemeenten Losser en Enschede erkennen de fouten en hebben het incident gemeld bij de Autoriteit Persoonsgegevens. (Bron: tubantia.nl)"
     }
 ]
