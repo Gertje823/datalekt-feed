@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ad.nl/den-haag/hacker-krijgt-toegang-tot-loonstroken-van-honderden-mensen-maar-was-waarschijnlijk-niet-uit-op-diefstal~a3a19e7e/?datalekt=bf669a7347e63494c54c6fee5da953389cc9239dae8186b0139ac5b2b8bec81a",
+        "url": "https://www.ad.nl/den-haag/hacker-krijgt-toegang-tot-loonstroken-van-honderden-mensen-maar-was-waarschijnlijk-niet-uit-op-diefstal~a3a19e7e/",
+        "title": "Haaglanden Leert Door getroffen door datalek via inbraak bij softwareleverancier waarbij loonstroken en BSN-nummers zijn ingezien",
+        "date_published": "2026-02-02T12:26:00Z",
+        "date_modified": "2026-02-02T12:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Haaglanden Leert Door | Onderwijs | 29-01-2026 | DataLekt.nl: Bij een inbraak in het registratie- en volgsysteem van de softwareleverancier van scholingsfonds Haaglanden Leert Door heeft een hacker toegang gehad tot privacygevoelige gegevens van 1.192 inwoners uit de regio Haaglanden. Het ging om persoonsgegevens zoals namen, contactgegevens en ge\u00fcploade documenten, waaronder loonstroken en intakeformulieren met BSN-nummers. De inbraak vond plaats op 19 januari 2026 en werd ontdekt door de leverancier, die de server direct offline haalde en melding deed bij de Autoriteit Persoonsgegevens. Vermoedelijk was de hacker uit op het misbruiken van servercapaciteit voor cryptomining en niet op datadiefstal, al kan dit niet volledig worden uitgesloten. Getroffenen zijn ge\u00efnformeerd en het systeem is na beveiligingsmaatregelen weer online gebracht. (Bron: ad.nl)"
+    },
+    {
         "id": "https://nos.nl/artikel/2600009-buschauffeurs-mogen-niet-permanent-in-beeld-worden-gebracht?datalekt=d35b8fd52391576e24977b27130bc17c166f6eeeb48f5ee5fc195997434a6262",
         "url": "https://nos.nl/artikel/2600009-buschauffeurs-mogen-niet-permanent-in-beeld-worden-gebracht",
         "title": "Arriva overtreedt privacyregels door buschauffeurs structureel met camera\u2019s te volgen",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Onbekende politieke partijen | Overig: Politieke partijen | 30-09-2025 | DataLekt.nl: Tijdens de verkiezingscampagnes blijkt dat meerdere politieke partijen opnieuw persoonsgegevens van kiezers onrechtmatig verwerken via trackingpixels, profilering en advertentietargeting. Ondanks herhaalde waarschuwingen van de Autoriteit Persoonsgegevens blijven deze praktijken terugkeren, terwijl ingrijpen door de toezichthouder uitblijft. Deskundigen waarschuwen dat dit de eerlijkheid van verkiezingen kan ondermijnen en het vertrouwen in het democratisch proces schaadt. De AP heeft alle partijen een brief gestuurd waarin wordt gewezen op de bestaande regels en de nieuwe Europese verordening voor politieke reclame die vanaf 10 oktober 2025 van kracht wordt. (Bron: binnenlandsbestuur.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/2729681_fysioroadmap-getroffen-door-nova-ransomware-aanval-nederlandse-fysiotherapeuten-slachtoffer-van-datalek?datalekt=c7b6a631b780a3510f7303054d4a217f7f3b63942324f8aefdb80e582d68cf70",
-        "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/2729681_fysioroadmap-getroffen-door-nova-ransomware-aanval-nederlandse-fysiotherapeuten-slachtoffer-van-datalek",
-        "title": "Nederlandse fysiotherapiepraktijk getroffen door Nova ransomware-aanval; FysioRoadMap blijft buiten schot",
-        "date_published": "2025-09-29T10:03:00Z",
-        "date_modified": "2025-10-01T08:23:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende fysiotherapiepraktijk | Gezondheids- en welzijnszorg | 28-09-2025 | DataLekt.nl: Op 28 september 2025 is een Nederlandse fysiotherapiepraktijk slachtoffer geworden van een ransomware-aanval door de hackersgroep Nova. Aanvankelijk werd gedacht dat softwareleverancier FysioRoadMap zelf geraakt was, maar later onderzoek bevestigde dat hun centrale systemen veilig zijn gebleven. De criminelen kregen via gestolen inloggegevens toegang tot de RDP-archiefomgeving van de praktijk. Daarbij werd 10 GB aan gevoelige pati\u00ebntgegevens buitgemaakt, waaronder meer dan 20.000 documenten met BSN-nummers, telefoonnummers, medische gegevens en foto\u2019s. FysioRoadMap en Z-CERT ondersteunen de getroffen praktijk bij herstel en monitoring, maar de aanval is beperkt tot de praktijk zelf. [Update: Op 30 september 2025 is bekend geworden dat FysioRoadMap zelf niet getroffen was. Dit is gecorrigeerd in het bericht.] (Bron: ccinfo.nl)"
     }
 ]
