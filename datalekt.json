@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/?datalekt=c5c359a6081cef005e10bc36bec9ecafb246419c2bff341b76542c265235416b",
+        "url": "https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/",
+        "title": "Veenkoloniaal Museum in Veendam getroffen door ransomware-aanval van LockBit waarbij gegevens zijn gestolen en versleuteld",
+        "date_published": "2026-01-21T09:20:00Z",
+        "date_modified": "2026-02-06T10:05:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtveen.nl"
+        },
+        "content_html": "",
+        "content_text": "Veenkoloniaal Museum | Kunst, cultuur, sport en recreatie | 20-01-2026 | DataLekt.nl: Het Veenkoloniaal Museum in Veendam is op 7 januari 2026 getroffen door een ransomware-aanval van de groep LockBit. De hackers drongen de computersystemen binnen, versleutelden bestanden en maakten gegevens buit, waaronder foto\u2019s van de collectie, administratie en persoonlijke gegevens. Hierdoor kon het personeel tijdelijk niet bij een deel van de digitale bestanden. Betrokkenen van wie gegevens zijn geraakt, zijn direct ge\u00efnformeerd. Het museum ontving een afpersingsmail, maar weigert te onderhandelen of losgeld te betalen. Dankzij een externe back-up van december en papieren kopie\u00ebn kon herstel plaatsvinden. De exacte oorzaak van de hack wordt nog onderzocht. [Update: Op 20 januari 2026 is bekend geworden dat het incident op 7 januari 2026 plaatsvondt, en dat er geen losgeld is betaald.] [Update: Op 4 februari 2026 is bekend geworden dat Lockbit de gestolen priv\u00e9gegevens heeft gepubliceerd op het internet.] (Bron: rtveen.nl)"
+    },
+    {
         "id": "https://www.autoriteitpersoonsgegevens.nl/actueel/tien-gemeenten-beboet-voor-illegaal-verwerken-van-informatie-over-islamitische-mensen?datalekt=78071e55d3f8cb851543eb09ae257f8bc9c68cdcf60260702018b1d9bf1940ae",
         "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/tien-gemeenten-beboet-voor-illegaal-verwerken-van-informatie-over-islamitische-mensen",
         "title": "Gemeente Zoetermeer beboet voor illegale verwerking van gevoelige religieuze gegevens",
@@ -310,19 +323,6 @@
         },
         "content_html": "",
         "content_text": "Hogeschool Rotterdam | Onderwijs | 20-01-2026 | DataLekt.nl: Eind 2025 zijn tientallen studentenaccounts van de Hogeschool Rotterdam gecompromitteerd en misbruikt voor het versturen van duizenden phishingmails over vermeende crypto-tegoeden. De hack was mogelijk doordat studenten zwakke, hergebruikte wachtwoorden gebruikten die voorkwamen in gelekte wachtwoorddatabases. Volgens de hogeschool is er geen verdere schade ontstaan en zijn geen andere systemen binnengedrongen. Na ontdekking zijn de betrokken accounts geblokkeerd, moesten studenten hun wachtwoord wijzigen en zijn alle HR-accounts gecontroleerd, waarbij ruim 3.000 accounts met zwakke wachtwoorden zijn aangepakt. De Autoriteit Persoonsgegevens is ge\u00efnformeerd en er is aangifte gedaan. Als maatregel voert de hogeschool versneld meervoudige verificatie in voor alle studenten en medewerkers. (Bron: profielen.hr.nl)"
-    },
-    {
-        "id": "https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/?datalekt=30e3dbc43c6e8fdc1b7868f7a85dced6f56136e527ea9b479d72f1085f7de6ba",
-        "url": "https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/",
-        "title": "Veenkoloniaal Museum in Veendam getroffen door ransomware-aanval van LockBit waarbij gegevens zijn gestolen en versleuteld",
-        "date_published": "2026-01-21T09:20:00Z",
-        "date_modified": "2026-01-22T08:21:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtveen.nl"
-        },
-        "content_html": "",
-        "content_text": "Veenkoloniaal Museum | Kunst, cultuur, sport en recreatie | 20-01-2026 | DataLekt.nl: Het Veenkoloniaal Museum in Veendam is op 7 januari 2026 getroffen door een ransomware-aanval van de groep LockBit. De hackers drongen de computersystemen binnen, versleutelden bestanden en maakten gegevens buit, waaronder foto\u2019s van de collectie, administratie en persoonlijke gegevens. Hierdoor kon het personeel tijdelijk niet bij een deel van de digitale bestanden. Betrokkenen van wie gegevens zijn geraakt, zijn direct ge\u00efnformeerd. Het museum ontving een afpersingsmail, maar weigert te onderhandelen of losgeld te betalen. Dankzij een externe back-up van december en papieren kopie\u00ebn kon herstel plaatsvinden. De exacte oorzaak van de hack wordt nog onderzocht. [Update: Op 20 januari 2026 is bekend geworden dat het incident op 7 januari 2026 plaatsvondt, en dat er geen losgeld is betaald.] (Bron: rtveen.nl)"
     },
     {
         "id": "https://nos.nl/artikel/2598321-map-met-gegevens-eerste-kamerleden-uit-2016-gevonden-in-friese-kringloopwinkel?datalekt=2f83397f5270bf19785c967e2ed44f1edde0372f34a747d48a92be829e4e6ffc",
