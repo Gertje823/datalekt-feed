@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/244458/ook-datalek-bij-autoriteit-persoonsgegevens-gegevens-van-werknemers-ingezien.html?datalekt=892da3b0ef59fa0ae88c778863a1c6210f634d4ded45d01ceec2b2902a06229f",
+        "url": "https://tweakers.net/nieuws/244458/ook-datalek-bij-autoriteit-persoonsgegevens-gegevens-van-werknemers-ingezien.html",
+        "title": "Autoriteit Persoonsgegevens getroffen door datalek via kwetsbaarheid in Ivanti-software waarbij werknemersgegevens zijn ingezien",
+        "date_published": "2026-02-07T15:24:00Z",
+        "date_modified": "2026-02-07T15:24:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "Autoriteit Persoonsgegevens (AP) | Overheid: Zelfstandige bestuursorganen | 06-02-2026 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) is getroffen door een beveiligingsincident waarbij onbevoegden werkgerelateerde gegevens van medewerkers hebben ingezien. Het incident is ontstaan door misbruik van een kwetsbaarheid in Ivanti Endpoint Manager Mobile (CVE-2026-1281), software die wordt gebruikt voor het beheer van zakelijke mobiele apparaten. Daarbij zijn onder meer namen, zakelijke e-mailadressen en telefoonnummers ingezien. De AP heeft medewerkers ge\u00efnformeerd en het incident gemeld bij de eigen functionaris voor gegevensbescherming. Het Nationaal Cyber Security Centrum waarschuwde eerder dat deze kwetsbaarheid actief wordt misbruikt. (Bron: tweakers.net)"
+    },
+    {
         "id": "https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/?datalekt=c5c359a6081cef005e10bc36bec9ecafb246419c2bff341b76542c265235416b",
         "url": "https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/",
         "title": "Veenkoloniaal Museum in Veendam getroffen door ransomware-aanval van LockBit waarbij gegevens zijn gestolen en versleuteld",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Forum voor Democratie (FvD) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland stelt dat de website van Forum voor Democratie bij het laden automatisch YouTube-cookies plaatst, ook als bezoekers hiervoor geen toestemming geven via de cookiebanner. Dit is in strijd met de regels van de AVG en de Telecommunicatiewet. Ondanks een waarschuwing van de stichting op 10 oktober 2025 zou de partij de website nog niet hebben aangepast. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.security.nl/posting/591381/AP+onderzoekt+handel+in+persoonsgegevens+door+tennisbond+KNLTB?datalekt=94c1b93cbe5bc1c66b3fc7a85c36ae7016fb0a88fee6d07dbb931a8eaf35a475",
-        "url": "https://www.security.nl/posting/591381/AP+onderzoekt+handel+in+persoonsgegevens+door+tennisbond+KNLTB",
-        "title": "AP start onderzoek naar gegevenshandel door tennisbond KNLTB",
-        "date_published": "2021-09-30T22:00:00Z",
-        "date_modified": "2025-10-19T12:51:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Koninklijke Nederlandse Lawn Tennisbond (KNLTB) | Kunst, cultuur, sport en recreatie | 18-12-2018 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) is een onderzoek begonnen naar de tennisbond KNLTB vanwege de handel in persoonsgegevens. Dit volgt na klachten van sportbondleden over ongewenste belacties en reclame. Voorzitter van de AP, Aleid Wolfsen, benadrukt dat sportbonden persoonsgegevens mogen gebruiken voor operationele doeleinden, maar niet voor verkoop zonder uitdrukkelijke toestemming. De KNLTB heeft aangekondigd haar beleid aan te scherpen en zal alleen nog belacties uitvoeren met voorafgaande toestemming van leden. De bond werkt mee aan het onderzoek en wacht de resultaten af. [Update: Op 3 maart 2020 heeft de AP een boete van 525.000 EUR opgelegd.] [Update: Op 18 oktober 2025 is bekend geworden dat de Autoriteit Persoonsgegevens en de KNLTB hun rechtszaak hebben be\u00ebindigd na een uitspraak van het Europees Hof van Justitie. De boete van 525.000 euro wordt gehalveerd tot 250.000 euro, waarbij de KNLTB erkent dat zij onjuist heeft gehandeld.] (Bron: security.nl)"
     }
 ]
