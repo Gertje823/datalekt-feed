@@ -1,16 +1,29 @@
 [
     {
-        "id": "https://tweakers.net/nieuws/244458/ook-datalek-bij-autoriteit-persoonsgegevens-gegevens-van-werknemers-ingezien.html?datalekt=892da3b0ef59fa0ae88c778863a1c6210f634d4ded45d01ceec2b2902a06229f",
-        "url": "https://tweakers.net/nieuws/244458/ook-datalek-bij-autoriteit-persoonsgegevens-gegevens-van-werknemers-ingezien.html",
-        "title": "Autoriteit Persoonsgegevens getroffen door datalek via kwetsbaarheid in Ivanti-software waarbij werknemersgegevens zijn ingezien",
-        "date_published": "2026-02-07T15:24:00Z",
-        "date_modified": "2026-02-07T15:24:00Z",
+        "id": "https://www.nu.nl/binnenland/6385156/datalek-bij-dienst-die-toeziet-op-bescherming-van-persoonsgegevens.html?datalekt=c573d0196fcb89966ad2f41b2cb7d04f3c8cb95fa3a378d6d6a50bdac57e06a3",
+        "url": "https://www.nu.nl/binnenland/6385156/datalek-bij-dienst-die-toeziet-op-bescherming-van-persoonsgegevens.html",
+        "title": "Raad voor de rechtspraak getroffen door datalek via kwetsbaarheid in Ivanti-software bij beheer van mobiele apparaten",
+        "date_published": "2026-02-09T08:57:00Z",
+        "date_modified": "2026-02-09T08:57:00Z",
         "language": "nl-nl",
         "author": {
-            "name": "tweakers.net"
+            "name": "nu.nl"
         },
         "content_html": "",
-        "content_text": "Autoriteit Persoonsgegevens (AP) | Overheid: Zelfstandige bestuursorganen | 06-02-2026 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) is getroffen door een beveiligingsincident waarbij onbevoegden werkgerelateerde gegevens van medewerkers hebben ingezien. Het incident is ontstaan door misbruik van een kwetsbaarheid in Ivanti Endpoint Manager Mobile (CVE-2026-1281), software die wordt gebruikt voor het beheer van zakelijke mobiele apparaten. Daarbij zijn onder meer namen, zakelijke e-mailadressen en telefoonnummers ingezien. De AP heeft medewerkers ge\u00efnformeerd en het incident gemeld bij de eigen functionaris voor gegevensbescherming. Het Nationaal Cyber Security Centrum waarschuwde eerder dat deze kwetsbaarheid actief wordt misbruikt. (Bron: tweakers.net)"
+        "content_text": "Raad voor de rechtspraak (Rvdr) | Overheid: Rechtspraak | 06-02-2026 | DataLekt.nl: De Raad voor de rechtspraak (Rvdr) is getroffen door een datalek waarbij onbevoegden toegang hebben gehad tot gegevens van medewerkers. Het incident is veroorzaakt door kwetsbaarheden in Ivanti Endpoint Manager Mobile, software die wordt gebruikt voor het beheer en de beveiliging van mobiele apparaten binnen overheidsorganisaties. Op het moment van publicatie wordt nog onderzocht welke soorten gegevens precies zijn ingezien. Medewerkers zijn ge\u00efnformeerd en het datalek is gemeld bij de Autoriteit Persoonsgegevens. De overheid onderzoekt of ook andere overheidsorganisaties zijn geraakt. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/binnenland/6385156/datalek-bij-dienst-die-toeziet-op-bescherming-van-persoonsgegevens.html?datalekt=3e4f635e4db597147fd9fb1c4c3245cee7eafce3bcda8ca58250f5b4f3a9037e",
+        "url": "https://www.nu.nl/binnenland/6385156/datalek-bij-dienst-die-toeziet-op-bescherming-van-persoonsgegevens.html",
+        "title": "Autoriteit Persoonsgegevens getroffen door datalek via kwetsbaarheid in Ivanti-software waarbij werknemersgegevens zijn ingezien",
+        "date_published": "2026-02-07T15:24:00Z",
+        "date_modified": "2026-02-09T08:56:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Autoriteit Persoonsgegevens (AP) | Overheid: Zelfstandige bestuursorganen | 06-02-2026 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) is getroffen door een datalek waarbij onbevoegden werkgerelateerde gegevens van medewerkers hebben ingezien. Het incident is ontstaan door misbruik van kwetsbaarheden in Ivanti Endpoint Manager Mobile, software voor het beheer en de beveiliging van zakelijke mobiele apparaten. Volgens een Kamerbrief zijn onder meer namen, zakelijke e-mailadressen en telefoonnummers gelekt. Het Nationaal Cyber Security Centrum was al op 29 januari op de hoogte van de kwetsbaarheden. De AP heeft medewerkers ge\u00efnformeerd en het incident gemeld bij de functionaris voor gegevensbescherming en het Meldpunt datalekken. (Bron: nu.nl)"
     },
     {
         "id": "https://rtveen.nl/2026/01/20/veenkoloniaal-museum-gehackt-door-ransomwaregroep-lockbit-we-gaan-niet-onderhandelen/?datalekt=c5c359a6081cef005e10bc36bec9ecafb246419c2bff341b76542c265235416b",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "50PLUS | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: Volgens de Stichting Data Bescherming Nederland kunnen bezoekers van de website van 50PLUS cookies alleen weigeren door handmatig instellingen aan te passen, wat niet voldoet aan de AVG. Daarnaast stuurt de partij gegevens door naar Google Analytics, een dienst die mogelijk niet aan de privacywetgeving voldoet. Ondanks een waarschuwing op 10 oktober 2025 plaatst de website nog steeds trackingcookies zonder geldige toestemming. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=a813c9167e47145bdb53e205e5d35ec72dbfbf8175e7699c3f19b5d7084d8dc6",
-        "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
-        "title": "Forum voor Democratie plaatst YouTube-cookies zonder toestemming van websitebezoekers",
-        "date_published": "2025-10-20T17:40:00Z",
-        "date_modified": "2025-10-20T17:40:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Forum voor Democratie (FvD) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland stelt dat de website van Forum voor Democratie bij het laden automatisch YouTube-cookies plaatst, ook als bezoekers hiervoor geen toestemming geven via de cookiebanner. Dit is in strijd met de regels van de AVG en de Telecommunicatiewet. Ondanks een waarschuwing van de stichting op 10 oktober 2025 zou de partij de website nog niet hebben aangepast. (Bron: tweakers.net)"
     }
 ]
