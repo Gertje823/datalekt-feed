@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 10 Feb 2026 02:38:23 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 12 Feb 2026 02:30:49 +0000</lastBuildDate>
+		<item>
+			<title>Cliëntgegevens van Bronlaak gelekt via verouderde back-up bij voormalig mondzorgverlener NoviaCura</title>
+			<link>https://www.ed.nl/brabant/persoonlijke-gegevens-van-clienten-bronlaak-openbaar-via-datalek-bij-mondzorgspecialist~a02cc1d0/</link>
+			<description>NoviaCura | Gezondheids- en welzijnszorg | 08-02-2026 | DataLekt.nl: Bij een beveiligingsincident zijn gevoelige persoonsgegevens van cliënten van Bronlaak (onderdeel van DeSeizoenen) openbaar geworden via systemen die verband houden met NoviaCura, een mondzorgverlener die tot medio 2023 diensten leverde op deze zorglocatie. De gegevens bevonden zich op een server van Van Venrooy Utility Vehicles B.V., een zusterbedrijf van NoviaCura. Hoewel de administraties gescheiden waren, stonden ze op dezelfde server met back-ups, waardoor oude kopieën van cliëntgegevens bewaard zijn gebleven. Hackers kregen via dit systeem toegang tot onder meer namen, geboortedata, burgerservicenummers en mondzorgrapportages. Het gaat om verouderde gegevens, maar ze kunnen worden misbruikt voor phishing. Betrokken cliënten en verwanten worden geïnformeerd. (Bron: ed.nl)</description>
+			<guid isPermaLink="false">https://www.ed.nl/brabant/persoonlijke-gegevens-van-clienten-bronlaak-openbaar-via-datalek-bij-mondzorgspecialist~a02cc1d0/?datalekt=119ceb474e08a178d21ca2ea66a2086d2d5b783a4ecf77bbf49a4934d677e43d</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Persoonsgegevens van cliënten van Bronlaak gelekt via beveiligingsincident bij mondzorgleverancier NoviaCura</title>
+			<link>https://www.ed.nl/brabant/persoonlijke-gegevens-van-clienten-bronlaak-openbaar-via-datalek-bij-mondzorgspecialist~a02cc1d0/</link>
+			<description>Bronlaak (DeSeizoenen) | Gezondheids- en welzijnszorg | 08-02-2026 | DataLekt.nl: Bij een beveiligingsincident zijn gevoelige persoonsgegevens van cliënten van woon- en werkgemeenschap Bronlaak (onderdeel van DeSeizoenen) op internet terechtgekomen. Hackers kregen toegang via Van Venrooy Utility Vehicles B.V., een zusterbedrijf van mondzorgverlener NoviaCura, die in het verleden mondzorg verleende op Bronlaak. Hoewel de cliëntgegevens en bedrijfsgegevens gescheiden waren opgeslagen, stonden ze op dezelfde server met een back-up, waardoor tot juli 2023 nog kopieën van cliëntdata aanwezig waren. Het gaat onder meer om namen, geboortedata, burgerservicenummers en mondzorgrapportages. De gegevens zijn verouderd, maar brengen wel risico’s op phishing met zich mee. Betrokken cliënten en verwanten worden geïnformeerd. (Bron: ed.nl)</description>
+			<guid isPermaLink="false">https://www.ed.nl/brabant/persoonlijke-gegevens-van-clienten-bronlaak-openbaar-via-datalek-bij-mondzorgspecialist~a02cc1d0/?datalekt=89ca9b1c0203646eb1d468b1b707b631c880346fa023015cc3b28b15ca89ecb5</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Raad voor de rechtspraak getroffen door datalek via kwetsbaarheid in Ivanti-software bij beheer van mobiele apparaten</title>
 			<link>https://www.nu.nl/binnenland/6385156/datalek-bij-dienst-die-toeziet-op-bescherming-van-persoonsgegevens.html</link>
@@ -757,22 +773,6 @@
 			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
 			<description>ChristenUnie (CU) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland meldde dat de website van de ChristenUnie begin oktober 2025 trackingcookies plaatste zonder toestemming. Na de waarschuwing van 10 oktober heeft de partij haar website aangepast om te voldoen aan de privacywetgeving. (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=c0f71613dd88d082b99198af752adbffff726e61d41810e76611c1e3f59486b5</guid>
-			<category>Overig: Politieke partijen </category>
-			<pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>BoerBurgerBeweging paste website aan na kritiek op ongeoorloofde trackingcookies</title>
-			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
-			<description>BoerBurgerBeweging (BBB) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland ontdekte dat de website van BoerBurgerBeweging begin oktober 2025 trackingcookies plaatste zonder toestemming van bezoekers. Na een waarschuwingsbrief op 10 oktober heeft de partij de website aangepast om te voldoen aan de privacywetgeving. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=cc44ee258d6dc51f17239fd2a4b2e031b47a77aba07d541ed2142d351ae02792</guid>
-			<category>Overig: Politieke partijen </category>
-			<pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>50PLUS laat bezoekers cookies niet volledig weigeren en deelt gegevens met Google Analytics</title>
-			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
-			<description>50PLUS | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: Volgens de Stichting Data Bescherming Nederland kunnen bezoekers van de website van 50PLUS cookies alleen weigeren door handmatig instellingen aan te passen, wat niet voldoet aan de AVG. Daarnaast stuurt de partij gegevens door naar Google Analytics, een dienst die mogelijk niet aan de privacywetgeving voldoet. Ondanks een waarschuwing op 10 oktober 2025 plaatst de website nog steeds trackingcookies zonder geldige toestemming. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=bc455e13100e485ea999f57cf09b32cf7185dbf16ae56858c6a910b071db46fb</guid>
 			<category>Overig: Politieke partijen </category>
 			<pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
 		</item>
