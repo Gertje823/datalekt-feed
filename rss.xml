@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 12 Feb 2026 02:30:49 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 13 Feb 2026 02:32:17 +0000</lastBuildDate>
+		<item>
+			<title>Odido getroffen door cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn gelekt</title>
+			<link>https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html</link>
+			<description>Odido | ICT en telecommunicatie | 12-02-2026 | DataLekt.nl: Telecomprovider Odido is slachtoffer geworden van een cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn buitgemaakt. Het gaat om namen, adressen, telefoonnummers en bankrekeningnummers; wachtwoorden en paspoortgegevens zijn volgens het bedrijf niet gelekt. De hackers hebben Odido zelf geïnformeerd dat zij de gegevens in handen hebben. Het bedrijf ontving afgelopen weekend de eerste signalen van het datalek en startte een onderzoek met interne en externe beveiligingsexperts. Het lek is gemeld bij de Autoriteit Persoonsgegevens en klanten worden geïnformeerd. De operationele dienstverlening is niet verstoord. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html?datalekt=8df44706dc08aef34c5238ac759ae77f7eb5ce176a81a7a287dc02b7a7c5d09d</guid>
+			<category>ICT en telecommunicatie </category>
+			<pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Cliëntgegevens van Bronlaak gelekt via verouderde back-up bij voormalig mondzorgverlener NoviaCura</title>
 			<link>https://www.ed.nl/brabant/persoonlijke-gegevens-van-clienten-bronlaak-openbaar-via-datalek-bij-mondzorgspecialist~a02cc1d0/</link>
@@ -765,14 +773,6 @@
 			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
 			<description>DENK | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: Volgens de Stichting Data Bescherming Nederland plaatste de website van DENK begin oktober 2025 trackingcookies zonder dat bezoekers toestemming gaven. Na een brief van de stichting op 10 oktober heeft de partij haar website aangepast zodat cookies niet langer zonder toestemming worden geplaatst. (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=8974b380048a4b80c74ff122efd4eb9fc50171ee71e6e9a15bedcc37f095a167</guid>
-			<category>Overig: Politieke partijen </category>
-			<pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>ChristenUnie verwijdert trackingcookies na waarschuwing over schending van cookieregels</title>
-			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
-			<description>ChristenUnie (CU) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland meldde dat de website van de ChristenUnie begin oktober 2025 trackingcookies plaatste zonder toestemming. Na de waarschuwing van 10 oktober heeft de partij haar website aangepast om te voldoen aan de privacywetgeving. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=c0f71613dd88d082b99198af752adbffff726e61d41810e76611c1e3f59486b5</guid>
 			<category>Overig: Politieke partijen </category>
 			<pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
 		</item>
