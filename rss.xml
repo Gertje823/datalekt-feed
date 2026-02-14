@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 13 Feb 2026 02:32:17 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 02:20:37 +0000</lastBuildDate>
+		<item>
+			<title>Ben getroffen door datalek via hack op moederbedrijf Odido waarbij adres- en identiteitsgegevens zijn buitgemaakt</title>
+			<link>https://tweakers.net/nieuws/244660/ben-waarschuwt-klanten-dat-adres-en-id-gegevens-zijn-gestolen-bij-hack-odido.html</link>
+			<description>Ben | ICT en telecommunicatie | 12-02-2026 | DataLekt.nl: Telecomprovider Ben is getroffen door een cyberaanval op moederbedrijf Odido waarbij aanvallers toegang kregen tot een klantcontactsysteem. Daarbij zijn mogelijk persoonsgegevens van Ben-klanten buitgemaakt, waaronder naam, adres, woonplaats, mobiel nummer, klantnummer, e-mailadres, geboortedatum en identificatiegegevens zoals paspoort- of rijbewijsnummer en de geldigheidsduur daarvan. Volgens Ben zijn geen wachtwoorden, belgegevens, locatiegegevens, factuurgegevens of scans van identiteitsbewijzen ingezien. Ben en Odido informeren getroffen klanten, maar het kan enige tijd duren voordat iedereen bericht heeft ontvangen. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/244660/ben-waarschuwt-klanten-dat-adres-en-id-gegevens-zijn-gestolen-bij-hack-odido.html?datalekt=1046316cf44ce1391bbb6af125a5d2f6bc53397519626a7a3ed2d4709e3ff0d8</guid>
+			<category>ICT en telecommunicatie </category>
+			<pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Odido getroffen door cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn gelekt</title>
 			<link>https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html</link>
@@ -765,14 +773,6 @@
 			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
 			<description>JA21 | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland constateerde dat de website van JA21 begin oktober 2025 trackingcookies plaatste zonder toestemming van bezoekers. Na een waarschuwingsbrief op 10 oktober heeft de partij maatregelen genomen en de website aangepast om te voldoen aan de AVG. (Bron: tweakers.net)</description>
 			<guid isPermaLink="false">https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=9c53264d04ce28f5c3553a4f16860c0546fde1e715427145ed891d0d46b0bc21</guid>
-			<category>Overig: Politieke partijen </category>
-			<pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DENK corrigeert website na overtreding van cookieregels zonder toestemming</title>
-			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
-			<description>DENK | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: Volgens de Stichting Data Bescherming Nederland plaatste de website van DENK begin oktober 2025 trackingcookies zonder dat bezoekers toestemming gaven. Na een brief van de stichting op 10 oktober heeft de partij haar website aangepast zodat cookies niet langer zonder toestemming worden geplaatst. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=8974b380048a4b80c74ff122efd4eb9fc50171ee71e6e9a15bedcc37f095a167</guid>
 			<category>Overig: Politieke partijen </category>
 			<pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
 		</item>
