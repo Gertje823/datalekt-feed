@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.ictmagazine.nl/nieuws/ap-ziet-groot-gevaar-bij-zelfgebouwde-applicaties-belastingdienst/?datalekt=4914038736b3b22a1c2729e49a940c567c0b4fa810d06231ee08b6a0cb3cd777",
+        "url": "https://www.ictmagazine.nl/nieuws/ap-ziet-groot-gevaar-bij-zelfgebouwde-applicaties-belastingdienst/",
+        "title": "Belastingdienst loopt privacyrisico\u2019s door honderden zelfgebouwde applicaties zonder voldoende beveiliging",
+        "date_published": "2026-02-15T17:54:00Z",
+        "date_modified": "2026-02-15T17:54:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ictmagazine.nl"
+        },
+        "content_html": "",
+        "content_text": "Belastingdienst | Overheid: Organisatieonderdeel | 13-02-2026 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) concludeert op basis van eigen onderzoek dat honderden zelfgebouwde Lokaal Ontwikkelde Applicaties (LOA\u2019s) van de Belastingdienst niet voldoen aan privacy- en beveiligingseisen. Voor minder dan de helft is een risicoanalyse uitgevoerd en logging en monitoring ontbreken vrijwel volledig. Ook is onvoldoende zicht op exportfuncties en mogelijke gegevensuitwisseling buiten beveiligde omgevingen. Hierdoor kunnen persoonsgegevens te lang worden bewaard, onvoldoende worden beveiligd of onjuist worden gebruikt, wat kan leiden tot verkeerde beslissingen. De staatssecretaris van Financi\u00ebn heeft een plan van aanpak toegezegd om de risico\u2019s te beperken. (Bron: ictmagazine.nl)"
+    },
+    {
+        "id": "https://www.rijnmond.nl/nieuws/2152061/aanhouding-voor-bezit-geheime-politiedocumenten?datalekt=c5dddac07d36f203f48bd60dc96772cbec2034dcef9b9c94534a731f7da02125",
+        "url": "https://www.rijnmond.nl/nieuws/2152061/aanhouding-voor-bezit-geheime-politiedocumenten",
+        "title": "Politie deelt per ongeluk vertrouwelijke documenten met inwoner van Ridderkerk en houdt hem aan na weigering tot teruggave",
+        "date_published": "2026-02-15T12:02:00Z",
+        "date_modified": "2026-02-15T12:02:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rijnmond.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationale Politie | Overheid: Politie | 13-02-2026 | DataLekt.nl: De politie heeft op 13 februari 2026 rond 19:00 uur een 40-jarige man uit Ridderkerk aangehouden nadat hij door een fout van de politie toegang kreeg tot vertrouwelijke politiedocumenten. De politie wilde hem een uploadlink sturen voor het delen van informatie die voor het onderzoek van belang was, maar verstuurde per abuis een downloadlink. De man downloadde de bestanden en weigerde deze terug te geven. Daarop werd hij aangehouden en werd zijn woning doorzocht. De documenten zijn veiliggesteld om verdere verspreiding te voorkomen en het datalek is gemeld. (Bron: rijnmond.nl)"
+    },
+    {
         "id": "https://tweakers.net/nieuws/244660/ben-waarschuwt-klanten-dat-adres-en-id-gegevens-zijn-gestolen-bij-hack-odido.html?datalekt=1046316cf44ce1391bbb6af125a5d2f6bc53397519626a7a3ed2d4709e3ff0d8",
         "url": "https://tweakers.net/nieuws/244660/ben-waarschuwt-klanten-dat-adres-en-id-gegevens-zijn-gestolen-bij-hack-odido.html",
         "title": "Ben getroffen door datalek via hack op moederbedrijf Odido waarbij adres- en identiteitsgegevens zijn buitgemaakt",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Bun | Onroerend goed | 13-10-2025 | DataLekt.nl: De grootste franchisenemer van Albert Heijn, Bun, is op 13 oktober 2025 getroffen door een ransomware-aanval waarbij cybercriminelen personeelsdossiers, paspoortkopie\u00ebn, bankrekeningnummers en medische gegevens van medewerkers en oud-medewerkers hebben gestolen. Een deel van de buitgemaakte data, naar schatting 20 procent, is inmiddels gepubliceerd op het dark web. De aanvallers dreigen meer informatie openbaar te maken als er geen losgeld wordt betaald. In totaal gaat het vermoedelijk om duizenden getroffen (oud-)medewerkers van de 26 filialen van Bun. [Update: Op 23 oktober 2025 zijn er meer details in de media bekend geworden, waarmee de bron is veranderd van ccinfo.nl naar rlt.nl.] (Bron: rtl.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=a669c768e55aaeab4dc4b9002e7d26700d4903ec41ace5b9354ef0cda807c570",
-        "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
-        "title": "Nieuw Sociaal Contract past website aan na klacht over trackingcookies zonder toestemming",
-        "date_published": "2025-10-20T17:46:00Z",
-        "date_modified": "2025-10-20T17:46:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Nieuw Sociaal Contract (NSC) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: Begin oktober 2025 ontdekte de Stichting Data Bescherming Nederland dat de website van Nieuw Sociaal Contract trackingcookies plaatste zonder dat bezoekers vooraf toestemming gaven. Na een waarschuwingsbrief van de stichting op 10 oktober heeft de partij de website aangepast om te voldoen aan de privacyregels. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=9c53264d04ce28f5c3553a4f16860c0546fde1e715427145ed891d0d46b0bc21",
-        "url": "https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html",
-        "title": "JA21 herstelt website na klacht over trackingcookies zonder toestemming",
-        "date_published": "2025-10-20T17:45:00Z",
-        "date_modified": "2025-10-20T17:45:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "JA21 | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland constateerde dat de website van JA21 begin oktober 2025 trackingcookies plaatste zonder toestemming van bezoekers. Na een waarschuwingsbrief op 10 oktober heeft de partij maatregelen genomen en de website aangepast om te voldoen aan de AVG. (Bron: tweakers.net)"
     }
 ]

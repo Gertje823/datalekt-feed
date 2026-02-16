@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 14 Feb 2026 02:20:37 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 16 Feb 2026 02:28:37 +0000</lastBuildDate>
+		<item>
+			<title>Belastingdienst loopt privacyrisico’s door honderden zelfgebouwde applicaties zonder voldoende beveiliging</title>
+			<link>https://www.ictmagazine.nl/nieuws/ap-ziet-groot-gevaar-bij-zelfgebouwde-applicaties-belastingdienst/</link>
+			<description>Belastingdienst | Overheid: Organisatieonderdeel | 13-02-2026 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) concludeert op basis van eigen onderzoek dat honderden zelfgebouwde Lokaal Ontwikkelde Applicaties (LOA’s) van de Belastingdienst niet voldoen aan privacy- en beveiligingseisen. Voor minder dan de helft is een risicoanalyse uitgevoerd en logging en monitoring ontbreken vrijwel volledig. Ook is onvoldoende zicht op exportfuncties en mogelijke gegevensuitwisseling buiten beveiligde omgevingen. Hierdoor kunnen persoonsgegevens te lang worden bewaard, onvoldoende worden beveiligd of onjuist worden gebruikt, wat kan leiden tot verkeerde beslissingen. De staatssecretaris van Financiën heeft een plan van aanpak toegezegd om de risico’s te beperken. (Bron: ictmagazine.nl)</description>
+			<guid isPermaLink="false">https://www.ictmagazine.nl/nieuws/ap-ziet-groot-gevaar-bij-zelfgebouwde-applicaties-belastingdienst/?datalekt=4914038736b3b22a1c2729e49a940c567c0b4fa810d06231ee08b6a0cb3cd777</guid>
+			<category>Overheid: Organisatieonderdeel </category>
+			<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Politie deelt per ongeluk vertrouwelijke documenten met inwoner van Ridderkerk en houdt hem aan na weigering tot teruggave</title>
+			<link>https://www.rijnmond.nl/nieuws/2152061/aanhouding-voor-bezit-geheime-politiedocumenten</link>
+			<description>Nationale Politie | Overheid: Politie | 13-02-2026 | DataLekt.nl: De politie heeft op 13 februari 2026 rond 19:00 uur een 40-jarige man uit Ridderkerk aangehouden nadat hij door een fout van de politie toegang kreeg tot vertrouwelijke politiedocumenten. De politie wilde hem een uploadlink sturen voor het delen van informatie die voor het onderzoek van belang was, maar verstuurde per abuis een downloadlink. De man downloadde de bestanden en weigerde deze terug te geven. Daarop werd hij aangehouden en werd zijn woning doorzocht. De documenten zijn veiliggesteld om verdere verspreiding te voorkomen en het datalek is gemeld. (Bron: rijnmond.nl)</description>
+			<guid isPermaLink="false">https://www.rijnmond.nl/nieuws/2152061/aanhouding-voor-bezit-geheime-politiedocumenten?datalekt=c5dddac07d36f203f48bd60dc96772cbec2034dcef9b9c94534a731f7da02125</guid>
+			<category>Overheid: Politie </category>
+			<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Ben getroffen door datalek via hack op moederbedrijf Odido waarbij adres- en identiteitsgegevens zijn buitgemaakt</title>
 			<link>https://tweakers.net/nieuws/244660/ben-waarschuwt-klanten-dat-adres-en-id-gegevens-zijn-gestolen-bij-hack-odido.html</link>
@@ -759,22 +775,6 @@
 			<guid isPermaLink="false">https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/?datalekt=7fe0c6766af8be052bbe246b2d55154f85b993f13685ee03e4ff39ccf377a41b</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Nieuw Sociaal Contract past website aan na klacht over trackingcookies zonder toestemming</title>
-			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
-			<description>Nieuw Sociaal Contract (NSC) | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: Begin oktober 2025 ontdekte de Stichting Data Bescherming Nederland dat de website van Nieuw Sociaal Contract trackingcookies plaatste zonder dat bezoekers vooraf toestemming gaven. Na een waarschuwingsbrief van de stichting op 10 oktober heeft de partij de website aangepast om te voldoen aan de privacyregels. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=a669c768e55aaeab4dc4b9002e7d26700d4903ec41ace5b9354ef0cda807c570</guid>
-			<category>Overig: Politieke partijen </category>
-			<pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>JA21 herstelt website na klacht over trackingcookies zonder toestemming</title>
-			<link>https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html</link>
-			<description>JA21 | Overig: Politieke partijen | 20-10-2025 | DataLekt.nl: De Stichting Data Bescherming Nederland constateerde dat de website van JA21 begin oktober 2025 trackingcookies plaatste zonder toestemming van bezoekers. Na een waarschuwingsbrief op 10 oktober heeft de partij maatregelen genomen en de website aangepast om te voldoen aan de AVG. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/240532/zeven-nederlandse-politieke-partijen-plaatsten-cookies-zonder-toestemming.html?datalekt=9c53264d04ce28f5c3553a4f16860c0546fde1e715427145ed891d0d46b0bc21</guid>
-			<category>Overig: Politieke partijen </category>
-			<pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil</title>
