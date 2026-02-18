@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 16 Feb 2026 02:28:37 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 18 Feb 2026 02:28:40 +0000</lastBuildDate>
+		<item>
+			<title>De Groote Weiver meldt mogelijk datalek na hack via account van websitebeheerder</title>
+			<link>https://www.deorkaan.nl/mogelijk-datalek-bij-de-groote-weiver-na-hack/</link>
+			<description>De Groote Weiver | Kunst, cultuur, sport en recreatie | 13-02-2026 | DataLekt.nl: De Groote Weiver is in het weekend getroffen door een hack waarbij criminelen via inloggegevens van een websitebeheerder toegang kregen tot de website. Zij maakten twee nieuwe accounts met uitgebreide rechten aan. Beveiligingssoftware detecteerde afwijkende activiteiten, waarna de accounts zijn verwijderd en wachtwoorden zijn aangepast. Mogelijk zijn voor- en achternamen en e-mailadressen buitgemaakt van bezoekers die zich sinds juni 2023 via de website aanmeldden voor buurtmaaltijden en evenementen. Omdat inzage in persoonsgegevens mogelijk was, is het incident gemeld bij de Autoriteit Persoonsgegevens. Er zijn extra beveiligingsmaatregelen genomen, waaronder meerfactorauthenticatie. (Bron: deorkaan.nl)</description>
+			<guid isPermaLink="false">https://www.deorkaan.nl/mogelijk-datalek-bij-de-groote-weiver-na-hack/?datalekt=e20b0b8eaae40c93222e81655889eaa428d3e1bf39a088fe1fb6c3eae7dade21</guid>
+			<category>Kunst, cultuur, sport en recreatie </category>
+			<pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Belastingdienst loopt privacyrisico’s door honderden zelfgebouwde applicaties zonder voldoende beveiliging</title>
 			<link>https://www.ictmagazine.nl/nieuws/ap-ziet-groot-gevaar-bij-zelfgebouwde-applicaties-belastingdienst/</link>
@@ -783,14 +791,6 @@
 			<guid isPermaLink="false">https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=9276b45f448fa1a115c217a545239df454c255adaf36643c0fceb9996ab1af59</guid>
 			<category>Water en afvalbeheer </category>
 			<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Franchisenemer Bun van Albert Heijn getroffen door ransomware-aanval</title>
-			<link>https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en</link>
-			<description>Bun | Onroerend goed | 13-10-2025 | DataLekt.nl: De grootste franchisenemer van Albert Heijn, Bun, is op 13 oktober 2025 getroffen door een ransomware-aanval waarbij cybercriminelen personeelsdossiers, paspoortkopieën, bankrekeningnummers en medische gegevens van medewerkers en oud-medewerkers hebben gestolen. Een deel van de buitgemaakte data, naar schatting 20 procent, is inmiddels gepubliceerd op het dark web. De aanvallers dreigen meer informatie openbaar te maken als er geen losgeld wordt betaald. In totaal gaat het vermoedelijk om duizenden getroffen (oud-)medewerkers van de 26 filialen van Bun. [Update: Op 23 oktober 2025 zijn er meer details in de media bekend geworden, waarmee de bron is veranderd van ccinfo.nl naar rlt.nl.] (Bron: rtl.nl)</description>
-			<guid isPermaLink="false">https://www.rtl.nl/nieuws/binnenland/artikel/5535056/grootste-franchisenemer-ah-gehackt-paspoorten-en?datalekt=4b28d67ac803a8a23e0402d0c8e297de446961b1f9644fbe236d830877e001a9</guid>
-			<category>Onroerend goed </category>
-			<pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld</title>
