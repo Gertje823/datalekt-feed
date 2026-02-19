@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ncsc.nl/ondernemersverhaal/mysterieuze-cookieroof-leidt-tot-torenhoge-cloudkosten?datalekt=fcfea01624a9eafb696a417a6e25905a0d52014aefe7896f74363613b1e62984",
+        "url": "https://www.ncsc.nl/ondernemersverhaal/mysterieuze-cookieroof-leidt-tot-torenhoge-cloudkosten",
+        "title": "Landelijke dienstverlener getroffen door infostealing via gestolen sessiecookie met hoge cloudkosten tot gevolg",
+        "date_published": "2026-02-18T14:17:00Z",
+        "date_modified": "2026-02-18T14:17:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ncsc.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende organisatie | Overig | 11-02-2026 | DataLekt.nl: Een landelijke online dienstverlener werd in 2024 slachtoffer van een aanval waarbij een sessiecookie van een medewerker werd gestolen. De aanvaller logde vanuit het buitenland in op twee cloudabonnementen en zette meerdere virtuele machines op om cryptomunten te minen. Hierdoor ontstond in \u00e9\u00e9n dag circa 16.000 euro aan cloudkosten. De toegang werd na ongeveer zes uur geblokkeerd door de cloudprovider. Er werd geen klantdata ingezien of gestolen. De provider schold het bedrag kwijt, maar de organisatie maakte veel uren voor onderzoek en herstel. Er is aangifte gedaan bij de politie. (Bron: ncsc.nl)"
+    },
+    {
         "id": "https://www.deorkaan.nl/mogelijk-datalek-bij-de-groote-weiver-na-hack/?datalekt=e20b0b8eaae40c93222e81655889eaa428d3e1bf39a088fe1fb6c3eae7dade21",
         "url": "https://www.deorkaan.nl/mogelijk-datalek-bij-de-groote-weiver-na-hack/",
         "title": "De Groote Weiver meldt mogelijk datalek na hack via account van websitebeheerder",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Irias | ICT en telecommunicatie | 28-10-2025 | DataLekt.nl: Irias, een Nederlands softwarebedrijf voor Geo/GIS, meldt een datalek waarbij bedrijfsgevoelige informatie is gestolen, inclusief de broncode van hun software. Volgens de berichtgeving is het incident door een dreigingsactor op een hackersforum bekendgemaakt, met een gedeelde directorylijst en de claim dat de volledige broncode beschikbaar is om te downloaden. Het incident vergroot het risico op misbruik van intellectueel eigendom en kan grote gevolgen hebben als de code verder wordt verspreid. Er zijn geen aantallen of klantgegevens genoemd. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/?datalekt=7fe0c6766af8be052bbe246b2d55154f85b993f13685ee03e4ff39ccf377a41b",
-        "url": "https://www.rtvkatwijk.nl/katwijk-meldt-datalek-na-fout-in-schuldsignalering/",
-        "title": "Gemeente Katwijk meldt datalek door foutieve gegevens van Zorg en Zekerheid in schuldensignalering",
-        "date_published": "2025-10-26T13:14:00Z",
-        "date_modified": "2025-10-26T13:14:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtvkatwijk.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Katwijk | Overheid: Gemeenten | 24-10-2025 | DataLekt.nl: De gemeente Katwijk heeft een datalek gemeld bij de Autoriteit Persoonsgegevens nadat 148 inwoners begin oktober 2025 ten onrechte een bericht ontvingen over een vermeende betalingsachterstand. De fout ontstond doordat zorgverzekeraar Zorg en Zekerheid op 25 september een onjuiste lijst met namen aanleverde. Op basis daarvan verstuurde de gemeente op 1 oktober berichten aan inwoners. Na ontdekking verwijderde Katwijk de gegevens en Zorg en Zekerheid stuurde op 17 oktober een excuusbrief. De gemeente scherpt haar controles op schuldensignalering aan om herhaling te voorkomen. (Bron: rtvkatwijk.nl)"
     }
 ]
