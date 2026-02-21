@@ -1,5 +1,122 @@
 [
     {
+        "id": "https://www.security.nl/posting/925537/Banken+en+webshops+gebruiken+browser-fingerprinting+zonder+toestemming+van+gebruikers?datalekt=6894fdc15a96b48c39d8c897f8172d0e659085ddc6bf9eb540797df1da48de6e",
+        "url": "https://www.security.nl/posting/925537/Banken+en+webshops+gebruiken+browser-fingerprinting+zonder+toestemming+van+gebruikers",
+        "title": "Marktplaats gebruikt browser-fingerprinting zonder toestemming van bezoekers",
+        "date_published": "2026-02-20T17:56:00Z",
+        "date_modified": "2026-02-20T17:56:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Marktplaats | ICT en telecommunicatie | 20-02-2026 | DataLekt.nl: Marktplaats past browser-fingerprinting toe zonder voorafgaande toestemming van gebruikers, zo meldt Security.nl op basis van onderzoek van De Telegraaf. Met deze techniek worden systeem- en browsergegevens verzameld om een unieke digitale vingerafdruk te cre\u00ebren waarmee gebruikers herkenbaar zijn, ook zonder cookies. Marktplaats bevestigt het gebruik en stelt dat dit gebeurt op basis van het gerechtvaardigd belang om het platform veilig te houden. Volgens privacyjuristen kan fingerprinting leiden tot verwerking van persoonsgegevens en is daarvoor doorgaans toestemming vereist onder de AVG. [Redactie: Browser-fingerprinting is niet per definitie onrechtmatig; de rechtmatigheid hangt af van de gekozen grondslag, het doel en de naleving van de AVG en Telecommunicatiewet.] (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/925537/Banken+en+webshops+gebruiken+browser-fingerprinting+zonder+toestemming+van+gebruikers?datalekt=f45aea52544533b54451de07cadb6cb2d8ee17b3d2ce3347db0dfa738ab419c5",
+        "url": "https://www.security.nl/posting/925537/Banken+en+webshops+gebruiken+browser-fingerprinting+zonder+toestemming+van+gebruikers",
+        "title": "De Bijenkorf zet browser-fingerprinting in zonder toestemming van gebruikers",
+        "date_published": "2026-02-20T17:55:00Z",
+        "date_modified": "2026-02-20T17:55:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "De Bijenkorf | Groot- en detailhandel | 20-02-2026 | DataLekt.nl: De Bijenkorf gebruikt browser-fingerprinting zonder dat bezoekers daar expliciet toestemming voor geven, zo blijkt uit onderzoek van De Telegraaf waarover Security.nl bericht. Met deze techniek worden diverse systeem- en browsergegevens verzameld om een unieke digitale identiteit te cre\u00ebren. De betrokken bedrijven geven aan dat de techniek wordt ingezet om fraude te voorkomen en de veiligheid te vergroten. Privacydeskundigen wijzen erop dat fingerprinting kan leiden tot verwerking van persoonsgegevens en dat organisaties bezoekers hierover moeten informeren en in veel gevallen toestemming nodig hebben. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/925537/Banken+en+webshops+gebruiken+browser-fingerprinting+zonder+toestemming+van+gebruikers?datalekt=032859961de53d1a465ca2a1d5d23dab83b1ce5471a608f2d7493338cdaee3da",
+        "url": "https://www.security.nl/posting/925537/Banken+en+webshops+gebruiken+browser-fingerprinting+zonder+toestemming+van+gebruikers",
+        "title": "Rabobank past browser-fingerprinting toe zonder voorafgaande toestemming van gebruikers",
+        "date_published": "2026-02-20T17:54:00Z",
+        "date_modified": "2026-02-20T17:54:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Rabobank | Financi\u00eble diensten | 20-02-2026 | DataLekt.nl: Rabobank maakt gebruik van browser-fingerprinting zonder dat bezoekers daar vooraf toestemming voor geven, zo blijkt uit onderzoek van De Telegraaf waarover Security.nl bericht. Via het verzamelen van systeem- en browsergegevens wordt een unieke digitale vingerafdruk opgebouwd waarmee gebruikers kunnen worden herkend. De bank stelt dat deze techniek uitsluitend wordt ingezet om bots te onderscheiden van echte gebruikers en om fraude te voorkomen, en niet voor marketing of profilering. Volgens de Autoriteit Persoonsgegevens is voor dergelijke volgtechnieken doorgaans toestemming vereist wanneer persoonsgegevens worden verwerkt. [Redactie: Browser-fingerprinting is niet per definitie onrechtmatig; de rechtmatigheid hangt af van de gekozen grondslag, het doel en de naleving van de AVG en Telecommunicatiewet.] (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.security.nl/posting/925537/Banken+en+webshops+gebruiken+browser-fingerprinting+zonder+toestemming+van+gebruikers?datalekt=9e7a16b59a47f1fdb111516962373b6b0a01df77952b80f73f6cacd4b2e87333",
+        "url": "https://www.security.nl/posting/925537/Banken+en+webshops+gebruiken+browser-fingerprinting+zonder+toestemming+van+gebruikers",
+        "title": "ABN Amro gebruikt browser-fingerprinting zonder toestemming van websitebezoekers",
+        "date_published": "2026-02-20T17:53:00Z",
+        "date_modified": "2026-02-20T17:53:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "ABN Amro | Financi\u00eble diensten | 20-02-2026 | DataLekt.nl: Uit onderzoek van De Telegraaf, aangehaald door Security.nl, blijkt dat ABN Amro browser-fingerprinting toepast zonder dat gebruikers hiervoor toestemming hebben gegeven. Met deze techniek worden onder meer systeemgegevens zoals tijdzone, besturingssysteem, browserversie, plug-ins en hardwarekenmerken verzameld om een unieke digitale vingerafdruk te cre\u00ebren. De bank stelt dat de techniek wordt ingezet om fraude te detecteren en bots te onderscheiden van echte gebruikers, en niet voor marketingdoeleinden. Volgens privacydeskundigen kan fingerprinting leiden tot verwerking van persoonsgegevens en is toestemming in veel gevallen vereist onder de AVG. [Redactie: Browser-fingerprinting is niet per definitie onrechtmatig; de rechtmatigheid hangt af van de gekozen grondslag, het doel en de naleving van de AVG en Telecommunicatiewet.] (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.telegraaf.nl/lifestyle/tech/grove-privacyschending-door-tiental-webwinkels-als-bol-zalando-en-wehkamp-alles-gevolgd-zonder-toestemming/133165492.html?datalekt=eb1729bc7ea3294eca48bc924ebfe170970483fc99de0d023a60f7a727207127",
+        "url": "https://www.telegraaf.nl/lifestyle/tech/grove-privacyschending-door-tiental-webwinkels-als-bol-zalando-en-wehkamp-alles-gevolgd-zonder-toestemming/133165492.html",
+        "title": "Wehkamp volgt websitebezoekers zonder toestemming via browser fingerprinting",
+        "date_published": "2026-02-20T17:44:00Z",
+        "date_modified": "2026-02-20T17:44:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "telegraaf.nl"
+        },
+        "content_html": "",
+        "content_text": "Wehkamp | Groot- en detailhandel | 20-02-2026 | DataLekt.nl: Uit onderzoek van De Telegraaf blijkt dat Wehkamp bezoekers van zijn website volgt met browser fingerprinting zonder daarvoor expliciet toestemming te vragen. Met deze methode worden gegevens verzameld zoals gebruikte browser, apparaat, schermresolutie, besturingssysteem, taal en andere instellingen. Deze combinatie maakt het mogelijk een unieke digitale vingerafdruk te cre\u00ebren waarmee bezoekers herkenbaar zijn en gevolgd kunnen worden. Volgens het onderzoek wordt deze techniek gebruikt om bezoekersgedrag te analyseren en gerichte advertenties aan te bieden. (Bron: telegraaf.nl)"
+    },
+    {
+        "id": "https://www.telegraaf.nl/lifestyle/tech/grove-privacyschending-door-tiental-webwinkels-als-bol-zalando-en-wehkamp-alles-gevolgd-zonder-toestemming/133165492.html?datalekt=42a31ee7c1de035954c21ac30c81587f15e7906f75a3157b9ae6fc684d8d8340",
+        "url": "https://www.telegraaf.nl/lifestyle/tech/grove-privacyschending-door-tiental-webwinkels-als-bol-zalando-en-wehkamp-alles-gevolgd-zonder-toestemming/133165492.html",
+        "title": "Bol volgt websitebezoekers zonder toestemming via browser fingerprinting",
+        "date_published": "2026-02-20T17:43:00Z",
+        "date_modified": "2026-02-20T17:43:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "telegraaf.nl"
+        },
+        "content_html": "",
+        "content_text": "Bol.com | Groot- en detailhandel | 20-02-2026 | DataLekt.nl: Uit onderzoek van De Telegraaf blijkt dat Bol bezoekers van zijn website volgt met behulp van browser fingerprinting zonder dat daarvoor expliciet toestemming wordt gevraagd. Met deze techniek worden onder meer gegevens over browser, apparaat, schermresolutie, besturingssysteem, taal en andere instellingen verzameld. Deze combinatie vormt een unieke digitale vingerafdruk waarmee bezoekers herkenbaar zijn en gevolgd kunnen worden. Volgens het onderzoek wordt deze methode niet alleen gebruikt om de website goed te laten functioneren, maar ook om gebruikers te identificeren en gericht advertenties aan te bieden. [Redactie: Browser-fingerprinting is niet per definitie onrechtmatig; de rechtmatigheid hangt af van de gekozen grondslag, het doel en de naleving van de AVG en Telecommunicatiewet.] (Bron: telegraaf.nl)"
+    },
+    {
+        "id": "https://tweakers.net/nieuws/244894/rtl-group-meldt-hack-van-intranet-maar-impact-voor-rtl-nederland-lijkt-klein.html?datalekt=0a9971d73a53c27c583411b8ac8849ff96d1d4d11ebf1ffa40350202e8966b5c",
+        "url": "https://tweakers.net/nieuws/244894/rtl-group-meldt-hack-van-intranet-maar-impact-voor-rtl-nederland-lijkt-klein.html",
+        "title": "RTL Nederland getroffen door datalek via gehackt intranet van voormalig moederbedrijf RTL Group",
+        "date_published": "2026-02-20T17:31:00Z",
+        "date_modified": "2026-02-20T17:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "RTL Nederland | Media en inhoud | 19-02-2026 | DataLekt.nl: TL Nederland is geraakt door een hack op het intranet van RTL Group, het voormalige moederbedrijf. Daarbij zijn verouderde personeelsgegevens van RTL Nederland buitgemaakt, waaronder circa 250 tot 300 e-mailadressen en in enkele gevallen telefoonnummers. Volgens een woordvoerder zijn geen wachtwoorden of andere persoonsgegevens gelekt. RTL Nederland is sinds de overname door DPG Media geen onderdeel meer van RTL Group. Hackers claimen dat in totaal ruim 27.000 medewerkersgegevens binnen de groep zijn gestolen, maar dat aantal is niet bevestigd. De oorzaak van de hack is niet bekendgemaakt. Betrokken medewerkers zijn ge\u00efnformeerd en er zijn preventieve maatregelen genomen. (Bron: tweakers.net)"
+    },
+    {
+        "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine?datalekt=9c07252ad1545656e9be85e5df4c8eb2a6ab75d1dc2a4f889e7da22eec627fd6",
+        "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine",
+        "title": "Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens",
+        "date_published": "2025-08-12T14:20:00Z",
+        "date_modified": "2026-02-19T08:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rtl.nl"
+        },
+        "content_html": "",
+        "content_text": "Clinical Diagnostics | Gezondheids- en welzijnszorg | 11-08-2025 | DataLekt.nl: Hackers hebben bij laboratorium Clinical Diagnostics medische en persoonsgegevens buitgemaakt van honderden duizenden pati\u00ebnten. Naast gegevens van 485.000 vrouwen uit het bevolkingsonderzoek naar baarmoederhalskanker gaat het ook om data van huid-, urine-, penis-, vagina-, anus- en wondvochtonderzoeken. De gestolen informatie bevat namen, adressen, geboortedata, burgerservicenummers, onderzoeksuitslagen en adviezen. Een deel van de data, waaronder gegevens van minstens 53.516 huisartsenpati\u00ebnten, is al gepubliceerd op het dark web. Volgens de criminelen gaat het in totaal om 300 gigabyte aan gegevens, waarvan tot nu toe slechts een fractie online staat. De onderzoeken zijn uitgevoerd in ziekenhuizen, klinieken en via huisartsen tussen 2022 en 2025. [Update: Op 13 augustus 2025 is bekend geworden dat het om een ransomware aanval ging.] [Update: Op 18 augustus 2025 is bekend geworden dat het losgeld van 1,1 miljoen euro nog niet betaald is aan Nova, en dat Nova dreigt met publiceren van de gestolen data.] [Update: Op 22 augustus heeft de criminele organisatie Nova bekend gemaakt dat de gestolen data verwijderd is. Er is losgeld betaald.] [Update: Op 29 augustus 2025 heeft Clinical Diagnostics bekend gemaakt dat data van 850.000 patienten (van het totaal van 941.000) zijn gestolen.] [Update: Op 17 februari 2026 is bekend geworden dat er inmiddels 118 aangiftes zijn gedaan n.a.v. het datalek.] (Bron: rtl.nl)"
+    },
+    {
+        "id": "https://www.dutchitleaders.nl/news/724991/datalek-bij-eurail-klantgegevens-te-koop-aangeboden?datalekt=9488a8b75151da9b19109b993a82dd46c5deaddd562ab9ea8f1f07a762395735",
+        "url": "https://www.dutchitleaders.nl/news/724991/datalek-bij-eurail-klantgegevens-te-koop-aangeboden",
+        "title": "Eurail getroffen door datalek waarbij klantgegevens op het dark web zijn aangeboden",
+        "date_published": "2026-02-19T08:28:00Z",
+        "date_modified": "2026-02-19T08:28:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitleaders.nl"
+        },
+        "content_html": "",
+        "content_text": "Eurail | Vervoer en opslag | 19-02-2026 | DataLekt.nl: Eurail uit Utrecht is getroffen door een beveiligingsincident waarbij onbevoegden toegang hebben gekregen tot klantgegevens van reizigers met een Eurail- of Interrail-pas, waaronder deelnemers aan het DiscoverEU-programma. Volgens het lopende onderzoek gaat het om bestel- en reserveringsinformatie, contactgegevens en in veel gevallen paspoortgegevens zoals paspoortnummers en vervaldata. De gestolen data wordt inmiddels te koop aangeboden op het dark web en deels als voorbeeld gedeeld via Telegram. Bank- en creditcardgegevens zijn volgens Eurail niet getroffen. Het incident is gemeld bij de Autoriteit Persoonsgegevens en er is extern onderzoek gestart. (Bron: dutchitleaders.nl)"
+    },
+    {
         "id": "https://www.ncsc.nl/ondernemersverhaal/mysterieuze-cookieroof-leidt-tot-torenhoge-cloudkosten?datalekt=fcfea01624a9eafb696a417a6e25905a0d52014aefe7896f74363613b1e62984",
         "url": "https://www.ncsc.nl/ondernemersverhaal/mysterieuze-cookieroof-leidt-tot-torenhoge-cloudkosten",
         "title": "Landelijke dienstverlener getroffen door infostealing via gestolen sessiecookie met hoge cloudkosten tot gevolg",
@@ -1181,122 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Stichting Stem op een Vrouw | Overige dienstverlening | 04-11-2025 | DataLekt.nl: Op de ochtend van de Tweede Kamerverkiezingen is de website van de stichting Stem op een Vrouw getroffen door een ddos-aanval, waardoor de site tijdelijk onbereikbaar was. De avond ervoor waren er al vertragingen merkbaar. Volgens directeur Devika Partiman kwamen de aanvalspogingen voornamelijk van IP-adressen uit Rusland en China. De webbeheerder wist de aanval te stoppen door een verificatiesysteem in te stellen, waarna de website weer toegankelijk werd. De stichting heeft aangifte gedaan van het incident. (Bron: hartvannederland.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/241180/rtv-noord-is-gehackt-grote-gevolgen-voor-uitzendingen-en-publicaties.html?datalekt=8d97f69a5a4c452797bf0a4a4665b9af178aa698af6e42331d2b24d14890ae23",
-        "url": "https://tweakers.net/nieuws/241180/rtv-noord-is-gehackt-grote-gevolgen-voor-uitzendingen-en-publicaties.html",
-        "title": "RTV Noord getroffen door hack met grote gevolgen voor uitzendingen en publicaties",
-        "date_published": "2025-11-07T08:37:00Z",
-        "date_modified": "2025-11-07T08:37:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "RTV Noord | Media en inhoud | 06-11-2025 | DataLekt.nl: De Groningse regionale omroep RTV Noord is getroffen door een hack die grote gevolgen heeft voor haar uitzendingen en online publicaties. Door de aanval konden geen nieuwe berichten meer worden geplaatst op de app en website van de omroep. Onbekende hackers lieten een boodschap achter op de servers, maar de inhoud daarvan is niet bekendgemaakt. De ict-afdeling ontdekte het incident, waarna noodmaatregelen werden genomen om de tv-uitzending van de avond toch door te laten gaan. De radiozender bleef wel in de lucht. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.omroepwest.nl/politiek/5032570/gemeente-deelt-mogelijk-weer-persoonsgegevens-na-berucht-datalek?datalekt=2328326c2f31434e83c142fa1ce72fff790d6d835c7a229ec5126486351f3c96",
-        "url": "https://www.omroepwest.nl/politiek/5032570/gemeente-deelt-mogelijk-weer-persoonsgegevens-na-berucht-datalek",
-        "title": "Gemeente Midden-Delfland deelt mogelijk opnieuw persoonsgegevens van bezwaarmakers tegen azc Den Hoorn",
-        "date_published": "2025-11-03T09:54:00Z",
-        "date_modified": "2025-11-03T09:54:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "omroepwest.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Midden-Delfland | Overheid: Gemeenten | 31-10-2025 | DataLekt.nl: De gemeente Midden-Delfland heeft mogelijk opnieuw persoonsgegevens van inwoners gedeeld zonder toestemming, kort na een eerder groot datalek. Tijdens een besloten bijeenkomst voor bezwaarmakers tegen de komst van een asielzoekerscentrum in Den Hoorn meldden betrokkenen dat hun gegevens onterecht zijn gedeeld met onderzoeksbureau Berenschot en met de rechtbank in een beroepszaak. De gemeente stelt dat zij in beide gevallen dacht hiertoe wettelijk verplicht te zijn en laat dit momenteel toetsen. Het incident volgt op het eerdere datalek van juli, waarbij gegevens van 132 bezwaarmakers per ongeluk openbaar werden gemaakt. (Bron: omroepwest.nl)"
-    },
-    {
-        "id": "https://www.pzc.nl/rotterdam/hacker-krijgt-opnieuw-jarenlange-celstraf-na-identiteitsfraude-en-diefstallen~a24c11ea/?datalekt=9114d5ab1dd032102bddafc87d7d235d9fca714904f3aae112b19b028dd5f144",
-        "url": "https://www.pzc.nl/rotterdam/hacker-krijgt-opnieuw-jarenlange-celstraf-na-identiteitsfraude-en-diefstallen~a24c11ea/",
-        "title": "Hacker uit Capelle aan den IJssel veroordeeld na identiteitsfraude en digitale inbraken bij bedrijven en particulieren",
-        "date_published": "2025-11-03T09:52:00Z",
-        "date_modified": "2025-11-03T09:52:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "pzc.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekend aantal organisaties | Overig | 31-10-2025 | DataLekt.nl: Een 27-jarige hacker uit Capelle aan den IJssel is door de rechtbank veroordeeld tot twee jaar celstraf, waarvan \u00e9\u00e9n jaar voorwaardelijk, voor hacking, identiteitsfraude en diefstallen bij diverse bedrijven en particulieren. De man verzamelde inlog- en persoonsgegevens van slachtoffers en gebruikte deze om binnen te dringen in geautomatiseerde systemen van bedrijven en om bestellingen te plaatsen op naam van anderen. Zijn eerdere voorwaardelijke straf van \u00e9\u00e9n jaar wordt alsnog ten uitvoer gebracht, waardoor hij in totaal drie jaar gevangenisstraf krijgt. (Bron: pzc.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/240992/hackersgroep-kreeg-bsns-inwoners-schiermonnikoog-in-handen.html?datalekt=73b65f4241cac048de3f3d7462b1682543491ca058f79130af0951f0cad46778",
-        "url": "https://tweakers.net/nieuws/240992/hackersgroep-kreeg-bsns-inwoners-schiermonnikoog-in-handen.html",
-        "title": "Gemeente Schiermonnikoog getroffen door datalek bij afvalverwerker Omrin waarbij bsn\u2019s van inwoners zijn buitgemaakt",
-        "date_published": "2025-11-03T09:48:00Z",
-        "date_modified": "2025-11-03T09:48:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Schiermonnikoog | Overheid: Gemeenten | 02-11-2025 | DataLekt.nl: De Russische hackersgroep Qilin heeft via een ransomware-aanval op afvalverwerker Omrin op 12 oktober persoonsgegevens van inwoners van Schiermonnikoog buitgemaakt. In een bestand stonden namen, adressen en burgerservicenummers van inwoners, alsmede gegevens van bedrijven en eigenaren van vakantiewoningen. Schiermonnikoog is de enige gemeente waarvan zulke gegevens zijn getroffen. De gemeente erkent dat Omrin het bsn onterecht verwerkte en heeft bewoners per brief ge\u00efnformeerd. De buitgemaakte data vergroten het risico op identiteitsfraude en phishing. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=041cb663d31dc58be3625c8b1ba3330f94bb895e9891d4dc7b6c978dabae8512",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Bangnoles getroffen door ransomware aanval van de criminele organisatie Qilin",
-        "date_published": "2025-10-31T09:53:00Z",
-        "date_modified": "2025-10-31T09:53:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Bangnoles | Groot- en detailhandel | 30-10-2025 | DataLekt.nl: De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij Bangnoles heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.rtl.nl/nieuws/economie/artikel/5532612/medewerkster-hilton-schiphol-lekte-vertrouwelijke-gasteninformatie?datalekt=6b2c5a6c3c44c6135215adfb9d28dc6e36aea9087b46264b7cde32db4a7ac597",
-        "url": "https://www.rtl.nl/nieuws/economie/artikel/5532612/medewerkster-hilton-schiphol-lekte-vertrouwelijke-gasteninformatie",
-        "title": "Hilton Schiphol-medewerkster lekt vertrouwelijke gasteninformatie naar priv\u00e9-mailadres",
-        "date_published": "2025-10-30T15:31:00Z",
-        "date_modified": "2025-10-30T15:31:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtl.nl"
-        },
-        "content_html": "",
-        "content_text": "Hilton Amsterdam Airport Schiphol | Horeca | 10-10-2025 | DataLekt.nl: Een medewerkster van Hilton Amsterdam Airport Schiphol heeft begin mei 2025 een document met persoonsgegevens van 71 hotelgasten naar haar priv\u00e9-e-mailadres gestuurd. Het betrof een portfolio van 23 pagina\u2019s met namen, functietitels, bedrijfsnamen, telefoonnummers en e-mailadressen van gasten, die zij naar eigen zeggen wilde gebruiken om via LinkedIn contact te leggen. Hilton ontdekte dit bij toeval en ontsloeg de vrouw op staande voet wegens het schenden van de gedragscode en het verspreiden van \u2018highly sensitive customer data\u2019. De rechter oordeelde dat het ontslag terecht was, omdat sprake was van een ernstige schending van privacyregels. (Bron: rtl.nl)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=7017f37de6832ab1cbc9612b966b2e2845675c7db496b4994eaead4e7ab3879f",
-        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
-        "title": "Spijkermat getroffen door ransomware aanval van de criminele organisatie Radiant",
-        "date_published": "2025-10-30T09:47:00Z",
-        "date_modified": "2025-10-30T09:47:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Spijkermat | Groot- en detailhandel | 29-10-2025 | DataLekt.nl: De criminele organisatie Radiant heeft op het darkweb aangekondigd dat zij Spijkermat heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html?datalekt=6553933bdb5d7492615009a2175fefbe030918950d215a775e529584b1223f05",
-        "url": "https://tweakers.net/nieuws/240784/datalek-postcode-loterij-gaf-1580-deelnemers-inzage-in-elkaars-gegevens.html",
-        "title": "Datalek bij Postcode Loterij en Vriendenloterij geeft 1580 deelnemers inzage in elkaars persoonsgegevens",
-        "date_published": "2025-10-28T15:53:00Z",
-        "date_modified": "2025-10-28T15:53:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "Nationale Goede Doelen Loterijen | Overige dienstverlening | 27-10-2025 | DataLekt.nl: Bij de Postcode Loterij en de Vriendenloterij, beide onderdeel van Goede Doelen Loterijen, hebben 1580 deelnemers tijdelijk toegang gehad tot elkaars persoonsgegevens. Door een technische fout in het deelnemersportaal konden namen, adressen, contactgegevens, e-mailadressen en bankgegevens van andere klanten worden ingezien. Het betrof 760 deelnemers van de Postcode Loterij en 820 van de Vriendenloterij. Uit onderzoek blijkt dat er geen sprake was van een aanval van buitenaf. Het portaal werd direct offline gehaald en de organisatie meldt het incident bij de Autoriteit Persoonsgegevens. (Bron: tweakers.net)"
-    },
-    {
-        "id": "https://www.ccinfo.nl/journaal/2784826_broncode-gestolen-bij-irias-microsoft-wsus-kwetsbaar-en-brigitte-macron-doelwit-van-hackers?datalekt=01623ef222d8efed9705a092b79471ecba6378565ff7f61b469273479fdd3d6b",
-        "url": "https://www.ccinfo.nl/journaal/2784826_broncode-gestolen-bij-irias-microsoft-wsus-kwetsbaar-en-brigitte-macron-doelwit-van-hackers",
-        "title": "Irias getroffen door datalek waarbij broncode is buitgemaakt",
-        "date_published": "2025-10-28T15:51:00Z",
-        "date_modified": "2025-10-28T15:51:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ccinfo.nl"
-        },
-        "content_html": "",
-        "content_text": "Irias | ICT en telecommunicatie | 28-10-2025 | DataLekt.nl: Irias, een Nederlands softwarebedrijf voor Geo/GIS, meldt een datalek waarbij bedrijfsgevoelige informatie is gestolen, inclusief de broncode van hun software. Volgens de berichtgeving is het incident door een dreigingsactor op een hackersforum bekendgemaakt, met een gedeelde directorylijst en de claim dat de volledige broncode beschikbaar is om te downloaden. Het incident vergroot het risico op misbruik van intellectueel eigendom en kan grote gevolgen hebben als de code verder wordt verspreid. Er zijn geen aantallen of klantgegevens genoemd. (Bron: ccinfo.nl)"
     }
 ]
