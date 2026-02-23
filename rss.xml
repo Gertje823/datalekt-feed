@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 21 Feb 2026 02:10:20 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 23 Feb 2026 02:28:57 +0000</lastBuildDate>
+		<item>
+			<title>Russische hackers nemen chataccounts van Nederlandse overheidsmedewerkers over</title>
+			<link>https://tweakers.net/nieuws/244938/russische-hackers-namen-chataccounts-van-nederlandse-ambtenaren-over.html</link>
+			<description>Onbekende overheidsorganisaties | Overheid: Ministeries | 20-02-2026 | DataLekt.nl: Russische cyberactoren hebben in 2025 chataccounts van meerdere Nederlandse overheidsmedewerkers overgenomen, waardoor zij toegang kregen tot de accounts en zich konden voordoen als de betrokken ambtenaren. Contactpersonen hadden daardoor niet door dat zij met hackers communiceerden. Volgens de AIVD en MIVD zijn chatapps een aantrekkelijk doelwit en vinden er de laatste tijd meer digitale aanvallen plaats op smartphones. De diensten melden dat Russische hackers onder meer malafide e-mails en chatberichten gebruiken om toegang te verkrijgen en opportunistisch slecht beveiligde systemen compromitteren. Over de exacte getroffen organisaties en de impact zijn geen details bekendgemaakt. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/244938/russische-hackers-namen-chataccounts-van-nederlandse-ambtenaren-over.html?datalekt=4bad7633c0f9d09ee159e197ac26b07c2058f68854f5483b631d6ebb79c65e42</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cepezed getroffen door ransomware aanval van de criminele organisatie DragonForce</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Cepezed | Verhuur en zakelijke dienstverlening | 19-02-2026 | DataLekt.nl: De criminele organisatie DragonForce heeft op het darkweb aangekondigd dat zij Cepezed heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=b97db8f2e940e9fb55ad1365cbb5d1fac86404c753ce76d598c1bbeee6a0d869</guid>
+			<category>Verhuur en zakelijke dienstverlening </category>
+			<pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Marktplaats gebruikt browser-fingerprinting zonder toestemming van bezoekers</title>
 			<link>https://www.security.nl/posting/925537/Banken+en+webshops+gebruiken+browser-fingerprinting+zonder+toestemming+van+gebruikers</link>
@@ -83,8 +99,8 @@
 		<item>
 			<title>De Groote Weiver meldt mogelijk datalek na hack via account van websitebeheerder</title>
 			<link>https://www.deorkaan.nl/mogelijk-datalek-bij-de-groote-weiver-na-hack/</link>
-			<description>De Groote Weiver | Kunst, cultuur, sport en recreatie | 13-02-2026 | DataLekt.nl: De Groote Weiver is in het weekend getroffen door een hack waarbij criminelen via inloggegevens van een websitebeheerder toegang kregen tot de website. Zij maakten twee nieuwe accounts met uitgebreide rechten aan. Beveiligingssoftware detecteerde afwijkende activiteiten, waarna de accounts zijn verwijderd en wachtwoorden zijn aangepast. Mogelijk zijn voor- en achternamen en e-mailadressen buitgemaakt van bezoekers die zich sinds juni 2023 via de website aanmeldden voor buurtmaaltijden en evenementen. Omdat inzage in persoonsgegevens mogelijk was, is het incident gemeld bij de Autoriteit Persoonsgegevens. Er zijn extra beveiligingsmaatregelen genomen, waaronder meerfactorauthenticatie. (Bron: deorkaan.nl)</description>
-			<guid isPermaLink="false">https://www.deorkaan.nl/mogelijk-datalek-bij-de-groote-weiver-na-hack/?datalekt=e20b0b8eaae40c93222e81655889eaa428d3e1bf39a088fe1fb6c3eae7dade21</guid>
+			<description>De Groote Weiver | Kunst, cultuur, sport en recreatie | 13-02-2026 | DataLekt.nl: De Groote Weiver is in het weekend getroffen door een hack waarbij criminelen via inloggegevens van een websitebeheerder toegang kregen tot de website. Zij maakten twee nieuwe accounts met uitgebreide rechten aan. Beveiligingssoftware detecteerde afwijkende activiteiten, waarna de accounts zijn verwijderd en wachtwoorden zijn aangepast. Mogelijk zijn voor- en achternamen en e-mailadressen buitgemaakt van bezoekers die zich sinds juni 2023 via de website aanmeldden voor buurtmaaltijden en evenementen. Omdat inzage in persoonsgegevens mogelijk was, is het incident gemeld bij de Autoriteit Persoonsgegevens. Er zijn extra beveiligingsmaatregelen genomen, waaronder meerfactorauthenticatie. [Update: Op 20 februari 2026 is bekend geworden dat er inderdaad feitelijk sprake was van een onrechtmatige inbreuk.] (Bron: deorkaan.nl)</description>
+			<guid isPermaLink="false">https://www.deorkaan.nl/mogelijk-datalek-bij-de-groote-weiver-na-hack/?datalekt=659daf64449924164cf47d7a9795dae0a1c4b01bb88ed343819924c1d9a147eb</guid>
 			<category>Kunst, cultuur, sport en recreatie </category>
 			<pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
 		</item>
@@ -767,22 +783,6 @@
 			<guid isPermaLink="false">https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/?datalekt=c0416b091442a3ea0ec46e0b00e5b7bdd9f055e8a714c255ad2c854b6dbaeb0c</guid>
 			<category>Kunst, cultuur, sport en recreatie </category>
 			<pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Website van Stem op een Vrouw platgelegd door ddos-aanval op dag van Tweede Kamerverkiezingen</title>
-			<link>https://www.hartvannederland.nl/politiek/verkiezingen/artikelen/stem-op-een-vrouw-website-aanval-verkiezingsdag</link>
-			<description>Stichting Stem op een Vrouw | Overige dienstverlening | 04-11-2025 | DataLekt.nl: Op de ochtend van de Tweede Kamerverkiezingen is de website van de stichting Stem op een Vrouw getroffen door een ddos-aanval, waardoor de site tijdelijk onbereikbaar was. De avond ervoor waren er al vertragingen merkbaar. Volgens directeur Devika Partiman kwamen de aanvalspogingen voornamelijk van IP-adressen uit Rusland en China. De webbeheerder wist de aanval te stoppen door een verificatiesysteem in te stellen, waarna de website weer toegankelijk werd. De stichting heeft aangifte gedaan van het incident. (Bron: hartvannederland.nl)</description>
-			<guid isPermaLink="false">https://www.hartvannederland.nl/politiek/verkiezingen/artikelen/stem-op-een-vrouw-website-aanval-verkiezingsdag?datalekt=2df3378609c21f5421640c857c44b40faa0e81360551c308a81775d413e4d350</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ransomware-aanval legt Estafette-winkels van Omrin tijdelijk stil</title>
-			<link>https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html</link>
-			<description>Omrin | Water en afvalbeheer | 13-10-2025 | DataLekt.nl: Afvalverwerkingsbedrijf Omrin werd op zondag getroffen door een ransomware-aanval waardoor meerdere Estafette-kringloopwinkels in Friesland maandag moesten sluiten. Criminelen van de groep Qilin hebben bestanden versleuteld en eisen vermoedelijk losgeld. De winkels in onder meer Sneek, Harlingen en Franeker waren tijdelijk dicht, terwijl de milieustraten en afvalverwerking grotendeels doorgingen. Digitale diensten zoals telefonie en de app functioneerden niet goed. Omrin onderzoekt de aanval en benadrukt dat de meeste publieksdiensten open blijven. De getroffen winkels gingen dinsdag weer open. [Update: Op 28 oktober 2025 is bekend geworden dat hackersgroep Qilin 1TB aan data van afvalverwerker Omrin heeft gepubliceerd, waaronder volledige laptopinhoud en persoonsgegevens van medewerkers.] [Update: Op 6 november 2025 is bekend geworden dat Omrin geen losgeld heeft betaald.] (Bron: lc.nl)</description>
-			<guid isPermaLink="false">https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open.-dit-heeft-wel-impact-47525893.html?datalekt=9276b45f448fa1a115c217a545239df454c255adaf36643c0fceb9996ab1af59</guid>
-			<category>Water en afvalbeheer </category>
-			<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens</title>
