@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 23 Feb 2026 02:28:57 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 24 Feb 2026 02:25:26 +0000</lastBuildDate>
+		<item>
+			<title>Lucrato lekt e-mailadressen van 498 werkzoekenden door fout bij verzenden van uitnodiging</title>
+			<link>https://www.ad.nl/apeldoorn/onoplettend-moment-leidt-tot-datalek-lucrato-lekt-mailadressen-van-bijna-500-werkzoekenden~af03434f/</link>
+			<description>Lucrato | Verhuur en zakelijke dienstverlening | 20-02-2026 | DataLekt.nl: Lucrato, een Veluws werkleerbedrijf dat in Apeldoorn, Epe en Heerde mensen met een afstand tot de arbeidsmarkt begeleidt, heeft per ongeluk de e-mailadressen van 498 werkzoekenden openbaar gemaakt. Een medewerker plaatste bij het versturen van een uitnodiging voor een banenmarkt alle adressen in het veld ‘Aan’ in plaats van ‘Bcc’, waardoor ontvangers elkaars adres konden zien. Omdat uit de mail blijkt dat het om cliënten en werkzoekenden gaat, is sprake van privacygevoelige informatie. Sommige ontvangers gebruikten ‘Beantwoord allen’, waardoor het bericht zich verder verspreidde. Lucrato heeft het datalek gemeld bij de Autoriteit Persoonsgegevens en betrokkenen geïnformeerd. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/apeldoorn/onoplettend-moment-leidt-tot-datalek-lucrato-lekt-mailadressen-van-bijna-500-werkzoekenden~af03434f/?datalekt=fd46aab060a976056c1a72df0ea2338a6a5ce4a29816cb226ee5005e717f53e8</guid>
+			<category>Verhuur en zakelijke dienstverlening </category>
+			<pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Russische hackers nemen chataccounts van Nederlandse overheidsmedewerkers over</title>
 			<link>https://tweakers.net/nieuws/244938/russische-hackers-namen-chataccounts-van-nederlandse-ambtenaren-over.html</link>
@@ -775,14 +783,6 @@
 			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=2fec08364d03d1b37202824661ac4f6ca25760f81edaf201fd9ae24e1bef1cfe</guid>
 			<category>Overige dienstverlening </category>
 			<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Zwemschool Van Goor in Zwolle lekt leerlinggegevens door gebrekkige beveiliging</title>
-			<link>https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/</link>
-			<description>Zwemschool van Goor | Kunst, cultuur, sport en recreatie | 05-11-2025 | DataLekt.nl: Bij zwemschool Van Goor in Zwolle zijn de gegevens van ongeveer zeshonderd leerlingen eenvoudig toegankelijk geweest via internet. Door een foutieve configuratie van het leerlingvolgsysteem konden onbevoegden met één standaardwachtwoord inloggen en namen en voortgang van kinderen inzien. Een anonieme cyberexpert ontdekte het lek en waarschuwde de school, maar pas na herhaald aandringen werden maatregelen genomen. Desondanks bleef de beveiliging gebrekkig. Privacyorganisatie Bits of Freedom noemt de situatie ernstig en stelt dat de zwemschool het datalek moet melden bij de Autoriteit Persoonsgegevens. (Bron: destentor.nl)</description>
-			<guid isPermaLink="false">https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/?datalekt=c0416b091442a3ea0ec46e0b00e5b7bdd9f055e8a714c255ad2c854b6dbaeb0c</guid>
-			<category>Kunst, cultuur, sport en recreatie </category>
-			<pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens</title>

@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.ad.nl/apeldoorn/onoplettend-moment-leidt-tot-datalek-lucrato-lekt-mailadressen-van-bijna-500-werkzoekenden~af03434f/?datalekt=fd46aab060a976056c1a72df0ea2338a6a5ce4a29816cb226ee5005e717f53e8",
+        "url": "https://www.ad.nl/apeldoorn/onoplettend-moment-leidt-tot-datalek-lucrato-lekt-mailadressen-van-bijna-500-werkzoekenden~af03434f/",
+        "title": "Lucrato lekt e-mailadressen van 498 werkzoekenden door fout bij verzenden van uitnodiging",
+        "date_published": "2026-02-23T10:30:00Z",
+        "date_modified": "2026-02-23T10:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Lucrato | Verhuur en zakelijke dienstverlening | 20-02-2026 | DataLekt.nl: Lucrato, een Veluws werkleerbedrijf dat in Apeldoorn, Epe en Heerde mensen met een afstand tot de arbeidsmarkt begeleidt, heeft per ongeluk de e-mailadressen van 498 werkzoekenden openbaar gemaakt. Een medewerker plaatste bij het versturen van een uitnodiging voor een banenmarkt alle adressen in het veld \u2018Aan\u2019 in plaats van \u2018Bcc\u2019, waardoor ontvangers elkaars adres konden zien. Omdat uit de mail blijkt dat het om cli\u00ebnten en werkzoekenden gaat, is sprake van privacygevoelige informatie. Sommige ontvangers gebruikten \u2018Beantwoord allen\u2019, waardoor het bericht zich verder verspreidde. Lucrato heeft het datalek gemeld bij de Autoriteit Persoonsgegevens en betrokkenen ge\u00efnformeerd. (Bron: ad.nl)"
+    },
+    {
         "id": "https://www.deorkaan.nl/mogelijk-datalek-bij-de-groote-weiver-na-hack/?datalekt=659daf64449924164cf47d7a9795dae0a1c4b01bb88ed343819924c1d9a147eb",
         "url": "https://www.deorkaan.nl/mogelijk-datalek-bij-de-groote-weiver-na-hack/",
         "title": "De Groote Weiver meldt mogelijk datalek na hack via account van websitebeheerder",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "PCB Uitvaartzorg | Overige dienstverlening | 06-11-2025 | DataLekt.nl: De criminele organisatie Qilin heeft op het darkweb aangekondigd dat zij PCB Uitvaartzorg heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
-    },
-    {
-        "id": "https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/?datalekt=c0416b091442a3ea0ec46e0b00e5b7bdd9f055e8a714c255ad2c854b6dbaeb0c",
-        "url": "https://www.destentor.nl/zwolle/datalek-bij-zwemschool-in-zwolle-expert-waarschuwt-dit-is-serieus~a99b8acc/",
-        "title": "Zwemschool Van Goor in Zwolle lekt leerlinggegevens door gebrekkige beveiliging",
-        "date_published": "2025-11-08T13:23:00Z",
-        "date_modified": "2025-11-08T13:23:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "destentor.nl"
-        },
-        "content_html": "",
-        "content_text": "Zwemschool van Goor | Kunst, cultuur, sport en recreatie | 05-11-2025 | DataLekt.nl: Bij zwemschool Van Goor in Zwolle zijn de gegevens van ongeveer zeshonderd leerlingen eenvoudig toegankelijk geweest via internet. Door een foutieve configuratie van het leerlingvolgsysteem konden onbevoegden met \u00e9\u00e9n standaardwachtwoord inloggen en namen en voortgang van kinderen inzien. Een anonieme cyberexpert ontdekte het lek en waarschuwde de school, maar pas na herhaald aandringen werden maatregelen genomen. Desondanks bleef de beveiliging gebrekkig. Privacyorganisatie Bits of Freedom noemt de situatie ernstig en stelt dat de zwemschool het datalek moet melden bij de Autoriteit Persoonsgegevens. (Bron: destentor.nl)"
     }
 ]
