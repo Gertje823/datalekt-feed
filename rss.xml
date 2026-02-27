@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 25 Feb 2026 02:26:42 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 27 Feb 2026 02:21:42 +0000</lastBuildDate>
+		<item>
+			<title>GGzE meldt mogelijk datalek na inbraak in pand met cliëntgegevens van voormalig Centrum Autisme</title>
+			<link>https://www.omroepbrabant.nl/nieuws/6004029/ggze-doet-na-4-maanden-melding-van-mogelijk-datalek</link>
+			<description>GGzE | Gezondheids- en welzijnszorg | 25-02-2026 | DataLekt.nl: GGzE heeft vier maanden na een inbraak in een gebouw aan de Boschdijk in Eindhoven melding gedaan bij de Autoriteit Persoonsgegevens van een mogelijk datalek. In het pand stonden kasten met privacygevoelige informatie van het voormalige Centrum Autisme. De inbraak was volgens GGzE gericht op de noodstroomvoorziening van het gebouw en er zijn geen signalen dat gegevens zijn ingezien of meegenomen. Toch heeft de instelling uit voorzorg melding gedaan en betrokken cliënten geïnformeerd. De betreffende gegevens zijn na de inbraak op een andere locatie opgeslagen. (Bron: omroepbrabant.nl)</description>
+			<guid isPermaLink="false">https://www.omroepbrabant.nl/nieuws/6004029/ggze-doet-na-4-maanden-melding-van-mogelijk-datalek?datalekt=ddebc8a46fc72ede88b0d0fb583fac648c80280fd9f57158aaacb9a1cf15bcf4</guid>
+			<category>Gezondheids- en welzijnszorg </category>
+			<pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gemeente Rheden lekt persoonsgegevens van inwoners na fout bij Woo-verzoek</title>
+			<link>https://www.gld.nl/nieuws/8438079/gemeente-lekt-gegevens-inwoners-bedrijf-weigert-data-te-verwijderen</link>
+			<description>Gemeente Rheden | Overheid: Gemeenten | 23-02-2026 | DataLekt.nl: Door een menselijke fout bij het afhandelen van een verzoek op basis van de Wet open overheid (Woo) heeft een ambtenaar van de gemeente Rheden gevoelige persoonsgegevens, waaronder Burgerservicenummers, onbedoeld gedeeld met een bedrijf dat deze informatie niet mocht ontvangen. De gegevens zijn volgens de gemeente één keer verstrekt en er is geen bewijs dat ze verder zijn verspreid, al kan dat niet worden uitgesloten. Het bedrijf weigert de gegevens te verwijderen en wil deze gebruiken voor eigen bedrijfsbelangen. Het datalek is gemeld bij de Autoriteit Persoonsgegevens en betrokken inwoners zijn per brief geïnformeerd. (Bron: gld.nl)</description>
+			<guid isPermaLink="false">https://www.gld.nl/nieuws/8438079/gemeente-lekt-gegevens-inwoners-bedrijf-weigert-data-te-verwijderen?datalekt=e3af5104ce23696b006367af280106496faf46b3645305e78b7fa678d5ef077a</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Beveiligingsincident bij OTYS leidt tot mogelijke inzage en download van kandidatendata</title>
+			<link>https://www.werf-en.nl/groot-beveiligingsincident-bij-otys-mogelijk-veel-kandidatendata-gelekt/</link>
+			<description>OTYS | ICT en telecommunicatie | 25-02-2026 | DataLekt.nl: Softwareleverancier OTYS werd op 8 februari 2026 getroffen door een beveiligingsincident waarbij misbruik werd gemaakt van een uploadfunctie binnen de omgeving. Op 11 februari werden vanuit het OTYS-systeem phishingmails verzonden. Later bleek dat in sommige gevallen ook onbevoegde inzage in de database mogelijk was en dat mogelijk data zijn gedownload. Het gaat vooral om e-mailadressen en mogelijk ook NAW-gegevens, telefoonnummers, geboortedata, sollicitatiehistorie en bij zzp’ers KvK-, btw- en bankgegevens. Er zijn geen aanwijzingen dat wachtwoorden of identiteitsdocumenten zijn ingezien. De Autoriteit Persoonsgegevens is geïnformeerd. (Bron: werf-en.nl)</description>
+			<guid isPermaLink="false">https://www.werf-en.nl/groot-beveiligingsincident-bij-otys-mogelijk-veel-kandidatendata-gelekt/?datalekt=82674963c4947fc3978c52fa14568ad0c12744b827a6facda0a43cb235ab1646</guid>
+			<category>ICT en telecommunicatie </category>
+			<pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Diverse online drogisterijen delen volgens onderzoek medische productinformatie met Google ondanks geweigerde cookies</title>
 			<link>https://radar.avrotros.nl/artikel/online-drogisterijen-en-webshops-delen-gevoelige-gezondheidsdata-met-big-tech-62391</link>
@@ -203,8 +227,8 @@
 		<item>
 			<title>Odido getroffen door cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn gelekt</title>
 			<link>https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html</link>
-			<description>Odido | ICT en telecommunicatie | 12-02-2026 | DataLekt.nl: Telecomprovider Odido is slachtoffer geworden van een cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn buitgemaakt. Het gaat om namen, adressen, telefoonnummers en bankrekeningnummers; wachtwoorden en paspoortgegevens zijn volgens het bedrijf niet gelekt. De hackers hebben Odido zelf geïnformeerd dat zij de gegevens in handen hebben. Het bedrijf ontving afgelopen weekend de eerste signalen van het datalek en startte een onderzoek met interne en externe beveiligingsexperts. Het lek is gemeld bij de Autoriteit Persoonsgegevens en klanten worden geïnformeerd. De operationele dienstverlening is niet verstoord. (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html?datalekt=8df44706dc08aef34c5238ac759ae77f7eb5ce176a81a7a287dc02b7a7c5d09d</guid>
+			<description>Odido | ICT en telecommunicatie | 12-02-2026 | DataLekt.nl: Telecomprovider Odido is slachtoffer geworden van een cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn buitgemaakt. Het gaat om namen, adressen, telefoonnummers en bankrekeningnummers; wachtwoorden en paspoortgegevens zijn volgens het bedrijf niet gelekt. De hackers hebben Odido zelf geïnformeerd dat zij de gegevens in handen hebben. Het bedrijf ontving afgelopen weekend de eerste signalen van het datalek en startte een onderzoek met interne en externe beveiligingsexperts. Het lek is gemeld bij de Autoriteit Persoonsgegevens en klanten worden geïnformeerd. De operationele dienstverlening is niet verstoord. [Update: Op 25 februari 2026 is bekend geworden dat bij de hack van Odido ook gevoelige interne klantnotities en informatie over bewindvoering zijn buitgemaakt, waar Odido niet van op de hoogte was.] (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html?datalekt=29be3c7a3246d87e760e46c6d1cd02188d2b53ff92bf85075d4458dba936aff3</guid>
 			<category>ICT en telecommunicatie </category>
 			<pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
 		</item>
@@ -749,30 +773,6 @@
 			<link>https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever</link>
 			<description>Onbekende organisatie | Overig | 19-11-2025 | DataLekt.nl: Begin 2024 voerde een 25-jarige medewerker een ddos-aanval uit op het bedrijf waar hij op dat moment werkzaam was. De verdachte heeft tijdens politieverhoor bekend dat hij doelbewust de website van het bedrijf platlegde. Het Openbaar Ministerie stelt dat deze aanval, samen met een andere door dezelfde verdachte gepleegde aanval op een ander bedrijf, heeft bijgedragen aan een totale schade van 178.000 euro en eist een taakstraf van 160 uur. (Bron: security.nl)</description>
 			<guid isPermaLink="false">https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever?datalekt=ffb1db9789fd23f41a79083513bf6adc8ffe968247b225f43b41850a7da3dee0</guid>
-			<category>Overig </category>
-			<pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ddos-aanval op callcenter in Sittard door eigen medewerker</title>
-			<link>https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever</link>
-			<description>Onbekende callcenter | Verhuur en zakelijke dienstverlening | 19-11-2025 | DataLekt.nl: Een medewerker van een callcenter in Sittard voerde eind 2023 een ddos-aanval uit op de website van zijn werkgever. Volgens het Openbaar Ministerie bekende de man dat hij dit deed in de hoop zijn collega’s een vrije dag te bezorgen. De aanval veroorzaakte samen met een latere aanval op een ander bedrijf een totale schade van 178.000 euro. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever?datalekt=a1a67aa99b0b5e0dcc54f1b02f13054879505aa24adaa0bd92c7baa01e6b9809</guid>
-			<category>Verhuur en zakelijke dienstverlening </category>
-			<pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>DigiD kampt met beperkte beschikbaarheid door terugkerende ddos-aanvallen op Logius</title>
-			<link>https://tweakers.net/nieuws/241682/digid-is-beperkt-beschikbaar-vanwege-een-ddos-aanval.html</link>
-			<description>Logius | Overheid: Agentschappen | 19-11-2025 | DataLekt.nl: DigiD was sinds 19 november om 10.47 uur beperkt beschikbaar doordat Logius te maken kreeg met terugkerende ddos-aanvallen. Door deze verstoringen konden gebruikers mogelijk niet of slechts gedeeltelijk inloggen via de digitale overheidsdienst. Het is niet bekend wie achter de aanvallen zit of dat het om dezelfde dader gaat. Logius meldt dat de storing om 11.26 uur is opgelost en werkt aan een nieuwe aanpak om cyberaanvallen beter te kunnen afweren. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/241682/digid-is-beperkt-beschikbaar-vanwege-een-ddos-aanval.html?datalekt=45942fada2d3078165f0c094cf80fee70318ad9717a3b67dcd6c8d5cd808130c</guid>
-			<category>Overheid: Agentschappen </category>
-			<pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Zevenentwintig onbekende Nederlandse organisaties getroffen door website-inbraak door Black Witch</title>
-			<link>https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042</link>
-			<description>27 onbekende organisaties | Overig | 19-11-2025 | DataLekt.nl: Naast enkele bekende instellingen werden ook 27 andere, niet nader genoemde Nederlandse organisaties getroffen door een aanval van hackersgroep Black Witch. De groep drong de websites binnen en plaatste nazi-teksten en symbolen op de voorpagina’s. Volgens de hackers was het motief het vergroten van hun naamsbekendheid en het werven van nieuwe leden. De ongeautoriseerde aanpassing van webcontent wijst op misbruik van een kwetsbaarheid bij de betrokken webhosting of beheersystemen. De groep stelt dat er geen gegevens zijn gestolen, maar dit is niet door de getroffen organisaties bevestigd. (Bron: opgelicht.avrotros.nl)</description>
-			<guid isPermaLink="false">https://opgelicht.avrotros.nl/nieuws/hackersgroep-black-witch-hackt-zon-30-nederlandse-websites-waaronder-van-het-martini-en-isala-ziekenhuis-en-plaatst-nazi-teksten-20042?datalekt=663cf02be7cc7ba6e62898d81e910d4e3a8c33e39a6dd5866fbf77fbc2018e99</guid>
 			<category>Overig </category>
 			<pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
 		</item>
