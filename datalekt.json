@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij?datalekt=408f5695ddc4954a230362632f86124cd3b107a08b2609189f91e6c198c4588c",
+        "url": "https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij",
+        "title": "Dienst Justiti\u00eble Inrichtingen getroffen door hack via kwetsbaarheid in Ivanti EPMM-software",
+        "date_published": "2026-02-28T14:15:00Z",
+        "date_modified": "2026-02-28T14:15:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vpro.nl"
+        },
+        "content_html": "",
+        "content_text": "Dienst Justiti\u00eble Inrichtingen (DJI) | Overheid: Agentschappen | 27-02-2026 | DataLekt.nl: Digitale indringers hadden via een kwetsbaarheid in de beveiligingssoftware Ivanti EPMM zeker vijf maanden toegang tot de systemen van de Dienst Justiti\u00eble Inrichtingen (DJI). Zij konden ongeautoriseerd gegevens van medewerkers, zoals e-mailadressen, telefoonnummers en beveiligingscertificaten, inzien en mobiele apparaten op afstand beheren. Mogelijk konden zij ook locatiegegevens benaderen. De kwetsbaarheid maakte het mogelijk om zonder authenticatie code uit te voeren en achterdeurtjes te plaatsen. DJI heeft het lek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt de precieze omvang en gevolgen. (Bron: vpro.nl)"
+    },
+    {
         "id": "https://www.omroepbrabant.nl/nieuws/6004029/ggze-doet-na-4-maanden-melding-van-mogelijk-datalek?datalekt=ddebc8a46fc72ede88b0d0fb583fac648c80280fd9f57158aaacb9a1cf15bcf4",
         "url": "https://www.omroepbrabant.nl/nieuws/6004029/ggze-doet-na-4-maanden-melding-van-mogelijk-datalek",
         "title": "GGzE meldt mogelijk datalek na inbraak in pand met cli\u00ebntgegevens van voormalig Centrum Autisme",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Tynaarlo | Overheid: Gemeenten | 20-11-2025 | DataLekt.nl: Bij de gemeente Tynaarlo zijn op 7 november 2025 persoonsgegevens van inwoners onbedoeld openbaar geraakt doordat acht documenten tijdens het verplaatsen naar een digitaal archief per ongeluk in een openbaar internetarchief werden geplaatst. Zeker twee bestanden bevatten gegevens zoals naam, geslacht, geboortedatum, burgerservicenummer en contactgegevens. Twee bestanden zijn dertien keer geraadpleegd, maar het is onbekend door wie. Op 12 november werd het lek gestopt. De gemeente heeft melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt hoe herhaling kan worden voorkomen. Inwoners worden geadviseerd alert te zijn op verdachte berichten. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever?datalekt=ffb1db9789fd23f41a79083513bf6adc8ffe968247b225f43b41850a7da3dee0",
-        "url": "https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever",
-        "title": "Ddos-aanval op onbekend bedrijf veroorzaakt grote financi\u00eble schade",
-        "date_published": "2025-11-21T09:14:00Z",
-        "date_modified": "2025-11-21T09:14:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "security.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende organisatie | Overig | 19-11-2025 | DataLekt.nl: Begin 2024 voerde een 25-jarige medewerker een ddos-aanval uit op het bedrijf waar hij op dat moment werkzaam was. De verdachte heeft tijdens politieverhoor bekend dat hij doelbewust de website van het bedrijf platlegde. Het Openbaar Ministerie stelt dat deze aanval, samen met een andere door dezelfde verdachte gepleegde aanval op een ander bedrijf, heeft bijgedragen aan een totale schade van 178.000 euro en eist een taakstraf van 160 uur. (Bron: security.nl)"
     }
 ]

@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 27 Feb 2026 02:21:42 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 01 Mar 2026 02:34:49 +0000</lastBuildDate>
+		<item>
+			<title>Dienst Justitiële Inrichtingen getroffen door hack via kwetsbaarheid in Ivanti EPMM-software</title>
+			<link>https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij</link>
+			<description>Dienst Justitiële Inrichtingen (DJI) | Overheid: Agentschappen | 27-02-2026 | DataLekt.nl: Digitale indringers hadden via een kwetsbaarheid in de beveiligingssoftware Ivanti EPMM zeker vijf maanden toegang tot de systemen van de Dienst Justitiële Inrichtingen (DJI). Zij konden ongeautoriseerd gegevens van medewerkers, zoals e-mailadressen, telefoonnummers en beveiligingscertificaten, inzien en mobiele apparaten op afstand beheren. Mogelijk konden zij ook locatiegegevens benaderen. De kwetsbaarheid maakte het mogelijk om zonder authenticatie code uit te voeren en achterdeurtjes te plaatsen. DJI heeft het lek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt de precieze omvang en gevolgen. (Bron: vpro.nl)</description>
+			<guid isPermaLink="false">https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij?datalekt=408f5695ddc4954a230362632f86124cd3b107a08b2609189f91e6c198c4588c</guid>
+			<category>Overheid: Agentschappen </category>
+			<pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>GGzE meldt mogelijk datalek na inbraak in pand met cliëntgegevens van voormalig Centrum Autisme</title>
 			<link>https://www.omroepbrabant.nl/nieuws/6004029/ggze-doet-na-4-maanden-melding-van-mogelijk-datalek</link>
@@ -767,14 +775,6 @@
 			<guid isPermaLink="false">https://www.ad.nl/tynaarlo/datalek-ontdekt-bij-gemeente-tynaarlo-inmiddels-verholpen~aae823dc/?datalekt=03e5eeb2f0101618f8dae996a638f46213df3e1f679d37a0c7b9304964a6aaf3</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ddos-aanval op onbekend bedrijf veroorzaakt grote financiële schade</title>
-			<link>https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever</link>
-			<description>Onbekende organisatie | Overig | 19-11-2025 | DataLekt.nl: Begin 2024 voerde een 25-jarige medewerker een ddos-aanval uit op het bedrijf waar hij op dat moment werkzaam was. De verdachte heeft tijdens politieverhoor bekend dat hij doelbewust de website van het bedrijf platlegde. Het Openbaar Ministerie stelt dat deze aanval, samen met een andere door dezelfde verdachte gepleegde aanval op een ander bedrijf, heeft bijgedragen aan een totale schade van 178.000 euro en eist een taakstraf van 160 uur. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/913605/Openbaar+Ministerie+eist+taakstraf+voor+ddos-aanval+op+werkgever?datalekt=ffb1db9789fd23f41a79083513bf6adc8ffe968247b225f43b41850a7da3dee0</guid>
-			<category>Overig </category>
-			<pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Hogeschool van Arnhem en Nijmegen onderzoekt mogelijk datalek na ongeoorloofd AI-gebruik door docent</title>
