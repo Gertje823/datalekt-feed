@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 01 Mar 2026 02:34:49 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 04 Mar 2026 02:20:36 +0000</lastBuildDate>
+		<item>
+			<title>AkzoNobel getroffen door ransomware-aanval van Anubis waarbij paspoorten en financiële gegevens zijn gelekt</title>
+			<link>https://www.dutchitchannel.nl/news/726176/datalek-akzonobel-financi%C3%ABle-data-en-paspoorten-op-straat</link>
+			<description>AkzoNobel | Industrie | 02-03-2026 | DataLekt.nl: AkzoNobel is slachtoffer geworden van een cyberaanval door de ransomwaregroep Anubis, die verantwoordelijkheid heeft opgeëist en een grote hoeveelheid buitgemaakte data op het darknet heeft gepubliceerd. De gelekte informatie omvat kopieën van paspoorten van medewerkers of betrokkenen, geheimhoudingsverklaringen met klanten en leveranciers en interne financiële rapportages. Het is nog onduidelijk hoe de aanvallers toegang hebben gekregen tot de systemen en of er losgeld is geëist. De impact kan volgens een cybersecurity-expert aanzienlijk zijn, met mogelijke reputatieschade en juridische claims tot gevolg. AkzoNobel heeft nog niet inhoudelijk gereageerd. (Bron: dutchitchannel.nl)</description>
+			<guid isPermaLink="false">https://www.dutchitchannel.nl/news/726176/datalek-akzonobel-financi%C3%ABle-data-en-paspoorten-op-straat?datalekt=26ba451d2232fec15ff40cf16b04ce667e65635d1d498d9f28a841b5552fff3d</guid>
+			<category>Industrie </category>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Dienst Justitiële Inrichtingen getroffen door hack via kwetsbaarheid in Ivanti EPMM-software</title>
 			<link>https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij</link>
@@ -235,8 +243,8 @@
 		<item>
 			<title>Odido getroffen door cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn gelekt</title>
 			<link>https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html</link>
-			<description>Odido | ICT en telecommunicatie | 12-02-2026 | DataLekt.nl: Telecomprovider Odido is slachtoffer geworden van een cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn buitgemaakt. Het gaat om namen, adressen, telefoonnummers en bankrekeningnummers; wachtwoorden en paspoortgegevens zijn volgens het bedrijf niet gelekt. De hackers hebben Odido zelf geïnformeerd dat zij de gegevens in handen hebben. Het bedrijf ontving afgelopen weekend de eerste signalen van het datalek en startte een onderzoek met interne en externe beveiligingsexperts. Het lek is gemeld bij de Autoriteit Persoonsgegevens en klanten worden geïnformeerd. De operationele dienstverlening is niet verstoord. [Update: Op 25 februari 2026 is bekend geworden dat bij de hack van Odido ook gevoelige interne klantnotities en informatie over bewindvoering zijn buitgemaakt, waar Odido niet van op de hoogte was.] (Bron: nu.nl)</description>
-			<guid isPermaLink="false">https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html?datalekt=29be3c7a3246d87e760e46c6d1cd02188d2b53ff92bf85075d4458dba936aff3</guid>
+			<description>Odido | ICT en telecommunicatie | 12-02-2026 | DataLekt.nl: Telecomprovider Odido is slachtoffer geworden van een cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn buitgemaakt. Het gaat om namen, adressen, telefoonnummers en bankrekeningnummers; wachtwoorden en paspoortgegevens zijn volgens het bedrijf niet gelekt. De hackers hebben Odido zelf geïnformeerd dat zij de gegevens in handen hebben. Het bedrijf ontving afgelopen weekend de eerste signalen van het datalek en startte een onderzoek met interne en externe beveiligingsexperts. Het lek is gemeld bij de Autoriteit Persoonsgegevens en klanten worden geïnformeerd. De operationele dienstverlening is niet verstoord. [Update: Op 25 februari 2026 is bekend geworden dat bij de hack van Odido ook gevoelige interne klantnotities en informatie over bewindvoering zijn buitgemaakt, waar Odido niet van op de hoogte was.] [Update: Op 1 maart 2026 is bekend geworden dat de hackergroep de gestolen data heeft gepubliceerd, omdat het losgeld van 500.000 EUR niet betaald is.] (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html?datalekt=e969277acce59f98d48a51cf8e869961e814785c5a15e8b45e69741731c66ff5</guid>
 			<category>ICT en telecommunicatie </category>
 			<pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
 		</item>
@@ -766,14 +774,6 @@
 			<description>Sif | Industrie | 27-03-2025 | DataLekt.nl: Sif liet bij de toegangspoort onaangekondigde speekseltesten uitvoeren door een extern bureau om medewerkers op drugs- en alcoholgebruik te controleren. Een werknemer testte positief op cannabis, waarna Sif ontbinding van de arbeidsovereenkomst verzocht. De werknemer voerde aan dat deze test in strijd was met de AVG. De rechtbank oordeelde dat speekseltesten gezondheidsgegevens opleveren en daarom bijzondere persoonsgegevens zijn waarvoor een wettelijke grondslag vereist is. Die ontbreekt voor de functie van de werknemer, waardoor Sif de test niet had mogen uitvoeren. De uitslag mag daarom niet als bewijs worden gebruikt. (Bron: lsenr.nl)</description>
 			<guid isPermaLink="false">https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg?datalekt=0d66d2f914689351be78b69e10e8d86c4156cb6aa66938f55f7f518d4b80a19b</guid>
 			<category>Industrie </category>
-			<pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Tynaarlo lekt persoonsgegevens door fout bij digitaal archiveren</title>
-			<link>https://www.ad.nl/tynaarlo/datalek-ontdekt-bij-gemeente-tynaarlo-inmiddels-verholpen~aae823dc/</link>
-			<description>Gemeente Tynaarlo | Overheid: Gemeenten | 20-11-2025 | DataLekt.nl: Bij de gemeente Tynaarlo zijn op 7 november 2025 persoonsgegevens van inwoners onbedoeld openbaar geraakt doordat acht documenten tijdens het verplaatsen naar een digitaal archief per ongeluk in een openbaar internetarchief werden geplaatst. Zeker twee bestanden bevatten gegevens zoals naam, geslacht, geboortedatum, burgerservicenummer en contactgegevens. Twee bestanden zijn dertien keer geraadpleegd, maar het is onbekend door wie. Op 12 november werd het lek gestopt. De gemeente heeft melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt hoe herhaling kan worden voorkomen. Inwoners worden geadviseerd alert te zijn op verdachte berichten. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/tynaarlo/datalek-ontdekt-bij-gemeente-tynaarlo-inmiddels-verholpen~aae823dc/?datalekt=03e5eeb2f0101618f8dae996a638f46213df3e1f679d37a0c7b9304964a6aaf3</guid>
-			<category>Overheid: Gemeenten </category>
 			<pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>

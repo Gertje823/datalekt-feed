@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.dutchitchannel.nl/news/726176/datalek-akzonobel-financi%C3%ABle-data-en-paspoorten-op-straat?datalekt=26ba451d2232fec15ff40cf16b04ce667e65635d1d498d9f28a841b5552fff3d",
+        "url": "https://www.dutchitchannel.nl/news/726176/datalek-akzonobel-financi%C3%ABle-data-en-paspoorten-op-straat",
+        "title": "AkzoNobel getroffen door ransomware-aanval van Anubis waarbij paspoorten en financi\u00eble gegevens zijn gelekt",
+        "date_published": "2026-03-03T11:14:00Z",
+        "date_modified": "2026-03-03T11:14:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "dutchitchannel.nl"
+        },
+        "content_html": "",
+        "content_text": "AkzoNobel | Industrie | 02-03-2026 | DataLekt.nl: AkzoNobel is slachtoffer geworden van een cyberaanval door de ransomwaregroep Anubis, die verantwoordelijkheid heeft opge\u00ebist en een grote hoeveelheid buitgemaakte data op het darknet heeft gepubliceerd. De gelekte informatie omvat kopie\u00ebn van paspoorten van medewerkers of betrokkenen, geheimhoudingsverklaringen met klanten en leveranciers en interne financi\u00eble rapportages. Het is nog onduidelijk hoe de aanvallers toegang hebben gekregen tot de systemen en of er losgeld is ge\u00ebist. De impact kan volgens een cybersecurity-expert aanzienlijk zijn, met mogelijke reputatieschade en juridische claims tot gevolg. AkzoNobel heeft nog niet inhoudelijk gereageerd. (Bron: dutchitchannel.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html?datalekt=e969277acce59f98d48a51cf8e869961e814785c5a15e8b45e69741731c66ff5",
+        "url": "https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html",
+        "title": "Odido getroffen door cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn gelekt",
+        "date_published": "2026-02-12T15:33:00Z",
+        "date_modified": "2026-03-03T11:13:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Odido | ICT en telecommunicatie | 12-02-2026 | DataLekt.nl: Telecomprovider Odido is slachtoffer geworden van een cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn buitgemaakt. Het gaat om namen, adressen, telefoonnummers en bankrekeningnummers; wachtwoorden en paspoortgegevens zijn volgens het bedrijf niet gelekt. De hackers hebben Odido zelf ge\u00efnformeerd dat zij de gegevens in handen hebben. Het bedrijf ontving afgelopen weekend de eerste signalen van het datalek en startte een onderzoek met interne en externe beveiligingsexperts. Het lek is gemeld bij de Autoriteit Persoonsgegevens en klanten worden ge\u00efnformeerd. De operationele dienstverlening is niet verstoord. [Update: Op 25 februari 2026 is bekend geworden dat bij de hack van Odido ook gevoelige interne klantnotities en informatie over bewindvoering zijn buitgemaakt, waar Odido niet van op de hoogte was.] [Update: Op 1 maart 2026 is bekend geworden dat de hackergroep de gestolen data heeft gepubliceerd, omdat het losgeld van 500.000 EUR niet betaald is.] (Bron: nu.nl)"
+    },
+    {
         "id": "https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij?datalekt=408f5695ddc4954a230362632f86124cd3b107a08b2609189f91e6c198c4588c",
         "url": "https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij",
         "title": "Dienst Justiti\u00eble Inrichtingen getroffen door hack via kwetsbaarheid in Ivanti EPMM-software",
@@ -50,19 +76,6 @@
         },
         "content_html": "",
         "content_text": "OTYS | ICT en telecommunicatie | 25-02-2026 | DataLekt.nl: Softwareleverancier OTYS werd op 8 februari 2026 getroffen door een beveiligingsincident waarbij misbruik werd gemaakt van een uploadfunctie binnen de omgeving. Op 11 februari werden vanuit het OTYS-systeem phishingmails verzonden. Later bleek dat in sommige gevallen ook onbevoegde inzage in de database mogelijk was en dat mogelijk data zijn gedownload. Het gaat vooral om e-mailadressen en mogelijk ook NAW-gegevens, telefoonnummers, geboortedata, sollicitatiehistorie en bij zzp\u2019ers KvK-, btw- en bankgegevens. Er zijn geen aanwijzingen dat wachtwoorden of identiteitsdocumenten zijn ingezien. De Autoriteit Persoonsgegevens is ge\u00efnformeerd. (Bron: werf-en.nl)"
-    },
-    {
-        "id": "https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html?datalekt=29be3c7a3246d87e760e46c6d1cd02188d2b53ff92bf85075d4458dba936aff3",
-        "url": "https://www.nu.nl/binnenland/6385809/gegevens-miljoenen-odido-klanten-gelekt-na-grote-cyberaanval.html",
-        "title": "Odido getroffen door cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn gelekt",
-        "date_published": "2026-02-12T15:33:00Z",
-        "date_modified": "2026-02-26T10:34:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nu.nl"
-        },
-        "content_html": "",
-        "content_text": "Odido | ICT en telecommunicatie | 12-02-2026 | DataLekt.nl: Telecomprovider Odido is slachtoffer geworden van een cyberaanval waarbij gegevens van 6,2 miljoen klantenaccounts zijn buitgemaakt. Het gaat om namen, adressen, telefoonnummers en bankrekeningnummers; wachtwoorden en paspoortgegevens zijn volgens het bedrijf niet gelekt. De hackers hebben Odido zelf ge\u00efnformeerd dat zij de gegevens in handen hebben. Het bedrijf ontving afgelopen weekend de eerste signalen van het datalek en startte een onderzoek met interne en externe beveiligingsexperts. Het lek is gemeld bij de Autoriteit Persoonsgegevens en klanten worden ge\u00efnformeerd. De operationele dienstverlening is niet verstoord. [Update: Op 25 februari 2026 is bekend geworden dat bij de hack van Odido ook gevoelige interne klantnotities en informatie over bewindvoering zijn buitgemaakt, waar Odido niet van op de hoogte was.] (Bron: nu.nl)"
     },
     {
         "id": "https://radar.avrotros.nl/artikel/online-drogisterijen-en-webshops-delen-gevoelige-gezondheidsdata-met-big-tech-62391?datalekt=388652d196be90b628d6f96a5fddd059753ffca5ed7997d892f2389d3266621f",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Sif | Industrie | 27-03-2025 | DataLekt.nl: Sif liet bij de toegangspoort onaangekondigde speekseltesten uitvoeren door een extern bureau om medewerkers op drugs- en alcoholgebruik te controleren. Een werknemer testte positief op cannabis, waarna Sif ontbinding van de arbeidsovereenkomst verzocht. De werknemer voerde aan dat deze test in strijd was met de AVG. De rechtbank oordeelde dat speekseltesten gezondheidsgegevens opleveren en daarom bijzondere persoonsgegevens zijn waarvoor een wettelijke grondslag vereist is. Die ontbreekt voor de functie van de werknemer, waardoor Sif de test niet had mogen uitvoeren. De uitslag mag daarom niet als bewijs worden gebruikt. (Bron: lsenr.nl)"
-    },
-    {
-        "id": "https://www.ad.nl/tynaarlo/datalek-ontdekt-bij-gemeente-tynaarlo-inmiddels-verholpen~aae823dc/?datalekt=03e5eeb2f0101618f8dae996a638f46213df3e1f679d37a0c7b9304964a6aaf3",
-        "url": "https://www.ad.nl/tynaarlo/datalek-ontdekt-bij-gemeente-tynaarlo-inmiddels-verholpen~aae823dc/",
-        "title": "Gemeente Tynaarlo lekt persoonsgegevens door fout bij digitaal archiveren",
-        "date_published": "2025-11-22T10:17:00Z",
-        "date_modified": "2025-11-22T10:17:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "ad.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Tynaarlo | Overheid: Gemeenten | 20-11-2025 | DataLekt.nl: Bij de gemeente Tynaarlo zijn op 7 november 2025 persoonsgegevens van inwoners onbedoeld openbaar geraakt doordat acht documenten tijdens het verplaatsen naar een digitaal archief per ongeluk in een openbaar internetarchief werden geplaatst. Zeker twee bestanden bevatten gegevens zoals naam, geslacht, geboortedatum, burgerservicenummer en contactgegevens. Twee bestanden zijn dertien keer geraadpleegd, maar het is onbekend door wie. Op 12 november werd het lek gestopt. De gemeente heeft melding gedaan bij de Autoriteit Persoonsgegevens en onderzoekt hoe herhaling kan worden voorkomen. Inwoners worden geadviseerd alert te zijn op verdachte berichten. (Bron: ad.nl)"
     }
 ]
