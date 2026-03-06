@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Wed, 04 Mar 2026 02:20:36 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 06 Mar 2026 02:21:45 +0000</lastBuildDate>
+		<item>
+			<title>BK Group getroffen door ransomware aanval van de criminele organisatie Akira</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>BK Group | Verhuur en zakelijke dienstverlening | 04-03-2026 | DataLekt.nl: De criminele organisatie Akira heeft op het darkweb aangekondigd dat zij BK Group heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=e430e94d4b474aacfc7c64076ccd56ba9c86669926524e45c6e63efe5b8d3be1</guid>
+			<category>Verhuur en zakelijke dienstverlening </category>
+			<pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>TU Delft deelt onterecht namen van demonstranten met politie</title>
+			<link>https://www.utoday.nl/news/76544/tu-delft-erkent-fout-bij-delen-namen-actievoerders</link>
+			<description>Technische Universiteit Delft | Onderwijs | 03-03-2026 | DataLekt.nl: De Technische Universiteit Delft heeft begin 2024 persoonsgegevens van vijf demonstranten van actiegroep End Fossil gedeeld met de politie nadat een bezetting van de campus was aangekondigd. Het ging om één medewerker en vier vermoedelijk studenten. De universiteit deed dit op basis van een convenant met de politie, maar volgens de Autoriteit Persoonsgegevens is zo’n convenant geen geldige grondslag om persoonsgegevens te delen. TU Delft erkent nu dat dit niet in overeenstemming was met de privacywetgeving en zegt maatregelen te nemen zodat dergelijke gegevens voortaan alleen na expliciet besluit van het college van bestuur worden gedeeld. (Bron: utoday.nl)</description>
+			<guid isPermaLink="false">https://www.utoday.nl/news/76544/tu-delft-erkent-fout-bij-delen-namen-actievoerders?datalekt=ec627a8838cf1555b2fe1de3c92a3f75ac7bdd3e9e9ed84bfe6c70b7bc3501a6</guid>
+			<category>Onderwijs </category>
+			<pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Politie onderzoekt ongeoorloofde inzage door circa 1700 politiemedewerkers in dossier over vermoorde Lisa</title>
+			<link>https://www.telegraaf.nl/binnenland/van-weel-1700-politiemensen-zagen-politie-informatie-over-vermoorde-lisa-in-meestal-zonder-goede-reden/138707528.html</link>
+			<description>Nationale Politie | Overheid: Politie | 03-03-2026 | DataLekt.nl: Ongeveer 1700 politiemedewerkers hebben zonder duidelijke werkgerelateerde reden informatie geraadpleegd in interne politiesystemen over de gewelddadige dood van de 17-jarige Lisa uit Abcoude. Volgens justitieminister David van Weel blijkt uit onderzoek van het Landelijk Team Interne Onderzoeken dat deze medewerkers niet betrokken waren bij het onderzoek. De geraadpleegde systemen bevatten onder meer meldkamerberichten en eerste bevindingen van de politie. De ongeoorloofde inzage wordt door de politie als een datalek beschouwd en is gemeld bij de Autoriteit Persoonsgegevens. De betrokken medewerkers worden uitgenodigd voor een gesprek en mogelijk volgen maatregelen. (Bron: telegraaf.nl)</description>
+			<guid isPermaLink="false">https://www.telegraaf.nl/binnenland/van-weel-1700-politiemensen-zagen-politie-informatie-over-vermoorde-lisa-in-meestal-zonder-goede-reden/138707528.html?datalekt=fa31692af4771f9800e96d74f20e967cf03e0af1fb5164e8a3857598219582ba</guid>
+			<category>Overheid: Politie </category>
+			<pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>AkzoNobel getroffen door ransomware-aanval van Anubis waarbij paspoorten en financiële gegevens zijn gelekt</title>
 			<link>https://www.dutchitchannel.nl/news/726176/datalek-akzonobel-financi%C3%ABle-data-en-paspoorten-op-straat</link>
@@ -35,8 +59,8 @@
 		<item>
 			<title>Gemeente Rheden lekt persoonsgegevens van inwoners na fout bij Woo-verzoek</title>
 			<link>https://www.gld.nl/nieuws/8438079/gemeente-lekt-gegevens-inwoners-bedrijf-weigert-data-te-verwijderen</link>
-			<description>Gemeente Rheden | Overheid: Gemeenten | 23-02-2026 | DataLekt.nl: Door een menselijke fout bij het afhandelen van een verzoek op basis van de Wet open overheid (Woo) heeft een ambtenaar van de gemeente Rheden gevoelige persoonsgegevens, waaronder Burgerservicenummers, onbedoeld gedeeld met een bedrijf dat deze informatie niet mocht ontvangen. De gegevens zijn volgens de gemeente één keer verstrekt en er is geen bewijs dat ze verder zijn verspreid, al kan dat niet worden uitgesloten. Het bedrijf weigert de gegevens te verwijderen en wil deze gebruiken voor eigen bedrijfsbelangen. Het datalek is gemeld bij de Autoriteit Persoonsgegevens en betrokken inwoners zijn per brief geïnformeerd. (Bron: gld.nl)</description>
-			<guid isPermaLink="false">https://www.gld.nl/nieuws/8438079/gemeente-lekt-gegevens-inwoners-bedrijf-weigert-data-te-verwijderen?datalekt=e3af5104ce23696b006367af280106496faf46b3645305e78b7fa678d5ef077a</guid>
+			<description>Gemeente Rheden | Overheid: Gemeenten | 23-02-2026 | DataLekt.nl: Door een menselijke fout bij het afhandelen van een verzoek op basis van de Wet open overheid (Woo) heeft een ambtenaar van de gemeente Rheden gevoelige persoonsgegevens, waaronder Burgerservicenummers, onbedoeld gedeeld met een bedrijf dat deze informatie niet mocht ontvangen. De gegevens zijn volgens de gemeente één keer verstrekt en er is geen bewijs dat ze verder zijn verspreid, al kan dat niet worden uitgesloten. Het bedrijf weigert de gegevens te verwijderen en wil deze gebruiken voor eigen bedrijfsbelangen. Het datalek is gemeld bij de Autoriteit Persoonsgegevens en betrokken inwoners zijn per brief geïnformeerd. [Update: Op 2 maart 2026 is bekend geworden dat de gegevens terechtkwamen bij juridisch onderzoeksbureau Ebenezer Advies, waarvan de eigenaar stelt de ontvangen persoonsgegevens inmiddels te hebben verwijderd en alleen een geanonimiseerd bestand te hebben bewaard.] (Bron: gld.nl)</description>
+			<guid isPermaLink="false">https://www.gld.nl/nieuws/8438079/gemeente-lekt-gegevens-inwoners-bedrijf-weigert-data-te-verwijderen?datalekt=0d5495afe057e3437f49a0e0cac927ab61242c51bac44ef62494ee28bf49279b</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
 		</item>
@@ -751,30 +775,6 @@
 			<guid isPermaLink="false">https://www.ad.nl/losser/datalek-en-gebrekkig-proces-zetten-druk-op-wethouder-opvang-oekrainers-aan-gildehauserweg-in-losser-wankelt~ae09e61f/?datalekt=4874367dd1fe57fffb64a7d0f79ddd134c89e049af89c160a37fef9eae26e87d</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Amsterdam zet vertrouwelijke OR- en OC-documenten per ongeluk online door interne fout</title>
-			<link>https://www.ad.nl/amsterdam/datalek-bij-gemeente-amsterdam-vertrouwelijke-verslagen-en-gevoelige-informatie-ambtenaren-zichtbaar~aaa398fd/</link>
-			<description>Gemeente Amsterdam | Overheid: Gemeenten | 25-11-2025 | DataLekt.nl: Bij de gemeente Amsterdam hebben vertrouwelijke verslagen van de ondernemingsraad en onderdeelcommissies online gestaan door een interne fout. Hoewel de documenten inmiddels zijn verwijderd, blijven fragmenten zichtbaar via zoekmachines als DuckDuckGo en Bing. De bestanden bevatten onder meer namen, functies, contactgegevens, agendapunten, interne discussies en in één geval informatie over de ernstige ziekte van een ambtenaar. De gemeente werd op 17 november geïnformeerd over het mogelijke datalek, waarna direct het datalekprotocol is gevolgd en melding is gedaan bij de Autoriteit Persoonsgegevens. Er wordt gewerkt aan het verwijderen van resterende fragmenten. (Bron: ad.nl)</description>
-			<guid isPermaLink="false">https://www.ad.nl/amsterdam/datalek-bij-gemeente-amsterdam-vertrouwelijke-verslagen-en-gevoelige-informatie-ambtenaren-zichtbaar~aaa398fd/?datalekt=6699432c4a4573df6f89cf3bda64e006c2dc006b89ae7455cd98e1efe6d0a480</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Sociaal Wijkteam Kogerveld-Noord deelt per ongeluk 1249 e-mailadressen van mantelzorgers in CC</title>
-			<link>https://www.deorkaan.nl/datalek-bij-sociaal-wijkteam-193-mailadressen-zichtbaar/</link>
-			<description>Sociaal Wijkteam Kogerveld-Noord | Overheid: Organisatie met overheidsbemoeienis | 20-11-2025 | DataLekt.nl: Bij het Sociaal Wijkteam Kogerveld-Noord zijn per ongeluk 1249 e-mailadressen van mantelzorgers gedeeld doordat een medewerker deze in de CC zette in plaats van in de BCC. De fout ontstond bij een uitnodiging voor een activiteit, waarna een intrekkingsmail werd verstuurd die opnieuw in de CC terechtkwam. Hierdoor bleef de oorspronkelijke mail zichtbaar voor alle ontvangers. Het wijkteam beschouwt dit als een datalek, heeft melding gedaan bij de Autoriteit Persoonsgegevens en scherpt interne procedures aan. Mantelzorgers worden gewaarschuwd voor mogelijke phishing. (Bron: deorkaan.nl)</description>
-			<guid isPermaLink="false">https://www.deorkaan.nl/datalek-bij-sociaal-wijkteam-193-mailadressen-zichtbaar/?datalekt=3cd7d69f76c8b7cb7ccb1cb9493616233bebddc5230df2334f2e917d3bd897e4</guid>
-			<category>Overheid: Organisatie met overheidsbemoeienis </category>
-			<pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Sif overtreedt privacyregels door onrechtmatige speekseltest bij werknemer</title>
-			<link>https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg</link>
-			<description>Sif | Industrie | 27-03-2025 | DataLekt.nl: Sif liet bij de toegangspoort onaangekondigde speekseltesten uitvoeren door een extern bureau om medewerkers op drugs- en alcoholgebruik te controleren. Een werknemer testte positief op cannabis, waarna Sif ontbinding van de arbeidsovereenkomst verzocht. De werknemer voerde aan dat deze test in strijd was met de AVG. De rechtbank oordeelde dat speekseltesten gezondheidsgegevens opleveren en daarom bijzondere persoonsgegevens zijn waarvoor een wettelijke grondslag vereist is. Die ontbreekt voor de functie van de werknemer, waardoor Sif de test niet had mogen uitvoeren. De uitslag mag daarom niet als bewijs worden gebruikt. (Bron: lsenr.nl)</description>
-			<guid isPermaLink="false">https://www.lsenr.nl/artikelen/door-werkgever-afgenomen-drugstest-is-in-strijd-met-de-avg?datalekt=0d66d2f914689351be78b69e10e8d86c4156cb6aa66938f55f7f518d4b80a19b</guid>
-			<category>Industrie </category>
-			<pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Hogeschool van Arnhem en Nijmegen onderzoekt mogelijk datalek na ongeoorloofd AI-gebruik door docent</title>
