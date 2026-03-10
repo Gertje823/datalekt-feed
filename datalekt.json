@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.nu.nl/binnenland/6388390/tientallen-namen-gelekt-van-mensen-met-interesse-in-burgemeesterschap.html?datalekt=c623cafbb2f4acf1b00209c87160eef6161362d92d01135530b7aca250b380c2",
+        "url": "https://www.nu.nl/binnenland/6388390/tientallen-namen-gelekt-van-mensen-met-interesse-in-burgemeesterschap.html",
+        "title": "Provincie Zuid-Holland lekt per ongeluk e-mailadressen van kandidaten met interesse in burgemeesterschap",
+        "date_published": "2026-03-09T11:41:00Z",
+        "date_modified": "2026-03-09T11:41:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Provincie Zuid-Holland | Overheid: Provincies | 06-03-2026 | DataLekt.nl: De provincie Zuid-Holland heeft per ongeluk de namen en e-mailadressen gedeeld van minstens dertig personen die interesse hadden getoond in een burgemeestersfunctie. Dit gebeurde doordat bij een gezamenlijke e-mail aan de genodigden voor een informatiebijeenkomst met commissaris van de Koning Wouter Kolff de adressen in het cc-veld stonden in plaats van het bcc-veld. Hierdoor konden ontvangers elkaars e-mailadres zien, terwijl sollicitaties voor het burgemeesterschap strikt vertrouwelijk horen te blijven. Onder de betrokkenen zouden onder meer wethouders en andere politieke functionarissen zijn. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1407ceee3189b80400e31916fe5ce2e7264b5b2909ead61a4193916844996796",
+        "url": "https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb",
+        "title": "Netwerk NV getroffen door ransomware aanval van de criminele organisatie AiLock",
+        "date_published": "2026-03-09T11:39:00Z",
+        "date_modified": "2026-03-09T11:39:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ccinfo.nl"
+        },
+        "content_html": "",
+        "content_text": "Netwerk NV | Water en afvalbeheer | 07-03-2026 | DataLekt.nl: De criminele organisatie AiLock heeft op het darkweb aangekondigd dat zij Netwerk NV heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft ge\u00ebist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)"
+    },
+    {
+        "id": "https://www.omroepwest.nl/economie/5074241/datalek-bij-mall-of-the-netherlands-klanten-worden-gewaarschuwd-door-winkelcentrum?datalekt=fcea6fcb15e4fefe74d9d6a430d8905e0f9f5a6bed23ed3bcd07b654873710b5",
+        "url": "https://www.omroepwest.nl/economie/5074241/datalek-bij-mall-of-the-netherlands-klanten-worden-gewaarschuwd-door-winkelcentrum",
+        "title": "Westfield Mall of the Netherlands waarschuwt klanten na ongeautoriseerde toegang tot database met persoonsgegevens",
+        "date_published": "2026-03-09T11:29:00Z",
+        "date_modified": "2026-03-09T11:29:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "omroepwest.nl"
+        },
+        "content_html": "",
+        "content_text": "Westfield Mall of the Netherlands | Groot- en detailhandel | 06-03-2026 | DataLekt.nl: Bij Westfield Mall of the Netherlands in Leidschendam is een datalek ontdekt waarbij zonder toestemming toegang is verkregen tot een database met gegevens van leden van het loyaliteitsprogramma Westfield Club en nieuwsbriefabonnees. De database bevatte persoonsgegevens zoals voor- en achternaam, e-mailadres, telefoonnummer, postcode en geboortedatum. Volgens het winkelcentrum zijn geen financi\u00eble gegevens, wachtwoorden of betaalinformatie getroffen. Het aantal betrokken personen is niet bekendgemaakt. Getroffen klanten zijn per e-mail ge\u00efnformeerd en gewaarschuwd voor mogelijke phishingpogingen. Het incident is gemeld bij de toezichthouder en wordt onderzocht. (Bron: omroepwest.nl)"
+    },
+    {
         "id": "https://www.bnr.nl/nieuws/nieuws-politiek/10595419/odido-lekte-ook-data-16-000-klanten-in-strategische-sectoren?datalekt=a12be0514c40f082948a8d018b605a20db596bf2a68cc01d29506d423229781d",
         "url": "https://www.bnr.nl/nieuws/nieuws-politiek/10595419/odido-lekte-ook-data-16-000-klanten-in-strategische-sectoren",
         "title": "Medewerkers van Thales ge\u00efdentificeerd in gelekte Odido-klantgegevens na cyberaanval",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Koninklijke Notari\u00eble Beroepsorganisatie (KNB) | Overige dienstverlening | 11-12-2025 | DataLekt.nl: Het digitale notarisregister van de Koninklijke Notari\u00eble Beroepsorganisatie (KNB) is sinds februari offline nadat de Autoriteit Persoonsgegevens een privacyklacht van een notaris gegrond verklaarde. De toezichthouder had bezwaar tegen de manier waarop zoekresultaten werden getoond, waarbij ook andere notarissen zichtbaar waren. De KNB haalde het register daarop volledig offline en ging niet in beroep. Hierdoor is een wettelijk openbaar register, met informatie over nevenfuncties en tuchtrechtelijke maatregelen, slechts beperkt op verzoek in te zien. Of en wanneer het register weer online komt, is nog onzeker. (Bron: advocatie.nl)"
-    },
-    {
-        "id": "https://www.rtl.nl/nieuws/binnenland/artikel/5542736/gemeente-nuenen-lekt-adressen-bezwaarmakers-azc?datalekt=f74ef1774b7c47eb7f24732b6dffce9457b0d7497e592c7679d478b6bedddd68",
-        "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5542736/gemeente-nuenen-lekt-adressen-bezwaarmakers-azc",
-        "title": "Gemeente Nuenen lekt per ongeluk adressen van bezwaarmakers tegen tijdelijk azc",
-        "date_published": "2025-12-07T10:30:00Z",
-        "date_modified": "2025-12-07T10:30:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "rtl.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Nuenen | Overheid: Gemeenten | 06-12-2025 | DataLekt.nl: De gemeente Nuenen heeft per ongeluk een document met adressen van 1059 bezwaarmakers tegen de komst van een tijdelijk asielzoekerscentrum doorgestuurd naar 52 inwoners. Hoewel geen namen zijn gedeeld, zijn adressen indirect herleidbaar tot personen, waardoor sprake is van een datalek. Het document maakte deel uit van stukken voor een hoorzitting van de bezwaarschriftencommissie. De gemeente heeft melding gedaan bij de Autoriteit Persoonsgegevens en ontvangers gevraagd het document te verwijderen en niet verder te verspreiden. (Bron: rtl.nl)"
-    },
-    {
-        "id": "https://www.nt.nl/havens/2025/12/05/drie-aanhoudingen-na-cyberaanval-op-havenbedrijf-waalhaven/?datalekt=196f17c35113c36d811c44011935cf48bc4f53e066bd1120d6887e53fb40cbca",
-        "url": "https://www.nt.nl/havens/2025/12/05/drie-aanhoudingen-na-cyberaanval-op-havenbedrijf-waalhaven/",
-        "title": "Havenbedrijf in de Waalhaven getroffen door fraude na gehackte mailbox",
-        "date_published": "2025-12-07T10:26:00Z",
-        "date_modified": "2025-12-07T10:26:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nt.nl"
-        },
-        "content_html": "",
-        "content_text": "Onbekende havenbedrijf | Vervoer en opslag | 05-12-2025 | DataLekt.nl: Een onbekend havenbedrijf in de Rotterdamse Waalhaven werd in september 2023 slachtoffer van cybercrime nadat criminelen de mailbox van het bedrijf wisten te hacken. De aanvallers verstuurden vanuit het gehackte account een vervalste factuur met een frauduleus bankrekeningnummer en een nagemaakte bankverklaring, waarna een klant 260.000 euro overmaakte. De politie hield in februari 2025 een verdachte aan en arresteerde in oktober 2025 twee nieuwe verdachten. Volgens de Zeehavenpolitie werkte het getroffen bedrijf vanaf het begin volledig mee aan het onderzoek. (Bron: nt.nl)"
-    },
-    {
-        "id": "https://nos.nl/artikel/2593305-erasmus-mc-ontslaat-medewerkers-voor-rondneuzen-in-patientendossiers?datalekt=9b69019a567b936b154dfc13f68ae006b302b82e19cfe440f8d98444affd2b8d",
-        "url": "https://nos.nl/artikel/2593305-erasmus-mc-ontslaat-medewerkers-voor-rondneuzen-in-patientendossiers",
-        "title": "Erasmus MC ontslaat medewerkers wegens ongeoorloofde inzage in pati\u00ebntendossiers",
-        "date_published": "2025-12-07T10:22:00Z",
-        "date_modified": "2025-12-07T10:22:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "nos.nl"
-        },
-        "content_html": "",
-        "content_text": "Erasmus MC | Gezondheids- en welzijnszorg | 05-12-2025 | DataLekt.nl: Het Erasmus MC heeft ontdekt dat vijf medewerkers zonder geldige reden in 34 pati\u00ebntendossiers hebben gekeken tijdens interne controles. Twee medewerkers zijn vanwege de ernst van hun handelen op staande voet ontslagen; drie anderen kregen disciplinaire maatregelen. Het ziekenhuis benadrukt dat inzage alleen mag plaatsvinden bij een behandelrelatie en heeft de betrokken pati\u00ebnten ge\u00efnformeerd en excuses aangeboden. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: nos.nl)"
     }
 ]

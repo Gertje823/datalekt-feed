@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 07 Mar 2026 02:08:09 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 02:12:21 +0000</lastBuildDate>
+		<item>
+			<title>Provincie Zuid-Holland lekt per ongeluk e-mailadressen van kandidaten met interesse in burgemeesterschap</title>
+			<link>https://www.nu.nl/binnenland/6388390/tientallen-namen-gelekt-van-mensen-met-interesse-in-burgemeesterschap.html</link>
+			<description>Provincie Zuid-Holland | Overheid: Provincies | 06-03-2026 | DataLekt.nl: De provincie Zuid-Holland heeft per ongeluk de namen en e-mailadressen gedeeld van minstens dertig personen die interesse hadden getoond in een burgemeestersfunctie. Dit gebeurde doordat bij een gezamenlijke e-mail aan de genodigden voor een informatiebijeenkomst met commissaris van de Koning Wouter Kolff de adressen in het cc-veld stonden in plaats van het bcc-veld. Hierdoor konden ontvangers elkaars e-mailadres zien, terwijl sollicitaties voor het burgemeesterschap strikt vertrouwelijk horen te blijven. Onder de betrokkenen zouden onder meer wethouders en andere politieke functionarissen zijn. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/binnenland/6388390/tientallen-namen-gelekt-van-mensen-met-interesse-in-burgemeesterschap.html?datalekt=c623cafbb2f4acf1b00209c87160eef6161362d92d01135530b7aca250b380c2</guid>
+			<category>Overheid: Provincies </category>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Netwerk NV getroffen door ransomware aanval van de criminele organisatie AiLock</title>
+			<link>https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb</link>
+			<description>Netwerk NV | Water en afvalbeheer | 07-03-2026 | DataLekt.nl: De criminele organisatie AiLock heeft op het darkweb aangekondigd dat zij Netwerk NV heeft getroffen met een ransomware-aanval en/of datadiefstal en daarbij losgeld heeft geëist om of enerzijds de systemen te herstellen, of te voorkomen dat de hackers de data lekken op het web. (Bron: ccinfo.nl)</description>
+			<guid isPermaLink="false">https://www.ccinfo.nl/actuele-aanvallen/alle-slachtoffers-belgie-en-nederland-blootgesteld-op-darkweb?datalekt=1407ceee3189b80400e31916fe5ce2e7264b5b2909ead61a4193916844996796</guid>
+			<category>Water en afvalbeheer </category>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Westfield Mall of the Netherlands waarschuwt klanten na ongeautoriseerde toegang tot database met persoonsgegevens</title>
+			<link>https://www.omroepwest.nl/economie/5074241/datalek-bij-mall-of-the-netherlands-klanten-worden-gewaarschuwd-door-winkelcentrum</link>
+			<description>Westfield Mall of the Netherlands | Groot- en detailhandel | 06-03-2026 | DataLekt.nl: Bij Westfield Mall of the Netherlands in Leidschendam is een datalek ontdekt waarbij zonder toestemming toegang is verkregen tot een database met gegevens van leden van het loyaliteitsprogramma Westfield Club en nieuwsbriefabonnees. De database bevatte persoonsgegevens zoals voor- en achternaam, e-mailadres, telefoonnummer, postcode en geboortedatum. Volgens het winkelcentrum zijn geen financiële gegevens, wachtwoorden of betaalinformatie getroffen. Het aantal betrokken personen is niet bekendgemaakt. Getroffen klanten zijn per e-mail geïnformeerd en gewaarschuwd voor mogelijke phishingpogingen. Het incident is gemeld bij de toezichthouder en wordt onderzocht. (Bron: omroepwest.nl)</description>
+			<guid isPermaLink="false">https://www.omroepwest.nl/economie/5074241/datalek-bij-mall-of-the-netherlands-klanten-worden-gewaarschuwd-door-winkelcentrum?datalekt=fcea6fcb15e4fefe74d9d6a430d8905e0f9f5a6bed23ed3bcd07b654873710b5</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Medewerkers van Thales geïdentificeerd in gelekte Odido-klantgegevens na cyberaanval</title>
 			<link>https://www.bnr.nl/nieuws/nieuws-politiek/10595419/odido-lekte-ook-data-16-000-klanten-in-strategische-sectoren</link>
@@ -759,30 +783,6 @@
 			<guid isPermaLink="false">https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/?datalekt=fa58336a0a523838baaa5695274d7adb9c1cf849220c0057ac1d4a5f7167fda1</guid>
 			<category>Overheid: Organisatieonderdeel </category>
 			<pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Nuenen lekt per ongeluk adressen van bezwaarmakers tegen tijdelijk azc</title>
-			<link>https://www.rtl.nl/nieuws/binnenland/artikel/5542736/gemeente-nuenen-lekt-adressen-bezwaarmakers-azc</link>
-			<description>Gemeente Nuenen | Overheid: Gemeenten | 06-12-2025 | DataLekt.nl: De gemeente Nuenen heeft per ongeluk een document met adressen van 1059 bezwaarmakers tegen de komst van een tijdelijk asielzoekerscentrum doorgestuurd naar 52 inwoners. Hoewel geen namen zijn gedeeld, zijn adressen indirect herleidbaar tot personen, waardoor sprake is van een datalek. Het document maakte deel uit van stukken voor een hoorzitting van de bezwaarschriftencommissie. De gemeente heeft melding gedaan bij de Autoriteit Persoonsgegevens en ontvangers gevraagd het document te verwijderen en niet verder te verspreiden. (Bron: rtl.nl)</description>
-			<guid isPermaLink="false">https://www.rtl.nl/nieuws/binnenland/artikel/5542736/gemeente-nuenen-lekt-adressen-bezwaarmakers-azc?datalekt=f74ef1774b7c47eb7f24732b6dffce9457b0d7497e592c7679d478b6bedddd68</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Havenbedrijf in de Waalhaven getroffen door fraude na gehackte mailbox</title>
-			<link>https://www.nt.nl/havens/2025/12/05/drie-aanhoudingen-na-cyberaanval-op-havenbedrijf-waalhaven/</link>
-			<description>Onbekende havenbedrijf | Vervoer en opslag | 05-12-2025 | DataLekt.nl: Een onbekend havenbedrijf in de Rotterdamse Waalhaven werd in september 2023 slachtoffer van cybercrime nadat criminelen de mailbox van het bedrijf wisten te hacken. De aanvallers verstuurden vanuit het gehackte account een vervalste factuur met een frauduleus bankrekeningnummer en een nagemaakte bankverklaring, waarna een klant 260.000 euro overmaakte. De politie hield in februari 2025 een verdachte aan en arresteerde in oktober 2025 twee nieuwe verdachten. Volgens de Zeehavenpolitie werkte het getroffen bedrijf vanaf het begin volledig mee aan het onderzoek. (Bron: nt.nl)</description>
-			<guid isPermaLink="false">https://www.nt.nl/havens/2025/12/05/drie-aanhoudingen-na-cyberaanval-op-havenbedrijf-waalhaven/?datalekt=196f17c35113c36d811c44011935cf48bc4f53e066bd1120d6887e53fb40cbca</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Erasmus MC ontslaat medewerkers wegens ongeoorloofde inzage in patiëntendossiers</title>
-			<link>https://nos.nl/artikel/2593305-erasmus-mc-ontslaat-medewerkers-voor-rondneuzen-in-patientendossiers</link>
-			<description>Erasmus MC | Gezondheids- en welzijnszorg | 05-12-2025 | DataLekt.nl: Het Erasmus MC heeft ontdekt dat vijf medewerkers zonder geldige reden in 34 patiëntendossiers hebben gekeken tijdens interne controles. Twee medewerkers zijn vanwege de ernst van hun handelen op staande voet ontslagen; drie anderen kregen disciplinaire maatregelen. Het ziekenhuis benadrukt dat inzage alleen mag plaatsvinden bij een behandelrelatie en heeft de betrokken patiënten geïnformeerd en excuses aangeboden. Het incident is gemeld bij de Autoriteit Persoonsgegevens. (Bron: nos.nl)</description>
-			<guid isPermaLink="false">https://nos.nl/artikel/2593305-erasmus-mc-ontslaat-medewerkers-voor-rondneuzen-in-patientendossiers?datalekt=9b69019a567b936b154dfc13f68ae006b302b82e19cfe440f8d98444affd2b8d</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Clinical Diagnostics getroffen door grote datadiefstal met medische onderzoeksgegevens</title>
