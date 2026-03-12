@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://nos.nl/artikel/2463880-asml-slachtoffer-van-datadiefstal-door-ex-werknemer-in-china?datalekt=b3c9ed2926f9fc3a2b3cc279857e0e8934db932a9161606b8289daee07950da6",
+        "url": "https://nos.nl/artikel/2463880-asml-slachtoffer-van-datadiefstal-door-ex-werknemer-in-china",
+        "title": "ASML getroffen door datadiefstal door voormalige medewerker in China",
+        "date_published": "2023-02-14T23:00:00Z",
+        "date_modified": "2026-03-11T08:09:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nos.nl"
+        },
+        "content_html": "",
+        "content_text": "ASML | Industrie | 15-02-2023 | DataLekt.nl: Chipmachinebouwer ASML is het slachtoffer geworden van datadiefstal door een ex-werknemer in China, die technologische informatie van het bedrijf heeft gestolen. Dit recente incident is gemeld bij de autoriteiten in zowel de Verenigde Staten als Nederland, vanwege mogelijke overtredingen van Amerikaanse exportregels. Hoewel het bedrijf stelt dat dit incident op het eerste gezicht geen invloed heeft op de bedrijfsvoering, is het zorgwekkend dat het is veroorzaakt door een eigen medewerker. In 2015 werd ASML ook al bestolen door eigen werknemers, waarbij de gestolen informatie werd verkocht aan concurrent Xtal. Er zijn geen specifieke details gegeven over de financi\u00eble schade of het aantal getroffen personen. [Update: Op 10 maart 2026 heeft de rechtbank Oost-Brabant vastgesteld dat de voormalige medewerker in december 2021 en maart 2024 daadwerkelijk vertrouwelijke ASML-bestanden naar externe opslagmedia heeft gekopieerd. De verdachte werd vrijgesproken van computervredebreuk maar veroordeeld voor het wederrechtelijk overnemen van niet-openbare gegevens en kreeg een taakstraf van 60 uur.] (Bron: nos.nl)"
+    },
+    {
         "id": "https://www.nu.nl/binnenland/6388390/tientallen-namen-gelekt-van-mensen-met-interesse-in-burgemeesterschap.html?datalekt=c623cafbb2f4acf1b00209c87160eef6161362d92d01135530b7aca250b380c2",
         "url": "https://www.nu.nl/binnenland/6388390/tientallen-namen-gelekt-van-mensen-met-interesse-in-burgemeesterschap.html",
         "title": "Provincie Zuid-Holland lekt per ongeluk e-mailadressen van kandidaten met interesse in burgemeesterschap",
@@ -1285,18 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Losser | Overheid: Gemeenten | 10-12-2025 | DataLekt.nl: De gemeente Losser is drie keer onzorgvuldig omgegaan met persoonsgegevens van inwoners. In september lagen gegevens van 103 personen zichtbaar in een stemkoffer bij een stembureau en daarnaast stonden bezwaarschriften met namen, adressen en telefoonnummers van inwoners uit Glane en van omwonenden van de Gilderhauserweg openbaar op de gemeentelijke website. Het ging om fouten in de omgang met en publicatie van documenten. De gemeente erkent dat er fouten zijn gemaakt. Afhankelijk van de ernst en afhandeling kan de Autoriteit Persoonsgegevens toezicht houden en eventueel sancties opleggen. (Bron: tubantia.nl)"
-    },
-    {
-        "id": "https://www.advocatie.nl/nieuws/privacyklacht-legt-digitaal-notarisregister-al-maanden-stil/?datalekt=580b611b9cf1e732c32821950aa7a9222dd9a7972892049ce5013b9896be2d77",
-        "url": "https://www.advocatie.nl/nieuws/privacyklacht-legt-digitaal-notarisregister-al-maanden-stil/",
-        "title": "Digitaal notarisregister al maanden offline na privacyklacht bij Autoriteit Persoonsgegevens",
-        "date_published": "2025-12-13T16:51:00Z",
-        "date_modified": "2025-12-13T16:51:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "advocatie.nl"
-        },
-        "content_html": "",
-        "content_text": "Koninklijke Notari\u00eble Beroepsorganisatie (KNB) | Overige dienstverlening | 11-12-2025 | DataLekt.nl: Het digitale notarisregister van de Koninklijke Notari\u00eble Beroepsorganisatie (KNB) is sinds februari offline nadat de Autoriteit Persoonsgegevens een privacyklacht van een notaris gegrond verklaarde. De toezichthouder had bezwaar tegen de manier waarop zoekresultaten werden getoond, waarbij ook andere notarissen zichtbaar waren. De KNB haalde het register daarop volledig offline en ging niet in beroep. Hierdoor is een wettelijk openbaar register, met informatie over nevenfuncties en tuchtrechtelijke maatregelen, slechts beperkt op verzoek in te zien. Of en wanneer het register weer online komt, is nog onzeker. (Bron: advocatie.nl)"
     }
 ]

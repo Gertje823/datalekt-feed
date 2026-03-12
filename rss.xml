@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Tue, 10 Mar 2026 02:12:21 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 02:24:42 +0000</lastBuildDate>
 		<item>
 			<title>Provincie Zuid-Holland lekt per ongeluk e-mailadressen van kandidaten met interesse in burgemeesterschap</title>
 			<link>https://www.nu.nl/binnenland/6388390/tientallen-namen-gelekt-van-mensen-met-interesse-in-burgemeesterschap.html</link>
@@ -769,14 +769,6 @@
 			<pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Digitaal notarisregister al maanden offline na privacyklacht bij Autoriteit Persoonsgegevens</title>
-			<link>https://www.advocatie.nl/nieuws/privacyklacht-legt-digitaal-notarisregister-al-maanden-stil/</link>
-			<description>Koninklijke Notariële Beroepsorganisatie (KNB) | Overige dienstverlening | 11-12-2025 | DataLekt.nl: Het digitale notarisregister van de Koninklijke Notariële Beroepsorganisatie (KNB) is sinds februari offline nadat de Autoriteit Persoonsgegevens een privacyklacht van een notaris gegrond verklaarde. De toezichthouder had bezwaar tegen de manier waarop zoekresultaten werden getoond, waarbij ook andere notarissen zichtbaar waren. De KNB haalde het register daarop volledig offline en ging niet in beroep. Hierdoor is een wettelijk openbaar register, met informatie over nevenfuncties en tuchtrechtelijke maatregelen, slechts beperkt op verzoek in te zien. Of en wanneer het register weer online komt, is nog onzeker. (Bron: advocatie.nl)</description>
-			<guid isPermaLink="false">https://www.advocatie.nl/nieuws/privacyklacht-legt-digitaal-notarisregister-al-maanden-stil/?datalekt=580b611b9cf1e732c32821950aa7a9222dd9a7972892049ce5013b9896be2d77</guid>
-			<category>Overige dienstverlening </category>
-			<pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Man uit Delft veroorzaakte grootschalige verstoring van het noodnummer 112 met geautomatiseerde oproepen</title>
 			<link>https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/</link>
 			<description>De Landelijke Meldkamer Samenwerking | Overheid: Organisatieonderdeel | 11-12-2025 | DataLekt.nl: Eind 2022 heeft een 47-jarige man uit Delft meer dan 11.000 geautomatiseerde valse oproepen naar het noodnummer 112 verstuurd, waardoor de bereikbaarheid van politie en hulpdiensten ernstig werd verstoord. Hij maakte gebruik van simboxen, computers en anonieme 06-nummers om het noodnummer te overbelasten, op een manier die vergelijkbaar is met een DDoS-aanval. Volgens het Openbaar Ministerie handelde hij uit wraak na een zakelijk conflict met drie zakenpartners. Door de massale oproepen liepen wachttijden gevaarlijk op en konden echte noodmeldingen moeilijk doorkomen, met mogelijk levensgevaarlijke gevolgen. [Update: Op 8 januari 2026 is bekend geworden dat de man is veroordeeld tot een voorwaardelijke gevangenisstraf van acht maanden en een eerder opgelegde boete hoeft hij niet te betalen.] (Bron: beveiligingnieuws.nl)</description>
@@ -799,6 +791,14 @@
 			<guid isPermaLink="false">https://www.nu.nl/binnenland/6300642/115-miljard-a4tjes-aan-staatsgeheimen-in-beslag-genomen-bij-nctver.html?datalekt=08d61e10e3ee272621812c1f6780b9c9941b6ca7f11dd7dca8e24da08def9613</guid>
 			<category>Overheid: Organisatieonderdeel </category>
 			<pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>ASML getroffen door datadiefstal door voormalige medewerker in China</title>
+			<link>https://nos.nl/artikel/2463880-asml-slachtoffer-van-datadiefstal-door-ex-werknemer-in-china</link>
+			<description>ASML | Industrie | 15-02-2023 | DataLekt.nl: Chipmachinebouwer ASML is het slachtoffer geworden van datadiefstal door een ex-werknemer in China, die technologische informatie van het bedrijf heeft gestolen. Dit recente incident is gemeld bij de autoriteiten in zowel de Verenigde Staten als Nederland, vanwege mogelijke overtredingen van Amerikaanse exportregels. Hoewel het bedrijf stelt dat dit incident op het eerste gezicht geen invloed heeft op de bedrijfsvoering, is het zorgwekkend dat het is veroorzaakt door een eigen medewerker. In 2015 werd ASML ook al bestolen door eigen werknemers, waarbij de gestolen informatie werd verkocht aan concurrent Xtal. Er zijn geen specifieke details gegeven over de financiële schade of het aantal getroffen personen. [Update: Op 10 maart 2026 heeft de rechtbank Oost-Brabant vastgesteld dat de voormalige medewerker in december 2021 en maart 2024 daadwerkelijk vertrouwelijke ASML-bestanden naar externe opslagmedia heeft gekopieerd. De verdachte werd vrijgesproken van computervredebreuk maar veroordeeld voor het wederrechtelijk overnemen van niet-openbare gegevens en kreeg een taakstraf van 60 uur.] (Bron: nos.nl)</description>
+			<guid isPermaLink="false">https://nos.nl/artikel/2463880-asml-slachtoffer-van-datadiefstal-door-ex-werknemer-in-china?datalekt=b3c9ed2926f9fc3a2b3cc279857e0e8934db932a9161606b8289daee07950da6</guid>
+			<category>Industrie </category>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Datalek bij Hogeschool van Arnhem en Nijmegen treft half miljoen mensen</title>
