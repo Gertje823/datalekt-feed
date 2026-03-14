@@ -1,5 +1,57 @@
 [
     {
+        "id": "https://www.security.nl/posting/928028/AP+stuurt+politieke+partijen+waarschuwingsbrief+wegens+gerichte+reclame?datalekt=14a298ddf0f9a27f4322e38f963bf3974ab64eacca96741675b7924f8d484626",
+        "url": "https://www.security.nl/posting/928028/AP+stuurt+politieke+partijen+waarschuwingsbrief+wegens+gerichte+reclame",
+        "title": "Autoriteit Persoonsgegevens waarschuwt politieke partijen voor overtreden regels rond gerichte online politieke reclame",
+        "date_published": "2026-03-12T15:03:00Z",
+        "date_modified": "2026-03-12T15:03:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "security.nl"
+        },
+        "content_html": "",
+        "content_text": "Onbekende politieke partijen | Overig: Politieke partijen | 10-03-2026 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft meerdere politieke partijen een waarschuwingsbrief gestuurd omdat zij vermoedelijk de Europese verordening voor politieke reclame (VPR) hebben overtreden. In aanloop naar de gemeenteraadsverkiezingen van 18 maart zag de toezichthouder ongeveer veertig gevallen waarin politieke partijen via socialmediaplatforms gerichte advertenties aan specifieke groepen kiezers toonden. Volgens de AP ontbreekt daarbij vaak de vereiste uitdrukkelijke toestemming van betrokkenen en is onduidelijk hoe hun persoonsgegevens zijn gebruikt voor de advertenties. De partijen zijn gewaarschuwd en kunnen bij herhaling met verdere maatregelen te maken krijgen. (Bron: security.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/tweakers/6388782/bol-klanten-zagen-per-ongeluk-gegevens-van-andere-klanten.html?datalekt=56b9a2839c74c07901c88331676d5220f73a3bf211bc8966d4118a4f5db2247c",
+        "url": "https://www.nu.nl/tweakers/6388782/bol-klanten-zagen-per-ongeluk-gegevens-van-andere-klanten.html",
+        "title": "Bol-klanten konden door technisch incident gegevens van andere klanten bekijken",
+        "date_published": "2026-03-12T15:01:00Z",
+        "date_modified": "2026-03-12T15:01:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Bol.com | Groot- en detailhandel | 10-03-2026 | DataLekt.nl: Webwinkel Bol had in het weekend een datalek door een technisch incident op de website. Tijdens een drukke periode konden sommige gebruikers per ongeluk gegevens van andere klanten bekijken, waaronder namen, adressen en de inhoud van hun winkelwagen. Een klant meldde dat hij in de winkelwagen van een andere gebruiker terechtkwam en daar persoonlijke gegevens en bestelde producten kon zien. Volgens Bol zijn enkele tientallen klanten getroffen. Het probleem is volgens het bedrijf direct na ontdekking onderzocht en opgelost. De Autoriteit Persoonsgegevens is ge\u00efnformeerd en Bol onderzoekt nog de precieze oorzaak en omvang van het incident. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.nu.nl/economie/6388906/oplichters-benaderen-6000-gasten-van-bastion-hotels-met-gestolen-informatie.html?datalekt=5e0385a01c45d9446f601403b5c58f529c96fff970a20a5b070ae919790e62c8",
+        "url": "https://www.nu.nl/economie/6388906/oplichters-benaderen-6000-gasten-van-bastion-hotels-met-gestolen-informatie.html",
+        "title": "Bastion Hotels waarschuwt 6.000 gasten nadat oplichters via een phishingmail boekingsgegevens buitmaakten",
+        "date_published": "2026-03-12T14:57:00Z",
+        "date_modified": "2026-03-12T14:57:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "Bastion Hotels | Horeca | 11-03-2026 | DataLekt.nl: Bij Bastion Hotels zijn de boekingsgegevens van ongeveer 6.000 gasten van zeven hotels buitgemaakt nadat een medewerker op een phishinglink klikte en op een nagemaakte site terechtkwam. Volgens de aangeleverde tekst gaat het om namen, telefoonnummers, adressen, nationaliteiten, boekingsdata en een deel van de betaalgegevens, waarna gasten via sms en WhatsApp met phishingberichten zijn benaderd. Bastion heeft getroffen gasten gewaarschuwd en zegt het incident verder te onderzoeken. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/?datalekt=4fc08d839014337222f9b5f665bcc501ea038b85315ec62b1a33dac5febeb7d3",
+        "url": "https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/",
+        "title": "Onvoldoende informatiebeveiliging bij NCTV blootlegt ernstige kwetsbaarheden",
+        "date_published": "2024-12-14T15:58:00Z",
+        "date_modified": "2026-03-12T14:48:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "beveiligingnieuws.nl"
+        },
+        "content_html": "",
+        "content_text": "Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid (NCTV) | Overheid: Organisatieonderdeel | 13-12-2024 | DataLekt.nl: De Auditdienst Rijk constateerde ernstige tekortkomingen in de informatiebeveiliging bij de NCTV, waaronder de mogelijkheid om onbeveiligd gevoelige gegevens te downloaden en kopi\u00ebren. Ook zijn tweehonderd usb-sticks met vertrouwelijke informatie zoekgeraakt. Deze problemen kwamen aan het licht na de arrestatie van een medewerker die verdacht wordt van het lekken van staatsgeheimen naar de Marokkaanse inlichtingendienst DGED. De omvang van de schade en het aantal getroffen personen zijn niet bekend. Dit incident benadrukt de noodzaak voor betere beveiligingsmaatregelen. [Update: Op 11 maart 2026 is bekend geworden dat de rechtbank Rotterdam de voormalige NCTV-medewerker heeft veroordeeld tot 20 maanden gevangenisstraf wegens het onrechtmatig bezit van staatsgeheime documenten in zijn woning en op een gegevensdrager in zijn bagage op Schiphol. Er is geen bewijs gevonden dat de documenten zijn gedeeld met de Marokkaanse inlichtingendienst DGED.] (Bron: beveiligingnieuws.nl)"
+    },
+    {
         "id": "https://nos.nl/artikel/2463880-asml-slachtoffer-van-datadiefstal-door-ex-werknemer-in-china?datalekt=b3c9ed2926f9fc3a2b3cc279857e0e8934db932a9161606b8289daee07950da6",
         "url": "https://nos.nl/artikel/2463880-asml-slachtoffer-van-datadiefstal-door-ex-werknemer-in-china",
         "title": "ASML getroffen door datadiefstal door voormalige medewerker in China",
@@ -1246,57 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Bergen | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: De gemeente Bergen was deelnemer aan een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 waarbij vertrouwelijke informatie van vervoerders ZCN Totaalvervoer en Reva Groep onbedoeld openbaar werd gemaakt. Door het niet markeren van bijlagen als vertrouwelijk op TenderNed konden andere geregistreerde gebruikers inzicht krijgen in kostprijzen, tarieven en personeelsinzet. Het gerechtshof stelde vast dat de deelnemende gemeenten ernstig onzorgvuldig hebben gehandeld en dat de schade voor de vervoerders direct samenhing met dit datalek, wat resulteerde in een schadevergoeding. (Bron: streekstadcentraal.nl)"
-    },
-    {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=e9a073bcdf8acd752fc50f628ebf9f41c38d453fb080ae4d6d800d84757fe1de",
-        "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
-        "title": "Gemeente Alkmaar maakt vertrouwelijke bedrijfsinformatie openbaar bij aanbesteding Wmo-vervoer",
-        "date_published": "2025-12-13T17:12:00Z",
-        "date_modified": "2025-12-13T17:12:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "streekstadcentraal.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Alkmaar | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: Bij een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 heeft de gemeente Alkmaar een fout gemaakt waardoor vertrouwelijke bedrijfsinformatie van vervoerders ZCN Totaalvervoer en Reva Groep openbaar beschikbaar kwam op TenderNed. Bijlagen met kostprijsberekeningen, tarieven en personeelsinzet werden niet als vertrouwelijk gemarkeerd en konden door andere inschrijvers worden ingezien. Een concurrerende vervoerder bleek de gegevens daadwerkelijk te hebben geraadpleegd. Het gerechtshof oordeelde dat Alkmaar ernstig onzorgvuldig handelde en achtte de schade voor de vervoerders rechtstreeks het gevolg van dit datalek, wat leidde tot een gezamenlijke schadevergoeding. (Bron: streekstadcentraal.nl)"
-    },
-    {
-        "id": "https://trajectum.hu.nl/hu-medewerkers-gehackt-ict-afdeling-vertelt-wat-er-misging/?datalekt=80e4e077247e788cff24dfeb908bc210463954488828eefb6edd9ee9a3d6eafb",
-        "url": "https://trajectum.hu.nl/hu-medewerkers-gehackt-ict-afdeling-vertelt-wat-er-misging/",
-        "title": "Hogeschool Utrecht wordt getroffen door e-mailfraude nadat accounts van medewerkers zijn gehackt",
-        "date_published": "2025-12-13T17:00:00Z",
-        "date_modified": "2025-12-13T17:00:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "hu.nl"
-        },
-        "content_html": "",
-        "content_text": "Hogeschool Utrecht | Onderwijs | 10-12-2025 | DataLekt.nl: Minstens drie medewerkers van Hogeschool Utrecht zijn slachtoffer geworden van een hack waarbij cybercriminelen toegang kregen tot hun e-mailaccounts. De aanvallers stuurden vanuit deze legitieme HU-accounts frauduleuze berichten naar duizenden interne en externe ontvangers met het doel geld afhandig te maken. De hack ontstond nadat een medewerker een onveilige pdf-bijlage opende, waardoor inlogsessies werden buitgemaakt. Ongeveer vijftig mensen reageerden op de mails. De ICT-afdeling blokkeerde de betrokken accounts binnen een kwartier en voorkwam verdere schade of inzage in gegevens. (Bron: trajectum.hu.nl)"
-    },
-    {
-        "id": "https://www.centrumjong.nl/datalek-privacycontainer/?datalekt=b30f06f1dbdaba337b44f266b48cc737542963405cd77dea0a70d46fa75a48fe",
-        "url": "https://www.centrumjong.nl/datalek-privacycontainer/",
-        "title": "Datalek bij CJ Krommenie door onbedoelde afvoer van privacycontainer door reguliere papierophaaldienst",
-        "date_published": "2025-12-13T16:57:00Z",
-        "date_modified": "2025-12-13T16:57:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "centrumjong.nl"
-        },
-        "content_html": "",
-        "content_text": "Centrum Jong Krommenie | Gezondheids- en welzijnszorg | 09-12-2025 | DataLekt.nl: Bij CJ Krommenie is op 7 november 2025 de inhoud van een afgesloten privacycontainer met vertrouwelijke documenten per ongeluk meegenomen door de reguliere papierophaaldienst, terwijl deze normaal door een gespecialiseerd vernietigingsbedrijf wordt opgehaald. Hierdoor konden diverse soorten documenten, waaronder spreekuuragenda\u2019s, persoonlijke aantekeningen en mogelijk medische gegevens, buiten de bedoelde vernietigingsketen terechtkomen. De papierlading is inmiddels versnipperd en geperst, waardoor het risico op misbruik volgens de organisatie vrijwel nihil is. Centrum Jong heeft melding gedaan bij de Autoriteit Persoonsgegevens en aanvullende maatregelen genomen om herhaling te voorkomen. (Bron: centrumjong.nl)"
-    },
-    {
-        "id": "https://www.tubantia.nl/losser/losser-gaat-drie-keer-de-fout-in-met-gegevens-van-inwoners-dit-zijn-de-gevolgen~a1773920/?datalekt=f6b94c1a0036124520bfec95d287361e996bdbeecff3bfe7533252b2b3c91662",
-        "url": "https://www.tubantia.nl/losser/losser-gaat-drie-keer-de-fout-in-met-gegevens-van-inwoners-dit-zijn-de-gevolgen~a1773920/",
-        "title": "Gemeente Losser maakt meerdere fouten waardoor persoonsgegevens van inwoners openbaar werden",
-        "date_published": "2025-12-13T16:54:00Z",
-        "date_modified": "2025-12-13T16:54:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tubantia.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Losser | Overheid: Gemeenten | 10-12-2025 | DataLekt.nl: De gemeente Losser is drie keer onzorgvuldig omgegaan met persoonsgegevens van inwoners. In september lagen gegevens van 103 personen zichtbaar in een stemkoffer bij een stembureau en daarnaast stonden bezwaarschriften met namen, adressen en telefoonnummers van inwoners uit Glane en van omwonenden van de Gilderhauserweg openbaar op de gemeentelijke website. Het ging om fouten in de omgang met en publicatie van documenten. De gemeente erkent dat er fouten zijn gemaakt. Afhankelijk van de ernst en afhandeling kan de Autoriteit Persoonsgegevens toezicht houden en eventueel sancties opleggen. (Bron: tubantia.nl)"
     }
 ]

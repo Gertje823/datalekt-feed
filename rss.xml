@@ -7,7 +7,31 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 12 Mar 2026 02:24:42 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 14 Mar 2026 02:20:39 +0000</lastBuildDate>
+		<item>
+			<title>Autoriteit Persoonsgegevens waarschuwt politieke partijen voor overtreden regels rond gerichte online politieke reclame</title>
+			<link>https://www.security.nl/posting/928028/AP+stuurt+politieke+partijen+waarschuwingsbrief+wegens+gerichte+reclame</link>
+			<description>Onbekende politieke partijen | Overig: Politieke partijen | 10-03-2026 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft meerdere politieke partijen een waarschuwingsbrief gestuurd omdat zij vermoedelijk de Europese verordening voor politieke reclame (VPR) hebben overtreden. In aanloop naar de gemeenteraadsverkiezingen van 18 maart zag de toezichthouder ongeveer veertig gevallen waarin politieke partijen via socialmediaplatforms gerichte advertenties aan specifieke groepen kiezers toonden. Volgens de AP ontbreekt daarbij vaak de vereiste uitdrukkelijke toestemming van betrokkenen en is onduidelijk hoe hun persoonsgegevens zijn gebruikt voor de advertenties. De partijen zijn gewaarschuwd en kunnen bij herhaling met verdere maatregelen te maken krijgen. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/928028/AP+stuurt+politieke+partijen+waarschuwingsbrief+wegens+gerichte+reclame?datalekt=14a298ddf0f9a27f4322e38f963bf3974ab64eacca96741675b7924f8d484626</guid>
+			<category>Overig: Politieke partijen </category>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bol-klanten konden door technisch incident gegevens van andere klanten bekijken</title>
+			<link>https://www.nu.nl/tweakers/6388782/bol-klanten-zagen-per-ongeluk-gegevens-van-andere-klanten.html</link>
+			<description>Bol.com | Groot- en detailhandel | 10-03-2026 | DataLekt.nl: Webwinkel Bol had in het weekend een datalek door een technisch incident op de website. Tijdens een drukke periode konden sommige gebruikers per ongeluk gegevens van andere klanten bekijken, waaronder namen, adressen en de inhoud van hun winkelwagen. Een klant meldde dat hij in de winkelwagen van een andere gebruiker terechtkwam en daar persoonlijke gegevens en bestelde producten kon zien. Volgens Bol zijn enkele tientallen klanten getroffen. Het probleem is volgens het bedrijf direct na ontdekking onderzocht en opgelost. De Autoriteit Persoonsgegevens is geïnformeerd en Bol onderzoekt nog de precieze oorzaak en omvang van het incident. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/tweakers/6388782/bol-klanten-zagen-per-ongeluk-gegevens-van-andere-klanten.html?datalekt=56b9a2839c74c07901c88331676d5220f73a3bf211bc8966d4118a4f5db2247c</guid>
+			<category>Groot- en detailhandel </category>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bastion Hotels waarschuwt 6.000 gasten nadat oplichters via een phishingmail boekingsgegevens buitmaakten</title>
+			<link>https://www.nu.nl/economie/6388906/oplichters-benaderen-6000-gasten-van-bastion-hotels-met-gestolen-informatie.html</link>
+			<description>Bastion Hotels | Horeca | 11-03-2026 | DataLekt.nl: Bij Bastion Hotels zijn de boekingsgegevens van ongeveer 6.000 gasten van zeven hotels buitgemaakt nadat een medewerker op een phishinglink klikte en op een nagemaakte site terechtkwam. Volgens de aangeleverde tekst gaat het om namen, telefoonnummers, adressen, nationaliteiten, boekingsdata en een deel van de betaalgegevens, waarna gasten via sms en WhatsApp met phishingberichten zijn benaderd. Bastion heeft getroffen gasten gewaarschuwd en zegt het incident verder te onderzoeken. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/economie/6388906/oplichters-benaderen-6000-gasten-van-bastion-hotels-met-gestolen-informatie.html?datalekt=5e0385a01c45d9446f601403b5c58f529c96fff970a20a5b070ae919790e62c8</guid>
+			<category>Horeca </category>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Provincie Zuid-Holland lekt per ongeluk e-mailadressen van kandidaten met interesse in burgemeesterschap</title>
 			<link>https://www.nu.nl/binnenland/6388390/tientallen-namen-gelekt-van-mensen-met-interesse-in-burgemeesterschap.html</link>
@@ -737,38 +761,6 @@
 			<pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Gemeente Alkmaar maakt vertrouwelijke bedrijfsinformatie openbaar bij aanbesteding Wmo-vervoer</title>
-			<link>https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro</link>
-			<description>Gemeente Alkmaar | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: Bij een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 heeft de gemeente Alkmaar een fout gemaakt waardoor vertrouwelijke bedrijfsinformatie van vervoerders ZCN Totaalvervoer en Reva Groep openbaar beschikbaar kwam op TenderNed. Bijlagen met kostprijsberekeningen, tarieven en personeelsinzet werden niet als vertrouwelijk gemarkeerd en konden door andere inschrijvers worden ingezien. Een concurrerende vervoerder bleek de gegevens daadwerkelijk te hebben geraadpleegd. Het gerechtshof oordeelde dat Alkmaar ernstig onzorgvuldig handelde en achtte de schade voor de vervoerders rechtstreeks het gevolg van dit datalek, wat leidde tot een gezamenlijke schadevergoeding. (Bron: streekstadcentraal.nl)</description>
-			<guid isPermaLink="false">https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=e9a073bcdf8acd752fc50f628ebf9f41c38d453fb080ae4d6d800d84757fe1de</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hogeschool Utrecht wordt getroffen door e-mailfraude nadat accounts van medewerkers zijn gehackt</title>
-			<link>https://trajectum.hu.nl/hu-medewerkers-gehackt-ict-afdeling-vertelt-wat-er-misging/</link>
-			<description>Hogeschool Utrecht | Onderwijs | 10-12-2025 | DataLekt.nl: Minstens drie medewerkers van Hogeschool Utrecht zijn slachtoffer geworden van een hack waarbij cybercriminelen toegang kregen tot hun e-mailaccounts. De aanvallers stuurden vanuit deze legitieme HU-accounts frauduleuze berichten naar duizenden interne en externe ontvangers met het doel geld afhandig te maken. De hack ontstond nadat een medewerker een onveilige pdf-bijlage opende, waardoor inlogsessies werden buitgemaakt. Ongeveer vijftig mensen reageerden op de mails. De ICT-afdeling blokkeerde de betrokken accounts binnen een kwartier en voorkwam verdere schade of inzage in gegevens. (Bron: trajectum.hu.nl)</description>
-			<guid isPermaLink="false">https://trajectum.hu.nl/hu-medewerkers-gehackt-ict-afdeling-vertelt-wat-er-misging/?datalekt=80e4e077247e788cff24dfeb908bc210463954488828eefb6edd9ee9a3d6eafb</guid>
-			<category>Onderwijs </category>
-			<pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij CJ Krommenie door onbedoelde afvoer van privacycontainer door reguliere papierophaaldienst</title>
-			<link>https://www.centrumjong.nl/datalek-privacycontainer/</link>
-			<description>Centrum Jong Krommenie | Gezondheids- en welzijnszorg | 09-12-2025 | DataLekt.nl: Bij CJ Krommenie is op 7 november 2025 de inhoud van een afgesloten privacycontainer met vertrouwelijke documenten per ongeluk meegenomen door de reguliere papierophaaldienst, terwijl deze normaal door een gespecialiseerd vernietigingsbedrijf wordt opgehaald. Hierdoor konden diverse soorten documenten, waaronder spreekuuragenda’s, persoonlijke aantekeningen en mogelijk medische gegevens, buiten de bedoelde vernietigingsketen terechtkomen. De papierlading is inmiddels versnipperd en geperst, waardoor het risico op misbruik volgens de organisatie vrijwel nihil is. Centrum Jong heeft melding gedaan bij de Autoriteit Persoonsgegevens en aanvullende maatregelen genomen om herhaling te voorkomen. (Bron: centrumjong.nl)</description>
-			<guid isPermaLink="false">https://www.centrumjong.nl/datalek-privacycontainer/?datalekt=b30f06f1dbdaba337b44f266b48cc737542963405cd77dea0a70d46fa75a48fe</guid>
-			<category>Gezondheids- en welzijnszorg </category>
-			<pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Losser maakt meerdere fouten waardoor persoonsgegevens van inwoners openbaar werden</title>
-			<link>https://www.tubantia.nl/losser/losser-gaat-drie-keer-de-fout-in-met-gegevens-van-inwoners-dit-zijn-de-gevolgen~a1773920/</link>
-			<description>Gemeente Losser | Overheid: Gemeenten | 10-12-2025 | DataLekt.nl: De gemeente Losser is drie keer onzorgvuldig omgegaan met persoonsgegevens van inwoners. In september lagen gegevens van 103 personen zichtbaar in een stemkoffer bij een stembureau en daarnaast stonden bezwaarschriften met namen, adressen en telefoonnummers van inwoners uit Glane en van omwonenden van de Gilderhauserweg openbaar op de gemeentelijke website. Het ging om fouten in de omgang met en publicatie van documenten. De gemeente erkent dat er fouten zijn gemaakt. Afhankelijk van de ernst en afhandeling kan de Autoriteit Persoonsgegevens toezicht houden en eventueel sancties opleggen. (Bron: tubantia.nl)</description>
-			<guid isPermaLink="false">https://www.tubantia.nl/losser/losser-gaat-drie-keer-de-fout-in-met-gegevens-van-inwoners-dit-zijn-de-gevolgen~a1773920/?datalekt=f6b94c1a0036124520bfec95d287361e996bdbeecff3bfe7533252b2b3c91662</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>Man uit Delft veroorzaakte grootschalige verstoring van het noodnummer 112 met geautomatiseerde oproepen</title>
 			<link>https://beveiligingnieuws.nl/man-veroorzaakte-duizenden-valse-112-oproepen/</link>
 			<description>De Landelijke Meldkamer Samenwerking | Overheid: Organisatieonderdeel | 11-12-2025 | DataLekt.nl: Eind 2022 heeft een 47-jarige man uit Delft meer dan 11.000 geautomatiseerde valse oproepen naar het noodnummer 112 verstuurd, waardoor de bereikbaarheid van politie en hulpdiensten ernstig werd verstoord. Hij maakte gebruik van simboxen, computers en anonieme 06-nummers om het noodnummer te overbelasten, op een manier die vergelijkbaar is met een DDoS-aanval. Volgens het Openbaar Ministerie handelde hij uit wraak na een zakelijk conflict met drie zakenpartners. Door de massale oproepen liepen wachttijden gevaarlijk op en konden echte noodmeldingen moeilijk doorkomen, met mogelijk levensgevaarlijke gevolgen. [Update: Op 8 januari 2026 is bekend geworden dat de man is veroordeeld tot een voorwaardelijke gevangenisstraf van acht maanden en een eerder opgelegde boete hoeft hij niet te betalen.] (Bron: beveiligingnieuws.nl)</description>
@@ -783,6 +775,14 @@
 			<guid isPermaLink="false">https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine?datalekt=9c07252ad1545656e9be85e5df4c8eb2a6ab75d1dc2a4f889e7da22eec627fd6</guid>
 			<category>Gezondheids- en welzijnszorg </category>
 			<pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Onvoldoende informatiebeveiliging bij NCTV blootlegt ernstige kwetsbaarheden</title>
+			<link>https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/</link>
+			<description>Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) | Overheid: Organisatieonderdeel | 13-12-2024 | DataLekt.nl: De Auditdienst Rijk constateerde ernstige tekortkomingen in de informatiebeveiliging bij de NCTV, waaronder de mogelijkheid om onbeveiligd gevoelige gegevens te downloaden en kopiëren. Ook zijn tweehonderd usb-sticks met vertrouwelijke informatie zoekgeraakt. Deze problemen kwamen aan het licht na de arrestatie van een medewerker die verdacht wordt van het lekken van staatsgeheimen naar de Marokkaanse inlichtingendienst DGED. De omvang van de schade en het aantal getroffen personen zijn niet bekend. Dit incident benadrukt de noodzaak voor betere beveiligingsmaatregelen. [Update: Op 11 maart 2026 is bekend geworden dat de rechtbank Rotterdam de voormalige NCTV-medewerker heeft veroordeeld tot 20 maanden gevangenisstraf wegens het onrechtmatig bezit van staatsgeheime documenten in zijn woning en op een gegevensdrager in zijn bagage op Schiphol. Er is geen bewijs gevonden dat de documenten zijn gedeeld met de Marokkaanse inlichtingendienst DGED.] (Bron: beveiligingnieuws.nl)</description>
+			<guid isPermaLink="false">https://beveiligingnieuws.nl/beveiliging-bij-nctv-en-politie-schoot-ernstig-tekort/?datalekt=4fc08d839014337222f9b5f665bcc501ea038b85315ec62b1a33dac5febeb7d3</guid>
+			<category>Overheid: Organisatieonderdeel </category>
+			<pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Omvangrijk lek van staatsgeheimen door NCTV-medewerker onthuld</title>
