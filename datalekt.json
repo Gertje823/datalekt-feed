@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://delta.tudelft.nl/article/tu-medewerkers-toch-dupe-van-cyberaanval-odido?datalekt=2457e1f3e5b1183a20987db5a54835deceab60c03bfb5dd92808d35898d9d221",
+        "url": "https://delta.tudelft.nl/article/tu-medewerkers-toch-dupe-van-cyberaanval-odido",
+        "title": "TU Delft-medewerkers getroffen door datalek na cyberaanval op telecomprovider Odido",
+        "date_published": "2026-03-15T13:26:00Z",
+        "date_modified": "2026-03-15T13:26:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tudelft.nl"
+        },
+        "content_html": "",
+        "content_text": "Technische Universiteit Delft | Onderwijs | 12-03-2026 | DataLekt.nl: Bij een cyberaanval op telecomprovider Odido in februari 2026 zijn alsnog gegevens van medewerkers van de TU Delft buitgemaakt. Odido meldde aanvankelijk dat zakelijke abonnementen van de universiteit niet waren getroffen, maar bleek later onjuiste informatie te hebben verstrekt. Hackersgroep Shinyhunters stal gegevens van meer dan 6,2 miljoen klanten en publiceerde deze nadat Odido weigerde ongeveer 1 miljoen euro losgeld te betalen. Van TU-medewerkers zijn onder meer voornaam, achternaam, e-mailadres, mobiel nummer en geboortedatum gelekt. Wachtwoorden of wachtwoordhashes zijn volgens de universiteit niet buitgemaakt. De TU adviseert medewerkers alert te zijn op phishing en fraude. (Bron: delta.tudelft.nl)"
+    },
+    {
+        "id": "https://argos.vpro.nl/artikelen/ict-organisatie-van-justitie-niet-een-maar-twee-keer-gehackt?datalekt=8af321944f707424a572645ea8cea63fb25e6ca98c601f66f321eb54f490781d",
+        "url": "https://argos.vpro.nl/artikelen/ict-organisatie-van-justitie-niet-een-maar-twee-keer-gehackt",
+        "title": "Justiti\u00eble ICT Organisatie gehackt via kwetsbaarheid in Citrix-thuiswerksoftware waardoor mogelijk toegang ontstond tot meerdere justitieorganisaties",
+        "date_published": "2026-03-15T13:19:00Z",
+        "date_modified": "2026-03-15T13:19:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vpro.nl"
+        },
+        "content_html": "",
+        "content_text": "Justiti\u00eble ICT Organisatie (JIO) | Overheid: Organisatieonderdeel | 14-03-2026 | DataLekt.nl: De Justiti\u00eble ICT Organisatie (JIO), die ICT-diensten levert aan het ministerie van Justitie en Veiligheid en meerdere justiti\u00eble organisaties, is in de zomer van 2025 gehackt via een kwetsbaarheid in Citrix-thuiswerksoftware. Volgens onderzoek kregen digitale indringers toegang tot de Citrixomgeving en konden zij mogelijk verder doordringen tot interne systemen van organisaties zoals de Dienst Justiti\u00eble Inrichtingen. Bronnen melden dat een interne firewall door een configuratiefout te veel verkeer toeliet en dat monitoring beperkt werkte, waardoor onduidelijk is hoe ver de aanvallers zijn doorgedrongen. Ondanks adviezen om systemen offline te halen bleef de omgeving online vanwege mogelijke gevolgen voor operationele systemen zoals de monitoring van enkelbanden. (Bron: vpro.nl)"
+    },
+    {
+        "id": "https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij?datalekt=58a8209e80e3a0bc08c635239e78481c4efcaa5378029b235ea2138847a6ab3b",
+        "url": "https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij",
+        "title": "Dienst Justiti\u00eble Inrichtingen getroffen door hack via kwetsbaarheid in Ivanti EPMM-software",
+        "date_published": "2026-02-28T14:15:00Z",
+        "date_modified": "2026-03-15T13:18:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "vpro.nl"
+        },
+        "content_html": "",
+        "content_text": "Dienst Justiti\u00eble Inrichtingen (DJI) | Overheid: Agentschappen | 27-02-2026 | DataLekt.nl: Digitale indringers hadden via een kwetsbaarheid in de beveiligingssoftware Ivanti EPMM zeker vijf maanden toegang tot de systemen van de Dienst Justiti\u00eble Inrichtingen (DJI). Zij konden ongeautoriseerd gegevens van medewerkers, zoals e-mailadressen, telefoonnummers en beveiligingscertificaten, inzien en mobiele apparaten op afstand beheren. Mogelijk konden zij ook locatiegegevens benaderen. De kwetsbaarheid maakte het mogelijk om zonder authenticatie code uit te voeren en achterdeurtjes te plaatsen. DJI heeft het lek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt de precieze omvang en gevolgen. [Update: Op 14 maart 2026 is bekend geworden dat aanvallers via een kwetsbaarheid in Citrix-software bij de Justiti\u00eble ICT Organisatie mogelijk minstens vijf maanden toegang hadden tot systemen van de Dienst Justiti\u00eble Inrichtingen. Door een fout in de interne firewall konden indringers mogelijk verder doordringen in achterliggende systemen.] (Bron: vpro.nl)"
+    },
+    {
         "id": "https://www.security.nl/posting/928028/AP+stuurt+politieke+partijen+waarschuwingsbrief+wegens+gerichte+reclame?datalekt=14a298ddf0f9a27f4322e38f963bf3974ab64eacca96741675b7924f8d484626",
         "url": "https://www.security.nl/posting/928028/AP+stuurt+politieke+partijen+waarschuwingsbrief+wegens+gerichte+reclame",
         "title": "Autoriteit Persoonsgegevens waarschuwt politieke partijen voor overtreden regels rond gerichte online politieke reclame",
@@ -245,19 +284,6 @@
         },
         "content_html": "",
         "content_text": "AkzoNobel | Industrie | 02-03-2026 | DataLekt.nl: AkzoNobel is slachtoffer geworden van een cyberaanval door de ransomwaregroep Anubis, die verantwoordelijkheid heeft opge\u00ebist en een grote hoeveelheid buitgemaakte data op het darknet heeft gepubliceerd. De gelekte informatie omvat kopie\u00ebn van paspoorten van medewerkers of betrokkenen, geheimhoudingsverklaringen met klanten en leveranciers en interne financi\u00eble rapportages. Het is nog onduidelijk hoe de aanvallers toegang hebben gekregen tot de systemen en of er losgeld is ge\u00ebist. De impact kan volgens een cybersecurity-expert aanzienlijk zijn, met mogelijke reputatieschade en juridische claims tot gevolg. AkzoNobel heeft nog niet inhoudelijk gereageerd. (Bron: dutchitchannel.nl)"
-    },
-    {
-        "id": "https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij?datalekt=408f5695ddc4954a230362632f86124cd3b107a08b2609189f91e6c198c4588c",
-        "url": "https://argos.vpro.nl/artikelen/dienst-justitiele-inrichtingen-dji-gehackt-problemen-nog-niet-voorbij",
-        "title": "Dienst Justiti\u00eble Inrichtingen getroffen door hack via kwetsbaarheid in Ivanti EPMM-software",
-        "date_published": "2026-02-28T14:15:00Z",
-        "date_modified": "2026-02-28T14:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "vpro.nl"
-        },
-        "content_html": "",
-        "content_text": "Dienst Justiti\u00eble Inrichtingen (DJI) | Overheid: Agentschappen | 27-02-2026 | DataLekt.nl: Digitale indringers hadden via een kwetsbaarheid in de beveiligingssoftware Ivanti EPMM zeker vijf maanden toegang tot de systemen van de Dienst Justiti\u00eble Inrichtingen (DJI). Zij konden ongeautoriseerd gegevens van medewerkers, zoals e-mailadressen, telefoonnummers en beveiligingscertificaten, inzien en mobiele apparaten op afstand beheren. Mogelijk konden zij ook locatiegegevens benaderen. De kwetsbaarheid maakte het mogelijk om zonder authenticatie code uit te voeren en achterdeurtjes te plaatsen. DJI heeft het lek gemeld bij de Autoriteit Persoonsgegevens en onderzoekt de precieze omvang en gevolgen. (Bron: vpro.nl)"
     },
     {
         "id": "https://www.omroepbrabant.nl/nieuws/6004029/ggze-doet-na-4-maanden-melding-van-mogelijk-datalek?datalekt=ddebc8a46fc72ede88b0d0fb583fac648c80280fd9f57158aaacb9a1cf15bcf4",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Gemeente Heiloo | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: In 2015 deed de gemeente Heiloo mee aan een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer waarbij vertrouwelijke gegevens van vervoerders ZCN Totaalvervoer en Reva Groep onbedoeld openbaar beschikbaar kwamen op TenderNed. Kostprijsberekeningen, tariefopbouw en personeelsinformatie werden niet als vertrouwelijk aangemerkt en konden door concurrenten worden ingezien. Het gerechtshof oordeelde dat de deelnemende gemeenten ernstig onzorgvuldig hebben gehandeld en kende een schadevergoeding toe wegens de gevolgen van dit datalek. (Bron: streekstadcentraal.nl)"
-    },
-    {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=7031f4309ff3050af29c6bbe1f6dea5b658af8ef225fd6c2593c0275d91890af",
-        "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
-        "title": "Gemeente Castricum medeverantwoordelijk voor datalek bij aanbesteding Wmo-vervoer",
-        "date_published": "2025-12-13T17:14:00Z",
-        "date_modified": "2025-12-13T17:14:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "streekstadcentraal.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Castricum | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: De gemeente Castricum nam deel aan een gezamenlijke aanbesteding voor Wmo- en leerlingenvervoer in 2015 waarbij vertrouwelijke bedrijfsinformatie van vervoerders ZCN Totaalvervoer en Reva Groep per ongeluk openbaar werd gemaakt via TenderNed. Door het ontbreken van de juiste vertrouwelijkheidsinstellingen waren gevoelige bijlagen maandenlang toegankelijk voor andere inschrijvers. Volgens het gerechtshof hebben de betrokken gemeenten ernstig onzorgvuldig gehandeld, waardoor de vervoerders schade opliepen in latere aanbestedingen en recht hebben op een schadevergoeding. (Bron: streekstadcentraal.nl)"
-    },
-    {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=026df28173e868cb7ac3210a96e659080d45415d67d47e0f0f3ebace2186e602",
-        "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
-        "title": "Gemeente Bergen betrokken bij datalek tijdens aanbesteding Wmo-vervoer via TenderNed",
-        "date_published": "2025-12-13T17:13:00Z",
-        "date_modified": "2025-12-13T17:13:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "streekstadcentraal.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Bergen | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: De gemeente Bergen was deelnemer aan een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 waarbij vertrouwelijke informatie van vervoerders ZCN Totaalvervoer en Reva Groep onbedoeld openbaar werd gemaakt. Door het niet markeren van bijlagen als vertrouwelijk op TenderNed konden andere geregistreerde gebruikers inzicht krijgen in kostprijzen, tarieven en personeelsinzet. Het gerechtshof stelde vast dat de deelnemende gemeenten ernstig onzorgvuldig hebben gehandeld en dat de schade voor de vervoerders direct samenhing met dit datalek, wat resulteerde in een schadevergoeding. (Bron: streekstadcentraal.nl)"
     }
 ]
