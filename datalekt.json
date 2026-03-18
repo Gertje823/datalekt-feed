@@ -1,5 +1,44 @@
 [
     {
+        "id": "https://www.ncsc.nl/ondernemersverhalen/stygr-zussen-wijzen-instagram-hacker-de-deur?datalekt=0a93c1e6ecab3e75cd0a9bfa402f1a28bee2c4d22310edea96d44caabfe97dc1",
+        "url": "https://www.ncsc.nl/ondernemersverhalen/stygr-zussen-wijzen-instagram-hacker-de-deur",
+        "title": "Modelabel STYGR verliest tijdelijk toegang tot Instagram-account na hack en klanten worden opgelicht via nep-investeringsplatform",
+        "date_published": "2026-03-17T15:16:00Z",
+        "date_modified": "2026-03-17T15:16:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ncsc.nl"
+        },
+        "content_html": "",
+        "content_text": "STYGR | Groot- en detailhandel | 11-03-2026 | DataLekt.nl: Het Instagram-account van modelabel STYGR werd eind 2024 overgenomen door een hacker, vermoedelijk nadat een van de oprichters op een phishinglink had geklikt. De aanvaller veranderde accountgegevens en koppelde een eigen Meta-account, waardoor de eigenaren wekenlang geen toegang hadden. In die periode benaderde de hacker klanten via priv\u00e9berichten met een nep-investeringsplatform, waarbij vier klanten samen circa 10.000 euro verloren. Na meerdere pogingen, onder andere via verificatievideo\u2019s, kregen de eigenaren weer toegang en verwijderden zij de hacker. (Bron: ncsc.nl)"
+    },
+    {
+        "id": "https://www.ad.nl/alphen-aan-den-rijn/honderden-mailadressen-zichtbaar-voor-abonnementhouders-van-vogelpark-avifauna-menselijke-fout~a3602b5a/?datalekt=2aca5410aa0523861e660ccf3f45a5533efa574820f99e8a6ef6a7fb49901b24",
+        "url": "https://www.ad.nl/alphen-aan-den-rijn/honderden-mailadressen-zichtbaar-voor-abonnementhouders-van-vogelpark-avifauna-menselijke-fout~a3602b5a/",
+        "title": "Vogelpark Avifauna verstuurt e-mail waarbij mailadressen van circa 350 abonnementhouders zichtbaar waren door menselijke fout",
+        "date_published": "2026-03-17T15:13:00Z",
+        "date_modified": "2026-03-17T15:13:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "ad.nl"
+        },
+        "content_html": "",
+        "content_text": "Vogelpark Avifauna | Kunst, cultuur, sport en recreatie | 15-03-2026 | DataLekt.nl: Vogelpark Avifauna heeft op 15 maart 2026 per ongeluk een e-mail verstuurd naar abonnementhouders waarbij ongeveer 350 e-mailadressen zichtbaar waren in plaats van verborgen via BCC. De fout ontstond doordat een nazending van vouchers handmatig werd verstuurd in plaats van via een geautomatiseerd mailsysteem. Hierdoor werden alle ontvangers zichtbaar voor elkaar. Volgens Avifauna gaat het uitsluitend om e-mailadressen en zijn geen andere persoonsgegevens gelekt. Het park noemt het incident een menselijke fout en geeft aan dat de betrokkenen nog worden ge\u00efnformeerd. (Bron: ad.nl)"
+    },
+    {
+        "id": "https://www.gld.nl/nieuws/8447356/ict-systemen-gemeente-epe-gehackt-gegevens-gelekt?datalekt=a393d5d0817b62eb53ca7e9b9c3f6df6c666c5a27a6d6315b07e09f5ead3735c",
+        "url": "https://www.gld.nl/nieuws/8447356/ict-systemen-gemeente-epe-gehackt-gegevens-gelekt",
+        "title": "Gemeente Epe meldt hack op ICT-systemen waarbij gegevens van een netwerkschijf zijn gelekt",
+        "date_published": "2026-03-17T15:09:00Z",
+        "date_modified": "2026-03-17T15:09:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "gld.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Epe | Overheid: Gemeenten | 14-03-2026 | DataLekt.nl: Bij de gemeente Epe is op donderdag 12 maart 2026 ingebroken in de ICT-systemen. Daarbij zijn bestanden van \u00e9\u00e9n van de netwerkschijven gelekt. De gemeente onderzocht op 14 maart nog welke gegevens precies zijn buitgemaakt en of daarbij persoonsgegevens van inwoners of anderen betrokken zijn. De systemen zijn volgens de gemeente samen met cyber security-experts gecontroleerd en weer veilig gemaakt, waardoor het gemeentehuis en de digitale dienstverlening konden doorgaan. De inbraak is gemeld bij de Autoriteit Persoonsgegevens. De gemeente waarschuwt betrokkenen om extra alert te zijn op verdachte links in e-mails, sms\u2019jes en appjes. (Bron: gld.nl)"
+    },
+    {
         "id": "https://delta.tudelft.nl/article/tu-medewerkers-toch-dupe-van-cyberaanval-odido?datalekt=2457e1f3e5b1183a20987db5a54835deceab60c03bfb5dd92808d35898d9d221",
         "url": "https://delta.tudelft.nl/article/tu-medewerkers-toch-dupe-van-cyberaanval-odido",
         "title": "TU Delft-medewerkers getroffen door datalek na cyberaanval op telecomprovider Odido",
@@ -1259,44 +1298,5 @@
         },
         "content_html": "",
         "content_text": "ZCN Vervoer | Vervoer en opslag | 11-12-2025 | DataLekt.nl: Bij een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 is vertrouwelijke bedrijfsinformatie van ZCN Vervoor onbedoeld openbaar gemaakt op aanbestedingsplatform TenderNed. Door een fout van de betrokken gemeenten werden bijlagen met kostprijsberekeningen, tariefopbouw en personeelsinzet niet als vertrouwelijk gemarkeerd. Hierdoor konden andere geregistreerde gebruikers, waaronder een concurrerende vervoerder, de gegevens inzien. Het gerechtshof oordeelde dat de gemeenten ernstig onzorgvuldig hebben gehandeld en dat ZCN hierdoor schade heeft geleden, waaronder misgelopen winst, juridische kosten en reputatieschade, waarvoor een schadevergoeding is toegekend. (Bron: streekstadcentraal.nl)"
-    },
-    {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=1b31eb1a757a196311f7d7d3923dd9d50c32e8487fe76b40c5a5c753efe7bc90",
-        "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
-        "title": "Gemeente Langedijk betrokken bij datalek tijdens aanbesteding Wmo-vervoer",
-        "date_published": "2025-12-13T17:17:00Z",
-        "date_modified": "2025-12-13T17:17:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "streekstadcentraal.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Langedijk | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: De voormalige gemeente Langedijk, inmiddels opgegaan in Dijk en Waard, nam deel aan een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 waarbij vertrouwelijke bedrijfsinformatie van vervoerders ZCN Totaalvervoer en Reva Groep onbedoeld openbaar werd gemaakt via TenderNed. Concurrenten konden inzicht krijgen in kostenstructuren en marges. Het gerechtshof oordeelde dat de betrokken gemeenten ernstig onzorgvuldig hebben gehandeld en kende een schadevergoeding toe voor misgelopen winst en andere schadeposten. (Bron: streekstadcentraal.nl)"
-    },
-    {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=71e4f826d12a6cdac63a8d69cd10d749ca6ee29592425c5ccd6ed5170d35cb8d",
-        "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
-        "title": "Gemeente Uitgeest medeaansprakelijk voor datalek bij Wmo-aanbesteding",
-        "date_published": "2025-12-13T17:16:00Z",
-        "date_modified": "2025-12-13T17:16:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "streekstadcentraal.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Uitgeest | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: De gemeente Uitgeest was \u00e9\u00e9n van de zes gemeenten die in 2015 gezamenlijk een Europese aanbesteding voor Wmo- en leerlingenvervoer uitvoerden waarbij vertrouwelijke informatie van vervoerders ZCN Totaalvervoer en Reva Groep openbaar werd gemaakt. Door een fout in de aanbestedingsprocedure werden gevoelige bijlagen op TenderNed niet afgeschermd. Het gerechtshof stelde vast dat dit ernstige onzorgvuldigheid betrof en dat de ontstane schade voor de vervoerders rechtstreeks voortkwam uit dit datalek. (Bron: streekstadcentraal.nl)"
-    },
-    {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=38c7b447793fd2ccc23e5dc8eb412d5e12da2d338dc20fa40aa8a6717f92ae99",
-        "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
-        "title": "Gemeente Heiloo betrokken bij openbaar maken vertrouwelijke aanbestedingsgegevens",
-        "date_published": "2025-12-13T17:15:00Z",
-        "date_modified": "2025-12-13T17:15:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "streekstadcentraal.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Heiloo | Overheid: Gemeenten | 11-12-2025 | DataLekt.nl: In 2015 deed de gemeente Heiloo mee aan een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer waarbij vertrouwelijke gegevens van vervoerders ZCN Totaalvervoer en Reva Groep onbedoeld openbaar beschikbaar kwamen op TenderNed. Kostprijsberekeningen, tariefopbouw en personeelsinformatie werden niet als vertrouwelijk aangemerkt en konden door concurrenten worden ingezien. Het gerechtshof oordeelde dat de deelnemende gemeenten ernstig onzorgvuldig hebben gehandeld en kende een schadevergoeding toe wegens de gevolgen van dit datalek. (Bron: streekstadcentraal.nl)"
     }
 ]
