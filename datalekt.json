@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://www.gld.nl/nieuws/8447356/ict-systemen-gemeente-epe-gehackt-gegevens-gelekt?datalekt=ad67281722156597dfe20fa97799b4386325517100483498a6c1deb67f43b285",
+        "url": "https://www.gld.nl/nieuws/8447356/ict-systemen-gemeente-epe-gehackt-gegevens-gelekt",
+        "title": "Gemeente Epe meldt hack op ICT-systemen waarbij gegevens van een netwerkschijf zijn gelekt",
+        "date_published": "2026-03-17T15:09:00Z",
+        "date_modified": "2026-03-18T09:31:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "gld.nl"
+        },
+        "content_html": "",
+        "content_text": "Gemeente Epe | Overheid: Gemeenten | 14-03-2026 | DataLekt.nl: Bij de gemeente Epe is op donderdag 12 maart 2026 ingebroken in de ICT-systemen. Daarbij zijn bestanden van \u00e9\u00e9n van de netwerkschijven gelekt. De gemeente onderzocht op 14 maart nog welke gegevens precies zijn buitgemaakt en of daarbij persoonsgegevens van inwoners of anderen betrokken zijn. De systemen zijn volgens de gemeente samen met cyber security-experts gecontroleerd en weer veilig gemaakt, waardoor het gemeentehuis en de digitale dienstverlening konden doorgaan. De inbraak is gemeld bij de Autoriteit Persoonsgegevens. De gemeente waarschuwt betrokkenen om extra alert te zijn op verdachte links in e-mails, sms\u2019jes en appjes. [Update: Op 16 maart 2026 is bekend geworden dat circa 600.000 bestanden (\u00b1800 GB), inclusief persoonsgegevens, zijn gestolen van een interne werkschijf. De aanval is uitgevoerd via een ClickFix-misleidingstechniek; onderzoek loopt en betrokkenen worden ge\u00efnformeerd.] (Bron: gld.nl)"
+    },
+    {
         "id": "https://www.ncsc.nl/ondernemersverhalen/stygr-zussen-wijzen-instagram-hacker-de-deur?datalekt=0a93c1e6ecab3e75cd0a9bfa402f1a28bee2c4d22310edea96d44caabfe97dc1",
         "url": "https://www.ncsc.nl/ondernemersverhalen/stygr-zussen-wijzen-instagram-hacker-de-deur",
         "title": "Modelabel STYGR verliest tijdelijk toegang tot Instagram-account na hack en klanten worden opgelicht via nep-investeringsplatform",
@@ -24,19 +37,6 @@
         },
         "content_html": "",
         "content_text": "Vogelpark Avifauna | Kunst, cultuur, sport en recreatie | 15-03-2026 | DataLekt.nl: Vogelpark Avifauna heeft op 15 maart 2026 per ongeluk een e-mail verstuurd naar abonnementhouders waarbij ongeveer 350 e-mailadressen zichtbaar waren in plaats van verborgen via BCC. De fout ontstond doordat een nazending van vouchers handmatig werd verstuurd in plaats van via een geautomatiseerd mailsysteem. Hierdoor werden alle ontvangers zichtbaar voor elkaar. Volgens Avifauna gaat het uitsluitend om e-mailadressen en zijn geen andere persoonsgegevens gelekt. Het park noemt het incident een menselijke fout en geeft aan dat de betrokkenen nog worden ge\u00efnformeerd. (Bron: ad.nl)"
-    },
-    {
-        "id": "https://www.gld.nl/nieuws/8447356/ict-systemen-gemeente-epe-gehackt-gegevens-gelekt?datalekt=a393d5d0817b62eb53ca7e9b9c3f6df6c666c5a27a6d6315b07e09f5ead3735c",
-        "url": "https://www.gld.nl/nieuws/8447356/ict-systemen-gemeente-epe-gehackt-gegevens-gelekt",
-        "title": "Gemeente Epe meldt hack op ICT-systemen waarbij gegevens van een netwerkschijf zijn gelekt",
-        "date_published": "2026-03-17T15:09:00Z",
-        "date_modified": "2026-03-17T15:09:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "gld.nl"
-        },
-        "content_html": "",
-        "content_text": "Gemeente Epe | Overheid: Gemeenten | 14-03-2026 | DataLekt.nl: Bij de gemeente Epe is op donderdag 12 maart 2026 ingebroken in de ICT-systemen. Daarbij zijn bestanden van \u00e9\u00e9n van de netwerkschijven gelekt. De gemeente onderzocht op 14 maart nog welke gegevens precies zijn buitgemaakt en of daarbij persoonsgegevens van inwoners of anderen betrokken zijn. De systemen zijn volgens de gemeente samen met cyber security-experts gecontroleerd en weer veilig gemaakt, waardoor het gemeentehuis en de digitale dienstverlening konden doorgaan. De inbraak is gemeld bij de Autoriteit Persoonsgegevens. De gemeente waarschuwt betrokkenen om extra alert te zijn op verdachte links in e-mails, sms\u2019jes en appjes. (Bron: gld.nl)"
     },
     {
         "id": "https://delta.tudelft.nl/article/tu-medewerkers-toch-dupe-van-cyberaanval-odido?datalekt=2457e1f3e5b1183a20987db5a54835deceab60c03bfb5dd92808d35898d9d221",
