@@ -1,5 +1,31 @@
 [
     {
+        "id": "https://www.nu.nl/tech/6389541/man-gebruikt-deepfakes-om-46-rekeningen-te-openen-bij-abn-amro.html?datalekt=ddf54840209a79c9463aa12f76b95999c1da8a25f5c20f27560702ea6eec969e",
+        "url": "https://www.nu.nl/tech/6389541/man-gebruikt-deepfakes-om-46-rekeningen-te-openen-bij-abn-amro.html",
+        "title": "ABN AMRO getroffen door fraude waarbij deepfakes zijn gebruikt voor het openen van 46 bankrekeningen",
+        "date_published": "2026-03-20T12:04:00Z",
+        "date_modified": "2026-03-20T12:04:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "nu.nl"
+        },
+        "content_html": "",
+        "content_text": "ABN AMRO | Financi\u00eble diensten | 20-03-2026 | DataLekt.nl: Een verdachte heeft met behulp van deepfake-technologie identiteitsbewijzen vervalst en daarmee 46 bankrekeningen geopend bij ABN AMRO op naam van nietsvermoedende slachtoffers. De fraude werd mogelijk doordat de aanvaller gezichten op ID-documenten verving en deze gebruikte in het online verificatieproces van de bank, inclusief selfiecontrole. Gegevens van slachtoffers werden onder meer verkregen via sociale media en misleidende woningadvertenties. De rekeningen zijn gebruikt voor frauduleuze transacties. De zaak kwam aan het licht na een afwijkende verificatie. (Bron: nu.nl)"
+    },
+    {
+        "id": "https://www.rijnmond.nl/amp/nieuws/2168520/stadsarchief-zet-zoekfunctie-op-website-uit-na-massale-computeraanvallen?datalekt=7d61297671749891eb68b3f50de4d8f8f5f24296a20cd19cfe7cace9fa6a0722",
+        "url": "https://www.rijnmond.nl/amp/nieuws/2168520/stadsarchief-zet-zoekfunctie-op-website-uit-na-massale-computeraanvallen",
+        "title": "Stadsarchief Rotterdam schakelt zoekfunctie uit na aanhoudende geautomatiseerde aanvallen op website",
+        "date_published": "2026-03-20T09:30:00Z",
+        "date_modified": "2026-03-20T09:30:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "rijnmond.nl"
+        },
+        "content_html": "",
+        "content_text": "Stadsarchief Rotterdam | Overheid: Gemeenten | 18-03-2026 | DataLekt.nl: Het Stadsarchief Rotterdam heeft de zoekfunctie op zijn website tijdelijk uitgeschakeld na aanhoudende geautomatiseerde aanvallen door bots die de website ernstig vertraagden. Volgens het archief ging het niet om een hack, maar om massaal automatisch verkeer, mogelijk van AI-scrapers of een DDoS-achtige aanval. De problemen begonnen ongeveer twee weken voor de publicatie en leidden tot verminderde prestaties van de site. In overleg met IT-partners is de zoekfunctie uitgeschakeld om de website bereikbaar te houden. Gebruikers worden doorverwezen naar Archieven.nl als alternatief. (Bron: rijnmond.nl)"
+    },
+    {
         "id": "https://www.gld.nl/nieuws/8447356/ict-systemen-gemeente-epe-gehackt-gegevens-gelekt?datalekt=ad67281722156597dfe20fa97799b4386325517100483498a6c1deb67f43b285",
         "url": "https://www.gld.nl/nieuws/8447356/ict-systemen-gemeente-epe-gehackt-gegevens-gelekt",
         "title": "Gemeente Epe meldt hack op ICT-systemen waarbij gegevens van een netwerkschijf zijn gelekt",
@@ -1272,31 +1298,5 @@
         },
         "content_html": "",
         "content_text": "Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 03-09-2021 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) heeft een groot datalek onderzocht dat op 1 september aan het licht kwam. Een hacker verkreeg toegang tot gegevens van studenten, medewerkers en andere contacten via een webformulier. Hoewel de HAN weigerde losgeld te betalen, werden de gegevens online gepubliceerd. Het merendeel van de gelekte gegevens betrof algemene persoonsinformatie, maar in sommige gevallen ging het om gevoelige data zoals BSN-nummers en politieke voorkeuren. De HAN heeft haar excuses aangeboden en informeert de getroffenen over het incident. [Update: Op 6 juli 2024 is bekend geworden dat 5 studenten een schadevergoeding van in totaal \u20ac 1800.] [Update: Op 17 december 2025 is bekend geworden dat de Autoriteit Persoonsgegevens de Hogeschool van Arnhem en Nijmegen een boete van 175.000 euro heeft opgelegd wegens onvoldoende beveiliging van persoonsgegevens, waaronder kwetsbaarheid voor SQL-injectie en het onveilig opslaan van wachtwoorden.] (Bron: erasmusmagazine.nl, tweakers.net)"
-    },
-    {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=2a4b900d031690bf57fac52c1cce9972ef3b33533d084f5df2c90e48b4612161",
-        "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
-        "title": "Bedrijfsgevoelige gegevens van REVA Groep gelekt bij aanbesteding Wmo-vervoer",
-        "date_published": "2025-12-13T17:19:00Z",
-        "date_modified": "2025-12-13T17:19:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "streekstadcentraal.nl"
-        },
-        "content_html": "",
-        "content_text": "REVA Groep | Vervoer en opslag | 11-12-2025 | DataLekt.nl: Tijdens een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 is vertrouwelijke bedrijfsinformatie van REVA Groep onbedoeld openbaar beschikbaar gekomen via TenderNed. Door het niet correct markeren van bijlagen als vertrouwelijk konden andere inschrijvers inzicht krijgen in kostprijsberekeningen, marges en personeelsinzet. Een concurrerende vervoerder heeft deze informatie daadwerkelijk ingezien. Het gerechtshof stelde vast dat de betrokken gemeenten ernstig onzorgvuldig hebben gehandeld en dat REVA Groep hierdoor aantoonbare schade heeft geleden, waaronder misgelopen winst, juridische kosten en reputatieschade, waarvoor een schadevergoeding is toegekend. (Bron: streekstadcentraal.nl)"
-    },
-    {
-        "id": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=52d2730fd2f7ce26bb049422525f90929a7a717a889e0ddb9cfd6960b3d3d118",
-        "url": "https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro",
-        "title": "Vertrouwelijke bedrijfsinformatie van ZCN Vervoer openbaar door fout bij gemeentelijke aanbesteding",
-        "date_published": "2025-12-13T17:18:00Z",
-        "date_modified": "2025-12-13T17:18:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "streekstadcentraal.nl"
-        },
-        "content_html": "",
-        "content_text": "ZCN Vervoer | Vervoer en opslag | 11-12-2025 | DataLekt.nl: Bij een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 is vertrouwelijke bedrijfsinformatie van ZCN Vervoor onbedoeld openbaar gemaakt op aanbestedingsplatform TenderNed. Door een fout van de betrokken gemeenten werden bijlagen met kostprijsberekeningen, tariefopbouw en personeelsinzet niet als vertrouwelijk gemarkeerd. Hierdoor konden andere geregistreerde gebruikers, waaronder een concurrerende vervoerder, de gegevens inzien. Het gerechtshof oordeelde dat de gemeenten ernstig onzorgvuldig hebben gehandeld en dat ZCN hierdoor schade heeft geleden, waaronder misgelopen winst, juridische kosten en reputatieschade, waarvoor een schadevergoeding is toegekend. (Bron: streekstadcentraal.nl)"
     }
 ]

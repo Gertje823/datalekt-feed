@@ -7,7 +7,23 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Thu, 19 Mar 2026 02:30:55 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 21 Mar 2026 02:10:44 +0000</lastBuildDate>
+		<item>
+			<title>ABN AMRO getroffen door fraude waarbij deepfakes zijn gebruikt voor het openen van 46 bankrekeningen</title>
+			<link>https://www.nu.nl/tech/6389541/man-gebruikt-deepfakes-om-46-rekeningen-te-openen-bij-abn-amro.html</link>
+			<description>ABN AMRO | Financiële diensten | 20-03-2026 | DataLekt.nl: Een verdachte heeft met behulp van deepfake-technologie identiteitsbewijzen vervalst en daarmee 46 bankrekeningen geopend bij ABN AMRO op naam van nietsvermoedende slachtoffers. De fraude werd mogelijk doordat de aanvaller gezichten op ID-documenten verving en deze gebruikte in het online verificatieproces van de bank, inclusief selfiecontrole. Gegevens van slachtoffers werden onder meer verkregen via sociale media en misleidende woningadvertenties. De rekeningen zijn gebruikt voor frauduleuze transacties. De zaak kwam aan het licht na een afwijkende verificatie. (Bron: nu.nl)</description>
+			<guid isPermaLink="false">https://www.nu.nl/tech/6389541/man-gebruikt-deepfakes-om-46-rekeningen-te-openen-bij-abn-amro.html?datalekt=ddf54840209a79c9463aa12f76b95999c1da8a25f5c20f27560702ea6eec969e</guid>
+			<category>Financiële diensten </category>
+			<pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Stadsarchief Rotterdam schakelt zoekfunctie uit na aanhoudende geautomatiseerde aanvallen op website</title>
+			<link>https://www.rijnmond.nl/amp/nieuws/2168520/stadsarchief-zet-zoekfunctie-op-website-uit-na-massale-computeraanvallen</link>
+			<description>Stadsarchief Rotterdam | Overheid: Gemeenten | 18-03-2026 | DataLekt.nl: Het Stadsarchief Rotterdam heeft de zoekfunctie op zijn website tijdelijk uitgeschakeld na aanhoudende geautomatiseerde aanvallen door bots die de website ernstig vertraagden. Volgens het archief ging het niet om een hack, maar om massaal automatisch verkeer, mogelijk van AI-scrapers of een DDoS-achtige aanval. De problemen begonnen ongeveer twee weken voor de publicatie en leidden tot verminderde prestaties van de site. In overleg met IT-partners is de zoekfunctie uitgeschakeld om de website bereikbaar te houden. Gebruikers worden doorverwezen naar Archieven.nl als alternatief. (Bron: rijnmond.nl)</description>
+			<guid isPermaLink="false">https://www.rijnmond.nl/amp/nieuws/2168520/stadsarchief-zet-zoekfunctie-op-website-uit-na-massale-computeraanvallen?datalekt=7d61297671749891eb68b3f50de4d8f8f5f24296a20cd19cfe7cace9fa6a0722</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Modelabel STYGR verliest tijdelijk toegang tot Instagram-account na hack en klanten worden opgelicht via nep-investeringsplatform</title>
 			<link>https://www.ncsc.nl/ondernemersverhalen/stygr-zussen-wijzen-instagram-hacker-de-deur</link>
@@ -743,22 +759,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/917758/Politie%3A+verdachte+omzeilde+met+deepfakes+identiteitsverificatie+van+bank?datalekt=f2bd408f782c01122f6d82f5fe090149e1d6f13a00befa0b3e656f6ed45b2cb6</guid>
 			<category>Financiële diensten </category>
 			<pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Bedrijfsgevoelige gegevens van REVA Groep gelekt bij aanbesteding Wmo-vervoer</title>
-			<link>https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro</link>
-			<description>REVA Groep | Vervoer en opslag | 11-12-2025 | DataLekt.nl: Tijdens een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 is vertrouwelijke bedrijfsinformatie van REVA Groep onbedoeld openbaar beschikbaar gekomen via TenderNed. Door het niet correct markeren van bijlagen als vertrouwelijk konden andere inschrijvers inzicht krijgen in kostprijsberekeningen, marges en personeelsinzet. Een concurrerende vervoerder heeft deze informatie daadwerkelijk ingezien. Het gerechtshof stelde vast dat de betrokken gemeenten ernstig onzorgvuldig hebben gehandeld en dat REVA Groep hierdoor aantoonbare schade heeft geleden, waaronder misgelopen winst, juridische kosten en reputatieschade, waarvoor een schadevergoeding is toegekend. (Bron: streekstadcentraal.nl)</description>
-			<guid isPermaLink="false">https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=2a4b900d031690bf57fac52c1cce9972ef3b33533d084f5df2c90e48b4612161</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Vertrouwelijke bedrijfsinformatie van ZCN Vervoer openbaar door fout bij gemeentelijke aanbesteding</title>
-			<link>https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro</link>
-			<description>ZCN Vervoer | Vervoer en opslag | 11-12-2025 | DataLekt.nl: Bij een gezamenlijke Europese aanbesteding voor Wmo- en leerlingenvervoer in 2015 is vertrouwelijke bedrijfsinformatie van ZCN Vervoor onbedoeld openbaar gemaakt op aanbestedingsplatform TenderNed. Door een fout van de betrokken gemeenten werden bijlagen met kostprijsberekeningen, tariefopbouw en personeelsinzet niet als vertrouwelijk gemarkeerd. Hierdoor konden andere geregistreerde gebruikers, waaronder een concurrerende vervoerder, de gegevens inzien. Het gerechtshof oordeelde dat de gemeenten ernstig onzorgvuldig hebben gehandeld en dat ZCN hierdoor schade heeft geleden, waaronder misgelopen winst, juridische kosten en reputatieschade, waarvoor een schadevergoeding is toegekend. (Bron: streekstadcentraal.nl)</description>
-			<guid isPermaLink="false">https://streekstadcentraal.nl/60209160-fout-in-aanbesteding-wmo-vervoer-kost-zes-gemeenten-alsnog-135-000-euro?datalekt=52d2730fd2f7ce26bb049422525f90929a7a717a889e0ddb9cfd6960b3d3d118</guid>
-			<category>Vervoer en opslag </category>
-			<pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Man uit Delft veroorzaakte grootschalige verstoring van het noodnummer 112 met geautomatiseerde oproepen</title>
