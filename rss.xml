@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sat, 21 Mar 2026 02:10:44 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 22 Mar 2026 02:31:34 +0000</lastBuildDate>
+		<item>
+			<title>Innova Energie getroffen door datalek door medewerker die klantgegevens heeft gestolen</title>
+			<link>https://www.security.nl/posting/929184/Innova+Energie+waarschuwt+klanten+voor+datalek+van+persoonsgegevens</link>
+			<description>Innova Energie | Energie en warmtevoorziening | 19-03-2026 | DataLekt.nl: Energieleverancier Innova Energie heeft een datalek gemeld waarbij een medewerker klantgegevens heeft gestolen. Het gaat om persoonsgegevens zoals naam, geboortedatum, contactgegevens, adres en bankrekeningnummer. Het incident is intern ontstaan door misbruik van toegangsrechten door de medewerker. Innova Energie heeft de medewerker ontslagen, aangifte gedaan bij het Openbaar Ministerie en melding gemaakt bij de Autoriteit Persoonsgegevens. Het is niet bekend hoeveel klanten zijn getroffen. Het bedrijf zegt maatregelen te hebben genomen om herhaling te voorkomen. (Bron: security.nl)</description>
+			<guid isPermaLink="false">https://www.security.nl/posting/929184/Innova+Energie+waarschuwt+klanten+voor+datalek+van+persoonsgegevens?datalekt=4a4affc445753b8760f7dd88f77ec5261107abad8a010e3ce9bf6d9230c1e9e2</guid>
+			<category>Energie en warmtevoorziening </category>
+			<pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>ABN AMRO getroffen door fraude waarbij deepfakes zijn gebruikt voor het openen van 46 bankrekeningen</title>
 			<link>https://www.nu.nl/tech/6389541/man-gebruikt-deepfakes-om-46-rekeningen-te-openen-bij-abn-amro.html</link>
@@ -799,14 +807,6 @@
 			<guid isPermaLink="false">https://nos.nl/artikel/2463880-asml-slachtoffer-van-datadiefstal-door-ex-werknemer-in-china?datalekt=b3c9ed2926f9fc3a2b3cc279857e0e8934db932a9161606b8289daee07950da6</guid>
 			<category>Industrie </category>
 			<pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Datalek bij Hogeschool van Arnhem en Nijmegen treft half miljoen mensen</title>
-			<link>https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/</link>
-			<description>Hogeschool Arnhem Nijmegen (HAN) | Onderwijs | 03-09-2021 | DataLekt.nl: De Hogeschool van Arnhem en Nijmegen (HAN) heeft een groot datalek onderzocht dat op 1 september aan het licht kwam. Een hacker verkreeg toegang tot gegevens van studenten, medewerkers en andere contacten via een webformulier. Hoewel de HAN weigerde losgeld te betalen, werden de gegevens online gepubliceerd. Het merendeel van de gelekte gegevens betrof algemene persoonsinformatie, maar in sommige gevallen ging het om gevoelige data zoals BSN-nummers en politieke voorkeuren. De HAN heeft haar excuses aangeboden en informeert de getroffenen over het incident. [Update: Op 6 juli 2024 is bekend geworden dat 5 studenten een schadevergoeding van in totaal € 1800.] [Update: Op 17 december 2025 is bekend geworden dat de Autoriteit Persoonsgegevens de Hogeschool van Arnhem en Nijmegen een boete van 175.000 euro heeft opgelegd wegens onvoldoende beveiliging van persoonsgegevens, waaronder kwetsbaarheid voor SQL-injectie en het onveilig opslaan van wachtwoorden.] (Bron: erasmusmagazine.nl, tweakers.net)</description>
-			<guid isPermaLink="false">https://www.erasmusmagazine.nl/2021/10/06/half-miljoen-gedupeerden-bij-hack-hogeschool/?datalekt=84d0eb76d45552a029571a003eef4bef6178f97283ddd05b9ec806a548a5e947</guid>
-			<category>Onderwijs </category>
-			<pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
