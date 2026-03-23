@@ -7,7 +7,15 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Sun, 22 Mar 2026 02:31:34 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 23 Mar 2026 02:32:08 +0000</lastBuildDate>
+		<item>
+			<title>Gemeente Capelle aan den IJssel lekte door een menselijke fout dossiers van Wmo-cliënten die gebruikmaken van Trevvel Samen</title>
+			<link>https://www.ad.nl/capelle-aan-den-ijssel/dossiers-van-kwetsbare-inwoners-op-straat-door-menselijke-fout-dit-had-niet-gedeeld-mogen-worden~a934e34a/</link>
+			<description>Gemeente Capelle aan den IJssel | Overheid: Gemeenten | 20-03-2026 | DataLekt.nl: Bij de gemeente Capelle aan den IJssel zijn door een menselijke fout persoonsgegevens van bijna vijfduizend Wmo-cliënten openbaar geworden. Het ging om volledige dossiers van kwetsbare inwoners die gebruik mogen maken van de taxibusjes van Trevvel Samen. Uit de bron blijkt dat een medewerker een verkeerd document online heeft geplaatst. De gemeente heeft het datalek gemeld bij de Autoriteit Persoonsgegevens en zegt voortaan bestanden door meerdere mensen te laten controleren voordat die worden gedeeld. De impact is dat persoonsgegevens van bijna vijfduizend betrokkenen op straat kwamen te liggen. (Bron: ad.nl)</description>
+			<guid isPermaLink="false">https://www.ad.nl/capelle-aan-den-ijssel/dossiers-van-kwetsbare-inwoners-op-straat-door-menselijke-fout-dit-had-niet-gedeeld-mogen-worden~a934e34a/?datalekt=d2a73eb175d5917c608fca88d2f5ad9feb0f12ea98927fe83d85ebd95ce1a0bd</guid>
+			<category>Overheid: Gemeenten </category>
+			<pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Innova Energie getroffen door datalek door medewerker die klantgegevens heeft gestolen</title>
 			<link>https://www.security.nl/posting/929184/Innova+Energie+waarschuwt+klanten+voor+datalek+van+persoonsgegevens</link>
@@ -759,14 +767,6 @@
 			<guid isPermaLink="false">https://www.security.nl/posting/918012/Gemeente+Eindhoven+lekt+persoonlijke+gegevens+inwoners+via+AI-websites?datalekt=351c72fd2203d64f44af295b0e3332df5b03fc5d4c5ef7cab64ef517d73c0f63</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Digitale identiteitsverificatie van een Nederlandse bank omzeild via deepfakes voor het openen van rekeningen</title>
-			<link>https://www.security.nl/posting/917758/Politie%3A+verdachte+omzeilde+met+deepfakes+identiteitsverificatie+van+bank</link>
-			<description>Onbekende bank | Financiële diensten | 17-12-2025 | DataLekt.nl: De politie heeft een 34-jarige man uit Amsterdam aangehouden die met behulp van deepfake-technieken het digitale identiteitsverificatieproces van een Nederlandse bank wist te omzeilen. Door misleiding van slachtoffers verkreeg hij identiteitsdocumenten, die hij vervolgens manipuleerde om als andere personen toegang te krijgen tot het banksysteem en bankrekeningen te openen. In totaal werden 46 rekeningen op naam van derden geopend en gebruikt voor fraude. Er is geen sprake van een technische systeeminbraak of bevestigd datalek bij de bank; wel is een beveiligingsproces binnen het informatiesysteem succesvol omzeild. Betrokken partijen hebben maatregelen genomen. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/917758/Politie%3A+verdachte+omzeilde+met+deepfakes+identiteitsverificatie+van+bank?datalekt=f2bd408f782c01122f6d82f5fe090149e1d6f13a00befa0b3e656f6ed45b2cb6</guid>
-			<category>Financiële diensten </category>
-			<pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Man uit Delft veroorzaakte grootschalige verstoring van het noodnummer 112 met geautomatiseerde oproepen</title>
