@@ -7,7 +7,39 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Mon, 23 Mar 2026 02:32:08 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 27 Mar 2026 02:37:56 +0000</lastBuildDate>
+		<item>
+			<title>Politie Nederland doelwit van phishingpoging waarbij toegang snel werd geblokkeerd</title>
+			<link>https://www.politie.nl/nieuws/2026/maart/25/00-politie-doelwit-van-phishing.html</link>
+			<description>Nationale Politie | Overheid: Politie | 25-03-2026 | DataLekt.nl: De politie in Nederland is getroffen door een phishingpoging waarbij cybercriminelen probeerden toegang te krijgen tot systemen. Het Security Operations Center ontdekte de aanval snel en sloot de toegang direct af. Volgens de politie lijkt de impact beperkt en zijn er geen aanwijzingen dat burgergegevens of onderzoeksinformatie toegankelijk zijn geweest. Er is een opsporingsonderzoek gestart naar de daders. Het incident toont aan dat aanvallers via misleidende communicatie proberen inloggegevens te verkrijgen, maar dat monitoring en snelle detectie schade kunnen beperken. (Bron: politie.nl)</description>
+			<guid isPermaLink="false">https://www.politie.nl/nieuws/2026/maart/25/00-politie-doelwit-van-phishing.html?datalekt=fcd5465bfd008511ec9df8979f1a8ea76e8588ab2c85b257677f773c1f32ae32</guid>
+			<category>Overheid: Politie </category>
+			<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ajax getroffen door kwetsbaarheden in app en website waardoor e-mailadressen en stadionverbodgegevens toegankelijk waren</title>
+			<link>https://tweakers.net/nieuws/246128/ajax-meldt-datalek-van-e-mailadressen-en-info-over-stadionverboden.html</link>
+			<description>AFC Ajax | Kunst, cultuur, sport en recreatie | 25-03-2026 | DataLekt.nl: Ajax meldt een datalek na ontdekking van kwetsbaarheden in de eigen app en website door een beveiligingsonderzoeker. Door ontbrekende authenticatie konden accounts en tickets zonder wachtwoord worden benaderd en aangepast. Daarnaast gaf een onbeveiligde api met beheerdersrechten toegang tot gevoelige gegevens, waaronder informatie over stadionverboden, die ook gewijzigd konden worden. E-mailadressen van enkele honderden personen zijn buitgemaakt en mogelijk waren gegevens van honderdduizenden gebruikers inzichtelijk. Er zijn geen aanwijzingen dat de data is misbruikt. Ajax heeft de kwetsbaarheden verholpen en melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/246128/ajax-meldt-datalek-van-e-mailadressen-en-info-over-stadionverboden.html?datalekt=4a4e97e8336e84278050acea1fb671805c632079056a5a9727b7de4c661a0140</guid>
+			<category>Kunst, cultuur, sport en recreatie </category>
+			<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>DigiD van Logius tijdelijk onbereikbaar door ddos-aanvallen</title>
+			<link>https://tweakers.net/nieuws/246020/digid-heeft-storing-vanwege-ddos-aanvallen.html</link>
+			<description>Logius | Overheid: Agentschappen | 23-03-2026 | DataLekt.nl: De authenticatiedienst DigiD was op 23 maart 2026 gedurende meerdere uren verminderd beschikbaar door terugkerende ddos-aanvallen, waarbij systemen werden overspoeld met verkeer om de dienst te verstoren. De eerste meldingen begonnen rond 10.30 uur en volgens Logius was de dienst vanaf 11.00 uur officieel verstoord. De aanvallen werden later op de dag afgeslagen, waarna de dienstverlening rond 17.35 uur herstelde. Het is onbekend wie verantwoordelijk is voor de aanvallen. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/246020/digid-heeft-storing-vanwege-ddos-aanvallen.html?datalekt=da589e4b9b9f9b03db96528f7620c3c72c11878c5dbcccc8d3a5d953aef1d173</guid>
+			<category>Overheid: Agentschappen </category>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ministerie van Financiën onderzoekt ongeautoriseerde toegang tot systemen op het beleidsdepartement</title>
+			<link>https://tweakers.net/nieuws/246032/ministerie-van-financien-is-getroffen-door-een-cyberincident.html</link>
+			<description>Ministerie van Financiën (Fin) | Overheid: Ministeries | 23-03-2026 | DataLekt.nl: Het ministerie van Financiën heeft gemeld dat op 19-03-2026 ongeautoriseerde toegang is gesignaleerd tot systemen voor een aantal primaire processen op het beleidsdepartement. Daarna is direct onderzoek gestart en is op 23-03-2026 de toegang tot de getroffen systemen geblokkeerd. Welke systemen precies zijn geraakt, hoe de indringer is binnengekomen en of gegevens zijn ingezien of buitgemaakt, is nog niet bekend. Volgens het ministerie zijn Belastingdienst, Douane en Toeslagen niet geraakt en is de dienstverlening aan burgers en bedrijven niet verstoord. (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/246032/ministerie-van-financien-is-getroffen-door-een-cyberincident.html?datalekt=9eb270211524f3e23687458db7de233c41ccc9fbf43a45ac5267011b04205c9c</guid>
+			<category>Overheid: Ministeries </category>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+		</item>
 		<item>
 			<title>Gemeente Capelle aan den IJssel lekte door een menselijke fout dossiers van Wmo-cliënten die gebruikmaken van Trevvel Samen</title>
 			<link>https://www.ad.nl/capelle-aan-den-ijssel/dossiers-van-kwetsbare-inwoners-op-straat-door-menselijke-fout-dit-had-niet-gedeeld-mogen-worden~a934e34a/</link>
@@ -735,38 +767,6 @@
 			<guid isPermaLink="false">https://www.bndestem.nl/hoeksche-waard/papieren-van-1200-overledenen-lagen-voor-het-grijpen-partij-in-nissewaard-eist-opheldering~ae4ae439/?datalekt=9a81ec2f9d3e34a1bfc8ad80c3f4627677e0e593a5f27bc0fe3ee085f58939a1</guid>
 			<category>Overheid: Gemeenten </category>
 			<pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>ADO Den Haag getroffen door hack met beperkt datalek</title>
-			<link>https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack</link>
-			<description>ADO Den Haag | Kunst, cultuur, sport en recreatie | 17-12-2025 | DataLekt.nl: ADO Den Haag heeft in de zomer van 2025 te maken gehad met een hack waarbij een beperkt datalek is ontstaan. Dat blijkt uit het jaarverslag over het afgelopen seizoen. De club meldt dat onbekenden ongeautoriseerde toegang tot systemen hebben gekregen, maar geeft geen details over welke gegevens zijn buitgemaakt. Volgens ADO is het incident in nauw overleg met de IT-partner afgehandeld, zijn alle betrokkenen tijdig geïnformeerd en is melding gedaan bij de Autoriteit Persoonsgegevens. Daarnaast zijn procedures gevolgd om toekomstige risico’s te beperken. (Bron: clubachterdeduinen.nl)</description>
-			<guid isPermaLink="false">https://www.clubachterdeduinen.nl/nieuws/ado-getroffen-door-hack?datalekt=53c650dd54075b50b2d9f0655ee03aa6e6a1443a2093da0ba0524c4984ed877d</guid>
-			<category>Kunst, cultuur, sport en recreatie </category>
-			<pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Doesburg schiet structureel tekort in AVG-naleving bij toezicht door Autoriteit Persoonsgegevens</title>
-			<link>https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming</link>
-			<description>Gemeente Doesburg | Overheid: Gemeenten | 18-12-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) concludeert na een toezichtsbezoek dat de gemeente Doesburg de basis van de AVG-naleving niet op orde heeft. De AP constateerde onder meer een verouderd en onvolledig verwerkingsregister, ontbrekende of onvoldoende uitgevoerde DPIA’s en een periode waarin geen functionaris gegevensbescherming was aangewezen, ondanks de wettelijke verplichting daartoe. Ook is de beschikbare FG-capaciteit volgens de AP onvoldoende om de wettelijke taken uit te voeren. De tekortkomingen hangen samen met beperkte capaciteit bij de kleine gemeente en het lopende herindelingsproces. De AP heeft aanbevelingen gedaan, maar geen boete opgelegd. (Bron: autoriteitpersoonsgegevens.nl)</description>
-			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming?datalekt=75ae85585ffe5e1c1fbd3ba6b4763253b9e720a37c15b676c02505cd4ba50d5f</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Breda voldoet onvoldoende aan AVG-eisen rond DPIA’s, verwerkingsregister en rol van FG</title>
-			<link>https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming</link>
-			<description>Gemeente Breda | Overheid: Gemeenten | 18-12-2025 | DataLekt.nl: De Autoriteit Persoonsgegevens (AP) heeft na een toezichtsbezoek vastgesteld dat de gemeente Breda niet volledig voldoet aan de verplichtingen uit de Algemene Verordening Gegevensbescherming (AVG). De tekortkomingen hebben betrekking op een onvolledig en deels onjuist verwerkingsregister, het ontbreken van wettelijk verplichte DPIA’s voor diverse verwerkingen en een beperkte structurele betrokkenheid van de functionaris gegevensbescherming (FG) bij het bestuur. Hoewel ook positieve bevindingen zijn gedaan, concludeert de AP dat met name het DPIA-proces verbetering behoeft. De AP heeft Breda niet beboet, maar wel niet-vrijblijvende aanbevelingen gedaan om de naleving van de AVG te verbeteren. (Bron: autoriteitpersoonsgegevens.nl)</description>
-			<guid isPermaLink="false">https://www.autoriteitpersoonsgegevens.nl/documenten/brieven-aan-breda-en-doesburg-over-gegevensbescherming?datalekt=2b22a71dae1c185e471948a0f1c5591dbd7ab26ff32a6650d756084906d4fc7b</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gemeente Eindhoven lekte gevoelige persoonsgegevens van inwoners en medewerkers via openbare AI-websites</title>
-			<link>https://www.security.nl/posting/918012/Gemeente+Eindhoven+lekt+persoonlijke+gegevens+inwoners+via+AI-websites</link>
-			<description>Gemeente Eindhoven | Overheid: Gemeenten | 19-12-2025 | DataLekt.nl: De gemeente Eindhoven heeft in de periode van 23 september tot 23 oktober 2025 duizenden interne bestanden met gevoelige en bijzondere persoonsgegevens geüpload naar openbare AI-websites, waaronder mogelijk ChatGPT. Dit gebeurde doordat medewerkers deze AI-diensten gebruikten voor hun werk. Onderzoekers stellen dat het gaat om gegevens van vermoedelijk veel betrokkenen, waaronder informatie over jeugdzorg, WMO-dossiers, BSN-nummers, medische en mentale gezondheid en interne personeelsdocumenten. De gemeente kan niet vaststellen van wie de gegevens zijn gelekt en informeert betrokkenen daarom niet individueel. Misbruik van de data is volgens experts niet uitgesloten. Het datalek is op 23 oktober gemeld bij de Autoriteit Persoonsgegevens. (Bron: security.nl)</description>
-			<guid isPermaLink="false">https://www.security.nl/posting/918012/Gemeente+Eindhoven+lekt+persoonlijke+gegevens+inwoners+via+AI-websites?datalekt=351c72fd2203d64f44af295b0e3332df5b03fc5d4c5ef7cab64ef517d73c0f63</guid>
-			<category>Overheid: Gemeenten </category>
-			<pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Man uit Delft veroorzaakte grootschalige verstoring van het noodnummer 112 met geautomatiseerde oproepen</title>
