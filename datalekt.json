@@ -1,5 +1,18 @@
 [
     {
+        "id": "https://tweakers.net/nieuws/246128/ajax-meldt-datalek-van-e-mailadressen-en-info-over-stadionverboden.html?datalekt=ab945180e4644e0c10e62551379f82300f07e382336f78a3e24ae305bcc56de0",
+        "url": "https://tweakers.net/nieuws/246128/ajax-meldt-datalek-van-e-mailadressen-en-info-over-stadionverboden.html",
+        "title": "Ajax getroffen door kwetsbaarheden in app en website waardoor e-mailadressen en stadionverbodgegevens toegankelijk waren",
+        "date_published": "2026-03-26T09:05:00Z",
+        "date_modified": "2026-03-28T08:40:00Z",
+        "language": "nl-nl",
+        "author": {
+            "name": "tweakers.net"
+        },
+        "content_html": "",
+        "content_text": "AFC Ajax | Kunst, cultuur, sport en recreatie | 25-03-2026 | DataLekt.nl: Ajax meldt een datalek na ontdekking van kwetsbaarheden in de eigen app en website door een beveiligingsonderzoeker. Door ontbrekende authenticatie konden accounts en tickets zonder wachtwoord worden benaderd en aangepast. Daarnaast gaf een onbeveiligde api met beheerdersrechten toegang tot gevoelige gegevens, waaronder informatie over stadionverboden, die ook gewijzigd konden worden. E-mailadressen van enkele honderden personen zijn buitgemaakt en mogelijk waren gegevens van honderdduizenden gebruikers inzichtelijk. Er zijn geen aanwijzingen dat de data is misbruikt. Ajax heeft de kwetsbaarheden verholpen en melding gedaan bij de Autoriteit Persoonsgegevens. [Update: Op 26 maart 2026 is bekend geworden dat Ajax het datalek al in 2017 had, maar dit destijds niet openbaar heeft gemaakt en via een geheimhoudingsovereenkomst heeft afgehandeld.] (Bron: tweakers.net)"
+    },
+    {
         "id": "https://www.politie.nl/nieuws/2026/maart/25/00-politie-doelwit-van-phishing.html?datalekt=fcd5465bfd008511ec9df8979f1a8ea76e8588ab2c85b257677f773c1f32ae32",
         "url": "https://www.politie.nl/nieuws/2026/maart/25/00-politie-doelwit-van-phishing.html",
         "title": "Politie Nederland doelwit van phishingpoging waarbij toegang snel werd geblokkeerd",
@@ -11,19 +24,6 @@
         },
         "content_html": "",
         "content_text": "Nationale Politie | Overheid: Politie | 25-03-2026 | DataLekt.nl: De politie in Nederland is getroffen door een phishingpoging waarbij cybercriminelen probeerden toegang te krijgen tot systemen. Het Security Operations Center ontdekte de aanval snel en sloot de toegang direct af. Volgens de politie lijkt de impact beperkt en zijn er geen aanwijzingen dat burgergegevens of onderzoeksinformatie toegankelijk zijn geweest. Er is een opsporingsonderzoek gestart naar de daders. Het incident toont aan dat aanvallers via misleidende communicatie proberen inloggegevens te verkrijgen, maar dat monitoring en snelle detectie schade kunnen beperken. (Bron: politie.nl)"
-    },
-    {
-        "id": "https://tweakers.net/nieuws/246128/ajax-meldt-datalek-van-e-mailadressen-en-info-over-stadionverboden.html?datalekt=4a4e97e8336e84278050acea1fb671805c632079056a5a9727b7de4c661a0140",
-        "url": "https://tweakers.net/nieuws/246128/ajax-meldt-datalek-van-e-mailadressen-en-info-over-stadionverboden.html",
-        "title": "Ajax getroffen door kwetsbaarheden in app en website waardoor e-mailadressen en stadionverbodgegevens toegankelijk waren",
-        "date_published": "2026-03-26T09:05:00Z",
-        "date_modified": "2026-03-26T09:05:00Z",
-        "language": "nl-nl",
-        "author": {
-            "name": "tweakers.net"
-        },
-        "content_html": "",
-        "content_text": "AFC Ajax | Kunst, cultuur, sport en recreatie | 25-03-2026 | DataLekt.nl: Ajax meldt een datalek na ontdekking van kwetsbaarheden in de eigen app en website door een beveiligingsonderzoeker. Door ontbrekende authenticatie konden accounts en tickets zonder wachtwoord worden benaderd en aangepast. Daarnaast gaf een onbeveiligde api met beheerdersrechten toegang tot gevoelige gegevens, waaronder informatie over stadionverboden, die ook gewijzigd konden worden. E-mailadressen van enkele honderden personen zijn buitgemaakt en mogelijk waren gegevens van honderdduizenden gebruikers inzichtelijk. Er zijn geen aanwijzingen dat de data is misbruikt. Ajax heeft de kwetsbaarheden verholpen en melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: tweakers.net)"
     },
     {
         "id": "https://tweakers.net/nieuws/246020/digid-heeft-storing-vanwege-ddos-aanvallen.html?datalekt=da589e4b9b9f9b03db96528f7620c3c72c11878c5dbcccc8d3a5d953aef1d173",

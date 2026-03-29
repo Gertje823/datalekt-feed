@@ -7,7 +7,7 @@
 		<docs>https://github.com/Gertje823/datalekt-feed</docs>
 		<generator>python-feedgen</generator>
 		<language>nl</language>
-		<lastBuildDate>Fri, 27 Mar 2026 02:37:56 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 29 Mar 2026 02:41:31 +0000</lastBuildDate>
 		<item>
 			<title>Politie Nederland doelwit van phishingpoging waarbij toegang snel werd geblokkeerd</title>
 			<link>https://www.politie.nl/nieuws/2026/maart/25/00-politie-doelwit-van-phishing.html</link>
@@ -19,8 +19,8 @@
 		<item>
 			<title>Ajax getroffen door kwetsbaarheden in app en website waardoor e-mailadressen en stadionverbodgegevens toegankelijk waren</title>
 			<link>https://tweakers.net/nieuws/246128/ajax-meldt-datalek-van-e-mailadressen-en-info-over-stadionverboden.html</link>
-			<description>AFC Ajax | Kunst, cultuur, sport en recreatie | 25-03-2026 | DataLekt.nl: Ajax meldt een datalek na ontdekking van kwetsbaarheden in de eigen app en website door een beveiligingsonderzoeker. Door ontbrekende authenticatie konden accounts en tickets zonder wachtwoord worden benaderd en aangepast. Daarnaast gaf een onbeveiligde api met beheerdersrechten toegang tot gevoelige gegevens, waaronder informatie over stadionverboden, die ook gewijzigd konden worden. E-mailadressen van enkele honderden personen zijn buitgemaakt en mogelijk waren gegevens van honderdduizenden gebruikers inzichtelijk. Er zijn geen aanwijzingen dat de data is misbruikt. Ajax heeft de kwetsbaarheden verholpen en melding gedaan bij de Autoriteit Persoonsgegevens. (Bron: tweakers.net)</description>
-			<guid isPermaLink="false">https://tweakers.net/nieuws/246128/ajax-meldt-datalek-van-e-mailadressen-en-info-over-stadionverboden.html?datalekt=4a4e97e8336e84278050acea1fb671805c632079056a5a9727b7de4c661a0140</guid>
+			<description>AFC Ajax | Kunst, cultuur, sport en recreatie | 25-03-2026 | DataLekt.nl: Ajax meldt een datalek na ontdekking van kwetsbaarheden in de eigen app en website door een beveiligingsonderzoeker. Door ontbrekende authenticatie konden accounts en tickets zonder wachtwoord worden benaderd en aangepast. Daarnaast gaf een onbeveiligde api met beheerdersrechten toegang tot gevoelige gegevens, waaronder informatie over stadionverboden, die ook gewijzigd konden worden. E-mailadressen van enkele honderden personen zijn buitgemaakt en mogelijk waren gegevens van honderdduizenden gebruikers inzichtelijk. Er zijn geen aanwijzingen dat de data is misbruikt. Ajax heeft de kwetsbaarheden verholpen en melding gedaan bij de Autoriteit Persoonsgegevens. [Update: Op 26 maart 2026 is bekend geworden dat Ajax het datalek al in 2017 had, maar dit destijds niet openbaar heeft gemaakt en via een geheimhoudingsovereenkomst heeft afgehandeld.] (Bron: tweakers.net)</description>
+			<guid isPermaLink="false">https://tweakers.net/nieuws/246128/ajax-meldt-datalek-van-e-mailadressen-en-info-over-stadionverboden.html?datalekt=ab945180e4644e0c10e62551379f82300f07e382336f78a3e24ae305bcc56de0</guid>
 			<category>Kunst, cultuur, sport en recreatie </category>
 			<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
 		</item>
